@@ -1,5 +1,12 @@
 [
   {
+    "game": "Crossfire_Brasil_SA",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777500783,
+    "filename": "Crossfire_Brasil_SA-Xiaomi-2410FPCC5G-Mali-G52_MC2-1777500783.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777486419,
     "filename": "MotoGP_26-AYANEO-Pocket_FIT-Adreno__TM__750-1777486419.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1777484983,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1777484983.json"
   }
 ]
