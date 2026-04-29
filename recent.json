@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "S928U1",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777495502,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-S928U1-Adreno__TM__750-1777495502.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1777483459,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S921B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1777483459.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Unity",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777482958,
-    "filename": "Assassin_s_Creed__Unity-Xiaomi-25053PC47G-Adreno__TM__825-1777482958.json"
   }
 ]
