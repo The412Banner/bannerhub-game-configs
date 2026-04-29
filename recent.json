@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shank_2",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1777504351,
+    "filename": "Shank_2-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777504351.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777487323,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S911B-Adreno__TM__740-1777487323.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777487250,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1777487250.json"
   }
 ]
