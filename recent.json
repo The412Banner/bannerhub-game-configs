@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777489244,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A065M-Mali-G52_MC2-1777489244.json"
+  },
+  {
     "game": "Left_4_Dead",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1777481430,
     "filename": "Prince_of_Persia_-_The_Forgotten_Sands-vivo-V2439-Mali-G615_MC2-1777481430.json"
-  },
-  {
-    "game": "Terminator_2D_NO_FATE",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1777478269,
-    "filename": "Terminator_2D_NO_FATE-samsung-SM-A346E-Mali-G68_MC4-1777478269.json"
   }
 ]
