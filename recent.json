@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1777502230,
+    "filename": "God_of_War-Xiaomi-22041216G-Mali-G610_MC6-1777502230.json"
+  },
+  {
     "game": "Sleeping_Dogs__Definitive_Edition",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1777486749,
     "filename": "Disney_Princesas_Viagem_Encantada-motorola-motorola_edge_30_pro-Adreno__TM__730-1777486749.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777486725,
-    "filename": "PlayGTAV-OSCAL-MODERN_8-Mali-G57-1777486725.json"
   }
 ]
