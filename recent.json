@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Crew__2",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1777486805,
+    "filename": "The_Crew__2-Xiaomi-21061110AG-Mali-G77_MC9-1777486805.json"
+  },
+  {
     "game": "Disney_Princesas_Viagem_Encantada",
     "manufacturer": "motorola_edge_30_pro",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777475489,
     "filename": "Resident_Evil_3-samsung-SM-G781B-Adreno__TM__650-1777475489.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777475085,
-    "filename": "Resident_Evil_6-samsung-SM-A155F-Mali-G57_MC2-1777475085.json"
   }
 ]
