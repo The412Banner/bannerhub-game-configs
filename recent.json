@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S926B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1777497257,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1777497257.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "S928U1",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1777483622,
     "filename": "Assassin_s_Creed__Syndicate-samsung-SM-A146M-Mali-G68-1777483622.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "S921B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1777483459,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S921B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1777483459.json"
   }
 ]
