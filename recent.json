@@ -1,5 +1,12 @@
 [
   {
+    "game": "Terminator_2D_NO_FATE",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777478269,
+    "filename": "Terminator_2D_NO_FATE-samsung-SM-A346E-Mali-G68_MC4-1777478269.json"
+  },
+  {
     "game": "HKShip",
     "manufacturer": "ASUS_AI2205_C",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777462579,
     "filename": "BootstrapPackagedGame-nubia-NX809J-Adreno__TM__840-1777462579.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777459948,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-ITEL-itel_P661N-Mali-G57_MC2-1777459948.json"
   }
 ]
