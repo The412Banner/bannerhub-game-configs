@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Syndicate",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1777483622,
+    "filename": "Assassin_s_Creed__Syndicate-samsung-SM-A146M-Mali-G68-1777483622.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "S921B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777469248,
     "filename": "Resident_Evil_4-OnePlus-OPD2403-Adreno__TM__750-1777469248.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Redmi_Note_9S",
-    "device": "Adreno__TM__618",
-    "timestamp": 1777468257,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1777468257.json"
   }
 ]
