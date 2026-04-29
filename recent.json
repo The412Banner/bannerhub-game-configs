@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1777505845,
+    "filename": "Euro_Truck_Simulator_2-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1777505845.json"
+  },
+  {
     "game": "RESIDENT_EVIL_5",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777489244,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A065M-Mali-G52_MC2-1777489244.json"
-  },
-  {
-    "game": "Left_4_Dead",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777487587,
-    "filename": "Left_4_Dead-Xiaomi-2201116TG-Mali-G57_MC2-1777487587.json"
   }
 ]
