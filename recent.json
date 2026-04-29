@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "LX2",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777495073,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALT-LX2-Adreno__TM__610-1777495073.json"
+  },
+  {
     "game": "Beat_Banger",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777482958,
     "filename": "Assassin_s_Creed__Unity-Xiaomi-25053PC47G-Adreno__TM__825-1777482958.json"
-  },
-  {
-    "game": "Mortal_Kombat_X",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777482721,
-    "filename": "Mortal_Kombat_X-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777482721.json"
   }
 ]
