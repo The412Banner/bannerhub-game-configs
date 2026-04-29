@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prince_of_Persia_-_The_Forgotten_Sands",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1777481430,
+    "filename": "Prince_of_Persia_-_The_Forgotten_Sands-vivo-V2439-Mali-G615_MC2-1777481430.json"
+  },
+  {
     "game": "Terminator_2D_NO_FATE",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777463641,
     "filename": "Days_Gone-LENOVO-TB321FU-Adreno__TM__750-1777463641.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777462579,
-    "filename": "BootstrapPackagedGame-nubia-NX809J-Adreno__TM__840-1777462579.json"
   }
 ]
