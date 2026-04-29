@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777486725,
+    "filename": "PlayGTAV-OSCAL-MODERN_8-Mali-G57-1777486725.json"
+  },
+  {
     "game": "MotoGP_26",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1777475017,
     "filename": "Pro_Evolution_Soccer_2017-OPPO-CPH2159-Adreno__TM__618-1777475017.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777474793,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053RT47C-Adreno__TM__825-1777474793.json"
   }
 ]
