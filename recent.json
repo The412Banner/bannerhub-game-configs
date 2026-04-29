@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "S921B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1777483459,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S921B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1777483459.json"
+  },
+  {
     "game": "Assassin_s_Creed__Unity",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1777468257,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1777468257.json"
-  },
-  {
-    "game": "Ori_and_the_Blind_Forest__Definitive_Edition",
-    "manufacturer": "ASUS_AI2205_C",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777467942,
-    "filename": "Ori_and_the_Blind_Forest__Definitive_Edition-asus-ASUS_AI2205_C-Adreno__TM__740-1777467942.json"
   }
 ]
