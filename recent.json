@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1777487250,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1777487250.json"
+  },
+  {
     "game": "The_Crew__2",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777476467,
     "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-25053PC47G-Adreno__TM__825-1777476467.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "G781B",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777475489,
-    "filename": "Resident_Evil_3-samsung-SM-G781B-Adreno__TM__650-1777475489.json"
   }
 ]
