@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S926B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1777497795,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1777497795.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1777484336,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1777484336.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777484238,
-    "filename": "BootstrapPackagedGame-HONOR-DNP-NX9-Adreno__TM__750-1777484238.json"
   }
 ]
