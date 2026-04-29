@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777494078,
+    "filename": "BootstrapPackagedGame-samsung-SM-S928B-Adreno__TM__750-1777494078.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777482257,
     "filename": "Left_4_Dead-Xiaomi-2201116TG-Mali-G57_MC2-1777482257.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "23021RAAEG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777481489,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-23021RAAEG-Adreno__TM__610-1777481489.json"
   }
 ]
