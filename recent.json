@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs__Definitive_Edition",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777501703,
+    "filename": "Sleeping_Dogs__Definitive_Edition-nubia-NX809J-Adreno__TM__840-1777501703.json"
+  },
+  {
     "game": "Crossfire_Brasil_SA",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777486725,
     "filename": "PlayGTAV-OSCAL-MODERN_8-Mali-G57-1777486725.json"
-  },
-  {
-    "game": "MotoGP_26",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777486419,
-    "filename": "MotoGP_26-AYANEO-Pocket_FIT-Adreno__TM__750-1777486419.json"
   }
 ]
