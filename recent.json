@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "OPD2404",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777504513,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-OnePlus-OPD2404-Adreno__TM__750-1777504513.json"
+  },
+  {
     "game": "Shank_2",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1777487443,
     "filename": "The_Crew__2-Xiaomi-21061110AG-Mali-G77_MC9-1777487443.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777487323,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S911B-Adreno__TM__740-1777487323.json"
   }
 ]
