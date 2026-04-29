@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777497503,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A156M-Mali-G57_MC2-1777497503.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S926B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777484238,
     "filename": "BootstrapPackagedGame-HONOR-DNP-NX9-Adreno__TM__750-1777484238.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Syndicate",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1777483622,
-    "filename": "Assassin_s_Creed__Syndicate-samsung-SM-A146M-Mali-G68-1777483622.json"
   }
 ]
