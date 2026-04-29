@@ -1,5 +1,12 @@
 [
   {
+    "game": "Disney_Princesas_Viagem_Encantada",
+    "manufacturer": "motorola_edge_30_pro",
+    "device": "Adreno__TM__730",
+    "timestamp": 1777486749,
+    "filename": "Disney_Princesas_Viagem_Encantada-motorola-motorola_edge_30_pro-Adreno__TM__730-1777486749.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777475085,
     "filename": "Resident_Evil_6-samsung-SM-A155F-Mali-G57_MC2-1777475085.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "CPH2159",
-    "device": "Adreno__TM__618",
-    "timestamp": 1777475017,
-    "filename": "Pro_Evolution_Soccer_2017-OPPO-CPH2159-Adreno__TM__618-1777475017.json"
   }
 ]
