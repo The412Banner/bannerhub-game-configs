@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777482257,
+    "filename": "Left_4_Dead-Xiaomi-2201116TG-Mali-G57_MC2-1777482257.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777463787,
     "filename": "Days_Gone-LENOVO-TB321FU-Adreno__TM__750-1777463787.json"
-  },
-  {
-    "game": "Days_Gone",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777463753,
-    "filename": "Days_Gone-LENOVO-TB321FU-Adreno__TM__750-1777463753.json"
   }
 ]
