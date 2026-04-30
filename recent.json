@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs_",
+    "manufacturer": "Pocket_Fit_G3_Gen3",
+    "device": "Adreno__TM__A32",
+    "timestamp": 1777576629,
+    "filename": "Watch_Dogs_-AYANEO-Pocket_Fit_G3_Gen3-Adreno__TM__A32-1777576629.json"
+  },
+  {
     "game": "TokyoXtremeRacer",
     "manufacturer": "TB323FU",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777565783,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6853-Mali-G57_MC2-1777565783.json"
-  },
-  {
-    "game": "BERSERK_and_the_Band_of_the_Hawk",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777565606,
-    "filename": "BERSERK_and_the_Band_of_the_Hawk-LENOVO-TB321FU-Adreno__TM__750-1777565606.json"
   }
 ]
