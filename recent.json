@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Killing_Antidote",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777560265,
+    "filename": "The_Killing_Antidote-TECNO-TECNO_LH8n-Mali-G57_MC2-1777560265.json"
+  },
+  {
     "game": "Last_Epoch",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777548192,
     "filename": "Tomb_Raider-nubia-NX809J-Adreno__TM__840-1777548192.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777548186,
-    "filename": "Resident_Evil_2-nubia-NX809J-Adreno__TM__840-1777548186.json"
   }
 ]
