@@ -1,5 +1,12 @@
 [
   {
+    "game": "BERSERK_and_the_Band_of_the_Hawk",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777565606,
+    "filename": "BERSERK_and_the_Band_of_the_Hawk-LENOVO-TB321FU-Adreno__TM__750-1777565606.json"
+  },
+  {
     "game": "Mad_Skills_Motocross_Demo",
     "manufacturer": "NE2213",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777554336,
     "filename": "TDU_Multiplayer_Client_Launcher-samsung-SM-S931B-Adreno__TM__830-1777554336.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777554176,
-    "filename": "Red_Dead_Redemption_2-nubia-NX809J-Adreno__TM__840-1777554176.json"
   }
 ]
