@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1777510948,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G780G-Adreno__TM__650-1777510948.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
     "timestamp": 1777510505,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777495502,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-S928U1-Adreno__TM__750-1777495502.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777495073,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALT-LX2-Adreno__TM__610-1777495073.json"
   }
 ]
