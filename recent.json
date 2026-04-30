@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Heat",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777548181,
+    "filename": "Need_for_Speed__Heat-nubia-NX809J-Adreno__TM__840-1777548181.json"
+  },
+  {
     "game": "Need_for_Speed__Rivals",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777532647,
     "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-INFINIX-Infinix_X6853-Mali-G57_MC2-1777532647.json"
-  },
-  {
-    "game": "QuickSFV_Application",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777532252,
-    "filename": "QuickSFV_Application-Xiaomi-23129RA5FL-Adreno__TM__610-1777532252.json"
   }
 ]
