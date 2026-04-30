@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777567142,
+    "filename": "BootstrapPackagedGame-TECNO-TECNO_KM9-Mali-G57_MC2-1777567142.json"
+  },
+  {
     "game": "Counter-Strike_2",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1777557084,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1777557084.json"
-  },
-  {
-    "game": "SiNiSistar2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777556899,
-    "filename": "SiNiSistar2-Xiaomi-2311DRK48G-Mali-G615_MC6-1777556899.json"
   }
 ]
