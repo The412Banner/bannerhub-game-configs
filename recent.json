@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Redmi_Note_9S",
+    "device": "Adreno__TM__618",
+    "timestamp": 1777557084,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1777557084.json"
+  },
+  {
     "game": "SiNiSistar2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777548170,
     "filename": "CarX_Street-nubia-NX809J-Adreno__TM__840-1777548170.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777548151,
-    "filename": "God_of_War-nubia-NX809J-Adreno__TM__840-1777548151.json"
   }
 ]
