@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Revelations_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1777573757,
+    "filename": "Resident_Evil_Revelations_2-Xiaomi-24095PCADG-Mali-G615_MC2-1777573757.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "V2338",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777563701,
     "filename": "HeroesOldenEra-OnePlus-CPH2747-Adreno__TM__840-1777563701.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777562920,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g05-Mali-G52_MC2-1777562920.json"
   }
 ]
