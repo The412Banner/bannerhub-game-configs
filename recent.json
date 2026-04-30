@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777559917,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1777559917.json"
+  },
+  {
     "game": "________",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777548181,
     "filename": "Need_for_Speed__Heat-nubia-NX809J-Adreno__TM__840-1777548181.json"
-  },
-  {
-    "game": "Need_for_Speed__Rivals",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777548177,
-    "filename": "Need_for_Speed__Rivals-nubia-NX809J-Adreno__TM__840-1777548177.json"
   }
 ]
