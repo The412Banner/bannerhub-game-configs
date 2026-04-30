@@ -1,5 +1,12 @@
 [
   {
+    "game": "Off_The_Grid",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1777572906,
+    "filename": "Off_The_Grid-samsung-SM-G996B-Mali-G78-1777572906.json"
+  },
+  {
     "game": "gta-sa",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777562514,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH1937-Adreno__TM__610-1777562514.json"
-  },
-  {
-    "game": "InstallShield",
-    "manufacturer": "NE2213",
-    "device": "Adreno__TM__730",
-    "timestamp": 1777562426,
-    "filename": "InstallShield-OnePlus-NE2213-Adreno__TM__730-1777562426.json"
   }
 ]
