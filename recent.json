@@ -1,5 +1,12 @@
 [
   {
+    "game": "CrashRpt",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777507518,
+    "filename": "CrashRpt-OPPO-CPH2579-Mali-G52_MC2-1777507518.json"
+  },
+  {
     "game": "BioShock_Infinite",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777494078,
     "filename": "BootstrapPackagedGame-samsung-SM-S928B-Adreno__TM__750-1777494078.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777489253,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A065M-Mali-G52_MC2-1777489253.json"
   }
 ]
