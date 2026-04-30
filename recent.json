@@ -1,5 +1,12 @@
 [
   {
+    "game": "DreadOut_Remastered_Collection",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1777589293,
+    "filename": "DreadOut_Remastered_Collection-Xiaomi-M2102J20SG-Adreno__TM__640-1777589293.json"
+  },
+  {
     "game": "Stray",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777573634,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2338-Adreno__TM__710-1777573634.json"
-  },
-  {
-    "game": "Off_The_Grid",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1777572906,
-    "filename": "Off_The_Grid-samsung-SM-G996B-Mali-G78-1777572906.json"
   }
 ]
