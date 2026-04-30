@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "24091RPADG",
+    "device": "Adreno__TM__735",
+    "timestamp": 1777554471,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-24091RPADG-Adreno__TM__735-1777554471.json"
+  },
+  {
     "game": "TDU_Multiplayer_Client_Launcher",
     "manufacturer": "S931B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777542425,
     "filename": "Tomb_Raider-LENOVO-TB322FC-Adreno__TM__830-1777542425.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1777542277,
-    "filename": "BootstrapPackagedGame-motorola-moto_g45_5G-Adreno__TM__619-1777542277.json"
   }
 ]
