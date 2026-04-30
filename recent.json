@@ -1,5 +1,12 @@
 [
   {
+    "game": "Last_Epoch",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777559989,
+    "filename": "Last_Epoch-ayn-Odin3-Adreno__TM__830-1777559989.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777548186,
     "filename": "Resident_Evil_2-nubia-NX809J-Adreno__TM__840-1777548186.json"
-  },
-  {
-    "game": "Need_for_Speed__Heat",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777548181,
-    "filename": "Need_for_Speed__Heat-nubia-NX809J-Adreno__TM__840-1777548181.json"
   }
 ]
