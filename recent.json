@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Marvel_Super_Heroes_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777762741,
+    "filename": "LEGO__Marvel_Super_Heroes_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777762741.json"
+  },
+  {
     "game": "WARRIORS_OROCHI_4",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__A32",
     "timestamp": 1777575922,
     "filename": "Darksiders_Warmastered_Edition-AYANEO-Pocket_Fit_G3_Gen3-Adreno__TM__A32-1777575922.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1777573757,
-    "filename": "Resident_Evil_Revelations_2-Xiaomi-24095PCADG-Mali-G615_MC2-1777573757.json"
   }
 ]
