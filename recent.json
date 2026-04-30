@@ -1,5 +1,12 @@
 [
   {
+    "game": "Counter-Strike_2",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1777567272,
+    "filename": "Counter-Strike_2-samsung-SM-G996B-Mali-G78-1777567272.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777557820,
     "filename": "________-realme-RMX3834-Mali-G57-1777557820.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Redmi_Note_9S",
-    "device": "Adreno__TM__618",
-    "timestamp": 1777557084,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1777557084.json"
   }
 ]
