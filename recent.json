@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blasphemous_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777511261,
+    "filename": "Blasphemous_2-Xiaomi-25040RP0AG-Mali-G57_MC2-1777511261.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1777497257,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1777497257.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "S928U1",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777495502,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-S928U1-Adreno__TM__750-1777495502.json"
   }
 ]
