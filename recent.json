@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Payback",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777548134,
+    "filename": "Need_for_Speed__Payback-nubia-NX809J-Adreno__TM__840-1777548134.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777529024,
     "filename": "Test_Drive_Unlimited-samsung-SM-S911B-Adreno__TM__740-1777529024.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S926B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1777527138,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1777527138.json"
   }
 ]
