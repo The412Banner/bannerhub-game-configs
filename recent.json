@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777540665,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-realme-RMX5085-Mali-G720_MC7-1777540665.json"
+  },
+  {
     "game": "Enslaved__Odyssey_to_the_West",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1777524910,
     "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1777524910.json"
-  },
-  {
-    "game": "________",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777522956,
-    "filename": "________-Xiaomi-25053PC47G-Adreno__TM__825-1777522956.json"
   }
 ]
