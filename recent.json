@@ -1,5 +1,12 @@
 [
   {
+    "game": "DOOM",
+    "manufacturer": "V2453A",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777537923,
+    "filename": "DOOM-vivo-V2453A-Adreno__TM__825-1777537923.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777517640,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23028RA60L-Adreno__TM__610-1777517640.json"
-  },
-  {
-    "game": "Dying_Light_2_Stay_Human__Reloaded_Edition",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1777513086,
-    "filename": "Dying_Light_2_Stay_Human__Reloaded_Edition-motorola-moto_g84_5G-Adreno__TM__619-1777513086.json"
   }
 ]
