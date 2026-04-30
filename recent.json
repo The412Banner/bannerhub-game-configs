@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777548186,
+    "filename": "Resident_Evil_2-nubia-NX809J-Adreno__TM__840-1777548186.json"
+  },
+  {
     "game": "Need_for_Speed__Heat",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777534815,
     "filename": "Grand_Theft_Auto_V_Legacy-AYN-Odin2_Portal-Adreno__TM__740-1777534815.json"
-  },
-  {
-    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777532647,
-    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-INFINIX-Infinix_X6853-Mali-G57_MC2-1777532647.json"
   }
 ]
