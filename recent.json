@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__REDSEC",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1777521555,
+    "filename": "Battlefield__REDSEC-samsung-SM-G996B-Mali-G78-1777521555.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "23116PN5BC",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777501703,
     "filename": "Sleeping_Dogs__Definitive_Edition-nubia-NX809J-Adreno__TM__840-1777501703.json"
-  },
-  {
-    "game": "Crossfire_Brasil_SA",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777500783,
-    "filename": "Crossfire_Brasil_SA-Xiaomi-2410FPCC5G-Mali-G52_MC2-1777500783.json"
   }
 ]
