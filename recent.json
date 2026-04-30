@@ -1,6 +1,13 @@
 [
   {
     "game": "Red_Dead_Redemption_2",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777554176,
+    "filename": "Red_Dead_Redemption_2-nubia-NX809J-Adreno__TM__840-1777554176.json"
+  },
+  {
+    "game": "Red_Dead_Redemption_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
     "timestamp": 1777552681,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777541351,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g32-Adreno__TM__610-1777541351.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777540874,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777540874.json"
   }
 ]
