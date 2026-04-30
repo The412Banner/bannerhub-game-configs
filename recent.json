@@ -1,5 +1,12 @@
 [
   {
+    "game": "CarX_Street",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777548170,
+    "filename": "CarX_Street-nubia-NX809J-Adreno__TM__840-1777548170.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777531338,
     "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X678B-Mali-G57_MC2-1777531338.json"
-  },
-  {
-    "game": "___________",
-    "manufacturer": "Retroid_Pocket_6",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777530850,
-    "filename": "___________-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1777530850.json"
   }
 ]
