@@ -1,5 +1,12 @@
 [
   {
+    "game": "WARRIORS_OROCHI_4",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1777589300,
+    "filename": "WARRIORS_OROCHI_4-Xiaomi-M2102J20SG-Adreno__TM__640-1777589300.json"
+  },
+  {
     "game": "DreadOut_Remastered_Collection",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1777573757,
     "filename": "Resident_Evil_Revelations_2-Xiaomi-24095PCADG-Mali-G615_MC2-1777573757.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "V2338",
-    "device": "Adreno__TM__710",
-    "timestamp": 1777573634,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2338-Adreno__TM__710-1777573634.json"
   }
 ]
