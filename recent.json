@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stray",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777588694,
+    "filename": "Stray-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777588694.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "Redmi_Note_13",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1777569676,
     "filename": "gta-sa-Xiaomi-24069PC21G-Adreno__TM__735-1777569676.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1777569387,
-    "filename": "Need_for_Speed_9-Xiaomi-M2102K1C-Mali-G76_MC4-1777569387.json"
   }
 ]
