@@ -1,5 +1,12 @@
 [
   {
+    "game": "Darksiders_III",
+    "manufacturer": "Pocket_Fit_G3_Gen3",
+    "device": "Adreno__TM__A32",
+    "timestamp": 1777576172,
+    "filename": "Darksiders_III-AYANEO-Pocket_Fit_G3_Gen3-Adreno__TM__A32-1777576172.json"
+  },
+  {
     "game": "Darksiders_II_Deathinitive_Edition",
     "manufacturer": "Pocket_Fit_G3_Gen3",
     "device": "Adreno__TM__A32",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1777565012,
     "filename": "Mad_Skills_Motocross_Demo-OnePlus-NE2213-Adreno__TM__730-1777565012.json"
-  },
-  {
-    "game": "BERSERK_and_the_Band_of_the_Hawk",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777565001,
-    "filename": "BERSERK_and_the_Band_of_the_Hawk-LENOVO-TB321FU-Adreno__TM__750-1777565001.json"
   }
 ]
