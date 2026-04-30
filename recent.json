@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777548197,
+    "filename": "DRAGON_BALL__Sparking__ZERO-nubia-NX809J-Adreno__TM__840-1777548197.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1777537801,
     "filename": "Left_4_Dead_2-Xiaomi-24069PC21G-Adreno__TM__735-1777537801.json"
-  },
-  {
-    "game": "Burglin__Gnomes",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777536184,
-    "filename": "Burglin__Gnomes-TECNO-TECNO_BG6-Mali-G57-1777536184.json"
   }
 ]
