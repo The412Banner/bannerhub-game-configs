@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777548192,
+    "filename": "Tomb_Raider-nubia-NX809J-Adreno__TM__840-1777548192.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777536184,
     "filename": "Burglin__Gnomes-TECNO-TECNO_BG6-Mali-G57-1777536184.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777534815,
-    "filename": "Grand_Theft_Auto_V_Legacy-AYN-Odin2_Portal-Adreno__TM__740-1777534815.json"
   }
 ]
