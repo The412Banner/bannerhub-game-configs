@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777542425,
+    "filename": "Tomb_Raider-LENOVO-TB322FC-Adreno__TM__830-1777542425.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1777527138,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1777527138.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S926B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1777527133,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1777527133.json"
   }
 ]
