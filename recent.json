@@ -1,5 +1,12 @@
 [
   {
+    "game": "Absolum",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777561188,
+    "filename": "Absolum-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1777561188.json"
+  },
+  {
     "game": "The_Killing_Antidote",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1777548683,
     "filename": "BootstrapPackagedGame-HUAWEI-AGS6-W09-Mali-G51-1777548683.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777548197,
-    "filename": "DRAGON_BALL__Sparking__ZERO-nubia-NX809J-Adreno__TM__840-1777548197.json"
   }
 ]
