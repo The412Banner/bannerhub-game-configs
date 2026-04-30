@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1777524910,
+    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1777524910.json"
+  },
+  {
     "game": "________",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777502978,
     "filename": "Resident_Evil_Requiem-Xiaomi-25053PC47G-Adreno__TM__825-1777502978.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1777502230,
-    "filename": "God_of_War-Xiaomi-22041216G-Mali-G610_MC6-1777502230.json"
   }
 ]
