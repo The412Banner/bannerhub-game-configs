@@ -1,5 +1,12 @@
 [
   {
+    "game": "Counter-Strike_2",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1777566575,
+    "filename": "Counter-Strike_2-samsung-SM-G996B-Mali-G78-1777566575.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777556899,
     "filename": "SiNiSistar2-Xiaomi-2311DRK48G-Mali-G615_MC6-1777556899.json"
-  },
-  {
-    "game": "The_Killing_Antidote",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777556825,
-    "filename": "The_Killing_Antidote-Xiaomi-2311DRK48G-Mali-G615_MC6-1777556825.json"
   }
 ]
