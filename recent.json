@@ -1,5 +1,12 @@
 [
   {
+    "game": "Burglin__Gnomes",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777536184,
+    "filename": "Burglin__Gnomes-TECNO-TECNO_BG6-Mali-G57-1777536184.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1777513045,
     "filename": "Fears_to_Fathom_-_Ironbark_Lookout-motorola-moto_g84_5G-Adreno__TM__619-1777513045.json"
-  },
-  {
-    "game": "Blasphemous_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777511261,
-    "filename": "Blasphemous_2-Xiaomi-25040RP0AG-Mali-G57_MC2-1777511261.json"
   }
 ]
