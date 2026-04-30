@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777548998,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777548998.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G51",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777538404,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1777538404.json"
-  },
-  {
-    "game": "DOOM",
-    "manufacturer": "V2453A",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777537923,
-    "filename": "DOOM-vivo-V2453A-Adreno__TM__825-1777537923.json"
   }
 ]
