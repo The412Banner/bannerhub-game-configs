@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777540874,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777540874.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1777526080,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1777526080.json"
-  },
-  {
-    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1777524910,
-    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1777524910.json"
   }
 ]
