@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "RMX1921",
+    "device": "Adreno__TM__616",
+    "timestamp": 1777590478,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX1921-Adreno__TM__616-1777590478.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A566B",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1777590225,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777576328,
     "filename": "TokyoXtremeRacer-LENOVO-TB323FU-Adreno__TM__840-1777576328.json"
-  },
-  {
-    "game": "Darksiders_III",
-    "manufacturer": "Pocket_Fit_G3_Gen3",
-    "device": "Adreno__TM__A32",
-    "timestamp": 1777576172,
-    "filename": "Darksiders_III-AYANEO-Pocket_Fit_G3_Gen3-Adreno__TM__A32-1777576172.json"
   }
 ]
