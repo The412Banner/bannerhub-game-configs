@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777532647,
+    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-INFINIX-Infinix_X6853-Mali-G57_MC2-1777532647.json"
+  },
+  {
     "game": "QuickSFV_Application",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777510948,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G780G-Adreno__TM__650-1777510948.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1777510505,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1777510505.json"
   }
 ]
