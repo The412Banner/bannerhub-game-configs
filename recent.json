@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777534815,
+    "filename": "Grand_Theft_Auto_V_Legacy-AYN-Odin2_Portal-Adreno__TM__740-1777534815.json"
+  },
+  {
     "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777511261,
     "filename": "Blasphemous_2-Xiaomi-25040RP0AG-Mali-G57_MC2-1777511261.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777510948,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G780G-Adreno__TM__650-1777510948.json"
   }
 ]
