@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_11",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777550171,
+    "filename": "Mortal_Kombat_11-nubia-NX809J-Adreno__TM__840-1777550171.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777539144,
     "filename": "Just_Cause_4_Reloaded-LENOVO-TB321FU-Adreno__TM__750-1777539144.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777538489,
-    "filename": "Red_Dead_Redemption_2-LENOVO-TB321FU-Adreno__TM__750-1777538489.json"
   }
 ]
