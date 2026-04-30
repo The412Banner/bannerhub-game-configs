@@ -1,5 +1,12 @@
 [
   {
+    "game": "Darksiders_II_Deathinitive_Edition",
+    "manufacturer": "Pocket_Fit_G3_Gen3",
+    "device": "Adreno__TM__A32",
+    "timestamp": 1777576041,
+    "filename": "Darksiders_II_Deathinitive_Edition-AYANEO-Pocket_Fit_G3_Gen3-Adreno__TM__A32-1777576041.json"
+  },
+  {
     "game": "Darksiders_Warmastered_Edition",
     "manufacturer": "Pocket_Fit_G3_Gen3",
     "device": "Adreno__TM__A32",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777565001,
     "filename": "BERSERK_and_the_Band_of_the_Hawk-LENOVO-TB321FU-Adreno__TM__750-1777565001.json"
-  },
-  {
-    "game": "The_Killing_Antidote",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777564235,
-    "filename": "The_Killing_Antidote-TECNO-TECNO_LH8n-Mali-G57_MC2-1777564235.json"
   }
 ]
