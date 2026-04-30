@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777569124,
+    "filename": "Devil_May_Cry_4_Special_Edition-INFINIX-Infinix_X678B-Mali-G57_MC2-1777569124.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777560265,
     "filename": "The_Killing_Antidote-TECNO-TECNO_LH8n-Mali-G57_MC2-1777560265.json"
-  },
-  {
-    "game": "Last_Epoch",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777559989,
-    "filename": "Last_Epoch-ayn-Odin3-Adreno__TM__830-1777559989.json"
   }
 ]
