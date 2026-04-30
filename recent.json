@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1777580529,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G780G-Adreno__TM__650-1777580529.json"
+  },
+  {
     "game": "Cyberpunk_2077",
     "manufacturer": "Pocket_Fit_G3_Gen3",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1777566575,
     "filename": "Counter-Strike_2-samsung-SM-G996B-Mali-G78-1777566575.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777566431,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-moto_g15-Mali-G52_MC2-1777566431.json"
   }
 ]
