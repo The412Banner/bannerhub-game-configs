@@ -1,5 +1,12 @@
 [
   {
+    "game": "SiNiSistar2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777556899,
+    "filename": "SiNiSistar2-Xiaomi-2311DRK48G-Mali-G615_MC6-1777556899.json"
+  },
+  {
     "game": "The_Killing_Antidote",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777548151,
     "filename": "God_of_War-nubia-NX809J-Adreno__TM__840-1777548151.json"
-  },
-  {
-    "game": "Battlefield__V",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777548146,
-    "filename": "Battlefield__V-nubia-NX809J-Adreno__TM__840-1777548146.json"
   }
 ]
