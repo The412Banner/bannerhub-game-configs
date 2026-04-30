@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_4_Reloaded",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777539144,
+    "filename": "Just_Cause_4_Reloaded-LENOVO-TB321FU-Adreno__TM__750-1777539144.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1777521555,
     "filename": "Battlefield__REDSEC-samsung-SM-G996B-Mali-G78-1777521555.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "23116PN5BC",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777519196,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23116PN5BC-Adreno__TM__750-1777519196.json"
   }
 ]
