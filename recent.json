@@ -1,5 +1,12 @@
 [
   {
+    "game": "Little_Nightmares",
+    "manufacturer": "Lenovo_L70081",
+    "device": "Adreno__TM__660",
+    "timestamp": 1777632543,
+    "filename": "Little_Nightmares-Lenovo-Lenovo_L70081-Adreno__TM__660-1777632543.json"
+  },
+  {
     "game": "FIFA_19",
     "manufacturer": "23122PCD1G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1777600761,
     "filename": "Prototype_-samsung-SM-G996U-Adreno__TM__660-1777600761.json"
-  },
-  {
-    "game": "_pending-1777978271-ch5_pro-Win64-Shipping",
-    "manufacturer": "25062RN2DA",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777600644,
-    "filename": "_pending-1777978271-ch5_pro-Win64-Shipping-Xiaomi-25062RN2DA-Adreno__TM__610-1777600644.json"
   }
 ]
