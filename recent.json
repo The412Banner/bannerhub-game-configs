@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wuthering_Waves",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777671533,
+    "filename": "Wuthering_Waves-motorola-moto_g24-Mali-G52_MC2-1777671533.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777660168,
     "filename": "Red_Dead_Redemption_2-Xiaomi-25053PC47G-Adreno__TM__825-1777660168.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777657958,
-    "filename": "Resident_Evil_Revelations_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777657958.json"
   }
 ]
