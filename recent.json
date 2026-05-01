@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777596610,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777596610.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777583857,
     "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-24117RK2CG-Adreno__TM__750-1777583857.json"
-  },
-  {
-    "game": "DRAGON_BALL_Sparking__ZERO",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777583727,
-    "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-24117RK2CG-Adreno__TM__750-1777583727.json"
   }
 ]
