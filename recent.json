@@ -1,5 +1,12 @@
 [
   {
+    "game": "Kingdom_Two_Crowns",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777656714,
+    "filename": "Kingdom_Two_Crowns-AYN-Odin2_Portal-Adreno__TM__740-1777656714.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777649254,
     "filename": "Crysis_3_Remastered-samsung-SM-S938B-Adreno__TM__830-1777649254.json"
-  },
-  {
-    "game": "Need_for_Speed__Heat",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777648445,
-    "filename": "Need_for_Speed__Heat-Xiaomi-25053RT47C-Adreno__TM__825-1777648445.json"
   }
 ]
