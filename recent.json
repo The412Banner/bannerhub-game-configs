@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1777655285,
+    "filename": "Resident_Evil_5-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1777655285.json"
+  },
+  {
     "game": "The_Elder_Scrolls_V__Skyrim",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777648445,
     "filename": "Need_for_Speed__Heat-Xiaomi-25053RT47C-Adreno__TM__825-1777648445.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777648433,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25053RT47C-Adreno__TM__825-1777648433.json"
   }
 ]
