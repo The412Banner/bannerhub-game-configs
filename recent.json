@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1777662004,
+    "filename": "Tomb_Raider_2-Xiaomi-24095PCADG-Mali-G615_MC2-1777662004.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777652604,
     "filename": "Need_for_Speed_-realme-RMX3941-Mali-G52_MC2-1777652604.json"
-  },
-  {
-    "game": "Prototype_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777652336,
-    "filename": "Prototype_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777652336.json"
   }
 ]
