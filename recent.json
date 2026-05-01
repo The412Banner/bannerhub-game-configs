@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta-sa",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777643972,
+    "filename": "gta-sa-motorola-moto_e32-Mali-G57-1777643972.json"
+  },
+  {
     "game": "Hitman__Absolution_",
     "manufacturer": "NX9",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1777617072,
     "filename": "DRAGON_BALL_FighterZ-Xiaomi-2109119DG-Adreno__TM__642L-1777617072.json"
-  },
-  {
-    "game": "Need_for_Speed__Heat",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777617057,
-    "filename": "Need_for_Speed__Heat-Xiaomi-25053RT47C-Adreno__TM__825-1777617057.json"
   }
 ]
