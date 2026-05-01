@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777634536,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23021RAAEG-Adreno__TM__610-1777634536.json"
+  },
+  {
     "game": "GTAV_Mod_Managerpc",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1777609578,
     "filename": "BootstrapPackagedGame-samsung-SM-S908E-Adreno__TM__730-1777609578.json"
-  },
-  {
-    "game": "Resident_Evil_4__2005_",
-    "manufacturer": "S906E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1777605804,
-    "filename": "Resident_Evil_4__2005_-samsung-SM-S906E-Adreno__TM__730-1777605804.json"
   }
 ]
