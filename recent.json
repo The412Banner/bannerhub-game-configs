@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777612930,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1777612930.json"
+  },
+  {
     "game": "Devil_May_Cry_5",
     "manufacturer": "S916B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__616",
     "timestamp": 1777590478,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX1921-Adreno__TM__616-1777590478.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A566B",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1777590225,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1777590225.json"
   }
 ]
