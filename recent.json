@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Sparking__ZERO",
+    "manufacturer": "NX3",
+    "device": "Adreno__TM__710",
+    "timestamp": 1777615852,
+    "filename": "DRAGON_BALL_Sparking__ZERO-HONOR-BRP-NX3-Adreno__TM__710-1777615852.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "25062RN2DA",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777593625,
     "filename": "DRAGON_BALL_XENOVERSE-samsung-SM-A165M-Mali-G57_MC2-1777593625.json"
-  },
-  {
-    "game": "samp",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1777591784,
-    "filename": "samp-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1777591784.json"
   }
 ]
