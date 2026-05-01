@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1777670585,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2312DRA50G-Adreno__TM__710-1777670585.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777657290,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2735-Mali-G57_MC2-1777657290.json"
-  },
-  {
-    "game": "MTA_San_Andreas",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777656915,
-    "filename": "MTA_San_Andreas-realme-RMX3501-Mali-G57-1777656915.json"
   }
 ]
