@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777637778,
+    "filename": "Left_4_Dead_2-CUBOT-KINGKONG_X-Mali-G68_MC4-1777637778.json"
+  },
+  {
     "game": "MARVEL_Cosmic_Invasion",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777612626,
     "filename": "Devil_May_Cry_5-samsung-SM-S916B-Adreno__TM__740-1777612626.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Unity",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1777612164,
-    "filename": "Assassin_s_Creed__Unity-Xiaomi-23049PCD8G-Adreno__TM__725-1777612164.json"
   }
 ]
