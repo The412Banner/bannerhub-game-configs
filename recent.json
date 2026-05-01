@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777598026,
+    "filename": "DRAGON_BALL_FighterZ-vivo-V2058-Mali-G52_MC2-1777598026.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "_2024",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777585954,
     "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-24117RK2CG-Adreno__TM__750-1777585954.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "2201116SG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1777584774,
-    "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2201116SG-Adreno__TM__619-1777584774.json"
   }
 ]
