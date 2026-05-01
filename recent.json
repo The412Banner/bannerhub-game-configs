@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_XENOVERSE",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777593625,
+    "filename": "DRAGON_BALL_XENOVERSE-samsung-SM-A165M-Mali-G57_MC2-1777593625.json"
+  },
+  {
     "game": "samp",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1777576848,
     "filename": "BootstrapPackagedGame-OPPO-CPH2603-Mali-G68_MC4-1777576848.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "Pocket_Fit_G3_Gen3",
-    "device": "Adreno__TM__A32",
-    "timestamp": 1777576629,
-    "filename": "Watch_Dogs_-AYANEO-Pocket_Fit_G3_Gen3-Adreno__TM__A32-1777576629.json"
   }
 ]
