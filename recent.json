@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777660168,
+    "filename": "Red_Dead_Redemption_2-Xiaomi-25053PC47G-Adreno__TM__825-1777660168.json"
+  },
+  {
     "game": "Resident_Evil_Revelations_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1777650314,
     "filename": "SV293WR_setup-Xiaomi-22041216G-Mali-G610_MC6-1777650314.json"
-  },
-  {
-    "game": "istart_Application",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777650148,
-    "filename": "istart_Application-INFINIX-Infinix_X6873-Mali-G615_MC6-1777650148.json"
   }
 ]
