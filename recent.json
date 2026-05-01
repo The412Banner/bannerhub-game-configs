@@ -1,5 +1,12 @@
 [
   {
+    "game": "SV293WR_setup",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1777649933,
+    "filename": "SV293WR_setup-Xiaomi-22041216G-Mali-G610_MC6-1777649933.json"
+  },
+  {
     "game": "____2016",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1777633203,
     "filename": "GTAV_Mod_Managerpc-samsung-SM-A047F-Mali-G52-1777633203.json"
-  },
-  {
-    "game": "Little_Nightmares",
-    "manufacturer": "Lenovo_L70081",
-    "device": "Adreno__TM__660",
-    "timestamp": 1777633051,
-    "filename": "Little_Nightmares-Lenovo-Lenovo_L70081-Adreno__TM__660-1777633051.json"
   }
 ]
