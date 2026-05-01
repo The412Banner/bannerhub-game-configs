@@ -1,5 +1,12 @@
 [
   {
+    "game": "Slay_the_Spire",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1777619322,
+    "filename": "Slay_the_Spire-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1777619322.json"
+  },
+  {
     "game": "VK_com",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777596461,
     "filename": "DARK_SOULS___REMASTERED-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777596461.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777596008,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2201117SG-Mali-G57_MC2-1777596008.json"
   }
 ]
