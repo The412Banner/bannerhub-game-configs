@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777651270,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1777651270.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1777637778,
     "filename": "Left_4_Dead_2-CUBOT-KINGKONG_X-Mali-G68_MC4-1777637778.json"
-  },
-  {
-    "game": "MARVEL_Cosmic_Invasion",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1777637767,
-    "filename": "MARVEL_Cosmic_Invasion-CUBOT-KINGKONG_X-Mali-G68_MC4-1777637767.json"
   }
 ]
