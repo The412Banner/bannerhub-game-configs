@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Heat",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777617057,
+    "filename": "Need_for_Speed__Heat-Xiaomi-25053RT47C-Adreno__TM__825-1777617057.json"
+  },
+  {
     "game": "DRAGON_BALL_Sparking__ZERO",
     "manufacturer": "NX3",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777593843,
     "filename": "Tomb_Raider-nubia-NX809J-Adreno__TM__840-1777593843.json"
-  },
-  {
-    "game": "DRAGON_BALL_XENOVERSE",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777593625,
-    "filename": "DRAGON_BALL_XENOVERSE-samsung-SM-A165M-Mali-G57_MC2-1777593625.json"
   }
 ]
