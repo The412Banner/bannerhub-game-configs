@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fallout_3_-_Game_of_the_Year_Edition",
+    "manufacturer": "24129PN74C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777668023,
+    "filename": "Fallout_3_-_Game_of_the_Year_Edition-Xiaomi-24129PN74C-Adreno__TM__830-1777668023.json"
+  },
+  {
     "game": "Dead_by_Daylight",
     "manufacturer": "H0",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777656714,
     "filename": "Kingdom_Two_Crowns-AYN-Odin2_Portal-Adreno__TM__740-1777656714.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "A556E",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1777655285,
-    "filename": "Resident_Evil_5-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1777655285.json"
   }
 ]
