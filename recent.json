@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Unity",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1777612164,
+    "filename": "Assassin_s_Creed__Unity-Xiaomi-23049PCD8G-Adreno__TM__725-1777612164.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M526BR",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777762755,
     "filename": "TITAN-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777762755.json"
-  },
-  {
-    "game": "LEGO__Marvel_Super_Heroes_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777762741,
-    "filename": "LEGO__Marvel_Super_Heroes_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777762741.json"
   }
 ]
