@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "A236M",
+    "device": "Adreno__TM__619",
+    "timestamp": 1777679257,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A236M-Adreno__TM__619-1777679257.json"
+  },
+  {
     "game": "Hollow_Knight",
     "manufacturer": "2201117TY",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777664614,
     "filename": "FIFA_Soccer_11-HONOR-BRP-NX1-Adreno__TM__710-1777664614.json"
-  },
-  {
-    "game": "Hollow_Knight",
-    "manufacturer": "2201117TY",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777662242,
-    "filename": "Hollow_Knight-Xiaomi-2201117TY-Adreno__TM__610-1777662242.json"
   }
 ]
