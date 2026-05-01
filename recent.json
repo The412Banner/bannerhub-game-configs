@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight",
+    "manufacturer": "2201117TY",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777677978,
+    "filename": "Hollow_Knight-Xiaomi-2201117TY-Adreno__TM__610-1777677978.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "G781U1",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777662242,
     "filename": "Hollow_Knight-Xiaomi-2201117TY-Adreno__TM__610-1777662242.json"
-  },
-  {
-    "game": "Tomb_Raider_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1777662004,
-    "filename": "Tomb_Raider_2-Xiaomi-24095PCADG-Mali-G615_MC2-1777662004.json"
   }
 ]
