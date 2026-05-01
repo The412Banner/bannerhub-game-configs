@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTAV_Mod_Managerpc",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1777633203,
+    "filename": "GTAV_Mod_Managerpc-samsung-SM-A047F-Mali-G52-1777633203.json"
+  },
+  {
     "game": "Little_Nightmares",
     "manufacturer": "Lenovo_L70081",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1777605804,
     "filename": "Resident_Evil_4__2005_-samsung-SM-S906E-Adreno__TM__730-1777605804.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "25062RN2DA",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777600832,
-    "filename": "ch5_pro-Xiaomi-25062RN2DA-Adreno__TM__610-1777600832.json"
   }
 ]
