@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777647405,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1777647405.json"
+  },
+  {
     "game": "EA_SPORTS_FC__26_SHOWCASE",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777621428,
     "filename": "Yakuza_0-samsung-SM-S918B-Adreno__TM__740-1777621428.json"
-  },
-  {
-    "game": "Slay_the_Spire",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1777619322,
-    "filename": "Slay_the_Spire-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1777619322.json"
   }
 ]
