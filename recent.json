@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "S908E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1777609578,
+    "filename": "BootstrapPackagedGame-samsung-SM-S908E-Adreno__TM__730-1777609578.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "S906E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1777589300,
     "filename": "WARRIORS_OROCHI_4-Xiaomi-M2102J20SG-Adreno__TM__640-1777589300.json"
-  },
-  {
-    "game": "DreadOut_Remastered_Collection",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1777589293,
-    "filename": "DreadOut_Remastered_Collection-Xiaomi-M2102J20SG-Adreno__TM__640-1777589293.json"
   }
 ]
