@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777669726,
+    "filename": "Cuphead-samsung-SM-A346M-Mali-G68_MC4-1777669726.json"
+  },
+  {
     "game": "Fallout_3_-_Game_of_the_Year_Edition",
     "manufacturer": "24129PN74C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777656915,
     "filename": "MTA_San_Andreas-realme-RMX3501-Mali-G57-1777656915.json"
-  },
-  {
-    "game": "Kingdom_Two_Crowns",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777656714,
-    "filename": "Kingdom_Two_Crowns-AYN-Odin2_Portal-Adreno__TM__740-1777656714.json"
   }
 ]
