@@ -1,5 +1,12 @@
 [
   {
+    "game": "istart_Application",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777650148,
+    "filename": "istart_Application-INFINIX-Infinix_X6873-Mali-G615_MC6-1777650148.json"
+  },
+  {
     "game": "SV293WR_setup",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777634536,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23021RAAEG-Adreno__TM__610-1777634536.json"
-  },
-  {
-    "game": "GTAV_Mod_Managerpc",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1777633203,
-    "filename": "GTAV_Mod_Managerpc-samsung-SM-A047F-Mali-G52-1777633203.json"
   }
 ]
