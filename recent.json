@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "_2024",
+    "device": "Adreno__TM__710",
+    "timestamp": 1777597972,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1777597972.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
     "timestamp": 1777596610,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1777584774,
     "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2201116SG-Adreno__TM__619-1777584774.json"
-  },
-  {
-    "game": "DRAGON_BALL_Sparking__ZERO",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777583857,
-    "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-24117RK2CG-Adreno__TM__750-1777583857.json"
   }
 ]
