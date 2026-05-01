@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777673569,
+    "filename": "Far_Cry__2-Xiaomi-2409BRN2CA-Mali-G52_MC2-1777673569.json"
+  },
+  {
     "game": "SWTFU2",
     "manufacturer": "25098RA98G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1777660454,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23049PCD8G-Adreno__TM__725-1777660454.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1777660326,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23049PCD8G-Adreno__TM__725-1777660326.json"
   }
 ]
