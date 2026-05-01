@@ -1,5 +1,12 @@
 [
   {
+    "game": "MY_HERO_ACADEMIA_All_s_Justice",
+    "manufacturer": "F766B",
+    "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
+    "timestamp": 1777641794,
+    "filename": "MY_HERO_ACADEMIA_All_s_Justice-samsung-SM-F766B-ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_-1777641794.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777612930,
     "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1777612930.json"
-  },
-  {
-    "game": "Devil_May_Cry_5",
-    "manufacturer": "S916B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777612626,
-    "filename": "Devil_May_Cry_5-samsung-SM-S916B-Adreno__TM__740-1777612626.json"
   }
 ]
