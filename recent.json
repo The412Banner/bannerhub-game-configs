@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777694127,
+    "filename": "Need_for_Speed_9-Xiaomi-2412DPC0AI-Mali-G720_MC7-1777694127.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777677978,
     "filename": "Hollow_Knight-Xiaomi-2201117TY-Adreno__TM__610-1777677978.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "G781U1",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777676991,
-    "filename": "Tomb_Raider-samsung-SM-G781U1-Adreno__TM__650-1777676991.json"
   }
 ]
