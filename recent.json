@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777705751,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1777705751.json"
+  },
+  {
     "game": "GrandTheftAuto_Launcher",
     "manufacturer": "T220",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777694127,
     "filename": "Need_for_Speed_9-Xiaomi-2412DPC0AI-Mali-G720_MC7-1777694127.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1777691411,
-    "filename": "DRAGON_BALL_FighterZ-Xiaomi-M2102J20SG-Adreno__TM__640-1777691411.json"
   }
 ]
