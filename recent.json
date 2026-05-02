@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777690638,
+    "filename": "Resident_Evil_6-Xiaomi-23108RN04Y-Mali-G52_MC2-1777690638.json"
+  },
+  {
     "game": "The_Punisher",
     "manufacturer": "Mali",
     "device": "G715",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777674376,
     "filename": "Just_Cause_2-nubia-NX789J-Adreno__TM__830-1777674376.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1777674229,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-M2101K7BNY-Mali-G76-1777674229.json"
   }
 ]
