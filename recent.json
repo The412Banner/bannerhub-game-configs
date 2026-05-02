@@ -1,5 +1,12 @@
 [
   {
+    "game": "AI_Shoujo_AI___",
+    "manufacturer": "F966U1",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777725482,
+    "filename": "AI_Shoujo_AI___-samsung-SM-F966U1-Adreno__TM__830-1777725482.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "motorola_edge_70_fusion",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777704675,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1777704675.json"
-  },
-  {
-    "game": "____",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777704601,
-    "filename": "____-HONOR-ROL-W60-Mali-G615_MC6-1777704601.json"
   }
 ]
