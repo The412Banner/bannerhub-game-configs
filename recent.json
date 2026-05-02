@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__2",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1777728307,
+    "filename": "Dead_Space__2-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1777728307.json"
+  },
+  {
     "game": "Alan_Wake",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777706014,
     "filename": "FIFA_Soccer_11-HONOR-BRP-NX1-Adreno__TM__710-1777706014.json"
-  },
-  {
-    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777706010,
-    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-Xiaomi-22120RN86G-Mali-G52_MC2-1777706010.json"
   }
 ]
