@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "CPH2767",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777753190,
+    "filename": "Tomb_Raider-OnePlus-CPH2767-Adreno__TM__830-1777753190.json"
+  },
+  {
     "game": "Assassin_s_Creed__Unity",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777743689,
     "filename": "The_Last_of_Us__Part_II-Xiaomi-2312FPCA6G-Mali-G57_MC2-1777743689.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777742055,
-    "filename": "Resident_Evil_5-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777742055.json"
   }
 ]
