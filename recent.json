@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777755613,
+    "filename": "Devil_May_Cry_5-Xiaomi-25053RT47C-Adreno__TM__825-1777755613.json"
+  },
+  {
     "game": "Call_of_Duty_",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1777744726,
     "filename": "Grand_Theft_Auto_V_Legacy-Ulefone-Note_9P-PowerVR_Rogue_GE8320-1777744726.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777743925,
-    "filename": "BootstrapPackagedGame-samsung-SM-A035M-Mali-G57-1777743925.json"
   }
 ]
