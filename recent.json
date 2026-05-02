@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1777691411,
+    "filename": "DRAGON_BALL_FighterZ-Xiaomi-M2102J20SG-Adreno__TM__640-1777691411.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777676991,
     "filename": "Tomb_Raider-samsung-SM-G781U1-Adreno__TM__650-1777676991.json"
-  },
-  {
-    "game": "Just_Cause_2",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777674376,
-    "filename": "Just_Cause_2-nubia-NX789J-Adreno__TM__830-1777674376.json"
   }
 ]
