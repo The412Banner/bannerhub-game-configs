@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1777718638,
+    "filename": "Far_Cry_3-samsung-SM-S901E-Adreno__TM__730-1777718638.json"
+  },
+  {
     "game": "Devil_May_Cry_5",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777701944,
     "filename": "Vampire__The_Masquerade__-_Bloodlines__2-vivo-I2405-Adreno__TM__825-1777701944.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777699384,
-    "filename": "BootstrapPackagedGame-Xiaomi-24049RN28L-Mali-G52_MC2-1777699384.json"
   }
 ]
