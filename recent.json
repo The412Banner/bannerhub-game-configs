@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777685428,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-25028PC03G-Mali-G57-1777685428.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777671533,
     "filename": "Wuthering_Waves-motorola-moto_g24-Mali-G52_MC2-1777671533.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1777671450,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1777671450.json"
   }
 ]
