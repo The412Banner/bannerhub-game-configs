@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777743925,
+    "filename": "BootstrapPackagedGame-samsung-SM-A035M-Mali-G57-1777743925.json"
+  },
+  {
     "game": "The_Last_of_Us__Part_II",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777733533,
     "filename": "Hollow_Knight__Silksong-Xiaomi-23129RAA4G-Adreno__TM__610-1777733533.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1777733360,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1777733360.json"
   }
 ]
