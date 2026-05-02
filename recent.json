@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty_",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1777755265,
+    "filename": "Call_of_Duty_-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1777755265.json"
+  },
+  {
     "game": "NFSC",
     "manufacturer": "Mali",
     "device": "G76_MC4",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777743925,
     "filename": "BootstrapPackagedGame-samsung-SM-A035M-Mali-G57-1777743925.json"
-  },
-  {
-    "game": "The_Last_of_Us__Part_II",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777743764,
-    "filename": "The_Last_of_Us__Part_II-Xiaomi-2312FPCA6G-Mali-G57_MC2-1777743764.json"
   }
 ]
