@@ -1,5 +1,12 @@
 [
   {
+    "game": "Eastward",
+    "manufacturer": "V2342",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777723899,
+    "filename": "Eastward-vivo-V2342-Adreno__TM__610-1777723899.json"
+  },
+  {
     "game": "Construction-Simulator_2012_-_Demo__________________________",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777703479,
     "filename": "DemonLordJustABlock-motorola-moto_g24-Mali-G52_MC2-1777703479.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777703351,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CY-Mali-G52_MC2-1777703351.json"
   }
 ]
