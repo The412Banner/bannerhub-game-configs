@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "motorola_edge_70_fusion",
+    "device": "Adreno__TM__810",
+    "timestamp": 1777724241,
+    "filename": "Euro_Truck_Simulator_2-motorola-motorola_edge_70_fusion-Adreno__TM__810-1777724241.json"
+  },
+  {
     "game": "Eastward",
     "manufacturer": "V2342",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777704601,
     "filename": "____-HONOR-ROL-W60-Mali-G615_MC6-1777704601.json"
-  },
-  {
-    "game": "DemonLordJustABlock",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777703479,
-    "filename": "DemonLordJustABlock-motorola-moto_g24-Mali-G52_MC2-1777703479.json"
   }
 ]
