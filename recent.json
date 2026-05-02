@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Revelations",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777719768,
+    "filename": "Assassin_s_Creed__Revelations-Xiaomi-25078RA3EA-Mali-G52_MC2-1777719768.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777702221,
     "filename": "DemonLordJustABlock-motorola-moto_g24-Mali-G52_MC2-1777702221.json"
-  },
-  {
-    "game": "Vampire__The_Masquerade__-_Bloodlines__2",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777701944,
-    "filename": "Vampire__The_Masquerade__-_Bloodlines__2-vivo-I2405-Adreno__TM__825-1777701944.json"
   }
 ]
