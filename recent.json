@@ -1,5 +1,12 @@
 [
   {
+    "game": "Kinjo_no_Hitozuma",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1777730146,
+    "filename": "Kinjo_no_Hitozuma-Xiaomi-M2102J20SG-Adreno__TM__640-1777730146.json"
+  },
+  {
     "game": "Isekai_Bistro",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777720739,
     "filename": "Monster_Harvest-vivo-V2342-Adreno__TM__610-1777720739.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Revelations",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777720000,
-    "filename": "Assassin_s_Creed__Revelations-Xiaomi-25078RA3EA-Mali-G52_MC2-1777720000.json"
   }
 ]
