@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1777733360,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1777733360.json"
+  },
+  {
     "game": "Stick_It_To_The_Stickman",
     "manufacturer": "CPH2121",
     "device": "PowerVR_Rogue_GM9446",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777725482,
     "filename": "AI_Shoujo_AI___-samsung-SM-F966U1-Adreno__TM__830-1777725482.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "motorola_edge_70_fusion",
-    "device": "Adreno__TM__810",
-    "timestamp": 1777724241,
-    "filename": "Euro_Truck_Simulator_2-motorola-motorola_edge_70_fusion-Adreno__TM__810-1777724241.json"
   }
 ]
