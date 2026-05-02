@@ -1,5 +1,12 @@
 [
   {
+    "game": "Elementallis",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777751250,
+    "filename": "Elementallis-nubia-NP05J-Adreno__TM__830-1777751250.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1777741721,
     "filename": "MIO__Memories_in_Orbit-Xiaomi-23013PC75G-Adreno__TM__730-1777741721.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN_-_ULTIMATE_NINJA_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1777741483,
-    "filename": "NARUTO_SHIPPUDEN_-_ULTIMATE_NINJA_STORM_4-Xiaomi-24095PCADG-Mali-G615_MC2-1777741483.json"
   }
 ]
