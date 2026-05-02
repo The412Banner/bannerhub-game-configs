@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777687074,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1777687074.json"
+  },
+  {
     "game": "WalkingDead100",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777672983,
     "filename": "SWTFU2-Xiaomi-25098RA98G-Adreno__TM__710-1777672983.json"
-  },
-  {
-    "game": "Far_Cry__2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777672162,
-    "filename": "Far_Cry__2-Xiaomi-2409BRN2CA-Mali-G52_MC2-1777672162.json"
   }
 ]
