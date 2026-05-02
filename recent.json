@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777752298,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A065M-Mali-G52_MC2-1777752298.json"
+  },
+  {
     "game": "Elementallis",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777741795,
     "filename": "F1_2013-HONOR-BRP-NX1-Adreno__TM__710-1777741795.json"
-  },
-  {
-    "game": "MIO__Memories_in_Orbit",
-    "manufacturer": "23013PC75G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1777741721,
-    "filename": "MIO__Memories_in_Orbit-Xiaomi-23013PC75G-Adreno__TM__730-1777741721.json"
   }
 ]
