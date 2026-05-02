@@ -1,5 +1,12 @@
 [
   {
+    "game": "GrandTheftAuto_Launcher",
+    "manufacturer": "T220",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1777704775,
+    "filename": "GrandTheftAuto_Launcher-samsung-SM-T220-PowerVR_Rogue_GE8320-1777704775.json"
+  },
+  {
     "game": "KINGDOM_HEARTS_-HD_1_5_2_5_ReMIX-",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1777691411,
     "filename": "DRAGON_BALL_FighterZ-Xiaomi-M2102J20SG-Adreno__TM__640-1777691411.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777690638,
-    "filename": "Resident_Evil_6-Xiaomi-23108RN04Y-Mali-G52_MC2-1777690638.json"
   }
 ]
