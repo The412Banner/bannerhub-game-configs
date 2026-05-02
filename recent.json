@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV_________________________________________",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1777712196,
+    "filename": "Grand_Theft_Auto_IV_________________________________________-Xiaomi-2511FPC34G-Mali-G720_MC8-1777712196.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777699362,
     "filename": "American_Truck_Simulator-samsung-SM-S918B-Adreno__TM__740-1777699362.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777698895,
-    "filename": "American_Truck_Simulator-samsung-SM-S918B-Adreno__TM__740-1777698895.json"
   }
 ]
