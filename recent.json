@@ -1,5 +1,12 @@
 [
   {
+    "game": "Kingdom_Two_Crowns",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777741199,
+    "filename": "Kingdom_Two_Crowns-AYN-Odin2_Portal-Adreno__TM__740-1777741199.json"
+  },
+  {
     "game": "crs-handler",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1777730116,
     "filename": "DreadOut_Remastered_Collection-Xiaomi-M2102J20SG-Adreno__TM__640-1777730116.json"
-  },
-  {
-    "game": "LEGO__Marvel__Super_Heroes",
-    "manufacturer": "A366E",
-    "device": "Adreno__TM__710",
-    "timestamp": 1777729905,
-    "filename": "LEGO__Marvel__Super_Heroes-samsung-SM-A366E-Adreno__TM__710-1777729905.json"
   }
 ]
