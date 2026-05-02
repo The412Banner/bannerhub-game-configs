@@ -1,5 +1,12 @@
 [
   {
+    "game": "Heroes_of_Might_and_Magic__Olden_Era",
+    "manufacturer": "24122RKC7G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777726570,
+    "filename": "Heroes_of_Might_and_Magic__Olden_Era-Xiaomi-24122RKC7G-Adreno__TM__830-1777726570.json"
+  },
+  {
     "game": "AI_Shoujo_AI___",
     "manufacturer": "F966U1",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777704741,
     "filename": "KINGDOM_HEARTS_-HD_1_5_2_5_ReMIX--AYANEO-Pocket_FIT-Adreno__TM__750-1777704741.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777704675,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1777704675.json"
   }
 ]
