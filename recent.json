@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1777709055,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1777709055.json"
+  },
+  {
     "game": "Assassin_s_Creed__Liberation_HD",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1777698786,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A725M-Adreno__TM__618-1777698786.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2016",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777696786,
-    "filename": "Pro_Evolution_Soccer_2016-incar-A11-Mali-G57-1777696786.json"
   }
 ]
