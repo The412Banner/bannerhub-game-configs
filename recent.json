@@ -3,6 +3,13 @@
     "game": "crs-handler",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1777740362,
+    "filename": "crs-handler-Xiaomi-2312FPCA6G-Mali-G57_MC2-1777740362.json"
+  },
+  {
+    "game": "crs-handler",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1777740334,
     "filename": "crs-handler-Xiaomi-2312FPCA6G-Mali-G57_MC2-1777740334.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777729905,
     "filename": "LEGO__Marvel__Super_Heroes-samsung-SM-A366E-Adreno__TM__710-1777729905.json"
-  },
-  {
-    "game": "2K_Sports_NBA_2K14",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1777729522,
-    "filename": "2K_Sports_NBA_2K14-Xiaomi-24090RA29G-Mali-G615_MC2-1777729522.json"
   }
 ]
