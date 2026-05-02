@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_3__Wild_Hunt",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777765083,
+    "filename": "The_Witcher_3__Wild_Hunt-Xiaomi-25053PC47G-Adreno__TM__825-1777765083.json"
+  },
+  {
     "game": "Ultra_Street_Fighter__IV",
     "manufacturer": "Retroid_Pocket_G2",
     "device": "Adreno__TM__22",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777752298,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A065M-Mali-G52_MC2-1777752298.json"
-  },
-  {
-    "game": "Elementallis",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777751250,
-    "filename": "Elementallis-nubia-NP05J-Adreno__TM__830-1777751250.json"
   }
 ]
