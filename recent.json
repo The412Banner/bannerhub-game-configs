@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1777683376,
+    "filename": "Euro_Truck_Simulator_2-motorola-moto_g84_5G-Adreno__TM__619-1777683376.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777670585,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2312DRA50G-Adreno__TM__710-1777670585.json"
-  },
-  {
-    "game": "Cuphead",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1777669726,
-    "filename": "Cuphead-samsung-SM-A346M-Mali-G68_MC4-1777669726.json"
   }
 ]
