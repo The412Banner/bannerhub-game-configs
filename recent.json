@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777737256,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777737256.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__22",
     "timestamp": 1777728307,
     "filename": "Dead_Space__2-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1777728307.json"
-  },
-  {
-    "game": "Alan_Wake",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777727994,
-    "filename": "Alan_Wake-nubia-NX809J-Adreno__TM__840-1777727994.json"
   }
 ]
