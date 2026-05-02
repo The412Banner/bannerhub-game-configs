@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777680506,
+    "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777680506.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777668023,
     "filename": "Fallout_3_-_Game_of_the_Year_Edition-Xiaomi-24129PN74C-Adreno__TM__830-1777668023.json"
-  },
-  {
-    "game": "Dead_by_Daylight",
-    "manufacturer": "H0",
-    "device": "Adreno__TM__730",
-    "timestamp": 1777667553,
-    "filename": "Dead_by_Daylight-blackshark-SHARK_KTUS-H0-Adreno__TM__730-1777667553.json"
   }
 ]
