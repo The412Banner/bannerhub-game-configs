@@ -1,5 +1,12 @@
 [
   {
+    "game": "WARRIORS_OROCHI_4",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1777730124,
+    "filename": "WARRIORS_OROCHI_4-Xiaomi-M2102J20SG-Adreno__TM__640-1777730124.json"
+  },
+  {
     "game": "DreadOut_Remastered_Collection",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777719768,
     "filename": "Assassin_s_Creed__Revelations-Xiaomi-25078RA3EA-Mali-G52_MC2-1777719768.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1777718638,
-    "filename": "Far_Cry_3-samsung-SM-S901E-Adreno__TM__730-1777718638.json"
   }
 ]
