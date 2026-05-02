@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Last_of_Us__Part_II",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777758972,
+    "filename": "The_Last_of_Us__Part_II-Xiaomi-2312FPCA6G-Mali-G57_MC2-1777758972.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2011",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777747462,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-BVL-N49-Adreno__TM__750-1777747462.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "N49",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777747435,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-BVL-N49-Adreno__TM__750-1777747435.json"
   }
 ]
