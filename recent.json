@@ -3,6 +3,13 @@
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1777680511,
+    "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777680511.json"
+  },
+  {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1777680506,
     "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777680506.json"
   },
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1777669726,
     "filename": "Cuphead-samsung-SM-A346M-Mali-G68_MC4-1777669726.json"
-  },
-  {
-    "game": "Fallout_3_-_Game_of_the_Year_Edition",
-    "manufacturer": "24129PN74C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777668023,
-    "filename": "Fallout_3_-_Game_of_the_Year_Edition-Xiaomi-24129PN74C-Adreno__TM__830-1777668023.json"
   }
 ]
