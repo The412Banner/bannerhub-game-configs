@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Punisher",
+    "manufacturer": "Mali",
+    "device": "G715",
+    "timestamp": 1777689637,
+    "filename": "The_Punisher-Google-Pixel_8-Mali-G715-1777689637.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1777674229,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-M2101K7BNY-Mali-G76-1777674229.json"
-  },
-  {
-    "game": "Far_Cry__2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777673569,
-    "filename": "Far_Cry__2-Xiaomi-2409BRN2CA-Mali-G52_MC2-1777673569.json"
   }
 ]
