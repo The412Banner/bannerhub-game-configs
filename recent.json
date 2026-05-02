@@ -1,5 +1,12 @@
 [
   {
+    "game": "Farming_Simulator_19",
+    "manufacturer": "2201116PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1777735771,
+    "filename": "Farming_Simulator_19-Xiaomi-2201116PG-Adreno__TM__619-1777735771.json"
+  },
+  {
     "game": "WWE_2K23",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1777727651,
     "filename": "Unravel_Two-Xiaomi-22101316UP-Mali-G68_MC4-1777727651.json"
-  },
-  {
-    "game": "LEGO__Marvel__Super_Heroes",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1777727006,
-    "filename": "LEGO__Marvel__Super_Heroes-samsung-SM-G990E-Mali-G78-1777727006.json"
   }
 ]
