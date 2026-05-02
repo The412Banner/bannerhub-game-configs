@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1777763238,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G998B-Mali-G78-1777763238.json"
+  },
+  {
     "game": "Little_Nightmares_II",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777751098,
     "filename": "BootstrapPackagedGame-HONOR-ELA-LX3-Mali-G52_MC2-1777751098.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1777749437,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A546E-Mali-G68-1777749437.json"
   }
 ]
