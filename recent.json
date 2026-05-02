@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stick_It_To_The_Stickman",
+    "manufacturer": "CPH2121",
+    "device": "PowerVR_Rogue_GM9446",
+    "timestamp": 1777733101,
+    "filename": "Stick_It_To_The_Stickman-OPPO-CPH2121-PowerVR_Rogue_GM9446-1777733101.json"
+  },
+  {
     "game": "Sons_Of_The_Forest",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1777724241,
     "filename": "Euro_Truck_Simulator_2-motorola-motorola_edge_70_fusion-Adreno__TM__810-1777724241.json"
-  },
-  {
-    "game": "Eastward",
-    "manufacturer": "V2342",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777723899,
-    "filename": "Eastward-vivo-V2342-Adreno__TM__610-1777723899.json"
   }
 ]
