@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ultra_Street_Fighter__IV",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1777763621,
+    "filename": "Ultra_Street_Fighter__IV-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1777763621.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777751250,
     "filename": "Elementallis-nubia-NP05J-Adreno__TM__830-1777751250.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777751098,
-    "filename": "BootstrapPackagedGame-HONOR-ELA-LX3-Mali-G52_MC2-1777751098.json"
   }
 ]
