@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777680412,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1777680412.json"
+  },
+  {
     "game": "MOUSE",
     "manufacturer": "moto_g200_5G",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1777667553,
     "filename": "Dead_by_Daylight-blackshark-SHARK_KTUS-H0-Adreno__TM__730-1777667553.json"
-  },
-  {
-    "game": "Dead_by_Daylight",
-    "manufacturer": "H0",
-    "device": "Adreno__TM__730",
-    "timestamp": 1777667488,
-    "filename": "Dead_by_Daylight-blackshark-SHARK_KTUS-H0-Adreno__TM__730-1777667488.json"
   }
 ]
