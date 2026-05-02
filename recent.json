@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_7",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1777741466,
+    "filename": "TEKKEN_7-Xiaomi-24095PCADG-Mali-G615_MC2-1777741466.json"
+  },
+  {
     "game": "Kingdom_Two_Crowns",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1777730124,
     "filename": "WARRIORS_OROCHI_4-Xiaomi-M2102J20SG-Adreno__TM__640-1777730124.json"
-  },
-  {
-    "game": "DreadOut_Remastered_Collection",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1777730116,
-    "filename": "DreadOut_Remastered_Collection-Xiaomi-M2102J20SG-Adreno__TM__640-1777730116.json"
   }
 ]
