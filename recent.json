@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alan_Wake",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777727994,
+    "filename": "Alan_Wake-nubia-NX809J-Adreno__TM__840-1777727994.json"
+  },
+  {
     "game": "Unravel_Two",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777706010,
     "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-Xiaomi-22120RN86G-Mali-G52_MC2-1777706010.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777705751,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1777705751.json"
   }
 ]
