@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Marvel__Super_Heroes",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1777727006,
+    "filename": "LEGO__Marvel__Super_Heroes-samsung-SM-G990E-Mali-G78-1777727006.json"
+  },
+  {
     "game": "Heroes_of_Might_and_Magic__Olden_Era",
     "manufacturer": "24122RKC7G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1777704775,
     "filename": "GrandTheftAuto_Launcher-samsung-SM-T220-PowerVR_Rogue_GE8320-1777704775.json"
-  },
-  {
-    "game": "KINGDOM_HEARTS_-HD_1_5_2_5_ReMIX-",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777704741,
-    "filename": "KINGDOM_HEARTS_-HD_1_5_2_5_ReMIX--AYANEO-Pocket_FIT-Adreno__TM__750-1777704741.json"
   }
 ]
