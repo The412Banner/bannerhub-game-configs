@@ -1,5 +1,12 @@
 [
   {
+    "game": "WalkingDead100",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777685757,
+    "filename": "WalkingDead100-TECNO-TECNO_LH7n-Mali-G57_MC2-1777685757.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777672162,
     "filename": "Far_Cry__2-Xiaomi-2409BRN2CA-Mali-G52_MC2-1777672162.json"
-  },
-  {
-    "game": "Wuthering_Waves",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777671533,
-    "filename": "Wuthering_Waves-motorola-moto_g24-Mali-G52_MC2-1777671533.json"
   }
 ]
