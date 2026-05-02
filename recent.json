@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777751098,
+    "filename": "BootstrapPackagedGame-HONOR-ELA-LX3-Mali-G52_MC2-1777751098.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1777741483,
     "filename": "NARUTO_SHIPPUDEN_-_ULTIMATE_NINJA_STORM_4-Xiaomi-24095PCADG-Mali-G615_MC2-1777741483.json"
-  },
-  {
-    "game": "TEKKEN_7",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1777741466,
-    "filename": "TEKKEN_7-Xiaomi-24095PCADG-Mali-G615_MC2-1777741466.json"
   }
 ]
