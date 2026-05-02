@@ -1,5 +1,12 @@
 [
   {
+    "game": "WWE_2K23",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777735017,
+    "filename": "WWE_2K23-nubia-NX809J-Adreno__TM__840-1777735017.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "23129RAA4G",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1777727006,
     "filename": "LEGO__Marvel__Super_Heroes-samsung-SM-G990E-Mali-G78-1777727006.json"
-  },
-  {
-    "game": "Heroes_of_Might_and_Magic__Olden_Era",
-    "manufacturer": "24122RKC7G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777726570,
-    "filename": "Heroes_of_Might_and_Magic__Olden_Era-Xiaomi-24122RKC7G-Adreno__TM__830-1777726570.json"
   }
 ]
