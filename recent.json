@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777733533,
+    "filename": "Hollow_Knight__Silksong-Xiaomi-23129RAA4G-Adreno__TM__610-1777733533.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777726570,
     "filename": "Heroes_of_Might_and_Magic__Olden_Era-Xiaomi-24122RKC7G-Adreno__TM__830-1777726570.json"
-  },
-  {
-    "game": "AI_Shoujo_AI___",
-    "manufacturer": "F966U1",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777725482,
-    "filename": "AI_Shoujo_AI___-samsung-SM-F966U1-Adreno__TM__830-1777725482.json"
   }
 ]
