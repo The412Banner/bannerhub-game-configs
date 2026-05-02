@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ultra_Street_Fighter__IV",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777759025,
+    "filename": "Ultra_Street_Fighter__IV-samsung-SM-S911B-Adreno__TM__740-1777759025.json"
+  },
+  {
     "game": "The_Last_of_Us__Part_II",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777747479,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-BVL-N49-Adreno__TM__750-1777747479.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "N49",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777747462,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-BVL-N49-Adreno__TM__750-1777747462.json"
   }
 ]
