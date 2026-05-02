@@ -1,5 +1,12 @@
 [
   {
+    "game": "Isekai_Bistro",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1777730133,
+    "filename": "Isekai_Bistro-Xiaomi-M2102J20SG-Adreno__TM__640-1777730133.json"
+  },
+  {
     "game": "WARRIORS_OROCHI_4",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777720000,
     "filename": "Assassin_s_Creed__Revelations-Xiaomi-25078RA3EA-Mali-G52_MC2-1777720000.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Revelations",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777719768,
-    "filename": "Assassin_s_Creed__Revelations-Xiaomi-25078RA3EA-Mali-G52_MC2-1777719768.json"
   }
 ]
