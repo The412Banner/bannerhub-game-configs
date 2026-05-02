@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ultra_Street_Fighter__IV",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777748186,
+    "filename": "Ultra_Street_Fighter__IV-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777748186.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777740275,
     "filename": "DRAGON_BALL__Sparking__ZERO-OPPO-CPH2365-Adreno__TM__610-1777740275.json"
-  },
-  {
-    "game": "Need_for_Speed_Underground_2",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777739444,
-    "filename": "Need_for_Speed_Underground_2-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777739444.json"
   }
 ]
