@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Note_9P",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1777744726,
+    "filename": "Grand_Theft_Auto_V_Legacy-Ulefone-Note_9P-PowerVR_Rogue_GE8320-1777744726.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777735017,
     "filename": "WWE_2K23-nubia-NX809J-Adreno__TM__840-1777735017.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "23129RAA4G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777733533,
-    "filename": "Hollow_Knight__Silksong-Xiaomi-23129RAA4G-Adreno__TM__610-1777733533.json"
   }
 ]
