@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Liberation_HD",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777706610,
+    "filename": "Assassin_s_Creed__Liberation_HD-samsung-SM-M536B-Mali-G68_MC4-1777706610.json"
+  },
+  {
     "game": "FIFA_Soccer_11",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777696786,
     "filename": "Pro_Evolution_Soccer_2016-incar-A11-Mali-G57-1777696786.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "22101317C",
-    "device": "Adreno__TM__619",
-    "timestamp": 1777696493,
-    "filename": "Resident_Evil_4-Xiaomi-22101317C-Adreno__TM__619-1777696493.json"
   }
 ]
