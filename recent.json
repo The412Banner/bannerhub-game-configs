@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "I2405",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777685120,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-I2405-Adreno__TM__825-1777685120.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1777671450,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1777671450.json"
-  },
-  {
-    "game": "Far_Cry__2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777671314,
-    "filename": "Far_Cry__2-Xiaomi-2409BRN2CA-Mali-G52_MC2-1777671314.json"
   }
 ]
