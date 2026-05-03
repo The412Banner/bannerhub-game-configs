@@ -1,5 +1,12 @@
 [
   {
+    "game": "Myth_II__Soulblighter",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777801932,
+    "filename": "Myth_II__Soulblighter-AYN-Odin2-Adreno__TM__740-1777801932.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777773269,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23129RAA4G-Adreno__TM__610-1777773269.json"
-  },
-  {
-    "game": "TheLongDrive",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777772353,
-    "filename": "TheLongDrive-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777772353.json"
   }
 ]
