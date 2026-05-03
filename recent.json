@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777840186,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g05-Mali-G52_MC2-1777840186.json"
+  },
+  {
     "game": "Iron_Snout",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777822370,
     "filename": "STORY_OF_SEASONS__Friends_of_Mineral_Town-ITEL-itel_S666LN-Mali-G57_MC2-1777822370.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777822126,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Amazon-KFTUWI-Mali-G52_MC2-1777822126.json"
   }
 ]
