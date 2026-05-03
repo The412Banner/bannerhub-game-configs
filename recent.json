@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777802333,
+    "filename": "Devil_May_Cry_5-LENOVO-TB321FU-Adreno__TM__750-1777802333.json"
+  },
+  {
     "game": "Mech_Commander_Expansion",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1777785849,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-vivo-I2218-Adreno__TM__720-1777785849.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2510ERA8BG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1777781337,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2510ERA8BG-Adreno__TM__810-1777781337.json"
   }
 ]
