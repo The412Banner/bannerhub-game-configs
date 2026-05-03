@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777773269,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23129RAA4G-Adreno__TM__610-1777773269.json"
+  },
+  {
     "game": "TheLongDrive",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777760276,
     "filename": "BootstrapPackagedGame-Xiaomi-23053RN02A-Mali-G52_MC2-1777760276.json"
-  },
-  {
-    "game": "Stray",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777759349,
-    "filename": "Stray-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777759349.json"
   }
 ]
