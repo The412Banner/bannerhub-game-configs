@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1777841829,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409BRN2CL-Mali-G52_MC2-1777841829.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1777840196,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g05-Mali-G52_MC2-1777840196.json"
   },
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1777822867,
     "filename": "Choo-Choo_Charles-samsung-SM-M546B-Mali-G68-1777822867.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1777822706,
-    "filename": "Left_4_Dead_2-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1777822706.json"
   }
 ]
