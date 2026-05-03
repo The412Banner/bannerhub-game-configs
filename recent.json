@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777804881,
+    "filename": "Sleeping_Dogs-Xiaomi-2311DRK48G-Mali-G615_MC6-1777804881.json"
+  },
+  {
     "game": "MARVEL_Cosmic_Invasion",
     "manufacturer": "Mi_9T",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1777786598,
     "filename": "INAZUMA_ELEVEN__Victory_Road-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1777786598.json"
-  },
-  {
-    "game": "INAZUMA_ELEVEN__Victory_Road",
-    "manufacturer": "S926B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1777786557,
-    "filename": "INAZUMA_ELEVEN__Victory_Road-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1777786557.json"
   }
 ]
