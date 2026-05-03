@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777815889,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A065M-Mali-G52_MC2-1777815889.json"
+  },
+  {
     "game": "Need_for_Speed_Underground_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777801932,
     "filename": "Myth_II__Soulblighter-AYN-Odin2-Adreno__TM__740-1777801932.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777801918,
-    "filename": "Pro_Evolution_Soccer_2017-TECNO-TECNO_LJ9-Mali-G615_MC6-1777801918.json"
   }
 ]
