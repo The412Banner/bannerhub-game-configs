@@ -1,5 +1,12 @@
 [
   {
+    "game": "Star_Trek__Armada",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777801974,
+    "filename": "Star_Trek__Armada-AYN-Odin2-Adreno__TM__740-1777801974.json"
+  },
+  {
     "game": "Star_Trek_Armada_2",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777775473,
     "filename": "Fears_To_Fathom_-_Carson_House-motorola-moto_g24-Mali-G52_MC2-1777775473.json"
-  },
-  {
-    "game": "FAP_N_A_F__ARCADE_MODE",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1777774846,
-    "filename": "FAP_N_A_F__ARCADE_MODE-samsung-SM-A256E-Mali-G68-1777774846.json"
   }
 ]
