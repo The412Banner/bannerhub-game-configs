@@ -1,5 +1,12 @@
 [
   {
+    "game": "ETS-2________1_50_--_Europa_Mario_Map",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1777768403,
+    "filename": "ETS-2________1_50_--_Europa_Mario_Map-Xiaomi-23122PCD1G-Adreno__TM__710-1777768403.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777755613,
     "filename": "Devil_May_Cry_5-Xiaomi-25053RT47C-Adreno__TM__825-1777755613.json"
-  },
-  {
-    "game": "Call_of_Duty_",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1777755265,
-    "filename": "Call_of_Duty_-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1777755265.json"
   }
 ]
