@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777823508,
+    "filename": "Cuphead-nubia-NX809J-Adreno__TM__840-1777823508.json"
+  },
+  {
     "game": "RimWorld",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1777816467,
     "filename": "WARRIORS_OROCHI_4-Xiaomi-M2102J20SG-Adreno__TM__640-1777816467.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777816014,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A065M-Mali-G52_MC2-1777816014.json"
   }
 ]
