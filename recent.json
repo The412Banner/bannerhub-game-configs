@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX769J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777775512,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX769J-Adreno__TM__750-1777775512.json"
+  },
+  {
     "game": "Fears_To_Fathom_-_Carson_House",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1777763238,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G998B-Mali-G78-1777763238.json"
-  },
-  {
-    "game": "Little_Nightmares_II",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777762680,
-    "filename": "Little_Nightmares_II-realme-RMX3501-Mali-G57-1777762680.json"
   }
 ]
