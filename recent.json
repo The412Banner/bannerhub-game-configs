@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mech_Commander_Expansion",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777802028,
+    "filename": "Mech_Commander_Expansion-AYN-Odin2-Adreno__TM__740-1777802028.json"
+  },
+  {
     "game": "StarCraft",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1777781337,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2510ERA8BG-Adreno__TM__810-1777781337.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX769J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777775512,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX769J-Adreno__TM__750-1777775512.json"
   }
 ]
