@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777842720,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777842720.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1777841829,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409BRN2CL-Mali-G52_MC2-1777841829.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777823299,
     "filename": "RimWorld-nubia-NX809J-Adreno__TM__840-1777823299.json"
-  },
-  {
-    "game": "Choo-Choo_Charles",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1777822867,
-    "filename": "Choo-Choo_Charles-samsung-SM-M546B-Mali-G68-1777822867.json"
   }
 ]
