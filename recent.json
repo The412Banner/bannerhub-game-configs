@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777822126,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Amazon-KFTUWI-Mali-G52_MC2-1777822126.json"
+  },
+  {
     "game": "Jetpack_Remake",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777815002,
     "filename": "Shape_of_Dreams-LENOVO-TB321FU-Adreno__TM__750-1777815002.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777813383,
-    "filename": "Red_Dead_Redemption-nubia-NX809J-Adreno__TM__840-1777813383.json"
   }
 ]
