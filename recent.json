@@ -1,5 +1,12 @@
 [
   {
+    "game": "FAP_N_A_F__ARCADE_MODE",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1777774846,
+    "filename": "FAP_N_A_F__ARCADE_MODE-samsung-SM-A256E-Mali-G68-1777774846.json"
+  },
+  {
     "game": "TEKKEN_7",
     "manufacturer": "V2318",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777762283,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A325M-Mali-G52_MC2-1777762283.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1777761814,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-X400-Mali-G68-1777761814.json"
   }
 ]
