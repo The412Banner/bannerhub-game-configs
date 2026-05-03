@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777813383,
+    "filename": "Red_Dead_Redemption-nubia-NX809J-Adreno__TM__840-1777813383.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777795350,
     "filename": "Baldi_Basics_Plus-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777795350.json"
-  },
-  {
-    "game": "Dota_2",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1777794454,
-    "filename": "Dota_2-OnePlus-PLC110-Mali-G925-Immortalis_MC12-1777794454.json"
   }
 ]
