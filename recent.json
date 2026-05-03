@@ -1,5 +1,12 @@
 [
   {
+    "game": "Choo-Choo_Charles",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1777822867,
+    "filename": "Choo-Choo_Charles-samsung-SM-M546B-Mali-G68-1777822867.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777815967,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A065M-Mali-G52_MC2-1777815967.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777815889,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A065M-Mali-G52_MC2-1777815889.json"
   }
 ]
