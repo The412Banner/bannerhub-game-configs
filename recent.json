@@ -1,5 +1,12 @@
 [
   {
+    "game": "StarCraft",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777801994,
+    "filename": "StarCraft-AYN-Odin2-Adreno__TM__740-1777801994.json"
+  },
+  {
     "game": "Star_Trek__Armada",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777775512,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX769J-Adreno__TM__750-1777775512.json"
-  },
-  {
-    "game": "Fears_To_Fathom_-_Carson_House",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777775473,
-    "filename": "Fears_To_Fathom_-_Carson_House-motorola-moto_g24-Mali-G52_MC2-1777775473.json"
   }
 ]
