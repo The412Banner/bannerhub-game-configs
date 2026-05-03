@@ -1,5 +1,12 @@
 [
   {
+    "game": "RimWorld",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777823299,
+    "filename": "RimWorld-nubia-NX809J-Adreno__TM__840-1777823299.json"
+  },
+  {
     "game": "Choo-Choo_Charles",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777816014,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A065M-Mali-G52_MC2-1777816014.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777815967,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A065M-Mali-G52_MC2-1777815967.json"
   }
 ]
