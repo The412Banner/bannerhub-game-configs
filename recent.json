@@ -1,5 +1,12 @@
 [
   {
+    "game": "Myth__The_Fallen_Lords",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777801946,
+    "filename": "Myth__The_Fallen_Lords-AYN-Odin2-Adreno__TM__740-1777801946.json"
+  },
+  {
     "game": "Myth_II__Soulblighter",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__22",
     "timestamp": 1777773876,
     "filename": "Resident_Evil_2-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1777773876.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "23129RAA4G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777773269,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23129RAA4G-Adreno__TM__610-1777773269.json"
   }
 ]
