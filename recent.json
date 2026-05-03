@@ -1,5 +1,12 @@
 [
   {
+    "game": "Star_Trek_Armada_2",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777801962,
+    "filename": "Star_Trek_Armada_2-AYN-Odin2-Adreno__TM__740-1777801962.json"
+  },
+  {
     "game": "NFS_MW",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1777774846,
     "filename": "FAP_N_A_F__ARCADE_MODE-samsung-SM-A256E-Mali-G68-1777774846.json"
-  },
-  {
-    "game": "TEKKEN_7",
-    "manufacturer": "V2318",
-    "device": "Adreno__TM__720",
-    "timestamp": 1777774270,
-    "filename": "TEKKEN_7-vivo-V2318-Adreno__TM__720-1777774270.json"
   }
 ]
