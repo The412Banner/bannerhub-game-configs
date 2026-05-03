@@ -1,5 +1,12 @@
 [
   {
+    "game": "Diablo_II",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777845843,
+    "filename": "Diablo_II-nubia-NX809J-Adreno__TM__840-1777845843.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1777825928,
     "filename": "InstallerMessage-HONOR-RMO-NX1-Adreno__TM__619-1777825928.json"
-  },
-  {
-    "game": "Cuphead",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777823508,
-    "filename": "Cuphead-nubia-NX809J-Adreno__TM__840-1777823508.json"
   }
 ]
