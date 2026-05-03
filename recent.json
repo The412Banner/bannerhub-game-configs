@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2012",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777850880,
+    "filename": "Pro_Evolution_Soccer_2012-samsung-SM-S911B-Adreno__TM__740-1777850880.json"
+  },
+  {
     "game": "PES_6_Original_Season_______________________________________",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777834920,
     "filename": "Middle-earth___Shadow_of_War_-Xiaomi-25053PC47G-Adreno__TM__825-1777834920.json"
-  },
-  {
-    "game": "FIFA_Launcher",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1777834047,
-    "filename": "FIFA_Launcher-Xiaomi-2511FPC34G-Mali-G720_MC8-1777834047.json"
   }
 ]
