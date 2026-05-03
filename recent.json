@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_7",
+    "manufacturer": "V2318",
+    "device": "Adreno__TM__720",
+    "timestamp": 1777774270,
+    "filename": "TEKKEN_7-vivo-V2318-Adreno__TM__720-1777774270.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "Retroid_Pocket_G2",
     "device": "Adreno__TM__22",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1777761814,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-X400-Mali-G68-1777761814.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "moto_e22",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1777761375,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_e22-PowerVR_Rogue_GE8320-1777761375.json"
   }
 ]
