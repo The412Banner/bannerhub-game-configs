@@ -1,5 +1,12 @@
 [
   {
+    "game": "SNK_40th_ANNIVERSARY_COLLECTION",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777820783,
+    "filename": "SNK_40th_ANNIVERSARY_COLLECTION-AYANEO-Pocket_FIT-Adreno__TM__750-1777820783.json"
+  },
+  {
     "game": "Assassin_s_Creed__Rogue",
     "manufacturer": "V2408A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1777811245,
     "filename": "Just_Cause_2-samsung-SM-G996U1-Adreno__TM__660-1777811245.json"
-  },
-  {
-    "game": "NBA_2K23",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777809659,
-    "filename": "NBA_2K23-Xiaomi-25053RT47C-Adreno__TM__825-1777809659.json"
   }
 ]
