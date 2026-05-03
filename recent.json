@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman___Arkham_VR",
+    "manufacturer": "Q630",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1777833632,
+    "filename": "Batman___Arkham_VR-LGE-LM-Q630-PowerVR_Rogue_GE8320-1777833632.json"
+  },
+  {
     "game": "LEGO__Marvel__Super_Heroes",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1777820493,
     "filename": "TheLongDrive-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777820493.json"
-  },
-  {
-    "game": "Fight_N_Rage",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777819770,
-    "filename": "Fight_N_Rage-AYANEO-Pocket_FIT-Adreno__TM__750-1777819770.json"
   }
 ]
