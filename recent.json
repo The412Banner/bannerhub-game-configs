@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1777816673,
+    "filename": "Dead_Space-samsung-SM-A336E-Mali-G68-1777816673.json"
+  },
+  {
     "game": "WARRIORS_OROCHI_4",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777801974,
     "filename": "Star_Trek__Armada-AYN-Odin2-Adreno__TM__740-1777801974.json"
-  },
-  {
-    "game": "Star_Trek_Armada_2",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777801962,
-    "filename": "Star_Trek_Armada_2-AYN-Odin2-Adreno__TM__740-1777801962.json"
   }
 ]
