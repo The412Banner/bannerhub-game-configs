@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777767857,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A165M-Mali-G57_MC2-1777767857.json"
+  },
+  {
     "game": "Middle-earth___Shadow_of_Mordor_",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777753190,
     "filename": "Tomb_Raider-OnePlus-CPH2767-Adreno__TM__830-1777753190.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Unity",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777752554,
-    "filename": "Assassin_s_Creed__Unity-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777752554.json"
   }
 ]
