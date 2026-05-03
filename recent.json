@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Marvel__Super_Heroes",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777832385,
+    "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777832385.json"
+  },
+  {
     "game": "ShowerGame",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777819770,
     "filename": "Fight_N_Rage-AYANEO-Pocket_FIT-Adreno__TM__750-1777819770.json"
-  },
-  {
-    "game": "Replaced",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777819497,
-    "filename": "Replaced-AYANEO-Pocket_FIT-Adreno__TM__750-1777819497.json"
   }
 ]
