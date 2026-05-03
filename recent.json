@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1777844740,
+    "filename": "God_of_War-Xiaomi-2511FPC34G-Mali-G720_MC8-1777844740.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777823508,
     "filename": "Cuphead-nubia-NX809J-Adreno__TM__840-1777823508.json"
-  },
-  {
-    "game": "RimWorld",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777823299,
-    "filename": "RimWorld-nubia-NX809J-Adreno__TM__840-1777823299.json"
   }
 ]
