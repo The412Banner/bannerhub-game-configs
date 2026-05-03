@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1777787277,
+    "filename": "Tomb_Raider-TECNO-TECNO_LJ7-Mali-G615_MC2-1777787277.json"
+  },
+  {
     "game": "INAZUMA_ELEVEN__Victory_Road",
     "manufacturer": "S926B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777768148,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1777768148.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777767857,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A165M-Mali-G57_MC2-1777767857.json"
   }
 ]
