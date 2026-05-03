@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_13",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777771873,
+    "filename": "PES_13-motorola-moto_e13-Mali-G57-1777771873.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777759025,
     "filename": "Ultra_Street_Fighter__IV-samsung-SM-S911B-Adreno__TM__740-1777759025.json"
-  },
-  {
-    "game": "The_Last_of_Us__Part_II",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777758972,
-    "filename": "The_Last_of_Us__Part_II-Xiaomi-2312FPCA6G-Mali-G57_MC2-1777758972.json"
   }
 ]
