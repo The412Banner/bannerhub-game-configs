@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777818819,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1777818819.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "moto_g71_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777802028,
     "filename": "Mech_Commander_Expansion-AYN-Odin2-Adreno__TM__740-1777802028.json"
-  },
-  {
-    "game": "StarCraft",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777801994,
-    "filename": "StarCraft-AYN-Odin2-Adreno__TM__740-1777801994.json"
   }
 ]
