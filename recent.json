@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wolfteam_Turkiye____________________________________________",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1777805014,
+    "filename": "Wolfteam_Turkiye____________________________________________-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1777805014.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1777787277,
     "filename": "Tomb_Raider-TECNO-TECNO_LJ7-Mali-G615_MC2-1777787277.json"
-  },
-  {
-    "game": "INAZUMA_ELEVEN__Victory_Road",
-    "manufacturer": "S926B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1777786598,
-    "filename": "INAZUMA_ELEVEN__Victory_Road-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1777786598.json"
   }
 ]
