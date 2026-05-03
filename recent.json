@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fight_N_Rage",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777819770,
+    "filename": "Fight_N_Rage-AYANEO-Pocket_FIT-Adreno__TM__750-1777819770.json"
+  },
+  {
     "game": "Replaced",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777804881,
     "filename": "Sleeping_Dogs-Xiaomi-2311DRK48G-Mali-G615_MC6-1777804881.json"
-  },
-  {
-    "game": "MARVEL_Cosmic_Invasion",
-    "manufacturer": "Mi_9T",
-    "device": "Adreno__TM__618",
-    "timestamp": 1777802965,
-    "filename": "MARVEL_Cosmic_Invasion-Xiaomi-Mi_9T-Adreno__TM__618-1777802965.json"
   }
 ]
