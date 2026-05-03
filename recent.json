@@ -1,5 +1,12 @@
 [
   {
+    "game": "WARRIORS_OROCHI_4",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1777816467,
+    "filename": "WARRIORS_OROCHI_4-Xiaomi-M2102J20SG-Adreno__TM__640-1777816467.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777801962,
     "filename": "Star_Trek_Armada_2-AYN-Odin2-Adreno__TM__740-1777801962.json"
-  },
-  {
-    "game": "NFS_MW",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__720",
-    "timestamp": 1777801955,
-    "filename": "NFS_MW-HONOR-DNY-NX9-Adreno__TM__720-1777801955.json"
   }
 ]
