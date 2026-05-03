@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "25098RA98G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1777831062,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-25098RA98G-Adreno__TM__710-1777831062.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777818846,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1777818846.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777818819,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1777818819.json"
   }
 ]
