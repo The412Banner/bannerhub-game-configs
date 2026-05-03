@@ -1,5 +1,12 @@
 [
   {
+    "game": "NBA_2K23",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777809659,
+    "filename": "NBA_2K23-Xiaomi-25053RT47C-Adreno__TM__825-1777809659.json"
+  },
+  {
     "game": "Wolfteam_Turkiye____________________________________________",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1777789422,
     "filename": "Hollow_Knight__Silksong-motorola-motorola_edge_30_fusion-Adreno__TM__660-1777789422.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1777787277,
-    "filename": "Tomb_Raider-TECNO-TECNO_LJ7-Mali-G615_MC2-1777787277.json"
   }
 ]
