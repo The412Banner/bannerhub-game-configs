@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman___Arkham_Knight",
+    "manufacturer": "NX769J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777897251,
+    "filename": "Batman___Arkham_Knight-nubia-NX769J-Adreno__TM__750-1777897251.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "2410CRP4CG",
     "device": "Adreno__TM__732",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777881623,
     "filename": "EA_Installer_Cleanup-Xiaomi-2311DRK48G-Mali-G615_MC6-1777881623.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man",
-    "manufacturer": "vivo_1818",
-    "device": "Adreno__TM__612",
-    "timestamp": 1777881520,
-    "filename": "TheAmazingSpider-Man-vivo-vivo_1818-Adreno__TM__612-1777881520.json"
   }
 ]
