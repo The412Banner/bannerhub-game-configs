@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Revelations",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1777935376,
+    "filename": "Resident_Evil_Revelations-Xiaomi-M2102J20SG-Adreno__TM__640-1777935376.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777918851,
     "filename": "Sifu-Xiaomi-2311DRK48G-Mali-G615_MC6-1777918851.json"
-  },
-  {
-    "game": "Sifu",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777918842,
-    "filename": "Sifu-Xiaomi-2311DRK48G-Mali-G615_MC6-1777918842.json"
   }
 ]
