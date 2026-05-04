@@ -1,5 +1,12 @@
 [
   {
+    "game": "Portal",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777869019,
+    "filename": "Portal-Anbernic-RGCUBE-Mali-G57-1777869019.json"
+  },
+  {
     "game": "Combat_Master__Season_4",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777855269,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2409BRN2CY-Mali-G52_MC2-1777855269.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777855266,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2409BRN2CY-Mali-G52_MC2-1777855266.json"
   }
 ]
