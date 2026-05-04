@@ -1,5 +1,12 @@
 [
   {
+    "game": "poppy",
+    "manufacturer": "LX9",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777855297,
+    "filename": "poppy-HUAWEI-MAO-LX9-Adreno__TM__610-1777855297.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1777846869,
     "filename": "Lucky_Tower_Ultimate-motorola-moto_g84_5G-Adreno__TM__619-1777846869.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777846386,
-    "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777846386.json"
   }
 ]
