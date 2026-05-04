@@ -1,5 +1,12 @@
 [
   {
+    "game": "Transistor",
+    "manufacturer": "Odin2_Portal",
+    "device": "QCS8550",
+    "timestamp": 1777855977,
+    "filename": "Transistor-AYN-Odin2_Portal-QCS8550-1777855977.json"
+  },
+  {
     "game": "poppy",
     "manufacturer": "LX9",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1777847326,
     "filename": "Undertale-motorola-moto_g84_5G-Adreno__TM__619-1777847326.json"
-  },
-  {
-    "game": "Lucky_Tower_Ultimate",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1777846869,
-    "filename": "Lucky_Tower_Ultimate-motorola-moto_g84_5G-Adreno__TM__619-1777846869.json"
   }
 ]
