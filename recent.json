@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777862521,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1777862521.json"
+  },
+  {
     "game": "mvp2005",
     "manufacturer": "S931U",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777852001,
     "filename": "Need_for_Speed_9-Xiaomi-25053PC47G-Adreno__TM__825-1777852001.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "S942B",
-    "device": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
-    "timestamp": 1777851816,
-    "filename": "PlayGTAV-samsung-SM-S942B-ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_-1777851816.json"
   }
 ]
