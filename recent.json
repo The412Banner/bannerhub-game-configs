@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__1",
+    "manufacturer": "S908E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1777863922,
+    "filename": "Battlefield__1-samsung-SM-S908E-Adreno__TM__730-1777863922.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g82_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__722",
     "timestamp": 1777853420,
     "filename": "Subnautica-Nothing-A069P-Adreno__TM__722-1777853420.json"
-  },
-  {
-    "game": "MiSide",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777853049,
-    "filename": "MiSide-INFINIX-Infinix_X6885-Mali-G57_MC2-1777853049.json"
   }
 ]
