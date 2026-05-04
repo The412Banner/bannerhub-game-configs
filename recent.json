@@ -1,5 +1,12 @@
 [
   {
+    "game": "Subnautica",
+    "manufacturer": "A069P",
+    "device": "Adreno__TM__722",
+    "timestamp": 1777853420,
+    "filename": "Subnautica-Nothing-A069P-Adreno__TM__722-1777853420.json"
+  },
+  {
     "game": "MiSide",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777840196,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g05-Mali-G52_MC2-1777840196.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777840186,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g05-Mali-G52_MC2-1777840186.json"
   }
 ]
