@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1777937514,
+    "filename": "BootstrapPackagedGame-samsung-SM-A346M-Mali-G68_MC4-1777937514.json"
+  },
+  {
     "game": "Dead_Space__2",
     "manufacturer": "CPH2723",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777920164,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23028RA60L-Adreno__TM__610-1777920164.json"
-  },
-  {
-    "game": "Attack_on_Titan_2_-_A_O_T_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777919547,
-    "filename": "Attack_on_Titan_2_-_A_O_T_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1777919547.json"
   }
 ]
