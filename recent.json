@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man",
+    "manufacturer": "vivo_1818",
+    "device": "Adreno__TM__612",
+    "timestamp": 1777881520,
+    "filename": "TheAmazingSpider-Man-vivo-vivo_1818-Adreno__TM__612-1777881520.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2747",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777861752,
     "filename": "Pragmata-Xiaomi-24117RK2CG-Adreno__TM__750-1777861752.json"
-  },
-  {
-    "game": "EasyAntiCheat_Launcher",
-    "manufacturer": "24122RKC7G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777859908,
-    "filename": "EasyAntiCheat_Launcher-Xiaomi-24122RKC7G-Adreno__TM__830-1777859908.json"
   }
 ]
