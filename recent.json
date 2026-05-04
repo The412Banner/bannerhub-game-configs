@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777892263,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25069PTEBG-Mali-G720_MC7-1777892263.json"
+  },
+  {
     "game": "Yakuza_0",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777869019,
     "filename": "Portal-Anbernic-RGCUBE-Mali-G57-1777869019.json"
-  },
-  {
-    "game": "Combat_Master__Season_4",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777869004,
-    "filename": "Combat_Master__Season_4-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777869004.json"
   }
 ]
