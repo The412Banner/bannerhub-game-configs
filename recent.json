@@ -1,5 +1,12 @@
 [
   {
+    "game": "GRID_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777922869,
+    "filename": "GRID_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1777922869.json"
+  },
+  {
     "game": "Tomb_Raider__Underworld",
     "manufacturer": "Mali",
     "device": "G610_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1777915419,
     "filename": "launcher-motorola-motorola_edge_30_pro-Adreno__TM__730-1777915419.json"
-  },
-  {
-    "game": "Little_Nightmares_Enhanced_Edition",
-    "manufacturer": "V2536A",
-    "device": "Adreno__TM__829",
-    "timestamp": 1777913813,
-    "filename": "Little_Nightmares_Enhanced_Edition-vivo-V2536A-Adreno__TM__829-1777913813.json"
   }
 ]
