@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1777893651,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-24069PC21G-Adreno__TM__735-1777893651.json"
+  },
+  {
     "game": "BlackOps",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777871426,
     "filename": "Attack_on_Titan_2_-_A_O_T_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1777871426.json"
-  },
-  {
-    "game": "Combat_Master__Season_4",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777869069,
-    "filename": "Combat_Master__Season_4-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777869069.json"
   }
 ]
