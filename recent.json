@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23028RA60L",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777919465,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23028RA60L-Adreno__TM__610-1777919465.json"
+  },
+  {
     "game": "Assassin_s_Creed__Rogue",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777911876,
     "filename": "Stardew_Valley-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777911876.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777911133,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-OPPO_Reno12_FS_5G-Mali-G57_MC2-1777911133.json"
   }
 ]
