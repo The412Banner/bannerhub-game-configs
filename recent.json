@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777936509,
+    "filename": "BootstrapPackagedGame-Xiaomi-25040RP0AG-Mali-G57_MC2-1777936509.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777919465,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23028RA60L-Adreno__TM__610-1777919465.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Rogue",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777918865,
-    "filename": "Assassin_s_Creed__Rogue-Xiaomi-2311DRK48G-Mali-G615_MC6-1777918865.json"
   }
 ]
