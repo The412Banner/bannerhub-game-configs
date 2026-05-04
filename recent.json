@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777885413,
+    "filename": "Far_Cry_3-Xiaomi-2311DRK48G-Mali-G615_MC6-1777885413.json"
+  },
+  {
     "game": "setup",
     "manufacturer": "PLR110",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777862977,
     "filename": "Dead_Space-Xiaomi-23122PCD1G-Adreno__TM__710-1777862977.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777862521,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1777862521.json"
   }
 ]
