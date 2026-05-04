@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777911133,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-OPPO_Reno12_FS_5G-Mali-G57_MC2-1777911133.json"
+  },
+  {
     "game": "MotoGP17",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777895497,
     "filename": "Gang_Beasts-samsung-SM-A055F-Mali-G52_MC2-1777895497.json"
-  },
-  {
-    "game": "Gang_Beasts",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777895474,
-    "filename": "Gang_Beasts-samsung-SM-A055F-Mali-G52_MC2-1777895474.json"
   }
 ]
