@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1777853049,
+    "filename": "MiSide-INFINIX-Infinix_X6885-Mali-G57_MC2-1777853049.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777840186,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g05-Mali-G52_MC2-1777840186.json"
-  },
-  {
-    "game": "Iron_Snout",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777839245,
-    "filename": "Iron_Snout-Xiaomi-2201116TG-Mali-G57_MC2-1777839245.json"
   }
 ]
