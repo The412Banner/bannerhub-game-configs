@@ -1,5 +1,12 @@
 [
   {
+    "game": "AssassinsCreedIIGame",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1777865821,
+    "filename": "AssassinsCreedIIGame-Xiaomi-24090RA29G-Mali-G615_MC2-1777865821.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "ASUS_AI2401_A",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1777854647,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2409BRN2CY-Mali-G52_MC2-1777854647.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777854640,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2409BRN2CY-Mali-G52_MC2-1777854640.json"
   }
 ]
