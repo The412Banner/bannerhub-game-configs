@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777858794,
+    "filename": "Resident_Evil_3-INFINIX-Infinix_X6873-Mali-G615_MC6-1777858794.json"
+  },
+  {
     "game": "Transistor",
     "manufacturer": "Odin2_Portal",
     "device": "QCS8550",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777847445,
     "filename": "Devil_May_Cry_5-Xiaomi-25053PC47G-Adreno__TM__825-1777847445.json"
-  },
-  {
-    "game": "Undertale",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1777847326,
-    "filename": "Undertale-motorola-moto_g84_5G-Adreno__TM__619-1777847326.json"
   }
 ]
