@@ -1,5 +1,12 @@
 [
   {
+    "game": "Little_Nightmares_Enhanced_Edition",
+    "manufacturer": "V2536A",
+    "device": "Adreno__TM__829",
+    "timestamp": 1777913813,
+    "filename": "Little_Nightmares_Enhanced_Edition-vivo-V2536A-Adreno__TM__829-1777913813.json"
+  },
+  {
     "game": "GTA_V_Launcher",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1777897250,
     "filename": "Resident_Evil_3-Xiaomi-2410CRP4CG-Adreno__TM__732-1777897250.json"
-  },
-  {
-    "game": "MY_HERO_ACADEMIA_All_s_Justice",
-    "manufacturer": "F766B",
-    "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
-    "timestamp": 1777896563,
-    "filename": "MY_HERO_ACADEMIA_All_s_Justice-samsung-SM-F766B-ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_-1777896563.json"
   }
 ]
