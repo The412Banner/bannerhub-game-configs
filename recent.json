@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "2410CRP4CG",
+    "device": "Adreno__TM__732",
+    "timestamp": 1777897250,
+    "filename": "Resident_Evil_3-Xiaomi-2410CRP4CG-Adreno__TM__732-1777897250.json"
+  },
+  {
     "game": "MY_HERO_ACADEMIA_All_s_Justice",
     "manufacturer": "F766B",
     "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__612",
     "timestamp": 1777881520,
     "filename": "TheAmazingSpider-Man-vivo-vivo_1818-Adreno__TM__612-1777881520.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2747",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777874013,
-    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2747-Adreno__TM__840-1777874013.json"
   }
 ]
