@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777920903,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KL5n-Mali-G52_MC2-1777920903.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "23028RA60L",
     "device": "Adreno__TM__610",
     "timestamp": 1777920164,
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1777913585,
     "filename": "GTA_V_Launcher-realme-RMX3933-Mali-G57-1777913585.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "_2024",
-    "device": "Adreno__TM__710",
-    "timestamp": 1777912951,
-    "filename": "Resident_Evil_4-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1777912951.json"
   }
 ]
