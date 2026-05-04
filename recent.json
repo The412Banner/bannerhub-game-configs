@@ -1,5 +1,12 @@
 [
   {
+    "game": "Combat_Master__Season_4",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1777869069,
+    "filename": "Combat_Master__Season_4-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777869069.json"
+  },
+  {
     "game": "Portal",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1777855297,
     "filename": "poppy-HUAWEI-MAO-LX9-Adreno__TM__610-1777855297.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777855269,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2409BRN2CY-Mali-G52_MC2-1777855269.json"
   }
 ]
