@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2015",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1777904606,
+    "filename": "Pro_Evolution_Soccer_2015-motorola-motorola_edge_50_fusion-Adreno__TM__710-1777904606.json"
+  },
+  {
     "game": "JUMP_FORCE",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777888768,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1777888768.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777888759,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1777888759.json"
   }
 ]
