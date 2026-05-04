@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight",
+    "manufacturer": "2201117TG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777926430,
+    "filename": "Hollow_Knight-Xiaomi-2201117TG-Adreno__TM__610-1777926430.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Unitel_SMART_4G_II_SP136",
     "device": "PowerVR_Rogue_GE8322",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777917282,
     "filename": "Call_of_Duty___Ghosts-Xiaomi-2311DRK48G-Mali-G615_MC6-1777917282.json"
-  },
-  {
-    "game": "launcher",
-    "manufacturer": "motorola_edge_30_pro",
-    "device": "Adreno__TM__730",
-    "timestamp": 1777916693,
-    "filename": "launcher-motorola-motorola_edge_30_pro-Adreno__TM__730-1777916693.json"
   }
 ]
