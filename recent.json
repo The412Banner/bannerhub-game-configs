@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Launcher",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777913585,
+    "filename": "GTA_V_Launcher-realme-RMX3933-Mali-G57-1777913585.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "_2024",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
     "timestamp": 1777896563,
     "filename": "MY_HERO_ACADEMIA_All_s_Justice-samsung-SM-F766B-ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_-1777896563.json"
-  },
-  {
-    "game": "MY_HERO_ACADEMIA_All_s_Justice",
-    "manufacturer": "F766B",
-    "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
-    "timestamp": 1777896512,
-    "filename": "MY_HERO_ACADEMIA_All_s_Justice-samsung-SM-F766B-ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_-1777896512.json"
   }
 ]
