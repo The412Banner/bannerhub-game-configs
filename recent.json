@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup",
+    "manufacturer": "PLR110",
+    "device": "Adreno__TM__829",
+    "timestamp": 1777884805,
+    "filename": "setup-OnePlus-PLR110-Adreno__TM__829-1777884805.json"
+  },
+  {
     "game": "EA_Installer_Cleanup",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1777862521,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1777862521.json"
-  },
-  {
-    "game": "mvp2005",
-    "manufacturer": "S931U",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777862116,
-    "filename": "mvp2005-samsung-SM-S931U-Adreno__TM__830-1777862116.json"
   }
 ]
