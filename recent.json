@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777912389,
+    "filename": "Mortal_Kombat_X-Xiaomi-25053PC47G-Adreno__TM__825-1777912389.json"
+  },
+  {
     "game": "Stardew_Valley",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777896388,
     "filename": "Tropico_Reloaded-AYN-Odin2-Adreno__TM__740-1777896388.json"
-  },
-  {
-    "game": "STAR_WARS__Empire_at_War_-_Gold_Pack",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777896371,
-    "filename": "STAR_WARS__Empire_at_War_-_Gold_Pack-AYN-Odin2-Adreno__TM__740-1777896371.json"
   }
 ]
