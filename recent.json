@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider__Underworld",
+    "manufacturer": "Mali",
+    "device": "G610_MC4",
+    "timestamp": 1777922170,
+    "filename": "Tomb_Raider__Underworld-Nothing-A142P-Mali-G610_MC4-1777922170.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__829",
     "timestamp": 1777913813,
     "filename": "Little_Nightmares_Enhanced_Edition-vivo-V2536A-Adreno__TM__829-1777913813.json"
-  },
-  {
-    "game": "GTA_V_Launcher",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777913585,
-    "filename": "GTA_V_Launcher-realme-RMX3933-Mali-G57-1777913585.json"
   }
 ]
