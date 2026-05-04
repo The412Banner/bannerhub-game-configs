@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777858908,
+    "filename": "Devil_May_Cry_5-Xiaomi-25053PC47G-Adreno__TM__825-1777858908.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777849314,
     "filename": "Need_for_Speed__Heat-nubia-NX769J-Adreno__TM__750-1777849314.json"
-  },
-  {
-    "game": "Devil_May_Cry_5",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777847445,
-    "filename": "Devil_May_Cry_5-Xiaomi-25053PC47G-Adreno__TM__825-1777847445.json"
   }
 ]
