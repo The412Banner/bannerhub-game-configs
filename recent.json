@@ -1,5 +1,12 @@
 [
   {
+    "game": "____2016",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777924276,
+    "filename": "____2016-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777924276.json"
+  },
+  {
     "game": "GRID_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__829",
     "timestamp": 1777915466,
     "filename": "Little_Nightmares_Enhanced_Edition-vivo-V2536A-Adreno__TM__829-1777915466.json"
-  },
-  {
-    "game": "launcher",
-    "manufacturer": "motorola_edge_30_pro",
-    "device": "Adreno__TM__730",
-    "timestamp": 1777915419,
-    "filename": "launcher-motorola-motorola_edge_30_pro-Adreno__TM__730-1777915419.json"
   }
 ]
