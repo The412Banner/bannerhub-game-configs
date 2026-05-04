@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "2201116PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1777897871,
+    "filename": "Mafia_II__Classic_-Xiaomi-2201116PG-Adreno__TM__619-1777897871.json"
+  },
+  {
     "game": "Batman___Arkham_Knight",
     "manufacturer": "NX769J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__829",
     "timestamp": 1777884805,
     "filename": "setup-OnePlus-PLR110-Adreno__TM__829-1777884805.json"
-  },
-  {
-    "game": "EA_Installer_Cleanup",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777881623,
-    "filename": "EA_Installer_Cleanup-Xiaomi-2311DRK48G-Mali-G615_MC6-1777881623.json"
   }
 ]
