@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_Installer_Cleanup",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777881623,
+    "filename": "EA_Installer_Cleanup-Xiaomi-2311DRK48G-Mali-G615_MC6-1777881623.json"
+  },
+  {
     "game": "TheAmazingSpider-Man",
     "manufacturer": "vivo_1818",
     "device": "Adreno__TM__612",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777862116,
     "filename": "mvp2005-samsung-SM-S931U-Adreno__TM__830-1777862116.json"
-  },
-  {
-    "game": "Pragmata",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777861752,
-    "filename": "Pragmata-Xiaomi-24117RK2CG-Adreno__TM__750-1777861752.json"
   }
 ]
