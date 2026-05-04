@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777874013,
+    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2747-Adreno__TM__840-1777874013.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777859908,
     "filename": "EasyAntiCheat_Launcher-Xiaomi-24122RKC7G-Adreno__TM__830-1777859908.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777859879,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1777859879.json"
   }
 ]
