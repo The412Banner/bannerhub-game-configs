@@ -1,5 +1,12 @@
 [
   {
+    "game": "Little_Nightmares_Enhanced_Edition",
+    "manufacturer": "V2536A",
+    "device": "Adreno__TM__829",
+    "timestamp": 1777915466,
+    "filename": "Little_Nightmares_Enhanced_Edition-vivo-V2536A-Adreno__TM__829-1777915466.json"
+  },
+  {
     "game": "launcher",
     "manufacturer": "motorola_edge_30_pro",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1777897871,
     "filename": "Mafia_II__Classic_-Xiaomi-2201116PG-Adreno__TM__619-1777897871.json"
-  },
-  {
-    "game": "Batman___Arkham_Knight",
-    "manufacturer": "NX769J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777897251,
-    "filename": "Batman___Arkham_Knight-nubia-NX769J-Adreno__TM__750-1777897251.json"
   }
 ]
