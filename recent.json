@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23028RA60L",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777920164,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23028RA60L-Adreno__TM__610-1777920164.json"
+  },
+  {
     "game": "Attack_on_Titan_2_-_A_O_T_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1777912951,
     "filename": "Resident_Evil_4-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1777912951.json"
-  },
-  {
-    "game": "Mortal_Kombat_X",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777912389,
-    "filename": "Mortal_Kombat_X-Xiaomi-25053PC47G-Adreno__TM__825-1777912389.json"
   }
 ]
