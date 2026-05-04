@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pragmata",
+    "manufacturer": "24117RK2CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1777861752,
+    "filename": "Pragmata-Xiaomi-24117RK2CG-Adreno__TM__750-1777861752.json"
+  },
+  {
     "game": "EasyAntiCheat_Launcher",
     "manufacturer": "24122RKC7G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777850959,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S911B-Adreno__TM__740-1777850959.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2012",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777850880,
-    "filename": "Pro_Evolution_Soccer_2012-samsung-SM-S911B-Adreno__TM__740-1777850880.json"
   }
 ]
