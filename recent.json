@@ -1,5 +1,12 @@
 [
   {
+    "game": "MTA_San_Andreas",
+    "manufacturer": "M145F",
+    "device": "SM6225",
+    "timestamp": 1777928588,
+    "filename": "MTA_San_Andreas-samsung-SM-M145F-SM6225-1777928588.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777918824,
     "filename": "Tomb_Raider-Xiaomi-2311DRK48G-Mali-G615_MC6-1777918824.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25062RN2DL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777918756,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25062RN2DL-Adreno__TM__610-1777918756.json"
   }
 ]
