@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "_2024",
+    "device": "Adreno__TM__710",
+    "timestamp": 1777912951,
+    "filename": "Resident_Evil_4-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1777912951.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
     "timestamp": 1777896512,
     "filename": "MY_HERO_ACADEMIA_All_s_Justice-samsung-SM-F766B-ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_-1777896512.json"
-  },
-  {
-    "game": "Tropico_Reloaded",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777896388,
-    "filename": "Tropico_Reloaded-AYN-Odin2-Adreno__TM__740-1777896388.json"
   }
 ]
