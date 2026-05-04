@@ -1,5 +1,12 @@
 [
   {
+    "game": "launcher",
+    "manufacturer": "motorola_edge_30_pro",
+    "device": "Adreno__TM__730",
+    "timestamp": 1777915419,
+    "filename": "launcher-motorola-motorola_edge_30_pro-Adreno__TM__730-1777915419.json"
+  },
+  {
     "game": "Little_Nightmares_Enhanced_Edition",
     "manufacturer": "V2536A",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1777897251,
     "filename": "Batman___Arkham_Knight-nubia-NX769J-Adreno__TM__750-1777897251.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "2410CRP4CG",
-    "device": "Adreno__TM__732",
-    "timestamp": 1777897250,
-    "filename": "Resident_Evil_3-Xiaomi-2410CRP4CG-Adreno__TM__732-1777897250.json"
   }
 ]
