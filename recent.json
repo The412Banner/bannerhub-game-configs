@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP17",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777905126,
+    "filename": "MotoGP17-realme-RMX5303-Mali-G57-1777905126.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2015",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777888792,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1777888792.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777888768,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1777888768.json"
   }
 ]
