@@ -1,5 +1,12 @@
 [
   {
+    "game": "launcher",
+    "manufacturer": "motorola_edge_30_pro",
+    "device": "Adreno__TM__730",
+    "timestamp": 1777916693,
+    "filename": "launcher-motorola-motorola_edge_30_pro-Adreno__TM__730-1777916693.json"
+  },
+  {
     "game": "Little_Nightmares_Enhanced_Edition",
     "manufacturer": "V2536A",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777898177,
     "filename": "Far_Cry_3-samsung-SM-G781B-Adreno__TM__650-1777898177.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "2201116PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1777897871,
-    "filename": "Mafia_II__Classic_-Xiaomi-2201116PG-Adreno__TM__619-1777897871.json"
   }
 ]
