@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777893329,
+    "filename": "BlackOps-Xiaomi-2311DRK48G-Mali-G615_MC6-1777893329.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777869069,
     "filename": "Combat_Master__Season_4-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777869069.json"
-  },
-  {
-    "game": "Portal",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777869019,
-    "filename": "Portal-Anbernic-RGCUBE-Mali-G57-1777869019.json"
   }
 ]
