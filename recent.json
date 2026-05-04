@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Rogue",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1777918865,
+    "filename": "Assassin_s_Creed__Rogue-Xiaomi-2311DRK48G-Mali-G615_MC6-1777918865.json"
+  },
+  {
     "game": "Attack_on_Titan_2_-_A_O_T_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777911133,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-OPPO_Reno12_FS_5G-Mali-G57_MC2-1777911133.json"
-  },
-  {
-    "game": "MotoGP17",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1777910212,
-    "filename": "MotoGP17-realme-RMX5303-Mali-G57-1777910212.json"
   }
 ]
