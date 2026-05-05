@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A037M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1777995382,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A037M-PowerVR_Rogue_GE8320-1777995382.json"
+  },
+  {
     "game": "KOF_XV",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1777977388,
     "filename": "_______2-AYN-AYN_Thor-Adreno__TM__740-1777977388.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1777974550,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2038-Mali-G52_MC2-1777974550.json"
   }
 ]
