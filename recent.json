@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "NX769J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778015543,
+    "filename": "Mortal_Kombat_X-nubia-NX769J-Adreno__TM__750-1778015543.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1778000777,
     "filename": "Resident_Evil_3-Xiaomi-24069PC21G-Adreno__TM__735-1778000777.json"
-  },
-  {
-    "game": "MARVEL_vs__CAPCOM_Fighting_Collection__Arcade_Classics",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778000467,
-    "filename": "MARVEL_vs__CAPCOM_Fighting_Collection__Arcade_Classics-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778000467.json"
   }
 ]
