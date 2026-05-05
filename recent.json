@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "moto_g42",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778015759,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-motorola-moto_g42-Adreno__TM__610-1778015759.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "NX769J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1778000841,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1778000841.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1778000777,
-    "filename": "Resident_Evil_3-Xiaomi-24069PC21G-Adreno__TM__735-1778000777.json"
   }
 ]
