@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFSC",
+    "manufacturer": "A366B",
+    "device": "Adreno__TM__710",
+    "timestamp": 1778010342,
+    "filename": "NFSC-samsung-SM-A366B-Adreno__TM__710-1778010342.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "W09",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777999982,
     "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777999982.json"
-  },
-  {
-    "game": "GIANTS_Launcher",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777997924,
-    "filename": "GIANTS_Launcher-HONOR-DNP-NX9-Adreno__TM__750-1777997924.json"
   }
 ]
