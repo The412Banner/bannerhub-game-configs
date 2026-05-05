@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23028RA60L",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778003123,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23028RA60L-Adreno__TM__610-1778003123.json"
+  },
+  {
     "game": "Kinjo_no_Hitozuma",
     "manufacturer": "V2352GA",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1777994465,
     "filename": "DEAD_OR_ALIVE_6-Xiaomi-24095PCADG-Mali-G615_MC2-1777994465.json"
-  },
-  {
-    "game": "MY_HERO_ONE_S_JUSTICE_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1777994456,
-    "filename": "MY_HERO_ONE_S_JUSTICE_2-Xiaomi-24095PCADG-Mali-G615_MC2-1777994456.json"
   }
 ]
