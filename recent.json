@@ -1,5 +1,12 @@
 [
   {
+    "game": "InjusticeLauncher",
+    "manufacturer": "S908E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1777956828,
+    "filename": "InjusticeLauncher-samsung-SM-S908E-Adreno__TM__730-1777956828.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "RMX3301",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "SM6225",
     "timestamp": 1777928588,
     "filename": "MTA_San_Andreas-samsung-SM-M145F-SM6225-1777928588.json"
-  },
-  {
-    "game": "Cuphead",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777928103,
-    "filename": "Cuphead-Xiaomi-23043RP34G-Adreno__TM__650-1777928103.json"
   }
 ]
