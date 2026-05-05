@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1777996750,
+    "filename": "God_of_War-Xiaomi-25053PC47G-Adreno__TM__825-1777996750.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "CPH2333",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777979390,
     "filename": "Hogwarts_Legacy-Xiaomi-25102PCBEG-Adreno__TM__840-1777979390.json"
-  },
-  {
-    "game": "Clair_Obscur__Expedition_33",
-    "manufacturer": "25102PCBEG",
-    "device": "Adreno__TM__840",
-    "timestamp": 1777979382,
-    "filename": "Clair_Obscur__Expedition_33-Xiaomi-25102PCBEG-Adreno__TM__840-1777979382.json"
   }
 ]
