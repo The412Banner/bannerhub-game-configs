@@ -1,5 +1,12 @@
 [
   {
+    "game": "Clair_Obscur__Expedition_33",
+    "manufacturer": "25102PCBEG",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777979382,
+    "filename": "Clair_Obscur__Expedition_33-Xiaomi-25102PCBEG-Adreno__TM__840-1777979382.json"
+  },
+  {
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "25102PCBEG",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1777958384,
     "filename": "NoImNotAHuman-HONOR-DNY-NX9-Adreno__TM__720-1777958384.json"
-  },
-  {
-    "game": "NFS_MW",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__720",
-    "timestamp": 1777958344,
-    "filename": "NFS_MW-HONOR-DNY-NX9-Adreno__TM__720-1777958344.json"
   }
 ]
