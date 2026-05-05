@@ -1,5 +1,12 @@
 [
   {
+    "game": "____________",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778023451,
+    "filename": "____________-AYN-AYN_Thor-Adreno__TM__740-1778023451.json"
+  },
+  {
     "game": "FINAL_FANTASY_XV_WINDOWS_EDITION",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1778004930,
     "filename": "Replaced-realme-RMX3686-Mali-G68_MC4-1778004930.json"
-  },
-  {
-    "game": "Need_for_Speed_-_Most_Wanted________________________________",
-    "manufacturer": "RMX5051",
-    "device": "Adreno__TM__810",
-    "timestamp": 1778003618,
-    "filename": "Need_for_Speed_-_Most_Wanted________________________________-realme-RMX5051-Adreno__TM__810-1778003618.json"
   }
 ]
