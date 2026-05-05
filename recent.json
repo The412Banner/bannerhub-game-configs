@@ -1,5 +1,12 @@
 [
   {
+    "game": "RESIDENT_EVIL_5",
+    "manufacturer": "_2024",
+    "device": "Adreno__TM__710",
+    "timestamp": 1778024584,
+    "filename": "RESIDENT_EVIL_5-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1778024584.json"
+  },
+  {
     "game": "TheAmazingSpider-Man2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1778010342,
     "filename": "NFSC-samsung-SM-A366B-Adreno__TM__710-1778010342.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778009254,
-    "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-DBY-W09-Adreno__TM__650-1778009254.json"
   }
 ]
