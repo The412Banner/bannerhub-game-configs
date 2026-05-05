@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hogwarts_Legacy",
+    "manufacturer": "25102PCBEG",
+    "device": "Adreno__TM__840",
+    "timestamp": 1777979390,
+    "filename": "Hogwarts_Legacy-Xiaomi-25102PCBEG-Adreno__TM__840-1777979390.json"
+  },
+  {
     "game": "Clair_Obscur__Expedition_33",
     "manufacturer": "25102PCBEG",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1777958390,
     "filename": "NFSC-HONOR-DNY-NX9-Adreno__TM__720-1777958390.json"
-  },
-  {
-    "game": "NoImNotAHuman",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__720",
-    "timestamp": 1777958384,
-    "filename": "NoImNotAHuman-HONOR-DNY-NX9-Adreno__TM__720-1777958384.json"
   }
 ]
