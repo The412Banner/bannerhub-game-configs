@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Callisto_Protocol_",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778021470,
+    "filename": "The_Callisto_Protocol_-Xiaomi-2510DPC44G-Adreno__TM__830-1778021470.json"
+  },
+  {
     "game": "TheAmazingSpider-Man",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1778002629,
     "filename": "Kinjo_no_Hitozuma-vivo-V2352GA-Adreno__TM__735-1778002629.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1778002146,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1778002146.json"
   }
 ]
