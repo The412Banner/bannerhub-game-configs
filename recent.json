@@ -1,5 +1,12 @@
 [
   {
+    "game": "MY_HERO_ONE_S_JUSTICE_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1777994456,
+    "filename": "MY_HERO_ONE_S_JUSTICE_2-Xiaomi-24095PCADG-Mali-G615_MC2-1777994456.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777971668,
     "filename": "Stardew_Valley-samsung-SM-S938B-Adreno__TM__830-1777971668.json"
-  },
-  {
-    "game": "Stardew_Valley",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777971594,
-    "filename": "Stardew_Valley-samsung-SM-S938B-Adreno__TM__830-1777971594.json"
   }
 ]
