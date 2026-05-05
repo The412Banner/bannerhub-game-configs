@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778015523,
+    "filename": "Red_Dead_Redemption_2-Xiaomi-25053PC47G-Adreno__TM__825-1778015523.json"
+  },
+  {
     "game": "NFSC",
     "manufacturer": "A366B",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778000467,
     "filename": "MARVEL_vs__CAPCOM_Fighting_Collection__Arcade_Classics-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778000467.json"
-  },
-  {
-    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1777999982,
-    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777999982.json"
   }
 ]
