@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2016_myClub",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1777963104,
+    "filename": "Pro_Evolution_Soccer_2016_myClub-realme-RMX3941-Mali-G52_MC2-1777963104.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1777942171,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A715F-Adreno__TM__618-1777942171.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1777937514,
-    "filename": "BootstrapPackagedGame-samsung-SM-A346M-Mali-G68_MC4-1777937514.json"
   }
 ]
