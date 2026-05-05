@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_7_Biohazard",
+    "manufacturer": "ASUSAI2501C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777948414,
+    "filename": "Resident_Evil_7_Biohazard-asus-ASUSAI2501C-Adreno__TM__830-1777948414.json"
+  },
+  {
     "game": "_____5",
     "manufacturer": "PLZ110",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1777927294,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g200_5G-Adreno__TM__660-1777927294.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g200_5G",
-    "device": "Adreno__TM__660",
-    "timestamp": 1777926890,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g200_5G-Adreno__TM__660-1777926890.json"
   }
 ]
