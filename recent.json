@@ -1,5 +1,12 @@
 [
   {
+    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1777999982,
+    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1777999982.json"
+  },
+  {
     "game": "GIANTS_Launcher",
     "manufacturer": "NX9",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1777982216,
     "filename": "MARVEL_Cosmic_Invasion-Xiaomi-M2102J20SG-Adreno__TM__640-1777982216.json"
-  },
-  {
-    "game": "RIDE_6",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1777982015,
-    "filename": "RIDE_6-AYANEO-Pocket_FIT-Adreno__TM__750-1777982015.json"
   }
 ]
