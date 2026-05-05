@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1777943171,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23021RAAEG-Adreno__TM__610-1777943171.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A715F",
     "device": "Adreno__TM__618",
     "timestamp": 1777942348,
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1777922869,
     "filename": "GRID_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1777922869.json"
-  },
-  {
-    "game": "Tomb_Raider__Underworld",
-    "manufacturer": "Mali",
-    "device": "G610_MC4",
-    "timestamp": 1777922170,
-    "filename": "Tomb_Raider__Underworld-Nothing-A142P-Mali-G610_MC4-1777922170.json"
   }
 ]
