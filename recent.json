@@ -1,5 +1,12 @@
 [
   {
+    "game": "Kinjo_no_Hitozuma",
+    "manufacturer": "V2352GA",
+    "device": "Adreno__TM__735",
+    "timestamp": 1778002629,
+    "filename": "Kinjo_no_Hitozuma-vivo-V2352GA-Adreno__TM__735-1778002629.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1777994456,
     "filename": "MY_HERO_ONE_S_JUSTICE_2-Xiaomi-24095PCADG-Mali-G615_MC2-1777994456.json"
-  },
-  {
-    "game": "PRO_EVOLUTION_SOCCER_2018",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1777994222,
-    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-2311DRK48G-Mali-G615_MC6-1777994222.json"
   }
 ]
