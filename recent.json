@@ -1,5 +1,12 @@
 [
   {
+    "game": "_______2",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1777977388,
+    "filename": "_______2-AYN-AYN_Thor-Adreno__TM__740-1777977388.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1777956828,
     "filename": "InjusticeLauncher-samsung-SM-S908E-Adreno__TM__730-1777956828.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "RMX3301",
-    "device": "Adreno__TM__730",
-    "timestamp": 1777955376,
-    "filename": "God_of_War-realme-RMX3301-Adreno__TM__730-1777955376.json"
   }
 ]
