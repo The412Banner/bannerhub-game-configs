@@ -1,5 +1,12 @@
 [
   {
+    "game": "M_U_G_E_N",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778024469,
+    "filename": "M_U_G_E_N-realme-RMX3171-Mali-G52_MC2-1778024469.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778009250,
     "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-DBY-W09-Adreno__TM__650-1778009250.json"
-  },
-  {
-    "game": "MARVEL_Cosmic_Invasion",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778006908,
-    "filename": "MARVEL_Cosmic_Invasion-HONOR-JDY-LX1-Mali-G52_MC2-1778006908.json"
   }
 ]
