@@ -1,5 +1,12 @@
 [
   {
+    "game": "FINAL_FANTASY_XV_WINDOWS_EDITION",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778022157,
+    "filename": "FINAL_FANTASY_XV_WINDOWS_EDITION-nubia-NX799J-Adreno__TM__830-1778022157.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1778003618,
     "filename": "Need_for_Speed_-_Most_Wanted________________________________-realme-RMX5051-Adreno__TM__810-1778003618.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "23028RA60L",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778003123,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23028RA60L-Adreno__TM__610-1778003123.json"
   }
 ]
