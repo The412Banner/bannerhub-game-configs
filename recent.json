@@ -1,5 +1,12 @@
 [
   {
+    "game": "MARVEL_Cosmic_Invasion",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1777982216,
+    "filename": "MARVEL_Cosmic_Invasion-Xiaomi-M2102J20SG-Adreno__TM__640-1777982216.json"
+  },
+  {
     "game": "RIDE_6",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777960285,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-asus-ASUSAI2501C-Adreno__TM__830-1777960285.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1777959664,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777959664.json"
   }
 ]
