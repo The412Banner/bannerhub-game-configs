@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778024421,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1778024421.json"
+  },
+  {
     "game": "_________",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778006908,
     "filename": "MARVEL_Cosmic_Invasion-HONOR-JDY-LX1-Mali-G52_MC2-1778006908.json"
-  },
-  {
-    "game": "MARVEL_Cosmic_Invasion",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778005016,
-    "filename": "MARVEL_Cosmic_Invasion-HONOR-JDY-LX1-Mali-G52_MC2-1778005016.json"
   }
 ]
