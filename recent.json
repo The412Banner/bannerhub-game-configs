@@ -1,5 +1,12 @@
 [
   {
+    "game": "Replaced",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1778004930,
+    "filename": "Replaced-realme-RMX3686-Mali-G68_MC4-1778004930.json"
+  },
+  {
     "game": "Need_for_Speed_-_Most_Wanted________________________________",
     "manufacturer": "RMX5051",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1777994484,
     "filename": "KOF_XV-Xiaomi-24095PCADG-Mali-G615_MC2-1777994484.json"
-  },
-  {
-    "game": "SOULCALIBUR__",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1777994471,
-    "filename": "SOULCALIBUR__-Xiaomi-24095PCADG-Mali-G615_MC2-1777994471.json"
   }
 ]
