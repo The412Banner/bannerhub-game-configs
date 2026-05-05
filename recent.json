@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1777954429,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-25028PC03G-Mali-G57-1777954429.json"
+  },
+  {
     "game": "Resident_Evil_7_Biohazard",
     "manufacturer": "ASUSAI2501C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1777928097,
     "filename": "Minecraft__Story_Mode-Xiaomi-23043RP34G-Adreno__TM__650-1777928097.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g200_5G",
-    "device": "Adreno__TM__660",
-    "timestamp": 1777927294,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g200_5G-Adreno__TM__660-1777927294.json"
   }
 ]
