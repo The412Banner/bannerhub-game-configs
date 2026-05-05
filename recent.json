@@ -1,5 +1,12 @@
 [
   {
+    "game": "Risk_of_Rain_Returns",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778023549,
+    "filename": "Risk_of_Rain_Returns-AYN-AYN_Thor-Adreno__TM__740-1778023549.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778004950,
     "filename": "MARVEL_Cosmic_Invasion-HONOR-JDY-LX1-Mali-G52_MC2-1778004950.json"
-  },
-  {
-    "game": "Replaced",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1778004937,
-    "filename": "Replaced-realme-RMX3686-Mali-G68_MC4-1778004937.json"
   }
 ]
