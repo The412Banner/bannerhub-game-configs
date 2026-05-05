@@ -1,5 +1,12 @@
 [
   {
+    "game": "____2016",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1777987612,
+    "filename": "____2016-Xiaomi-2412DPC0AG-Mali-G720_MC7-1777987612.json"
+  },
+  {
     "game": "RivalsofAether",
     "manufacturer": "23049RAD8C",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777962053,
     "filename": "PlayGTAV-Xiaomi-23117RA68G-Mali-G57_MC2-1777962053.json"
-  },
-  {
-    "game": "Batman___Arkham_Knight",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777960496,
-    "filename": "Batman___Arkham_Knight-nubia-NP05J-Adreno__TM__830-1777960496.json"
   }
 ]
