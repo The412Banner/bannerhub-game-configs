@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "W09",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778009250,
+    "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-DBY-W09-Adreno__TM__650-1778009250.json"
+  },
+  {
     "game": "MARVEL_Cosmic_Invasion",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1777996855,
     "filename": "re2-Xiaomi-2109119DG-Adreno__TM__642L-1777996855.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1777996750,
-    "filename": "God_of_War-Xiaomi-25053PC47G-Adreno__TM__825-1777996750.json"
   }
 ]
