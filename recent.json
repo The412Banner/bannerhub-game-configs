@@ -1,5 +1,12 @@
 [
   {
+    "game": "RivalsofAether",
+    "manufacturer": "23049RAD8C",
+    "device": "Adreno__TM__725",
+    "timestamp": 1777984319,
+    "filename": "RivalsofAether-Xiaomi-23049RAD8C-Adreno__TM__725-1777984319.json"
+  },
+  {
     "game": "MARVEL_Cosmic_Invasion",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777960496,
     "filename": "Batman___Arkham_Knight-nubia-NP05J-Adreno__TM__830-1777960496.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "ASUSAI2501C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1777960285,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-asus-ASUSAI2501C-Adreno__TM__830-1777960285.json"
   }
 ]
