@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman___Arkham_Knight",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777960496,
+    "filename": "Batman___Arkham_Knight-nubia-NP05J-Adreno__TM__830-1777960496.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "ASUSAI2501C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1777936940,
     "filename": "Dead_Space__2-OnePlus-CPH2723-Adreno__TM__830-1777936940.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1777936509,
-    "filename": "BootstrapPackagedGame-Xiaomi-25040RP0AG-Mali-G57_MC2-1777936509.json"
   }
 ]
