@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Revelations",
+    "manufacturer": "Mali",
+    "device": "G76_MC4",
+    "timestamp": 1777995621,
+    "filename": "Assassin_s_Creed__Revelations-realme-RMX3085-Mali-G76_MC4-1777995621.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A037M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1777979376,
     "filename": "God_of_War_Ragnar_k-Xiaomi-25102PCBEG-Adreno__TM__840-1777979376.json"
-  },
-  {
-    "game": "_______2",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1777977388,
-    "filename": "_______2-AYN-AYN_Thor-Adreno__TM__740-1777977388.json"
   }
 ]
