@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "ASUSAI2501C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1777960285,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-asus-ASUSAI2501C-Adreno__TM__830-1777960285.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1777936509,
     "filename": "BootstrapPackagedGame-Xiaomi-25040RP0AG-Mali-G57_MC2-1777936509.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23021RAAEG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1777935853,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23021RAAEG-Adreno__TM__610-1777935853.json"
   }
 ]
