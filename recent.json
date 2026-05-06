@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Village",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778100754,
+    "filename": "Resident_Evil_Village-ayn-Odin3-Adreno__TM__830-1778100754.json"
+  },
+  {
     "game": "Yakuza_0",
     "manufacturer": "Retroid_Pocket_G2",
     "device": "Adreno__TM__22",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778084386,
     "filename": "Garry_s_Mod-Xiaomi-2201116TG-Mali-G57_MC2-1778084386.json"
-  },
-  {
-    "game": "Dead_Space__",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1778084316,
-    "filename": "Dead_Space__-Xiaomi-M2102J20SG-Adreno__TM__640-1778084316.json"
   }
 ]
