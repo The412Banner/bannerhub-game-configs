@@ -1,5 +1,12 @@
 [
   {
+    "game": "2K_Sports_NBA_2K14",
+    "manufacturer": "24115RA8EG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1778072983,
+    "filename": "2K_Sports_NBA_2K14-Xiaomi-24115RA8EG-Adreno__TM__810-1778072983.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778059201,
     "filename": "Forza_Horizon_2_Launcher-realme-RMX5555-Adreno__TM__610-1778059201.json"
-  },
-  {
-    "game": "Dying_Light_2_Stay_Human__Reloaded_Edition",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778059147,
-    "filename": "Dying_Light_2_Stay_Human__Reloaded_Edition-nubia-NX799J-Adreno__TM__830-1778059147.json"
   }
 ]
