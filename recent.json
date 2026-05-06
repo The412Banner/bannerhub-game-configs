@@ -1,5 +1,12 @@
 [
   {
+    "game": "Days_Gone",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778085185,
+    "filename": "Days_Gone-ayn-Odin3-Adreno__TM__830-1778085185.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778072158,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2577-Mali-G52_MC2-1778072158.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778072025,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2577-Mali-G52_MC2-1778072025.json"
   }
 ]
