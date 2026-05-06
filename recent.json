@@ -1,5 +1,12 @@
 [
   {
+    "game": "ASW",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778075708,
+    "filename": "ASW-Xiaomi-25053PC47G-Adreno__TM__825-1778075708.json"
+  },
+  {
     "game": "MotoGP17",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778061123,
     "filename": "Pro_Evolution_Soccer_2017-HONOR-BVL-N49-Adreno__TM__750-1778061123.json"
-  },
-  {
-    "game": "RESIDENT_EVIL_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778060083,
-    "filename": "RESIDENT_EVIL_5-realme-RMX3241-Mali-G57_MC2-1778060083.json"
   }
 ]
