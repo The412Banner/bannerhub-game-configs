@@ -1,5 +1,12 @@
 [
   {
+    "game": "Garry_s_Mod",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1778029008,
+    "filename": "Garry_s_Mod-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1778029008.json"
+  },
+  {
     "game": "iw3mp",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778020997,
     "filename": "TheAmazingSpider-Man-Xiaomi-2311DRK48G-Mali-G615_MC6-1778020997.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778020984,
-    "filename": "Resident_Evil_5-Xiaomi-25053PC47G-Adreno__TM__825-1778020984.json"
   }
 ]
