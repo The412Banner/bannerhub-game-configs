@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778084888,
+    "filename": "Resident_Evil_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1778084888.json"
+  },
+  {
     "game": "Garry_s_Mod",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778072025,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2577-Mali-G52_MC2-1778072025.json"
-  },
-  {
-    "game": "Garry_s_Mod",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778070837,
-    "filename": "Garry_s_Mod-Xiaomi-2201116TG-Mali-G57_MC2-1778070837.json"
   }
 ]
