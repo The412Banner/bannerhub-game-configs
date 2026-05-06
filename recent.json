@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778026678,
+    "filename": "Pro_Evolution_Soccer_2013-vivo-V2332-Mali-G52_MC2-1778026678.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
     "timestamp": 1778026501,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778015543,
     "filename": "Mortal_Kombat_X-nubia-NX769J-Adreno__TM__750-1778015543.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778015523,
-    "filename": "Red_Dead_Redemption_2-Xiaomi-25053PC47G-Adreno__TM__825-1778015523.json"
   }
 ]
