@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778076010,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1778076010.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "N49",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778080115,
     "filename": "Hollow_Knight__Silksong-samsung-SM-A055M-Mali-G52_MC2-1778080115.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778079703,
-    "filename": "Resident_Evil_Revelations_2-ayn-Odin3-Adreno__TM__830-1778079703.json"
   }
 ]
