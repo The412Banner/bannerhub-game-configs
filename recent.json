@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778083947,
+    "filename": "Resident_Evil_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1778083947.json"
+  },
+  {
     "game": "NFSC",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778069029,
     "filename": "MotoGP17-realme-RMX5303-Mali-G57-1778069029.json"
-  },
-  {
-    "game": "GRID_2",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778068530,
-    "filename": "GRID_2-AYANEO-Pocket_FIT-Adreno__TM__750-1778068530.json"
   }
 ]
