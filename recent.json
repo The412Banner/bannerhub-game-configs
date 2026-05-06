@@ -1,5 +1,12 @@
 [
   {
+    "game": "Kerbal_Space_Program",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778104422,
+    "filename": "Kerbal_Space_Program-LENOVO-TB322FC-Adreno__TM__830-1778104422.json"
+  },
+  {
     "game": "Exit_the_Gungeon",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778086452,
     "filename": "Replaced-ayn-Odin3-Adreno__TM__830-1778086452.json"
-  },
-  {
-    "game": "Replaced",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778086314,
-    "filename": "Replaced-ayn-Odin3-Adreno__TM__830-1778086314.json"
   }
 ]
