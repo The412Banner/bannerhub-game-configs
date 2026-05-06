@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Z__KAKAROT",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1778039670,
+    "filename": "DRAGON_BALL_Z__KAKAROT-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778039670.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778023549,
     "filename": "Risk_of_Rain_Returns-AYN-AYN_Thor-Adreno__TM__740-1778023549.json"
-  },
-  {
-    "game": "Resident_Evil_4__2005_",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778023515,
-    "filename": "Resident_Evil_4__2005_-Xiaomi-25053PC47G-Adreno__TM__825-1778023515.json"
   }
 ]
