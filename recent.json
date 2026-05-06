@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778054911,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1778054911.json"
+  },
+  {
     "game": "EndlessSpace2",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778029181,
     "filename": "Left_4_Dead_2-realme-RMX3241-Mali-G57_MC2-1778029181.json"
-  },
-  {
-    "game": "Garry_s_Mod",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1778029008,
-    "filename": "Garry_s_Mod-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1778029008.json"
   }
 ]
