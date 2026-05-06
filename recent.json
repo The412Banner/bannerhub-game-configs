@@ -1,5 +1,12 @@
 [
   {
+    "game": "Thief",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778063273,
+    "filename": "Thief-Xiaomi-2311DRK48G-Mali-G615_MC6-1778063273.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778041590,
     "filename": "JUMP_FORCE-TECNO-TECNO_LJ9-Mali-G615_MC6-1778041590.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778039775,
-    "filename": "Left_4_Dead_2-realme-RMX3241-Mali-G57_MC2-1778039775.json"
   }
 ]
