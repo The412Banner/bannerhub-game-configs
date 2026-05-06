@@ -1,5 +1,12 @@
 [
   {
+    "game": "Gothic_II",
+    "manufacturer": "N49",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778056820,
+    "filename": "Gothic_II-HONOR-PTP-N49-Adreno__TM__830-1778056820.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778031325,
     "filename": "Just_Cause_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1778031325.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778029181,
-    "filename": "Left_4_Dead_2-realme-RMX3241-Mali-G57_MC2-1778029181.json"
   }
 ]
