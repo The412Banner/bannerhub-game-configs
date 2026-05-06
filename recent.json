@@ -1,5 +1,12 @@
 [
   {
+    "game": "Launch",
+    "manufacturer": "Xiaomi",
+    "device": "23053RN02A",
+    "timestamp": 1778032880,
+    "filename": "Launch-Xiaomi-23053RN02A-1778032880.json"
+  },
+  {
     "game": "Subnautica",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778022157,
     "filename": "FINAL_FANTASY_XV_WINDOWS_EDITION-nubia-NX799J-Adreno__TM__830-1778022157.json"
-  },
-  {
-    "game": "eFootball_PES_2021_SEASON_UPDATE",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778021797,
-    "filename": "eFootball_PES_2021_SEASON_UPDATE-samsung-SM-A155M-Mali-G57_MC2-1778021797.json"
   }
 ]
