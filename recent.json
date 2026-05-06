@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778099190,
+    "filename": "BootstrapPackagedGame-ayn-Odin3-Adreno__TM__830-1778099190.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778084102,
     "filename": "Escape_from_Ever_After-AYANEO-Pocket_FIT-Adreno__TM__750-1778084102.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778083947,
-    "filename": "Resident_Evil_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1778083947.json"
   }
 ]
