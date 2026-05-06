@@ -1,5 +1,12 @@
 [
   {
+    "game": "CONTROL_Ultimate_Edition",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778043172,
+    "filename": "CONTROL_Ultimate_Edition-Xiaomi-23113RKC6G-Adreno__TM__740-1778043172.json"
+  },
+  {
     "game": "Launcher",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1778024584,
     "filename": "RESIDENT_EVIL_5-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1778024584.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778024550,
-    "filename": "TheAmazingSpider-Man2-Xiaomi-2311DRK48G-Mali-G615_MC6-1778024550.json"
   }
 ]
