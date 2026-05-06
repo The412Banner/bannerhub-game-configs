@@ -1,5 +1,12 @@
 [
   {
+    "game": "Garry_s_Mod",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778070837,
+    "filename": "Garry_s_Mod-Xiaomi-2201116TG-Mali-G57_MC2-1778070837.json"
+  },
+  {
     "game": "PUBG__BATTLEGROUNDS",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778056820,
     "filename": "Gothic_II-HONOR-PTP-N49-Adreno__TM__830-1778056820.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778054911,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1778054911.json"
   }
 ]
