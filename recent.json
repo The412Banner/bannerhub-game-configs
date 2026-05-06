@@ -1,5 +1,12 @@
 [
   {
+    "game": "Exit_the_Gungeon",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778103861,
+    "filename": "Exit_the_Gungeon-LENOVO-TB321FU-Adreno__TM__750-1778103861.json"
+  },
+  {
     "game": "Prototype_2",
     "manufacturer": "M2010J19CG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778086314,
     "filename": "Replaced-ayn-Odin3-Adreno__TM__830-1778086314.json"
-  },
-  {
-    "game": "Replaced",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778086012,
-    "filename": "Replaced-ayn-Odin3-Adreno__TM__830-1778086012.json"
   }
 ]
