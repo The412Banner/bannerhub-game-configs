@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "N49",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778061123,
+    "filename": "Pro_Evolution_Soccer_2017-HONOR-BVL-N49-Adreno__TM__750-1778061123.json"
+  },
+  {
     "game": "RESIDENT_EVIL_5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778038006,
     "filename": "Cuphead-samsung-SM-A055M-Mali-G52_MC2-1778038006.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1778037844,
-    "filename": "Pro_Evolution_Soccer_2017-realme-RMX3867-Mali-G68_MC4-1778037844.json"
   }
 ]
