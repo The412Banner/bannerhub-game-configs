@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778026761,
+    "filename": "BootstrapPackagedGame-Xiaomi-2311DRK48G-Mali-G615_MC6-1778026761.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778015759,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-motorola-moto_g42-Adreno__TM__610-1778015759.json"
-  },
-  {
-    "game": "Mortal_Kombat_X",
-    "manufacturer": "NX769J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778015543,
-    "filename": "Mortal_Kombat_X-nubia-NX769J-Adreno__TM__750-1778015543.json"
   }
 ]
