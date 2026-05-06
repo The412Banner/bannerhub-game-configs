@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778080115,
+    "filename": "Hollow_Knight__Silksong-samsung-SM-A055M-Mali-G52_MC2-1778080115.json"
+  },
+  {
     "game": "Resident_Evil_Revelations_2",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778067362,
     "filename": "Super_Alloy_Crush-AYANEO-Pocket_FIT-Adreno__TM__750-1778067362.json"
-  },
-  {
-    "game": "Tennis_Elbow_4",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778067354,
-    "filename": "Tennis_Elbow_4-AYANEO-Pocket_FIT-Adreno__TM__750-1778067354.json"
   }
 ]
