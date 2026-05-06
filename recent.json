@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw3mp",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778028033,
+    "filename": "iw3mp-Xiaomi-2311DRK48G-Mali-G615_MC6-1778028033.json"
+  },
+  {
     "game": "RooftopsandAlleys",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778020984,
     "filename": "Resident_Evil_5-Xiaomi-25053PC47G-Adreno__TM__825-1778020984.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "moto_g42",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778016129,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-motorola-moto_g42-Adreno__TM__610-1778016129.json"
   }
 ]
