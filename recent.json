@@ -1,5 +1,12 @@
 [
   {
+    "game": "JUMP_FORCE",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778041590,
+    "filename": "JUMP_FORCE-TECNO-TECNO_LJ9-Mali-G615_MC6-1778041590.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778024421,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1778024421.json"
-  },
-  {
-    "game": "_________",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778023620,
-    "filename": "_________-AYN-AYN_Thor-Adreno__TM__740-1778023620.json"
   }
 ]
