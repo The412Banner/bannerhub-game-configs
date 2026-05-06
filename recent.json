@@ -1,5 +1,12 @@
 [
   {
+    "game": "Super_Alloy_Crush",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778067362,
+    "filename": "Super_Alloy_Crush-AYANEO-Pocket_FIT-Adreno__TM__750-1778067362.json"
+  },
+  {
     "game": "Tennis_Elbow_4",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778043172,
     "filename": "CONTROL_Ultimate_Edition-Xiaomi-23113RKC6G-Adreno__TM__740-1778043172.json"
-  },
-  {
-    "game": "Launcher",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778042788,
-    "filename": "Launcher-LENOVO-TB322FC-Adreno__TM__830-1778042788.json"
   }
 ]
