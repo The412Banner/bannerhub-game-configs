@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778098617,
+    "filename": "Euro_Truck_Simulator_2-reeder-S19_Max_Pro_S_Edge-Mali-G57-1778098617.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778083947,
     "filename": "Resident_Evil_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1778083947.json"
-  },
-  {
-    "game": "NFSC",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1778083771,
-    "filename": "NFSC-INFINIX-Infinix_X6871-Mali-G610_MC6-1778083771.json"
   }
 ]
