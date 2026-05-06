@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778088507,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1778088507.json"
+  },
+  {
     "game": "Replaced",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1778076878,
     "filename": "ravenfield-vivo-V2505A-Adreno__TM__840-1778076878.json"
-  },
-  {
-    "game": "ASW",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778075708,
-    "filename": "ASW-Xiaomi-25053PC47G-Adreno__TM__825-1778075708.json"
   }
 ]
