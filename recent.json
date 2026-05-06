@@ -1,5 +1,12 @@
 [
   {
+    "game": "RESIDENT_EVIL_5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778060083,
+    "filename": "RESIDENT_EVIL_5-realme-RMX3241-Mali-G57_MC2-1778060083.json"
+  },
+  {
     "game": "Forza_Horizon_2_Launcher",
     "manufacturer": "RMX5555",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1778037844,
     "filename": "Pro_Evolution_Soccer_2017-realme-RMX3867-Mali-G68_MC4-1778037844.json"
-  },
-  {
-    "game": "Launch",
-    "manufacturer": "Xiaomi",
-    "device": "23053RN02A",
-    "timestamp": 1778032880,
-    "filename": "Launch-Xiaomi-23053RN02A-1778032880.json"
   }
 ]
