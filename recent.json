@@ -3,6 +3,13 @@
     "game": "Replaced",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
+    "timestamp": 1778086452,
+    "filename": "Replaced-ayn-Odin3-Adreno__TM__830-1778086452.json"
+  },
+  {
+    "game": "Replaced",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
     "timestamp": 1778086314,
     "filename": "Replaced-ayn-Odin3-Adreno__TM__830-1778086314.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778075708,
     "filename": "ASW-Xiaomi-25053PC47G-Adreno__TM__825-1778075708.json"
-  },
-  {
-    "game": "MotoGP17",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778073171,
-    "filename": "MotoGP17-Xiaomi-24117RN76O-Mali-G57_MC2-1778073171.json"
   }
 ]
