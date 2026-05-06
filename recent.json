@@ -1,5 +1,12 @@
 [
   {
+    "game": "Subnautica",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1778032648,
+    "filename": "Subnautica-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1778032648.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778021797,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-samsung-SM-A155M-Mali-G57_MC2-1778021797.json"
-  },
-  {
-    "game": "The_Callisto_Protocol_",
-    "manufacturer": "2510DPC44G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778021470,
-    "filename": "The_Callisto_Protocol_-Xiaomi-2510DPC44G-Adreno__TM__830-1778021470.json"
   }
 ]
