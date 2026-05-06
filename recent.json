@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Revelations_2",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778079703,
+    "filename": "Resident_Evil_Revelations_2-ayn-Odin3-Adreno__TM__830-1778079703.json"
+  },
+  {
     "game": "Far_Cry__4",
     "manufacturer": "S916B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778067354,
     "filename": "Tennis_Elbow_4-AYANEO-Pocket_FIT-Adreno__TM__750-1778067354.json"
-  },
-  {
-    "game": "pants",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778067281,
-    "filename": "pants-Xiaomi-25028PC03G-Mali-G57-1778067281.json"
   }
 ]
