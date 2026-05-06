@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2014",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1778047280,
+    "filename": "F1_2014-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778047280.json"
+  },
+  {
     "game": "EndlessSpace2",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778027652,
     "filename": "RooftopsandAlleys-Xiaomi-2311DRK48G-Mali-G615_MC6-1778027652.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778026761,
-    "filename": "BootstrapPackagedGame-Xiaomi-2311DRK48G-Mali-G615_MC6-1778026761.json"
   }
 ]
