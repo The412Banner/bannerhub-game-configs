@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778093204,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Amazon-KFTUWI-Mali-G52_MC2-1778093204.json"
+  },
+  {
     "game": "GTA_IV_1_6_6________________________________________________",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1778082315,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-INFINIX-Infinix_X6871-Mali-G610_MC6-1778082315.json"
-  },
-  {
-    "game": "Cuphead",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778080524,
-    "filename": "Cuphead-samsung-SM-A055M-Mali-G52_MC2-1778080524.json"
   }
 ]
