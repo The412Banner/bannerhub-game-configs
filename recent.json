@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778038006,
+    "filename": "Cuphead-samsung-SM-A055M-Mali-G52_MC2-1778038006.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778023515,
     "filename": "Resident_Evil_4__2005_-Xiaomi-25053PC47G-Adreno__TM__825-1778023515.json"
-  },
-  {
-    "game": "____________",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778023451,
-    "filename": "____________-AYN-AYN_Thor-Adreno__TM__740-1778023451.json"
   }
 ]
