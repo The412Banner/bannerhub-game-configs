@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_IV_1_6_6________________________________________________",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778092434,
+    "filename": "GTA_IV_1_6_6________________________________________________-Amazon-KFTUWI-Mali-G52_MC2-1778092434.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778080524,
     "filename": "Cuphead-samsung-SM-A055M-Mali-G52_MC2-1778080524.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778080115,
-    "filename": "Hollow_Knight__Silksong-samsung-SM-A055M-Mali-G52_MC2-1778080115.json"
   }
 ]
