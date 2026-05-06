@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778072025,
+    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2577-Mali-G52_MC2-1778072025.json"
+  },
+  {
     "game": "Garry_s_Mod",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1778057057,
     "filename": "Red_Dead_Redemption-nubia-NX809J-Adreno__TM__840-1778057057.json"
-  },
-  {
-    "game": "Gothic_II",
-    "manufacturer": "N49",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778056820,
-    "filename": "Gothic_II-HONOR-PTP-N49-Adreno__TM__830-1778056820.json"
   }
 ]
