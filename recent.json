@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778031325,
+    "filename": "Just_Cause_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1778031325.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778021079,
     "filename": "TheAmazingSpider-Man-Xiaomi-2311DRK48G-Mali-G615_MC6-1778021079.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778021015,
-    "filename": "Mafia_II__Classic_-Xiaomi-25053PC47G-Adreno__TM__825-1778021015.json"
   }
 ]
