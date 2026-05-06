@@ -1,5 +1,12 @@
 [
   {
+    "game": "Halo__The_Master_Chief_Collection",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778043748,
+    "filename": "Halo__The_Master_Chief_Collection-Xiaomi-25053PC47G-Adreno__TM__825-1778043748.json"
+  },
+  {
     "game": "CONTROL_Ultimate_Edition",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778026501,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23021RAAEG-Adreno__TM__610-1778026501.json"
-  },
-  {
-    "game": "RESIDENT_EVIL_5",
-    "manufacturer": "_2024",
-    "device": "Adreno__TM__710",
-    "timestamp": 1778024584,
-    "filename": "RESIDENT_EVIL_5-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1778024584.json"
   }
 ]
