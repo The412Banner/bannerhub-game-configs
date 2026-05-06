@@ -1,5 +1,12 @@
 [
   {
+    "game": "Launcher",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778042788,
+    "filename": "Launcher-LENOVO-TB322FC-Adreno__TM__830-1778042788.json"
+  },
+  {
     "game": "Teenage_Mutant_Ninja_Turtles__Splintered_Fate",
     "manufacturer": "moto_g53_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778024550,
     "filename": "TheAmazingSpider-Man2-Xiaomi-2311DRK48G-Mali-G615_MC6-1778024550.json"
-  },
-  {
-    "game": "M_U_G_E_N",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778024469,
-    "filename": "M_U_G_E_N-realme-RMX3171-Mali-G52_MC2-1778024469.json"
   }
 ]
