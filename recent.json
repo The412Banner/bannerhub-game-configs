@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tennis_Elbow_4",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778067354,
+    "filename": "Tennis_Elbow_4-AYANEO-Pocket_FIT-Adreno__TM__750-1778067354.json"
+  },
+  {
     "game": "pants",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778042788,
     "filename": "Launcher-LENOVO-TB322FC-Adreno__TM__830-1778042788.json"
-  },
-  {
-    "game": "Teenage_Mutant_Ninja_Turtles__Splintered_Fate",
-    "manufacturer": "moto_g53_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1778041993,
-    "filename": "Teenage_Mutant_Ninja_Turtles__Splintered_Fate-motorola-moto_g53_5G-Adreno__TM__619-1778041993.json"
   }
 ]
