@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778039775,
+    "filename": "Left_4_Dead_2-realme-RMX3241-Mali-G57_MC2-1778039775.json"
+  },
+  {
     "game": "DRAGON_BALL_Z__KAKAROT",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778023620,
     "filename": "_________-AYN-AYN_Thor-Adreno__TM__740-1778023620.json"
-  },
-  {
-    "game": "Risk_of_Rain_Returns",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778023549,
-    "filename": "Risk_of_Rain_Returns-AYN-AYN_Thor-Adreno__TM__740-1778023549.json"
   }
 ]
