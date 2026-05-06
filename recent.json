@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1778091321,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778091321.json"
+  },
+  {
     "game": "My_Friend_Pedro_-_Blood_Bullets_Bananas",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778077805,
     "filename": "Far_Cry__4-samsung-SM-S916B-Adreno__TM__740-1778077805.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778077740,
-    "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778077740.json"
   }
 ]
