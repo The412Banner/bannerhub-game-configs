@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Requiem",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778105839,
+    "filename": "Resident_Evil_Requiem-nubia-NX789J-Adreno__TM__830-1778105839.json"
+  },
+  {
     "game": "Kerbal_Space_Program",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778088507,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1778088507.json"
-  },
-  {
-    "game": "Replaced",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778086452,
-    "filename": "Replaced-ayn-Odin3-Adreno__TM__830-1778086452.json"
   }
 ]
