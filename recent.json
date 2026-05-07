@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_by_Daylight",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1778118453,
+    "filename": "Dead_by_Daylight-samsung-SM-X610-Mali-G68-1778118453.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778093204,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Amazon-KFTUWI-Mali-G52_MC2-1778093204.json"
-  },
-  {
-    "game": "GTA_IV_1_6_6________________________________________________",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778092434,
-    "filename": "GTA_IV_1_6_6________________________________________________-Amazon-KFTUWI-Mali-G52_MC2-1778092434.json"
   }
 ]
