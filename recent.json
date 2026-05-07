@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP17",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1778173755,
+    "filename": "MotoGP17-INFINIX-Infinix_X6871-Mali-G610_MC6-1778173755.json"
+  },
+  {
     "game": "Assassin_s_Creed___Director_s_Cut_Edition",
     "manufacturer": "22021211RG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1778155175,
     "filename": "SPEED2-INFINIX-Infinix_X6871-Mali-G610_MC6-1778155175.json"
-  },
-  {
-    "game": "Replaced",
-    "manufacturer": "Pocket_FIT_Elite",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778152695,
-    "filename": "Replaced-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1778152695.json"
   }
 ]
