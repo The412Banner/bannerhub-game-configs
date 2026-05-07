@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778166713,
+    "filename": "BootstrapPackagedGame-Xiaomi-2406APNFAG-Mali-G615_MC6-1778166713.json"
+  },
+  {
     "game": "dmcLauncher",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778144374,
     "filename": "INSIDE-nubia-NP05J-Adreno__TM__830-1778144374.json"
-  },
-  {
-    "game": "Devil_May_Cry_4_Special_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778143819,
-    "filename": "Devil_May_Cry_4_Special_Edition-TECNO-TECNO_LH7n-Mali-G57_MC2-1778143819.json"
   }
 ]
