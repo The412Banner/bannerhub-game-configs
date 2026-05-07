@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1778114728,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1778114728.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "itel_A663LC",
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1778113298,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778076010,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1778076010.json"
-  },
-  {
-    "game": "Resident_Evil_4__2005_",
-    "manufacturer": "N49",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778091616,
-    "filename": "Resident_Evil_4__2005_-HONOR-PTP-N49-Adreno__TM__830-1778091616.json"
   }
 ]
