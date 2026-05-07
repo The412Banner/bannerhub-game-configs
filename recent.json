@@ -3,6 +3,13 @@
     "game": "WWE_2K22",
     "manufacturer": "Mali",
     "device": "G615_MC2",
+    "timestamp": 1778126989,
+    "filename": "WWE_2K22-OPPO-CPH2629-Mali-G615_MC2-1778126989.json"
+  },
+  {
+    "game": "WWE_2K22",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
     "timestamp": 1778126431,
     "filename": "WWE_2K22-OPPO-CPH2629-Mali-G615_MC2-1778126431.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778102296,
     "filename": "Prototype_2-Xiaomi-M2010J19CG-Adreno__TM__610-1778102296.json"
-  },
-  {
-    "game": "Prototype_2",
-    "manufacturer": "M2010J19CG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778102282,
-    "filename": "Prototype_2-Xiaomi-M2010J19CG-Adreno__TM__610-1778102282.json"
   }
 ]
