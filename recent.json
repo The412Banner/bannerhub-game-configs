@@ -1,5 +1,12 @@
 [
   {
+    "game": "Farming_Simulator_19",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778163600,
+    "filename": "Farming_Simulator_19-samsung-SM-A065M-Mali-G52_MC2-1778163600.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778142359,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-23073RPBFG-Adreno__TM__610-1778142359.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778140729,
-    "filename": "DRAGON_BALL_FighterZ-nubia-NP05J-Adreno__TM__830-1778140729.json"
   }
 ]
