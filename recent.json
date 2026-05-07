@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_23",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1778133000,
+    "filename": "FIFA_23-motorola-moto_g84_5G-Adreno__TM__619-1778133000.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC4",
     "timestamp": 1778107052,
     "filename": "Need_For_Speed_Hot_Pursuit-Nothing-A142P-Mali-G610_MC4-1778107052.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778106548,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778106548.json"
   }
 ]
