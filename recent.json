@@ -1,5 +1,12 @@
 [
   {
+    "game": "JUMP_FORCE",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778133728,
+    "filename": "JUMP_FORCE-nubia-NP05J-Adreno__TM__830-1778133728.json"
+  },
+  {
     "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
     "manufacturer": "ASUSAI2501C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1778114728,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1778114728.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "itel_A663LC",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1778113298,
-    "filename": "Grand_Theft_Auto_V_Legacy-ITEL-itel_A663LC-PowerVR_Rogue_GE8322-1778113298.json"
   }
 ]
