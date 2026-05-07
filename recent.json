@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Crew__2",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778187156,
+    "filename": "The_Crew__2-samsung-SM-S911B-Adreno__TM__740-1778187156.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1778165116,
     "filename": "dmcLauncher-Xiaomi-23049PCD8G-Adreno__TM__725-1778165116.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1778164976,
-    "filename": "Resident_Evil_2-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1778164976.json"
   }
 ]
