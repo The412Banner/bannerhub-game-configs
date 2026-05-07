@@ -3,6 +3,13 @@
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G615_MC6",
+    "timestamp": 1778167402,
+    "filename": "BootstrapPackagedGame-Xiaomi-2406APNFAG-Mali-G615_MC6-1778167402.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
     "timestamp": 1778166713,
     "filename": "BootstrapPackagedGame-Xiaomi-2406APNFAG-Mali-G615_MC6-1778166713.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1778145089,
     "filename": "NoImNotAHuman-HONOR-DNY-NX9-Adreno__TM__720-1778145089.json"
-  },
-  {
-    "game": "INSIDE",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778144374,
-    "filename": "INSIDE-nubia-NP05J-Adreno__TM__830-1778144374.json"
   }
 ]
