@@ -1,5 +1,12 @@
 [
   {
+    "game": "jackel",
+    "manufacturer": "RMX5566",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778151108,
+    "filename": "jackel-realme-RMX5566-Adreno__TM__610-1778151108.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "N49",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778134516,
     "filename": "Need_for_Speed_9-INFINIX_MOBILITY_LIMITED-Infinix_X663B-Mali-G52_MC2-1778134516.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778134510,
-    "filename": "Need_for_Speed_9-INFINIX_MOBILITY_LIMITED-Infinix_X663B-Mali-G52_MC2-1778134510.json"
   }
 ]
