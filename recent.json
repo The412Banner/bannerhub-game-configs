@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2012",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778187722,
+    "filename": "Pro_Evolution_Soccer_2012-samsung-SM-A035M-Mali-G57-1778187722.json"
+  },
+  {
     "game": "The_Crew__2",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778166713,
     "filename": "BootstrapPackagedGame-Xiaomi-2406APNFAG-Mali-G615_MC6-1778166713.json"
-  },
-  {
-    "game": "dmcLauncher",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1778165116,
-    "filename": "dmcLauncher-Xiaomi-23049PCD8G-Adreno__TM__725-1778165116.json"
   }
 ]
