@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed___Director_s_Cut_Edition",
+    "manufacturer": "22021211RG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778173623,
+    "filename": "Assassin_s_Creed___Director_s_Cut_Edition-Xiaomi-22021211RG-Adreno__TM__650-1778173623.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778152695,
     "filename": "Replaced-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1778152695.json"
-  },
-  {
-    "game": "jackel",
-    "manufacturer": "RMX5566",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778151108,
-    "filename": "jackel-realme-RMX5566-Adreno__TM__610-1778151108.json"
   }
 ]
