@@ -1,5 +1,12 @@
 [
   {
+    "game": "dmcLauncher",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1778165116,
+    "filename": "dmcLauncher-Xiaomi-23049PCD8G-Adreno__TM__725-1778165116.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778143819,
     "filename": "Devil_May_Cry_4_Special_Edition-TECNO-TECNO_LH7n-Mali-G57_MC2-1778143819.json"
-  },
-  {
-    "game": "Driver__",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__720",
-    "timestamp": 1778143118,
-    "filename": "Driver__-HONOR-DNY-NX9-Adreno__TM__720-1778143118.json"
   }
 ]
