@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "2201117TY",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778171543,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TY-Adreno__TM__610-1778171543.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1778145810,
     "filename": "Sleeping_Dogs__Definitive_Edition-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1778145810.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__720",
-    "timestamp": 1778145162,
-    "filename": "Sleeping_Dogs-HONOR-DNY-NX9-Adreno__TM__720-1778145162.json"
   }
 ]
