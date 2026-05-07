@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rune_Factory__Guardians_of_Azuma",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1778197426,
+    "filename": "Rune_Factory__Guardians_of_Azuma-Xiaomi-24069PC21G-Adreno__TM__735-1778197426.json"
+  },
+  {
     "game": "Little_Nightmares_II",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778173405,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25078RA3EA-Mali-G52_MC2-1778173405.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778171667,
-    "filename": "Red_Dead_Redemption_2-nubia-NX799J-Adreno__TM__830-1778171667.json"
   }
 ]
