@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty__World_at_War",
+    "manufacturer": "23013PC75G",
+    "device": "Adreno__TM__730",
+    "timestamp": 1778178928,
+    "filename": "Call_of_Duty__World_at_War-Xiaomi-23013PC75G-Adreno__TM__730-1778178928.json"
+  },
+  {
     "game": "MudRunner",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778163600,
     "filename": "Farming_Simulator_19-samsung-SM-A065M-Mali-G52_MC2-1778163600.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778163458,
-    "filename": "Red_Dead_Redemption_2-nubia-NX789J-Adreno__TM__830-1778163458.json"
   }
 ]
