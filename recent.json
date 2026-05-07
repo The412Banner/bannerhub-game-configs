@@ -1,5 +1,12 @@
 [
   {
+    "game": "MOTORSLICE",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778130340,
+    "filename": "MOTORSLICE-Anbernic-RG556-Mali-G57-1778130340.json"
+  },
+  {
     "game": "7Launcher_-_GTA_5_1_6_6_____________________________________",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778103861,
     "filename": "Exit_the_Gungeon-LENOVO-TB321FU-Adreno__TM__750-1778103861.json"
-  },
-  {
-    "game": "Prototype_2",
-    "manufacturer": "M2010J19CG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778103102,
-    "filename": "Prototype_2-Xiaomi-M2010J19CG-Adreno__TM__610-1778103102.json"
   }
 ]
