@@ -1,5 +1,12 @@
 [
   {
+    "game": "MudRunner",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1778177717,
+    "filename": "MudRunner-Xiaomi-25069PTEBG-Mali-G720_MC7-1778177717.json"
+  },
+  {
     "game": "GOW-SteamGG",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778163458,
     "filename": "Red_Dead_Redemption_2-nubia-NX789J-Adreno__TM__830-1778163458.json"
-  },
-  {
-    "game": "Battlefield_3_",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778162930,
-    "filename": "Battlefield_3_-Xiaomi-M2012K11AG-Adreno__TM__650-1778162930.json"
   }
 ]
