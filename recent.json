@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "itel_A663LC",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1778113298,
+    "filename": "Grand_Theft_Auto_V_Legacy-ITEL-itel_A663LC-PowerVR_Rogue_GE8322-1778113298.json"
+  },
+  {
     "game": "Need_For_Speed_Hot_Pursuit",
     "manufacturer": "Mali",
     "device": "G610_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778091616,
     "filename": "Resident_Evil_4__2005_-HONOR-PTP-N49-Adreno__TM__830-1778091616.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778091321,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778091321.json"
   }
 ]
