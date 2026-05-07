@@ -1,5 +1,12 @@
 [
   {
+    "game": "Replaced",
+    "manufacturer": "Pocket_FIT_Elite",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778152695,
+    "filename": "Replaced-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1778152695.json"
+  },
+  {
     "game": "jackel",
     "manufacturer": "RMX5566",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778134526,
     "filename": "Need_for_Speed_9-INFINIX_MOBILITY_LIMITED-Infinix_X663B-Mali-G52_MC2-1778134526.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778134516,
-    "filename": "Need_for_Speed_9-INFINIX_MOBILITY_LIMITED-Infinix_X663B-Mali-G52_MC2-1778134516.json"
   }
 ]
