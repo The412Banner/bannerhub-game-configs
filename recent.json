@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "NX9",
+    "device": "Adreno__TM__720",
+    "timestamp": 1778145162,
+    "filename": "Sleeping_Dogs-HONOR-DNY-NX9-Adreno__TM__720-1778145162.json"
+  },
+  {
     "game": "Untitled_Goose_Game",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778133119,
     "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-asus-ASUSAI2501C-Adreno__TM__830-1778133119.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1778133009,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A546E-Mali-G68-1778133009.json"
   }
 ]
