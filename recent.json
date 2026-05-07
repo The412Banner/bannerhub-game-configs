@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1778133009,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A546E-Mali-G68-1778133009.json"
+  },
+  {
     "game": "FIFA_23",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G610_MC4",
     "timestamp": 1778107308,
     "filename": "Need_For_Speed_Hot_Pursuit-Nothing-A142P-Mali-G610_MC4-1778107308.json"
-  },
-  {
-    "game": "Need_For_Speed_Hot_Pursuit",
-    "manufacturer": "Mali",
-    "device": "G610_MC4",
-    "timestamp": 1778107052,
-    "filename": "Need_For_Speed_Hot_Pursuit-Nothing-A142P-Mali-G610_MC4-1778107052.json"
   }
 ]
