@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs__Definitive_Edition",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1778145810,
+    "filename": "Sleeping_Dogs__Definitive_Edition-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1778145810.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778133728,
     "filename": "JUMP_FORCE-nubia-NP05J-Adreno__TM__830-1778133728.json"
-  },
-  {
-    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
-    "manufacturer": "ASUSAI2501C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778133119,
-    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-asus-ASUSAI2501C-Adreno__TM__830-1778133119.json"
   }
 ]
