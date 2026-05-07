@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1778164976,
+    "filename": "Resident_Evil_2-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1778164976.json"
+  },
+  {
     "game": "Farming_Simulator_19",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1778143118,
     "filename": "Driver__-HONOR-DNY-NX9-Adreno__TM__720-1778143118.json"
-  },
-  {
-    "game": "Pixel_Empires_Demo",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778142667,
-    "filename": "Pixel_Empires_Demo-TECNO-TECNO_CM5-Mali-G57_MC2-1778142667.json"
   }
 ]
