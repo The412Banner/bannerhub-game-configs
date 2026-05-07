@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1778180502,
+    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-A356E-Mali-G68-1778180502.json"
+  },
+  {
     "game": "Call_of_Duty__World_at_War",
     "manufacturer": "23013PC75G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778164038,
     "filename": "Farming_Simulator_19-samsung-SM-A065M-Mali-G52_MC2-1778164038.json"
-  },
-  {
-    "game": "Farming_Simulator_19",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778163600,
-    "filename": "Farming_Simulator_19-samsung-SM-A065M-Mali-G52_MC2-1778163600.json"
   }
 ]
