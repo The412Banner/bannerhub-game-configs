@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
+    "manufacturer": "ASUSAI2501C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778133119,
+    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-asus-ASUSAI2501C-Adreno__TM__830-1778133119.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1778113298,
     "filename": "Grand_Theft_Auto_V_Legacy-ITEL-itel_A663LC-PowerVR_Rogue_GE8322-1778113298.json"
-  },
-  {
-    "game": "Need_For_Speed_Hot_Pursuit",
-    "manufacturer": "Mali",
-    "device": "G610_MC4",
-    "timestamp": 1778107308,
-    "filename": "Need_For_Speed_Hot_Pursuit-Nothing-A142P-Mali-G610_MC4-1778107308.json"
   }
 ]
