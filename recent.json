@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778122835,
+    "filename": "Sleeping_Dogs-INFINIX-Infinix_X6885-Mali-G57_MC2-1778122835.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778100754,
     "filename": "Resident_Evil_Village-ayn-Odin3-Adreno__TM__830-1778100754.json"
-  },
-  {
-    "game": "Yakuza_0",
-    "manufacturer": "Retroid_Pocket_G2",
-    "device": "Adreno__TM__22",
-    "timestamp": 1778099854,
-    "filename": "Yakuza_0-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778099854.json"
   }
 ]
