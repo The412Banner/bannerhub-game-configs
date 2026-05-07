@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778171667,
+    "filename": "Red_Dead_Redemption_2-nubia-NX799J-Adreno__TM__830-1778171667.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2201117TY",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778149084,
     "filename": "Resident_Evil_4__2005_-HONOR-PTP-N49-Adreno__TM__830-1778149084.json"
-  },
-  {
-    "game": "eFootball_",
-    "manufacturer": "24091RPADG",
-    "device": "Adreno__TM__735",
-    "timestamp": 1778146208,
-    "filename": "eFootball_-Xiaomi-24091RPADG-Adreno__TM__735-1778146208.json"
   }
 ]
