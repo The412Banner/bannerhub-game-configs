@@ -3,6 +3,13 @@
     "game": "SkullGirls",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1778131077,
+    "filename": "SkullGirls-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778131077.json"
+  },
+  {
+    "game": "SkullGirls",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1778131074,
     "filename": "SkullGirls-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778131074.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778105839,
     "filename": "Resident_Evil_Requiem-nubia-NX789J-Adreno__TM__830-1778105839.json"
-  },
-  {
-    "game": "Kerbal_Space_Program",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778104422,
-    "filename": "Kerbal_Space_Program-LENOVO-TB322FC-Adreno__TM__830-1778104422.json"
   }
 ]
