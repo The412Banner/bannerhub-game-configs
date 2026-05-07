@@ -1,5 +1,12 @@
 [
   {
+    "game": "INSIDE",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778144374,
+    "filename": "INSIDE-nubia-NP05J-Adreno__TM__830-1778144374.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1778131933,
     "filename": "Resident_Evil_5-TECNO-TECNO_LJ8k-Mali-G615_MC2-1778131933.json"
-  },
-  {
-    "game": "SkullGirls",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778131077,
-    "filename": "SkullGirls-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778131077.json"
   }
 ]
