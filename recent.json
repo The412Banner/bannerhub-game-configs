@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778134510,
+    "filename": "Need_for_Speed_9-INFINIX_MOBILITY_LIMITED-Infinix_X663B-Mali-G52_MC2-1778134510.json"
+  },
+  {
     "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1778118453,
     "filename": "Dead_by_Daylight-samsung-SM-X610-Mali-G68-1778118453.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778117180,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X669-Mali-G57-1778117180.json"
   }
 ]
