@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778163458,
+    "filename": "Red_Dead_Redemption_2-nubia-NX789J-Adreno__TM__830-1778163458.json"
+  },
+  {
     "game": "Battlefield_3_",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778140729,
     "filename": "DRAGON_BALL_FighterZ-nubia-NP05J-Adreno__TM__830-1778140729.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "23073RPBFG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778140549,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-23073RPBFG-Adreno__TM__610-1778140549.json"
   }
 ]
