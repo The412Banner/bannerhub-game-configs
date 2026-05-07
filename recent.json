@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_",
+    "manufacturer": "24091RPADG",
+    "device": "Adreno__TM__735",
+    "timestamp": 1778146208,
+    "filename": "eFootball_-Xiaomi-24091RPADG-Adreno__TM__735-1778146208.json"
+  },
+  {
     "game": "Sleeping_Dogs__Definitive_Edition",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1778134539,
     "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778134539.json"
-  },
-  {
-    "game": "JUMP_FORCE",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778133728,
-    "filename": "JUMP_FORCE-nubia-NP05J-Adreno__TM__830-1778133728.json"
   }
 ]
