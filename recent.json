@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "S936B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778155569,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-S936B-Adreno__TM__830-1778155569.json"
+  },
+  {
     "game": "SPEED2",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778136521,
     "filename": "Stranded_Deep-OPPO-CPH2799-Mali-G57_MC2-1778136521.json"
-  },
-  {
-    "game": "NBA2K16",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778135008,
-    "filename": "NBA2K16-Xiaomi-2311DRK48G-Mali-G615_MC6-1778135008.json"
   }
 ]
