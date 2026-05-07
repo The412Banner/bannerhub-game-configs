@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1778134539,
+    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778134539.json"
+  },
+  {
     "game": "JUMP_FORCE",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778117180,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X669-Mali-G57-1778117180.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1778114728,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1778114728.json"
   }
 ]
