@@ -1,5 +1,12 @@
 [
   {
+    "game": "Last_Vanguard",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778120500,
+    "filename": "Last_Vanguard-Xiaomi-25053PC47G-Adreno__TM__825-1778120500.json"
+  },
+  {
     "game": "Indivisible",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778098445,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EL-Mali-G52_MC2-1778098445.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778098437,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EL-Mali-G52_MC2-1778098437.json"
   }
 ]
