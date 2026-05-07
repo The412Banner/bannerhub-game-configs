@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "23073RPBFG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778142359,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-23073RPBFG-Adreno__TM__610-1778142359.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778127491,
     "filename": "7Launcher_-_GTA_5_1_6_6_____________________________________-samsung-SM-A075M-Mali-G57_MC2-1778127491.json"
-  },
-  {
-    "game": "WWE_2K22",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1778126989,
-    "filename": "WWE_2K22-OPPO-CPH2629-Mali-G615_MC2-1778126989.json"
   }
 ]
