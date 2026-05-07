@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pixel_Empires_Demo",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778142667,
+    "filename": "Pixel_Empires_Demo-TECNO-TECNO_CM5-Mali-G57_MC2-1778142667.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "23073RPBFG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778130340,
     "filename": "MOTORSLICE-Anbernic-RG556-Mali-G57-1778130340.json"
-  },
-  {
-    "game": "7Launcher_-_GTA_5_1_6_6_____________________________________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778127491,
-    "filename": "7Launcher_-_GTA_5_1_6_6_____________________________________-samsung-SM-A075M-Mali-G57_MC2-1778127491.json"
   }
 ]
