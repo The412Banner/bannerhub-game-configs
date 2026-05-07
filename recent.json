@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778140729,
+    "filename": "DRAGON_BALL_FighterZ-nubia-NP05J-Adreno__TM__830-1778140729.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "23073RPBFG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1778126989,
     "filename": "WWE_2K22-OPPO-CPH2629-Mali-G615_MC2-1778126989.json"
-  },
-  {
-    "game": "WWE_2K22",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1778126431,
-    "filename": "WWE_2K22-OPPO-CPH2629-Mali-G615_MC2-1778126431.json"
   }
 ]
