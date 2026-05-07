@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778192288,
+    "filename": "PES2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1778192288.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778171465,
     "filename": "Red_Dead_Redemption_2-nubia-NX799J-Adreno__TM__830-1778171465.json"
-  },
-  {
-    "game": "mysummercar",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778169584,
-    "filename": "mysummercar-ITEL-itel_A666LN-Mali-G57-1778169584.json"
   }
 ]
