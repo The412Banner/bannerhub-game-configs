@@ -1,5 +1,12 @@
 [
   {
+    "game": "Raft",
+    "manufacturer": "X210",
+    "device": "Adreno__TM__619",
+    "timestamp": 1778225087,
+    "filename": "Raft-samsung-SM-X210-Adreno__TM__619-1778225087.json"
+  },
+  {
     "game": "Devil_May_Cry_3_Special_Edition",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778204029,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-realme_Note_60-Mali-G57-1778204029.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1778203947,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A266M-Mali-G68-1778203947.json"
   }
 ]
