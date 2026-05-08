@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778247889,
+    "filename": "PES2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1778247889.json"
+  },
+  {
     "game": "MotoGP17",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778222515,
     "filename": "Devil_May_Cry_3_Special_Edition-ZTE-Z2350-Mali-G57-1778222515.json"
-  },
-  {
-    "game": "FIFA_Soccer_11",
-    "manufacturer": "Xiaomi",
-    "device": "M2007J20CG",
-    "timestamp": 1778222133,
-    "filename": "FIFA_Soccer_11-Xiaomi-M2007J20CG-1778222133.json"
   }
 ]
