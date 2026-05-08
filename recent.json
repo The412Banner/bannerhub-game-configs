@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778219008,
+    "filename": "Sleeping_Dogs-Xiaomi-2311DRK48G-Mali-G615_MC6-1778219008.json"
+  },
+  {
     "game": "Metro_2033_Redux",
     "manufacturer": "X520",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778202976,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-realme_Note_60-Mali-G57-1778202976.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778202814,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-realme_Note_60-Mali-G57-1778202814.json"
   }
 ]
