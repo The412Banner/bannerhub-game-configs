@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1778202976,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-realme_Note_60-Mali-G57-1778202976.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1778202814,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-realme_Note_60-Mali-G57-1778202814.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1778178928,
     "filename": "Call_of_Duty__World_at_War-Xiaomi-23013PC75G-Adreno__TM__730-1778178928.json"
-  },
-  {
-    "game": "MudRunner",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778177717,
-    "filename": "MudRunner-Xiaomi-25069PTEBG-Mali-G720_MC7-1778177717.json"
   }
 ]
