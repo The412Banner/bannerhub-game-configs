@@ -1,5 +1,12 @@
 [
   {
+    "game": "BeamNG_drive",
+    "manufacturer": "motorola_edge_20",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1778237433,
+    "filename": "BeamNG_drive-motorola-motorola_edge_20-Adreno__TM__642L-1778237433.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778216807,
     "filename": "Need_for_Speed_9-INFINIX_MOBILITY_LIMITED-Infinix_X663B-Mali-G52_MC2-1778216807.json"
-  },
-  {
-    "game": "Battlefield_Battlelog_Web_Helper",
-    "manufacturer": "ASUS_AI2205_C",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778216568,
-    "filename": "Battlefield_Battlelog_Web_Helper-asus-ASUS_AI2205_C-Adreno__TM__740-1778216568.json"
   }
 ]
