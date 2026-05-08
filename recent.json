@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778229719,
+    "filename": "DRAGON_BALL_FighterZ-nubia-NP05J-Adreno__TM__830-1778229719.json"
+  },
+  {
     "game": "JUMP_FORCE",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778211199,
     "filename": "They_Killed_Your_Cat-asus-ASUS_AI2205_C-Adreno__TM__740-1778211199.json"
-  },
-  {
-    "game": "____2016",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778210200,
-    "filename": "____2016-samsung-SM-G780G-Adreno__TM__650-1778210200.json"
   }
 ]
