@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_11",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778231881,
+    "filename": "Mortal_Kombat_11-Xiaomi-25053PC47G-Adreno__TM__825-1778231881.json"
+  },
+  {
     "game": "Sifu",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778218147,
     "filename": "NFSC-TECNO-TECNO_KL5-Mali-G52_MC2-1778218147.json"
-  },
-  {
-    "game": "Resident_Evil_4__2005_",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1778218118,
-    "filename": "Resident_Evil_4__2005_-vivo-V2437-Mali-G615_MC2-1778218118.json"
   }
 ]
