@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wolverine",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778270132,
+    "filename": "Wolverine-AYANEO-Pocket_FIT-Adreno__TM__750-1778270132.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__616",
     "timestamp": 1778255867,
     "filename": "CS16Launcher-realme-RMX1971-Adreno__TM__616-1778255867.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "V2453A",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778254121,
-    "filename": "BootstrapPackagedGame-vivo-V2453A-Adreno__TM__825-1778254121.json"
   }
 ]
