@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Killing_Antidote",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778208100,
+    "filename": "The_Killing_Antidote-Xiaomi-23117RA68G-Mali-G57_MC2-1778208100.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778189616,
     "filename": "Dead_Space__2-asus-ASUS_AI2401_D-Adreno__TM__750-1778189616.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2012",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778187722,
-    "filename": "Pro_Evolution_Soccer_2012-samsung-SM-A035M-Mali-G57-1778187722.json"
   }
 ]
