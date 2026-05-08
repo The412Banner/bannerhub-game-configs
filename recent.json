@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_3_Special_Edition",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778222515,
+    "filename": "Devil_May_Cry_3_Special_Edition-ZTE-Z2350-Mali-G57-1778222515.json"
+  },
+  {
     "game": "FIFA_Soccer_11",
     "manufacturer": "Xiaomi",
     "device": "M2007J20CG",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1778203947,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A266M-Mali-G68-1778203947.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778203814,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-realme_Note_60-Mali-G57-1778203814.json"
   }
 ]
