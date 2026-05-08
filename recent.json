@@ -1,5 +1,12 @@
 [
   {
+    "game": "Attack_on_Titan_2_-_A_O_T_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778229464,
+    "filename": "Attack_on_Titan_2_-_A_O_T_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1778229464.json"
+  },
+  {
     "game": "Crash_Bandicoot__4__It_s_About_Time",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1778210217,
     "filename": "The_Callisto_Protocol_-nubia-NX809J-Adreno__TM__840-1778210217.json"
-  },
-  {
-    "game": "Metro_2033_Redux",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778210091,
-    "filename": "Metro_2033_Redux-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778210091.json"
   }
 ]
