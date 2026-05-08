@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778230034,
+    "filename": "Euro_Truck_Simulator_2-motorola-moto_g35_5G-Mali-G57-1778230034.json"
+  },
+  {
     "game": "DARK_SOULS__III",
     "manufacturer": "F946B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778216568,
     "filename": "Battlefield_Battlelog_Web_Helper-asus-ASUS_AI2205_C-Adreno__TM__740-1778216568.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1778215433,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-realme-RMX3269-Mali-G52-1778215433.json"
   }
 ]
