@@ -3,6 +3,13 @@
     "game": "FIFA_Soccer_11",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1778281024,
+    "filename": "FIFA_Soccer_11-Xiaomi-24117RN76L-Mali-G57_MC2-1778281024.json"
+  },
+  {
+    "game": "FIFA_Soccer_11",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1778280792,
     "filename": "FIFA_Soccer_11-Xiaomi-24117RN76L-Mali-G57_MC2-1778280792.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778269881,
     "filename": "MOUSE-AYANEO-Pocket_FIT-Adreno__TM__750-1778269881.json"
-  },
-  {
-    "game": "Fallout_4",
-    "manufacturer": "LE2101",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778269567,
-    "filename": "Fallout_4-OnePlus-LE2101-Adreno__TM__650-1778269567.json"
   }
 ]
