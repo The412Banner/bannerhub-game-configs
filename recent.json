@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup",
+    "manufacturer": "moto_g_9__plus",
+    "device": "Adreno__TM__618",
+    "timestamp": 1778265589,
+    "filename": "setup-motorola-moto_g_9__plus-Adreno__TM__618-1778265589.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1778239322,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X6871-Mali-G610_MC6-1778239322.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "23124RA7EO",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778235067,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23124RA7EO-Adreno__TM__610-1778235067.json"
   }
 ]
