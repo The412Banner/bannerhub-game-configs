@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A059P",
+    "device": "Adreno__TM__810",
+    "timestamp": 1778240021,
+    "filename": "Grand_Theft_Auto_V_Legacy-Nothing-A059P-Adreno__TM__810-1778240021.json"
+  },
+  {
     "game": "SPEED2",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778219008,
     "filename": "Sleeping_Dogs-Xiaomi-2311DRK48G-Mali-G615_MC6-1778219008.json"
-  },
-  {
-    "game": "Metro_2033_Redux",
-    "manufacturer": "X520",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1778218756,
-    "filename": "Metro_2033_Redux-samsung-SM-X520-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1778218756.json"
   }
 ]
