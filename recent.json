@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778271429,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A075M-Mali-G57_MC2-1778271429.json"
+  },
+  {
     "game": "Haste",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778259000,
     "filename": "SniperEliteV2-asus-ASUS_AI2205_C-Adreno__TM__740-1778259000.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "ASUS_AI2205_C",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778258882,
-    "filename": "BootstrapPackagedGame-asus-ASUS_AI2205_C-Adreno__TM__740-1778258882.json"
   }
 ]
