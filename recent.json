@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778202814,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-realme_Note_60-Mali-G57-1778202814.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "TECNO_LJ9",
     "device": "MT6897",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1778177717,
     "filename": "MudRunner-Xiaomi-25069PTEBG-Mali-G720_MC7-1778177717.json"
-  },
-  {
-    "game": "GOW-SteamGG",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778177188,
-    "filename": "GOW-SteamGG-Xiaomi-25053PC47G-Adreno__TM__825-1778177188.json"
   }
 ]
