@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP17",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778246725,
+    "filename": "MotoGP17-realme-RMX5303-Mali-G57-1778246725.json"
+  },
+  {
     "game": "DmC__Devil_May_Cry",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "M2007J20CG",
     "timestamp": 1778222133,
     "filename": "FIFA_Soccer_11-Xiaomi-M2007J20CG-1778222133.json"
-  },
-  {
-    "game": "dmcLauncher",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778221180,
-    "filename": "dmcLauncher-INFINIX-Infinix_X6873-Mali-G615_MC6-1778221180.json"
   }
 ]
