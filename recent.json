@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC__Devil_May_Cry",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778245342,
+    "filename": "DmC__Devil_May_Cry-Xiaomi-M2012K11AG-Adreno__TM__650-1778245342.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A059P",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778221180,
     "filename": "dmcLauncher-INFINIX-Infinix_X6873-Mali-G615_MC6-1778221180.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778219008,
-    "filename": "Sleeping_Dogs-Xiaomi-2311DRK48G-Mali-G615_MC6-1778219008.json"
   }
 ]
