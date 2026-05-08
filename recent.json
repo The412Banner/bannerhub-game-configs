@@ -1,5 +1,12 @@
 [
   {
+    "game": "Max_Payne_3",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778269906,
+    "filename": "Max_Payne_3-AYANEO-Pocket_FIT-Adreno__TM__750-1778269906.json"
+  },
+  {
     "game": "MOUSE",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778246725,
     "filename": "MotoGP17-realme-RMX5303-Mali-G57-1778246725.json"
-  },
-  {
-    "game": "DmC__Devil_May_Cry",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778245342,
-    "filename": "DmC__Devil_May_Cry-Xiaomi-M2012K11AG-Adreno__TM__650-1778245342.json"
   }
 ]
