@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778204029,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-realme_Note_60-Mali-G57-1778204029.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778187722,
     "filename": "Pro_Evolution_Soccer_2012-samsung-SM-A035M-Mali-G57-1778187722.json"
-  },
-  {
-    "game": "The_Crew__2",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778187156,
-    "filename": "The_Crew__2-samsung-SM-S911B-Adreno__TM__740-1778187156.json"
   }
 ]
