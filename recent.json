@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778203215,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1778203215.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1778180502,
     "filename": "Pro_Evolution_Soccer_2017-samsung-SM-A356E-Mali-G68-1778180502.json"
-  },
-  {
-    "game": "Call_of_Duty__World_at_War",
-    "manufacturer": "23013PC75G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1778178928,
-    "filename": "Call_of_Duty__World_at_War-Xiaomi-23013PC75G-Adreno__TM__730-1778178928.json"
   }
 ]
