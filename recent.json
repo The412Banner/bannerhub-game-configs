@@ -1,5 +1,12 @@
 [
   {
+    "game": "Celeste",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778276289,
+    "filename": "Celeste-nubia-NP05J-Adreno__TM__830-1778276289.json"
+  },
+  {
     "game": "The_Witcher_3__Wild_Hunt",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1778265589,
     "filename": "setup-motorola-moto_g_9__plus-Adreno__TM__618-1778265589.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778265603,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25053PC47G-Adreno__TM__825-1778265603.json"
   }
 ]
