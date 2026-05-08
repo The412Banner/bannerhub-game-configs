@@ -1,5 +1,12 @@
 [
   {
+    "game": "____2016",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778210200,
+    "filename": "____2016-samsung-SM-G780G-Adreno__TM__650-1778210200.json"
+  },
+  {
     "game": "The_Callisto_Protocol_",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778192524,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-samsung-SM-A165M-Mali-G57_MC2-1778192524.json"
-  },
-  {
-    "game": "PES2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778192288,
-    "filename": "PES2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1778192288.json"
   }
 ]
