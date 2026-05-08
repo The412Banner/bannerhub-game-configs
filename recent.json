@@ -1,5 +1,12 @@
 [
   {
+    "game": "Street_Fighter_V",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778269934,
+    "filename": "Street_Fighter_V-AYANEO-Pocket_FIT-Adreno__TM__750-1778269934.json"
+  },
+  {
     "game": "Replaced",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1778251849,
     "filename": "RivalsofAether-Xiaomi-23049RAD8C-Adreno__TM__725-1778251849.json"
-  },
-  {
-    "game": "PES2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778247889,
-    "filename": "PES2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1778247889.json"
   }
 ]
