@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFSC",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778218147,
+    "filename": "NFSC-TECNO-TECNO_KL5-Mali-G52_MC2-1778218147.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1778201301,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-N986B-Mali-G77-1778201301.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1778200819,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24095PCADG-Mali-G615_MC2-1778200819.json"
   }
 ]
