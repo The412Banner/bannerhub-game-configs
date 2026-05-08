@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__III",
+    "manufacturer": "F946B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778229971,
+    "filename": "DARK_SOULS__III-samsung-SM-F946B-Adreno__TM__740-1778229971.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1778215433,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-realme-RMX3269-Mali-G52-1778215433.json"
-  },
-  {
-    "game": "They_Killed_Your_Cat",
-    "manufacturer": "ASUS_AI2205_C",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778211199,
-    "filename": "They_Killed_Your_Cat-asus-ASUS_AI2205_C-Adreno__TM__740-1778211199.json"
   }
 ]
