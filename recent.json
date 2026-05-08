@@ -1,5 +1,12 @@
 [
   {
+    "game": "EscapeFromTarkov",
+    "manufacturer": "ASUS_AI2205_C",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778234711,
+    "filename": "EscapeFromTarkov-asus-ASUS_AI2205_C-Adreno__TM__740-1778234711.json"
+  },
+  {
     "game": "Mortal_Kombat_11",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1778218716,
     "filename": "Castlevania__Lords_of_Shadow_2-samsung-SM-X520-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1778218716.json"
-  },
-  {
-    "game": "NFSC",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778218147,
-    "filename": "NFSC-TECNO-TECNO_KL5-Mali-G52_MC2-1778218147.json"
   }
 ]
