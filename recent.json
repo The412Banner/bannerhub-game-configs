@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4__2005_",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1778218118,
+    "filename": "Resident_Evil_4__2005_-vivo-V2437-Mali-G615_MC2-1778218118.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1778200819,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24095PCADG-Mali-G615_MC2-1778200819.json"
-  },
-  {
-    "game": "TLauncher",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778198834,
-    "filename": "TLauncher-Xiaomi-2409BRN2CA-Mali-G52_MC2-1778198834.json"
   }
 ]
