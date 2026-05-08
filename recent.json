@@ -1,5 +1,12 @@
 [
   {
+    "game": "SniperEliteV2",
+    "manufacturer": "ASUS_AI2205_C",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778259000,
+    "filename": "SniperEliteV2-asus-ASUS_AI2205_C-Adreno__TM__740-1778259000.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "ASUS_AI2205_C",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778230034,
     "filename": "Euro_Truck_Simulator_2-motorola-moto_g35_5G-Mali-G57-1778230034.json"
-  },
-  {
-    "game": "DARK_SOULS__III",
-    "manufacturer": "F946B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778229971,
-    "filename": "DARK_SOULS__III-samsung-SM-F946B-Adreno__TM__740-1778229971.json"
   }
 ]
