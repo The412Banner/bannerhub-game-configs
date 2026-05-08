@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23124RA7EO",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778235067,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23124RA7EO-Adreno__TM__610-1778235067.json"
+  },
+  {
     "game": "EscapeFromTarkov",
     "manufacturer": "ASUS_AI2205_C",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1778218725,
     "filename": "MONSTER_HUNTER_STORIES_2__WINGS_OF_RUIN-samsung-SM-X520-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1778218725.json"
-  },
-  {
-    "game": "Castlevania__Lords_of_Shadow_2",
-    "manufacturer": "X520",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1778218716,
-    "filename": "Castlevania__Lords_of_Shadow_2-samsung-SM-X520-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1778218716.json"
   }
 ]
