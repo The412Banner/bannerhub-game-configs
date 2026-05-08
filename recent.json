@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A155F",
+    "device": "MT6789",
+    "timestamp": 1778277414,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155F-MT6789-1778277414.json"
+  },
+  {
     "game": "Celeste",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778266797,
     "filename": "No__I_m_not_a_Human-Xiaomi-23043RP34G-Adreno__TM__650-1778266797.json"
-  },
-  {
-    "game": "setup",
-    "manufacturer": "moto_g_9__plus",
-    "device": "Adreno__TM__618",
-    "timestamp": 1778265589,
-    "filename": "setup-motorola-moto_g_9__plus-Adreno__TM__618-1778265589.json"
   }
 ]
