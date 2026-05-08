@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1778215433,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-realme-RMX3269-Mali-G52-1778215433.json"
+  },
+  {
     "game": "They_Killed_Your_Cat",
     "manufacturer": "ASUS_AI2205_C",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1778192674,
     "filename": "Little_Nightmares_II-INFINIX-Infinix_X6815C-Mali-G68_MC4-1778192674.json"
-  },
-  {
-    "game": "Little_Nightmares_II",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1778192670,
-    "filename": "Little_Nightmares_II-INFINIX-Infinix_X6815C-Mali-G68_MC4-1778192670.json"
   }
 ]
