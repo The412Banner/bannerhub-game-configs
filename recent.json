@@ -1,5 +1,12 @@
 [
   {
+    "game": "R_E_P_O_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778273212,
+    "filename": "R_E_P_O_-Xiaomi-2212ARNC4L-Mali-G52_MC2-1778273212.json"
+  },
+  {
     "game": "Coffee_Talk_Episode_2__Hibiscus___Butterfly",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778263878,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-motorola-moto_g42-Adreno__TM__610-1778263878.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G9980",
-    "device": "Adreno__TM__660",
-    "timestamp": 1778263421,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G9980-Adreno__TM__660-1778263421.json"
   }
 ]
