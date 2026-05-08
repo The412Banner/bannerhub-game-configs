@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1778203947,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A266M-Mali-G68-1778203947.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778187156,
     "filename": "The_Crew__2-samsung-SM-S911B-Adreno__TM__740-1778187156.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778184329,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778184329.json"
   }
 ]
