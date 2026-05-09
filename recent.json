@@ -3,6 +3,13 @@
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1778358261,
+    "filename": "Tomb_Raider-Xiaomi-23117RA68G-Mali-G57_MC2-1778358261.json"
+  },
+  {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1778358234,
     "filename": "Tomb_Raider-Xiaomi-23117RA68G-Mali-G57_MC2-1778358234.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778341632,
     "filename": "____2016-Xiaomi-23106RN0DA-Mali-G52_MC2-1778341632.json"
-  },
-  {
-    "game": "No_Man_s_Sky",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778341453,
-    "filename": "No_Man_s_Sky-LENOVO-TB321FU-Adreno__TM__750-1778341453.json"
   }
 ]
