@@ -1,5 +1,12 @@
 [
   {
+    "game": "Colin_Mcrae__Dirt_2",
+    "manufacturer": "G9750",
+    "device": "Adreno__TM__640",
+    "timestamp": 1778352874,
+    "filename": "Colin_Mcrae__Dirt_2-samsung-SM-G9750-Adreno__TM__640-1778352874.json"
+  },
+  {
     "game": "MudRunner",
     "manufacturer": "23021RAA2Y",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778339805,
     "filename": "Euro_Truck_Simulator_2-realme-RMX3834-Mali-G57-1778339805.json"
-  },
-  {
-    "game": "Granny_3_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778338737,
-    "filename": "Granny_3_2-samsung-SM-A065M-Mali-G52_MC2-1778338737.json"
   }
 ]
