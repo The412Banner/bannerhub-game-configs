@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778317402,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-nubia-NP05J-Adreno__TM__830-1778317402.json"
+  },
+  {
     "game": "Watch_Dogs__2",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G610",
     "timestamp": 1778304783,
     "filename": "Resident_Evil_Revelations_2-Google-Pixel_4_XL-Mali-G610-1778304783.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778304447,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1778304447.json"
   }
 ]
