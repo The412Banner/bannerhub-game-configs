@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Origins",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778346393,
+    "filename": "Assassin_s_Creed__Origins-nubia-NP05J-Adreno__TM__830-1778346393.json"
+  },
+  {
     "game": "60_Seconds__Reatomized",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778332682,
     "filename": "Tomb_Raider-Xiaomi-2404ARN45A-Mali-G52_MC2-1778332682.json"
-  },
-  {
-    "game": "Resident_Evil_Requiem",
-    "manufacturer": "PJZ110",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778332612,
-    "filename": "Resident_Evil_Requiem-OnePlus-PJZ110-Adreno__TM__830-1778332612.json"
   }
 ]
