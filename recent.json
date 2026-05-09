@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw3sp",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778288144,
+    "filename": "iw3sp-Xiaomi-2311DRK48G-Mali-G615_MC6-1778288144.json"
+  },
+  {
     "game": "Garfield_Kart",
     "manufacturer": "24117RK2CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778269943,
     "filename": "Raji-AYANEO-Pocket_FIT-Adreno__TM__750-1778269943.json"
-  },
-  {
-    "game": "Street_Fighter_V",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778269934,
-    "filename": "Street_Fighter_V-AYANEO-Pocket_FIT-Adreno__TM__750-1778269934.json"
   }
 ]
