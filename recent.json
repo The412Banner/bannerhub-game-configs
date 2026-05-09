@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1778305437,
+    "filename": "Cuphead-Xiaomi-23049PCD8G-Adreno__TM__725-1778305437.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1778288853,
     "filename": "DARKSOULS-samsung-SM-A515F-Mali-G72-1778288853.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Brotherhood",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778288422,
-    "filename": "Assassin_s_Creed__Brotherhood-Xiaomi-2311DRK48G-Mali-G615_MC6-1778288422.json"
   }
 ]
