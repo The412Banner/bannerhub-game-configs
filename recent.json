@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Brotherhood",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778288422,
+    "filename": "Assassin_s_Creed__Brotherhood-Xiaomi-2311DRK48G-Mali-G615_MC6-1778288422.json"
+  },
+  {
     "game": "Assassin_s_Creed__Revelations",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1778270114,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778270114.json"
-  },
-  {
-    "game": "CarX_Street",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778269956,
-    "filename": "CarX_Street-AYANEO-Pocket_FIT-Adreno__TM__750-1778269956.json"
   }
 ]
