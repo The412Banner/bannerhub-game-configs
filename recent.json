@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778289464,
+    "filename": "Far_Cry__2-Xiaomi-2311DRK48G-Mali-G615_MC6-1778289464.json"
+  },
+  {
     "game": "SWRepublicCommando",
     "manufacturer": "S931B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778271402,
     "filename": "Haste-AYN-AYN_Thor-Adreno__TM__740-1778271402.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2015",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778270261,
-    "filename": "Pro_Evolution_Soccer_2015-INFINIX-Infinix_X6728B-Mali-G52_MC2-1778270261.json"
   }
 ]
