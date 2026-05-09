@@ -1,5 +1,12 @@
 [
   {
+    "game": "Granny_3_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778338737,
+    "filename": "Granny_3_2-samsung-SM-A065M-Mali-G52_MC2-1778338737.json"
+  },
+  {
     "game": "launcher",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778322598,
     "filename": "Redout_2-AYANEO-Pocket_FIT-Adreno__TM__750-1778322598.json"
-  },
-  {
-    "game": "Bendy_and_the_Ink_Machine",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778322529,
-    "filename": "Bendy_and_the_Ink_Machine-Xiaomi-23129RA5FL-Adreno__TM__610-1778322529.json"
   }
 ]
