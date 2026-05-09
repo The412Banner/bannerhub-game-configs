@@ -1,5 +1,12 @@
 [
   {
+    "game": "Beyond__Two_Souls",
+    "manufacturer": "V2454A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778299254,
+    "filename": "Beyond__Two_Souls-vivo-V2454A-Adreno__TM__830-1778299254.json"
+  },
+  {
     "game": "BLAZBLUE_CENTRALFICTION",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778273198,
     "filename": "Coffee_Talk_Episode_2__Hibiscus___Butterfly-AYN-AYN_Thor-Adreno__TM__740-1778273198.json"
-  },
-  {
-    "game": "GIANTS_Engine",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778272448,
-    "filename": "GIANTS_Engine-Xiaomi-23113RKC6G-Adreno__TM__740-1778272448.json"
   }
 ]
