@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_STORM_3_FB",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1778322047,
+    "filename": "NARUTO_STORM_3_FB-INFINIX-Infinix_X6815D-Mali-G68_MC4-1778322047.json"
+  },
+  {
     "game": "METAL_GEAR_RISING__REVENGEANCE",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G610",
     "timestamp": 1778304969,
     "filename": "Resident_Evil_Revelations-Google-Pixel_4_XL-Mali-G610-1778304969.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "Mali",
-    "device": "G610",
-    "timestamp": 1778304783,
-    "filename": "Resident_Evil_Revelations_2-Google-Pixel_4_XL-Mali-G610-1778304783.json"
   }
 ]
