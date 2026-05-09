@@ -1,5 +1,12 @@
 [
   {
+    "game": "Burnout_Paradise__The_Ultimate_Box",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__710",
+    "timestamp": 1778301374,
+    "filename": "Burnout_Paradise__The_Ultimate_Box-HONOR-ALI-NX1-Adreno__TM__710-1778301374.json"
+  },
+  {
     "game": "Beyond__Two_Souls",
     "manufacturer": "V2454A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778273212,
     "filename": "R_E_P_O_-Xiaomi-2212ARNC4L-Mali-G52_MC2-1778273212.json"
-  },
-  {
-    "game": "Coffee_Talk_Episode_2__Hibiscus___Butterfly",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778273198,
-    "filename": "Coffee_Talk_Episode_2__Hibiscus___Butterfly-AYN-AYN_Thor-Adreno__TM__740-1778273198.json"
   }
 ]
