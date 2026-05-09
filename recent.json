@@ -1,5 +1,12 @@
 [
   {
+    "game": "GameeRoid",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1778351563,
+    "filename": "GameeRoid-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1778351563.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1778335507,
     "filename": "launcher-TECNO-TECNO_CK8n-Mali-G77_MC9-1778335507.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778335398,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2311DRK48G-Mali-G615_MC6-1778335398.json"
   }
 ]
