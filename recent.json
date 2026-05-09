@@ -1,5 +1,12 @@
 [
   {
+    "game": "SWRepublicCommando",
+    "manufacturer": "S931B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778289179,
+    "filename": "SWRepublicCommando-samsung-SM-S931B-Adreno__TM__830-1778289179.json"
+  },
+  {
     "game": "DARKSOULS",
     "manufacturer": "Mali",
     "device": "G72",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778270261,
     "filename": "Pro_Evolution_Soccer_2015-INFINIX-Infinix_X6728B-Mali-G52_MC2-1778270261.json"
-  },
-  {
-    "game": "Wolverine",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778270132,
-    "filename": "Wolverine-AYANEO-Pocket_FIT-Adreno__TM__750-1778270132.json"
   }
 ]
