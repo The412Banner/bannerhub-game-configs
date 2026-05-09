@@ -1,5 +1,12 @@
 [
   {
+    "game": "lotrbfme",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1778342127,
+    "filename": "lotrbfme-nubia-NX809J-Adreno__TM__840-1778342127.json"
+  },
+  {
     "game": "____2016",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1778332295,
     "filename": "TEKKEN_7-Xiaomi-24095PCADG-Mali-G615_MC2-1778332295.json"
-  },
-  {
-    "game": "Lies_of_P",
-    "manufacturer": "NX789J_V1B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778332060,
-    "filename": "Lies_of_P-nubia-NX789J_V1B-Adreno__TM__830-1778332060.json"
   }
 ]
