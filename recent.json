@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "PJZ110",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778341051,
+    "filename": "Resident_Evil_4-OnePlus-PJZ110-Adreno__TM__830-1778341051.json"
+  },
+  {
     "game": "Resident_Evil_Revelations_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778327969,
     "filename": "Resident_Evil_6-samsung-SM-S911B-Adreno__TM__740-1778327969.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778326499,
-    "filename": "Tomb_Raider-samsung-SM-A165F-Mali-G57_MC2-1778326499.json"
   }
 ]
