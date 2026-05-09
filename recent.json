@@ -1,5 +1,12 @@
 [
   {
+    "game": "60_Seconds__Reatomized",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1778344046,
+    "filename": "60_Seconds__Reatomized-motorola-moto_g84_5G-Adreno__TM__619-1778344046.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778332612,
     "filename": "Resident_Evil_Requiem-OnePlus-PJZ110-Adreno__TM__830-1778332612.json"
-  },
-  {
-    "game": "Resident_Evil_Requiem",
-    "manufacturer": "PJZ110",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778332555,
-    "filename": "Resident_Evil_Requiem-OnePlus-PJZ110-Adreno__TM__830-1778332555.json"
   }
 ]
