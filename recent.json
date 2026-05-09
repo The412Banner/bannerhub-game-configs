@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blasphemous",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1778369846,
+    "filename": "Blasphemous-Xiaomi-23049PCD8G-Adreno__TM__725-1778369846.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778357862,
     "filename": "xenia_edge-AYANEO-Pocket_FIT-Adreno__TM__750-1778357862.json"
-  },
-  {
-    "game": "TES4__Oblivion",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1778356753,
-    "filename": "TES4__Oblivion-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1778356753.json"
   }
 ]
