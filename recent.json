@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dispatch",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778301978,
+    "filename": "Dispatch-Xiaomi-2311DRK48G-Mali-G615_MC6-1778301978.json"
+  },
+  {
     "game": "ch5_pro",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778275965,
     "filename": "The_Witcher_3__Wild_Hunt-nubia-NP05J-Adreno__TM__830-1778275965.json"
-  },
-  {
-    "game": "The_Witcher_3__Wild_Hunt",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778274727,
-    "filename": "The_Witcher_3__Wild_Hunt-nubia-NP05J-Adreno__TM__830-1778274727.json"
   }
 ]
