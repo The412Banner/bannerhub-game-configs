@@ -1,5 +1,12 @@
 [
   {
+    "game": "TES4__Oblivion",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1778356753,
+    "filename": "TES4__Oblivion-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1778356753.json"
+  },
+  {
     "game": "Resident_Evil_7_Biohazard",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778341043,
     "filename": "Resident_Evil_Revelations_2-TECNO-TECNO_KL7-Mali-G57_MC2-1778341043.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778340437,
-    "filename": "Resident_Evil_Revelations_2-TECNO-TECNO_KL7-Mali-G57_MC2-1778340437.json"
   }
 ]
