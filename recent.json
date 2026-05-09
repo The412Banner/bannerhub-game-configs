@@ -3,6 +3,13 @@
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G615_MC6",
+    "timestamp": 1778302211,
+    "filename": "Far_Cry_3-Xiaomi-2311DRK48G-Mali-G615_MC6-1778302211.json"
+  },
+  {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
     "timestamp": 1778302014,
     "filename": "Far_Cry_3-Xiaomi-2311DRK48G-Mali-G615_MC6-1778302014.json"
   },
@@ -131,12 +138,5 @@
     "device": "MT6789",
     "timestamp": 1778277414,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155F-MT6789-1778277414.json"
-  },
-  {
-    "game": "Celeste",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778276289,
-    "filename": "Celeste-nubia-NP05J-Adreno__TM__830-1778276289.json"
   }
 ]
