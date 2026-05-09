@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "W00",
+    "device": "Adreno__TM__720",
+    "timestamp": 1778293057,
+    "filename": "DRAGON_BALL__Sparking__ZERO-HONOR-HEY3-W00-Adreno__TM__720-1778293057.json"
+  },
+  {
     "game": "Far_Cry__2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778271429,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A075M-Mali-G57_MC2-1778271429.json"
-  },
-  {
-    "game": "Haste",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778271402,
-    "filename": "Haste-AYN-AYN_Thor-Adreno__TM__740-1778271402.json"
   }
 ]
