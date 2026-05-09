@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTAV",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778302356,
+    "filename": "GTAV-samsung-SM-S938B-Adreno__TM__830-1778302356.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778281024,
     "filename": "FIFA_Soccer_11-Xiaomi-24117RN76L-Mali-G57_MC2-1778281024.json"
-  },
-  {
-    "game": "FIFA_Soccer_11",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778280792,
-    "filename": "FIFA_Soccer_11-Xiaomi-24117RN76L-Mali-G57_MC2-1778280792.json"
   }
 ]
