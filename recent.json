@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARKSOULS",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1778288853,
+    "filename": "DARKSOULS-samsung-SM-A515F-Mali-G72-1778288853.json"
+  },
+  {
     "game": "Assassin_s_Creed__Brotherhood",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778270132,
     "filename": "Wolverine-AYANEO-Pocket_FIT-Adreno__TM__750-1778270132.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778270114,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778270114.json"
   }
 ]
