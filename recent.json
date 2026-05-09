@@ -1,5 +1,12 @@
 [
   {
+    "game": "siderpes2017",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1778316981,
+    "filename": "siderpes2017-vivo-I2505-Mali-G615_MC2-1778316981.json"
+  },
+  {
     "game": "Just_Cause_2",
     "manufacturer": "M2101K6G",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778302356,
     "filename": "GTAV-samsung-SM-S938B-Adreno__TM__830-1778302356.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778302214,
-    "filename": "Far_Cry_3-Xiaomi-2311DRK48G-Mali-G615_MC6-1778302214.json"
   }
 ]
