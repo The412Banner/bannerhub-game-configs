@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Most_Wanted",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1778325040,
+    "filename": "Need_for_Speed__Most_Wanted-INFINIX-Infinix_X6710-Mali-G77_MC9-1778325040.json"
+  },
+  {
     "game": "OCTOPATH_TRAVELER_",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778310917,
     "filename": "REANIMAL-AYANEO-Pocket_FIT-Adreno__TM__750-1778310917.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1778310501,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-Adreno__TM__710-1778310501.json"
   }
 ]
