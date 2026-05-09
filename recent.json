@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_SPORTS__FIFA_23",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778313594,
+    "filename": "EA_SPORTS__FIFA_23-nubia-NX789J-Adreno__TM__830-1778313594.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1778301535,
     "filename": "ch5_pro-samsung-SM-X200-Mali-G52-1778301535.json"
-  },
-  {
-    "game": "Burnout_Paradise__The_Ultimate_Box",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1778301374,
-    "filename": "Burnout_Paradise__The_Ultimate_Box-HONOR-ALI-NX1-Adreno__TM__710-1778301374.json"
   }
 ]
