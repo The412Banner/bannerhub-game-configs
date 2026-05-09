@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778339805,
+    "filename": "Euro_Truck_Simulator_2-realme-RMX3834-Mali-G57-1778339805.json"
+  },
+  {
     "game": "Granny_3_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778323866,
     "filename": "OCTOPATH_TRAVELER_-HONOR-ROL-W00-Mali-G615_MC6-1778323866.json"
-  },
-  {
-    "game": "Redout_2",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778322598,
-    "filename": "Redout_2-AYANEO-Pocket_FIT-Adreno__TM__750-1778322598.json"
   }
 ]
