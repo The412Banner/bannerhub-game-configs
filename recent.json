@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_2",
+    "manufacturer": "M2101K6G",
+    "device": "Adreno__TM__618",
+    "timestamp": 1778316125,
+    "filename": "Just_Cause_2-Xiaomi-M2101K6G-Adreno__TM__618-1778316125.json"
+  },
+  {
     "game": "Returnal",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778302214,
     "filename": "Far_Cry_3-Xiaomi-2311DRK48G-Mali-G615_MC6-1778302214.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778302211,
-    "filename": "Far_Cry_3-Xiaomi-2311DRK48G-Mali-G615_MC6-1778302211.json"
   }
 ]
