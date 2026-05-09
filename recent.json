@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide_Demo",
+    "manufacturer": "A042M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1778361864,
+    "filename": "MiSide_Demo-samsung-SM-A042M-PowerVR_Rogue_GE8320-1778361864.json"
+  },
+  {
     "game": "Devil_May_Cry_4",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1778351039,
     "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778351039.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778350777,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A155F-Mali-G57_MC2-1778350777.json"
   }
 ]
