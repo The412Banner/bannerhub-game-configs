@@ -3,6 +3,13 @@
     "game": "MiSide_Demo",
     "manufacturer": "A042M",
     "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1778361892,
+    "filename": "MiSide_Demo-samsung-SM-A042M-PowerVR_Rogue_GE8320-1778361892.json"
+  },
+  {
+    "game": "MiSide_Demo",
+    "manufacturer": "A042M",
+    "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1778361864,
     "filename": "MiSide_Demo-samsung-SM-A042M-PowerVR_Rogue_GE8320-1778361864.json"
   },
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1778351563,
     "filename": "GameeRoid-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1778351563.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778351039,
-    "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778351039.json"
   }
 ]
