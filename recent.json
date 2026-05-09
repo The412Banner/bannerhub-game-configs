@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__2",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778355685,
+    "filename": "Far_Cry__2-samsung-SM-G780G-Adreno__TM__650-1778355685.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g_8__power",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1778340055,
     "filename": "Mafia_2-TECNO-TECNO_CK8n-Mali-G77_MC9-1778340055.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778339958,
-    "filename": "Resident_Evil_Revelations_2-TECNO-TECNO_KL7-Mali-G57_MC2-1778339958.json"
   }
 ]
