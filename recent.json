@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778370699,
+    "filename": "MiSide-motorola-moto_g35_5G-Mali-G57-1778370699.json"
+  },
+  {
     "game": "Blasphemous",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1778357929,
     "filename": "Resident_Evil_5-motorola-motorola_edge_50_pro-Adreno__TM__720-1778357929.json"
-  },
-  {
-    "game": "xenia_edge",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778357862,
-    "filename": "xenia_edge-AYANEO-Pocket_FIT-Adreno__TM__750-1778357862.json"
   }
 ]
