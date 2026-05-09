@@ -1,5 +1,12 @@
 [
   {
+    "game": "Garfield_Kart",
+    "manufacturer": "24117RK2CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778286509,
+    "filename": "Garfield_Kart-Xiaomi-24117RK2CG-Adreno__TM__750-1778286509.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778269934,
     "filename": "Street_Fighter_V-AYANEO-Pocket_FIT-Adreno__TM__750-1778269934.json"
-  },
-  {
-    "game": "Replaced",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778269918,
-    "filename": "Replaced-AYANEO-Pocket_FIT-Adreno__TM__750-1778269918.json"
   }
 ]
