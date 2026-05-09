@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty__World_at_War",
+    "manufacturer": "SOG01",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778330968,
+    "filename": "Call_of_Duty__World_at_War-Sony-SOG01-Adreno__TM__650-1778330968.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1778314876,
     "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778314876.json"
-  },
-  {
-    "game": "EA_SPORTS__FIFA_23",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778313594,
-    "filename": "EA_SPORTS__FIFA_23-nubia-NX789J-Adreno__TM__830-1778313594.json"
   }
 ]
