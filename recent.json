@@ -1,5 +1,12 @@
 [
   {
+    "game": "BLAZBLUE_CENTRALFICTION",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1778297759,
+    "filename": "BLAZBLUE_CENTRALFICTION-Xiaomi-24095PCADG-Mali-G615_MC2-1778297759.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "W00",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778272448,
     "filename": "GIANTS_Engine-Xiaomi-23113RKC6G-Adreno__TM__740-1778272448.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778271429,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A075M-Mali-G57_MC2-1778271429.json"
   }
 ]
