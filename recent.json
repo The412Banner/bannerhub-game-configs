@@ -1,5 +1,12 @@
 [
   {
+    "game": "xenia_edge",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778357862,
+    "filename": "xenia_edge-AYANEO-Pocket_FIT-Adreno__TM__750-1778357862.json"
+  },
+  {
     "game": "TES4__Oblivion",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778341051,
     "filename": "Resident_Evil_4-OnePlus-PJZ110-Adreno__TM__830-1778341051.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778341043,
-    "filename": "Resident_Evil_Revelations_2-TECNO-TECNO_KL7-Mali-G57_MC2-1778341043.json"
   }
 ]
