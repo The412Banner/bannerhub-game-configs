@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778327969,
+    "filename": "Resident_Evil_6-samsung-SM-S911B-Adreno__TM__740-1778327969.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778313594,
     "filename": "EA_SPORTS__FIFA_23-nubia-NX789J-Adreno__TM__830-1778313594.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778313079,
-    "filename": "God_of_War-Xiaomi-25053PC47G-Adreno__TM__825-1778313079.json"
   }
 ]
