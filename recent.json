@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778313074,
+    "filename": "God_of_War-Xiaomi-25053PC47G-Adreno__TM__825-1778313074.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778299254,
     "filename": "Beyond__Two_Souls-vivo-V2454A-Adreno__TM__830-1778299254.json"
-  },
-  {
-    "game": "BLAZBLUE_CENTRALFICTION",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1778297759,
-    "filename": "BLAZBLUE_CENTRALFICTION-Xiaomi-24095PCADG-Mali-G615_MC2-1778297759.json"
   }
 ]
