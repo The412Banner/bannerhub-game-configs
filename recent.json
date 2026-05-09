@@ -1,5 +1,12 @@
 [
   {
+    "game": "REANIMAL",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778310917,
+    "filename": "REANIMAL-AYANEO-Pocket_FIT-Adreno__TM__750-1778310917.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1778293057,
     "filename": "DRAGON_BALL__Sparking__ZERO-HONOR-HEY3-W00-Adreno__TM__720-1778293057.json"
-  },
-  {
-    "game": "Far_Cry__2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778289464,
-    "filename": "Far_Cry__2-Xiaomi-2311DRK48G-Mali-G615_MC6-1778289464.json"
   }
 ]
