@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ultra_Street_Fighter__IV",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778334155,
+    "filename": "Ultra_Street_Fighter__IV-Xiaomi-2404ARN45A-Mali-G52_MC2-1778334155.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778317349,
     "filename": "Watch_Dogs__2-nubia-NP05J-Adreno__TM__830-1778317349.json"
-  },
-  {
-    "game": "Batman___Arkham_Knight",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778317313,
-    "filename": "Batman___Arkham_Knight-nubia-NP05J-Adreno__TM__830-1778317313.json"
   }
 ]
