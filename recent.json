@@ -1,5 +1,12 @@
 [
   {
+    "game": "MudRunner",
+    "manufacturer": "23021RAA2Y",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778352547,
+    "filename": "MudRunner-Xiaomi-23021RAA2Y-Adreno__TM__610-1778352547.json"
+  },
+  {
     "game": "GameeRoid",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778338737,
     "filename": "Granny_3_2-samsung-SM-A065M-Mali-G52_MC2-1778338737.json"
-  },
-  {
-    "game": "launcher",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1778335507,
-    "filename": "launcher-TECNO-TECNO_CK8n-Mali-G77_MC9-1778335507.json"
   }
 ]
