@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Revelations_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778340437,
+    "filename": "Resident_Evil_Revelations_2-TECNO-TECNO_KL7-Mali-G57_MC2-1778340437.json"
+  },
+  {
     "game": "Mafia_2",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778325210,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S911B-Adreno__TM__740-1778325210.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778325187,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S911B-Adreno__TM__740-1778325187.json"
   }
 ]
