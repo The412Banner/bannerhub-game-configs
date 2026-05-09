@@ -1,5 +1,12 @@
 [
   {
+    "game": "Gamble_With_Your_Friends",
+    "manufacturer": "I2219",
+    "device": "Adreno__TM__710",
+    "timestamp": 1778322367,
+    "filename": "Gamble_With_Your_Friends-vivo-I2219-Adreno__TM__710-1778322367.json"
+  },
+  {
     "game": "NARUTO_STORM_3_FB",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778304971,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1778304971.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations",
-    "manufacturer": "Mali",
-    "device": "G610",
-    "timestamp": 1778304969,
-    "filename": "Resident_Evil_Revelations-Google-Pixel_4_XL-Mali-G610-1778304969.json"
   }
 ]
