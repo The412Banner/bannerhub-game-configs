@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g_8__power",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778353101,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__power-Adreno__TM__610-1778353101.json"
+  },
+  {
     "game": "Colin_Mcrae__Dirt_2",
     "manufacturer": "G9750",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778339958,
     "filename": "Resident_Evil_Revelations_2-TECNO-TECNO_KL7-Mali-G57_MC2-1778339958.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778339805,
-    "filename": "Euro_Truck_Simulator_2-realme-RMX3834-Mali-G57-1778339805.json"
   }
 ]
