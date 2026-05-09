@@ -1,5 +1,12 @@
 [
   {
+    "game": "launcher",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1778335507,
+    "filename": "launcher-TECNO-TECNO_CK8n-Mali-G77_MC9-1778335507.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778322529,
     "filename": "Bendy_and_the_Ink_Machine-Xiaomi-23129RA5FL-Adreno__TM__610-1778322529.json"
-  },
-  {
-    "game": "Gamble_With_Your_Friends",
-    "manufacturer": "I2219",
-    "device": "Adreno__TM__710",
-    "timestamp": 1778322367,
-    "filename": "Gamble_With_Your_Friends-vivo-I2219-Adreno__TM__710-1778322367.json"
   }
 ]
