@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1778301535,
+    "filename": "ch5_pro-samsung-SM-X200-Mali-G52-1778301535.json"
+  },
+  {
     "game": "Burnout_Paradise__The_Ultimate_Box",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778274727,
     "filename": "The_Witcher_3__Wild_Hunt-nubia-NP05J-Adreno__TM__830-1778274727.json"
-  },
-  {
-    "game": "R_E_P_O_",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778273212,
-    "filename": "R_E_P_O_-Xiaomi-2212ARNC4L-Mali-G52_MC2-1778273212.json"
   }
 ]
