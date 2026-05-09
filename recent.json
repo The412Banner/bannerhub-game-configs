@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778284944,
+    "filename": "Euro_Truck_Simulator_2-nubia-NX789S_V1B-Adreno__TM__830-1778284944.json"
+  },
+  {
     "game": "FIFA_Soccer_11",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778269906,
     "filename": "Max_Payne_3-AYANEO-Pocket_FIT-Adreno__TM__750-1778269906.json"
-  },
-  {
-    "game": "MOUSE",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778269881,
-    "filename": "MOUSE-AYANEO-Pocket_FIT-Adreno__TM__750-1778269881.json"
   }
 ]
