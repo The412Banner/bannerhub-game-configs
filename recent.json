@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778389105,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX789J-Adreno__TM__830-1778389105.json"
+  },
+  {
     "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1778372571,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1778372571.json"
-  },
-  {
-    "game": "nfs",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778371092,
-    "filename": "nfs-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778371092.json"
   }
 ]
