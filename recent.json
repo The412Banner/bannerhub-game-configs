@@ -1,5 +1,12 @@
 [
   {
+    "game": "Replaced",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1778437891,
+    "filename": "Replaced-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778437891.json"
+  },
+  {
     "game": "Absolute_Drift",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1778429750,
     "filename": "Need_for_Speed_Most_Wanted_-Xiaomi-22081212UG-Adreno__TM__730-1778429750.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1778429606,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1778429606.json"
   }
 ]
