@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "itel_A6610L",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1778447209,
+    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A6610L-PowerVR_Rogue_GE8322-1778447209.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1778447174,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778443085,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2510DRA23L-Mali-G57_MC2-1778443085.json"
-  },
-  {
-    "game": "Microsoft__Games_for_Windows__-_LIVE",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778442423,
-    "filename": "Microsoft__Games_for_Windows__-_LIVE-Xiaomi-2311DRK48G-Mali-G615_MC6-1778442423.json"
   }
 ]
