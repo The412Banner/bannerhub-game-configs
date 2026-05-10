@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_7_Biohazard",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778430115,
+    "filename": "Resident_Evil_7_Biohazard-Xiaomi-25053PC47G-Adreno__TM__825-1778430115.json"
+  },
+  {
     "game": "Need_for_Speed_Most_Wanted_",
     "manufacturer": "22081212UG",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1778423294,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g75_5G-Adreno__TM__710-1778423294.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778423161,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-24117RN76L-Mali-G57_MC2-1778423161.json"
   }
 ]
