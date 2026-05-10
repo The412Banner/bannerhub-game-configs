@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield_3_",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1778446091,
+    "filename": "Battlefield_3_-Xiaomi-23049PCD8G-Adreno__TM__725-1778446091.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778439972,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A035M-Mali-G57-1778439972.json"
-  },
-  {
-    "game": "Darksiders_II_Deathinitive_Edition",
-    "manufacturer": "AN00",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778439851,
-    "filename": "Darksiders_II_Deathinitive_Edition-HONOR-AMG-AN00-Adreno__TM__750-1778439851.json"
   }
 ]
