@@ -1,5 +1,12 @@
 [
   {
+    "game": "MARVEL_Cosmic_Invasion",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1778428542,
+    "filename": "MARVEL_Cosmic_Invasion-samsung-SM-G990E-Mali-G78-1778428542.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778422305,
     "filename": "JUMP_FORCE-HONOR-DNP-NX9-Adreno__TM__750-1778422305.json"
-  },
-  {
-    "game": "The_Legend_of_Heroes__Trails_in_the_Sky",
-    "manufacturer": "F966U",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778421455,
-    "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-samsung-SM-F966U-Adreno__TM__830-1778421455.json"
   }
 ]
