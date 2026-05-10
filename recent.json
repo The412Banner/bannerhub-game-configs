@@ -1,5 +1,12 @@
 [
   {
+    "game": "Heroes_of_Might_and_Magic__Olden_Era",
+    "manufacturer": "V2408A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778456491,
+    "filename": "Heroes_of_Might_and_Magic__Olden_Era-vivo-V2408A-Adreno__TM__830-1778456491.json"
+  },
+  {
     "game": "Spec_Ops__The_Line",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778454128,
     "filename": "BootstrapPackagedGame-Xiaomi-23129RAA4G-Adreno__TM__610-1778454128.json"
-  },
-  {
-    "game": "PRO_EVOLUTION_SOCCER_2018",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778454018,
-    "filename": "PRO_EVOLUTION_SOCCER_2018-realme-RMX3151-Mali-G57_MC2-1778454018.json"
   }
 ]
