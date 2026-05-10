@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778441421,
+    "filename": "God_of_War-nubia-NX799J-Adreno__TM__830-1778441421.json"
+  },
+  {
     "game": "KARAKARA",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1778435159,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A146M-Mali-G68-1778435159.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1778435148,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A146M-Mali-G68-1778435148.json"
   }
 ]
