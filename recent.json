@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Legend_of_Heroes__Trails_in_the_Sky",
+    "manufacturer": "F966U",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778421455,
+    "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-samsung-SM-F966U-Adreno__TM__830-1778421455.json"
+  },
+  {
     "game": "JUMP_FORCE",
     "manufacturer": "NX9",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778411886,
     "filename": "DARK_SOULS___REMASTERED-INFINIX-Infinix_X6821-Mali-G57_MC2-1778411886.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "motorola_edge_70",
-    "device": "Adreno__TM__722",
-    "timestamp": 1778409206,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-motorola_edge_70-Adreno__TM__722-1778409206.json"
   }
 ]
