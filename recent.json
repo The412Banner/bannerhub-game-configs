@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_III_-_The_Definitive_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1778380959,
+    "filename": "Grand_Theft_Auto_III_-_The_Definitive_Edition-motorola-moto_g86_5G-Mali-G615_MC2-1778380959.json"
+  },
+  {
     "game": "GoW",
     "manufacturer": "RMX3800",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778361367,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-asus-ASUSAI2501AP-Adreno__TM__830-1778361367.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778360597,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-23129RA5FL-Adreno__TM__610-1778360597.json"
   }
 ]
