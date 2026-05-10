@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1778436806,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22011119UY-Mali-G52-1778436806.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A042M",
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1778436712,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778428597,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6881-Mali-G57_MC2-1778428597.json"
-  },
-  {
-    "game": "MARVEL_Cosmic_Invasion",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1778428542,
-    "filename": "MARVEL_Cosmic_Invasion-samsung-SM-G990E-Mali-G78-1778428542.json"
   }
 ]
