@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1778430389,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1778430389.json"
+  },
+  {
     "game": "Resident_Evil_7_Biohazard",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1778423536,
     "filename": "Mortal_Kombat_Komplete_Edition-HONOR-ABR-NX1-PowerVR_B-Series_BXM-8-256-1778423536.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1778423294,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g75_5G-Adreno__TM__710-1778423294.json"
   }
 ]
