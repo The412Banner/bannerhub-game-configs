@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Z__KAKAROT",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778448227,
+    "filename": "DRAGON_BALL_Z__KAKAROT-TECNO-TECNO_KI7-Mali-G52_MC2-1778448227.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1778443683,
     "filename": "10_Second_Ninja_X-OnePlus-LE2115-Adreno__TM__660-1778443683.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "23122PCD1I",
-    "device": "Adreno__TM__710",
-    "timestamp": 1778443643,
-    "filename": "Tomb_Raider-Xiaomi-23122PCD1I-Adreno__TM__710-1778443643.json"
   }
 ]
