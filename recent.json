@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "J2506",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778439088,
+    "filename": "Pro_Evolution_Soccer_2013-JOVI-J2506-Adreno__TM__610-1778439088.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC6",
     "timestamp": 1778438204,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778431803,
     "filename": "Need_for_Speed__Payback-samsung-SM-S936B-Adreno__TM__830-1778431803.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S711B",
-    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
-    "timestamp": 1778430518,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1778430518.json"
   }
 ]
