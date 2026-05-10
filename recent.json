@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rockstar_Games_Launcher_Redirector",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778449636,
+    "filename": "Rockstar_Games_Launcher_Redirector-AYN-Odin2_Portal-Adreno__TM__740-1778449636.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778447034,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778447034.json"
-  },
-  {
-    "game": "MiSide",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778446236,
-    "filename": "MiSide-Xiaomi-23043RP34G-Adreno__TM__650-1778446236.json"
   }
 ]
