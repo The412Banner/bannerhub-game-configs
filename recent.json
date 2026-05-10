@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman___Arkham_Knight",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778449624,
+    "filename": "Batman___Arkham_Knight-AYN-Odin2_Portal-Adreno__TM__740-1778449624.json"
+  },
+  {
     "game": "Saints_Row__The_Third",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1778446091,
     "filename": "Battlefield_3_-Xiaomi-23049PCD8G-Adreno__TM__725-1778446091.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1778446056,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1778446056.json"
   }
 ]
