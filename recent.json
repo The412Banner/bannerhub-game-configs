@@ -1,5 +1,12 @@
 [
   {
+    "game": "Little_Nightmares_Enhanced_Edition",
+    "manufacturer": "OPD2403",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778441003,
+    "filename": "Little_Nightmares_Enhanced_Edition-OnePlus-OPD2403-Adreno__TM__750-1778441003.json"
+  },
+  {
     "game": "gta3",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G76_MC4",
     "timestamp": 1778434819,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX_MOBILITY_LIMITED-Infinix_X695-Mali-G76_MC4-1778434819.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778433251,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23106RN0DA-Mali-G52_MC2-1778433251.json"
   }
 ]
