@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cult_of_the_Lamb",
+    "manufacturer": "V2408A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778455396,
+    "filename": "Cult_of_the_Lamb-vivo-V2408A-Adreno__TM__830-1778455396.json"
+  },
+  {
     "game": "KARAKARA",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778449624,
     "filename": "Batman___Arkham_Knight-AYN-Odin2_Portal-Adreno__TM__740-1778449624.json"
-  },
-  {
-    "game": "Saints_Row__The_Third",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778449616,
-    "filename": "Saints_Row__The_Third-AYN-Odin2_Portal-Adreno__TM__740-1778449616.json"
   }
 ]
