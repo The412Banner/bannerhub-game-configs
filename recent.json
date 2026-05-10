@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778457161,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2404ARN45A-Mali-G52_MC2-1778457161.json"
+  },
+  {
     "game": "Need_for_Speed__Rivals",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1778454574,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22111317I-Adreno__TM__619-1778454574.json"
-  },
-  {
-    "game": "Little_Nightmares_III",
-    "manufacturer": "S908W",
-    "device": "Adreno__TM__730",
-    "timestamp": 1778454341,
-    "filename": "Little_Nightmares_III-samsung-SM-S908W-Adreno__TM__730-1778454341.json"
   }
 ]
