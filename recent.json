@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778452806,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S911B-Adreno__TM__740-1778452806.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778447503,
     "filename": "Terminator_2D_NO_FATE-OnePlus-LE2101-Adreno__TM__650-1778447503.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778447374,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778447374.json"
   }
 ]
