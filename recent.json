@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778436263,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065F-Mali-G52_MC2-1778436263.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G68",
     "timestamp": 1778435850,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1778435850.json"
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778428526,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1778428526.json"
-  },
-  {
-    "game": "SnowRunner",
-    "manufacturer": "PKR110",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778426871,
-    "filename": "SnowRunner-OnePlus-PKR110-Adreno__TM__830-1778426871.json"
   }
 ]
