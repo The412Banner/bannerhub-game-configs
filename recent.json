@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades_II",
+    "manufacturer": "V2408A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778454955,
+    "filename": "Hades_II-vivo-V2408A-Adreno__TM__830-1778454955.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "22111317I",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778449608,
     "filename": "God_of_War-AYN-Odin2_Portal-Adreno__TM__740-1778449608.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778449603,
-    "filename": "Sleeping_Dogs-AYN-Odin2_Portal-Adreno__TM__740-1778449603.json"
   }
 ]
