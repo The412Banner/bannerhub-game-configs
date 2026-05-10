@@ -1,5 +1,12 @@
 [
   {
+    "game": "Trials_Evolution_Gold_Edition",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778456241,
+    "filename": "Trials_Evolution_Gold_Edition-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778456241.json"
+  },
+  {
     "game": "No_More_Heroes_2",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1778453980,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M236B-Adreno__TM__619-1778453980.json"
-  },
-  {
-    "game": "speed2",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778453712,
-    "filename": "speed2-samsung-SM-G780G-Adreno__TM__650-1778453712.json"
   }
 ]
