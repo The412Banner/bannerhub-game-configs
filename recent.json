@@ -1,5 +1,12 @@
 [
   {
+    "game": "Outrun_-_Coast_to_Coast",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778456225,
+    "filename": "Outrun_-_Coast_to_Coast-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778456225.json"
+  },
+  {
     "game": "ClearedHot",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1778450792,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g34_5G-Adreno__TM__619-1778450792.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778449975,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778449975.json"
   }
 ]
