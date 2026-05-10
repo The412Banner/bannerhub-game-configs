@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778407043,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1778407043.json"
+  },
+  {
     "game": "Asphalt_Legends_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778385257,
     "filename": "Need_for_Speed_9-Xiaomi-25053PC47G-Adreno__TM__825-1778385257.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1778384452,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-INFINIX-Infinix_X6871-Mali-G610_MC6-1778384452.json"
   }
 ]
