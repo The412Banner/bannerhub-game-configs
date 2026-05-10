@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778439972,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A035M-Mali-G57-1778439972.json"
+  },
+  {
     "game": "Darksiders_II_Deathinitive_Edition",
     "manufacturer": "AN00",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778432965,
     "filename": "Spider_man_shattered_dimensions-Xiaomi-2311DRK48G-Mali-G615_MC6-1778432965.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23122PCD1I",
-    "device": "Adreno__TM__710",
-    "timestamp": 1778432689,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23122PCD1I-Adreno__TM__710-1778432689.json"
   }
 ]
