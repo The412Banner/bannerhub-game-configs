@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778395239,
+    "filename": "Hades-LENOVO-TB322FC-Adreno__TM__830-1778395239.json"
+  },
+  {
     "game": "Slay_the_Spire_2",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778379569,
     "filename": "GoW-realme-RMX3800-Adreno__TM__750-1778379569.json"
-  },
-  {
-    "game": "Devil_May_Cry_5",
-    "manufacturer": "24030PN60G",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778379243,
-    "filename": "Devil_May_Cry_5-Xiaomi-24030PN60G-Adreno__TM__750-1778379243.json"
   }
 ]
