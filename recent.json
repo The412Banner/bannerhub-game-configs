@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_Most_Wanted_",
+    "manufacturer": "22081212UG",
+    "device": "Adreno__TM__730",
+    "timestamp": 1778429750,
+    "filename": "Need_for_Speed_Most_Wanted_-Xiaomi-22081212UG-Adreno__TM__730-1778429750.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778423161,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-24117RN76L-Mali-G57_MC2-1778423161.json"
-  },
-  {
-    "game": "Replaced",
-    "manufacturer": "23127PN0CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778423102,
-    "filename": "Replaced-Xiaomi-23127PN0CG-Adreno__TM__750-1778423102.json"
   }
 ]
