@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G76_MC4",
+    "timestamp": 1778434819,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX_MOBILITY_LIMITED-Infinix_X695-Mali-G76_MC4-1778434819.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1778425902,
     "filename": "M_U_G_E_N-samsung-SM-A042M-PowerVR_Rogue_GE8320-1778425902.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778425493,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1778425493.json"
   }
 ]
