@@ -1,5 +1,12 @@
 [
   {
+    "game": "STAR_WARS_Jedi__Fallen_Order_",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778397394,
+    "filename": "STAR_WARS_Jedi__Fallen_Order_-Xiaomi-2311DRK48G-Mali-G615_MC6-1778397394.json"
+  },
+  {
     "game": "launcher",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1778382845,
     "filename": "Cyberpunk_2077-realme-RMX5210-Adreno__TM__840-1778382845.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_III_-_The_Definitive_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1778380959,
-    "filename": "Grand_Theft_Auto_III_-_The_Definitive_Edition-motorola-moto_g86_5G-Mali-G615_MC2-1778380959.json"
   }
 ]
