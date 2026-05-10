@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1778429606,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1778429606.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1778428859,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778423102,
     "filename": "Replaced-Xiaomi-23127PN0CG-Adreno__TM__750-1778423102.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1778422614,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g75_5G-Adreno__TM__710-1778422614.json"
   }
 ]
