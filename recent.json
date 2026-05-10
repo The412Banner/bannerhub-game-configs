@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "motorola_edge_70",
+    "device": "Adreno__TM__722",
+    "timestamp": 1778409206,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-motorola_edge_70-Adreno__TM__722-1778409206.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "SOG01",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778389688,
     "filename": "DRAGON_BALL_FighterZ-vivo-V2038-Mali-G52_MC2-1778389688.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778389105,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX789J-Adreno__TM__830-1778389105.json"
   }
 ]
