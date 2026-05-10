@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778449603,
+    "filename": "Sleeping_Dogs-AYN-Odin2_Portal-Adreno__TM__740-1778449603.json"
+  },
+  {
     "game": "AC3SP",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778445764,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1778445764.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778445569,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1778445569.json"
   }
 ]
