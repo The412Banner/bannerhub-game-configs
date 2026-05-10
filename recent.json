@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "S908W",
+    "device": "Adreno__TM__730",
+    "timestamp": 1778405471,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S908W-Adreno__TM__730-1778405471.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1778383817,
     "filename": "ashes-realme-RMX3867-Mali-G68_MC4-1778383817.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778383399,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_LJ6-Mali-G57_MC2-1778383399.json"
   }
 ]
