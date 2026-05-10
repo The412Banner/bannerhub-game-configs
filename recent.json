@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778457537,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3780-Mali-G57_MC2-1778457537.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1778457254,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2404ARN45A-Mali-G52_MC2-1778457254.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778454996,
     "filename": "Huntdown_Overtime-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778454996.json"
-  },
-  {
-    "game": "Hades_II",
-    "manufacturer": "V2408A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778454955,
-    "filename": "Hades_II-vivo-V2408A-Adreno__TM__830-1778454955.json"
   }
 ]
