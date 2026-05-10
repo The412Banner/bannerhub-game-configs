@@ -1,5 +1,12 @@
 [
   {
+    "game": "Age_of_Empires_II___________________________________________",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778412398,
+    "filename": "Age_of_Empires_II___________________________________________-samsung-SM-S938B-Adreno__TM__830-1778412398.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778395239,
     "filename": "Hades-LENOVO-TB322FC-Adreno__TM__830-1778395239.json"
-  },
-  {
-    "game": "Slay_the_Spire_2",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778389987,
-    "filename": "Slay_the_Spire_2-AYN-AYN_Thor-Adreno__TM__740-1778389987.json"
   }
 ]
