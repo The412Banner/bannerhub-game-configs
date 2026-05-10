@@ -1,5 +1,12 @@
 [
   {
+    "game": "ashes",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1778383817,
+    "filename": "ashes-realme-RMX3867-Mali-G68_MC4-1778383817.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778363780,
     "filename": "Huntdown_Overtime-AYANEO-Pocket_FIT-Adreno__TM__750-1778363780.json"
-  },
-  {
-    "game": "MiSide_Demo",
-    "manufacturer": "A042M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1778361892,
-    "filename": "MiSide_Demo-samsung-SM-A042M-PowerVR_Rogue_GE8320-1778361892.json"
   }
 ]
