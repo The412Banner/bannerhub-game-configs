@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stremio_Enhanced",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778375171,
+    "filename": "Stremio_Enhanced-INFINIX-Infinix_X6873-Mali-G615_MC6-1778375171.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1778359113,
     "filename": "Pro_Evolution_Soccer_2019-samsung-SM-A256E-Mali-G68-1778359113.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778358261,
-    "filename": "Tomb_Raider-Xiaomi-23117RA68G-Mali-G57_MC2-1778358261.json"
   }
 ]
