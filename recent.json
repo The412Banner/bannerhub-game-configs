@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778445208,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2510DRA23L-Mali-G57_MC2-1778445208.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A715F",
     "device": "Adreno__TM__618",
     "timestamp": 1778444014,
@@ -131,12 +138,5 @@
     "device": "49_1_0_",
     "timestamp": 1778437972,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g35_5G-ANGLE__ARM__Vulkan_1_3_278__Mali-G57__0x90910010____Mali-G57-49_1_0_-1778437972.json"
-  },
-  {
-    "game": "Replaced",
-    "manufacturer": "Retroid_Pocket_G2",
-    "device": "Adreno__TM__22",
-    "timestamp": 1778437891,
-    "filename": "Replaced-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778437891.json"
   }
 ]
