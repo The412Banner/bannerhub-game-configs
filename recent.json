@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "moto_g75_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1778423294,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g75_5G-Adreno__TM__710-1778423294.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1778415654,
     "filename": "Grand_Theft_Auto_V_Legacy-LENOVO-TB320FC-Adreno__TM__730-1778415654.json"
-  },
-  {
-    "game": "AWayOut",
-    "manufacturer": "X810",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778415176,
-    "filename": "AWayOut-samsung-SM-X810-Adreno__TM__740-1778415176.json"
   }
 ]
