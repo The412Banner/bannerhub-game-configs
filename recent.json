@@ -1,5 +1,12 @@
 [
   {
+    "game": "10_Second_Ninja_X",
+    "manufacturer": "LE2115",
+    "device": "Adreno__TM__660",
+    "timestamp": 1778443683,
+    "filename": "10_Second_Ninja_X-OnePlus-LE2115-Adreno__TM__660-1778443683.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "23122PCD1I",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778437147,
     "filename": "Absolute_Drift-HONOR-ROL-W00-Mali-G615_MC6-1778437147.json"
-  },
-  {
-    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778436822,
-    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-Xiaomi-25053PC47G-Adreno__TM__825-1778436822.json"
   }
 ]
