@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1778448014,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1778448014.json"
+  },
+  {
     "game": "Terminator_2D_NO_FATE",
     "manufacturer": "LE2101",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1778443643,
     "filename": "Tomb_Raider-Xiaomi-23122PCD1I-Adreno__TM__710-1778443643.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1778443426,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1778443426.json"
   }
 ]
