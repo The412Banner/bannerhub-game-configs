@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778423161,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-24117RN76L-Mali-G57_MC2-1778423161.json"
+  },
+  {
     "game": "Replaced",
     "manufacturer": "23127PN0CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778415176,
     "filename": "AWayOut-samsung-SM-X810-Adreno__TM__740-1778415176.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1778413507,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-I2214-Mali-G610_MC6-1778413507.json"
   }
 ]
