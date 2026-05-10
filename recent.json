@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Ghosts",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778449727,
+    "filename": "Call_of_Duty___Ghosts-AYN-Odin2_Portal-Adreno__TM__740-1778449727.json"
+  },
+  {
     "game": "Rockstar_Games_Launcher_Redirector",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778447048,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778447048.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778447034,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778447034.json"
   }
 ]
