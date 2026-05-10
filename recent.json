@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778446236,
+    "filename": "MiSide-Xiaomi-23043RP34G-Adreno__TM__650-1778446236.json"
+  },
+  {
     "game": "Battlefield_3_",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778440248,
     "filename": "gta3-OPPO-CPH2579-Mali-G52_MC2-1778440248.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778439972,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A035M-Mali-G57-1778439972.json"
   }
 ]
