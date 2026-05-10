@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778443085,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2510DRA23L-Mali-G57_MC2-1778443085.json"
+  },
+  {
     "game": "Microsoft__Games_for_Windows__-_LIVE",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1778435850,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1778435850.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1778435675,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1778435675.json"
   }
 ]
