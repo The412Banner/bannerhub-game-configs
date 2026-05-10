@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "24030PN60G",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778379243,
+    "filename": "Devil_May_Cry_5-Xiaomi-24030PN60G-Adreno__TM__750-1778379243.json"
+  },
+  {
     "game": "OPU3",
     "manufacturer": "NX9",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778359405,
     "filename": "Resident_Evil_5-INFINIX-Infinix_X6833B-Mali-G57_MC2-1778359405.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778359366,
-    "filename": "Resident_Evil_5-INFINIX-Infinix_X6833B-Mali-G57_MC2-1778359366.json"
   }
 ]
