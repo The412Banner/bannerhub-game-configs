@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1778384315,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778384315.json"
+  },
+  {
     "game": "ashes",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778365220,
     "filename": "Stellar_Blade_-Xiaomi-24122RKC7C-Adreno__TM__830-1778365220.json"
-  },
-  {
-    "game": "Huntdown_Overtime",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778363780,
-    "filename": "Huntdown_Overtime-AYANEO-Pocket_FIT-Adreno__TM__750-1778363780.json"
   }
 ]
