@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778449627,
+    "filename": "Tomb_Raider-AYN-Odin2_Portal-Adreno__TM__740-1778449627.json"
+  },
+  {
     "game": "Batman___Arkham_Knight",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778446236,
     "filename": "MiSide-Xiaomi-23043RP34G-Adreno__TM__650-1778446236.json"
-  },
-  {
-    "game": "Battlefield_3_",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1778446091,
-    "filename": "Battlefield_3_-Xiaomi-23049PCD8G-Adreno__TM__725-1778446091.json"
   }
 ]
