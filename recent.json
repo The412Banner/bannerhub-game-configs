@@ -1,5 +1,12 @@
 [
   {
+    "game": "Darksiders_II_Deathinitive_Edition",
+    "manufacturer": "AN00",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778439851,
+    "filename": "Darksiders_II_Deathinitive_Edition-HONOR-AMG-AN00-Adreno__TM__750-1778439851.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1778432689,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23122PCD1I-Adreno__TM__710-1778432689.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23122PCD1I",
-    "device": "Adreno__TM__710",
-    "timestamp": 1778432576,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23122PCD1I-Adreno__TM__710-1778432576.json"
   }
 ]
