@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A042M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1778426332,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1778426332.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_e22",
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1778425947,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778420877,
     "filename": "Resident_Evil_5_-Xiaomi-25053PC47G-Adreno__TM__825-1778420877.json"
-  },
-  {
-    "game": "Five_Night_s_at_Frickbear_s_3",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778420700,
-    "filename": "Five_Night_s_at_Frickbear_s_3-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778420700.json"
   }
 ]
