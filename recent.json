@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778383399,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_LJ6-Mali-G57_MC2-1778383399.json"
+  },
+  {
     "game": "Cyberpunk_2077",
     "manufacturer": "RMX5210",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1778361892,
     "filename": "MiSide_Demo-samsung-SM-A042M-PowerVR_Rogue_GE8320-1778361892.json"
-  },
-  {
-    "game": "MiSide_Demo",
-    "manufacturer": "A042M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1778361864,
-    "filename": "MiSide_Demo-samsung-SM-A042M-PowerVR_Rogue_GE8320-1778361864.json"
   }
 ]
