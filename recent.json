@@ -1,5 +1,12 @@
 [
   {
+    "game": "AC3SP",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778449587,
+    "filename": "AC3SP-AYN-Odin2_Portal-Adreno__TM__740-1778449587.json"
+  },
+  {
     "game": "p_s_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778445569,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1778445569.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778445208,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2510DRA23L-Mali-G57_MC2-1778445208.json"
   }
 ]
