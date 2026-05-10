@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "G57",
+    "device": "49_1_0_",
+    "timestamp": 1778437972,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g35_5G-ANGLE__ARM__Vulkan_1_3_278__Mali-G57__0x90910010____Mali-G57-49_1_0_-1778437972.json"
+  },
+  {
     "game": "Replaced",
     "manufacturer": "Retroid_Pocket_G2",
     "device": "Adreno__TM__22",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778430115,
     "filename": "Resident_Evil_7_Biohazard-Xiaomi-25053PC47G-Adreno__TM__825-1778430115.json"
-  },
-  {
-    "game": "Need_for_Speed_Most_Wanted_",
-    "manufacturer": "22081212UG",
-    "device": "Adreno__TM__730",
-    "timestamp": 1778429750,
-    "filename": "Need_for_Speed_Most_Wanted_-Xiaomi-22081212UG-Adreno__TM__730-1778429750.json"
   }
 ]
