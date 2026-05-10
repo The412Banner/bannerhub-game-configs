@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778428526,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1778428526.json"
+  },
+  {
     "game": "SnowRunner",
     "manufacturer": "PKR110",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778421455,
     "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-samsung-SM-F966U-Adreno__TM__830-1778421455.json"
-  },
-  {
-    "game": "JUMP_FORCE",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778421377,
-    "filename": "JUMP_FORCE-HONOR-DNP-NX9-Adreno__TM__750-1778421377.json"
   }
 ]
