@@ -1,5 +1,12 @@
 [
   {
+    "game": "ClearedHot",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778456222,
+    "filename": "ClearedHot-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778456222.json"
+  },
+  {
     "game": "INSIDE",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778449975,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778449975.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778449951,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778449951.json"
   }
 ]
