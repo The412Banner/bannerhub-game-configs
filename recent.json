@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778411886,
+    "filename": "DARK_SOULS___REMASTERED-INFINIX-Infinix_X6821-Mali-G57_MC2-1778411886.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "motorola_edge_70",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778389938,
     "filename": "Slay_the_Spire_2-AYN-AYN_Thor-Adreno__TM__740-1778389938.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778389688,
-    "filename": "DRAGON_BALL_FighterZ-vivo-V2038-Mali-G52_MC2-1778389688.json"
   }
 ]
