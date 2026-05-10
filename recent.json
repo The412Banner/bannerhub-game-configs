@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A715F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1778444014,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A715F-Adreno__TM__618-1778444014.json"
+  },
+  {
     "game": "10_Second_Ninja_X",
     "manufacturer": "LE2115",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__22",
     "timestamp": 1778437891,
     "filename": "Replaced-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778437891.json"
-  },
-  {
-    "game": "Absolute_Drift",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778437147,
-    "filename": "Absolute_Drift-HONOR-ROL-W00-Mali-G615_MC6-1778437147.json"
   }
 ]
