@@ -1,5 +1,12 @@
 [
   {
+    "game": "OPU3",
+    "manufacturer": "NX9",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1778378725,
+    "filename": "OPU3-HONOR-NTH-NX9-Adreno__TM__642L-1778378725.json"
+  },
+  {
     "game": "Stremio_Enhanced",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778359366,
     "filename": "Resident_Evil_5-INFINIX-Infinix_X6833B-Mali-G57_MC2-1778359366.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2019",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1778359113,
-    "filename": "Pro_Evolution_Soccer_2019-samsung-SM-A256E-Mali-G68-1778359113.json"
   }
 ]
