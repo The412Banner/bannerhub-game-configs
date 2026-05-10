@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778448994,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g14-Mali-G57-1778448994.json"
+  },
+  {
     "game": "DRAGON_BALL_Z__KAKAROT",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1778444014,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A715F-Adreno__TM__618-1778444014.json"
-  },
-  {
-    "game": "10_Second_Ninja_X",
-    "manufacturer": "LE2115",
-    "device": "Adreno__TM__660",
-    "timestamp": 1778443683,
-    "filename": "10_Second_Ninja_X-OnePlus-LE2115-Adreno__TM__660-1778443683.json"
   }
 ]
