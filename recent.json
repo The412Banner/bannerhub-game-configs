@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_2",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778456229,
+    "filename": "Far_Cry_2-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778456229.json"
+  },
+  {
     "game": "Outrun_-_Coast_to_Coast",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778452215,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1778452215.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1778450792,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g34_5G-Adreno__TM__619-1778450792.json"
   }
 ]
