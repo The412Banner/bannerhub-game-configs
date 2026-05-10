@@ -1,5 +1,12 @@
 [
   {
+    "game": "MOUSE",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778424022,
+    "filename": "MOUSE-Xiaomi-23129RAA4G-Adreno__TM__610-1778424022.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778419540,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-samsung-SM-G781B-Adreno__TM__650-1778419540.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778415876,
-    "filename": "Grand_Theft_Auto_V_Legacy-ITEL-itel_A671N-Mali-G57_MC2-1778415876.json"
   }
 ]
