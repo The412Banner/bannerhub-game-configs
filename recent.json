@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "G781B",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778419540,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-samsung-SM-G781B-Adreno__TM__650-1778419540.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778406789,
     "filename": "Monster_Hunter__World-Xiaomi-24129PN74G-Adreno__TM__830-1778406789.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "S908W",
-    "device": "Adreno__TM__730",
-    "timestamp": 1778405471,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S908W-Adreno__TM__730-1778405471.json"
   }
 ]
