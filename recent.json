@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades_II",
+    "manufacturer": "V2408A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778455560,
+    "filename": "Hades_II-vivo-V2408A-Adreno__TM__830-1778455560.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g22",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778449636,
     "filename": "Rockstar_Games_Launcher_Redirector-AYN-Odin2_Portal-Adreno__TM__740-1778449636.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778449627,
-    "filename": "Tomb_Raider-AYN-Odin2_Portal-Adreno__TM__740-1778449627.json"
   }
 ]
