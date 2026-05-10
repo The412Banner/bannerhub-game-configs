@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778406932,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1778406932.json"
+  },
+  {
     "game": "Monster_Hunter__World",
     "manufacturer": "24129PN74G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__22",
     "timestamp": 1778384324,
     "filename": "TWFC-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778384324.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Retroid_Pocket_G2",
-    "device": "Adreno__TM__22",
-    "timestamp": 1778384315,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778384315.json"
   }
 ]
