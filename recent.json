@@ -1,5 +1,12 @@
 [
   {
+    "game": "Slay_the_Spire_2",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778389938,
+    "filename": "Slay_the_Spire_2-AYN-AYN_Thor-Adreno__TM__740-1778389938.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1778378725,
     "filename": "OPU3-HONOR-NTH-NX9-Adreno__TM__642L-1778378725.json"
-  },
-  {
-    "game": "Stremio_Enhanced",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778375171,
-    "filename": "Stremio_Enhanced-INFINIX-Infinix_X6873-Mali-G615_MC6-1778375171.json"
   }
 ]
