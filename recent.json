@@ -1,5 +1,12 @@
 [
   {
+    "game": "GoW",
+    "manufacturer": "RMX3800",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778379569,
+    "filename": "GoW-realme-RMX3800-Adreno__TM__750-1778379569.json"
+  },
+  {
     "game": "Devil_May_Cry_5",
     "manufacturer": "24030PN60G",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778359447,
     "filename": "Need_for_Speed__The_Run-nubia-NX789S_V1B-Adreno__TM__830-1778359447.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778359405,
-    "filename": "Resident_Evil_5-INFINIX-Infinix_X6833B-Mali-G57_MC2-1778359405.json"
   }
 ]
