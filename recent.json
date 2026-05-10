@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1778412015,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-samsung-SM-G990E-Mali-G78-1778412015.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778389987,
     "filename": "Slay_the_Spire_2-AYN-AYN_Thor-Adreno__TM__740-1778389987.json"
-  },
-  {
-    "game": "Slay_the_Spire_2",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778389938,
-    "filename": "Slay_the_Spire_2-AYN-AYN_Thor-Adreno__TM__740-1778389938.json"
   }
 ]
