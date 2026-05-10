@@ -1,5 +1,12 @@
 [
   {
+    "game": "AWayOut",
+    "manufacturer": "X810",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778415176,
+    "filename": "AWayOut-samsung-SM-X810-Adreno__TM__740-1778415176.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778397394,
     "filename": "STAR_WARS_Jedi__Fallen_Order_-Xiaomi-2311DRK48G-Mali-G615_MC6-1778397394.json"
-  },
-  {
-    "game": "launcher",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778395427,
-    "filename": "launcher-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778395427.json"
   }
 ]
