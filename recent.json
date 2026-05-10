@@ -1,5 +1,12 @@
 [
   {
+    "game": "Little_Nightmares_III",
+    "manufacturer": "S908W",
+    "device": "Adreno__TM__730",
+    "timestamp": 1778454341,
+    "filename": "Little_Nightmares_III-samsung-SM-S908W-Adreno__TM__730-1778454341.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "23129RAA4G",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778449587,
     "filename": "AC3SP-AYN-Odin2_Portal-Adreno__TM__740-1778449587.json"
-  },
-  {
-    "game": "p_s_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778449119,
-    "filename": "p_s_2013-motorola-moto_g05-Mali-G52_MC2-1778449119.json"
   }
 ]
