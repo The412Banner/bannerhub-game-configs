@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1778505298,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1778505298.json"
+  },
+  {
     "game": "Crysis_WARHEAD_R_",
     "manufacturer": "I2012",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1778495777,
     "filename": "Creepy_Scary-samsung-SM-G991U-Adreno__TM__660-1778495777.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778494727,
-    "filename": "Sleeping_Dogs-INFINIX-Infinix_X6853-Mali-G57_MC2-1778494727.json"
   }
 ]
