@@ -1,5 +1,12 @@
 [
   {
+    "game": "Yakuza_Kiwami",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778527835,
+    "filename": "Yakuza_Kiwami-Xiaomi-2311DRK48G-Mali-G615_MC6-1778527835.json"
+  },
+  {
     "game": "Counter-Strike_2",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1778520763,
     "filename": "Fallout_3-samsung-SM-A546E-Mali-G68-1778520763.json"
-  },
-  {
-    "game": "Swordhaven__Iron_Conspiracy",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778520660,
-    "filename": "Swordhaven__Iron_Conspiracy-AYN-AYN_Thor-Adreno__TM__740-1778520660.json"
   }
 ]
