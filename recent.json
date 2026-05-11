@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778497945,
+    "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1778497945.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "V2453A",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1778479559,
     "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-24069PC21G-Adreno__TM__735-1778479559.json"
-  },
-  {
-    "game": "DRAGON_BALL_Sparking__ZERO",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1778479409,
-    "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-24069PC21G-Adreno__TM__735-1778479409.json"
   }
 ]
