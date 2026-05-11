@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "I2405",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778486791,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-I2405-Adreno__TM__825-1778486791.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "24069PC21I",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778472764,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6531-Mali-G52_MC2-1778472764.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1778471791,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A266M-Mali-G68-1778471791.json"
   }
 ]
