@@ -1,5 +1,12 @@
 [
   {
+    "game": "Kena__Bridge_of_Spirits",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778502053,
+    "filename": "Kena__Bridge_of_Spirits-AYANEO-Pocket_FIT-Adreno__TM__750-1778502053.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1778486761,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-24069PC21I-Adreno__TM__735-1778486761.json"
-  },
-  {
-    "game": "DisciplesIII",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778479983,
-    "filename": "DisciplesIII-AYN-Odin2-Adreno__TM__740-1778479983.json"
   }
 ]
