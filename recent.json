@@ -1,5 +1,12 @@
 [
   {
+    "game": "DECRIA",
+    "manufacturer": "A125M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1778530455,
+    "filename": "DECRIA-samsung-SM-A125M-PowerVR_Rogue_GE8320-1778530455.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23122PCD1I",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1778521969,
     "filename": "Explorer__-OnePlus-CPH2745-Adreno__TM__840-1778521969.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778521521,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g31-Mali-G52_MC2-1778521521.json"
   }
 ]
