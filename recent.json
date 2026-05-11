@@ -1,5 +1,12 @@
 [
   {
+    "game": "DisciplesIII",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778479864,
+    "filename": "DisciplesIII-AYN-Odin2-Adreno__TM__740-1778479864.json"
+  },
+  {
     "game": "pes_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1778470346,
     "filename": "Terraria-samsung-SM-A536E-Mali-G68-1778470346.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778470229,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6531-Mali-G52_MC2-1778470229.json"
   }
 ]
