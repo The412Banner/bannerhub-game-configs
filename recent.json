@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1778471236,
+    "filename": "Resident_Evil_5-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778471236.json"
+  },
+  {
     "game": "Terraria",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778463921,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1778463921.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1778463691,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A166M-Mali-G68-1778463691.json"
   }
 ]
