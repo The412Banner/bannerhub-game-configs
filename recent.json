@@ -1,5 +1,12 @@
 [
   {
+    "game": "Replaced",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778460638,
+    "filename": "Replaced-Xiaomi-25053PC47G-Adreno__TM__825-1778460638.json"
+  },
+  {
     "game": "Mini_Royale",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778456217,
     "filename": "INSIDE-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778456217.json"
-  },
-  {
-    "game": "Replaced",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778456207,
-    "filename": "Replaced-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778456207.json"
   }
 ]
