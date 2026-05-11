@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778540449,
+    "filename": "PES_2013-samsung-SM-A165M-Mali-G57_MC2-1778540449.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_e_7__plus",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778527835,
     "filename": "Yakuza_Kiwami-Xiaomi-2311DRK48G-Mali-G615_MC6-1778527835.json"
-  },
-  {
-    "game": "Counter-Strike_2",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1778527160,
-    "filename": "Counter-Strike_2-nubia-NX809J-Adreno__TM__840-1778527160.json"
   }
 ]
