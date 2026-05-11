@@ -3,6 +3,13 @@
     "game": "Singularity",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1778474305,
+    "filename": "Singularity-CUBOT-KINGKONG_9-Mali-G57_MC2-1778474305.json"
+  },
+  {
+    "game": "Singularity",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1778474296,
     "filename": "Singularity-CUBOT-KINGKONG_9-Mali-G57_MC2-1778474296.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778464945,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__plus-Adreno__TM__610-1778464945.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2201117TG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778464628,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TG-Adreno__TM__610-1778464628.json"
   }
 ]
