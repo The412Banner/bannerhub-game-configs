@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP17",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1778504440,
+    "filename": "MotoGP17-INFINIX-Infinix_X6871-Mali-G610_MC6-1778504440.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778494273,
     "filename": "MidnightFightExpress-OnePlus-OPD2413-Adreno__TM__830-1778494273.json"
-  },
-  {
-    "game": "Midnight_Fight_Express",
-    "manufacturer": "CPH2767",
-    "device": "Adreno__TM__829",
-    "timestamp": 1778494012,
-    "filename": "Midnight_Fight_Express-OnePlus-CPH2767-Adreno__TM__829-1778494012.json"
   }
 ]
