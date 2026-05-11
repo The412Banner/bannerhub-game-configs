@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mini_Royale",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1778459374,
+    "filename": "Mini_Royale-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778459374.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M2010J19SG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778455560,
     "filename": "Hades_II-vivo-V2408A-Adreno__TM__830-1778455560.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g22",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1778455400,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1778455400.json"
   }
 ]
