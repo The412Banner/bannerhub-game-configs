@@ -3,6 +3,13 @@
     "game": "INSIDE",
     "manufacturer": "Mali",
     "device": "G615_MC6",
+    "timestamp": 1778462294,
+    "filename": "INSIDE-Xiaomi-2311DRK48G-Mali-G615_MC6-1778462294.json"
+  },
+  {
+    "game": "INSIDE",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
     "timestamp": 1778462283,
     "filename": "INSIDE-Xiaomi-2311DRK48G-Mali-G615_MC6-1778462283.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778456236,
     "filename": "No_More_Heroes_2-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778456236.json"
-  },
-  {
-    "game": "DELTARUNE",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778456234,
-    "filename": "DELTARUNE-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778456234.json"
   }
 ]
