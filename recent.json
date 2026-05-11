@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1778540957,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24095PCADG-Mali-G615_MC2-1778540957.json"
+  },
+  {
     "game": "PES_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1778528000,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23122PCD1I-Adreno__TM__710-1778528000.json"
-  },
-  {
-    "game": "Yakuza_Kiwami",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778527835,
-    "filename": "Yakuza_Kiwami-Xiaomi-2311DRK48G-Mali-G615_MC6-1778527835.json"
   }
 ]
