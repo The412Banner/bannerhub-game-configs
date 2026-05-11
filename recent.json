@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "24069PC21I",
+    "device": "Adreno__TM__735",
+    "timestamp": 1778486761,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-24069PC21I-Adreno__TM__735-1778486761.json"
+  },
+  {
     "game": "DisciplesIII",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1778471791,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A266M-Mali-G68-1778471791.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Retroid_Pocket_G2",
-    "device": "Adreno__TM__22",
-    "timestamp": 1778471236,
-    "filename": "Resident_Evil_5-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778471236.json"
   }
 ]
