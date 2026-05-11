@@ -1,5 +1,12 @@
 [
   {
+    "game": "7Launcher_-_GTA_5_1_6_6_____________________________________",
+    "manufacturer": "motorola_edge_20_pro",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778513734,
+    "filename": "7Launcher_-_GTA_5_1_6_6_____________________________________-motorola-motorola_edge_20_pro-Adreno__TM__650-1778513734.json"
+  },
+  {
     "game": "Crab_Game",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778505243,
     "filename": "Crysis_WARHEAD_R_-vivo-I2012-Adreno__TM__650-1778505243.json"
-  },
-  {
-    "game": "MotoGP17",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1778504440,
-    "filename": "MotoGP17-INFINIX-Infinix_X6871-Mali-G610_MC6-1778504440.json"
   }
 ]
