@@ -1,5 +1,12 @@
 [
   {
+    "game": "Swordhaven__Iron_Conspiracy",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778520660,
+    "filename": "Swordhaven__Iron_Conspiracy-AYN-AYN_Thor-Adreno__TM__740-1778520660.json"
+  },
+  {
     "game": "game",
     "manufacturer": "2201117TG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778508783,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778508783.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778508708,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778508708.json"
   }
 ]
