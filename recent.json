@@ -1,5 +1,12 @@
 [
   {
+    "game": "Counter-Strike_2",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1778527160,
+    "filename": "Counter-Strike_2-nubia-NX809J-Adreno__TM__840-1778527160.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778520660,
     "filename": "Swordhaven__Iron_Conspiracy-AYN-AYN_Thor-Adreno__TM__740-1778520660.json"
-  },
-  {
-    "game": "game",
-    "manufacturer": "2201117TG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778519118,
-    "filename": "game-Xiaomi-2201117TG-Adreno__TM__610-1778519118.json"
   }
 ]
