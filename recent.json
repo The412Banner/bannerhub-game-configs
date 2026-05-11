@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1778511005,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1778511005.json"
+  },
+  {
     "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
     "manufacturer": "NX9",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778501471,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-LAVA-LAVA_LXX507-Mali-G57_MC2-1778501471.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778501285,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-LAVA-LAVA_LXX507-Mali-G57_MC2-1778501285.json"
   }
 ]
