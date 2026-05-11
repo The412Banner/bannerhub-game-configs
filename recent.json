@@ -3,6 +3,13 @@
     "game": "DisciplesIII",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
+    "timestamp": 1778479983,
+    "filename": "DisciplesIII-AYN-Odin2-Adreno__TM__740-1778479983.json"
+  },
+  {
+    "game": "DisciplesIII",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
     "timestamp": 1778479864,
     "filename": "DisciplesIII-AYN-Odin2-Adreno__TM__740-1778479864.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__22",
     "timestamp": 1778471236,
     "filename": "Resident_Evil_5-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778471236.json"
-  },
-  {
-    "game": "Terraria",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1778470346,
-    "filename": "Terraria-samsung-SM-A536E-Mali-G68-1778470346.json"
   }
 ]
