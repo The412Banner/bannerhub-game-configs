@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1778530531,
+    "filename": "Rise_of_the_Tomb_Raider_-vivo-V2534-Mali-G615_MC2-1778530531.json"
+  },
+  {
     "game": "DECRIA",
     "manufacturer": "A125M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1778521982,
     "filename": "Explorer__-OnePlus-CPH2745-Adreno__TM__840-1778521982.json"
-  },
-  {
-    "game": "Explorer__",
-    "manufacturer": "CPH2745",
-    "device": "Adreno__TM__840",
-    "timestamp": 1778521969,
-    "filename": "Explorer__-OnePlus-CPH2745-Adreno__TM__840-1778521969.json"
   }
 ]
