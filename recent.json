@@ -1,5 +1,12 @@
 [
   {
+    "game": "OPUS__Prism_Peak",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778542771,
+    "filename": "OPUS__Prism_Peak-samsung-SM-S938B-Adreno__TM__830-1778542771.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1778534731,
     "filename": "setup-Xiaomi-24095PCADG-Mali-G615_MC2-1778534731.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778534509,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1778534509.json"
   }
 ]
