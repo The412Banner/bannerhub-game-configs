@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "M2010J19SG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778458857,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2010J19SG-Adreno__TM__610-1778458857.json"
+  },
+  {
     "game": "MK11",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778455396,
     "filename": "Cult_of_the_Lamb-vivo-V2408A-Adreno__TM__830-1778455396.json"
-  },
-  {
-    "game": "KARAKARA",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778455032,
-    "filename": "KARAKARA-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778455032.json"
   }
 ]
