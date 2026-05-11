@@ -1,5 +1,12 @@
 [
   {
+    "game": "Explorer__",
+    "manufacturer": "CPH2745",
+    "device": "Adreno__TM__840",
+    "timestamp": 1778521969,
+    "filename": "Explorer__-OnePlus-CPH2745-Adreno__TM__840-1778521969.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778510850,
     "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-HONOR-DNP-NX9-Adreno__TM__750-1778510850.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778510315,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1778510315.json"
   }
 ]
