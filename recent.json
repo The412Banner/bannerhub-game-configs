@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_e_7__plus",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778540207,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e_7__plus-Adreno__TM__610-1778540207.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1778539227,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1778527160,
     "filename": "Counter-Strike_2-nubia-NX809J-Adreno__TM__840-1778527160.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778527017,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1778527017.json"
   }
 ]
