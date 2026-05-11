@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1778534731,
+    "filename": "setup-Xiaomi-24095PCADG-Mali-G615_MC2-1778534731.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778523241,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1778523241.json"
-  },
-  {
-    "game": "Middle-earth___Shadow_of_War_",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778523234,
-    "filename": "Middle-earth___Shadow_of_War_-Xiaomi-25053PC47G-Adreno__TM__825-1778523234.json"
   }
 ]
