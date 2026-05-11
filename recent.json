@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1778461685,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1778461685.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1778460941,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778456229,
     "filename": "Far_Cry_2-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778456229.json"
-  },
-  {
-    "game": "Outrun_-_Coast_to_Coast",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778456225,
-    "filename": "Outrun_-_Coast_to_Coast-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778456225.json"
   }
 ]
