@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fallout_3",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1778520763,
+    "filename": "Fallout_3-samsung-SM-A546E-Mali-G68-1778520763.json"
+  },
+  {
     "game": "Swordhaven__Iron_Conspiracy",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1778508914,
     "filename": "little_nightmares_ll-CUBOT-MAX_5-Mali-G610_MC6-1778508914.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778508783,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778508783.json"
   }
 ]
