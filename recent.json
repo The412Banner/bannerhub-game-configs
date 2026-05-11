@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1778530939,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1778530939.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778522026,
     "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-Xiaomi-25053PC47G-Adreno__TM__825-1778522026.json"
-  },
-  {
-    "game": "Explorer__",
-    "manufacturer": "CPH2745",
-    "device": "Adreno__TM__840",
-    "timestamp": 1778521982,
-    "filename": "Explorer__-OnePlus-CPH2745-Adreno__TM__840-1778521982.json"
   }
 ]
