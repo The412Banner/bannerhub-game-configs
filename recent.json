@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A042M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1778464037,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1778464037.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1778464011,
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778457254,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2404ARN45A-Mali-G52_MC2-1778457254.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778457161,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2404ARN45A-Mali-G52_MC2-1778457161.json"
   }
 ]
