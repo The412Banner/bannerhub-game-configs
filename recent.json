@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1778516087,
+    "filename": "DARK_SOULS___REMASTERED-samsung-SM-M536B-Mali-G68_MC4-1778516087.json"
+  },
+  {
     "game": "The_Full_Debrid_For_Kontakt",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778507819,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g31-Mali-G52_MC2-1778507819.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778507493,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g31-Mali-G52_MC2-1778507493.json"
   }
 ]
