@@ -1,5 +1,12 @@
 [
   {
+    "game": "VanillaFixes",
+    "manufacturer": "PKG110",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778479754,
+    "filename": "VanillaFixes-OnePlus-PKG110-Adreno__TM__750-1778479754.json"
+  },
+  {
     "game": "DRAGON_BALL_Sparking__ZERO",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__22",
     "timestamp": 1778468604,
     "filename": "Cuphead-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778468604.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1778467430,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1778467430.json"
   }
 ]
