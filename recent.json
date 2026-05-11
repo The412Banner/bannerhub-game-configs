@@ -1,5 +1,12 @@
 [
   {
+    "game": "Midnight_Fight_Express",
+    "manufacturer": "CPH2767",
+    "device": "Adreno__TM__829",
+    "timestamp": 1778493984,
+    "filename": "Midnight_Fight_Express-OnePlus-CPH2767-Adreno__TM__829-1778493984.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778474305,
     "filename": "Singularity-CUBOT-KINGKONG_9-Mali-G57_MC2-1778474305.json"
-  },
-  {
-    "game": "Singularity",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778474296,
-    "filename": "Singularity-CUBOT-KINGKONG_9-Mali-G57_MC2-1778474296.json"
   }
 ]
