@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778494727,
+    "filename": "Sleeping_Dogs-INFINIX-Infinix_X6853-Mali-G57_MC2-1778494727.json"
+  },
+  {
     "game": "MidnightFightExpress",
     "manufacturer": "OPD2413",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1778478247,
     "filename": "R_E_P_O_-CUBOT-MAX_5-Mali-G610_MC6-1778478247.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778476942,
-    "filename": "Watch_Dogs_-Xiaomi-2311DRK48G-Mali-G615_MC6-1778476942.json"
   }
 ]
