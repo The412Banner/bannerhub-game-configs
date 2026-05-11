@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778541459,
+    "filename": "Resident_Evil_6-samsung-SM-A155M-Mali-G57_MC2-1778541459.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1778530531,
     "filename": "Rise_of_the_Tomb_Raider_-vivo-V2534-Mali-G615_MC2-1778530531.json"
-  },
-  {
-    "game": "DECRIA",
-    "manufacturer": "A125M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1778530455,
-    "filename": "DECRIA-samsung-SM-A125M-PowerVR_Rogue_GE8320-1778530455.json"
   }
 ]
