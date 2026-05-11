@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778479059,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A325M-Mali-G52_MC2-1778479059.json"
+  },
+  {
     "game": "R_E_P_O_",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778466013,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778466013.json"
-  },
-  {
-    "game": "RiotClient",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1778465927,
-    "filename": "RiotClient-Xiaomi-24090RA29G-Mali-G615_MC2-1778465927.json"
   }
 ]
