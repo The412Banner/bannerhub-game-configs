@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778541266,
+    "filename": "Resident_Evil_2-Xiaomi-2406APNFAG-Mali-G615_MC6-1778541266.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1778530455,
     "filename": "DECRIA-samsung-SM-A125M-PowerVR_Rogue_GE8320-1778530455.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23122PCD1I",
-    "device": "Adreno__TM__710",
-    "timestamp": 1778528000,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23122PCD1I-Adreno__TM__710-1778528000.json"
   }
 ]
