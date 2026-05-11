@@ -3,6 +3,13 @@
     "game": "Mini_Royale",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1778459852,
+    "filename": "Mini_Royale-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778459852.json"
+  },
+  {
+    "game": "Mini_Royale",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1778459374,
     "filename": "Mini_Royale-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778459374.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778456187,
     "filename": "Fallout_4-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778456187.json"
-  },
-  {
-    "game": "Hades_II",
-    "manufacturer": "V2408A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778455560,
-    "filename": "Hades_II-vivo-V2408A-Adreno__TM__830-1778455560.json"
   }
 ]
