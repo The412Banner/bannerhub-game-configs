@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "V2453A",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778497907,
+    "filename": "Mafia_II__Classic_-vivo-V2453A-Adreno__TM__825-1778497907.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G72_MP3",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1778479409,
     "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-24069PC21G-Adreno__TM__735-1778479409.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778479371,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3910-Mali-G52_MC2-1778479371.json"
   }
 ]
