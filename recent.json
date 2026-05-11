@@ -1,5 +1,12 @@
 [
   {
+    "game": "Autopatch",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1778502939,
+    "filename": "Autopatch-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778502939.json"
+  },
+  {
     "game": "Kena__Bridge_of_Spirits",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778486791,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-I2405-Adreno__TM__825-1778486791.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "24069PC21I",
-    "device": "Adreno__TM__735",
-    "timestamp": 1778486761,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-24069PC21I-Adreno__TM__735-1778486761.json"
   }
 ]
