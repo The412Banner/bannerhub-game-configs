@@ -1,4 +1,6 @@
 # BannerHub Game Configs
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/n8S4G2WZQ4)
+
 
 Community-shared game configurations for [BannerHub](https://github.com/The412Banner/BannerHub).
 
@@ -46,3 +48,8 @@ Configs are uploaded and downloaded directly through the BannerHub app via the
 **Export Config** and **Import Config** options in the game settings menu.
 
 Do not submit configs manually — they are managed by the app.
+
+
+## Community
+
+Join our Discord: https://discord.gg/n8S4G2WZQ4
