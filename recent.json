@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1778463691,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A166M-Mali-G68-1778463691.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1778463025,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1778463025.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778456491,
     "filename": "Heroes_of_Might_and_Magic__Olden_Era-vivo-V2408A-Adreno__TM__830-1778456491.json"
-  },
-  {
-    "game": "Spec_Ops__The_Line",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778456247,
-    "filename": "Spec_Ops__The_Line-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1778456247.json"
   }
 ]
