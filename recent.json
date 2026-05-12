@@ -1,5 +1,12 @@
 [
   {
+    "game": "Clair_Obscur__Expedition_33",
+    "manufacturer": "NX733J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778628743,
+    "filename": "Clair_Obscur__Expedition_33-nubia-NX733J-Adreno__TM__830-1778628743.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778624845,
     "filename": "PES_2013_Fix-realme-RMX3938-Mali-G57-1778624845.json"
-  },
-  {
-    "game": "PES_2013_Fix",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778624833,
-    "filename": "PES_2013_Fix-realme-RMX3938-Mali-G57-1778624833.json"
   }
 ]
