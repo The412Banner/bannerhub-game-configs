@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "23127PN0CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778616986,
+    "filename": "God_of_War-Xiaomi-23127PN0CG-Adreno__TM__750-1778616986.json"
+  },
+  {
     "game": "Call_of_Duty___Ghosts",
     "manufacturer": "N970U",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1778608426,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g75_5G-Adreno__TM__710-1778608426.json"
-  },
-  {
-    "game": "Pes__2013",
-    "manufacturer": "A525M",
-    "device": "Adreno__TM__618",
-    "timestamp": 1778607767,
-    "filename": "Pes__2013-samsung-SM-A525M-Adreno__TM__618-1778607767.json"
   }
 ]
