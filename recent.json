@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "220333QBI",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778597155,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-220333QBI-Adreno__TM__610-1778597155.json"
+  },
+  {
     "game": "SonicMania",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1778585237,
     "filename": "Assassin_s_Creed__Rogue-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778585237.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778582568,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5303-Mali-G57-1778582568.json"
   }
 ]
