@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hitman__Absolution_",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778600046,
+    "filename": "Hitman__Absolution_-Xiaomi-2311DRK48G-Mali-G615_MC6-1778600046.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1778591252,
     "filename": "Modmanager-General_Mobile-e-tab_20-Mali-G52-1778591252.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778590821,
-    "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778590821.json"
   }
 ]
