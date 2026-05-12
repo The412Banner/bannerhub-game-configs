@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Binding_of_Isaac",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778617170,
+    "filename": "The_Binding_of_Isaac-samsung-SM-A075M-Mali-G57_MC2-1778617170.json"
+  },
+  {
     "game": "Outbound",
     "manufacturer": "Retroid_Pocket_G2",
     "device": "Adreno__TM__22",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778608758,
     "filename": "Hollow_Knight__Silksong-ayn-Odin3-Adreno__TM__830-1778608758.json"
-  },
-  {
-    "game": "Metro_2033_Redux",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778608681,
-    "filename": "Metro_2033_Redux-ayn-Odin3-Adreno__TM__830-1778608681.json"
   }
 ]
