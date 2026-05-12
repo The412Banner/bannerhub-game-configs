@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778607069,
+    "filename": "God_of_War-Xiaomi-25053PC47G-Adreno__TM__825-1778607069.json"
+  },
+  {
     "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1778601900,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22101320G-Adreno__TM__642L-1778601900.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "22101320G",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1778601887,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22101320G-Adreno__TM__642L-1778601887.json"
   }
 ]
