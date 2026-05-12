@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778582568,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5303-Mali-G57-1778582568.json"
+  },
+  {
     "game": "LEGO__Batman__2__DC_Super_Heroes",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1778564341,
     "filename": "Far_Cry_3-Xiaomi-24069PC21G-Adreno__TM__735-1778564341.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1778563805,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1778563805.json"
   }
 ]
