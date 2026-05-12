@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778546492,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1778546492.json"
+  },
+  {
     "game": "Stumble_Guys",
     "manufacturer": "S931B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778540207,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e_7__plus-Adreno__TM__610-1778540207.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778539227,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1778539227.json"
   }
 ]
