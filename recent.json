@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778611324,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1778611324.json"
+  },
+  {
     "game": "Lovedoll_Toy_Factory",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778605282,
     "filename": "Nomad_Survival-asus-ASUSAI2501AP-Adreno__TM__830-1778605282.json"
-  },
-  {
-    "game": "Portal_2",
-    "manufacturer": "ASUSAI2501AP",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778605279,
-    "filename": "Portal_2-asus-ASUSAI2501AP-Adreno__TM__830-1778605279.json"
   }
 ]
