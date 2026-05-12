@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lovedoll_Toy_Factory",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1778611245,
+    "filename": "Lovedoll_Toy_Factory-HOMETECH-ALFA_10BT-Mali-G52-1778611245.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778605279,
     "filename": "Portal_2-asus-ASUSAI2501AP-Adreno__TM__830-1778605279.json"
-  },
-  {
-    "game": "The_Spell_Brigade",
-    "manufacturer": "ASUSAI2501AP",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778605275,
-    "filename": "The_Spell_Brigade-asus-ASUSAI2501AP-Adreno__TM__830-1778605275.json"
   }
 ]
