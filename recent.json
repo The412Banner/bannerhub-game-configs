@@ -1,5 +1,12 @@
 [
   {
+    "game": "Persona_5_Royal",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778619497,
+    "filename": "Persona_5_Royal-AYN-AYN_Thor-Adreno__TM__740-1778619497.json"
+  },
+  {
     "game": "Mewgenics",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778611447,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1778611447.json"
-  },
-  {
-    "game": "PRO_EVOLUTION_SOCCER_2018",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778611422,
-    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-2311DRK48G-Mali-G615_MC6-1778611422.json"
   }
 ]
