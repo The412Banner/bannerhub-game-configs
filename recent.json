@@ -1,5 +1,12 @@
 [
   {
+    "game": "Woolfe",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778627059,
+    "filename": "Woolfe-Anbernic-RG556-Mali-G57-1778627059.json"
+  },
+  {
     "game": "Blacklist_Launcher",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778621390,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1778621390.json"
-  },
-  {
-    "game": "OpenBOR",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1778620964,
-    "filename": "OpenBOR-motorola-motorola_edge_50_fusion-Adreno__TM__710-1778620964.json"
   }
 ]
