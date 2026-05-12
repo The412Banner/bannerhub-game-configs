@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1778625286,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-Xiaomi-2511FPC34G-Mali-G720_MC8-1778625286.json"
+  },
+  {
     "game": "Dying_Light_2_Stay_Human__Reloaded_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778619479,
     "filename": "Persona_4_Golden-AYN-AYN_Thor-Adreno__TM__740-1778619479.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778619397,
-    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6725-Mali-G57-1778619397.json"
   }
 ]
