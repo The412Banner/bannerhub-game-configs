@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778612480,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6528B-Mali-G57-1778612480.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "23122PCD1G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778606166,
     "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-Xiaomi-2312FPCA6G-Mali-G57_MC2-1778606166.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778606156,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-Xiaomi-2312FPCA6G-Mali-G57_MC2-1778606156.json"
   }
 ]
