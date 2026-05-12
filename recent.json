@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778623810,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1778623810.json"
+  },
+  {
     "game": "Let_s_Build_a_Zoo",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__22",
     "timestamp": 1778617131,
     "filename": "Outbound-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778617131.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778617051,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1778617051.json"
   }
 ]
