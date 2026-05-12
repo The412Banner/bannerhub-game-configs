@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778568620,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1778568620.json"
+  },
+  {
     "game": "DOSBox_DOS_Emulator",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778553616,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6856-Mali-G615_MC6-1778553616.json"
-  },
-  {
-    "game": "windows-7-sp1-64-bits-sp1",
-    "manufacturer": "S928B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778552496,
-    "filename": "windows-7-sp1-64-bits-sp1-samsung-SM-S928B-Adreno__TM__750-1778552496.json"
   }
 ]
