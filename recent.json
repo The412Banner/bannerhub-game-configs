@@ -1,5 +1,12 @@
 [
   {
+    "game": "Persona_4_Golden",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778619479,
+    "filename": "Persona_4_Golden-AYN-AYN_Thor-Adreno__TM__740-1778619479.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778611324,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1778611324.json"
-  },
-  {
-    "game": "Lovedoll_Toy_Factory",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1778611245,
-    "filename": "Lovedoll_Toy_Factory-HOMETECH-ALFA_10BT-Mali-G52-1778611245.json"
   }
 ]
