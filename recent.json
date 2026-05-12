@@ -1,5 +1,12 @@
 [
   {
+    "game": "Modmanager",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1778591252,
+    "filename": "Modmanager-General_Mobile-e-tab_20-Mali-G52-1778591252.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778568797,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1778568797.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778568681,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1778568681.json"
   }
 ]
