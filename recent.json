@@ -1,5 +1,12 @@
 [
   {
+    "game": "DOSBox_DOS_Emulator",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1778568216,
+    "filename": "DOSBox_DOS_Emulator-Xiaomi-23049PCD8G-Adreno__TM__725-1778568216.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778552496,
     "filename": "windows-7-sp1-64-bits-sp1-samsung-SM-S928B-Adreno__TM__750-1778552496.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778552000,
-    "filename": "Euro_Truck_Simulator_2-realme-RMX3933-Mali-G57-1778552000.json"
   }
 ]
