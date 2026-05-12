@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778563053,
+    "filename": "Left_4_Dead_2-Xiaomi-21091116AG-Mali-G57_MC2-1778563053.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "CPH2669",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778547793,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1778547793.json"
-  },
-  {
-    "game": "MOUSE",
-    "manufacturer": "S916B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778547374,
-    "filename": "MOUSE-samsung-SM-S916B-Adreno__TM__740-1778547374.json"
   }
 ]
