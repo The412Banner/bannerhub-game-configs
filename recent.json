@@ -3,6 +3,13 @@
     "game": "xenia",
     "manufacturer": "A715F",
     "device": "Adreno__TM__618",
+    "timestamp": 1778621972,
+    "filename": "xenia-samsung-SM-A715F-Adreno__TM__618-1778621972.json"
+  },
+  {
+    "game": "xenia",
+    "manufacturer": "A715F",
+    "device": "Adreno__TM__618",
     "timestamp": 1778621879,
     "filename": "xenia-samsung-SM-A715F-Adreno__TM__618-1778621879.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778616986,
     "filename": "God_of_War-Xiaomi-23127PN0CG-Adreno__TM__750-1778616986.json"
-  },
-  {
-    "game": "Call_of_Duty___Ghosts",
-    "manufacturer": "N970U",
-    "device": "Adreno__TM__640",
-    "timestamp": 1778616384,
-    "filename": "Call_of_Duty___Ghosts-samsung-SM-N970U-Adreno__TM__640-1778616384.json"
   }
 ]
