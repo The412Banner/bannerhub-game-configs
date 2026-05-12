@@ -1,5 +1,12 @@
 [
   {
+    "game": "BioShock_Infinite",
+    "manufacturer": "ASUSAI2501AP",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778605248,
+    "filename": "BioShock_Infinite-asus-ASUSAI2501AP-Adreno__TM__830-1778605248.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778598750,
     "filename": "Heroes_of_Might_and_Magic_5_5-Xiaomi-24122RKC7G-Adreno__TM__830-1778598750.json"
-  },
-  {
-    "game": "Heroes_of_Might_and_Magic__Olden_Era",
-    "manufacturer": "24122RKC7G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778598688,
-    "filename": "Heroes_of_Might_and_Magic__Olden_Era-Xiaomi-24122RKC7G-Adreno__TM__830-1778598688.json"
   }
 ]
