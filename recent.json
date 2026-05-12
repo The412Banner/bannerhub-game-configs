@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "motorola_edge_30",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1778557579,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_30-Adreno__TM__642L-1778557579.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "NX789S_V1B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778546238,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778546238.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1778545885,
-    "filename": "The_Elder_Scrolls_V__Skyrim-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1778545885.json"
   }
 ]
