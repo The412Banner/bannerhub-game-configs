@@ -3,6 +3,13 @@
     "game": "PES_2013_Fix",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1778624845,
+    "filename": "PES_2013_Fix-realme-RMX3938-Mali-G57-1778624845.json"
+  },
+  {
+    "game": "PES_2013_Fix",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1778624833,
     "filename": "PES_2013_Fix-realme-RMX3938-Mali-G57-1778624833.json"
   },
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1778618443,
     "filename": "DRAGON_BALL_FighterZ-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778618443.json"
-  },
-  {
-    "game": "GIANTS_Startup",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778617935,
-    "filename": "GIANTS_Startup-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778617935.json"
   }
 ]
