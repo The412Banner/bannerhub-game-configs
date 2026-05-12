@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778590743,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1778590743.json"
+  },
+  {
     "game": "Metro_2033_Redux",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778568620,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1778568620.json"
-  },
-  {
-    "game": "DOSBox_DOS_Emulator",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1778568216,
-    "filename": "DOSBox_DOS_Emulator-Xiaomi-23049PCD8G-Adreno__TM__725-1778568216.json"
   }
 ]
