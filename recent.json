@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "CPH2669",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778561302,
+    "filename": "Euro_Truck_Simulator_2-OPPO-CPH2669-Adreno__TM__610-1778561302.json"
+  },
+  {
     "game": "Resident_Evil_Revelations_2",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778547374,
     "filename": "MOUSE-samsung-SM-S916B-Adreno__TM__740-1778547374.json"
-  },
-  {
-    "game": "MOUSE",
-    "manufacturer": "S916B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778547355,
-    "filename": "MOUSE-samsung-SM-S916B-Adreno__TM__740-1778547355.json"
   }
 ]
