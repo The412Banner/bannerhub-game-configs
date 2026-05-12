@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hoshi_ori_yume",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778626046,
+    "filename": "Hoshi_ori_yume-Xiaomi-2311DRK48G-Mali-G615_MC6-1778626046.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778619501,
     "filename": "Risk_of_Rain_Returns-AYN-AYN_Thor-Adreno__TM__740-1778619501.json"
-  },
-  {
-    "game": "Persona_5_Royal",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778619497,
-    "filename": "Persona_5_Royal-AYN-AYN_Thor-Adreno__TM__740-1778619497.json"
   }
 ]
