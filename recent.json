@@ -1,5 +1,12 @@
 [
   {
+    "game": "Portal_2",
+    "manufacturer": "ASUSAI2501AP",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778605279,
+    "filename": "Portal_2-asus-ASUSAI2501AP-Adreno__TM__830-1778605279.json"
+  },
+  {
     "game": "The_Spell_Brigade",
     "manufacturer": "ASUSAI2501AP",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1778599606,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1778599606.json"
-  },
-  {
-    "game": "FTLGame",
-    "manufacturer": "24122RKC7G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778598805,
-    "filename": "FTLGame-Xiaomi-24122RKC7G-Adreno__TM__830-1778598805.json"
   }
 ]
