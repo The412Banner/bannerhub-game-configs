@@ -1,5 +1,12 @@
 [
   {
+    "game": "Gin_iro_Haruka",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778626057,
+    "filename": "Gin_iro_Haruka-Xiaomi-2311DRK48G-Mali-G615_MC6-1778626057.json"
+  },
+  {
     "game": "Hoshi_ori_yume",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778623166,
     "filename": "p_s_2013-INFINIX-Infinix_X6725-Mali-G57-1778623166.json"
-  },
-  {
-    "game": "Risk_of_Rain_Returns",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778619501,
-    "filename": "Risk_of_Rain_Returns-AYN-AYN_Thor-Adreno__TM__740-1778619501.json"
   }
 ]
