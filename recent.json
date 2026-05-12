@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778551109,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-25053PC47G-Adreno__TM__825-1778551109.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778542705,
     "filename": "Castlevania__Lords_of_Shadow___Ultimate_Edition-samsung-SM-S938B-Adreno__TM__830-1778542705.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778541659,
-    "filename": "Resident_Evil_6-samsung-SM-A155M-Mali-G57_MC2-1778541659.json"
   }
 ]
