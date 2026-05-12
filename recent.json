@@ -1,5 +1,12 @@
 [
   {
+    "game": "p_s_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778623166,
+    "filename": "p_s_2013-INFINIX-Infinix_X6725-Mali-G57-1778623166.json"
+  },
+  {
     "game": "Risk_of_Rain_Returns",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778612480,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6528B-Mali-G57-1778612480.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "23122PCD1G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1778611677,
-    "filename": "PlayGTAV-Xiaomi-23122PCD1G-Adreno__TM__710-1778611677.json"
   }
 ]
