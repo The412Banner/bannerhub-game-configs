@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778610013,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1778610013.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "2201116PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778605275,
     "filename": "The_Spell_Brigade-asus-ASUSAI2501AP-Adreno__TM__830-1778605275.json"
-  },
-  {
-    "game": "ARMORED_CORE__VI_FIRES_OF_RUBICON_",
-    "manufacturer": "ASUSAI2501AP",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778605268,
-    "filename": "ARMORED_CORE__VI_FIRES_OF_RUBICON_-asus-ASUSAI2501AP-Adreno__TM__830-1778605268.json"
   }
 ]
