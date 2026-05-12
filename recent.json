@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1778604661,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24094RAD4G-PowerVR_B-Series_BXM-8-256-1778604661.json"
+  },
+  {
     "game": "BeamNG_drive",
     "manufacturer": "motorola_edge_20",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778598542,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_-_2025-Mali-G57_MC2-1778598542.json"
-  },
-  {
-    "game": "Dead_or_Alive_5_",
-    "manufacturer": "F926B",
-    "device": "Adreno__TM__660",
-    "timestamp": 1778598151,
-    "filename": "Dead_or_Alive_5_-samsung-SM-F926B-Adreno__TM__660-1778598151.json"
   }
 ]
