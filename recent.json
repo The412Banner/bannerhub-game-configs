@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778552000,
+    "filename": "Euro_Truck_Simulator_2-realme-RMX3933-Mali-G57-1778552000.json"
+  },
+  {
     "game": "LEGOJurassicWorld",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778543471,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-25053PC47G-Adreno__TM__825-1778543471.json"
-  },
-  {
-    "game": "Castlevania__Lords_of_Shadow___Ultimate_Edition",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778543378,
-    "filename": "Castlevania__Lords_of_Shadow___Ultimate_Edition-Anbernic-RG556-Mali-G57-1778543378.json"
   }
 ]
