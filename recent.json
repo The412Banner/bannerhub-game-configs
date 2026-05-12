@@ -1,5 +1,12 @@
 [
   {
+    "game": "________________________________________________________________",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778545847,
+    "filename": "________________________________________________________________-realme-RMX3760-Mali-G57-1778545847.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1778537482,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1778537482.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1778537367,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g84_5G-Adreno__TM__619-1778537367.json"
   }
 ]
