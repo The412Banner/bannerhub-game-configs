@@ -1,5 +1,12 @@
 [
   {
+    "game": "Heroes_of_Might_and_Magic_5_5",
+    "manufacturer": "24122RKC7G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778598750,
+    "filename": "Heroes_of_Might_and_Magic_5_5-Xiaomi-24122RKC7G-Adreno__TM__830-1778598750.json"
+  },
+  {
     "game": "Heroes_of_Might_and_Magic__Olden_Era",
     "manufacturer": "24122RKC7G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1778586640,
     "filename": "Metro_2033_Redux-samsung-SM-G998N-Mali-G78-1778586640.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778590030,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1778590030.json"
   }
 ]
