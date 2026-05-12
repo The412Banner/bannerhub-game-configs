@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lies_of_P",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778597842,
+    "filename": "Lies_of_P-Xiaomi-25053PC47G-Adreno__TM__825-1778597842.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1778588201,
     "filename": "MOUSE-motorola-moto_g200_5G-Adreno__TM__660-1778588201.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1778585597,
-    "filename": "Tomb_Raider-INFINIX-Infinix_X6871-Mali-G610_MC6-1778585597.json"
   }
 ]
