@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778592134,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1778592134.json"
+  },
+  {
     "game": "Tradu__o_do_Test_Drive_Unlimited____________________________",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778579906,
     "filename": "Little_Nightmares_III-TECNO-TECNO_LI9-Mali-G57_MC2-1778579906.json"
-  },
-  {
-    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778578731,
-    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-Xiaomi-23043RP34G-Adreno__TM__650-1778578731.json"
   }
 ]
