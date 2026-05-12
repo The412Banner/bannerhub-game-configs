@@ -3,6 +3,13 @@
     "game": "p_s_2013",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1778623197,
+    "filename": "p_s_2013-INFINIX-Infinix_X6725-Mali-G57-1778623197.json"
+  },
+  {
+    "game": "p_s_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1778623166,
     "filename": "p_s_2013-INFINIX-Infinix_X6725-Mali-G57-1778623166.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1778613564,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2312DRA50G-Adreno__TM__710-1778613564.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778612480,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6528B-Mali-G57-1778612480.json"
   }
 ]
