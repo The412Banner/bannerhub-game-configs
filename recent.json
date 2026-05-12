@@ -1,5 +1,12 @@
 [
   {
+    "game": "xenia",
+    "manufacturer": "A715F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1778621879,
+    "filename": "xenia-samsung-SM-A715F-Adreno__TM__618-1778621879.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "CPH2747",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1778616384,
     "filename": "Call_of_Duty___Ghosts-samsung-SM-N970U-Adreno__TM__640-1778616384.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "A037M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1778615815,
-    "filename": "PlayGTAV-samsung-SM-A037M-PowerVR_Rogue_GE8320-1778615815.json"
   }
 ]
