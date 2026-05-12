@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Elder_Scrolls_V__Skyrim",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1778545885,
+    "filename": "The_Elder_Scrolls_V__Skyrim-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1778545885.json"
+  },
+  {
     "game": "________________________________________________________________",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778538365,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A225M-Mali-G52_MC2-1778538365.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1778537482,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1778537482.json"
   }
 ]
