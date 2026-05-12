@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Ghosts",
+    "manufacturer": "N970U",
+    "device": "Adreno__TM__640",
+    "timestamp": 1778616384,
+    "filename": "Call_of_Duty___Ghosts-samsung-SM-N970U-Adreno__TM__640-1778616384.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "A037M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1778607767,
     "filename": "Pes__2013-samsung-SM-A525M-Adreno__TM__618-1778607767.json"
-  },
-  {
-    "game": "Test_Drive_Unlimited_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778607296,
-    "filename": "Test_Drive_Unlimited_2-Xiaomi-2410FPCC5G-Mali-G52_MC2-1778607296.json"
   }
 ]
