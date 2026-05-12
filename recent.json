@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778553616,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6856-Mali-G615_MC6-1778553616.json"
+  },
+  {
     "game": "windows-7-sp1-64-bits-sp1",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778544028,
     "filename": "Pro_Evolution_Soccer_2017-motorola-moto_e13-Mali-G57-1778544028.json"
-  },
-  {
-    "game": "Dead_Space__3",
-    "manufacturer": "M2007J20CG",
-    "device": "Adreno__TM__618",
-    "timestamp": 1778543690,
-    "filename": "Dead_Space__3-Xiaomi-M2007J20CG-Adreno__TM__618-1778543690.json"
   }
 ]
