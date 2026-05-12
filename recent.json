@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assetto_Corsa_Competizione",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778608533,
+    "filename": "Assetto_Corsa_Competizione-ayn-Odin3-Adreno__TM__830-1778608533.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1778610955,
     "filename": "BeamNG_drive-motorola-motorola_edge_20-Adreno__TM__642L-1778610955.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778603697,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO_MOBILE_LIMITED-TECNO_KG7-Mali-G52_MC2-1778603697.json"
   }
 ]
