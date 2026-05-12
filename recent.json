@@ -1,5 +1,12 @@
 [
   {
+    "game": "Test_Drive_Unlimited_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778607296,
+    "filename": "Test_Drive_Unlimited_2-Xiaomi-2410FPCC5G-Mali-G52_MC2-1778607296.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1778603368,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3263-Mali-G52-1778603368.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "22101320G",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1778601900,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22101320G-Adreno__TM__642L-1778601900.json"
   }
 ]
