@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778593612,
+    "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1778593612.json"
+  },
+  {
     "game": "Devil_May_Cry_5",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778581232,
     "filename": "LEGO__Batman__2__DC_Super_Heroes-motorola-moto_g24-Mali-G52_MC2-1778581232.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778581168,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g35_5G-Mali-G57-1778581168.json"
   }
 ]
