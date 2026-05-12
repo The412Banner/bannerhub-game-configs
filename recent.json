@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778546238,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778546238.json"
+  },
+  {
     "game": "The_Elder_Scrolls_V__Skyrim",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778538526,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23117RA68G-Mali-G57_MC2-1778538526.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778538365,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A225M-Mali-G52_MC2-1778538365.json"
   }
 ]
