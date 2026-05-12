@@ -1,5 +1,12 @@
 [
   {
+    "game": "Little_Nightmares_III",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778579906,
+    "filename": "Little_Nightmares_III-TECNO-TECNO_LI9-Mali-G57_MC2-1778579906.json"
+  },
+  {
     "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778563053,
     "filename": "Left_4_Dead_2-Xiaomi-21091116AG-Mali-G57_MC2-1778563053.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "CPH2669",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778561302,
-    "filename": "Euro_Truck_Simulator_2-OPPO-CPH2669-Adreno__TM__610-1778561302.json"
   }
 ]
