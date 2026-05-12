@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778547793,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1778547793.json"
+  },
+  {
     "game": "MOUSE",
     "manufacturer": "S916B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778541266,
     "filename": "Resident_Evil_2-Xiaomi-2406APNFAG-Mali-G615_MC6-1778541266.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1778540957,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24095PCADG-Mali-G615_MC2-1778540957.json"
   }
 ]
