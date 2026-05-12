@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mewgenics",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778619491,
+    "filename": "Mewgenics-AYN-AYN_Thor-Adreno__TM__740-1778619491.json"
+  },
+  {
     "game": "Persona_4_Golden",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778611422,
     "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-2311DRK48G-Mali-G615_MC6-1778611422.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778611324,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1778611324.json"
   }
 ]
