@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1778599606,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1778599606.json"
+  },
+  {
     "game": "FTLGame",
     "manufacturer": "24122RKC7G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1778590821,
     "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778590821.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778590817,
-    "filename": "Tomb_Raider-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778590817.json"
   }
 ]
