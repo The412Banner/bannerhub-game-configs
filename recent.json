@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778566617,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1778566617.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "LX3",
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1778566443,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778551637,
     "filename": "LEGOJurassicWorld-Xiaomi-2312FPCA6G-Mali-G57_MC2-1778551637.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1778551588,
-    "filename": "Tomb_Raider-samsung-SM-A356E-Mali-G68-1778551588.json"
   }
 ]
