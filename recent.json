@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778591359,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1778591359.json"
+  },
+  {
     "game": "Modmanager",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778568801,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1778568801.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778568797,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1778568797.json"
   }
 ]
