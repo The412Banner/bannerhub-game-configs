@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1778611677,
+    "filename": "PlayGTAV-Xiaomi-23122PCD1G-Adreno__TM__710-1778611677.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778606156,
     "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-Xiaomi-2312FPCA6G-Mali-G57_MC2-1778606156.json"
-  },
-  {
-    "game": "Link_s_Awakening_DX_HD",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778605741,
-    "filename": "Link_s_Awakening_DX_HD-AYN-Odin2-Adreno__TM__740-1778605741.json"
   }
 ]
