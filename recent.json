@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Batman__2__DC_Super_Heroes",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778581232,
+    "filename": "LEGO__Batman__2__DC_Super_Heroes-motorola-moto_g24-Mali-G52_MC2-1778581232.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1778563805,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1778563805.json"
-  },
-  {
-    "game": "Need_for_Speed__Heat",
-    "manufacturer": "NX789S_V1B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778563577,
-    "filename": "Need_for_Speed__Heat-nubia-NX789S_V1B-Adreno__TM__830-1778563577.json"
   }
 ]
