@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blacklist_Launcher",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778626511,
+    "filename": "Blacklist_Launcher-Xiaomi-23100RN82L-Mali-G52_MC2-1778626511.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1778620964,
     "filename": "OpenBOR-motorola-motorola_edge_50_fusion-Adreno__TM__710-1778620964.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778623625,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6725-Mali-G57-1778623625.json"
   }
 ]
