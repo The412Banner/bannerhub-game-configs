@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778704903,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e13-Mali-G57-1778704903.json"
+  },
+  {
     "game": "RimWorld",
     "manufacturer": "I2407",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778695248,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A155F-Mali-G57_MC2-1778695248.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "220333QBI",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778695160,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-220333QBI-Adreno__TM__610-1778695160.json"
   }
 ]
