@@ -1,5 +1,12 @@
 [
   {
+    "game": "Counter-Strike",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1778698097,
+    "filename": "Counter-Strike-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1778698097.json"
+  },
+  {
     "game": "Ori_and_the_Will_of_the_Wisps",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778692310,
     "filename": "Red_Dead_Redemption-Xiaomi-25062RN2DA-Adreno__TM__610-1778692310.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1778692036,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1778692036.json"
   }
 ]
