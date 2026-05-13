@@ -1,5 +1,12 @@
 [
   {
+    "game": "NEED_FOR_SPEED_UNDERGROUND_2_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778660703,
+    "filename": "NEED_FOR_SPEED_UNDERGROUND_2_-Xiaomi-23106RN0DA-Mali-G52_MC2-1778660703.json"
+  },
+  {
     "game": "Hades_II",
     "manufacturer": "CPH2449",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778635680,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1778635680.json"
-  },
-  {
-    "game": "A_R_E_S___Exticntion_Agenda_EX",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778635419,
-    "filename": "A_R_E_S___Exticntion_Agenda_EX-samsung-SM-G780G-Adreno__TM__650-1778635419.json"
   }
 ]
