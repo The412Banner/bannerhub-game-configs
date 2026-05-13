@@ -1,5 +1,12 @@
 [
   {
+    "game": "A_R_E_S___Exticntion_Agenda_EX",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778635419,
+    "filename": "A_R_E_S___Exticntion_Agenda_EX-samsung-SM-G780G-Adreno__TM__650-1778635419.json"
+  },
+  {
     "game": "PES_2013",
     "manufacturer": "Redmi_Note_7",
     "device": "Adreno__TM__512",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778627191,
     "filename": "Far_Cry_3-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1778627191.json"
-  },
-  {
-    "game": "Woolfe",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778627059,
-    "filename": "Woolfe-Anbernic-RG556-Mali-G57-1778627059.json"
   }
 ]
