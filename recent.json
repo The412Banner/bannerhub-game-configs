@@ -1,5 +1,12 @@
 [
   {
+    "game": "R_E_P_O_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778647667,
+    "filename": "R_E_P_O_-HONOR-JDY-LX3P-Mali-G52_MC2-1778647667.json"
+  },
+  {
     "game": "C1-Launcher",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778628609,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2410FPCC5G-Mali-G52_MC2-1778628609.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778627814,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1778627814.json"
   }
 ]
