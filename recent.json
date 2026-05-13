@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778691379,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X669-Mali-G57-1778691379.json"
+  },
+  {
     "game": "Sonic_GT",
     "manufacturer": "moto_g96_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778684241,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2819-Adreno__TM__610-1778684241.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778684139,
-    "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-S938B-Adreno__TM__830-1778684139.json"
   }
 ]
