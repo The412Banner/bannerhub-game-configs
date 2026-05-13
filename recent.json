@@ -1,5 +1,12 @@
 [
   {
+    "game": "Broforce",
+    "manufacturer": "Retroid_Pocket_Flip2",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778692676,
+    "filename": "Broforce-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1778692676.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "25062RN2DA",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778689158,
     "filename": "Cuphead-Xiaomi-25053PC47G-Adreno__TM__825-1778689158.json"
-  },
-  {
-    "game": "Call_of_Duty___Ghosts",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778689158,
-    "filename": "Call_of_Duty___Ghosts-INFINIX-Infinix_X6873-Mali-G615_MC6-1778689158.json"
   }
 ]
