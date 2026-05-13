@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778653370,
+    "filename": "BlackOps-realme-RMX5020-Mali-G52_MC2-1778653370.json"
+  },
+  {
     "game": "TWFC",
     "manufacturer": "Retroid_Pocket_G2",
     "device": "Adreno__TM__22",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778632480,
     "filename": "FIFA_19-Xiaomi-25053PC47G-Adreno__TM__825-1778632480.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1778632004,
-    "filename": "Red_Dead_Redemption-motorola-moto_g75_5G-Adreno__TM__710-1778632004.json"
   }
 ]
