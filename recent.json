@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC__Devil_May_Cry",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778689658,
+    "filename": "DmC__Devil_May_Cry-Xiaomi-25053PC47G-Adreno__TM__825-1778689658.json"
+  },
+  {
     "game": "HitmanBloodMoney",
     "manufacturer": "CPH2113",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778682815,
     "filename": "Fallout_4-OnePlus-LE2101-Adreno__TM__650-1778682815.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Redmi_Note_9_Pro",
-    "device": "Adreno__TM__618",
-    "timestamp": 1778681718,
-    "filename": "BootstrapPackagedGame-Xiaomi-Redmi_Note_9_Pro-Adreno__TM__618-1778681718.json"
   }
 ]
