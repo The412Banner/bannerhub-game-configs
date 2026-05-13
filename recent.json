@@ -1,5 +1,12 @@
 [
   {
+    "game": "RiotClient",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1778700993,
+    "filename": "RiotClient-samsung-SM-A346M-Mali-G68_MC4-1778700993.json"
+  },
+  {
     "game": "SPEED2",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1778694756,
     "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778694756.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1778694409,
-    "filename": "Resident_Evil_4-Xiaomi-24069PC21G-Adreno__TM__735-1778694409.json"
   }
 ]
