@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Ghosts",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778689158,
+    "filename": "Call_of_Duty___Ghosts-INFINIX-Infinix_X6873-Mali-G615_MC6-1778689158.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "2510DRK44C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778673255,
     "filename": "BootstrapPackagedGame-Xiaomi-M2010J19SG-Adreno__TM__610-1778673255.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1778673160,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_fusion-Adreno__TM__710-1778673160.json"
   }
 ]
