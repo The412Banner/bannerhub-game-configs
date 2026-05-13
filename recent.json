@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_SLUG_3",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778689204,
+    "filename": "METAL_SLUG_3-Xiaomi-25053PC47G-Adreno__TM__825-1778689204.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1778679971,
     "filename": "Assassin_s_Creed__Syndicate-Xiaomi-Mi_9T_Pro-Adreno__TM__640-1778679971.json"
-  },
-  {
-    "game": "_Resident_Evil_3_",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778667238,
-    "filename": "_Resident_Evil_3_-ayn-Odin3-Adreno__TM__830-1778667238.json"
   }
 ]
