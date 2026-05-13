@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778712495,
+    "filename": "Dead_Space__2-Anbernic-RG_406H-Mali-G57-1778712495.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1778699448,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_2024-Adreno__TM__710-1778699448.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778699448,
-    "filename": "Mafia_II__Classic_-LENOVO-TB322FC-Adreno__TM__830-1778699448.json"
   }
 ]
