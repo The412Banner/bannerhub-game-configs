@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_Komplete_Edition",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1778694756,
+    "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778694756.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778689207,
     "filename": "METAL_SLUG_X-Xiaomi-25053PC47G-Adreno__TM__825-1778689207.json"
-  },
-  {
-    "game": "METAL_SLUG_3",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778689204,
-    "filename": "METAL_SLUG_3-Xiaomi-25053PC47G-Adreno__TM__825-1778689204.json"
   }
 ]
