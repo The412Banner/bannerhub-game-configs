@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778710844,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g04s-Mali-G57-1778710844.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778698912,
     "filename": "MiSide-Xiaomi-23043RP34G-Adreno__TM__650-1778698912.json"
-  },
-  {
-    "game": "Garry_s_Mod",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778698397,
-    "filename": "Garry_s_Mod-Xiaomi-2201116TG-Mali-G57_MC2-1778698397.json"
   }
 ]
