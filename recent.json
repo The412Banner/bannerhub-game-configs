@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sonic_GT",
+    "manufacturer": "moto_g96_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1778690552,
+    "filename": "Sonic_GT-motorola-moto_g96_5G-Adreno__TM__710-1778690552.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778684139,
     "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-S938B-Adreno__TM__830-1778684139.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1778683646,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1778683646.json"
   }
 ]
