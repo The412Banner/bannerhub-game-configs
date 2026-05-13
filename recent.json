@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778698912,
+    "filename": "MiSide-Xiaomi-23043RP34G-Adreno__TM__650-1778698912.json"
+  },
+  {
     "game": "Garry_s_Mod",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1778693077,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22071212AG-Mali-G610_MC6-1778693077.json"
-  },
-  {
-    "game": "Broforce",
-    "manufacturer": "Retroid_Pocket_Flip2",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778692676,
-    "filename": "Broforce-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1778692676.json"
   }
 ]
