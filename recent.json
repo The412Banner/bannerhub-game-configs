@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1778694409,
+    "filename": "Resident_Evil_4-Xiaomi-24069PC21G-Adreno__TM__735-1778694409.json"
+  },
+  {
     "game": "Alice__Madness_Returns",
     "manufacturer": "2201123G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778689204,
     "filename": "METAL_SLUG_3-Xiaomi-25053PC47G-Adreno__TM__825-1778689204.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778689202,
-    "filename": "Hollow_Knight__Silksong-Xiaomi-25053PC47G-Adreno__TM__825-1778689202.json"
   }
 ]
