@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mass_Effect___Andromeda__________Deluxe",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778694833,
+    "filename": "Mass_Effect___Andromeda__________Deluxe-LENOVO-TB322FC-Adreno__TM__830-1778694833.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1778689387,
     "filename": "HitmanBloodMoney-OPPO-CPH2113-Adreno__TM__618-1778689387.json"
-  },
-  {
-    "game": "METAL_SLUG_X",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778689207,
-    "filename": "METAL_SLUG_X-Xiaomi-25053PC47G-Adreno__TM__825-1778689207.json"
   }
 ]
