@@ -1,5 +1,12 @@
 [
   {
+    "game": "HitmanBloodMoney",
+    "manufacturer": "CPH2113",
+    "device": "Adreno__TM__618",
+    "timestamp": 1778689387,
+    "filename": "HitmanBloodMoney-OPPO-CPH2113-Adreno__TM__618-1778689387.json"
+  },
+  {
     "game": "METAL_SLUG_X",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1778681718,
     "filename": "BootstrapPackagedGame-Xiaomi-Redmi_Note_9_Pro-Adreno__TM__618-1778681718.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778680209,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AI-Mali-G720_MC7-1778680209.json"
   }
 ]
