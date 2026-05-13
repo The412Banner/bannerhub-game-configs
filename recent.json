@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ori_and_the_Will_of_the_Wisps",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778697902,
+    "filename": "Ori_and_the_Will_of_the_Wisps-LENOVO-TB322FC-Adreno__TM__830-1778697902.json"
+  },
+  {
     "game": "Counter-Strike_2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1778692036,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1778692036.json"
-  },
-  {
-    "game": "Castlevania__Lords_of_Shadow___Ultimate_Edition",
-    "manufacturer": "moto_g200_5G",
-    "device": "Adreno__TM__660",
-    "timestamp": 1778691459,
-    "filename": "Castlevania__Lords_of_Shadow___Ultimate_Edition-motorola-moto_g200_5G-Adreno__TM__660-1778691459.json"
   }
 ]
