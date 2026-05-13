@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778695248,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A155F-Mali-G57_MC2-1778695248.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "220333QBI",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778689863,
     "filename": "UNCHARTED___Legacy_of_Thieves_Collection-vivo-I2401-Adreno__TM__830-1778689863.json"
-  },
-  {
-    "game": "gta3",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778689768,
-    "filename": "gta3-samsung-SM-A035F-Mali-G57-1778689768.json"
   }
 ]
