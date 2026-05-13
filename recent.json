@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778710555,
+    "filename": "MiSide-Xiaomi-23043RP34G-Adreno__TM__650-1778710555.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "22101320G",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1778698097,
     "filename": "Counter-Strike-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1778698097.json"
-  },
-  {
-    "game": "Ori_and_the_Will_of_the_Wisps",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778697902,
-    "filename": "Ori_and_the_Will_of_the_Wisps-LENOVO-TB322FC-Adreno__TM__830-1778697902.json"
   }
 ]
