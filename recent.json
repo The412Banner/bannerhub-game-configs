@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778689202,
+    "filename": "Hollow_Knight__Silksong-Xiaomi-25053PC47G-Adreno__TM__825-1778689202.json"
+  },
+  {
     "game": "Skullgirls_2nd_Encore",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778667238,
     "filename": "_Resident_Evil_3_-ayn-Odin3-Adreno__TM__830-1778667238.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1778678015,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_fusion-Adreno__TM__710-1778678015.json"
   }
 ]
