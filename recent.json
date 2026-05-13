@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778707171,
+    "filename": "Just_Cause_2-realme-RMX3999-Mali-G57_MC2-1778707171.json"
+  },
+  {
     "game": "Remember_Me",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778697102,
     "filename": "poppy_playtime_5-TECNO-TECNO_KL6-Mali-G52_MC2-1778697102.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1778696591,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g34_5G-Adreno__TM__619-1778696591.json"
   }
 ]
