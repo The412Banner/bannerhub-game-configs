@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Syndicate",
+    "manufacturer": "Mi_9T_Pro",
+    "device": "Adreno__TM__640",
+    "timestamp": 1778679971,
+    "filename": "Assassin_s_Creed__Syndicate-Xiaomi-Mi_9T_Pro-Adreno__TM__640-1778679971.json"
+  },
+  {
     "game": "_Resident_Evil_3_",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778660703,
     "filename": "NEED_FOR_SPEED_UNDERGROUND_2_-Xiaomi-23106RN0DA-Mali-G52_MC2-1778660703.json"
-  },
-  {
-    "game": "Hades_II",
-    "manufacturer": "CPH2449",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778659363,
-    "filename": "Hades_II-OnePlus-CPH2449-Adreno__TM__740-1778659363.json"
   }
 ]
