@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castlevania__Lords_of_Shadow___Ultimate_Edition",
+    "manufacturer": "moto_g200_5G",
+    "device": "Adreno__TM__660",
+    "timestamp": 1778691459,
+    "filename": "Castlevania__Lords_of_Shadow___Ultimate_Edition-motorola-moto_g200_5G-Adreno__TM__660-1778691459.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778685835,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76G-Mali-G57_MC2-1778685835.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778684516,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778684516.json"
   }
 ]
