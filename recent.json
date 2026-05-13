@@ -3,6 +3,13 @@
     "game": "FIFA_14",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1778695442,
+    "filename": "FIFA_14-realme-RMX3999-Mali-G57_MC2-1778695442.json"
+  },
+  {
+    "game": "FIFA_14",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1778695423,
     "filename": "FIFA_14-realme-RMX3999-Mali-G57_MC2-1778695423.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1778690552,
     "filename": "Sonic_GT-motorola-moto_g96_5G-Adreno__TM__710-1778690552.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778690482,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1778690482.json"
   }
 ]
