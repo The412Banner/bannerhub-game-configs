@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_PES_2021_SEASON_UPDATE",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1778710650,
+    "filename": "eFootball_PES_2021_SEASON_UPDATE-samsung-SM-A266B-Mali-G68-1778710650.json"
+  },
+  {
     "game": "MiSide",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778698397,
     "filename": "Garry_s_Mod-Xiaomi-2201116TG-Mali-G57_MC2-1778698397.json"
-  },
-  {
-    "game": "Counter-Strike",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1778698097,
-    "filename": "Counter-Strike-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1778698097.json"
   }
 ]
