@@ -1,5 +1,12 @@
 [
   {
+    "game": "Monster_Hunter__World",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1778713978,
+    "filename": "Monster_Hunter__World-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778713978.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778700427,
     "filename": "SPEED2-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1778700427.json"
-  },
-  {
-    "game": "Sifu",
-    "manufacturer": "Retroid_Pocket_6",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778700413,
-    "filename": "Sifu-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1778700413.json"
   }
 ]
