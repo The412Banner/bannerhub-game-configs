@@ -1,5 +1,12 @@
 [
   {
+    "game": "SPEED2",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778700427,
+    "filename": "SPEED2-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1778700427.json"
+  },
+  {
     "game": "Sifu",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1778694409,
     "filename": "Resident_Evil_4-Xiaomi-24069PC21G-Adreno__TM__735-1778694409.json"
-  },
-  {
-    "game": "Alice__Madness_Returns",
-    "manufacturer": "2201123G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1778694178,
-    "filename": "Alice__Madness_Returns-Xiaomi-2201123G-Adreno__TM__730-1778694178.json"
   }
 ]
