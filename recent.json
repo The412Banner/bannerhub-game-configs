@@ -1,5 +1,12 @@
 [
   {
+    "game": "_Resident_Evil_3_",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778667238,
+    "filename": "_Resident_Evil_3_-ayn-Odin3-Adreno__TM__830-1778667238.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778659363,
     "filename": "Hades_II-OnePlus-CPH2449-Adreno__TM__740-1778659363.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "S936B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778655749,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-S936B-Adreno__TM__830-1778655749.json"
   }
 ]
