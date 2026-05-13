@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_19",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778632480,
+    "filename": "FIFA_19-Xiaomi-25053PC47G-Adreno__TM__825-1778632480.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778626046,
     "filename": "Hoshi_ori_yume-Xiaomi-2311DRK48G-Mali-G615_MC6-1778626046.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778625859,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1778625859.json"
   }
 ]
