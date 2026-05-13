@@ -1,5 +1,12 @@
 [
   {
+    "game": "OuterWilds",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778701452,
+    "filename": "OuterWilds-LENOVO-TB322FC-Adreno__TM__830-1778701452.json"
+  },
+  {
     "game": "Assassin_s_Creed__Syndicate",
     "manufacturer": "Mi_9T_Pro",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778695077,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X669-Mali-G57-1778695077.json"
-  },
-  {
-    "game": "Mass_Effect___Andromeda__________Deluxe",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778694833,
-    "filename": "Mass_Effect___Andromeda__________Deluxe-LENOVO-TB322FC-Adreno__TM__830-1778694833.json"
   }
 ]
