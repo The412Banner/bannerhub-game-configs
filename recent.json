@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty_Modern_Warfare",
+    "manufacturer": "S936B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778655732,
+    "filename": "Call_of_Duty_Modern_Warfare-samsung-SM-S936B-Adreno__TM__830-1778655732.json"
+  },
+  {
     "game": "Assassin_s_Creed__Rogue",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1778634327,
     "filename": "DRAGON_BALL_FighterZ-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1778634327.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778634325,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1778634325.json"
   }
 ]
