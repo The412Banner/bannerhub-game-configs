@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1778671941,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1778671941.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__22",
     "timestamp": 1778650620,
     "filename": "DRAGON_BALL__Sparking__ZERO-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778650620.json"
-  },
-  {
-    "game": "R_E_P_O_",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778647667,
-    "filename": "R_E_P_O_-HONOR-JDY-LX3P-Mali-G52_MC2-1778647667.json"
   }
 ]
