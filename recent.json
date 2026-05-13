@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_2013",
+    "manufacturer": "Redmi_Note_7",
+    "device": "Adreno__TM__512",
+    "timestamp": 1778635299,
+    "filename": "PES_2013-Xiaomi-Redmi_Note_7-Adreno__TM__512-1778635299.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "S731B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778627059,
     "filename": "Woolfe-Anbernic-RG556-Mali-G57-1778627059.json"
-  },
-  {
-    "game": "Blacklist_Launcher",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778626511,
-    "filename": "Blacklist_Launcher-Xiaomi-23100RN82L-Mali-G52_MC2-1778626511.json"
   }
 ]
