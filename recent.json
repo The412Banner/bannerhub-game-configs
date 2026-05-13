@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g53_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1778707308,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g53_5G-Adreno__TM__619-1778707308.json"
+  },
+  {
     "game": "Just_Cause_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778697223,
     "filename": "Counter-Strike_2-ZTE-ZTE_8050-Mali-G57-1778697223.json"
-  },
-  {
-    "game": "poppy_playtime_5",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778697102,
-    "filename": "poppy_playtime_5-TECNO-TECNO_KL6-Mali-G52_MC2-1778697102.json"
   }
 ]
