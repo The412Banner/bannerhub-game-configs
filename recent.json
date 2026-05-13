@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_PES_2021_SEASON_UPDATE",
+    "manufacturer": "22101320G",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1778708544,
+    "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-22101320G-Adreno__TM__642L-1778708544.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g53_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778697902,
     "filename": "Ori_and_the_Will_of_the_Wisps-LENOVO-TB322FC-Adreno__TM__830-1778697902.json"
-  },
-  {
-    "game": "Counter-Strike_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778697223,
-    "filename": "Counter-Strike_2-ZTE-ZTE_8050-Mali-G57-1778697223.json"
   }
 ]
