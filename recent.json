@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778693381,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X669-Mali-G57-1778693381.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G610_MC6",
     "timestamp": 1778693077,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22071212AG-Mali-G610_MC6-1778693077.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778689188,
     "filename": "SENRAN_KAGURA_SHINOVI_VERSUS-Xiaomi-25053PC47G-Adreno__TM__825-1778689188.json"
-  },
-  {
-    "game": "METAL_SLUG",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778689177,
-    "filename": "METAL_SLUG-Xiaomi-25053PC47G-Adreno__TM__825-1778689177.json"
   }
 ]
