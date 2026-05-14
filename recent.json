@@ -3,6 +3,13 @@
     "game": "JUMP_FORCE",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
+    "timestamp": 1778721824,
+    "filename": "JUMP_FORCE-nubia-NX809J-Adreno__TM__840-1778721824.json"
+  },
+  {
+    "game": "JUMP_FORCE",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
     "timestamp": 1778721804,
     "filename": "JUMP_FORCE-nubia-NX809J-Adreno__TM__840-1778721804.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778711618,
     "filename": "Mortal_Kombat_X-Xiaomi-25053PC47G-Adreno__TM__825-1778711618.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778710844,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g04s-Mali-G57-1778710844.json"
   }
 ]
