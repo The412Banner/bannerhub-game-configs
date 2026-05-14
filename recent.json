@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778782002,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04-Mali-G57-1778782002.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "moto_g71_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1778772221,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1778772221.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778771957,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1778771957.json"
   }
 ]
