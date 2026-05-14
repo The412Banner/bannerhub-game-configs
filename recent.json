@@ -1,5 +1,12 @@
 [
   {
+    "game": "R6Vegas2_Game",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778778776,
+    "filename": "R6Vegas2_Game-Xiaomi-24117RN76L-Mali-G57_MC2-1778778776.json"
+  },
+  {
     "game": "DARKSOULS",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1778767967,
     "filename": "2_Ship_2_Harkinian-Xiaomi-22101320I-Adreno__TM__642L-1778767967.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G9650",
-    "device": "Adreno__TM__630",
-    "timestamp": 1778767750,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G9650-Adreno__TM__630-1778767750.json"
   }
 ]
