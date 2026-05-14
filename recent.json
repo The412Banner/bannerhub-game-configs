@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fable_-_The_Lost_Chapters",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778721957,
+    "filename": "Fable_-_The_Lost_Chapters-samsung-SM-A055F-Mali-G52_MC2-1778721957.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1778712744,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1778712744.json"
-  },
-  {
-    "game": "Dead_Space__2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778712495,
-    "filename": "Dead_Space__2-Anbernic-RG_406H-Mali-G57-1778712495.json"
   }
 ]
