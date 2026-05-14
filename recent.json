@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "CPH2611",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778752988,
+    "filename": "BootstrapPackagedGame-OnePlus-CPH2611-Adreno__TM__740-1778752988.json"
+  },
+  {
     "game": "Black_Myth__Wukong",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1778732476,
     "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-24069PC21G-Adreno__TM__735-1778732476.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778732348,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KL8-Mali-G57_MC2-1778732348.json"
   }
 ]
