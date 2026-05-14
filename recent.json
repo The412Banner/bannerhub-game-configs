@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778754570,
+    "filename": "Grand_Theft_Auto-samsung-SM-S918B-Adreno__TM__740-1778754570.json"
+  },
+  {
     "game": "_______",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778734218,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2310FPCA4G-Mali-G52_MC2-1778734218.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778733593,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2310FPCA4G-Mali-G52_MC2-1778733593.json"
   }
 ]
