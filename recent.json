@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778773238,
+    "filename": "Need_for_Speed_9-Xiaomi-2409BRN2CY-Mali-G52_MC2-1778773238.json"
+  },
+  {
     "game": "Unturned",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1778767001,
     "filename": "Tomb_Raider-nubia-NX809J-Adreno__TM__840-1778767001.json"
-  },
-  {
-    "game": "Need_for_Speed__Rivals",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1778766996,
-    "filename": "Need_for_Speed__Rivals-nubia-NX809J-Adreno__TM__840-1778766996.json"
   }
 ]
