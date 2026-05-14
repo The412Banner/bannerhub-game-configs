@@ -1,5 +1,12 @@
 [
   {
+    "game": "_NINJA_GAIDEN__Master_Collection__NINJA_GAIDEN__",
+    "manufacturer": "moto_g_100_",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778802845,
+    "filename": "_NINJA_GAIDEN__Master_Collection__NINJA_GAIDEN__-motorola-moto_g_100_-Adreno__TM__650-1778802845.json"
+  },
+  {
     "game": "Call_of_Duty___Ghosts",
     "manufacturer": "25102PCBEG",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1778793041,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X669C-PowerVR_Rogue_GE8320-1778793041.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1778792802,
-    "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-PPA-LX2-Mali-G51-1778792802.json"
   }
 ]
