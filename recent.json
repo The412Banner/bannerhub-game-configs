@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARKSOULS",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778778418,
+    "filename": "DARKSOULS-Xiaomi-23053RN02L-Mali-G52_MC2-1778778418.json"
+  },
+  {
     "game": "The_Elder_Scrolls_V__Skyrim",
     "manufacturer": "A528B",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__630",
     "timestamp": 1778767750,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G9650-Adreno__TM__630-1778767750.json"
-  },
-  {
-    "game": "PES_HD_PATCH_Selector_v4_0",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778767392,
-    "filename": "PES_HD_PATCH_Selector_v4_0-motorola-moto_g06-Mali-G52_MC2-1778767392.json"
   }
 ]
