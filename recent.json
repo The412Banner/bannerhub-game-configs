@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1778717828,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-nubia-NX809J-Adreno__TM__840-1778717828.json"
+  },
+  {
     "game": "Dispatch",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778701452,
     "filename": "OuterWilds-LENOVO-TB322FC-Adreno__TM__830-1778701452.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Syndicate",
-    "manufacturer": "Mi_9T_Pro",
-    "device": "Adreno__TM__640",
-    "timestamp": 1778701032,
-    "filename": "Assassin_s_Creed__Syndicate-Xiaomi-Mi_9T_Pro-Adreno__TM__640-1778701032.json"
   }
 ]
