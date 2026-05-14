@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1778732476,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-24069PC21G-Adreno__TM__735-1778732476.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1778722395,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1778722395.json"
-  },
-  {
-    "game": "Fable_-_The_Lost_Chapters",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778722054,
-    "filename": "Fable_-_The_Lost_Chapters-samsung-SM-A055F-Mali-G52_MC2-1778722054.json"
   }
 ]
