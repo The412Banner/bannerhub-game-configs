@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778789921,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1778789921.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778774832,
     "filename": "Tomb_Raider-INFINIX-Infinix_X6885-Mali-G57_MC2-1778774832.json"
-  },
-  {
-    "game": "UltimateTheaterSimulator",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778774508,
-    "filename": "UltimateTheaterSimulator-Xiaomi-24117RN76L-Mali-G57_MC2-1778774508.json"
   }
 ]
