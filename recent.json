@@ -1,5 +1,12 @@
 [
   {
+    "game": "Invincible_VS",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1778790360,
+    "filename": "Invincible_VS-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778790360.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1778777076,
     "filename": "PlayGTAV-Xiaomi-23122PCD1G-Adreno__TM__710-1778777076.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778774832,
-    "filename": "Tomb_Raider-INFINIX-Infinix_X6885-Mali-G57_MC2-1778774832.json"
   }
 ]
