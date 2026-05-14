@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G51",
+    "timestamp": 1778792387,
+    "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-PPA-LX2-Mali-G51-1778792387.json"
+  },
+  {
     "game": "HoneyCome",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778781813,
     "filename": "Hogwarts_Legacy-samsung-SM-F966B-Adreno__TM__830-1778781813.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778781270,
-    "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778781270.json"
   }
 ]
