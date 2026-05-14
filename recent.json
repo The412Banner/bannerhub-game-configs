@@ -1,5 +1,12 @@
 [
   {
+    "game": "Portal_2",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778723894,
+    "filename": "Portal_2-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1778723894.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A235M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778719037,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1778719037.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778719023,
-    "filename": "God_of_War-Xiaomi-25053PC47G-Adreno__TM__825-1778719023.json"
   }
 ]
