@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_2",
+    "manufacturer": "S936B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778766158,
+    "filename": "Mafia_2-samsung-SM-S936B-Adreno__TM__830-1778766158.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778752988,
     "filename": "BootstrapPackagedGame-OnePlus-CPH2611-Adreno__TM__740-1778752988.json"
-  },
-  {
-    "game": "Black_Myth__Wukong",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778752613,
-    "filename": "Black_Myth__Wukong-ayn-Odin3-Adreno__TM__830-1778752613.json"
   }
 ]
