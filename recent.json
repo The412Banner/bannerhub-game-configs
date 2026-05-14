@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1778772413,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1778772413.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1778772376,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1778766957,
     "filename": "CarX_Street-nubia-NX809J-Adreno__TM__840-1778766957.json"
-  },
-  {
-    "game": "Need_for_Speed__Heat",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1778766947,
-    "filename": "Need_for_Speed__Heat-nubia-NX809J-Adreno__TM__840-1778766947.json"
   }
 ]
