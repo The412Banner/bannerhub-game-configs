@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stardew_Valley",
+    "manufacturer": "F966U",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778802969,
+    "filename": "Stardew_Valley-samsung-SM-F966U-Adreno__TM__830-1778802969.json"
+  },
+  {
     "game": "The_Legend_of_Heroes__Trails_in_the_Sky",
     "manufacturer": "F966U",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1778793671,
     "filename": "Fears_To_Fathom_-_Carson_House-motorola-moto_g84_5G-Adreno__TM__619-1778793671.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778793178,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1778793178.json"
   }
 ]
