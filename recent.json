@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778765150,
+    "filename": "Resident_Evil_6-Xiaomi-M2012K11AG-Adreno__TM__650-1778765150.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "2211133G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778750614,
     "filename": "Re4-Xiaomi-2311DRK48G-Mali-G615_MC6-1778750614.json"
-  },
-  {
-    "game": "DRAGON_BALL_Z__KAKAROT",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778747224,
-    "filename": "DRAGON_BALL_Z__KAKAROT-Xiaomi-25053PC47G-Adreno__TM__825-1778747224.json"
   }
 ]
