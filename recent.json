@@ -1,5 +1,12 @@
 [
   {
+    "game": "Megabonk",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778733323,
+    "filename": "Megabonk-INFINIX_MOBILITY_LIMITED-Infinix_X697-Mali-G57_MC2-1778733323.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778722495,
     "filename": "Need_for_Speed_9-INFINIX_MOBILITY_LIMITED-Infinix_X697-Mali-G57_MC2-1778722495.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A556E",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1778722395,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1778722395.json"
   }
 ]
