@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778723008,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778723008.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1778717828,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-nubia-NX809J-Adreno__TM__840-1778717828.json"
-  },
-  {
-    "game": "Dispatch",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778716740,
-    "filename": "Dispatch-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778716740.json"
   }
 ]
