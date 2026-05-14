@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sonic_the_Hedgehog",
+    "manufacturer": "G781U",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778803121,
+    "filename": "Sonic_the_Hedgehog-samsung-SM-G781U-Adreno__TM__650-1778803121.json"
+  },
+  {
     "game": "Stardew_Valley",
     "manufacturer": "F966U",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778793909,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1778793909.json"
-  },
-  {
-    "game": "Fears_To_Fathom_-_Carson_House",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1778793671,
-    "filename": "Fears_To_Fathom_-_Carson_House-motorola-moto_g84_5G-Adreno__TM__619-1778793671.json"
   }
 ]
