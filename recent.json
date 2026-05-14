@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__2",
+    "manufacturer": "ASUS_AI2401_D",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778790982,
+    "filename": "Dead_Space__2-asus-ASUS_AI2401_D-Adreno__TM__750-1778790982.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778778776,
     "filename": "R6Vegas2_Game-Xiaomi-24117RN76L-Mali-G57_MC2-1778778776.json"
-  },
-  {
-    "game": "DARKSOULS",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778778418,
-    "filename": "DARKSOULS-Xiaomi-23053RN02L-Mali-G52_MC2-1778778418.json"
   }
 ]
