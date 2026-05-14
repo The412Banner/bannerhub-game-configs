@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778793178,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1778793178.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Infinix_X669C",
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1778793041,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778782505,
     "filename": "PUBG__Experimental_Server-samsung-SM-S918B-Adreno__TM__740-1778782505.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778782002,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04-Mali-G57-1778782002.json"
   }
 ]
