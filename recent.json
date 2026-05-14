@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1778767001,
+    "filename": "Tomb_Raider-nubia-NX809J-Adreno__TM__840-1778767001.json"
+  },
+  {
     "game": "Need_for_Speed__Rivals",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1778758963,
     "filename": "Winning_Post_10_2026-LENOVO-TB323FU-Adreno__TM__840-1778758963.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778758054,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3938-Mali-G57-1778758054.json"
   }
 ]
