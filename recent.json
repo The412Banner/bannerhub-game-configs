@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Infinix_X669C",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1778793041,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X669C-PowerVR_Rogue_GE8320-1778793041.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G51",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778782002,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04-Mali-G57-1778782002.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "moto_g71_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1778782005,
-    "filename": "Tomb_Raider-motorola-moto_g71_5G-Adreno__TM__619-1778782005.json"
   }
 ]
