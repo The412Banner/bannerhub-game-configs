@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778719037,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1778719037.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778706057,
     "filename": "Remember_Me-AYN-AYN_Thor-Adreno__TM__740-1778706057.json"
-  },
-  {
-    "game": "Soccer_p_s_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778705783,
-    "filename": "Soccer_p_s_2013-Xiaomi-2310FPCA4G-Mali-G52_MC2-1778705783.json"
   }
 ]
