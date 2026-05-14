@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778729760,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1778729760.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "Retroid_Pocket_Mini_V2",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1778721824,
     "filename": "JUMP_FORCE-nubia-NX809J-Adreno__TM__840-1778721824.json"
-  },
-  {
-    "game": "JUMP_FORCE",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1778721804,
-    "filename": "JUMP_FORCE-nubia-NX809J-Adreno__TM__840-1778721804.json"
   }
 ]
