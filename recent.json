@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778794114,
+    "filename": "gta3-Xiaomi-2502FRA65G-Mali-G57_MC2-1778794114.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1778783453,
     "filename": "Resident_Evil_5-motorola-motorola_edge_50_pro-Adreno__TM__720-1778783453.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778783026,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02L-Mali-G52_MC2-1778783026.json"
   }
 ]
