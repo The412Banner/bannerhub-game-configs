@@ -1,5 +1,12 @@
 [
   {
+    "game": "Re4",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778750614,
+    "filename": "Re4-Xiaomi-2311DRK48G-Mali-G615_MC6-1778750614.json"
+  },
+  {
     "game": "DRAGON_BALL_Z__KAKAROT",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778730055,
     "filename": "The_Elder_Scrolls_V__Skyrim-Moorechip-Retroid_Pocket_Mini_V2-Adreno__TM__650-1778730055.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778729760,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1778729760.json"
   }
 ]
