@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Legend_of_Heroes__Trails_in_the_Sky",
+    "manufacturer": "F966U",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778802951,
+    "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-samsung-SM-F966U-Adreno__TM__830-1778802951.json"
+  },
+  {
     "game": "_NINJA_GAIDEN__Master_Collection__NINJA_GAIDEN__",
     "manufacturer": "moto_g_100_",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778793178,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1778793178.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Infinix_X669C",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1778793041,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X669C-PowerVR_Rogue_GE8320-1778793041.json"
   }
 ]
