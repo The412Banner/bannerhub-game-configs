@@ -1,5 +1,12 @@
 [
   {
+    "game": "UltimateTheaterSimulator",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778774508,
+    "filename": "UltimateTheaterSimulator-Xiaomi-24117RN76L-Mali-G57_MC2-1778774508.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778767052,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2727-Adreno__TM__610-1778767052.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1778767001,
-    "filename": "Tomb_Raider-nubia-NX809J-Adreno__TM__840-1778767001.json"
   }
 ]
