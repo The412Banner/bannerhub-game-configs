@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1778733560,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-24069PC21G-Adreno__TM__735-1778733560.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "A236M",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1778723236,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S901E-Adreno__TM__730-1778723236.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778723008,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778723008.json"
   }
 ]
