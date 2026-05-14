@@ -1,5 +1,12 @@
 [
   {
+    "game": "Halo__The_Master_Chief_Collection",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778799304,
+    "filename": "Halo__The_Master_Chief_Collection-unknown-GammaOS_Full-Mali-G615_MC6-1778799304.json"
+  },
+  {
     "game": "NARUTO_STORM_3_FB",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778791141,
     "filename": "RuneScape__Dragonwilds-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1778791141.json"
-  },
-  {
-    "game": "Dead_Space__2",
-    "manufacturer": "ASUS_AI2401_D",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778790982,
-    "filename": "Dead_Space__2-asus-ASUS_AI2401_D-Adreno__TM__750-1778790982.json"
   }
 ]
