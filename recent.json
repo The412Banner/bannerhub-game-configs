@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G51",
+    "timestamp": 1778792802,
+    "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-PPA-LX2-Mali-G51-1778792802.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G51",
     "timestamp": 1778792387,
     "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-PPA-LX2-Mali-G51-1778792387.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1778782005,
     "filename": "Tomb_Raider-motorola-moto_g71_5G-Adreno__TM__619-1778782005.json"
-  },
-  {
-    "game": "Hogwarts_Legacy",
-    "manufacturer": "F966B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778781813,
-    "filename": "Hogwarts_Legacy-samsung-SM-F966B-Adreno__TM__830-1778781813.json"
   }
 ]
