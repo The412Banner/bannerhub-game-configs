@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Ghosts",
+    "manufacturer": "25102PCBEG",
+    "device": "Adreno__TM__840",
+    "timestamp": 1778802459,
+    "filename": "Call_of_Duty___Ghosts-Xiaomi-25102PCBEG-Adreno__TM__840-1778802459.json"
+  },
+  {
     "game": "DORAEMON__STORY_OF_SEASONS",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1778792802,
     "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-PPA-LX2-Mali-G51-1778792802.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1778792387,
-    "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-PPA-LX2-Mali-G51-1778792387.json"
   }
 ]
