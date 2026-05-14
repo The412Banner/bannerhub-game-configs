@@ -1,5 +1,12 @@
 [
   {
+    "game": "CarX_Street",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1778766957,
+    "filename": "CarX_Street-nubia-NX809J-Adreno__TM__840-1778766957.json"
+  },
+  {
     "game": "Need_for_Speed__Heat",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778754185,
     "filename": "_______-nubia-NP05J-Adreno__TM__830-1778754185.json"
-  },
-  {
-    "game": "Dead_Space",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778754149,
-    "filename": "Dead_Space-AYANEO-Pocket_FIT-Adreno__TM__750-1778754149.json"
   }
 ]
