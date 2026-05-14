@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778765269,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1778765269.json"
+  },
+  {
     "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778752613,
     "filename": "Black_Myth__Wukong-ayn-Odin3-Adreno__TM__830-1778752613.json"
-  },
-  {
-    "game": "Counter-Strike",
-    "manufacturer": "FP1",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778752604,
-    "filename": "Counter-Strike-Sony-PDT-FP1-Adreno__TM__740-1778752604.json"
   }
 ]
