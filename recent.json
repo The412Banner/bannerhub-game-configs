@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778774832,
+    "filename": "Tomb_Raider-INFINIX-Infinix_X6885-Mali-G57_MC2-1778774832.json"
+  },
+  {
     "game": "UltimateTheaterSimulator",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778767059,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2727-Adreno__TM__610-1778767059.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "CPH2727",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778767052,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2727-Adreno__TM__610-1778767052.json"
   }
 ]
