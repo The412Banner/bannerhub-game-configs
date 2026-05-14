@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A235M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778723885,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A235M-Adreno__TM__610-1778723885.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1778723355,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778719023,
     "filename": "God_of_War-Xiaomi-25053PC47G-Adreno__TM__825-1778719023.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1778718578,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-motorola-moto_g84_5G-Adreno__TM__619-1778718578.json"
   }
 ]
