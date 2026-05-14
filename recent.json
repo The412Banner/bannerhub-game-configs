@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778740536,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1778740536.json"
+  },
+  {
     "game": "SlayTheSpire2",
     "manufacturer": "2406ERN9CI",
     "device": "Adreno__TM__613",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778724533,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1778724533.json"
-  },
-  {
-    "game": "Injustice",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778724583,
-    "filename": "Injustice-samsung-SM-G780G-Adreno__TM__650-1778724583.json"
   }
 ]
