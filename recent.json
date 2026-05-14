@@ -3,6 +3,13 @@
     "game": "Re4",
     "manufacturer": "Mali",
     "device": "G615_MC6",
+    "timestamp": 1778750626,
+    "filename": "Re4-Xiaomi-2311DRK48G-Mali-G615_MC6-1778750626.json"
+  },
+  {
+    "game": "Re4",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
     "timestamp": 1778750614,
     "filename": "Re4-Xiaomi-2311DRK48G-Mali-G615_MC6-1778750614.json"
   },
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1778732177,
     "filename": "Tomb_Raider-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778732177.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "Retroid_Pocket_Mini_V2",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778730055,
-    "filename": "The_Elder_Scrolls_V__Skyrim-Moorechip-Retroid_Pocket_Mini_V2-Adreno__TM__650-1778730055.json"
   }
 ]
