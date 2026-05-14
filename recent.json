@@ -1,5 +1,12 @@
 [
   {
+    "game": "2_Ship_2_Harkinian",
+    "manufacturer": "22101320I",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1778767967,
+    "filename": "2_Ship_2_Harkinian-Xiaomi-22101320I-Adreno__TM__642L-1778767967.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G9650",
     "device": "Adreno__TM__630",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778763546,
     "filename": "Resident_Evil_5-Xiaomi-2211133G-Adreno__TM__740-1778763546.json"
-  },
-  {
-    "game": "Resident_Evil_4__2005_",
-    "manufacturer": "2211133G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778763334,
-    "filename": "Resident_Evil_4__2005_-Xiaomi-2211133G-Adreno__TM__740-1778763334.json"
   }
 ]
