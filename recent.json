@@ -1,5 +1,12 @@
 [
   {
+    "game": "SlayTheSpire2",
+    "manufacturer": "2406ERN9CI",
+    "device": "Adreno__TM__613",
+    "timestamp": 1778738709,
+    "filename": "SlayTheSpire2-Xiaomi-2406ERN9CI-Adreno__TM__613-1778738709.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778724583,
     "filename": "Injustice-samsung-SM-G780G-Adreno__TM__650-1778724583.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1778723913,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S901E-Adreno__TM__730-1778723913.json"
   }
 ]
