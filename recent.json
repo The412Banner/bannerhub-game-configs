@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Heat",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1778766947,
+    "filename": "Need_for_Speed__Heat-nubia-NX809J-Adreno__TM__840-1778766947.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778754149,
     "filename": "Dead_Space-AYANEO-Pocket_FIT-Adreno__TM__750-1778754149.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "CPH2611",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778752997,
-    "filename": "BootstrapPackagedGame-OnePlus-CPH2611-Adreno__TM__740-1778752997.json"
   }
 ]
