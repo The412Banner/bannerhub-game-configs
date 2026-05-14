@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1778777076,
+    "filename": "PlayGTAV-Xiaomi-23122PCD1G-Adreno__TM__710-1778777076.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1778767098,
     "filename": "Sleeping_Dogs-nubia-NX809J-Adreno__TM__840-1778767098.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "CPH2727",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778767059,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2727-Adreno__TM__610-1778767059.json"
   }
 ]
