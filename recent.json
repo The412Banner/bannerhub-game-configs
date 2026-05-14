@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778771957,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1778771957.json"
+  },
+  {
     "game": "Atomicrops",
     "manufacturer": "22101320G",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778766158,
     "filename": "Mafia_2-samsung-SM-S936B-Adreno__TM__830-1778766158.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778765269,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1778765269.json"
   }
 ]
