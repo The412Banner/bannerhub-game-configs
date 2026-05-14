@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_HD_PATCH_Selector_v4_0",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778767392,
+    "filename": "PES_HD_PATCH_Selector_v4_0-motorola-moto_g06-Mali-G52_MC2-1778767392.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778763288,
     "filename": "Resident_Evil_4__2005_-Xiaomi-2211133G-Adreno__TM__740-1778763288.json"
-  },
-  {
-    "game": "Resident_Evil_4__2005_",
-    "manufacturer": "2211133G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778763282,
-    "filename": "Resident_Evil_4__2005_-Xiaomi-2211133G-Adreno__TM__740-1778763282.json"
   }
 ]
