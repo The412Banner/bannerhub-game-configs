@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Z__KAKAROT",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778747224,
+    "filename": "DRAGON_BALL_Z__KAKAROT-Xiaomi-25053PC47G-Adreno__TM__825-1778747224.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778729760,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1778729760.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "Retroid_Pocket_Mini_V2",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778729241,
-    "filename": "Hollow_Knight__Silksong-Moorechip-Retroid_Pocket_Mini_V2-Adreno__TM__650-1778729241.json"
   }
 ]
