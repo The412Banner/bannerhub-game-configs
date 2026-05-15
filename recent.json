@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Rogue",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1778861940,
+    "filename": "Assassin_s_Creed__Rogue-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778861940.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "MT6769",
     "timestamp": 1778852851,
     "filename": "Megaman_Unlimited-TECNO-TECNO_KM4k-MT6769-1778852851.json"
-  },
-  {
-    "game": "ravenfield",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778852576,
-    "filename": "ravenfield-Xiaomi-2201116TG-Mali-G57_MC2-1778852576.json"
   }
 ]
