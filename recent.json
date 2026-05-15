@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_2_Tweaker",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778846806,
+    "filename": "The_Witcher_2_Tweaker-samsung-SM-A055M-Mali-G52_MC2-1778846806.json"
+  },
+  {
     "game": "Need_for_Speed_Undercover",
     "manufacturer": "CPH2745",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__504",
     "timestamp": 1778831441,
     "filename": "FiveM-samsung-SM-T295-Adreno__TM__504-1778831441.json"
-  },
-  {
-    "game": "FiveM",
-    "manufacturer": "T295",
-    "device": "Adreno__TM__504",
-    "timestamp": 1778831417,
-    "filename": "FiveM-samsung-SM-T295-Adreno__TM__504-1778831417.json"
   }
 ]
