@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g_8__power",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778878121,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__power-Adreno__TM__610-1778878121.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
     "timestamp": 1778877928,
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1778865280,
     "filename": "HitmanBloodMoney-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778865280.json"
-  },
-  {
-    "game": "Injustice",
-    "manufacturer": "motorola_edge_50_ultra",
-    "device": "Adreno__TM__735",
-    "timestamp": 1778864549,
-    "filename": "Injustice-motorola-motorola_edge_50_ultra-Adreno__TM__735-1778864549.json"
   }
 ]
