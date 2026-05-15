@@ -1,5 +1,12 @@
 [
   {
+    "game": "Injustice",
+    "manufacturer": "motorola_edge_50_ultra",
+    "device": "Adreno__TM__735",
+    "timestamp": 1778864549,
+    "filename": "Injustice-motorola-motorola_edge_50_ultra-Adreno__TM__735-1778864549.json"
+  },
+  {
     "game": "FIFA_Soccer_11",
     "manufacturer": "moto_g_8__power",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778856529,
     "filename": "Marvel_s_Spider-Man_Remastered-ayn-Odin3-Adreno__TM__830-1778856529.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Liberation_HD",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778855847,
-    "filename": "Assassin_s_Creed__Liberation_HD-realme-RMX3830-Mali-G57-1778855847.json"
   }
 ]
