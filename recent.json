@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1778809095,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g86_5G-Mali-G615_MC2-1778809095.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1778808940,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778808940.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778802969,
     "filename": "Stardew_Valley-samsung-SM-F966U-Adreno__TM__830-1778802969.json"
-  },
-  {
-    "game": "The_Legend_of_Heroes__Trails_in_the_Sky",
-    "manufacturer": "F966U",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778802951,
-    "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-samsung-SM-F966U-Adreno__TM__830-1778802951.json"
   }
 ]
