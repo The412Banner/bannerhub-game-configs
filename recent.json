@@ -1,5 +1,12 @@
 [
   {
+    "game": "B___Path_of_the_Teal_Lotus",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1778884717,
+    "filename": "B___Path_of_the_Teal_Lotus-Xiaomi-23122PCD1G-Adreno__TM__710-1778884717.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778875209,
     "filename": "Hakuoki__Edo_Blossoms-AYN-AYN_Thor-Adreno__TM__740-1778875209.json"
-  },
-  {
-    "game": "PRAGMATA",
-    "manufacturer": "CPH2747",
-    "device": "Adreno__TM__840",
-    "timestamp": 1778875168,
-    "filename": "PRAGMATA-OnePlus-CPH2747-Adreno__TM__840-1778875168.json"
   }
 ]
