@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "220333QL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778877767,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-220333QL-Adreno__TM__610-1778877767.json"
+  },
+  {
     "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778864503,
     "filename": "FIFA_Soccer_11-motorola-moto_g_8__power-Adreno__TM__610-1778864503.json"
-  },
-  {
-    "game": "Resident_Evil_4__2005_",
-    "manufacturer": "2211133G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778863905,
-    "filename": "Resident_Evil_4__2005_-Xiaomi-2211133G-Adreno__TM__740-1778863905.json"
   }
 ]
