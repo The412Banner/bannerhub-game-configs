@@ -1,5 +1,12 @@
 [
   {
+    "game": "Salt_and_Sanctuary",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1778885255,
+    "filename": "Salt_and_Sanctuary-Xiaomi-M2102J20SG-Adreno__TM__640-1778885255.json"
+  },
+  {
     "game": "B___Path_of_the_Teal_Lotus",
     "manufacturer": "23122PCD1G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778876021,
     "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-ayn-Odin3-Adreno__TM__830-1778876021.json"
-  },
-  {
-    "game": "Hakuoki__Edo_Blossoms",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778875209,
-    "filename": "Hakuoki__Edo_Blossoms-AYN-AYN_Thor-Adreno__TM__740-1778875209.json"
   }
 ]
