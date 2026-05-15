@@ -1,5 +1,12 @@
 [
   {
+    "game": "One_Piece_Pirate_Warriors_3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778883055,
+    "filename": "One_Piece_Pirate_Warriors_3-Xiaomi-24117RN76O-Mali-G57_MC2-1778883055.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778874850,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5313-Mali-G57-1778874850.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778873426,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5313-Mali-G57-1778873426.json"
   }
 ]
