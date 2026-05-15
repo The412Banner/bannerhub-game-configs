@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4__2005_",
+    "manufacturer": "2211133G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778863905,
+    "filename": "Resident_Evil_4__2005_-Xiaomi-2211133G-Adreno__TM__740-1778863905.json"
+  },
+  {
     "game": "Risen",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778855075,
     "filename": "Colin_Mcrae__Dirt_2-samsung-SM-G781B-Adreno__TM__650-1778855075.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "25057RN09G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1778854442,
-    "filename": "BootstrapPackagedGame-Xiaomi-25057RN09G-Adreno__TM__619-1778854442.json"
   }
 ]
