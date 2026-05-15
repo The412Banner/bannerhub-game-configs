@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_TO_BORUTO__SHINOBI_STRIKER",
+    "manufacturer": "NX769J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778811295,
+    "filename": "NARUTO_TO_BORUTO__SHINOBI_STRIKER-nubia-NX769J-Adreno__TM__750-1778811295.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778803265,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-S928U1-Adreno__TM__750-1778803265.json"
-  },
-  {
-    "game": "Sonic_the_Hedgehog",
-    "manufacturer": "G781U",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778803121,
-    "filename": "Sonic_the_Hedgehog-samsung-SM-G781U-Adreno__TM__650-1778803121.json"
   }
 ]
