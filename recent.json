@@ -1,5 +1,12 @@
 [
   {
+    "game": "mimic",
+    "manufacturer": "I2407",
+    "device": "Adreno__TM__810",
+    "timestamp": 1778880063,
+    "filename": "mimic-vivo-I2407-Adreno__TM__810-1778880063.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g_8__power",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778866425,
     "filename": "Cuphead-motorola-moto_g05-Mali-G52_MC2-1778866425.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1778865841,
-    "filename": "Euro_Truck_Simulator_2-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1778865841.json"
   }
 ]
