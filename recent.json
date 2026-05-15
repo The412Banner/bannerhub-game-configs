@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "2211133G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778840743,
+    "filename": "Red_Dead_Redemption-Xiaomi-2211133G-Adreno__TM__740-1778840743.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "2211133G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778818604,
     "filename": "A_Plague_Tale__Requiem-Xiaomi-24030PN60G-Adreno__TM__750-1778818604.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_one_fusion",
-    "device": "Adreno__TM__616",
-    "timestamp": 1778818051,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_one_fusion-Adreno__TM__616-1778818051.json"
   }
 ]
