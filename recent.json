@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g_8__power",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778880048,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__power-Adreno__TM__610-1778880048.json"
+  },
+  {
     "game": "Of_Orcs_and_Men",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1778865841,
     "filename": "Euro_Truck_Simulator_2-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1778865841.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1778865617,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1778865617.json"
   }
 ]
