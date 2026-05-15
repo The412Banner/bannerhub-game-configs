@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_Game",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778888988,
+    "filename": "The_Witcher_Game-Xiaomi-2409BRN2CY-Mali-G52_MC2-1778888988.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778878445,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1778878445.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g_8__power",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778878121,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__power-Adreno__TM__610-1778878121.json"
   }
 ]
