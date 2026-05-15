@@ -3,6 +3,13 @@
     "game": "FiveM",
     "manufacturer": "T295",
     "device": "Adreno__TM__504",
+    "timestamp": 1778831417,
+    "filename": "FiveM-samsung-SM-T295-Adreno__TM__504-1778831417.json"
+  },
+  {
+    "game": "FiveM",
+    "manufacturer": "T295",
+    "device": "Adreno__TM__504",
     "timestamp": 1778831396,
     "filename": "FiveM-samsung-SM-T295-Adreno__TM__504-1778831396.json"
   },
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1778808777,
     "filename": "Resident_Evil_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778808777.json"
-  },
-  {
-    "game": "RetroArch",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1778808292,
-    "filename": "RetroArch-UNISOC-X18S-Mali-G52-1778808292.json"
   }
 ]
