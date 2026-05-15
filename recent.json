@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A235F",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778823782,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A235F-Adreno__TM__610-1778823782.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778806714,
     "filename": "PES_2013-Xiaomi-25028PC03G-Mali-G57-1778806714.json"
-  },
-  {
-    "game": "PES_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778806603,
-    "filename": "PES_2013-Xiaomi-25028PC03G-Mali-G57-1778806603.json"
   }
 ]
