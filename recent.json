@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1778865841,
+    "filename": "Euro_Truck_Simulator_2-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1778865841.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1778859639,
     "filename": "MiSide-Xiaomi-2306EPN60G-Mali-G610_MC6-1778859639.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1778859422,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23049PCD8G-Adreno__TM__725-1778859422.json"
   }
 ]
