@@ -1,5 +1,12 @@
 [
   {
+    "game": "MOUSE",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778850107,
+    "filename": "MOUSE-Xiaomi-23129RAA4G-Adreno__TM__610-1778850107.json"
+  },
+  {
     "game": "Ultimate_Spiderman",
     "manufacturer": "23129RAA4G",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778837848,
     "filename": "Resident_Evil_6-Xiaomi-2211133G-Adreno__TM__740-1778837848.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778837555,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1778837555.json"
   }
 ]
