@@ -1,5 +1,12 @@
 [
   {
+    "game": "Of_Orcs_and_Men",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778878519,
+    "filename": "Of_Orcs_and_Men-AYN-AYN_Thor-Adreno__TM__740-1778878519.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1778865617,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1778865617.json"
-  },
-  {
-    "game": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778865454,
-    "filename": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered-Xiaomi-25053RT47C-Adreno__TM__825-1778865454.json"
   }
 ]
