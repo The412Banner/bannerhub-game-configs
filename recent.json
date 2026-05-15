@@ -1,5 +1,12 @@
 [
   {
+    "game": "A_Plague_Tale__Requiem",
+    "manufacturer": "24030PN60G",
+    "device": "Adreno__TM__750",
+    "timestamp": 1778818604,
+    "filename": "A_Plague_Tale__Requiem-Xiaomi-24030PN60G-Adreno__TM__750-1778818604.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "motorola_one_fusion",
     "device": "Adreno__TM__616",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1778806489,
     "filename": "Cursed_Prince_-_Scene_Viewer-Nothing-A065-Adreno__TM__730-1778806489.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2012",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778806076,
-    "filename": "Pro_Evolution_Soccer_2012-Xiaomi-25078RA3EL-Mali-G52_MC2-1778806076.json"
   }
 ]
