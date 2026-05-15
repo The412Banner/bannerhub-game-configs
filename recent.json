@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1778853300,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778853300.json"
+  },
+  {
     "game": "Megaman_Unlimited",
     "manufacturer": "TECNO_KM4k",
     "device": "MT6769",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778838844,
     "filename": "Resident_Evil_5-Xiaomi-2211133G-Adreno__TM__740-1778838844.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "2211133G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778838576,
-    "filename": "Resident_Evil_6-Xiaomi-2211133G-Adreno__TM__740-1778838576.json"
   }
 ]
