@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778817652,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1778817652.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778804584,
     "filename": "The_Elder_Scrolls_V__Skyrim-vivo-V2338A-Adreno__TM__740-1778804584.json"
-  },
-  {
-    "game": "MadMax",
-    "manufacturer": "V2338A",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778804573,
-    "filename": "MadMax-vivo-V2338A-Adreno__TM__740-1778804573.json"
   }
 ]
