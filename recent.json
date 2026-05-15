@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778845187,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1778845187.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1778827199,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2412DPC0AI-Mali-G720_MC7-1778827199.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A235F",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778823782,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A235F-Adreno__TM__610-1778823782.json"
   }
 ]
