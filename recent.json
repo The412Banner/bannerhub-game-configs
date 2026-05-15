@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "4",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778811436,
+    "filename": "Left_4_Dead_2-motorola-XT2125-4-Adreno__TM__650-1778811436.json"
+  },
+  {
     "game": "NARUTO_TO_BORUTO__SHINOBI_STRIKER",
     "manufacturer": "NX769J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1778803557,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1778803557.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "S928U1",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778803265,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-S928U1-Adreno__TM__750-1778803265.json"
   }
 ]
