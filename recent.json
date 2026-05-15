@@ -1,5 +1,12 @@
 [
   {
+    "game": "Eris_Dysnomia",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778860323,
+    "filename": "Eris_Dysnomia-Xiaomi-2409BRN2CY-Mali-G52_MC2-1778860323.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778850107,
     "filename": "MOUSE-Xiaomi-23129RAA4G-Adreno__TM__610-1778850107.json"
-  },
-  {
-    "game": "Ultimate_Spiderman",
-    "manufacturer": "23129RAA4G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778850028,
-    "filename": "Ultimate_Spiderman-Xiaomi-23129RAA4G-Adreno__TM__610-1778850028.json"
   }
 ]
