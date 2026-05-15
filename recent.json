@@ -1,5 +1,12 @@
 [
   {
+    "game": "Risen",
+    "manufacturer": "I2405",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778863802,
+    "filename": "Risen-vivo-I2405-Adreno__TM__825-1778863802.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M2101K6R",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1778854442,
     "filename": "BootstrapPackagedGame-Xiaomi-25057RN09G-Adreno__TM__619-1778854442.json"
-  },
-  {
-    "game": "TEKKEN_7",
-    "manufacturer": "OPD2415",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778853341,
-    "filename": "TEKKEN_7-OnePlus-OPD2415-Adreno__TM__830-1778853341.json"
   }
 ]
