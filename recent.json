@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1778884206,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G996B-Mali-G78-1778884206.json"
+  },
+  {
     "game": "One_Piece_Pirate_Warriors_3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1778875168,
     "filename": "PRAGMATA-OnePlus-CPH2747-Adreno__TM__840-1778875168.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778874850,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5313-Mali-G57-1778874850.json"
   }
 ]
