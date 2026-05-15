@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "2410CRP4CG",
+    "device": "Adreno__TM__732",
+    "timestamp": 1778880276,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2410CRP4CG-Adreno__TM__732-1778880276.json"
+  },
+  {
     "game": "mimic",
     "manufacturer": "I2407",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1778867348,
     "filename": "MOUSE-samsung-SM-M526B-Adreno__TM__642L-1778867348.json"
-  },
-  {
-    "game": "Cuphead",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778866425,
-    "filename": "Cuphead-motorola-moto_g05-Mali-G52_MC2-1778866425.json"
   }
 ]
