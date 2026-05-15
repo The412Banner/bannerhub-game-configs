@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRAGMATA",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1778875168,
+    "filename": "PRAGMATA-OnePlus-CPH2747-Adreno__TM__840-1778875168.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1778863032,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K6R-Adreno__TM__618-1778863032.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Rogue",
-    "manufacturer": "Retroid_Pocket_G2",
-    "device": "Adreno__TM__22",
-    "timestamp": 1778861940,
-    "filename": "Assassin_s_Creed__Rogue-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1778861940.json"
   }
 ]
