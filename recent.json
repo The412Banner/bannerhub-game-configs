@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778866425,
+    "filename": "Cuphead-motorola-moto_g05-Mali-G52_MC2-1778866425.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1778859599,
     "filename": "Grand_Theft_Auto_V_Enhanced-OPPO-CPH2743-Adreno__TM__710-1778859599.json"
-  },
-  {
-    "game": "MiSide",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1778859639,
-    "filename": "MiSide-Xiaomi-2306EPN60G-Mali-G610_MC6-1778859639.json"
   }
 ]
