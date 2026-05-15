@@ -1,5 +1,12 @@
 [
   {
+    "game": "Squad",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778832575,
+    "filename": "Squad-samsung-SM-S918B-Adreno__TM__740-1778832575.json"
+  },
+  {
     "game": "Forza_Horizon_4",
     "manufacturer": "CPH2581",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1778809095,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g86_5G-Mali-G615_MC2-1778809095.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778808940,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778808940.json"
   }
 ]
