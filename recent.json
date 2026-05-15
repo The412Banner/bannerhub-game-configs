@@ -1,5 +1,12 @@
 [
   {
+    "game": "M_U_G_E_N",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778835779,
+    "filename": "M_U_G_E_N-samsung-SM-A156M-Mali-G57_MC2-1778835779.json"
+  },
+  {
     "game": "Nine_Sols",
     "manufacturer": "2211133G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778811295,
     "filename": "NARUTO_TO_BORUTO__SHINOBI_STRIKER-nubia-NX769J-Adreno__TM__750-1778811295.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778810270,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2103K19PG-Mali-G57_MC2-1778810270.json"
   }
 ]
