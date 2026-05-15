@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_7",
+    "manufacturer": "OPD2415",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778853341,
+    "filename": "TEKKEN_7-OnePlus-OPD2415-Adreno__TM__830-1778853341.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778840743,
     "filename": "Red_Dead_Redemption-Xiaomi-2211133G-Adreno__TM__740-1778840743.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "2211133G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778838844,
-    "filename": "Resident_Evil_5-Xiaomi-2211133G-Adreno__TM__740-1778838844.json"
   }
 ]
