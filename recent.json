@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_Soccer_11",
+    "manufacturer": "moto_g_8__power",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778864503,
+    "filename": "FIFA_Soccer_11-motorola-moto_g_8__power-Adreno__TM__610-1778864503.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "2211133G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778855847,
     "filename": "Assassin_s_Creed__Liberation_HD-realme-RMX3830-Mali-G57-1778855847.json"
-  },
-  {
-    "game": "Colin_Mcrae__Dirt_2",
-    "manufacturer": "G781B",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778855075,
-    "filename": "Colin_Mcrae__Dirt_2-samsung-SM-G781B-Adreno__TM__650-1778855075.json"
   }
 ]
