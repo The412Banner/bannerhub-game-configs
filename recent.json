@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mating_Season",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778814709,
+    "filename": "Mating_Season-INFINIX-Infinix_X6833B-Mali-G57_MC2-1778814709.json"
+  },
+  {
     "game": "Portal_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778804188,
     "filename": "Assassin_s_Creed__Revelations-INFINIX-Infinix_X6853-Mali-G57_MC2-1778804188.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778804046,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1778804046.json"
   }
 ]
