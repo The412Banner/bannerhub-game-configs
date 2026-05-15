@@ -1,5 +1,12 @@
 [
   {
+    "game": "MadMax",
+    "manufacturer": "V2338A",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778804573,
+    "filename": "MadMax-vivo-V2338A-Adreno__TM__740-1778804573.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "V2338A",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778795229,
     "filename": "Mafia_II__Classic_-HONOR-PGT-N19-Adreno__TM__740-1778795229.json"
-  },
-  {
-    "game": "Farming_Simulator_19",
-    "manufacturer": "23124RA7EO",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778794677,
-    "filename": "Farming_Simulator_19-Xiaomi-23124RA7EO-Adreno__TM__610-1778794677.json"
   }
 ]
