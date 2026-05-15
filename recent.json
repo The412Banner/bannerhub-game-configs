@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1778859639,
+    "filename": "MiSide-Xiaomi-2306EPN60G-Mali-G610_MC6-1778859639.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778848055,
     "filename": "STORY_OF_SEASONS__Grand_Bazaar-Xiaomi-25053PC47G-Adreno__TM__825-1778848055.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "2410CRP4CG",
-    "device": "Adreno__TM__732",
-    "timestamp": 1778847297,
-    "filename": "Red_Dead_Redemption-Xiaomi-2410CRP4CG-Adreno__TM__732-1778847297.json"
   }
 ]
