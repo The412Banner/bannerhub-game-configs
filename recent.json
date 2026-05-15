@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778810270,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2103K19PG-Mali-G57_MC2-1778810270.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G615_MC2",
     "timestamp": 1778809095,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g86_5G-Mali-G615_MC2-1778809095.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778803121,
     "filename": "Sonic_the_Hedgehog-samsung-SM-G781U-Adreno__TM__650-1778803121.json"
-  },
-  {
-    "game": "Stardew_Valley",
-    "manufacturer": "F966U",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778802969,
-    "filename": "Stardew_Valley-samsung-SM-F966U-Adreno__TM__830-1778802969.json"
   }
 ]
