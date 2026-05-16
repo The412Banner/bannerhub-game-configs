@@ -1,5 +1,12 @@
 [
   {
+    "game": "Little_Nightmares_II",
+    "manufacturer": "NX9",
+    "device": "Adreno__TM__720",
+    "timestamp": 1778928916,
+    "filename": "Little_Nightmares_II-HONOR-DNY-NX9-Adreno__TM__720-1778928916.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778911739,
     "filename": "Kelipot-AYN-AYN_Thor-Adreno__TM__740-1778911739.json"
-  },
-  {
-    "game": "NieR_Replicant__ver_1_22474487139___",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778911260,
-    "filename": "NieR_Replicant__ver_1_22474487139___-ayn-Odin3-Adreno__TM__830-1778911260.json"
   }
 ]
