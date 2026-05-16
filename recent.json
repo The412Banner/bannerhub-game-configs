@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G71",
+    "timestamp": 1778898642,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M205M-Mali-G71-1778898642.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1778898066,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3830-Mali-G57-1778898066.json"
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778888988,
     "filename": "The_Witcher_Game-Xiaomi-2409BRN2CY-Mali-G52_MC2-1778888988.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1778888711,
-    "filename": "God_of_War-Xiaomi-23043RP34G-Adreno__TM__650-1778888711.json"
   }
 ]
