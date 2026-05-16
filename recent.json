@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "G9650",
+    "device": "Adreno__TM__630",
+    "timestamp": 1778895566,
+    "filename": "Sleeping_Dogs-samsung-SM-G9650-Adreno__TM__630-1778895566.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1778884717,
     "filename": "B___Path_of_the_Teal_Lotus-Xiaomi-23122PCD1G-Adreno__TM__710-1778884717.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1778884206,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G996B-Mali-G78-1778884206.json"
   }
 ]
