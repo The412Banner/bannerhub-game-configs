@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778966402,
+    "filename": "TheAmazingSpider-Man2-samsung-SM-A175F-Mali-G57_MC2-1778966402.json"
+  },
+  {
     "game": "Five_Nights_at_Freddy_s__Into_the_Pit",
     "manufacturer": "23028RA60L",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1778945999,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S928B-Adreno__TM__750-1778945999.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "M2101K7AG",
-    "device": "Adreno__TM__612",
-    "timestamp": 1778945915,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2101K7AG-Adreno__TM__612-1778945915.json"
   }
 ]
