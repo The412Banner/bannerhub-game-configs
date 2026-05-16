@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778928374,
+    "filename": "Resident_Evil_4-Xiaomi-25053PC47G-Adreno__TM__825-1778928374.json"
+  },
+  {
     "game": "Far_Cry__5",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778911193,
     "filename": "DRAGON_QUEST__XI_S__Echoes_of_an_Elusive_Age__-_Definitive_Edition-ayn-Odin3-Adreno__TM__830-1778911193.json"
-  },
-  {
-    "game": "The_Lord_of_the_Rings__War_in_the_North",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778911125,
-    "filename": "The_Lord_of_the_Rings__War_in_the_North-ayn-Odin3-Adreno__TM__830-1778911125.json"
   }
 ]
