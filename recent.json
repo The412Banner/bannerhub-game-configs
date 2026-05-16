@@ -1,5 +1,12 @@
 [
   {
+    "game": "Kelipot",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778911739,
+    "filename": "Kelipot-AYN-AYN_Thor-Adreno__TM__740-1778911739.json"
+  },
+  {
     "game": "NieR_Replicant__ver_1_22474487139___",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778900608,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-220333QBI-Adreno__TM__610-1778900608.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778900220,
-    "filename": "Pro_Evolution_Soccer_2013-realme-realme_Note_60-Mali-G57-1778900220.json"
   }
 ]
