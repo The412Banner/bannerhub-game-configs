@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Revelations_2",
+    "manufacturer": "2211133G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778918542,
+    "filename": "Resident_Evil_Revelations_2-Xiaomi-2211133G-Adreno__TM__740-1778918542.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778905287,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778905287.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1778905225,
-    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6876-Mali-G615_MC2-1778905225.json"
   }
 ]
