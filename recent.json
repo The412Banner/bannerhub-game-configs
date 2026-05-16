@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1778925672,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1778925672.json"
+  },
+  {
     "game": "LEGOJurassicWorld",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1778906501,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1778906501.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1778906106,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1778906106.json"
   }
 ]
