@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Legend_of_Zelda__Dungeons_of_Infinity",
+    "manufacturer": "S936U",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778960860,
+    "filename": "The_Legend_of_Zelda__Dungeons_of_Infinity-samsung-SM-S936U-Adreno__TM__830-1778960860.json"
+  },
+  {
     "game": "Pes_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778940294,
     "filename": "FIFA_14-samsung-SM-S938B-Adreno__TM__830-1778940294.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "S908E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1778940026,
-    "filename": "God_of_War-samsung-SM-S908E-Adreno__TM__730-1778940026.json"
   }
 ]
