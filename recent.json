@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ghostwire__Tokyo",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1778965289,
+    "filename": "Ghostwire__Tokyo-nubia-NX809J-Adreno__TM__840-1778965289.json"
+  },
+  {
     "game": "Counter-Strike_2",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778940603,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1778940603.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1778942935,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2004J19C-Mali-G52-1778942935.json"
   }
 ]
