@@ -1,5 +1,12 @@
 [
   {
+    "game": "sonicusbonline1_47_9",
+    "manufacturer": "Redmi_Note_9S",
+    "device": "Adreno__TM__618",
+    "timestamp": 1778890820,
+    "filename": "sonicusbonline1_47_9-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1778890820.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2_Demo",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1778880063,
     "filename": "mimic-vivo-I2407-Adreno__TM__810-1778880063.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g_8__power",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778880048,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__power-Adreno__TM__610-1778880048.json"
   }
 ]
