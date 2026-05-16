@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "J716F",
+    "device": "Adreno__TM__650",
+    "timestamp": 1778947595,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-Lenovo-Lenovo_TB-J716F-Adreno__TM__650-1778947595.json"
+  },
+  {
     "game": "JUMP_FORCE",
     "manufacturer": "NX9",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778930662,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1778930662.json"
-  },
-  {
-    "game": "Little_Nightmares_II",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__720",
-    "timestamp": 1778928916,
-    "filename": "Little_Nightmares_II-HONOR-DNY-NX9-Adreno__TM__720-1778928916.json"
   }
 ]
