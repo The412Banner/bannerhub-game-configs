@@ -1,5 +1,12 @@
 [
   {
+    "game": "Granny_Legacy",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1778893888,
+    "filename": "Granny_Legacy-samsung-SM-A166M-Mali-G68-1778893888.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1778888439,
     "filename": "Left_4_Dead_MULTi26_-_ElAmigos______________________________-Xiaomi-2511FPC34G-Mali-G720_MC8-1778888439.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778887765,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6885-Mali-G57_MC2-1778887765.json"
   }
 ]
