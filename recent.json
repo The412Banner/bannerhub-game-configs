@@ -1,5 +1,12 @@
 [
   {
+    "game": "Palworld",
+    "manufacturer": "25053PC47I",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778928011,
+    "filename": "Palworld-Xiaomi-25053PC47I-Adreno__TM__825-1778928011.json"
+  },
+  {
     "game": "Far_Cry__5",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1778907689,
     "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6876-Mali-G615_MC2-1778907689.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1778907530,
-    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6876-Mali-G615_MC2-1778907530.json"
   }
 ]
