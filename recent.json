@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778970807,
+    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_CL6s-Mali-G57_MC2-1778970807.json"
+  },
+  {
     "game": "Prince_of_Persia_-_The_Forgotten_Sands",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G57_MC3",
     "timestamp": 1778958788,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A326B-Mali-G57_MC3-1778958788.json"
-  },
-  {
-    "game": "TransGame",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778953743,
-    "filename": "TransGame-Xiaomi-2311DRK48G-Mali-G615_MC6-1778953743.json"
   }
 ]
