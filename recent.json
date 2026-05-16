@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778967563,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1778967563.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
     "timestamp": 1778967099,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1778947595,
     "filename": "PRO_EVOLUTION_SOCCER_2018-Lenovo-Lenovo_TB-J716F-Adreno__TM__650-1778947595.json"
-  },
-  {
-    "game": "JUMP_FORCE",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__750",
-    "timestamp": 1778946312,
-    "filename": "JUMP_FORCE-HONOR-DNP-NX9-Adreno__TM__750-1778946312.json"
   }
 ]
