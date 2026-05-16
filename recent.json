@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed___Director_s_Cut_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778891470,
+    "filename": "Assassin_s_Creed___Director_s_Cut_Edition-Xiaomi-2409BRN2CY-Mali-G52_MC2-1778891470.json"
+  },
+  {
     "game": "sonicusbonline1_47_9",
     "manufacturer": "Redmi_Note_9S",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1778880276,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2410CRP4CG-Adreno__TM__732-1778880276.json"
-  },
-  {
-    "game": "mimic",
-    "manufacturer": "I2407",
-    "device": "Adreno__TM__810",
-    "timestamp": 1778880063,
-    "filename": "mimic-vivo-I2407-Adreno__TM__810-1778880063.json"
   }
 ]
