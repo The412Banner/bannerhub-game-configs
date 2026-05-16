@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGOJurassicWorld",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778924460,
+    "filename": "LEGOJurassicWorld-TECNO-TECNO_LI7-Mali-G57_MC2-1778924460.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "V2511",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1778906106,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1778906106.json"
-  },
-  {
-    "game": "Street_Fighter_V",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778905962,
-    "filename": "Street_Fighter_V-Xiaomi-25053PC47G-Adreno__TM__825-1778905962.json"
   }
 ]
