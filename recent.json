@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "23028RA60L",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778935380,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-23028RA60L-Adreno__TM__610-1778935380.json"
+  },
+  {
     "game": "Hitman__Absolution_",
     "manufacturer": "25062RN2DL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778920268,
     "filename": "F1_Challenge_99-02-samsung-SM-A055M-Mali-G52_MC2-1778920268.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "2211133G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778918542,
-    "filename": "Resident_Evil_Revelations_2-Xiaomi-2211133G-Adreno__TM__740-1778918542.json"
   }
 ]
