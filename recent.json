@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1778942235,
+    "filename": "Hollow_Knight-Xiaomi-25069PTEBG-Mali-G720_MC7-1778942235.json"
+  },
+  {
     "game": "Resident_Evil_5_Gold_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778926926,
     "filename": "Tomb_Raider-OnePlus-CPH2609-Adreno__TM__740-1778926926.json"
-  },
-  {
-    "game": "Resident_Evil_4__2005_",
-    "manufacturer": "2211133G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778926584,
-    "filename": "Resident_Evil_4__2005_-Xiaomi-2211133G-Adreno__TM__740-1778926584.json"
   }
 ]
