@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGOMARVELAvengers_DX11",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778975272,
+    "filename": "LEGOMARVELAvengers_DX11-Xiaomi-2312FPCA6G-Mali-G57_MC2-1778975272.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1778965332,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6870-Mali-G615_MC2-1778965332.json"
-  },
-  {
-    "game": "Ghostwire__Tokyo",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1778965289,
-    "filename": "Ghostwire__Tokyo-nubia-NX809J-Adreno__TM__840-1778965289.json"
   }
 ]
