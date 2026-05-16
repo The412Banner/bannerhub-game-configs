@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_Challenge_99-02",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778920268,
+    "filename": "F1_Challenge_99-02-samsung-SM-A055M-Mali-G52_MC2-1778920268.json"
+  },
+  {
     "game": "Resident_Evil_Revelations_2",
     "manufacturer": "2211133G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778905297,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778905297.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778905287,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1778905287.json"
   }
 ]
