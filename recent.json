@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "M2101K7AG",
+    "device": "Adreno__TM__612",
+    "timestamp": 1778945915,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2101K7AG-Adreno__TM__612-1778945915.json"
+  },
+  {
     "game": "EasyAntiCheat_Launcher",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1778928585,
     "filename": "Rise_of_the_Tomb_Raider_-Xiaomi-24069PC21G-Adreno__TM__735-1778928585.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778928374,
-    "filename": "Resident_Evil_4-Xiaomi-25053PC47G-Adreno__TM__825-1778928374.json"
   }
 ]
