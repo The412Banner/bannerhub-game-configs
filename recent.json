@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1778907213,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6876-Mali-G615_MC2-1778907213.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1778893888,
     "filename": "Granny_Legacy-samsung-SM-A166M-Mali-G68-1778893888.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1778897293,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1778897293.json"
   }
 ]
