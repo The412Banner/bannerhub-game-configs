@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778928606,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1778928606.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778911260,
     "filename": "NieR_Replicant__ver_1_22474487139___-ayn-Odin3-Adreno__TM__830-1778911260.json"
-  },
-  {
-    "game": "DRAGON_QUEST__XI_S__Echoes_of_an_Elusive_Age__-_Definitive_Edition",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778911226,
-    "filename": "DRAGON_QUEST__XI_S__Echoes_of_an_Elusive_Age__-_Definitive_Edition-ayn-Odin3-Adreno__TM__830-1778911226.json"
   }
 ]
