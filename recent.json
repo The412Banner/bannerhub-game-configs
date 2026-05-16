@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_14",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1778940294,
+    "filename": "FIFA_14-samsung-SM-S938B-Adreno__TM__830-1778940294.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "S908E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1778925672,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1778925672.json"
-  },
-  {
-    "game": "LEGOJurassicWorld",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778924460,
-    "filename": "LEGOJurassicWorld-TECNO-TECNO_LI7-Mali-G57_MC2-1778924460.json"
   }
 ]
