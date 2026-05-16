@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4__2005_",
+    "manufacturer": "2211133G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1778926584,
+    "filename": "Resident_Evil_4__2005_-Xiaomi-2211133G-Adreno__TM__740-1778926584.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1778907213,
     "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6876-Mali-G615_MC2-1778907213.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1778906501,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1778906501.json"
   }
 ]
