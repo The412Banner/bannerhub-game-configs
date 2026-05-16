@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778908823,
+    "filename": "Just_Cause_2-Anbernic-RG557-Mali-G615_MC6-1778908823.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778898930,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6885-Mali-G57_MC2-1778898930.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1778898929,
-    "filename": "Left_4_Dead_2-INFINIX-Infinix_X6871-Mali-G610_MC6-1778898929.json"
   }
 ]
