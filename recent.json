@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778930662,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1778930662.json"
+  },
+  {
     "game": "Little_Nightmares_II",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1778912252,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23049PCD8G-Adreno__TM__725-1778912252.json"
-  },
-  {
-    "game": "Kelipot",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778911739,
-    "filename": "Kelipot-AYN-AYN_Thor-Adreno__TM__740-1778911739.json"
   }
 ]
