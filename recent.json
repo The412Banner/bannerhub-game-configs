@@ -1,5 +1,12 @@
 [
   {
+    "game": "Counter-Strike_2",
+    "manufacturer": "G720",
+    "device": "Immortalis_MC12",
+    "timestamp": 1778965049,
+    "filename": "Counter-Strike_2-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1778965049.json"
+  },
+  {
     "game": "F1_Challenge_Online",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1778942935,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2004J19C-Mali-G52-1778942935.json"
-  },
-  {
-    "game": "Hollow_Knight",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778942235,
-    "filename": "Hollow_Knight-Xiaomi-25069PTEBG-Mali-G720_MC7-1778942235.json"
   }
 ]
