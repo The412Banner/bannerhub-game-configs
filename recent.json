@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778893851,
+    "filename": "Far_Cry_3-INFINIX-Infinix_X6853-Mali-G57_MC2-1778893851.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "2201117TG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1778883055,
     "filename": "One_Piece_Pirate_Warriors_3-Xiaomi-24117RN76O-Mali-G57_MC2-1778883055.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1778882716,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LJ7-Mali-G615_MC2-1778882716.json"
   }
 ]
