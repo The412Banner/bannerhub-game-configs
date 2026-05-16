@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC3",
+    "timestamp": 1778958788,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A326B-Mali-G57_MC3-1778958788.json"
+  },
+  {
     "game": "TransGame",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__613",
     "timestamp": 1778938838,
     "filename": "Grand_Theft_Auto__Episodes_from_Liberty_City-vivo-V2521-Adreno__TM__613-1778938838.json"
-  },
-  {
-    "game": "R_E_P_O_",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778937302,
-    "filename": "R_E_P_O_-AYN-AYN_Thor-Adreno__TM__740-1778937302.json"
   }
 ]
