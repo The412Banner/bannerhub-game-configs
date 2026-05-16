@@ -1,5 +1,12 @@
 [
   {
+    "game": "five-nights-at-sonic-2-reopened-full-game-v1_13",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778971428,
+    "filename": "five-nights-at-sonic-2-reopened-full-game-v1_13-samsung-SM-A035M-Mali-G57-1778971428.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1778965049,
     "filename": "Counter-Strike_2-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1778965049.json"
-  },
-  {
-    "game": "F1_Challenge_Online",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778964525,
-    "filename": "F1_Challenge_Online-samsung-SM-A065M-Mali-G52_MC2-1778964525.json"
   }
 ]
