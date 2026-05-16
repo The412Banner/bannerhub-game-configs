@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1778891838,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1778891838.json"
+  },
+  {
     "game": "Car_For_Sale_Simulator_2023",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1778881554,
     "filename": "Dragonfield-motorola-moto_g34_5G-Adreno__TM__619-1778881554.json"
-  },
-  {
-    "game": "PES2017",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1778880911,
-    "filename": "PES2017-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778880911.json"
   }
 ]
