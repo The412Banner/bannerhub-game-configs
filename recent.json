@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778971234,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1778971234.json"
+  },
+  {
     "game": "Saints_Row__The_Third",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1778961786,
     "filename": "Until_Then-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1778961786.json"
-  },
-  {
-    "game": "The_Legend_of_Zelda__Dungeons_of_Infinity",
-    "manufacturer": "S936U",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778960860,
-    "filename": "The_Legend_of_Zelda__Dungeons_of_Infinity-samsung-SM-S936U-Adreno__TM__830-1778960860.json"
   }
 ]
