@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1778912252,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23049PCD8G-Adreno__TM__725-1778912252.json"
+  },
+  {
     "game": "Kelipot",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1778902239,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1778902239.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "220333QBI",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778900608,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-220333QBI-Adreno__TM__610-1778900608.json"
   }
 ]
