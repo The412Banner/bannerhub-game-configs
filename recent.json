@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__5",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1778928059,
+    "filename": "Far_Cry__5-Xiaomi-25053PC47G-Adreno__TM__825-1778928059.json"
+  },
+  {
     "game": "Palworld",
     "manufacturer": "25053PC47I",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1778908823,
     "filename": "Just_Cause_2-Anbernic-RG557-Mali-G615_MC6-1778908823.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1778907689,
-    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6876-Mali-G615_MC2-1778907689.json"
   }
 ]
