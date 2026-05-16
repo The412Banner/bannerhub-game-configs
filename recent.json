@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778891659,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-realme-RMX5313-Mali-G57-1778891659.json"
+  },
+  {
     "game": "Assassin_s_Creed___Director_s_Cut_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778880453,
     "filename": "PRAGMATA-nubia-NX789S_V1B-Adreno__TM__830-1778880453.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "2410CRP4CG",
-    "device": "Adreno__TM__732",
-    "timestamp": 1778880276,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2410CRP4CG-Adreno__TM__732-1778880276.json"
   }
 ]
