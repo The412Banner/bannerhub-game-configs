@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hitman__Absolution_",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1778953648,
+    "filename": "Hitman__Absolution_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778953648.json"
+  },
+  {
     "game": "TransGame",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778935380,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-23028RA60L-Adreno__TM__610-1778935380.json"
-  },
-  {
-    "game": "Hitman__Absolution_",
-    "manufacturer": "25062RN2DL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778935276,
-    "filename": "Hitman__Absolution_-Xiaomi-25062RN2DL-Adreno__TM__610-1778935276.json"
   }
 ]
