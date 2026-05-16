@@ -1,5 +1,12 @@
 [
   {
+    "game": "Five_Nights_at_Freddy_s__Into_the_Pit",
+    "manufacturer": "23028RA60L",
+    "device": "Adreno__TM__610",
+    "timestamp": 1778966260,
+    "filename": "Five_Nights_at_Freddy_s__Into_the_Pit-Xiaomi-23028RA60L-Adreno__TM__610-1778966260.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__612",
     "timestamp": 1778945915,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2101K7AG-Adreno__TM__612-1778945915.json"
-  },
-  {
-    "game": "EasyAntiCheat_Launcher",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1778945166,
-    "filename": "EasyAntiCheat_Launcher-Xiaomi-25053PC47G-Adreno__TM__825-1778945166.json"
   }
 ]
