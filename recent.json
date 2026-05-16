@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1778971781,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1778971781.json"
+  },
+  {
     "game": "five-nights-at-sonic-2-reopened-full-game-v1_13",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1778965289,
     "filename": "Ghostwire__Tokyo-nubia-NX809J-Adreno__TM__840-1778965289.json"
-  },
-  {
-    "game": "Counter-Strike_2",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1778965049,
-    "filename": "Counter-Strike_2-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1778965049.json"
   }
 ]
