@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1778942935,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2004J19C-Mali-G52-1778942935.json"
+  },
+  {
     "game": "Hollow_Knight",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1778927957,
     "filename": "Far_Cry__5-Xiaomi-25053PC47G-Adreno__TM__825-1778927957.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "CPH2609",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778926926,
-    "filename": "Tomb_Raider-OnePlus-CPH2609-Adreno__TM__740-1778926926.json"
   }
 ]
