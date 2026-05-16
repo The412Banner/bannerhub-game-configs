@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "_2024",
+    "device": "Adreno__TM__710",
+    "timestamp": 1778934379,
+    "filename": "Tomb_Raider-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1778934379.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1778912640,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1778912640.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1778912252,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23049PCD8G-Adreno__TM__725-1778912252.json"
   }
 ]
