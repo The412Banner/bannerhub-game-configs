@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_Challenge_Online",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1778964525,
+    "filename": "F1_Challenge_Online-samsung-SM-A065M-Mali-G52_MC2-1778964525.json"
+  },
+  {
     "game": "Until_Then",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1778942235,
     "filename": "Hollow_Knight-Xiaomi-25069PTEBG-Mali-G720_MC7-1778942235.json"
-  },
-  {
-    "game": "Resident_Evil_5_Gold_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1778941736,
-    "filename": "Resident_Evil_5_Gold_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1778941736.json"
   }
 ]
