@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Island_Definitive_Edition",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779031656,
+    "filename": "Dead_Island_Definitive_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779031656.json"
+  },
+  {
     "game": "Dead_or_Alive_5__Last_Round",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1779021742,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1779021742.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779021685,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1779021685.json"
   }
 ]
