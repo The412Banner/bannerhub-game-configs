@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "M515F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1779055412,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M515F-Adreno__TM__618-1779055412.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1779055255,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779048952,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-ayn-Odin3-Adreno__TM__830-1779048952.json"
-  },
-  {
-    "game": "DRAGON_BALL_Z__KAKAROT",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779048942,
-    "filename": "DRAGON_BALL_Z__KAKAROT-ayn-Odin3-Adreno__TM__830-1779048942.json"
   }
 ]
