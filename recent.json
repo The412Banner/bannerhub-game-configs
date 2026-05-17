@@ -1,5 +1,12 @@
 [
   {
+    "game": "Terraria",
+    "manufacturer": "S921B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1779036367,
+    "filename": "Terraria-samsung-SM-S921B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1779036367.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "24117RK2CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1779023484,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1779023484.json"
-  },
-  {
-    "game": "advmenu",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779023410,
-    "filename": "advmenu-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779023410.json"
   }
 ]
