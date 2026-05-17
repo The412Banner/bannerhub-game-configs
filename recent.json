@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stray",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1779010311,
+    "filename": "Stray-Xiaomi-2511FPC34G-Mali-G720_MC8-1779010311.json"
+  },
+  {
     "game": "Hades",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1778987604,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-INFINIX-Infinix_X6876-Mali-G615_MC2-1778987604.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778987283,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1778987283.json"
   }
 ]
