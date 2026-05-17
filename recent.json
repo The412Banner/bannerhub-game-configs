@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sifu",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1779003608,
+    "filename": "Sifu-Xiaomi-25080RABDG-Mali-G615_MC2-1779003608.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778982287,
     "filename": "eFootball_-nubia-NX799J-Adreno__TM__830-1778982287.json"
-  },
-  {
-    "game": "eFootball_",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778982273,
-    "filename": "eFootball_-nubia-NX799J-Adreno__TM__830-1778982273.json"
   }
 ]
