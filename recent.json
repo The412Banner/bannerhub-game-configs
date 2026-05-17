@@ -1,5 +1,12 @@
 [
   {
+    "game": "advmenu",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779023410,
+    "filename": "advmenu-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779023410.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779014808,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24018RPACG-Adreno__TM__740-1779014808.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779013946,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-realme-RMX5111-Mali-G57_MC2-1779013946.json"
   }
 ]
