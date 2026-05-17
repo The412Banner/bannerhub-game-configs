@@ -1,5 +1,12 @@
 [
   {
+    "game": "MONSTER_HUNTER_RISE",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779045852,
+    "filename": "MONSTER_HUNTER_RISE-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1779045852.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1779038871,
     "filename": "Pro_Evolution_Soccer_2013-TCL-T509K-PowerVR_Rogue_GE8320-1779038871.json"
-  },
-  {
-    "game": "AVGame",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779038483,
-    "filename": "AVGame-unknown-GammaOS_Full-Mali-G57-1779038483.json"
   }
 ]
