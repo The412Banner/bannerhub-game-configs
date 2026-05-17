@@ -1,5 +1,12 @@
 [
   {
+    "game": "xenia_edge",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779019252,
+    "filename": "xenia_edge-ayn-Odin3-Adreno__TM__830-1779019252.json"
+  },
+  {
     "game": "Assassin_s_Creed_Mirage",
     "manufacturer": "25053PC47I",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779004026,
     "filename": "Subnautica-ayn-Odin3-Adreno__TM__830-1779004026.json"
-  },
-  {
-    "game": "Sifu",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1779003608,
-    "filename": "Sifu-Xiaomi-25080RABDG-Mali-G615_MC2-1779003608.json"
   }
 ]
