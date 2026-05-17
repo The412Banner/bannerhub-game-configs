@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_2",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779026934,
+    "filename": "Just_Cause_2-AYN-Odin2-Adreno__TM__740-1779026934.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779019252,
     "filename": "xenia_edge-ayn-Odin3-Adreno__TM__830-1779019252.json"
-  },
-  {
-    "game": "Assassin_s_Creed_Mirage",
-    "manufacturer": "25053PC47I",
-    "device": "Adreno__TM__825",
-    "timestamp": 1779019183,
-    "filename": "Assassin_s_Creed_Mirage-Xiaomi-25053PC47I-Adreno__TM__825-1779019183.json"
   }
 ]
