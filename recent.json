@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779010155,
+    "filename": "Hades-INFINIX-Infinix_X6873-Mali-G615_MC6-1779010155.json"
+  },
+  {
     "game": "Prototype_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1778987283,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1778987283.json"
-  },
-  {
-    "game": "The_Crew__2",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1778986600,
-    "filename": "The_Crew__2-AYN-Odin2_Portal-Adreno__TM__740-1778986600.json"
   }
 ]
