@@ -1,5 +1,12 @@
 [
   {
+    "game": "DP",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779051298,
+    "filename": "DP-ayn-Odin3-Adreno__TM__830-1779051298.json"
+  },
+  {
     "game": "Monster_Hunter__World",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779046293,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409BRN2CL-Mali-G52_MC2-1779046293.json"
-  },
-  {
-    "game": "PES_13",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779046160,
-    "filename": "PES_13-Xiaomi-23100RN82L-Mali-G52_MC2-1779046160.json"
   }
 ]
