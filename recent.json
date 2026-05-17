@@ -1,5 +1,12 @@
 [
   {
+    "game": "Monster_Hunter__World",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779051106,
+    "filename": "Monster_Hunter__World-AYN-AYN_Thor-Adreno__TM__740-1779051106.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "moto_g_100_",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779046160,
     "filename": "PES_13-Xiaomi-23100RN82L-Mali-G52_MC2-1779046160.json"
-  },
-  {
-    "game": "PES_13",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779046119,
-    "filename": "PES_13-Xiaomi-23100RN82L-Mali-G52_MC2-1779046119.json"
   }
 ]
