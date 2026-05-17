@@ -1,5 +1,12 @@
 [
   {
+    "game": "pes_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779024865,
+    "filename": "pes_2013-Xiaomi-2201117SG-Mali-G57_MC2-1779024865.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Maleoon_910",
     "timestamp": 1779018015,
     "filename": "Hollow_Knight__Silksong-HUAWEI-TGR-W09-Maleoon_910-1779018015.json"
-  },
-  {
-    "game": "GTA_V_Language_Changer",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779017557,
-    "filename": "GTA_V_Language_Changer-TECNO-TECNO_BG6-Mali-G57-1779017557.json"
   }
 ]
