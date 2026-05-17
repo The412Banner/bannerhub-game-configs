@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779053886,
+    "filename": "Tomb_Raider-AYN-Odin2_Portal-Adreno__TM__740-1779053886.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779048924,
     "filename": "Need_for_Speed__Most_Wanted-ayn-Odin3-Adreno__TM__830-1779048924.json"
-  },
-  {
-    "game": "BZ2",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779048349,
-    "filename": "BZ2-AYANEO-Pocket_FIT-Adreno__TM__750-1779048349.json"
   }
 ]
