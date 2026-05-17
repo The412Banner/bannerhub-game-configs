@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_13",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779046119,
+    "filename": "PES_13-Xiaomi-23100RN82L-Mali-G52_MC2-1779046119.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779039228,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_60_pro-Mali-G615_MC6-1779039228.json"
-  },
-  {
-    "game": "GTA_V_Language_Changer",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779038889,
-    "filename": "GTA_V_Language_Changer-TECNO-TECNO_BG6-Mali-G57-1779038889.json"
   }
 ]
