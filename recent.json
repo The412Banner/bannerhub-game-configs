@@ -1,5 +1,12 @@
 [
   {
+    "game": "SonicMania",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779051311,
+    "filename": "SonicMania-ayn-Odin3-Adreno__TM__830-1779051311.json"
+  },
+  {
     "game": "DP",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779046421,
     "filename": "The_Elder_Scrolls_V__Skyrim-LENOVO-TB322FC-Adreno__TM__830-1779046421.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779046293,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409BRN2CL-Mali-G52_MC2-1779046293.json"
   }
 ]
