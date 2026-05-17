@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779022719,
+    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2735-Mali-G57_MC2-1779022719.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G78",
     "timestamp": 1779021829,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1779021829.json"
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779013946,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-realme-RMX5111-Mali-G57_MC2-1779013946.json"
-  },
-  {
-    "game": "Stray",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1779010311,
-    "filename": "Stray-Xiaomi-2511FPC34G-Mali-G720_MC8-1779010311.json"
   }
 ]
