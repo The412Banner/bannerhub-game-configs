@@ -1,5 +1,12 @@
 [
   {
+    "game": "AC3SP",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779007514,
+    "filename": "AC3SP-AYN-Odin2_Portal-Adreno__TM__740-1779007514.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1778985886,
     "filename": "DmC__Devil_May_Cry-OPPO-CPH1919-Adreno__TM__640-1778985886.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "25091RP04G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1778985576,
-    "filename": "Resident_Evil_6-Xiaomi-25091RP04G-Adreno__TM__830-1778985576.json"
   }
 ]
