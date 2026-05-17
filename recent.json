@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1779060987,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23049PCD8G-Adreno__TM__725-1779060987.json"
+  },
+  {
     "game": "Launcher",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1779052581,
     "filename": "Need_for_Speed_9-motorola-moto_g86_5G-Mali-G615_MC2-1779052581.json"
-  },
-  {
-    "game": "Lesta_Game_Center___________________________________________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779052316,
-    "filename": "Lesta_Game_Center___________________________________________-TECNO-TECNO_LJ6-Mali-G57_MC2-1779052316.json"
   }
 ]
