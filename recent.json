@@ -1,5 +1,12 @@
 [
   {
+    "game": "TRIANGLE_STRATEGY",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779027563,
+    "filename": "TRIANGLE_STRATEGY-LENOVO-TB322FC-Adreno__TM__830-1779027563.json"
+  },
+  {
     "game": "Just_Cause_2",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__616",
     "timestamp": 1779020493,
     "filename": "Euro_Truck_Simulator_2-realme-RMX1971-Adreno__TM__616-1779020493.json"
-  },
-  {
-    "game": "xenia_edge",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779019252,
-    "filename": "xenia_edge-ayn-Odin3-Adreno__TM__830-1779019252.json"
   }
 ]
