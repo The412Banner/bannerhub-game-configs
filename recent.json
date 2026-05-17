@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "24117RK2CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779033954,
+    "filename": "Sleeping_Dogs-Xiaomi-24117RK2CG-Adreno__TM__750-1779033954.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779023410,
     "filename": "advmenu-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779023410.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779022719,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2735-Mali-G57_MC2-1779022719.json"
   }
 ]
