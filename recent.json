@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779003186,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A366E-Adreno__TM__710-1779003186.json"
+  },
+  {
     "game": "The_Elder_Scrolls_V__Skyrim_Special_Edition",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778982273,
     "filename": "eFootball_-nubia-NX799J-Adreno__TM__830-1778982273.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1778981823,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23129RA5FL-Adreno__TM__610-1778981823.json"
   }
 ]
