@@ -1,5 +1,12 @@
 [
   {
+    "game": "DeadIslandRiptideDE",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779053453,
+    "filename": "DeadIslandRiptideDE-AYN-Odin2_Portal-Adreno__TM__740-1779053453.json"
+  },
+  {
     "game": "Need_for_Speed__Hot_Pursuit_",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779048211,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_2024-Adreno__TM__710-1779048211.json"
-  },
-  {
-    "game": "God_Of_War",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779048202,
-    "filename": "God_Of_War-Xiaomi-24117RK2CG-Adreno__TM__750-1779048202.json"
   }
 ]
