@@ -1,5 +1,12 @@
 [
   {
+    "game": "Launcher",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779060583,
+    "filename": "Launcher-samsung-SM-X115-Mali-G57_MC2-1779060583.json"
+  },
+  {
     "game": "BlackOps",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779052316,
     "filename": "Lesta_Game_Center___________________________________________-TECNO-TECNO_LJ6-Mali-G57_MC2-1779052316.json"
-  },
-  {
-    "game": "SonicMania",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779051311,
-    "filename": "SonicMania-ayn-Odin3-Adreno__TM__830-1779051311.json"
   }
 ]
