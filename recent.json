@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G77",
+    "timestamp": 1779045545,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G780F-Mali-G77-1779045545.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779037578,
     "filename": "Pro_Evolution_Soccer_2015-Xiaomi-220333QBI-Adreno__TM__610-1779037578.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779037006,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5303-Mali-G57-1779037006.json"
   }
 ]
