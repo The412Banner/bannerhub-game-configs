@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779039555,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1779039555.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779027563,
     "filename": "TRIANGLE_STRATEGY-LENOVO-TB322FC-Adreno__TM__830-1779027563.json"
-  },
-  {
-    "game": "Just_Cause_2",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779026934,
-    "filename": "Just_Cause_2-AYN-Odin2-Adreno__TM__740-1779026934.json"
   }
 ]
