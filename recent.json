@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_Of_War",
+    "manufacturer": "24117RK2CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779048202,
+    "filename": "God_Of_War-Xiaomi-24117RK2CG-Adreno__TM__750-1779048202.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "motorola_edge_2024",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1779043309,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-motorola_edge_50_ultra-Adreno__TM__735-1779043309.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2661",
-    "device": "Adreno__TM__732",
-    "timestamp": 1779043212,
-    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2661-Adreno__TM__732-1779043212.json"
   }
 ]
