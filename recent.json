@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC__Devil_May_Cry",
+    "manufacturer": "CPH1919",
+    "device": "Adreno__TM__640",
+    "timestamp": 1778985886,
+    "filename": "DmC__Devil_May_Cry-OPPO-CPH1919-Adreno__TM__640-1778985886.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "25091RP04G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778977013,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_10_-Adreno__TM__610-1778977013.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1778975822,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g84_5G-Adreno__TM__619-1778975822.json"
   }
 ]
