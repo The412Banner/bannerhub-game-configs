@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Language_Changer",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779038889,
+    "filename": "GTA_V_Language_Changer-TECNO-TECNO_BG6-Mali-G57-1779038889.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "T509K",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1779024976,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1779024976.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1779024971,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1779024971.json"
   }
 ]
