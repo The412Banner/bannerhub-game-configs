@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779045216,
+    "filename": "BootstrapPackagedGame-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779045216.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779037006,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX5303-Mali-G57-1779037006.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779037001,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5303-Mali-G57-1779037001.json"
   }
 ]
