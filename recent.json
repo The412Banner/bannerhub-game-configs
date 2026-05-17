@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779039228,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_60_pro-Mali-G615_MC6-1779039228.json"
+  },
+  {
     "game": "GTA_V_Language_Changer",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779025091,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1779025091.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1779024976,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1779024976.json"
   }
 ]
