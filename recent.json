@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779007283,
+    "filename": "Grand_Theft_Auto_V_Legacy-AYN-Odin2_Portal-Adreno__TM__740-1779007283.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1779005311,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1778985576,
     "filename": "Resident_Evil_6-Xiaomi-25091RP04G-Adreno__TM__830-1778985576.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1778984423,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1778984423.json"
   }
 ]
