@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1779024971,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1779024971.json"
+  },
+  {
     "game": "pes_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779018998,
     "filename": "Renegade_Ops-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1779018998.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779018807,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1779018807.json"
   }
 ]
