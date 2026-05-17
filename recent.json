@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Elder_Scrolls_V__Skyrim_Special_Edition",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779000738,
+    "filename": "The_Elder_Scrolls_V__Skyrim_Special_Edition-AYN-AYN_Thor-Adreno__TM__740-1779000738.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1778981823,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23129RA5FL-Adreno__TM__610-1778981823.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1778981441,
-    "filename": "TheAmazingSpider-Man-TECNO-TECNO_CN7c-Mali-G615_MC2-1778981441.json"
   }
 ]
