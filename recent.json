@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__2008_",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1779057856,
+    "filename": "Dead_Space__2008_-motorola-moto_g86_5G-Mali-G615_MC2-1779057856.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779051106,
     "filename": "Monster_Hunter__World-AYN-AYN_Thor-Adreno__TM__740-1779051106.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "moto_g_100_",
-    "device": "Adreno__TM__650",
-    "timestamp": 1779051060,
-    "filename": "Mortal_Kombat_Komplete_Edition-motorola-moto_g_100_-Adreno__TM__650-1779051060.json"
   }
 ]
