@@ -3,6 +3,13 @@
     "game": "PES_13",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1779046160,
+    "filename": "PES_13-Xiaomi-23100RN82L-Mali-G52_MC2-1779046160.json"
+  },
+  {
+    "game": "PES_13",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1779046119,
     "filename": "PES_13-Xiaomi-23100RN82L-Mali-G52_MC2-1779046119.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779039273,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6882-Mali-G57_MC2-1779039273.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779039228,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_60_pro-Mali-G615_MC6-1779039228.json"
   }
 ]
