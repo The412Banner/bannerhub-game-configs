@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1779052581,
+    "filename": "Need_for_Speed_9-motorola-moto_g86_5G-Mali-G615_MC2-1779052581.json"
+  },
+  {
     "game": "Lesta_Game_Center___________________________________________",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779047869,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2212ARNC4L-Mali-G52_MC2-1779047869.json"
-  },
-  {
-    "game": "farming_simulator_22_",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779046941,
-    "filename": "farming_simulator_22_-Xiaomi-23113RKC6G-Adreno__TM__740-1779046941.json"
   }
 ]
