@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779057194,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RAA4G-Adreno__TM__610-1779057194.json"
+  },
+  {
     "game": "NBA2K16",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779049049,
     "filename": "Battlefield__Bad_Company_2_Vietnam-Xiaomi-2311DRK48G-Mali-G615_MC6-1779049049.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779049034,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A035M-Mali-G57-1779049034.json"
   }
 ]
