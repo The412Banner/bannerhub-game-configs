@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779019084,
+    "filename": "Need_for_Speed_9-samsung-SM-A155M-Mali-G57_MC2-1779019084.json"
+  },
+  {
     "game": "Renegade_Ops",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779003186,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A366E-Adreno__TM__710-1779003186.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim_Special_Edition",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779000738,
-    "filename": "The_Elder_Scrolls_V__Skyrim_Special_Edition-AYN-AYN_Thor-Adreno__TM__740-1779000738.json"
   }
 ]
