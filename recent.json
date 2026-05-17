@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sonic_Unleashed",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779050226,
+    "filename": "Sonic_Unleashed-ayn-Odin3-Adreno__TM__830-1779050226.json"
+  },
+  {
     "game": "Little_Nightmares",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779045852,
     "filename": "MONSTER_HUNTER_RISE-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1779045852.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779045808,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1779045808.json"
   }
 ]
