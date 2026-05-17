@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779037001,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5303-Mali-G57-1779037001.json"
+  },
+  {
     "game": "Terraria",
     "manufacturer": "S921B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779023947,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1779023947.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S731B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1779023484,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1779023484.json"
   }
 ]
