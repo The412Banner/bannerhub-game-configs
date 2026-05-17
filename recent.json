@@ -1,5 +1,12 @@
 [
   {
+    "game": "launcher",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779062365,
+    "filename": "launcher-Xiaomi-2409BRN2CY-Mali-G52_MC2-1779062365.json"
+  },
+  {
     "game": "DEAD_RISING_",
     "manufacturer": "moto_g200_5G",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779053549,
     "filename": "Left_4_Dead_2-AYN-Odin2_Portal-Adreno__TM__740-1779053549.json"
-  },
-  {
-    "game": "DeadIslandRiptideDE",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779053453,
-    "filename": "DeadIslandRiptideDE-AYN-Odin2_Portal-Adreno__TM__740-1779053453.json"
   }
 ]
