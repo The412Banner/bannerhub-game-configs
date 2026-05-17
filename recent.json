@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1778995960,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5303-Mali-G57-1778995960.json"
+  },
+  {
     "game": "Jujutsu_Kaisen_Phantom_Parade",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1778980942,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1778980942.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778979220,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24116RACCG-Mali-G57_MC2-1778979220.json"
   }
 ]
