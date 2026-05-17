@@ -3,6 +3,13 @@
     "game": "rpcs3",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1778977415,
+    "filename": "rpcs3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778977415.json"
+  },
+  {
+    "game": "rpcs3",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1778977345,
     "filename": "rpcs3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1778977345.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1778967099,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_50_fusion-Adreno__TM__710-1778967099.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1778966402,
-    "filename": "TheAmazingSpider-Man2-samsung-SM-A175F-Mali-G57_MC2-1778966402.json"
   }
 ]
