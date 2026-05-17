@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779057817,
+    "filename": "DRAGON_BALL_FighterZ-Xiaomi-2311DRK48G-Mali-G615_MC6-1779057817.json"
+  },
+  {
     "game": "Dead_Space__2008_",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1779051060,
     "filename": "Mortal_Kombat_Komplete_Edition-motorola-moto_g_100_-Adreno__TM__650-1779051060.json"
-  },
-  {
-    "game": "SpongeBob_SquarePants__Battle_for_Bikini_Bottom_-_Rehydrated",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779050856,
-    "filename": "SpongeBob_SquarePants__Battle_for_Bikini_Bottom_-_Rehydrated-ayn-Odin3-Adreno__TM__830-1779050856.json"
   }
 ]
