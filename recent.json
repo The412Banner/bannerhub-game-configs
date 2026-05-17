@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "T509K",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1779038871,
+    "filename": "Pro_Evolution_Soccer_2013-TCL-T509K-PowerVR_Rogue_GE8320-1779038871.json"
+  },
+  {
     "game": "AVGame",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1779024971,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1779024971.json"
-  },
-  {
-    "game": "pes_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779024874,
-    "filename": "pes_2013-Xiaomi-2201117SG-Mali-G57_MC2-1779024874.json"
   }
 ]
