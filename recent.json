@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stardew_Valley",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779082992,
+    "filename": "Stardew_Valley-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779082992.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779072735,
     "filename": "Need_for_Speed__Payback-nubia-NX769J-Adreno__TM__750-1779072735.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1779072083,
-    "filename": "DRAGON_BALL_FighterZ-motorola-moto_g86_5G-Mali-G615_MC2-1779072083.json"
   }
 ]
