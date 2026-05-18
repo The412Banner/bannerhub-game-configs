@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4_",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779066451,
+    "filename": "Resident_Evil_4_-motorola-moto_g14-Mali-G57-1779066451.json"
+  },
+  {
     "game": "KINGDOM_HEARTS_-HD_1_5_2_5_ReMIX-",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1779055412,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M515F-Adreno__TM__618-1779055412.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779055255,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1779055255.json"
   }
 ]
