@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Odin2_Mini",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779147323,
+    "filename": "Tomb_Raider-AYN-Odin2_Mini-Adreno__TM__740-1779147323.json"
+  },
+  {
     "game": "Unity",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1779139772,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A346M-Mali-G68_MC4-1779139772.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1779139766,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A346M-Mali-G68_MC4-1779139766.json"
   }
 ]
