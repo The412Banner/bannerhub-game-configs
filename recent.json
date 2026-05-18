@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779141286,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X676C-Mali-G57_MC2-1779141286.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1779133980,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-OnePlus-PLC110-Mali-G925-Immortalis_MC12-1779133980.json"
-  },
-  {
-    "game": "BZ2",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779132218,
-    "filename": "BZ2-AYANEO-Pocket_FIT-Adreno__TM__750-1779132218.json"
   }
 ]
