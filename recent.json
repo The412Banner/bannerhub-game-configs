@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Most_Wanted",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1779114004,
+    "filename": "Need_for_Speed__Most_Wanted-Xiaomi-24069PC21G-Adreno__TM__735-1779114004.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779099750,
     "filename": "DP-samsung-SM-A156E-Mali-G57_MC2-1779099750.json"
-  },
-  {
-    "game": "Renegade_Ops",
-    "manufacturer": "Retroid_Pocket_6",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779098264,
-    "filename": "Renegade_Ops-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1779098264.json"
   }
 ]
