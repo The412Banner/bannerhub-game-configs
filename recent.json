@@ -1,5 +1,12 @@
 [
   {
+    "game": "NBA_2K23",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1779115067,
+    "filename": "NBA_2K23-Xiaomi-24069PC21G-Adreno__TM__735-1779115067.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779101493,
     "filename": "Call_of_Duty_2______________________________________________-samsung-SM-A156M-Mali-G57_MC2-1779101493.json"
-  },
-  {
-    "game": "Resident_Evil_Requiem",
-    "manufacturer": "V2408A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779100949,
-    "filename": "Resident_Evil_Requiem-vivo-V2408A-Adreno__TM__830-1779100949.json"
   }
 ]
