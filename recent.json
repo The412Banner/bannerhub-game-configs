@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1779139766,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A346M-Mali-G68_MC4-1779139766.json"
+  },
+  {
     "game": "ReTHAWed",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779128528,
     "filename": "Portal_2-Xiaomi-23124RA7EO-Adreno__TM__610-1779128528.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1779127458,
-    "filename": "God_of_War-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1779127458.json"
   }
 ]
