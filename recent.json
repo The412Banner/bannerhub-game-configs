@@ -1,5 +1,12 @@
 [
   {
+    "game": "Renegade_Ops",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779098264,
+    "filename": "Renegade_Ops-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1779098264.json"
+  },
+  {
     "game": "Revolgear_Zero",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1779085746,
     "filename": "Resident_Evil_6-Xiaomi-24095PCADG-Mali-G615_MC2-1779085746.json"
-  },
-  {
-    "game": "Language_Changer",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779085515,
-    "filename": "Language_Changer-INFINIX-Infinix_X6873-Mali-G615_MC6-1779085515.json"
   }
 ]
