@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1779111955,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1779111955.json"
+  },
+  {
     "game": "_NINJA_GAIDEN__Master_Collection__NINJA_GAIDEN__2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779097685,
     "filename": "F1_2020-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1779097685.json"
-  },
-  {
-    "game": "NEON_INFERNO",
-    "manufacturer": "Retroid_Pocket_6",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779097646,
-    "filename": "NEON_INFERNO-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1779097646.json"
   }
 ]
