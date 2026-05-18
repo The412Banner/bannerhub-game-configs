@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779148793,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1779148793.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "S908W",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779140870,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1779140870.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2014",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779140562,
-    "filename": "Pro_Evolution_Soccer_2014-realme-RMX3760-Mali-G57-1779140562.json"
   }
 ]
