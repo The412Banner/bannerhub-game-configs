@@ -1,5 +1,12 @@
 [
   {
+    "game": "ReTHAWed",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779139245,
+    "filename": "ReTHAWed-AYN-Odin2_Portal-Adreno__TM__740-1779139245.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1779127458,
     "filename": "God_of_War-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1779127458.json"
-  },
-  {
-    "game": "Command_and_Conquer_3_Tiberium_Wars_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779124467,
-    "filename": "Command_and_Conquer_3_Tiberium_Wars_-samsung-SM-X115-Mali-G57_MC2-1779124467.json"
   }
 ]
