@@ -1,5 +1,12 @@
 [
   {
+    "game": "AEWFightForever",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1779137506,
+    "filename": "AEWFightForever-Xiaomi-25053PC47G-Adreno__TM__825-1779137506.json"
+  },
+  {
     "game": "WWE_2K19",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779123171,
     "filename": "DEATH_STRANDING_DIRECTOR_S_CUT-SHARP-SH-51D-Adreno__TM__740-1779123171.json"
-  },
-  {
-    "game": "PlaytimePrototype1006-V2_0_0_Preview",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779123008,
-    "filename": "PlaytimePrototype1006-V2_0_0_Preview-realme-RMX3830-Mali-G57-1779123008.json"
   }
 ]
