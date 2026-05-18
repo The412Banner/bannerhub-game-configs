@@ -1,5 +1,12 @@
 [
   {
+    "game": "Disco_Elysium_-_The_Final_Cut",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779076411,
+    "filename": "Disco_Elysium_-_The_Final_Cut-AYN-AYN_Thor-Adreno__TM__740-1779076411.json"
+  },
+  {
     "game": "MX_bike",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779068872,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03L-Mali-G57-1779068872.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g_8__plus",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779067797,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__plus-Adreno__TM__610-1779067797.json"
   }
 ]
