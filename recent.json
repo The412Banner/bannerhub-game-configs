@@ -1,5 +1,12 @@
 [
   {
+    "game": "KINGDOM_HEARTS_-HD_1_5_2_5_ReMIX-",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779063922,
+    "filename": "KINGDOM_HEARTS_-HD_1_5_2_5_ReMIX--AYN-AYN_Thor-Adreno__TM__740-1779063922.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "G781B",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779055255,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1779055255.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779053886,
-    "filename": "Tomb_Raider-AYN-Odin2_Portal-Adreno__TM__740-1779053886.json"
   }
 ]
