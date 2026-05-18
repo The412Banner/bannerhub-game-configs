@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779146012,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1779146012.json"
+  },
+  {
     "game": "ELDEN_RING",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779137895,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X670-Mali-G57_MC2-1779137895.json"
-  },
-  {
-    "game": "AEWFightForever",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1779137506,
-    "filename": "AEWFightForever-Xiaomi-25053PC47G-Adreno__TM__825-1779137506.json"
   }
 ]
