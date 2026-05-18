@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ultra_Street_Fighter_IV",
+    "manufacturer": "CPH2709",
+    "device": "Adreno__TM__735",
+    "timestamp": 1779120035,
+    "filename": "Ultra_Street_Fighter_IV-OnePlus-CPH2709-Adreno__TM__735-1779120035.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "NX1",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779103953,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04-Mali-G57-1779103953.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779103304,
-    "filename": "DRAGON_BALL_FighterZ-Xiaomi-2311DRK48G-Mali-G615_MC6-1779103304.json"
   }
 ]
