@@ -1,5 +1,12 @@
 [
   {
+    "game": "MX_bike",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779074905,
+    "filename": "MX_bike-motorola-moto_g05-Mali-G52_MC2-1779074905.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779067797,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__plus-Adreno__TM__610-1779067797.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g_8__plus",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779067782,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__plus-Adreno__TM__610-1779067782.json"
   }
 ]
