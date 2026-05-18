@@ -1,5 +1,12 @@
 [
   {
+    "game": "Street_Fighter__6",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779142397,
+    "filename": "Street_Fighter__6-AYN-Odin2_Portal-Adreno__TM__740-1779142397.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779135104,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1779135104.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_6",
-    "manufacturer": "moto_g_30_",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779135056,
-    "filename": "Pro_Evolution_Soccer_6-motorola-moto_g_30_-Adreno__TM__610-1779135056.json"
   }
 ]
