@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779142223,
+    "filename": "Pro_Evolution_Soccer_2017-AYN-AYN_Thor-Adreno__TM__740-1779142223.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779135056,
     "filename": "Pro_Evolution_Soccer_6-motorola-moto_g_30_-Adreno__TM__610-1779135056.json"
-  },
-  {
-    "game": "Left_4_Dead",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1779134788,
-    "filename": "Left_4_Dead-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1779134788.json"
   }
 ]
