@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779071398,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-nubia-Z2465N-Mali-G57-1779071398.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779062365,
     "filename": "launcher-Xiaomi-2409BRN2CY-Mali-G52_MC2-1779062365.json"
-  },
-  {
-    "game": "DEAD_RISING_",
-    "manufacturer": "moto_g200_5G",
-    "device": "Adreno__TM__660",
-    "timestamp": 1779061701,
-    "filename": "DEAD_RISING_-motorola-moto_g200_5G-Adreno__TM__660-1779061701.json"
   }
 ]
