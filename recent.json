@@ -1,5 +1,12 @@
 [
   {
+    "game": "_NINJA_GAIDEN__Master_Collection__NINJA_GAIDEN__2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779111110,
+    "filename": "_NINJA_GAIDEN__Master_Collection__NINJA_GAIDEN__2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779111110.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779097646,
     "filename": "NEON_INFERNO-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1779097646.json"
-  },
-  {
-    "game": "Autopatch",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1779097539,
-    "filename": "Autopatch-Xiaomi-220333QPG-Mali-G52-1779097539.json"
   }
 ]
