@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1779072848,
+    "filename": "DRAGON_BALL_FighterZ-motorola-moto_g86_5G-Mali-G615_MC2-1779072848.json"
+  },
+  {
     "game": "Need_for_Speed__Payback",
     "manufacturer": "NX769J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779066451,
     "filename": "Resident_Evil_4_-motorola-moto_g14-Mali-G57-1779066451.json"
-  },
-  {
-    "game": "KINGDOM_HEARTS_-HD_1_5_2_5_ReMIX-",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779063922,
-    "filename": "KINGDOM_HEARTS_-HD_1_5_2_5_ReMIX--AYN-AYN_Thor-Adreno__TM__740-1779063922.json"
   }
 ]
