@@ -1,5 +1,12 @@
 [
   {
+    "game": "Revolgear_Zero",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779097718,
+    "filename": "Revolgear_Zero-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1779097718.json"
+  },
+  {
     "game": "Sky_Force_Anniversary",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779085515,
     "filename": "Language_Changer-INFINIX-Infinix_X6873-Mali-G615_MC6-1779085515.json"
-  },
-  {
-    "game": "Stardew_Valley",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779082992,
-    "filename": "Stardew_Valley-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779082992.json"
   }
 ]
