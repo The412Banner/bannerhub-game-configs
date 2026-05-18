@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779070832,
+    "filename": "God_of_War-INFINIX-Infinix_X6855-Mali-G57_MC2-1779070832.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1779061701,
     "filename": "DEAD_RISING_-motorola-moto_g200_5G-Adreno__TM__660-1779061701.json"
-  },
-  {
-    "game": "DEAD_RISING_",
-    "manufacturer": "moto_g200_5G",
-    "device": "Adreno__TM__660",
-    "timestamp": 1779061696,
-    "filename": "DEAD_RISING_-motorola-moto_g200_5G-Adreno__TM__660-1779061696.json"
   }
 ]
