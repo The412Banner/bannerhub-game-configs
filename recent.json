@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "S908W",
+    "device": "Adreno__TM__730",
+    "timestamp": 1779148185,
+    "filename": "Rise_of_the_Tomb_Raider_-samsung-SM-S908W-Adreno__TM__730-1779148185.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Odin2_Mini",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779140562,
     "filename": "Pro_Evolution_Soccer_2014-realme-RMX3760-Mali-G57-1779140562.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1779139772,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A346M-Mali-G68_MC4-1779139772.json"
   }
 ]
