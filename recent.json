@@ -1,5 +1,12 @@
 [
   {
+    "game": "nfs",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1779080618,
+    "filename": "nfs-motorola-moto_g86_5G-Mali-G615_MC2-1779080618.json"
+  },
+  {
     "game": "Borderlands_2",
     "manufacturer": "NX789S_V1B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1779071451,
     "filename": "DRAGON_BALL_FighterZ-motorola-moto_g86_5G-Mali-G615_MC2-1779071451.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779071398,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-nubia-Z2465N-Mali-G57-1779071398.json"
   }
 ]
