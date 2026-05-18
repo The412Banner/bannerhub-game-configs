@@ -1,5 +1,12 @@
 [
   {
+    "game": "Darksiders_Genesis",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1779130232,
+    "filename": "Darksiders_Genesis-motorola-moto_g84_5G-Adreno__TM__619-1779130232.json"
+  },
+  {
     "game": "Command___Conquer__Red_Alert__3",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1779116253,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-M2012K11AG-Adreno__TM__650-1779116253.json"
-  },
-  {
-    "game": "NBA_2K23",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1779115067,
-    "filename": "NBA_2K23-Xiaomi-24069PC21G-Adreno__TM__735-1779115067.json"
   }
 ]
