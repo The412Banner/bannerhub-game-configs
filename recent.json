@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3___________________________________________________",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779076959,
+    "filename": "Far_Cry_3___________________________________________________-Xiaomi-25078RA3EY-Mali-G52_MC2-1779076959.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779069866,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e32-Mali-G57-1779069866.json"
-  },
-  {
-    "game": "SOULCALIBUR_VI",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779069712,
-    "filename": "SOULCALIBUR_VI-LENOVO-TB321FU-Adreno__TM__750-1779069712.json"
   }
 ]
