@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1779110884,
+    "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-24090RA29G-Mali-G615_MC2-1779110884.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1779097539,
     "filename": "Autopatch-Xiaomi-220333QPG-Mali-G52-1779097539.json"
-  },
-  {
-    "game": "Devil_May_Cry_4_Special_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1779096746,
-    "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-25080RABDG-Mali-G615_MC2-1779096746.json"
   }
 ]
