@@ -1,5 +1,12 @@
 [
   {
+    "game": "BZ2",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779132218,
+    "filename": "BZ2-AYANEO-Pocket_FIT-Adreno__TM__750-1779132218.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1779118133,
     "filename": "iw5sp-Xiaomi-2511FPC34G-Mali-G720_MC8-1779118133.json"
-  },
-  {
-    "game": "My_Life_with_my_syster",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779117513,
-    "filename": "My_Life_with_my_syster-Xiaomi-2406APNFAG-Mali-G615_MC6-1779117513.json"
   }
 ]
