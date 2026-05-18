@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779078914,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779078914.json"
+  },
+  {
     "game": "State_of_Decay_2__Juggernaut_Edition",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779070832,
     "filename": "God_of_War-INFINIX-Infinix_X6855-Mali-G57_MC2-1779070832.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779070654,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e32-Mali-G57-1779070654.json"
   }
 ]
