@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1779085870,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M127F-Mali-G52-1779085870.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779073486,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2404ARN45A-Mali-G52_MC2-1779073486.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1779073195,
-    "filename": "DRAGON_BALL_FighterZ-motorola-moto_g86_5G-Mali-G615_MC2-1779073195.json"
   }
 ]
