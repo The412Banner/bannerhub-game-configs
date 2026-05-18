@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2014",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779140562,
+    "filename": "Pro_Evolution_Soccer_2014-realme-RMX3760-Mali-G57-1779140562.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779129178,
     "filename": "Command___Conquer__Red_Alert__3-Anbernic-RG_406H-Mali-G57-1779129178.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779129147,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25040RP0AG-Mali-G57_MC2-1779129147.json"
   }
 ]
