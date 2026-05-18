@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__Primal",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1779137468,
+    "filename": "Far_Cry__Primal-Xiaomi-25053PC47G-Adreno__TM__825-1779137468.json"
+  },
+  {
     "game": "Roblox_Bootstrapper",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1779121529,
     "filename": "Yakuza_0-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1779121529.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1779121097,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M127F-Mali-G52-1779121097.json"
   }
 ]
