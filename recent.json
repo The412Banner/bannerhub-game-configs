@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1779085746,
+    "filename": "Resident_Evil_6-Xiaomi-24095PCADG-Mali-G615_MC2-1779085746.json"
+  },
+  {
     "game": "Language_Changer",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1779073195,
     "filename": "DRAGON_BALL_FighterZ-motorola-moto_g86_5G-Mali-G615_MC2-1779073195.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1779072848,
-    "filename": "DRAGON_BALL_FighterZ-motorola-moto_g86_5G-Mali-G615_MC2-1779072848.json"
   }
 ]
