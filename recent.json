@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779076936,
+    "filename": "Far_Cry_3-Xiaomi-25078RA3EY-Mali-G52_MC2-1779076936.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779069712,
     "filename": "SOULCALIBUR_VI-LENOVO-TB321FU-Adreno__TM__750-1779069712.json"
-  },
-  {
-    "game": "Subnautica",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779069535,
-    "filename": "Subnautica-samsung-SM-A075M-Mali-G57_MC2-1779069535.json"
   }
 ]
