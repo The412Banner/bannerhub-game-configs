@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1779119552,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A127M-Mali-G52-1779119552.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1779118932,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e32-Mali-G57-1779118932.json"
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779102040,
     "filename": "________-INFINIX-Infinix_X6873-Mali-G615_MC6-1779102040.json"
-  },
-  {
-    "game": "My_Friend_Pedro_-_Blood_Bullets_Bananas",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1779101848,
-    "filename": "My_Friend_Pedro_-_Blood_Bullets_Bananas-Xiaomi-21061110AG-Mali-G77_MC9-1779101848.json"
   }
 ]
