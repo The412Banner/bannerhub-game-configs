@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779135104,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1779135104.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_6",
     "manufacturer": "moto_g_30_",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1779120035,
     "filename": "Ultra_Street_Fighter_IV-OnePlus-CPH2709-Adreno__TM__735-1779120035.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__619",
-    "timestamp": 1779119758,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HONOR-RMO-NX1-Adreno__TM__619-1779119758.json"
   }
 ]
