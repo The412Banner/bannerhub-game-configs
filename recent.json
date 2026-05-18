@@ -1,5 +1,12 @@
 [
   {
+    "game": "State_of_Decay_2__Juggernaut_Edition",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779078050,
+    "filename": "State_of_Decay_2__Juggernaut_Edition-Xiaomi-23021RAAEG-Adreno__TM__610-1779078050.json"
+  },
+  {
     "game": "NBA_2K23",
     "manufacturer": "V2520A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779070654,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e32-Mali-G57-1779070654.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779070558,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1779070558.json"
   }
 ]
