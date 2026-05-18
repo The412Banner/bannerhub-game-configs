@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779062767,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CL-Mali-G52_MC2-1779062767.json"
+  },
+  {
     "game": "launcher",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779053732,
     "filename": "Sleeping_Dogs-AYN-Odin2_Portal-Adreno__TM__740-1779053732.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779053549,
-    "filename": "Left_4_Dead_2-AYN-Odin2_Portal-Adreno__TM__740-1779053549.json"
   }
 ]
