@@ -1,5 +1,12 @@
 [
   {
+    "game": "My_Life_with_my_syster",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779117513,
+    "filename": "My_Life_with_my_syster-Xiaomi-2406APNFAG-Mali-G615_MC6-1779117513.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779101744,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2311DRK48G-Mali-G615_MC6-1779101744.json"
-  },
-  {
-    "game": "Mafia__Definitive_Edition",
-    "manufacturer": "S931B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779101503,
-    "filename": "Mafia__Definitive_Edition-samsung-SM-S931B-Adreno__TM__830-1779101503.json"
   }
 ]
