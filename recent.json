@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "2109119DG",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1779069952,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2109119DG-Adreno__TM__642L-1779069952.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1779069866,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779060583,
     "filename": "Launcher-samsung-SM-X115-Mali-G57_MC2-1779060583.json"
-  },
-  {
-    "game": "BlackOps",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1779061090,
-    "filename": "BlackOps-Xiaomi-M2012K11AG-Adreno__TM__650-1779061090.json"
   }
 ]
