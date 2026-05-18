@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1779071451,
+    "filename": "DRAGON_BALL_FighterZ-motorola-moto_g86_5G-Mali-G615_MC2-1779071451.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779062767,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CL-Mali-G52_MC2-1779062767.json"
-  },
-  {
-    "game": "launcher",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779062365,
-    "filename": "launcher-Xiaomi-2409BRN2CY-Mali-G52_MC2-1779062365.json"
   }
 ]
