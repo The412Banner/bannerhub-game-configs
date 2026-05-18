@@ -1,5 +1,12 @@
 [
   {
+    "game": "DP",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779099750,
+    "filename": "DP-samsung-SM-A156E-Mali-G57_MC2-1779099750.json"
+  },
+  {
     "game": "Renegade_Ops",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1779085870,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M127F-Mali-G52-1779085870.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1779085746,
-    "filename": "Resident_Evil_6-Xiaomi-24095PCADG-Mali-G615_MC2-1779085746.json"
   }
 ]
