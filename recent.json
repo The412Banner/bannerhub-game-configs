@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2020",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779097685,
+    "filename": "F1_2020-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1779097685.json"
+  },
+  {
     "game": "NEON_INFERNO",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779081436,
     "filename": "Cuphead-Xiaomi-2410FPCC5G-Mali-G52_MC2-1779081436.json"
-  },
-  {
-    "game": "nfs",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1779080618,
-    "filename": "nfs-motorola-moto_g86_5G-Mali-G615_MC2-1779080618.json"
   }
 ]
