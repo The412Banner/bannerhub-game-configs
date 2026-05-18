@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Requiem",
+    "manufacturer": "V2408A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779100949,
+    "filename": "Resident_Evil_Requiem-vivo-V2408A-Adreno__TM__830-1779100949.json"
+  },
+  {
     "game": "DP",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__644",
     "timestamp": 1779086959,
     "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-M556B-Adreno__TM__644-1779086959.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1779085870,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M127F-Mali-G52-1779085870.json"
   }
 ]
