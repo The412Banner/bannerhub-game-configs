@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779103953,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04-Mali-G57-1779103953.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779095255,
     "filename": "Warcraft___Frozen_Throne-AYN-Odin2-Adreno__TM__740-1779095255.json"
-  },
-  {
-    "game": "Warcraft___Frozen_Throne",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779094901,
-    "filename": "Warcraft___Frozen_Throne-AYN-Odin2-Adreno__TM__740-1779094901.json"
   }
 ]
