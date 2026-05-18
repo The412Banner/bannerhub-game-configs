@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779140870,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1779140870.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2014",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1779130232,
     "filename": "Darksiders_Genesis-motorola-moto_g84_5G-Adreno__TM__619-1779130232.json"
-  },
-  {
-    "game": "Command___Conquer__Red_Alert__3",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779129178,
-    "filename": "Command___Conquer__Red_Alert__3-Anbernic-RG_406H-Mali-G57-1779129178.json"
   }
 ]
