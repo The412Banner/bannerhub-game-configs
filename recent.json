@@ -1,5 +1,12 @@
 [
   {
+    "game": "NBA_2K23",
+    "manufacturer": "V2520A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779077315,
+    "filename": "NBA_2K23-vivo-V2520A-Adreno__TM__830-1779077315.json"
+  },
+  {
     "game": "Far_Cry_3___________________________________________________",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779070558,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1779070558.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "motorola_edge_50_pro",
-    "device": "Adreno__TM__720",
-    "timestamp": 1779070037,
-    "filename": "Tomb_Raider-motorola-motorola_edge_50_pro-Adreno__TM__720-1779070037.json"
   }
 ]
