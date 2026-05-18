@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013_-_Real_Patch_26",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779144277,
+    "filename": "Pro_Evolution_Soccer_2013_-_Real_Patch_26-AYN-AYN_Thor-Adreno__TM__740-1779144277.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A042M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779136325,
     "filename": "Marvel_s_Spider-Man__Miles_Morales-Xiaomi-25053PC47G-Adreno__TM__825-1779136325.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779135646,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1779135646.json"
   }
 ]
