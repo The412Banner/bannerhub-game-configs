@@ -1,5 +1,12 @@
 [
   {
+    "game": "Command___Conquer__Red_Alert__3",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779129178,
+    "filename": "Command___Conquer__Red_Alert__3-Anbernic-RG_406H-Mali-G57-1779129178.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1779115067,
     "filename": "NBA_2K23-Xiaomi-24069PC21G-Adreno__TM__735-1779115067.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779114471,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e32-Mali-G57-1779114471.json"
   }
 ]
