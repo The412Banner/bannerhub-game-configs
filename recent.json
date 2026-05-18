@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3___________________________________________________",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779077116,
+    "filename": "Far_Cry_3___________________________________________________-Xiaomi-25078RA3EY-Mali-G52_MC2-1779077116.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1779070037,
     "filename": "Tomb_Raider-motorola-motorola_edge_50_pro-Adreno__TM__720-1779070037.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2109119DG",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1779069952,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2109119DG-Adreno__TM__642L-1779069952.json"
   }
 ]
