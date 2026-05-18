@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1779116253,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-M2012K11AG-Adreno__TM__650-1779116253.json"
+  },
+  {
     "game": "NBA_2K23",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779101503,
     "filename": "Mafia__Definitive_Edition-samsung-SM-S931B-Adreno__TM__830-1779101503.json"
-  },
-  {
-    "game": "Call_of_Duty_2______________________________________________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779101493,
-    "filename": "Call_of_Duty_2______________________________________________-samsung-SM-A156M-Mali-G57_MC2-1779101493.json"
   }
 ]
