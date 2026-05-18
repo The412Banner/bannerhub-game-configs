@@ -1,5 +1,12 @@
 [
   {
+    "game": "Borderlands__Game_of_the_Year_Edition",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779089784,
+    "filename": "Borderlands__Game_of_the_Year_Edition-nubia-NX789S_V1B-Adreno__TM__830-1779089784.json"
+  },
+  {
     "game": "Bright_Memory",
     "manufacturer": "22101320G",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779076411,
     "filename": "Disco_Elysium_-_The_Final_Cut-AYN-AYN_Thor-Adreno__TM__740-1779076411.json"
-  },
-  {
-    "game": "MX_bike",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779074905,
-    "filename": "MX_bike-motorola-moto_g05-Mali-G52_MC2-1779074905.json"
   }
 ]
