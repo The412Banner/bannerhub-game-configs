@@ -1,5 +1,12 @@
 [
   {
+    "game": "Subnautica",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779069535,
+    "filename": "Subnautica-samsung-SM-A075M-Mali-G57_MC2-1779069535.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1779057856,
     "filename": "Dead_Space__2008_-motorola-moto_g86_5G-Mali-G615_MC2-1779057856.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779057817,
-    "filename": "DRAGON_BALL_FighterZ-Xiaomi-2311DRK48G-Mali-G615_MC6-1779057817.json"
   }
 ]
