@@ -1,5 +1,12 @@
 [
   {
+    "game": "Autopatch",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1779097539,
+    "filename": "Autopatch-Xiaomi-220333QPG-Mali-G52-1779097539.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779080218,
     "filename": "Borderlands_2-nubia-NX789S_V1B-Adreno__TM__830-1779080218.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779078914,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779078914.json"
   }
 ]
