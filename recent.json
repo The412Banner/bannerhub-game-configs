@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779069866,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e32-Mali-G57-1779069866.json"
+  },
+  {
     "game": "SOULCALIBUR_VI",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1779061090,
     "filename": "BlackOps-Xiaomi-M2012K11AG-Adreno__TM__650-1779061090.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779059222,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1779059222.json"
   }
 ]
