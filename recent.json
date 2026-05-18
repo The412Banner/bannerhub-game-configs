@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Village",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779105110,
+    "filename": "Resident_Evil_Village-AYN-Odin2_Portal-Adreno__TM__740-1779105110.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779096520,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779096520.json"
-  },
-  {
-    "game": "Warcraft___Frozen_Throne",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779095255,
-    "filename": "Warcraft___Frozen_Throne-AYN-Odin2-Adreno__TM__740-1779095255.json"
   }
 ]
