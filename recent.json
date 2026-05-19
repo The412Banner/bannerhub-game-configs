@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1779206906,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G991B-Mali-G78-1779206906.json"
+  },
+  {
     "game": "Spyro__Reignited_Trilogy",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779201192,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A156M-Mali-G57_MC2-1779201192.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779201189,
-    "filename": "Euro_Truck_Simulator_2-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779201189.json"
   }
 ]
