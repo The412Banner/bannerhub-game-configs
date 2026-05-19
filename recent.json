@@ -1,5 +1,12 @@
 [
   {
+    "game": "RiotClient",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779196088,
+    "filename": "RiotClient-Xiaomi-2312DRA50G-Adreno__TM__710-1779196088.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "24117RK2CC",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779174149,
     "filename": "Resident_Evil_3-Xiaomi-25053PC47G-Adreno__TM__825-1779174149.json"
-  },
-  {
-    "game": "DRAGON_BALL_Sparking__ZERO",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1779173321,
-    "filename": "DRAGON_BALL_Sparking__ZERO-OPPO-PLB110-Mali-G925-Immortalis_MC12-1779173321.json"
   }
 ]
