@@ -1,5 +1,12 @@
 [
   {
+    "game": "Anger_Foot",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779202021,
+    "filename": "Anger_Foot-ayn-Odin3-Adreno__TM__830-1779202021.json"
+  },
+  {
     "game": "BioShock_",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779188662,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2410FPCC5G-Mali-G52_MC2-1779188662.json"
-  },
-  {
-    "game": "G-Force",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779187973,
-    "filename": "G-Force-Xiaomi-2311DRK48G-Mali-G615_MC6-1779187973.json"
   }
 ]
