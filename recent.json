@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__3",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779170779,
+    "filename": "Dead_Space__3-nubia-Z2464N-Mali-G57-1779170779.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "220333QBI",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1779155128,
     "filename": "GoW-nubia-NX809J-Adreno__TM__840-1779155128.json"
-  },
-  {
-    "game": "Life_is_Strange_2",
-    "manufacturer": "A366E",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779150793,
-    "filename": "Life_is_Strange_2-samsung-SM-A366E-Adreno__TM__710-1779150793.json"
   }
 ]
