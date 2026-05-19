@@ -3,6 +3,13 @@
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G52",
+    "timestamp": 1779168413,
+    "filename": "PlayGTAV-HUAWEI-JNY-LX2-Mali-G52-1779168413.json"
+  },
+  {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G52",
     "timestamp": 1779168309,
     "filename": "PlayGTAV-HUAWEI-JNY-LX2-Mali-G52-1779168309.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779150248,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779150248.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779148793,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1779148793.json"
   }
 ]
