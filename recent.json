@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mirror_s_Edge",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779202008,
+    "filename": "Mirror_s_Edge-ayn-Odin3-Adreno__TM__830-1779202008.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779187123,
     "filename": "The_Saboteur_-ayn-Odin3-Adreno__TM__830-1779187123.json"
-  },
-  {
-    "game": "Black_Myth__Wukong",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779183280,
-    "filename": "Black_Myth__Wukong-motorola-moto_g35_5G-Mali-G57-1779183280.json"
   }
 ]
