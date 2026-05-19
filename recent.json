@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4_Chainsaw_Demo",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1779163976,
+    "filename": "Resident_Evil_4_Chainsaw_Demo-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1779163976.json"
+  },
+  {
     "game": "The_Sims__4",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779146012,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1779146012.json"
-  },
-  {
-    "game": "ELDEN_RING",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1779145074,
-    "filename": "ELDEN_RING-nubia-NX809J-Adreno__TM__840-1779145074.json"
   }
 ]
