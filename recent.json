@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1779207966,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G991B-Mali-G78-1779207966.json"
+  },
+  {
     "game": "XCOM__Chimera_Squad",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779202069,
     "filename": "Saint_s_row_2-ayn-Odin3-Adreno__TM__830-1779202069.json"
-  },
-  {
-    "game": "FINAL_FANTASY_XIV_Online_Free_Trial",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1779202034,
-    "filename": "FINAL_FANTASY_XIV_Online_Free_Trial-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1779202034.json"
   }
 ]
