@@ -1,5 +1,12 @@
 [
   {
+    "game": "Launcher",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779202483,
+    "filename": "Launcher-INFINIX-Infinix_X6728-Mali-G52_MC2-1779202483.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "23013RK75C",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1779190431,
     "filename": "ACE_COMBAT__7__SKIES_UNKNOWN-Xiaomi-22021211RG-Adreno__TM__650-1779190431.json"
-  },
-  {
-    "game": "POSTAL_2____________________________________________________",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1779189703,
-    "filename": "POSTAL_2____________________________________________________-OPPO-CPH2603-Mali-G68_MC4-1779189703.json"
   }
 ]
