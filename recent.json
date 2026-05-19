@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1779159221,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A515F-Mali-G72-1779159221.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_5",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779144277,
     "filename": "Pro_Evolution_Soccer_2013_-_Real_Patch_26-AYN-AYN_Thor-Adreno__TM__740-1779144277.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A042M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1779143927,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1779143927.json"
   }
 ]
