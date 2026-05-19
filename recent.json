@@ -1,5 +1,12 @@
 [
   {
+    "game": "G-Force",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779187973,
+    "filename": "G-Force-Xiaomi-2311DRK48G-Mali-G615_MC6-1779187973.json"
+  },
+  {
     "game": "The_Saboteur_",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1779168413,
     "filename": "PlayGTAV-HUAWEI-JNY-LX2-Mali-G52-1779168413.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1779168309,
-    "filename": "PlayGTAV-HUAWEI-JNY-LX2-Mali-G52-1779168309.json"
   }
 ]
