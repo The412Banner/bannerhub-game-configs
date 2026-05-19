@@ -1,5 +1,12 @@
 [
   {
+    "game": "DR2_us",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779234064,
+    "filename": "DR2_us-Xiaomi-2311DRK48G-Mali-G615_MC6-1779234064.json"
+  },
+  {
     "game": "REDlauncher",
     "manufacturer": "motorola_edge_50_ultra",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1779215863,
     "filename": "Cossacks_3-OUKITEL-WP200_Pro-Mali-G610_MC6-1779215863.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779215003,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1779215003.json"
   }
 ]
