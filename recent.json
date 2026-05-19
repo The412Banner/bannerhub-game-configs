@@ -3,6 +3,13 @@
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G615_MC6",
+    "timestamp": 1779205960,
+    "filename": "God_of_War-INFINIX-Infinix_X6873-Mali-G615_MC6-1779205960.json"
+  },
+  {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
     "timestamp": 1779205958,
     "filename": "God_of_War-INFINIX-Infinix_X6873-Mali-G615_MC6-1779205958.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779196088,
     "filename": "RiotClient-Xiaomi-2312DRA50G-Adreno__TM__710-1779196088.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "24117RK2CC",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779195359,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RK2CC-Adreno__TM__750-1779195359.json"
   }
 ]
