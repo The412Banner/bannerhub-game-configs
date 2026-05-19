@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779205943,
+    "filename": "God_of_War-INFINIX-Infinix_X6873-Mali-G615_MC6-1779205943.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1779194131,
     "filename": "Pro_Evolution_Soccer_2017-realme-RMX5000-Mali-G615_MC2-1779194131.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G715",
-    "timestamp": 1779193217,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Google-Pixel_8a-Mali-G715-1779193217.json"
   }
 ]
