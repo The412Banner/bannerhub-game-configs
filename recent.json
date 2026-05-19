@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight_Silksong",
+    "manufacturer": "M145F",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779229497,
+    "filename": "Hollow_Knight_Silksong-samsung-SM-M145F-Adreno__TM__610-1779229497.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1779207966,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G991B-Mali-G78-1779207966.json"
-  },
-  {
-    "game": "XCOM__Chimera_Squad",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779218609,
-    "filename": "XCOM__Chimera_Squad-AYN-AYN_Thor-Adreno__TM__740-1779218609.json"
   }
 ]
