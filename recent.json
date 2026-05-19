@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1779206877,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G991B-Mali-G78-1779206877.json"
+  },
+  {
     "game": "Epic_Online_Services_Bootstrapper",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1779200974,
     "filename": "Mortal_Kombat_X-Xiaomi-24069PC21G-Adreno__TM__735-1779200974.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779200779,
-    "filename": "God_of_War-TECNO-TECNO_LJ9-Mali-G615_MC6-1779200779.json"
   }
 ]
