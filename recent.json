@@ -1,5 +1,12 @@
 [
   {
+    "game": "GoW",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1779155128,
+    "filename": "GoW-nubia-NX809J-Adreno__TM__840-1779155128.json"
+  },
+  {
     "game": "Life_is_Strange_2",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779141315,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X676C-Mali-G57_MC2-1779141315.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779141286,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X676C-Mali-G57_MC2-1779141286.json"
   }
 ]
