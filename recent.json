@@ -3,6 +3,13 @@
     "game": "Left_4_Dead_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1779165148,
+    "filename": "Left_4_Dead_2-Xiaomi-23100RN82L-Mali-G52_MC2-1779165148.json"
+  },
+  {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1779164867,
     "filename": "Left_4_Dead_2-Xiaomi-23100RN82L-Mali-G52_MC2-1779164867.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779147323,
     "filename": "Tomb_Raider-AYN-Odin2_Mini-Adreno__TM__740-1779147323.json"
-  },
-  {
-    "game": "Unity",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1779143394,
-    "filename": "Unity-samsung-SM-A166M-Mali-G68-1779143394.json"
   }
 ]
