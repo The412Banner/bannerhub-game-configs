@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1779168309,
+    "filename": "PlayGTAV-HUAWEI-JNY-LX2-Mali-G52-1779168309.json"
+  },
+  {
     "game": "PES_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779148793,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1779148793.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider_",
-    "manufacturer": "S908W",
-    "device": "Adreno__TM__730",
-    "timestamp": 1779148185,
-    "filename": "Rise_of_the_Tomb_Raider_-samsung-SM-S908W-Adreno__TM__730-1779148185.json"
   }
 ]
