@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779227097,
+    "filename": "Euro_Truck_Simulator_2-motorola-moto_g35_5G-Mali-G57-1779227097.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779218609,
     "filename": "XCOM__Chimera_Squad-AYN-AYN_Thor-Adreno__TM__740-1779218609.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779207619,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1779207619.json"
   }
 ]
