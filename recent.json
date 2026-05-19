@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779221898,
+    "filename": "Resident_Evil_3-AYN-AYN_Thor-Adreno__TM__740-1779221898.json"
+  },
+  {
     "game": "Heatwave",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779203401,
     "filename": "Crash_Bandicoot__N__Sane_Trilogy-AYANEO-Pocket_FIT-Adreno__TM__750-1779203401.json"
-  },
-  {
-    "game": "FC_26__El__ltimo_PES",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779202473,
-    "filename": "FC_26__El__ltimo_PES-Xiaomi-2212ARNC4L-Mali-G52_MC2-1779202473.json"
   }
 ]
