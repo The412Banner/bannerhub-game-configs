@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "M145F",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779230108,
+    "filename": "Hollow_Knight__Silksong-samsung-SM-M145F-Adreno__TM__610-1779230108.json"
+  },
+  {
     "game": "Hollow_Knight_Silksong",
     "manufacturer": "M145F",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779209083,
     "filename": "PRAGMATA-samsung-SM-S928B-Adreno__TM__750-1779209083.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1779207975,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G991B-Mali-G78-1779207975.json"
   }
 ]
