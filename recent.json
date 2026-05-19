@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1779167324,
+    "filename": "PES_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1779167324.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1779148185,
     "filename": "Rise_of_the_Tomb_Raider_-samsung-SM-S908W-Adreno__TM__730-1779148185.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Odin2_Mini",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779147323,
-    "filename": "Tomb_Raider-AYN-Odin2_Mini-Adreno__TM__740-1779147323.json"
   }
 ]
