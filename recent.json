@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1779159412,
+    "filename": "Dead_Space-Xiaomi-25053PC47G-Adreno__TM__825-1779159412.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G72",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779144312,
     "filename": "Pro_Evolution_Soccer_2013-vivo-V2322-Adreno__TM__610-1779144312.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013_-_Real_Patch_26",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779144277,
-    "filename": "Pro_Evolution_Soccer_2013_-_Real_Patch_26-AYN-AYN_Thor-Adreno__TM__740-1779144277.json"
   }
 ]
