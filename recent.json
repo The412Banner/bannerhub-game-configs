@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Requiem",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779215867,
+    "filename": "Resident_Evil_Requiem-nubia-NX799J-Adreno__TM__830-1779215867.json"
+  },
+  {
     "game": "Cossacks_3",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779205960,
     "filename": "God_of_War-INFINIX-Infinix_X6873-Mali-G615_MC6-1779205960.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779205958,
-    "filename": "God_of_War-INFINIX-Infinix_X6873-Mali-G615_MC6-1779205958.json"
   }
 ]
