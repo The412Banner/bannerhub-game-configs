@@ -1,5 +1,12 @@
 [
   {
+    "game": "Black_Myth__Wukong",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779183280,
+    "filename": "Black_Myth__Wukong-motorola-moto_g35_5G-Mali-G57-1779183280.json"
+  },
+  {
     "game": "The_Callisto_Protocol_",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1779167324,
     "filename": "PES_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1779167324.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779165148,
-    "filename": "Left_4_Dead_2-Xiaomi-23100RN82L-Mali-G52_MC2-1779165148.json"
   }
 ]
