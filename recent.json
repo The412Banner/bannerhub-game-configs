@@ -1,5 +1,12 @@
 [
   {
+    "game": "Epic_Online_Services_Bootstrapper",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779206535,
+    "filename": "Epic_Online_Services_Bootstrapper-motorola-moto_g31-Mali-G52_MC2-1779206535.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779197308,
     "filename": "____4___-realme-RMX5090-Adreno__TM__830-1779197308.json"
-  },
-  {
-    "game": "RiotClient",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779196088,
-    "filename": "RiotClient-Xiaomi-2312DRA50G-Adreno__TM__710-1779196088.json"
   }
 ]
