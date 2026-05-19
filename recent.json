@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "G9650",
+    "device": "Adreno__TM__630",
+    "timestamp": 1779218329,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G9650-Adreno__TM__630-1779218329.json"
+  },
+  {
     "game": "oddworld_soulstorm",
     "manufacturer": "Odin2_Mini",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1779206906,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G991B-Mali-G78-1779206906.json"
-  },
-  {
-    "game": "Spyro__Reignited_Trilogy",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779206884,
-    "filename": "Spyro__Reignited_Trilogy-AYANEO-Pocket_FIT-Adreno__TM__750-1779206884.json"
   }
 ]
