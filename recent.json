@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779201192,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A156M-Mali-G57_MC2-1779201192.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779183280,
     "filename": "Black_Myth__Wukong-motorola-moto_g35_5G-Mali-G57-1779183280.json"
-  },
-  {
-    "game": "The_Callisto_Protocol_",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1779182508,
-    "filename": "The_Callisto_Protocol_-vivo-I2405-Adreno__TM__825-1779182508.json"
   }
 ]
