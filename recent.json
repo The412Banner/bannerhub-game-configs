@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779200779,
+    "filename": "God_of_War-TECNO-TECNO_LJ9-Mali-G615_MC6-1779200779.json"
+  },
+  {
     "game": "____4___",
     "manufacturer": "RMX5090",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779178464,
     "filename": "Hitman__Absolution_-Xiaomi-2211133G-Adreno__TM__740-1779178464.json"
-  },
-  {
-    "game": "FINAL_FANTASY_VII_REMAKE_INTERGRADE",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779176621,
-    "filename": "FINAL_FANTASY_VII_REMAKE_INTERGRADE-AYANEO-Pocket_FIT-Adreno__TM__750-1779176621.json"
   }
 ]
