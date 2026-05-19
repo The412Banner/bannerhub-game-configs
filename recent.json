@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779217943,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A055M-Mali-G52_MC2-1779217943.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1779206877,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G991B-Mali-G78-1779206877.json"
-  },
-  {
-    "game": "Epic_Online_Services_Bootstrapper",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779206742,
-    "filename": "Epic_Online_Services_Bootstrapper-motorola-moto_g31-Mali-G52_MC2-1779206742.json"
   }
 ]
