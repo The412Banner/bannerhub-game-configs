@@ -1,5 +1,12 @@
 [
   {
+    "game": "Saints_Row_IV__Re-Elected",
+    "manufacturer": "Redmi_Note_9S",
+    "device": "Adreno__TM__618",
+    "timestamp": 1779233601,
+    "filename": "Saints_Row_IV__Re-Elected-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1779233601.json"
+  },
+  {
     "game": "The_Witcher_3__Wild_Hunt",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779212594,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25097RP43G-Adreno__TM__825-1779212594.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "2211133G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779212390,
-    "filename": "Resident_Evil_4-Xiaomi-2211133G-Adreno__TM__740-1779212390.json"
   }
 ]
