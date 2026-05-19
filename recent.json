@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "G720",
+    "device": "Immortalis_MC12",
+    "timestamp": 1779190577,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2407FRK8EC-Mali-G720-Immortalis_MC12-1779190577.json"
+  },
+  {
     "game": "ACE_COMBAT__7__SKIES_UNKNOWN",
     "manufacturer": "22021211RG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779167800,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TG-Adreno__TM__610-1779167800.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2201117TG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779167583,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TG-Adreno__TM__610-1779167583.json"
   }
 ]
