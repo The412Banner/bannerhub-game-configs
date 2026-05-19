@@ -1,5 +1,12 @@
 [
   {
+    "game": "oddworld_soulstorm",
+    "manufacturer": "Odin2_Mini",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779218323,
+    "filename": "oddworld_soulstorm-AYN-Odin2_Mini-Adreno__TM__740-1779218323.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779206884,
     "filename": "Spyro__Reignited_Trilogy-AYANEO-Pocket_FIT-Adreno__TM__750-1779206884.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1779206877,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G991B-Mali-G78-1779206877.json"
   }
 ]
