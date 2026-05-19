@@ -1,5 +1,12 @@
 [
   {
+    "game": "REDlauncher",
+    "manufacturer": "motorola_edge_50_ultra",
+    "device": "Adreno__TM__735",
+    "timestamp": 1779233662,
+    "filename": "REDlauncher-motorola-motorola_edge_50_ultra-Adreno__TM__735-1779233662.json"
+  },
+  {
     "game": "Saints_Row_IV__Re-Elected",
     "manufacturer": "Redmi_Note_9S",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779215003,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1779215003.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "25097RP43G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1779212594,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25097RP43G-Adreno__TM__825-1779212594.json"
   }
 ]
