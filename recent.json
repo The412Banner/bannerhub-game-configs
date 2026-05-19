@@ -1,5 +1,12 @@
 [
   {
+    "game": "Saint_s_row_2",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779202069,
+    "filename": "Saint_s_row_2-ayn-Odin3-Adreno__TM__830-1779202069.json"
+  },
+  {
     "game": "FINAL_FANTASY_XIV_Online_Free_Trial",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779189167,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779189167.json"
-  },
-  {
-    "game": "Amanda_The_Adventurer",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779188688,
-    "filename": "Amanda_The_Adventurer-TECNO_MOBILE_LIMITED-TECNO_CE7j-Mali-G52_MC2-1779188688.json"
   }
 ]
