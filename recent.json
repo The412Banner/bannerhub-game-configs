@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779207619,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1779207619.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779202021,
     "filename": "Anger_Foot-ayn-Odin3-Adreno__TM__830-1779202021.json"
-  },
-  {
-    "game": "BioShock_",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779202011,
-    "filename": "BioShock_-AYANEO-Pocket_FIT-Adreno__TM__750-1779202011.json"
   }
 ]
