@@ -1,5 +1,12 @@
 [
   {
+    "game": "XCOM__Chimera_Squad",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779218609,
+    "filename": "XCOM__Chimera_Squad-AYN-AYN_Thor-Adreno__TM__740-1779218609.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1779202034,
     "filename": "FINAL_FANTASY_XIV_Online_Free_Trial-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1779202034.json"
-  },
-  {
-    "game": "Anger_Foot",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779202021,
-    "filename": "Anger_Foot-ayn-Odin3-Adreno__TM__830-1779202021.json"
   }
 ]
