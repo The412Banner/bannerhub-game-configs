@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779201189,
+    "filename": "Euro_Truck_Simulator_2-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779201189.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779182508,
     "filename": "The_Callisto_Protocol_-vivo-I2405-Adreno__TM__825-1779182508.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779182447,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2409BRN2CA-Mali-G52_MC2-1779182447.json"
   }
 ]
