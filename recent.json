@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779224216,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6886-Mali-G57_MC2-1779224216.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M526B",
     "device": "Adreno__TM__642L",
     "timestamp": 1779222806,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779207619,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1779207619.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__720",
-    "timestamp": 1779207541,
-    "filename": "Resident_Evil_2-HONOR-DNY-NX9-Adreno__TM__720-1779207541.json"
   }
 ]
