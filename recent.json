@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hitman__Absolution_",
+    "manufacturer": "2211133G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779178464,
+    "filename": "Hitman__Absolution_-Xiaomi-2211133G-Adreno__TM__740-1779178464.json"
+  },
+  {
     "game": "FINAL_FANTASY_VII_REMAKE_INTERGRADE",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779164284,
     "filename": "Left_4_Dead_2-Xiaomi-23100RN82L-Mali-G52_MC2-1779164284.json"
-  },
-  {
-    "game": "Resident_Evil_4_Chainsaw_Demo",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1779163976,
-    "filename": "Resident_Evil_4_Chainsaw_Demo-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1779163976.json"
   }
 ]
