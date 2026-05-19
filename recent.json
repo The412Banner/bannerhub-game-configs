@@ -1,5 +1,12 @@
 [
   {
+    "game": "FC_26__El__ltimo_PES",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779202473,
+    "filename": "FC_26__El__ltimo_PES-Xiaomi-2212ARNC4L-Mali-G52_MC2-1779202473.json"
+  },
+  {
     "game": "Launcher",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1779190577,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2407FRK8EC-Mali-G720-Immortalis_MC12-1779190577.json"
-  },
-  {
-    "game": "ACE_COMBAT__7__SKIES_UNKNOWN",
-    "manufacturer": "22021211RG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1779190431,
-    "filename": "ACE_COMBAT__7__SKIES_UNKNOWN-Xiaomi-22021211RG-Adreno__TM__650-1779190431.json"
   }
 ]
