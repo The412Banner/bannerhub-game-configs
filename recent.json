@@ -1,5 +1,12 @@
 [
   {
+    "game": "Crash_Bandicoot__N__Sane_Trilogy",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779203401,
+    "filename": "Crash_Bandicoot__N__Sane_Trilogy-AYANEO-Pocket_FIT-Adreno__TM__750-1779203401.json"
+  },
+  {
     "game": "FC_26__El__ltimo_PES",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779190722,
     "filename": "Resident_Evil_6-Xiaomi-2211133G-Adreno__TM__740-1779190722.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1779190577,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2407FRK8EC-Mali-G720-Immortalis_MC12-1779190577.json"
   }
 ]
