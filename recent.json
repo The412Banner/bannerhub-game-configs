@@ -3,6 +3,13 @@
     "game": "Left_4_Dead_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1779164867,
+    "filename": "Left_4_Dead_2-Xiaomi-23100RN82L-Mali-G52_MC2-1779164867.json"
+  },
+  {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1779164284,
     "filename": "Left_4_Dead_2-Xiaomi-23100RN82L-Mali-G52_MC2-1779164284.json"
   },
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1779143394,
     "filename": "Unity-samsung-SM-A166M-Mali-G68-1779143394.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g_10_",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779146180,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_10_-Adreno__TM__610-1779146180.json"
   }
 ]
