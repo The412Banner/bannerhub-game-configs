@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "2201117TG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779167458,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TG-Adreno__TM__610-1779167458.json"
+  },
+  {
     "game": "Dead_Space__3",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1779155282,
     "filename": "Fallout_3-samsung-SM-A546E-Mali-G68-1779155282.json"
-  },
-  {
-    "game": "GoW",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1779155128,
-    "filename": "GoW-nubia-NX809J-Adreno__TM__840-1779155128.json"
   }
 ]
