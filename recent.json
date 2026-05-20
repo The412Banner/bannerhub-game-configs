@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779283803,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1779283803.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1779282422,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779256699,
     "filename": "Shockwave_Flash-realme-RMX3890-Adreno__TM__610-1779256699.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S918U1",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779255330,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S918U1-Adreno__TM__740-1779255330.json"
   }
 ]
