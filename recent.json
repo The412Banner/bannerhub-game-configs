@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty_4__Modern_Warfare",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779307833,
+    "filename": "Call_of_Duty_4__Modern_Warfare-ayn-Odin3-Adreno__TM__830-1779307833.json"
+  },
+  {
     "game": "Dead_as_Disco",
     "manufacturer": "NX729J",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779291880,
     "filename": "Backrooms__Escape_Together-Xiaomi-2312DRA50G-Adreno__TM__710-1779291880.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779291811,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779291811.json"
   }
 ]
