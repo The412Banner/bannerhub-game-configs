@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779256768,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23106RN0DA-Mali-G52_MC2-1779256768.json"
+  },
+  {
     "game": "Shockwave_Flash",
     "manufacturer": "RMX3890",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1779240830,
     "filename": "setup-Xiaomi-2107113SG-Adreno__TM__660-1779240830.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779239330,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A065M-Mali-G52_MC2-1779239330.json"
   }
 ]
