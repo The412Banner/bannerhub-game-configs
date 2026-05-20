@@ -1,5 +1,12 @@
 [
   {
+    "game": "State_of_Decay_2__Juggernaut_Edition",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779263918,
+    "filename": "State_of_Decay_2__Juggernaut_Edition-nubia-NX789J-Adreno__TM__830-1779263918.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779243707,
     "filename": "Left_4_Dead-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779243707.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779243231,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04-Mali-G57-1779243231.json"
   }
 ]
