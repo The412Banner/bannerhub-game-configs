@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_7_Biohazard",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779269803,
+    "filename": "Resident_Evil_7_Biohazard-Xiaomi-2311DRK48G-Mali-G615_MC6-1779269803.json"
+  },
+  {
     "game": "setup",
     "manufacturer": "2107113SG",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1779244154,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1779244154.json"
-  },
-  {
-    "game": "Hitman__Absolution_",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1779244147,
-    "filename": "Hitman__Absolution_-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1779244147.json"
   }
 ]
