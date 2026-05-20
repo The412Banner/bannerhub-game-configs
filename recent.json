@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_Contest_of_Champions",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1779257713,
+    "filename": "Marvel_Contest_of_Champions-nubia-NX809J-Adreno__TM__840-1779257713.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779241762,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A225M-Mali-G52_MC2-1779241762.json"
-  },
-  {
-    "game": "setup",
-    "manufacturer": "2107113SG",
-    "device": "Adreno__TM__660",
-    "timestamp": 1779240830,
-    "filename": "setup-Xiaomi-2107113SG-Adreno__TM__660-1779240830.json"
   }
 ]
