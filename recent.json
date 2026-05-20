@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1779295303,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053RT47C-Adreno__TM__825-1779295303.json"
+  },
+  {
     "game": "Hitman__Absolution_",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1779268589,
     "filename": "setup-Xiaomi-2107113SG-Adreno__TM__660-1779268589.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1779266657,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-23043RP34G-Adreno__TM__650-1779266657.json"
   }
 ]
