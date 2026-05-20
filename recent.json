@@ -1,5 +1,12 @@
 [
   {
+    "game": "AssassinsCreedIIGame",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779299924,
+    "filename": "AssassinsCreedIIGame-Xiaomi-2312DRAABC-Mali-G57_MC2-1779299924.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S931B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Maleoon_920C",
     "timestamp": 1779279049,
     "filename": "Grand_Theft_Auto_V-HUAWEI-TXZ-W09-Maleoon_920C-1779279049.json"
-  },
-  {
-    "game": "JUMP_FORCE",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779278003,
-    "filename": "JUMP_FORCE-Xiaomi-24117RK2CG-Adreno__TM__750-1779278003.json"
   }
 ]
