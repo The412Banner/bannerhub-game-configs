@@ -1,5 +1,12 @@
 [
   {
+    "game": "_trashed-1781789066-Granny_2_Enhanced",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779293622,
+    "filename": "_trashed-1781789066-Granny_2_Enhanced-Xiaomi-25028RN03Y-Mali-G57-1779293622.json"
+  },
+  {
     "game": "Little_Nightmares_II",
     "manufacturer": "220333QAG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779263940,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g57_power-Adreno__TM__710-1779263940.json"
-  },
-  {
-    "game": "State_of_Decay_2__Juggernaut_Edition",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779263918,
-    "filename": "State_of_Decay_2__Juggernaut_Edition-nubia-NX789J-Adreno__TM__830-1779263918.json"
   }
 ]
