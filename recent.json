@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779303656,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3760-Mali-G57-1779303656.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2______________________________________",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779281992,
     "filename": "Resident_Evil_4_____________________________________________-samsung-SM-A035F-Mali-G57-1779281992.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779279632,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A325M-Mali-G52_MC2-1779279632.json"
   }
 ]
