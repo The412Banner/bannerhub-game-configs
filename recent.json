@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4_____________________________________________",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779281992,
+    "filename": "Resident_Evil_4_____________________________________________-samsung-SM-A035F-Mali-G57-1779281992.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779253199,
     "filename": "Colin_Mcrae__Dirt_3-samsung-SM-S931B-Adreno__TM__830-1779253199.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "S931B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779253173,
-    "filename": "Mortal_Kombat_Komplete_Edition-samsung-SM-S931B-Adreno__TM__830-1779253173.json"
   }
 ]
