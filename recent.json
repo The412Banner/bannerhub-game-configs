@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup",
+    "manufacturer": "2107113SG",
+    "device": "Adreno__TM__660",
+    "timestamp": 1779268589,
+    "filename": "setup-Xiaomi-2107113SG-Adreno__TM__660-1779268589.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1779244147,
     "filename": "Hitman__Absolution_-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1779244147.json"
-  },
-  {
-    "game": "The_Killing_Antidote",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1779244138,
-    "filename": "The_Killing_Antidote-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1779244138.json"
   }
 ]
