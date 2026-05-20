@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1779266657,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-23043RP34G-Adreno__TM__650-1779266657.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "moto_g57_power",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1779244138,
     "filename": "The_Killing_Antidote-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1779244138.json"
-  },
-  {
-    "game": "The_Killing_Antidote",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1779244131,
-    "filename": "The_Killing_Antidote-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1779244131.json"
   }
 ]
