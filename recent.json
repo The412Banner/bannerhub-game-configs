@@ -1,5 +1,12 @@
 [
   {
+    "game": "MONSTER_HUNTER_RISE",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779303959,
+    "filename": "MONSTER_HUNTER_RISE-Xiaomi-23049PCD8G-Adreno__TM__750-1779303959.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779282422,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1779282422.json"
-  },
-  {
-    "game": "Resident_Evil_4_____________________________________________",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779281992,
-    "filename": "Resident_Evil_4_____________________________________________-samsung-SM-A035F-Mali-G57-1779281992.json"
   }
 ]
