@@ -1,5 +1,12 @@
 [
   {
+    "game": "Jaws",
+    "manufacturer": "S936U",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779316084,
+    "filename": "Jaws-samsung-SM-S936U-Adreno__TM__830-1779316084.json"
+  },
+  {
     "game": "FINAL_FANTASY_XIV_Online_Free_Trial",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779293207,
     "filename": "Little_Nightmares_II-Xiaomi-220333QAG-Adreno__TM__610-1779293207.json"
-  },
-  {
-    "game": "Little_Nightmares_II",
-    "manufacturer": "220333QAG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779293180,
-    "filename": "Little_Nightmares_II-Xiaomi-220333QAG-Adreno__TM__610-1779293180.json"
   }
 ]
