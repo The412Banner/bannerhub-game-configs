@@ -1,5 +1,12 @@
 [
   {
+    "game": "Launcher_Application",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1779311103,
+    "filename": "Launcher_Application-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1779311103.json"
+  },
+  {
     "game": "Call_of_Duty_4__Modern_Warfare",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779292490,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AI-Mali-G720_MC7-1779292490.json"
-  },
-  {
-    "game": "Backrooms__Escape_Together",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779291880,
-    "filename": "Backrooms__Escape_Together-Xiaomi-2312DRA50G-Adreno__TM__710-1779291880.json"
   }
 ]
