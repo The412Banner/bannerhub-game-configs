@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castle_Crashers_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779296521,
+    "filename": "Castle_Crashers_-INFINIX-Infinix_X6731B-Mali-G57_MC2-1779296521.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779274998,
     "filename": "BeamNG_drive-samsung-SM-A065M-Mali-G52_MC2-1779274998.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations",
-    "manufacturer": "25098RA98G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779271729,
-    "filename": "Resident_Evil_Revelations-Xiaomi-25098RA98G-Adreno__TM__710-1779271729.json"
   }
 ]
