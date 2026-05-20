@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1779319044,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1779319044.json"
+  },
+  {
     "game": "FINAL_FANTASY_VII_Steam_Edition",
     "manufacturer": "S936U",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779295303,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053RT47C-Adreno__TM__825-1779295303.json"
-  },
-  {
-    "game": "Hitman__Absolution_",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1779293744,
-    "filename": "Hitman__Absolution_-samsung-SM-A546E-Mali-G68-1779293744.json"
   }
 ]
