@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2______________________________________",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779299989,
+    "filename": "Euro_Truck_Simulator_2______________________________________-reeder-S19_Max_Pro_S_Edge-Mali-G57-1779299989.json"
+  },
+  {
     "game": "AssassinsCreedIIGame",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779279632,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A325M-Mali-G52_MC2-1779279632.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "W09",
-    "device": "Maleoon_920C",
-    "timestamp": 1779279049,
-    "filename": "Grand_Theft_Auto_V-HUAWEI-TXZ-W09-Maleoon_920C-1779279049.json"
   }
 ]
