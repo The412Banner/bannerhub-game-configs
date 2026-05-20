@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assetto_Corsa_Competizione",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1779242321,
+    "filename": "Assetto_Corsa_Competizione-Xiaomi-M2012K11AG-Adreno__TM__650-1779242321.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779229497,
     "filename": "Hollow_Knight_Silksong-samsung-SM-M145F-Adreno__TM__610-1779229497.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779227097,
-    "filename": "Euro_Truck_Simulator_2-motorola-moto_g35_5G-Mali-G57-1779227097.json"
   }
 ]
