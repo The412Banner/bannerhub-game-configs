@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779243231,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04-Mali-G57-1779243231.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G68",
     "timestamp": 1779242483,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A356E-Mali-G68-1779242483.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779230108,
     "filename": "Hollow_Knight__Silksong-samsung-SM-M145F-Adreno__TM__610-1779230108.json"
-  },
-  {
-    "game": "Hollow_Knight_Silksong",
-    "manufacturer": "M145F",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779229568,
-    "filename": "Hollow_Knight_Silksong-samsung-SM-M145F-Adreno__TM__610-1779229568.json"
   }
 ]
