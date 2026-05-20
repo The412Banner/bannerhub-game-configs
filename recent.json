@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield_3_",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1779237956,
+    "filename": "Battlefield_3_-nubia-NX809J-Adreno__TM__840-1779237956.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2016__c__Konami_Digital_Entertainment__",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779218323,
     "filename": "oddworld_soulstorm-AYN-Odin2_Mini-Adreno__TM__740-1779218323.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779217943,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A055M-Mali-G52_MC2-1779217943.json"
   }
 ]
