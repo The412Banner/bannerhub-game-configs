@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779279632,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A325M-Mali-G52_MC2-1779279632.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "W09",
     "device": "Maleoon_920C",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779253173,
     "filename": "Mortal_Kombat_Komplete_Edition-samsung-SM-S931B-Adreno__TM__830-1779253173.json"
-  },
-  {
-    "game": "Borderlands__Game_of_the_Year_Edition",
-    "manufacturer": "NX789S_V1B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779250993,
-    "filename": "Borderlands__Game_of_the_Year_Edition-nubia-NX789S_V1B-Adreno__TM__830-1779250993.json"
   }
 ]
