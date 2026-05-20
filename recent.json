@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_Contest_of_Champions",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1779259361,
+    "filename": "Marvel_Contest_of_Champions-nubia-NX809J-Adreno__TM__840-1779259361.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "motorola_edge_30_pro",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1779242483,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A356E-Mali-G68-1779242483.json"
-  },
-  {
-    "game": "Assetto_Corsa_Competizione",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1779242321,
-    "filename": "Assetto_Corsa_Competizione-Xiaomi-M2012K11AG-Adreno__TM__650-1779242321.json"
   }
 ]
