@@ -1,5 +1,12 @@
 [
   {
+    "game": "TLauncher",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779393582,
+    "filename": "TLauncher-Xiaomi-2201116TG-Mali-G57_MC2-1779393582.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "moto_g71_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "MT6897",
     "timestamp": 1779378359,
     "filename": "Assassin_s_Creed__Unity-TECNO-TECNO_LJ9-MT6897-1779378359.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2113",
-    "device": "Adreno__TM__618",
-    "timestamp": 1779378314,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2113-Adreno__TM__618-1779378314.json"
   }
 ]
