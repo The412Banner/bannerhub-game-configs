@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779375342,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1779375342.json"
+  },
+  {
     "game": "Assassin_s_Creed__Unity",
     "manufacturer": "TECNO_LJ9",
     "device": "MT6897",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779369954,
     "filename": "Warhammer_40_000__Space_Marine_-_Master_Crafted_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1779369954.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1779369913,
-    "filename": "Resident_Evil_2-samsung-SM-X610-Mali-G68-1779369913.json"
   }
 ]
