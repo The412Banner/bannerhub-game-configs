@@ -1,5 +1,12 @@
 [
   {
+    "game": "ProjectZomboid32",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779336125,
+    "filename": "ProjectZomboid32-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779336125.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779319044,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1779319044.json"
-  },
-  {
-    "game": "FINAL_FANTASY_VII_Steam_Edition",
-    "manufacturer": "S936U",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779318557,
-    "filename": "FINAL_FANTASY_VII_Steam_Edition-samsung-SM-S936U-Adreno__TM__830-1779318557.json"
   }
 ]
