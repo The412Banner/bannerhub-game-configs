@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779329615,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A245M-Mali-G57_MC2-1779329615.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "S931B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779305669,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-ayn-Odin3-Adreno__TM__830-1779305669.json"
-  },
-  {
-    "game": "MONSTER_HUNTER_RISE",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779303959,
-    "filename": "MONSTER_HUNTER_RISE-Xiaomi-23049PCD8G-Adreno__TM__750-1779303959.json"
   }
 ]
