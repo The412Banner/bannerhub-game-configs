@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Tab_6_Kids",
+    "device": "PowerVR_Rogue_GE8300",
+    "timestamp": 1779352479,
+    "filename": "Pro_Evolution_Soccer_2013-Blackview-Tab_6_Kids-PowerVR_Rogue_GE8300-1779352479.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779330594,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1779330594.json"
-  },
-  {
-    "game": "Call_of_Duty_",
-    "manufacturer": "S948U1",
-    "device": "Adreno__TM__840",
-    "timestamp": 1779330421,
-    "filename": "Call_of_Duty_-samsung-SM-S948U1-Adreno__TM__840-1779330421.json"
   }
 ]
