@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "moto_g71_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1779390397,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g71_5G-Adreno__TM__619-1779390397.json"
+  },
+  {
     "game": "Days_Gone",
     "manufacturer": "PHK110",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1779378314,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2113-Adreno__TM__618-1779378314.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2113",
-    "device": "Adreno__TM__618",
-    "timestamp": 1779378304,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2113-Adreno__TM__618-1779378304.json"
   }
 ]
