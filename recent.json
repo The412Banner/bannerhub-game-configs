@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "M2101K7AG",
+    "device": "Adreno__TM__612",
+    "timestamp": 1779376126,
+    "filename": "PlayGTAV-Xiaomi-M2101K7AG-Adreno__TM__612-1779376126.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "M2101K7AG",
     "device": "Adreno__TM__612",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779368024,
     "filename": "MotoGP15-ITEL-itel_P661N-Mali-G57_MC2-1779368024.json"
-  },
-  {
-    "game": "MotoGP15",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779368014,
-    "filename": "MotoGP15-ITEL-itel_P661N-Mali-G57_MC2-1779368014.json"
   }
 ]
