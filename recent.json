@@ -3,6 +3,13 @@
     "game": "MotoGP15",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1779368024,
+    "filename": "MotoGP15-ITEL-itel_P661N-Mali-G57_MC2-1779368024.json"
+  },
+  {
+    "game": "MotoGP15",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1779368014,
     "filename": "MotoGP15-ITEL-itel_P661N-Mali-G57_MC2-1779368014.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1779337872,
     "filename": "People_Playground-realme-RMX3363-Adreno__TM__642L-1779337872.json"
-  },
-  {
-    "game": "eFootball_PES_2021_SEASON_UPDATE",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779336481,
-    "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779336481.json"
   }
 ]
