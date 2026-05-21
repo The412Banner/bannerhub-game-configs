@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Unity",
+    "manufacturer": "TECNO_LJ9",
+    "device": "MT6897",
+    "timestamp": 1779376754,
+    "filename": "Assassin_s_Creed__Unity-TECNO-TECNO_LJ9-MT6897-1779376754.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH1937",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1779368583,
     "filename": "Resident_Evil_Requiem-nubia-NX809J-Adreno__TM__840-1779368583.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1779368164,
-    "filename": "Resident_Evil_2-samsung-SM-X610-Mali-G68-1779368164.json"
   }
 ]
