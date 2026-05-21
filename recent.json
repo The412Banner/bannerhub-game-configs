@@ -1,5 +1,12 @@
 [
   {
+    "game": "Days_Gone",
+    "manufacturer": "PHK110",
+    "device": "Adreno__TM__730",
+    "timestamp": 1779389467,
+    "filename": "Days_Gone-OnePlus-PHK110-Adreno__TM__730-1779389467.json"
+  },
+  {
     "game": "pess",
     "manufacturer": "M2101K6G",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1779378304,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2113-Adreno__TM__618-1779378304.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2113",
-    "device": "Adreno__TM__618",
-    "timestamp": 1779378230,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2113-Adreno__TM__618-1779378230.json"
   }
 ]
