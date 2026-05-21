@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779395186,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779395186.json"
+  },
+  {
     "game": "MaxPayne_Application",
     "manufacturer": "2405CRPFDG",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779382720,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1779382720.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779379932,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KJ5-Mali-G52_MC2-1779379932.json"
   }
 ]
