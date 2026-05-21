@@ -1,5 +1,12 @@
 [
   {
+    "game": "MaxPayne_Application",
+    "manufacturer": "2405CRPFDG",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779394875,
+    "filename": "MaxPayne_Application-Xiaomi-2405CRPFDG-Adreno__TM__710-1779394875.json"
+  },
+  {
     "game": "Medal_of_Honor__Warfighter",
     "manufacturer": "I2401",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779379932,
     "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KJ5-Mali-G52_MC2-1779379932.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779379921,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KJ5-Mali-G52_MC2-1779379921.json"
   }
 ]
