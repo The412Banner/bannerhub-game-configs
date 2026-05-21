@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779382720,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1779382720.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1779379932,
     "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KJ5-Mali-G52_MC2-1779379932.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779373973,
     "filename": "Need_for_Speed__Heat-nubia-NX789S_V1B-Adreno__TM__830-1779373973.json"
-  },
-  {
-    "game": "Raft",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779373401,
-    "filename": "Raft-AYANEO-Pocket_FIT-Adreno__TM__750-1779373401.json"
   }
 ]
