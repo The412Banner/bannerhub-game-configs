@@ -1,5 +1,12 @@
 [
   {
+    "game": "NieR_Replicant__ver_1_22474487139___",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779396236,
+    "filename": "NieR_Replicant__ver_1_22474487139___-Xiaomi-2510DPC44G-Adreno__TM__830-1779396236.json"
+  },
+  {
     "game": "Vanguard_Launcher",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779383598,
     "filename": "METAL_GEAR_SOLID_V__GROUND_ZEROES-OPPO-CPH1937-Adreno__TM__610-1779383598.json"
-  },
-  {
-    "game": "Sonic_World_Adventure",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779383560,
-    "filename": "Sonic_World_Adventure-samsung-SM-A165F-Mali-G57_MC2-1779383560.json"
   }
 ]
