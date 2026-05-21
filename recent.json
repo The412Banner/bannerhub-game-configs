@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "CPH2113",
+    "device": "Adreno__TM__618",
+    "timestamp": 1779384233,
+    "filename": "Hollow_Knight__Silksong-OPPO-CPH2113-Adreno__TM__618-1779384233.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__612",
     "timestamp": 1779376126,
     "filename": "PlayGTAV-Xiaomi-M2101K7AG-Adreno__TM__612-1779376126.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "M2101K7AG",
-    "device": "Adreno__TM__612",
-    "timestamp": 1779376050,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2101K7AG-Adreno__TM__612-1779376050.json"
   }
 ]
