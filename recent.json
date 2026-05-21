@@ -1,5 +1,12 @@
 [
   {
+    "game": "lego_Batman_1",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779338753,
+    "filename": "lego_Batman_1-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779338753.json"
+  },
+  {
     "game": "People_Playground",
     "manufacturer": "RMX3363",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779321577,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e13-Mali-G57-1779321577.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "W09",
-    "device": "Maleoon_920C",
-    "timestamp": 1779319758,
-    "filename": "Grand_Theft_Auto_V-HUAWEI-TXZ-W09-Maleoon_920C-1779319758.json"
   }
 ]
