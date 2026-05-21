@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_SOLID_V__GROUND_ZEROES",
+    "manufacturer": "CPH1937",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779383598,
+    "filename": "METAL_GEAR_SOLID_V__GROUND_ZEROES-OPPO-CPH1937-Adreno__TM__610-1779383598.json"
+  },
+  {
     "game": "Sonic_World_Adventure",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779375401,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6853-Mali-G57_MC2-1779375401.json"
-  },
-  {
-    "game": "Titanfall__2",
-    "manufacturer": "Odin2_Mini",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779375398,
-    "filename": "Titanfall__2-AYN-Odin2_Mini-Adreno__TM__740-1779375398.json"
   }
 ]
