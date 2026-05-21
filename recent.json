@@ -1,5 +1,12 @@
 [
   {
+    "game": "FINAL_FANTASY_VII_Steam_Edition",
+    "manufacturer": "S936U",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779404504,
+    "filename": "FINAL_FANTASY_VII_Steam_Edition-samsung-SM-S936U-Adreno__TM__830-1779404504.json"
+  },
+  {
     "game": "Crash_handler",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1779390397,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g71_5G-Adreno__TM__619-1779390397.json"
-  },
-  {
-    "game": "Days_Gone",
-    "manufacturer": "PHK110",
-    "device": "Adreno__TM__730",
-    "timestamp": 1779389467,
-    "filename": "Days_Gone-OnePlus-PHK110-Adreno__TM__730-1779389467.json"
   }
 ]
