@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cinderia",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779395611,
+    "filename": "Cinderia-Xiaomi-2510DPC44G-Adreno__TM__830-1779395611.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779383109,
     "filename": "METAL_GEAR_SOLID_V__GROUND_ZEROES-OPPO-CPH1937-Adreno__TM__610-1779383109.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779382720,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1779382720.json"
   }
 ]
