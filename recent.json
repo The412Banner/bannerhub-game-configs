@@ -1,5 +1,12 @@
 [
   {
+    "game": "Vanguard_Launcher",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1779395922,
+    "filename": "Vanguard_Launcher-Xiaomi-25053PC47G-Adreno__TM__825-1779395922.json"
+  },
+  {
     "game": "Cinderia",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779383560,
     "filename": "Sonic_World_Adventure-samsung-SM-A165F-Mali-G57_MC2-1779383560.json"
-  },
-  {
-    "game": "METAL_GEAR_SOLID_V__GROUND_ZEROES",
-    "manufacturer": "CPH1937",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779383109,
-    "filename": "METAL_GEAR_SOLID_V__GROUND_ZEROES-OPPO-CPH1937-Adreno__TM__610-1779383109.json"
   }
 ]
