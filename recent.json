@@ -1,5 +1,12 @@
 [
   {
+    "game": "Burnout_Paradise__The_Ultimate_Box",
+    "manufacturer": "25097RP43G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1779405055,
+    "filename": "Burnout_Paradise__The_Ultimate_Box-Xiaomi-25097RP43G-Adreno__TM__825-1779405055.json"
+  },
+  {
     "game": "FINAL_FANTASY_VII_Steam_Edition",
     "manufacturer": "S936U",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779393582,
     "filename": "TLauncher-Xiaomi-2201116TG-Mali-G57_MC2-1779393582.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "moto_g71_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1779390397,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g71_5G-Adreno__TM__619-1779390397.json"
   }
 ]
