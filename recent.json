@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779384055,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X669-Mali-G57-1779384055.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2109119DG",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779375701,
     "filename": "Hitman__Absolution_-INFINIX-Infinix_X6837-Mali-G57_MC2-1779375701.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2573",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779375567,
-    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2573-Adreno__TM__750-1779375567.json"
   }
 ]
