@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779333942,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779333942.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1779313982,
     "filename": "FINAL_FANTASY_XIV_Online_Free_Trial-Xiaomi-M2101K7BNY-Mali-G76-1779313982.json"
-  },
-  {
-    "game": "Launcher_Application",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1779311103,
-    "filename": "Launcher_Application-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1779311103.json"
   }
 ]
