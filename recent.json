@@ -1,5 +1,12 @@
 [
   {
+    "game": "GeometryDash",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1779342054,
+    "filename": "GeometryDash-Xiaomi-M2102J20SG-Adreno__TM__640-1779342054.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779323483,
     "filename": "Little_Nightmares-Xiaomi-2311DRK48G-Mali-G615_MC6-1779323483.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1779323340,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-Xiaomi-2511FPC34G-Mali-G720_MC8-1779323340.json"
   }
 ]
