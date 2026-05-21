@@ -1,5 +1,12 @@
 [
   {
+    "game": "Little_Nightmares",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779323483,
+    "filename": "Little_Nightmares-Xiaomi-2311DRK48G-Mali-G615_MC6-1779323483.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779299924,
     "filename": "AssassinsCreedIIGame-Xiaomi-2312DRAABC-Mali-G57_MC2-1779299924.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S931B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779299758,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S931B-Adreno__TM__830-1779299758.json"
   }
 ]
