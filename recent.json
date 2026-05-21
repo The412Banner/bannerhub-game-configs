@@ -1,5 +1,12 @@
 [
   {
+    "game": "jolglas",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779330000,
+    "filename": "jolglas-realme-RMX5303-Mali-G57-1779330000.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "220333QL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779307649,
     "filename": "Dead_as_Disco-nubia-NX729J-Adreno__TM__740-1779307649.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779306107,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X6882-Mali-G57_MC2-1779306107.json"
   }
 ]
