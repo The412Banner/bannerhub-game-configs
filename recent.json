@@ -1,5 +1,12 @@
 [
   {
+    "game": "Vanguard_Launcher",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1779403005,
+    "filename": "Vanguard_Launcher-Xiaomi-25053PC47G-Adreno__TM__825-1779403005.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "motorola_edge_plus_2023",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1779386508,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-realme-RMX5062-Mali-G720-Immortalis_MC12-1779386508.json"
-  },
-  {
-    "game": "The_Incredible_Hulk_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779384823,
-    "filename": "The_Incredible_Hulk_-Xiaomi-2312DRAABG-Mali-G57_MC2-1779384823.json"
   }
 ]
