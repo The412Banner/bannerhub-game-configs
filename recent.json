@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1779368940,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1779368940.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779342861,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1779342861.json"
-  },
-  {
-    "game": "GeometryDash",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1779342054,
-    "filename": "GeometryDash-Xiaomi-M2102J20SG-Adreno__TM__640-1779342054.json"
   }
 ]
