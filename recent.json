@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_PES_2021_SEASON_UPDATE",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779336481,
+    "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779336481.json"
+  },
+  {
     "game": "ProjectZomboid32",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Maleoon_920C",
     "timestamp": 1779319713,
     "filename": "Grand_Theft_Auto_V-HUAWEI-TXZ-W09-Maleoon_920C-1779319713.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1779319044,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1779319044.json"
   }
 ]
