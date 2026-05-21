@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1779406382,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1779406382.json"
+  },
+  {
     "game": "Burnout_Paradise__The_Ultimate_Box",
     "manufacturer": "25097RP43G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779393886,
     "filename": "Medal_of_Honor__Warfighter-vivo-I2401-Adreno__TM__830-1779393886.json"
-  },
-  {
-    "game": "TLauncher",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779393582,
-    "filename": "TLauncher-Xiaomi-2201116TG-Mali-G57_MC2-1779393582.json"
   }
 ]
