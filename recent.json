@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH1937",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779376176,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH1937-Adreno__TM__610-1779376176.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "M2101K7AG",
     "device": "Adreno__TM__612",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1779368164,
     "filename": "Resident_Evil_2-samsung-SM-X610-Mali-G68-1779368164.json"
-  },
-  {
-    "game": "MotoGP15",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779368024,
-    "filename": "MotoGP15-ITEL-itel_P661N-Mali-G57_MC2-1779368024.json"
   }
 ]
