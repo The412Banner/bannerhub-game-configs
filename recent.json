@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779368771,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779368771.json"
+  },
+  {
     "game": "Resident_Evil_Requiem",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1779342054,
     "filename": "GeometryDash-Xiaomi-M2102J20SG-Adreno__TM__640-1779342054.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1779341477,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1779341477.json"
   }
 ]
