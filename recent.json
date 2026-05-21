@@ -1,5 +1,12 @@
 [
   {
+    "game": "Titanfall__2",
+    "manufacturer": "Odin2_Mini",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779375398,
+    "filename": "Titanfall__2-AYN-Odin2_Mini-Adreno__TM__740-1779375398.json"
+  },
+  {
     "game": "Hitman__Absolution_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779355308,
     "filename": "Tomb_Raider-INFINIX-Infinix_X6873-Mali-G615_MC6-1779355308.json"
-  },
-  {
-    "game": "TEKKEN_7",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779354987,
-    "filename": "TEKKEN_7-AYN-AYN_Thor-Adreno__TM__740-1779354987.json"
   }
 ]
