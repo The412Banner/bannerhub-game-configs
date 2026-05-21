@@ -1,5 +1,12 @@
 [
   {
+    "game": "Titanfall__2",
+    "manufacturer": "Odin2_Mini",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779388140,
+    "filename": "Titanfall__2-AYN-Odin2_Mini-Adreno__TM__740-1779388140.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "MT6897",
     "timestamp": 1779377970,
     "filename": "Assassin_s_Creed__Unity-TECNO-TECNO_LJ9-MT6897-1779377970.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Unity",
-    "manufacturer": "TECNO_LJ9",
-    "device": "MT6897",
-    "timestamp": 1779376754,
-    "filename": "Assassin_s_Creed__Unity-TECNO-TECNO_LJ9-MT6897-1779376754.json"
   }
 ]
