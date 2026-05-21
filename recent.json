@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779330594,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1779330594.json"
+  },
+  {
     "game": "Call_of_Duty_",
     "manufacturer": "S948U1",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1779311103,
     "filename": "Launcher_Application-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1779311103.json"
-  },
-  {
-    "game": "Call_of_Duty_4__Modern_Warfare",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779307833,
-    "filename": "Call_of_Duty_4__Modern_Warfare-ayn-Odin3-Adreno__TM__830-1779307833.json"
   }
 ]
