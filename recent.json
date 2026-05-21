@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Brotherhood",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1779370282,
+    "filename": "Assassin_s_Creed__Brotherhood-Xiaomi-21121119SG-Mali-G52-1779370282.json"
+  },
+  {
     "game": "Warhammer_40_000__Space_Marine_-_Master_Crafted_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779346328,
     "filename": "Devil_May_Cry_4_original-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779346328.json"
-  },
-  {
-    "game": "EVERSPACE_2",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779344683,
-    "filename": "EVERSPACE_2-nubia-NX789J-Adreno__TM__830-1779344683.json"
   }
 ]
