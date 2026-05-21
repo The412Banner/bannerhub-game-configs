@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1779323340,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-Xiaomi-2511FPC34G-Mali-G720_MC8-1779323340.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779299758,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S931B-Adreno__TM__830-1779299758.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1779298635,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2003J15SC-Mali-G52-1779298635.json"
   }
 ]
