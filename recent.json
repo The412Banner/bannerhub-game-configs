@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__1",
+    "manufacturer": "2109119DG",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1779400933,
+    "filename": "Battlefield__1-Xiaomi-2109119DG-Adreno__TM__642L-1779400933.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1779384233,
     "filename": "Hollow_Knight__Silksong-OPPO-CPH2113-Adreno__TM__618-1779384233.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779384079,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X669-Mali-G57-1779384079.json"
   }
 ]
