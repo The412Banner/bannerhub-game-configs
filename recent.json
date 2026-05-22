@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779411249,
+    "filename": "Tomb_Raider-samsung-SM-A155M-Mali-G57_MC2-1779411249.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "W09",
     "device": "Maleoon_920C",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779396236,
     "filename": "NieR_Replicant__ver_1_22474487139___-Xiaomi-2510DPC44G-Adreno__TM__830-1779396236.json"
-  },
-  {
-    "game": "Vanguard_Launcher",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1779395922,
-    "filename": "Vanguard_Launcher-Xiaomi-25053PC47G-Adreno__TM__825-1779395922.json"
   }
 ]
