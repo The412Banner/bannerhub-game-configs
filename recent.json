@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Elder_Scrolls_V__Skyrim",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779482796,
+    "filename": "The_Elder_Scrolls_V__Skyrim-TECNO-TECNO_LH8n-Mali-G57_MC2-1779482796.json"
+  },
+  {
     "game": "FIFA_06_____________________________________________________",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1779464634,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1779464634.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23028RA60L",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779463682,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23028RA60L-Adreno__TM__610-1779463682.json"
   }
 ]
