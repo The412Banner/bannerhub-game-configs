@@ -1,5 +1,12 @@
 [
   {
+    "game": "Car_For_Sale_Simulator_2023",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1779458366,
+    "filename": "Car_For_Sale_Simulator_2023-Xiaomi-2306EPN60G-Mali-G610_MC6-1779458366.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779439238,
     "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-23122PCD1I-Adreno__TM__710-1779439238.json"
-  },
-  {
-    "game": "Devil_May_Cry_4_Special_Edition",
-    "manufacturer": "23122PCD1I",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779439228,
-    "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-23122PCD1I-Adreno__TM__710-1779439228.json"
   }
 ]
