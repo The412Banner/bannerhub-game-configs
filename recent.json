@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Most_Wanted",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1779428394,
+    "filename": "Need_for_Speed__Most_Wanted-Xiaomi-M2102J20SG-Adreno__TM__640-1779428394.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Maleoon_920C",
     "timestamp": 1779409986,
     "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-TXZ-W09-Maleoon_920C-1779409986.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "W09",
-    "device": "Maleoon_920C",
-    "timestamp": 1779409881,
-    "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-TXZ-W09-Maleoon_920C-1779409881.json"
   }
 ]
