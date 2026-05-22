@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779488446,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5313-Mali-G57-1779488446.json"
+  },
+  {
     "game": "The_Crew_Motorfest",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779474252,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1779474252.json"
-  },
-  {
-    "game": "GIANTS_Engine",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779474117,
-    "filename": "GIANTS_Engine-Xiaomi-2312DRA50G-Adreno__TM__710-1779474117.json"
   }
 ]
