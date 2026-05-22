@@ -1,5 +1,12 @@
 [
   {
+    "game": "left4dead2",
+    "manufacturer": "S908E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1779443655,
+    "filename": "left4dead2-samsung-SM-S908E-Adreno__TM__730-1779443655.json"
+  },
+  {
     "game": "Diablo_II",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779424785,
     "filename": "Darksiders_III-Xiaomi-23122PCD1I-Adreno__TM__710-1779424785.json"
-  },
-  {
-    "game": "Test_Drive_Unlimited_Solar_Crown",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1779424553,
-    "filename": "Test_Drive_Unlimited_Solar_Crown-Xiaomi-25053PC47G-Adreno__TM__825-1779424553.json"
   }
 ]
