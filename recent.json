@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Star_Wars___The_Skywalker_Saga",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779452605,
+    "filename": "LEGO__Star_Wars___The_Skywalker_Saga-Xiaomi-24040RN64Y-Mali-G52_MC2-1779452605.json"
+  },
+  {
     "game": "Plants_vs__Zombies___Replanted",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779428255,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1779428255.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779430962,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X669-Mali-G57-1779430962.json"
   }
 ]
