@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight",
+    "manufacturer": "RMX1992",
+    "device": "Adreno__TM__618",
+    "timestamp": 1779422652,
+    "filename": "Hollow_Knight-realme-RMX1992-Adreno__TM__618-1779422652.json"
+  },
+  {
     "game": "Electronic_Arts_Canada_Setup",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779404504,
     "filename": "FINAL_FANTASY_VII_Steam_Edition-samsung-SM-S936U-Adreno__TM__830-1779404504.json"
-  },
-  {
-    "game": "Crash_handler",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1779403281,
-    "filename": "Crash_handler-Xiaomi-25053PC47G-Adreno__TM__825-1779403281.json"
   }
 ]
