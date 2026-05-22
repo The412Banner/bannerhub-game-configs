@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779419224,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A156M-Mali-G57_MC2-1779419224.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779403005,
     "filename": "Vanguard_Launcher-Xiaomi-25053PC47G-Adreno__TM__825-1779403005.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "motorola_edge_plus_2023",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779392023,
-    "filename": "DRAGON_BALL__Sparking__ZERO-motorola-motorola_edge_plus_2023-Adreno__TM__740-1779392023.json"
   }
 ]
