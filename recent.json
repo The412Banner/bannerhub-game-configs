@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "RMX3988",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779472848,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3988-Adreno__TM__710-1779472848.json"
+  },
+  {
     "game": "Replaced",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1779456228,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A125M-PowerVR_Rogue_GE8320-1779456228.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779455137,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1779455137.json"
   }
 ]
