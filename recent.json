@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Revelations",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779489399,
+    "filename": "Assassin_s_Creed__Revelations-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779489399.json"
+  },
+  {
     "game": "Blur",
     "manufacturer": "RMX3081",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1779476611,
     "filename": "CarX_Street-samsung-SM-G991N-Mali-G78-1779476611.json"
-  },
-  {
-    "game": "GIANTS_Engine",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779476289,
-    "filename": "GIANTS_Engine-Xiaomi-2312DRA50G-Adreno__TM__710-1779476289.json"
   }
 ]
