@@ -1,5 +1,12 @@
 [
   {
+    "game": "Transformers_Devastation",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1779462013,
+    "filename": "Transformers_Devastation-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1779462013.json"
+  },
+  {
     "game": "Need_for_Speed_Most_Wanted",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779445758,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3830-Mali-G57-1779445758.json"
-  },
-  {
-    "game": "Diablo_II",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779443961,
-    "filename": "Diablo_II-TECNO-TECNO_T1201-Mali-G57_MC2-1779443961.json"
   }
 ]
