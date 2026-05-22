@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A042M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1779464634,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1779464634.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23028RA60L",
     "device": "Adreno__TM__610",
     "timestamp": 1779463682,
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1779454397,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1779454397.json"
-  },
-  {
-    "game": "LEGO__Star_Wars___The_Skywalker_Saga",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779452605,
-    "filename": "LEGO__Star_Wars___The_Skywalker_Saga-Xiaomi-24040RN64Y-Mali-G52_MC2-1779452605.json"
   }
 ]
