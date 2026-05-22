@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779445758,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3830-Mali-G57-1779445758.json"
+  },
+  {
     "game": "Diablo_II",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779425879,
     "filename": "God_of_War_2018-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779425879.json"
-  },
-  {
-    "game": "God_of_War_2018",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779425698,
-    "filename": "God_of_War_2018-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779425698.json"
   }
 ]
