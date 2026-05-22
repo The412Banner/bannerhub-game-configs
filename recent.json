@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stray",
+    "manufacturer": "23073RPBFL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779492517,
+    "filename": "Stray-Xiaomi-23073RPBFL-Adreno__TM__610-1779492517.json"
+  },
+  {
     "game": "AirMech",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779482838,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_LH8n-Mali-G57_MC2-1779482838.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779482796,
-    "filename": "The_Elder_Scrolls_V__Skyrim-TECNO-TECNO_LH8n-Mali-G57_MC2-1779482796.json"
   }
 ]
