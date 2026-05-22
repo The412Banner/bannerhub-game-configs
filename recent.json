@@ -1,5 +1,12 @@
 [
   {
+    "game": "Diablo_II",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779442266,
+    "filename": "Diablo_II-TECNO-TECNO_T1201-Mali-G57_MC2-1779442266.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "23122PCD1I",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779424471,
     "filename": "Darksiders_III-Xiaomi-23122PCD1I-Adreno__TM__710-1779424471.json"
-  },
-  {
-    "game": "Hollow_Knight",
-    "manufacturer": "RMX1992",
-    "device": "Adreno__TM__618",
-    "timestamp": 1779422652,
-    "filename": "Hollow_Knight-realme-RMX1992-Adreno__TM__618-1779422652.json"
   }
 ]
