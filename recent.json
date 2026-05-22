@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_2018",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779425698,
+    "filename": "God_of_War_2018-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779425698.json"
+  },
+  {
     "game": "Darksiders_III",
     "manufacturer": "23122PCD1I",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779408788,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-samsung-SM-S911B-Adreno__TM__740-1779408788.json"
-  },
-  {
-    "game": "Juice_Galaxy",
-    "manufacturer": "Mali",
-    "device": "G715",
-    "timestamp": 1779408675,
-    "filename": "Juice_Galaxy-Google-Pixel_9_Pro-Mali-G715-1779408675.json"
   }
 ]
