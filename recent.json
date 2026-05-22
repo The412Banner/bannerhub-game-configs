@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "W09",
+    "device": "Maleoon_920C",
+    "timestamp": 1779409881,
+    "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-TXZ-W09-Maleoon_920C-1779409881.json"
+  },
+  {
     "game": "Death_in_the_Water_2",
     "manufacturer": "Mali",
     "device": "G715",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779395611,
     "filename": "Cinderia-Xiaomi-2510DPC44G-Adreno__TM__830-1779395611.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779395186,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779395186.json"
   }
 ]
