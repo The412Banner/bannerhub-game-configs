@@ -1,5 +1,12 @@
 [
   {
+    "game": "GIANTS_Engine",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779476289,
+    "filename": "GIANTS_Engine-Xiaomi-2312DRA50G-Adreno__TM__710-1779476289.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779459824,
     "filename": "God_of_War-INFINIX-Infinix_X6528-Mali-G57-1779459824.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779459216,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NIC-LX2-Mali-G52_MC2-1779459216.json"
   }
 ]
