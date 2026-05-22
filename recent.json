@@ -1,5 +1,12 @@
 [
   {
+    "game": "Jujutsu_Kaisen_CC",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779488623,
+    "filename": "Jujutsu_Kaisen_CC-Xiaomi-23129RAA4G-Adreno__TM__610-1779488623.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779475777,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A156M-Mali-G57_MC2-1779475777.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779474252,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1779474252.json"
   }
 ]
