@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__Remastered__2017_",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779487002,
+    "filename": "Call_of_Duty___Modern_Warfare__Remastered__2017_-ayn-Odin3-Adreno__TM__830-1779487002.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779466880,
     "filename": "Rigs_of_Rods-realme-RMX5303-Mali-G57-1779466880.json"
-  },
-  {
-    "game": "Geometry_wars_3",
-    "manufacturer": "Odin2_Mini",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779466229,
-    "filename": "Geometry_wars_3-AYN-Odin2_Mini-Adreno__TM__740-1779466229.json"
   }
 ]
