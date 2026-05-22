@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "RMX3988",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779479807,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3988-Adreno__TM__710-1779479807.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1779462029,
     "filename": "Lumines_Remastered-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1779462029.json"
-  },
-  {
-    "game": "HoloCure",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1779462018,
-    "filename": "HoloCure-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1779462018.json"
   }
 ]
