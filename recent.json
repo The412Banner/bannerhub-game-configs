@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779459216,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NIC-LX2-Mali-G52_MC2-1779459216.json"
+  },
+  {
     "game": "Car_For_Sale_Simulator_2023",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779442266,
     "filename": "Diablo_II-TECNO-TECNO_T1201-Mali-G57_MC2-1779442266.json"
-  },
-  {
-    "game": "Devil_May_Cry_4_Special_Edition",
-    "manufacturer": "23122PCD1I",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779439238,
-    "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-23122PCD1I-Adreno__TM__710-1779439238.json"
   }
 ]
