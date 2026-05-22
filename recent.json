@@ -1,5 +1,12 @@
 [
   {
+    "game": "Electronic_Arts_Canada_Setup",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779422547,
+    "filename": "Electronic_Arts_Canada_Setup-samsung-SM-A225M-Mali-G52_MC2-1779422547.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A045M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779403281,
     "filename": "Crash_handler-Xiaomi-25053PC47G-Adreno__TM__825-1779403281.json"
-  },
-  {
-    "game": "Call_of_Duty___Vanguard_",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1779403149,
-    "filename": "Call_of_Duty___Vanguard_-Xiaomi-25053PC47G-Adreno__TM__825-1779403149.json"
   }
 ]
