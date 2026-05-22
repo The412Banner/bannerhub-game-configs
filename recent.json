@@ -1,5 +1,12 @@
 [
   {
+    "game": "Juice_Galaxy",
+    "manufacturer": "Mali",
+    "device": "G715",
+    "timestamp": 1779408675,
+    "filename": "Juice_Galaxy-Google-Pixel_9_Pro-Mali-G715-1779408675.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779394625,
     "filename": "Medal_of_Honor__Warfighter-vivo-I2401-Adreno__TM__830-1779394625.json"
-  },
-  {
-    "game": "Medal_of_Honor__Warfighter",
-    "manufacturer": "I2401",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779393886,
-    "filename": "Medal_of_Honor__Warfighter-vivo-I2401-Adreno__TM__830-1779393886.json"
   }
 ]
