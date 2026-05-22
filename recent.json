@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "CPH2573",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779461967,
+    "filename": "Red_Dead_Redemption_2-OnePlus-CPH2573-Adreno__TM__750-1779461967.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1779443655,
     "filename": "left4dead2-samsung-SM-S908E-Adreno__TM__730-1779443655.json"
-  },
-  {
-    "game": "Diablo_II",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779442305,
-    "filename": "Diablo_II-TECNO-TECNO_T1201-Mali-G57_MC2-1779442305.json"
   }
 ]
