@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1779491614,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M146B-Mali-G68-1779491614.json"
+  },
+  {
     "game": "Warhammer_40_000__Space_Marine_2",
     "manufacturer": "24069PC21I",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779479807,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3988-Adreno__TM__710-1779479807.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779479500,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779479500.json"
   }
 ]
