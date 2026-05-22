@@ -1,5 +1,12 @@
 [
   {
+    "game": "Geometry_wars_3",
+    "manufacturer": "Odin2_Mini",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779466229,
+    "filename": "Geometry_wars_3-AYN-Odin2_Mini-Adreno__TM__740-1779466229.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A042M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779454624,
     "filename": "FIFA_19-vivo-I2405-Adreno__TM__825-1779454624.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1779454397,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1779454397.json"
   }
 ]
