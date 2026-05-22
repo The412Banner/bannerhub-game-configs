@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779436866,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3830-Mali-G57-1779436866.json"
+  },
+  {
     "game": "Need_for_Speed__Payback",
     "manufacturer": "NX789S_V1B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1779417158,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_20-Adreno__TM__642L-1779417158.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_edge_20",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1779417145,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_20-Adreno__TM__642L-1779417145.json"
   }
 ]
