@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1779418612,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1779418612.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "motorola_edge_20",
     "device": "Adreno__TM__642L",
     "timestamp": 1779417158,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779392023,
     "filename": "DRAGON_BALL__Sparking__ZERO-motorola-motorola_edge_plus_2023-Adreno__TM__740-1779392023.json"
-  },
-  {
-    "game": "Battlefield__1",
-    "manufacturer": "2109119DG",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1779400933,
-    "filename": "Battlefield__1-Xiaomi-2109119DG-Adreno__TM__642L-1779400933.json"
   }
 ]
