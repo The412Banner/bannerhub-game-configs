@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779480909,
+    "filename": "Pro_Evolution_Soccer_2013-LENOVO-TB310FU-Mali-G52_MC2-1779480909.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "RMX3988",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1779462219,
     "filename": "DreadOut2-Xiaomi-M2102J20SG-Adreno__TM__640-1779462219.json"
-  },
-  {
-    "game": "Lumines_Remastered",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1779462029,
-    "filename": "Lumines_Remastered-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1779462029.json"
   }
 ]
