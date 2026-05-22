@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1779454397,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1779454397.json"
+  },
+  {
     "game": "LEGO__Star_Wars___The_Skywalker_Saga",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779434548,
     "filename": "DARK_SOULS__III-Xiaomi-25053PC47G-Adreno__TM__825-1779434548.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779428255,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1779428255.json"
   }
 ]
