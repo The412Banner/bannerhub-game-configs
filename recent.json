@@ -1,5 +1,12 @@
 [
   {
+    "game": "Test_Drive_Unlimited_Solar_Crown",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1779424553,
+    "filename": "Test_Drive_Unlimited_Solar_Crown-Xiaomi-25053PC47G-Adreno__TM__825-1779424553.json"
+  },
+  {
     "game": "Darksiders_III",
     "manufacturer": "23122PCD1I",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1779406382,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1779406382.json"
-  },
-  {
-    "game": "Burnout_Paradise__The_Ultimate_Box",
-    "manufacturer": "25097RP43G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1779405055,
-    "filename": "Burnout_Paradise__The_Ultimate_Box-Xiaomi-25097RP43G-Adreno__TM__825-1779405055.json"
   }
 ]
