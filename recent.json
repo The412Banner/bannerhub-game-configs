@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779438234,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3760-Mali-G57-1779438234.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1779420330,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1779420330.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779419224,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A156M-Mali-G57_MC2-1779419224.json"
   }
 ]
