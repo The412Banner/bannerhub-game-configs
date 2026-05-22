@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "23122PCD1I",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779439228,
+    "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-23122PCD1I-Adreno__TM__710-1779439228.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779422547,
     "filename": "Electronic_Arts_Canada_Setup-samsung-SM-A225M-Mali-G52_MC2-1779422547.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A045M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1779421134,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A045M-PowerVR_Rogue_GE8320-1779421134.json"
   }
 ]
