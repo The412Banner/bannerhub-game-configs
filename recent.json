@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1779542136,
+    "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-S901E-Adreno__TM__730-1779542136.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779533125,
     "filename": "NFS__Carbon-samsung-SM-S9210-Adreno__TM__750-1779533125.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "M2007J20CG",
-    "device": "Adreno__TM__618",
-    "timestamp": 1779532856,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2007J20CG-Adreno__TM__618-1779532856.json"
   }
 ]
