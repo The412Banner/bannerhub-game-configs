@@ -1,5 +1,12 @@
 [
   {
+    "game": "VALKYRIE_DRIVE_-BHIKKHUNI-",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1779541520,
+    "filename": "VALKYRIE_DRIVE_-BHIKKHUNI--Xiaomi-23049PCD8G-Adreno__TM__725-1779541520.json"
+  },
+  {
     "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1779528935,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A266B-Mali-G68-1779528935.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779526282,
-    "filename": "BootstrapPackagedGame-HONOR-BRP-NX1-Adreno__TM__710-1779526282.json"
   }
 ]
