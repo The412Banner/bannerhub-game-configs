@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES2017",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779517436,
+    "filename": "PES2017-Xiaomi-23129RAA4G-Adreno__TM__610-1779517436.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "M2007J17C",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1779499172,
     "filename": "_____2019-Xiaomi-22081212UG-Adreno__TM__730-1779499172.json"
-  },
-  {
-    "game": "Far_Cry_____________________________________________________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779498450,
-    "filename": "Far_Cry_____________________________________________________-samsung-SM-A156M-Mali-G57_MC2-1779498450.json"
   }
 ]
