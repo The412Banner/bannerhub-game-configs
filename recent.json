@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779578102,
+    "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779578102.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1779560747,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G985F-Mali-G77-1779560747.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G77",
-    "timestamp": 1779560737,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G985F-Mali-G77-1779560737.json"
   }
 ]
