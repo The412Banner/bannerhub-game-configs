@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dying_Light_2_Stay_Human__Reloaded_Edition",
+    "manufacturer": "G720",
+    "device": "Immortalis_MC12",
+    "timestamp": 1779515415,
+    "filename": "Dying_Light_2_Stay_Human__Reloaded_Edition-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1779515415.json"
+  },
+  {
     "game": "pes_13",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779498311,
     "filename": "Raft-samsung-SM-A156M-Mali-G57_MC2-1779498311.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "22081212UG",
-    "device": "Adreno__TM__730",
-    "timestamp": 1779498093,
-    "filename": "_____2019-Xiaomi-22081212UG-Adreno__TM__730-1779498093.json"
   }
 ]
