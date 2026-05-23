@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Rogue",
+    "manufacturer": "A057F",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779525416,
+    "filename": "Assassin_s_Creed__Rogue-samsung-SM-A057F-Adreno__TM__610-1779525416.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1779515415,
     "filename": "Dying_Light_2_Stay_Human__Reloaded_Edition-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1779515415.json"
-  },
-  {
-    "game": "pes_13",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779513728,
-    "filename": "pes_13-samsung-SM-A155M-Mali-G57_MC2-1779513728.json"
   }
 ]
