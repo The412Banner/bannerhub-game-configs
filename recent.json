@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G77",
+    "timestamp": 1779560737,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G985F-Mali-G77-1779560737.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1779554487,
     "filename": "Sleeping_Dogs__Definitive_Edition-Xiaomi-23049PCD8G-Adreno__TM__725-1779554487.json"
-  },
-  {
-    "game": "Spider-Man_3",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779554121,
-    "filename": "Spider-Man_3-samsung-SM-A156M-Mali-G57_MC2-1779554121.json"
   }
 ]
