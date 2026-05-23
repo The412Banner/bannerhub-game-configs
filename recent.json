@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "S948B",
+    "device": "Adreno__TM__840",
+    "timestamp": 1779539857,
+    "filename": "Left_4_Dead_2-samsung-SM-S948B-Adreno__TM__840-1779539857.json"
+  },
+  {
     "game": "BeamNG",
     "manufacturer": "X218B",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779524173,
     "filename": "God_of_War-LENOVO-TB321FU-Adreno__TM__750-1779524173.json"
-  },
-  {
-    "game": "Battlefield_4_",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779524154,
-    "filename": "Battlefield_4_-LENOVO-TB321FU-Adreno__TM__750-1779524154.json"
   }
 ]
