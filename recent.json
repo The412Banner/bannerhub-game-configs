@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1779579506,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LJ7-Mali-G615_MC2-1779579506.json"
+  },
+  {
     "game": "Pure",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779565977,
     "filename": "Disgaea_PC-Xiaomi-2409BRN2CY-Mali-G52_MC2-1779565977.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1779563196,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1779563196.json"
   }
 ]
