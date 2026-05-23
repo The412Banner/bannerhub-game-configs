@@ -1,5 +1,12 @@
 [
   {
+    "game": "DEAD_OR_ALIVE_5_Last_Round__Core_Fighters",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779549361,
+    "filename": "DEAD_OR_ALIVE_5_Last_Round__Core_Fighters-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779549361.json"
+  },
+  {
     "game": "HoneySelect2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1779541520,
     "filename": "VALKYRIE_DRIVE_-BHIKKHUNI--Xiaomi-23049PCD8G-Adreno__TM__725-1779541520.json"
-  },
-  {
-    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1779541512,
-    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-Xiaomi-23049PCD8G-Adreno__TM__725-1779541512.json"
   }
 ]
