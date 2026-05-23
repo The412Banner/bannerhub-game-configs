@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1779567338,
+    "filename": "Pro_Evolution_Soccer_2017-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1779567338.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S731B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779557255,
     "filename": "Resident_Evil_Revelations_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1779557255.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779556995,
-    "filename": "Resident_Evil_Revelations_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1779556995.json"
   }
 ]
