@@ -1,5 +1,12 @@
 [
   {
+    "game": "Eldest_Souls",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779548848,
+    "filename": "Eldest_Souls-AYANEO-Pocket_FIT-Adreno__TM__750-1779548848.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1779539280,
     "filename": "BeamNG-samsung-SM-X218B-Adreno__TM__619-1779539280.json"
-  },
-  {
-    "game": "lucid_blocks",
-    "manufacturer": "Mali",
-    "device": "G715",
-    "timestamp": 1779538886,
-    "filename": "lucid_blocks-Google-Pixel_9_Pro-Mali-G715-1779538886.json"
   }
 ]
