@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bruisers_2D_Boxing_Demo",
+    "manufacturer": "S936U",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779556955,
+    "filename": "Bruisers_2D_Boxing_Demo-samsung-SM-S936U-Adreno__TM__830-1779556955.json"
+  },
+  {
     "game": "Resident_Evil_Revelations_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779548860,
     "filename": "Starship_Troopers__Ultimate_Bug_War__Demo-AYANEO-Pocket_FIT-Adreno__TM__750-1779548860.json"
-  },
-  {
-    "game": "Eldest_Souls",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779548848,
-    "filename": "Eldest_Souls-AYANEO-Pocket_FIT-Adreno__TM__750-1779548848.json"
   }
 ]
