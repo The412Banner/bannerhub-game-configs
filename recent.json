@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1779509982,
+    "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1779509982.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "23129RAA4G",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779492517,
     "filename": "Stray-Xiaomi-23073RPBFL-Adreno__TM__610-1779492517.json"
-  },
-  {
-    "game": "AirMech",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1779492484,
-    "filename": "AirMech-Xiaomi-23049PCD8G-Adreno__TM__725-1779492484.json"
   }
 ]
