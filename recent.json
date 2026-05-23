@@ -1,5 +1,12 @@
 [
   {
+    "game": "pes_13",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779513728,
+    "filename": "pes_13-samsung-SM-A155M-Mali-G57_MC2-1779513728.json"
+  },
+  {
     "game": "Police_Simulator__Patrol_Officers",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1779498093,
     "filename": "_____2019-Xiaomi-22081212UG-Adreno__TM__730-1779498093.json"
-  },
-  {
-    "game": "PES_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779495448,
-    "filename": "PES_2013-realme-RMX5303-Mali-G57-1779495448.json"
   }
 ]
