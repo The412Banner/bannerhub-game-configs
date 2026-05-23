@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779524104,
+    "filename": "Devil_May_Cry_5-LENOVO-TB321FU-Adreno__TM__750-1779524104.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1779510530,
     "filename": "Resident_Evil_3-Xiaomi-23013PC75G-Adreno__TM__730-1779510530.json"
-  },
-  {
-    "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1779509982,
-    "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1779509982.json"
   }
 ]
