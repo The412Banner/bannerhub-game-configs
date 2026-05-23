@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779530340,
+    "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-ayn-Odin3-Adreno__TM__830-1779530340.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1779518198,
     "filename": "Need_for_Speed__Rivals-samsung-SM-A346M-Mali-G68_MC4-1779518198.json"
-  },
-  {
-    "game": "NARUTO__Ultimate_Ninja_STORM",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779517980,
-    "filename": "NARUTO__Ultimate_Ninja_STORM-samsung-SM-A075M-Mali-G57_MC2-1779517980.json"
   }
 ]
