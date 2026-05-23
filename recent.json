@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1779541512,
+    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-Xiaomi-23049PCD8G-Adreno__TM__725-1779541512.json"
+  },
+  {
     "game": "Teenage_Mutant_Ninja_Turtles__Shredder_s_Revenge",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779526282,
     "filename": "BootstrapPackagedGame-HONOR-BRP-NX1-Adreno__TM__710-1779526282.json"
-  },
-  {
-    "game": "NARUTO__Ultimate_Ninja_STORM",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779525425,
-    "filename": "NARUTO__Ultimate_Ninja_STORM-samsung-SM-A075M-Mali-G57_MC2-1779525425.json"
   }
 ]
