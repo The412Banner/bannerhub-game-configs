@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "2201117TL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779512143,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TL-Adreno__TM__610-1779512143.json"
+  },
+  {
     "game": "GEFirewall_rem",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779494660,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1779494660.json"
-  },
-  {
-    "game": "MOUSE",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779493977,
-    "filename": "MOUSE-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779493977.json"
   }
 ]
