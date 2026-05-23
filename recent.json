@@ -1,5 +1,12 @@
 [
   {
+    "game": "Metro_2033_Redux",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779549365,
+    "filename": "Metro_2033_Redux-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779549365.json"
+  },
+  {
     "game": "DEAD_OR_ALIVE_5_Last_Round__Core_Fighters",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1779541649,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23049PCD8G-Adreno__TM__725-1779541649.json"
-  },
-  {
-    "game": "VALKYRIE_DRIVE_-BHIKKHUNI-",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1779541520,
-    "filename": "VALKYRIE_DRIVE_-BHIKKHUNI--Xiaomi-23049PCD8G-Adreno__TM__725-1779541520.json"
   }
 ]
