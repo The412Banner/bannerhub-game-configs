@@ -1,5 +1,12 @@
 [
   {
+    "game": "Teenage_Mutant_Ninja_Turtles__Shredder_s_Revenge",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1779541412,
+    "filename": "Teenage_Mutant_Ninja_Turtles__Shredder_s_Revenge-samsung-SM-G780G-Adreno__TM__650-1779541412.json"
+  },
+  {
     "game": "Darksiders_III",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779525425,
     "filename": "NARUTO__Ultimate_Ninja_STORM-samsung-SM-A075M-Mali-G57_MC2-1779525425.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Rogue",
-    "manufacturer": "A057F",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779525416,
-    "filename": "Assassin_s_Creed__Rogue-samsung-SM-A057F-Adreno__TM__610-1779525416.json"
   }
 ]
