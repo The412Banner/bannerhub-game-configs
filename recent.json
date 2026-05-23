@@ -1,5 +1,12 @@
 [
   {
+    "game": "lucid_blocks",
+    "manufacturer": "Mali",
+    "device": "G715",
+    "timestamp": 1779538886,
+    "filename": "lucid_blocks-Google-Pixel_9_Pro-Mali-G715-1779538886.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779524142,
     "filename": "Darksiders_II_Deathinitive_Edition-LENOVO-TB321FU-Adreno__TM__750-1779524142.json"
-  },
-  {
-    "game": "Days_Gone",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779524132,
-    "filename": "Days_Gone-LENOVO-TB321FU-Adreno__TM__750-1779524132.json"
   }
 ]
