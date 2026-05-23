@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_Komplete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779576383,
+    "filename": "Mortal_Kombat_Komplete_Edition-samsung-SM-A156M-Mali-G57_MC2-1779576383.json"
+  },
+  {
     "game": "Batman___Arkham_Knight",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1779560737,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G985F-Mali-G77-1779560737.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1779560314,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-2511FPC34G-Mali-G720_MC8-1779560314.json"
   }
 ]
