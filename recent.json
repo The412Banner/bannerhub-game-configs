@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield_4_",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779524154,
+    "filename": "Battlefield_4_-LENOVO-TB321FU-Adreno__TM__750-1779524154.json"
+  },
+  {
     "game": "Darksiders_II_Deathinitive_Edition",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1779512934,
     "filename": "Police_Simulator__Patrol_Officers-Xiaomi-24069PC21G-Adreno__TM__735-1779512934.json"
-  },
-  {
-    "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
-    "manufacturer": "S931B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779512857,
-    "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-samsung-SM-S931B-Adreno__TM__830-1779512857.json"
   }
 ]
