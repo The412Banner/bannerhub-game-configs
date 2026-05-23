@@ -1,5 +1,12 @@
 [
   {
+    "game": "Enslaved___Odyssey_to_the_West_",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779524113,
+    "filename": "Enslaved___Odyssey_to_the_West_-LENOVO-TB321FU-Adreno__TM__750-1779524113.json"
+  },
+  {
     "game": "Devil_May_Cry_5",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779511587,
     "filename": "CarX_Street-samsung-SM-S918U1-Adreno__TM__740-1779511587.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "23013PC75G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1779510530,
-    "filename": "Resident_Evil_3-Xiaomi-23013PC75G-Adreno__TM__730-1779510530.json"
   }
 ]
