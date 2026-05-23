@@ -1,5 +1,12 @@
 [
   {
+    "game": "Yet_Another_Zombie_Survivors",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779548877,
+    "filename": "Yet_Another_Zombie_Survivors-AYANEO-Pocket_FIT-Adreno__TM__750-1779548877.json"
+  },
+  {
     "game": "Starship_Troopers__Ultimate_Bug_War__Demo",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779540681,
     "filename": "Darksiders_III-OnePlus-OPD2415-Adreno__TM__830-1779540681.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "S948B",
-    "device": "Adreno__TM__840",
-    "timestamp": 1779539857,
-    "filename": "Left_4_Dead_2-samsung-SM-S948B-Adreno__TM__840-1779539857.json"
   }
 ]
