@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stumble_Guys",
+    "manufacturer": "KB2005",
+    "device": "Adreno__TM__650",
+    "timestamp": 1779580353,
+    "filename": "Stumble_Guys-OnePlus-KB2005-Adreno__TM__650-1779580353.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779567198,
     "filename": "7Launcher_-_GTA_5_1_6_6_____________________________________-samsung-SM-A065F-Mali-G52_MC2-1779567198.json"
-  },
-  {
-    "game": "Disgaea_PC",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779566793,
-    "filename": "Disgaea_PC-Xiaomi-2409BRN2CY-Mali-G52_MC2-1779566793.json"
   }
 ]
