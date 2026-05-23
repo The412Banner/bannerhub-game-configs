@@ -1,5 +1,12 @@
 [
   {
+    "game": "_____2019",
+    "manufacturer": "22081212UG",
+    "device": "Adreno__TM__730",
+    "timestamp": 1779499172,
+    "filename": "_____2019-Xiaomi-22081212UG-Adreno__TM__730-1779499172.json"
+  },
+  {
     "game": "Far_Cry_____________________________________________________",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779489399,
     "filename": "Assassin_s_Creed__Revelations-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779489399.json"
-  },
-  {
-    "game": "Blur",
-    "manufacturer": "RMX3081",
-    "device": "Adreno__TM__618",
-    "timestamp": 1779489189,
-    "filename": "Blur-realme-RMX3081-Adreno__TM__618-1779489189.json"
   }
 ]
