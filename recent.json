@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs__Definitive_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1779537394,
+    "filename": "Sleeping_Dogs__Definitive_Edition-Xiaomi-25080RABDG-Mali-G615_MC2-1779537394.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779524113,
     "filename": "Enslaved___Odyssey_to_the_West_-LENOVO-TB321FU-Adreno__TM__750-1779524113.json"
-  },
-  {
-    "game": "Devil_May_Cry_5",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779524104,
-    "filename": "Devil_May_Cry_5-LENOVO-TB321FU-Adreno__TM__750-1779524104.json"
   }
 ]
