@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
+    "manufacturer": "S931B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779512857,
+    "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-samsung-SM-S931B-Adreno__TM__830-1779512857.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2201117TL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779495017,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779495017.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779494660,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1779494660.json"
   }
 ]
