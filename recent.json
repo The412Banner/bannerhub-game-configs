@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779524173,
+    "filename": "God_of_War-LENOVO-TB321FU-Adreno__TM__750-1779524173.json"
+  },
+  {
     "game": "Battlefield_4_",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779513728,
     "filename": "pes_13-samsung-SM-A155M-Mali-G57_MC2-1779513728.json"
-  },
-  {
-    "game": "Police_Simulator__Patrol_Officers",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1779512934,
-    "filename": "Police_Simulator__Patrol_Officers-Xiaomi-24069PC21G-Adreno__TM__735-1779512934.json"
   }
 ]
