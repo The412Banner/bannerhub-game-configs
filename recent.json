@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g_8__power",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779542286,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__power-Adreno__TM__610-1779542286.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779533134,
     "filename": "NFS__Underground_2-samsung-SM-S9210-Adreno__TM__750-1779533134.json"
-  },
-  {
-    "game": "NFS__Carbon",
-    "manufacturer": "S9210",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779533125,
-    "filename": "NFS__Carbon-samsung-SM-S9210-Adreno__TM__750-1779533125.json"
   }
 ]
