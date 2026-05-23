@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Revelations_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779556903,
+    "filename": "Resident_Evil_Revelations_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1779556903.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779548848,
     "filename": "Eldest_Souls-AYANEO-Pocket_FIT-Adreno__TM__750-1779548848.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779548836,
-    "filename": "Hollow_Knight__Silksong-AYANEO-Pocket_FIT-Adreno__TM__750-1779548836.json"
   }
 ]
