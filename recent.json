@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779553999,
+    "filename": "PES_2013-realme-RMX5303-Mali-G57-1779553999.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779545662,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g75_5G-Adreno__TM__710-1779545662.json"
-  },
-  {
-    "game": "Stellar_Blade_",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779544523,
-    "filename": "Stellar_Blade_-Xiaomi-24117RK2CG-Adreno__TM__750-1779544523.json"
   }
 ]
