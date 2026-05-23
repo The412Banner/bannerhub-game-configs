@@ -1,5 +1,12 @@
 [
   {
+    "game": "7Launcher_-_GTA_5_1_6_6_____________________________________",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779567198,
+    "filename": "7Launcher_-_GTA_5_1_6_6_____________________________________-samsung-SM-A065F-Mali-G52_MC2-1779567198.json"
+  },
+  {
     "game": "Disgaea_PC",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779556962,
     "filename": "The_Dark_Queen_of_Mortholme_________________________________-realme-RMX5303-Mali-G57-1779556962.json"
-  },
-  {
-    "game": "Bruisers_2D_Boxing_Demo",
-    "manufacturer": "S936U",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779556955,
-    "filename": "Bruisers_2D_Boxing_Demo-samsung-SM-S936U-Adreno__TM__830-1779556955.json"
   }
 ]
