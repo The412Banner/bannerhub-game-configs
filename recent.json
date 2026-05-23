@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO__Ultimate_Ninja_STORM",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779517980,
+    "filename": "NARUTO__Ultimate_Ninja_STORM-samsung-SM-A075M-Mali-G57_MC2-1779517980.json"
+  },
+  {
     "game": "PES2017",
     "manufacturer": "23129RAA4G",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779500551,
     "filename": "CarServiceTogether-TECNO-TECNO_LJ9-Mali-G615_MC6-1779500551.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "22081212UG",
-    "device": "Adreno__TM__730",
-    "timestamp": 1779499172,
-    "filename": "_____2019-Xiaomi-22081212UG-Adreno__TM__730-1779499172.json"
   }
 ]
