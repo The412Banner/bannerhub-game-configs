@@ -1,5 +1,12 @@
 [
   {
+    "game": "CarX_Street",
+    "manufacturer": "S918U1",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779511587,
+    "filename": "CarX_Street-samsung-SM-S918U1-Adreno__TM__740-1779511587.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "23013PC75G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779493767,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1779493767.json"
-  },
-  {
-    "game": "Prototype_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779493284,
-    "filename": "Prototype_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779493284.json"
   }
 ]
