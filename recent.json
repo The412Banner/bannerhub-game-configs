@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779524054,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-LENOVO-TB321FU-Adreno__TM__750-1779524054.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "motorola_one",
     "device": "Adreno__TM__506",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779502984,
     "filename": "FIFA_13-Xiaomi-23129RAA4G-Adreno__TM__610-1779502984.json"
-  },
-  {
-    "game": "Need_for_Speed__Heat",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1779501849,
-    "filename": "Need_for_Speed__Heat-samsung-SM-A346M-Mali-G68_MC4-1779501849.json"
   }
 ]
