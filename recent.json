@@ -1,5 +1,12 @@
 [
   {
+    "game": "Way_of_the_Samurai_3",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779592711,
+    "filename": "Way_of_the_Samurai_3-AYN-AYN_Thor-Adreno__TM__740-1779592711.json"
+  },
+  {
     "game": "rpcs3",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1779581184,
     "filename": "Pro_Evolution_Soccer_2015-motorola-motorola_edge_40-Mali-G77_MC9-1779581184.json"
-  },
-  {
-    "game": "Stumble_Guys",
-    "manufacturer": "KB2005",
-    "device": "Adreno__TM__650",
-    "timestamp": 1779580353,
-    "filename": "Stumble_Guys-OnePlus-KB2005-Adreno__TM__650-1779580353.json"
   }
 ]
