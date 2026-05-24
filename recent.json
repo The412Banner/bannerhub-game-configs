@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S25_Ultra",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1779631498,
+    "filename": "Pro_Evolution_Soccer_2013-Welcome-S25_Ultra-PowerVR_Rogue_GE8322-1779631498.json"
+  },
+  {
     "game": "Far_Cry__4",
     "manufacturer": "23122PCD1G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1779614077,
     "filename": "BeamNG_drive-samsung-SM-X218B-Adreno__TM__619-1779614077.json"
-  },
-  {
-    "game": "Dead_As_Disco",
-    "manufacturer": "V2520A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779613598,
-    "filename": "Dead_As_Disco-vivo-V2520A-Adreno__TM__830-1779613598.json"
   }
 ]
