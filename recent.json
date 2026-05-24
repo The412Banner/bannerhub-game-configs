@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__5",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1779597132,
+    "filename": "Far_Cry__5-Xiaomi-25053PC47G-Adreno__TM__825-1779597132.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RAA4G",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1779582490,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2007J20CG-Adreno__TM__618-1779582490.json"
-  },
-  {
-    "game": "Unreal_Engine",
-    "manufacturer": "S731B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1779582484,
-    "filename": "Unreal_Engine-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1779582484.json"
   }
 ]
