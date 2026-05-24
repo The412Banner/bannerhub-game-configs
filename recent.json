@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_14_ModdingWay_Mod_Selector",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779588467,
+    "filename": "FIFA_14_ModdingWay_Mod_Selector-samsung-SM-A156M-Mali-G57_MC2-1779588467.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779578829,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_10_-Adreno__TM__610-1779578829.json"
-  },
-  {
-    "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779578102,
-    "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779578102.json"
   }
 ]
