@@ -1,5 +1,12 @@
 [
   {
+    "game": "Replaced",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779645745,
+    "filename": "Replaced-AYN-AYN_Thor-Adreno__TM__740-1779645745.json"
+  },
+  {
     "game": "LEGO__Marvel__Super_Heroes",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779636278,
     "filename": "S_T_A_L_K_E_R___Anomaly-TECNO-TECNO_LI9-Mali-G57_MC2-1779636278.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A715F",
-    "device": "Adreno__TM__618",
-    "timestamp": 1779634627,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A715F-Adreno__TM__618-1779634627.json"
   }
 ]
