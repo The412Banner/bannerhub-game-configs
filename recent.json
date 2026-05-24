@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "motorola_edge_70_fusion",
+    "device": "Adreno__TM__810",
+    "timestamp": 1779646557,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_70_fusion-Adreno__TM__810-1779646557.json"
+  },
+  {
     "game": "Need_for_Speed__Most_Wanted",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779639600,
     "filename": "The_Ascent-AYANEO-Pocket_FIT-Adreno__TM__750-1779639600.json"
-  },
-  {
-    "game": "rpcs3",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779638126,
-    "filename": "rpcs3-samsung-SM-S911B-Adreno__TM__740-1779638126.json"
   }
 ]
