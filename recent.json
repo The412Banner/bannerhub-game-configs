@@ -1,5 +1,12 @@
 [
   {
+    "game": "DBFighterZ",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779661433,
+    "filename": "DBFighterZ-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779661433.json"
+  },
+  {
     "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1779645568,
     "filename": "LEGO__Marvel__Super_Heroes-samsung-SM-M536B-Mali-G68_MC4-1779645568.json"
-  },
-  {
-    "game": "The_Messenger",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779645009,
-    "filename": "The_Messenger-Anbernic-RG_406H-Mali-G57-1779645009.json"
   }
 ]
