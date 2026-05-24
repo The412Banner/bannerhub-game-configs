@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779666561,
+    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-samsung-SM-A156M-Mali-G57_MC2-1779666561.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH3669",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1779651125,
     "filename": "LEGO__Marvel__Super_Heroes-samsung-SM-M536B-Mali-G68_MC4-1779651125.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779649560,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRN14I-Mali-G52_MC2-1779649560.json"
   }
 ]
