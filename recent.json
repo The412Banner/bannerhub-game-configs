@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_As_Disco",
+    "manufacturer": "V2520A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779613598,
+    "filename": "Dead_As_Disco-vivo-V2520A-Adreno__TM__830-1779613598.json"
+  },
+  {
     "game": "BeamNG_drive",
     "manufacturer": "X218B",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779597132,
     "filename": "Far_Cry__5-Xiaomi-25053PC47G-Adreno__TM__825-1779597132.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23129RAA4G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779595076,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RAA4G-Adreno__TM__610-1779595076.json"
   }
 ]
