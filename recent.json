@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A715F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1779634523,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A715F-Adreno__TM__618-1779634523.json"
+  },
+  {
     "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779633820,
     "filename": "CRISIS_CORE__FINAL_FANTASY_VII__REUNION-AYN-AYN_Thor-Adreno__TM__740-1779633820.json"
-  },
-  {
-    "game": "Jet_Set_Radio",
-    "manufacturer": "2509ARPBDG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1779622228,
-    "filename": "Jet_Set_Radio-Xiaomi-2509ARPBDG-Adreno__TM__810-1779622228.json"
   }
 ]
