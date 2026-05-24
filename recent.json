@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "S731B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1779662711,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1779662711.json"
+  },
+  {
     "game": "Spec_Ops__The_Line",
     "manufacturer": "motorola_edge_20_pro",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779646529,
     "filename": "Need_for_Speed__Most_Wanted-INFINIX-Infinix_X6885-Mali-G57_MC2-1779646529.json"
-  },
-  {
-    "game": "Need_for_Speed__Most_Wanted",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779646525,
-    "filename": "Need_for_Speed__Most_Wanted-INFINIX-Infinix_X6885-Mali-G57_MC2-1779646525.json"
   }
 ]
