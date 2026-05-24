@@ -1,5 +1,12 @@
 [
   {
+    "game": "Explorer__",
+    "manufacturer": "V2505A",
+    "device": "Adreno__TM__840",
+    "timestamp": 1779652074,
+    "filename": "Explorer__-vivo-V2505A-Adreno__TM__840-1779652074.json"
+  },
+  {
     "game": "LEGO__Marvel__Super_Heroes",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779641498,
     "filename": "SMBIFP-motorola-moto_g04s-Mali-G57-1779641498.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23073RPBFL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779641178,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23073RPBFL-Adreno__TM__610-1779641178.json"
   }
 ]
