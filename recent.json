@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779610987,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76G-Mali-G57_MC2-1779610987.json"
+  },
+  {
     "game": "Mass_Effect",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779592097,
     "filename": "rpcs3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779592097.json"
-  },
-  {
-    "game": "rpcs3",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779591959,
-    "filename": "rpcs3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779591959.json"
   }
 ]
