@@ -1,5 +1,12 @@
 [
   {
+    "game": "Spec_Ops__The_Line",
+    "manufacturer": "motorola_edge_20_pro",
+    "device": "Adreno__TM__650",
+    "timestamp": 1779661707,
+    "filename": "Spec_Ops__The_Line-motorola-motorola_edge_20_pro-Adreno__TM__650-1779661707.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "Q630",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779646525,
     "filename": "Need_for_Speed__Most_Wanted-INFINIX-Infinix_X6885-Mali-G57_MC2-1779646525.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1779646316,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22101316G-Mali-G68_MC4-1779646316.json"
   }
 ]
