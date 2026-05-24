@@ -1,5 +1,12 @@
 [
   {
+    "game": "Garten_of_Banban_0",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1779642586,
+    "filename": "Garten_of_Banban_0-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1779642586.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779634123,
     "filename": "FIFA_19-samsung-SM-F946U1-Adreno__TM__740-1779634123.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "I2508",
-    "device": "Adreno__TM__829",
-    "timestamp": 1779633386,
-    "filename": "DRAGON_BALL__Sparking__ZERO-vivo-I2508-Adreno__TM__829-1779633386.json"
   }
 ]
