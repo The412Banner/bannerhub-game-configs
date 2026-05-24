@@ -1,5 +1,12 @@
 [
   {
+    "game": "SMBIFP",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779641498,
+    "filename": "SMBIFP-motorola-moto_g04s-Mali-G57-1779641498.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23073RPBFL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779632161,
     "filename": "Far_Cry__4-Xiaomi-23122PCD1G-Adreno__TM__710-1779632161.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_e_7__plus",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779631728,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e_7__plus-Adreno__TM__610-1779631728.json"
   }
 ]
