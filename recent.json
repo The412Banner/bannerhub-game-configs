@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mass_Effect",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1779609580,
+    "filename": "Mass_Effect-Xiaomi-25053PC47G-Adreno__TM__825-1779609580.json"
+  },
+  {
     "game": "GoreBox",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779591959,
     "filename": "rpcs3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779591959.json"
-  },
-  {
-    "game": "forza_x64_release_final",
-    "manufacturer": "NX725J",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779590640,
-    "filename": "forza_x64_release_final-nubia-NX725J-Adreno__TM__740-1779590640.json"
   }
 ]
