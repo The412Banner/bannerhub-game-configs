@@ -1,5 +1,12 @@
 [
   {
+    "game": "rpcs3",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779591959,
+    "filename": "rpcs3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779591959.json"
+  },
+  {
     "game": "forza_x64_release_final",
     "manufacturer": "NX725J",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779580205,
     "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KI7-Mali-G52_MC2-1779580205.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1779579506,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LJ7-Mali-G615_MC2-1779579506.json"
   }
 ]
