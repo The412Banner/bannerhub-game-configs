@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__4",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779632161,
+    "filename": "Far_Cry__4-Xiaomi-23122PCD1G-Adreno__TM__710-1779632161.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_e_7__plus",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779618990,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779618990.json"
-  },
-  {
-    "game": "The_Witcher_3__Wild_Hunt",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779614601,
-    "filename": "The_Witcher_3__Wild_Hunt-OPPO-CPH2579-Mali-G52_MC2-1779614601.json"
   }
 ]
