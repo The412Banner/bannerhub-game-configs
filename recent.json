@@ -3,6 +3,13 @@
     "game": "rpcs3",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1779601759,
+    "filename": "rpcs3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779601759.json"
+  },
+  {
+    "game": "rpcs3",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1779601753,
     "filename": "rpcs3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779601753.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779588467,
     "filename": "FIFA_14_ModdingWay_Mod_Selector-samsung-SM-A156M-Mali-G57_MC2-1779588467.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779587573,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22120RN86G-Mali-G52_MC2-1779587573.json"
   }
 ]
