@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779655188,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23122PCD1G-Adreno__TM__710-1779655188.json"
+  },
+  {
     "game": "Morbid_Metal",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1779642586,
     "filename": "Garten_of_Banban_0-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1779642586.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779642391,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-Xiaomi-2310FPCA4G-Mali-G52_MC2-1779642391.json"
   }
 ]
