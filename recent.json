@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_XENOVERSE",
+    "manufacturer": "CPH2801",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779629979,
+    "filename": "DRAGON_BALL_XENOVERSE-OPPO-CPH2801-Adreno__TM__710-1779629979.json"
+  },
+  {
     "game": "DARK_SOULS",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1779612044,
     "filename": "BeamNG_drive-samsung-SM-X218B-Adreno__TM__619-1779612044.json"
-  },
-  {
-    "game": "BeamNG_drive",
-    "manufacturer": "X218B",
-    "device": "Adreno__TM__619",
-    "timestamp": 1779611837,
-    "filename": "BeamNG_drive-samsung-SM-X218B-Adreno__TM__619-1779611837.json"
   }
 ]
