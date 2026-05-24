@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fears_to_Fathom_-_Ironbark_Lookout",
+    "manufacturer": "NX1",
+    "device": "SM6450",
+    "timestamp": 1779611138,
+    "filename": "Fears_to_Fathom_-_Ironbark_Lookout-HONOR-ALI-NX1-SM6450-1779611138.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779593676,
     "filename": "RE4-Xiaomi-24117RN76L-Mali-G57_MC2-1779593676.json"
-  },
-  {
-    "game": "Way_of_the_Samurai_3",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779592711,
-    "filename": "Way_of_the_Samurai_3-AYN-AYN_Thor-Adreno__TM__740-1779592711.json"
   }
 ]
