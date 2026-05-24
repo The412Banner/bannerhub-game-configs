@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1779611019,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X6871-Mali-G610_MC6-1779611019.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779592711,
     "filename": "Way_of_the_Samurai_3-AYN-AYN_Thor-Adreno__TM__740-1779592711.json"
-  },
-  {
-    "game": "rpcs3",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779592097,
-    "filename": "rpcs3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779592097.json"
   }
 ]
