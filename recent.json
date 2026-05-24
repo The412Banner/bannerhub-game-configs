@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_IV__San_Andreas_Setup",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779646996,
+    "filename": "GTA_IV__San_Andreas_Setup-samsung-SM-A055M-Mali-G52_MC2-1779646996.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "motorola_edge_70_fusion",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779640138,
     "filename": "Call_of_Duty___Ghosts-INFINIX-Infinix_X6873-Mali-G615_MC6-1779640138.json"
-  },
-  {
-    "game": "The_Ascent",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779639600,
-    "filename": "The_Ascent-AYANEO-Pocket_FIT-Adreno__TM__750-1779639600.json"
   }
 ]
