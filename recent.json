@@ -1,5 +1,12 @@
 [
   {
+    "game": "S_T_A_L_K_E_R___Anomaly",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779636278,
+    "filename": "S_T_A_L_K_E_R___Anomaly-TECNO-TECNO_LI9-Mali-G57_MC2-1779636278.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A715F",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779623151,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CK7n-Mali-G57_MC2-1779623151.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779623146,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CK7n-Mali-G57_MC2-1779623146.json"
   }
 ]
