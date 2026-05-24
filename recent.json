@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_e_7__plus",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779631728,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e_7__plus-Adreno__TM__610-1779631728.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S25_Ultra",
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1779631498,
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779614601,
     "filename": "The_Witcher_3__Wild_Hunt-OPPO-CPH2579-Mali-G52_MC2-1779614601.json"
-  },
-  {
-    "game": "BeamNG_drive",
-    "manufacturer": "X218B",
-    "device": "Adreno__TM__619",
-    "timestamp": 1779614077,
-    "filename": "BeamNG_drive-samsung-SM-X218B-Adreno__TM__619-1779614077.json"
   }
 ]
