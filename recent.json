@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "M2007J20CG",
+    "device": "Adreno__TM__618",
+    "timestamp": 1779582490,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2007J20CG-Adreno__TM__618-1779582490.json"
+  },
+  {
     "game": "Unreal_Engine",
     "manufacturer": "S731B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779569357,
     "filename": "GEFirewall-HONOR-BRP-NX1-Adreno__TM__710-1779569357.json"
-  },
-  {
-    "game": "ACC",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779569219,
-    "filename": "ACC-HONOR-BRP-NX1-Adreno__TM__710-1779569219.json"
   }
 ]
