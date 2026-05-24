@@ -1,5 +1,12 @@
 [
   {
+    "game": "Jet_Set_Radio",
+    "manufacturer": "2509ARPBDG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1779622228,
+    "filename": "Jet_Set_Radio-Xiaomi-2509ARPBDG-Adreno__TM__810-1779622228.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779601753,
     "filename": "rpcs3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779601753.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G998W",
-    "device": "Adreno__TM__660",
-    "timestamp": 1779600688,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G998W-Adreno__TM__660-1779600688.json"
   }
 ]
