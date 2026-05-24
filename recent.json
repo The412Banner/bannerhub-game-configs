@@ -1,5 +1,12 @@
 [
   {
+    "game": "rpcs3",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779601753,
+    "filename": "rpcs3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779601753.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G998W",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779587573,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22120RN86G-Mali-G52_MC2-1779587573.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779587402,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22120RN86G-Mali-G52_MC2-1779587402.json"
   }
 ]
