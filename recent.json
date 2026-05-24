@@ -1,5 +1,12 @@
 [
   {
+    "game": "CRISIS_CORE__FINAL_FANTASY_VII__REUNION",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779633820,
+    "filename": "CRISIS_CORE__FINAL_FANTASY_VII__REUNION-AYN-AYN_Thor-Adreno__TM__740-1779633820.json"
+  },
+  {
     "game": "Jet_Set_Radio",
     "manufacturer": "2509ARPBDG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779601759,
     "filename": "rpcs3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779601759.json"
-  },
-  {
-    "game": "rpcs3",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779601753,
-    "filename": "rpcs3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779601753.json"
   }
 ]
