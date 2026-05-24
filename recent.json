@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23073RPBFL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779640956,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23073RPBFL-Adreno__TM__610-1779640956.json"
+  },
+  {
     "game": "Call_of_Duty___Ghosts",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779629979,
     "filename": "DRAGON_BALL_XENOVERSE-OPPO-CPH2801-Adreno__TM__710-1779629979.json"
-  },
-  {
-    "game": "DARK_SOULS",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779628655,
-    "filename": "DARK_SOULS-Xiaomi-23129RA5FL-Adreno__TM__610-1779628655.json"
   }
 ]
