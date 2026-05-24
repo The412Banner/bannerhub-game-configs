@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779623111,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CK7n-Mali-G57_MC2-1779623111.json"
+  },
+  {
     "game": "CRISIS_CORE__FINAL_FANTASY_VII__REUNION",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1779604900,
     "filename": "NFSC-realme-RMX3393-Mali-G68_MC4-1779604900.json"
-  },
-  {
-    "game": "rpcs3",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779601759,
-    "filename": "rpcs3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779601759.json"
   }
 ]
