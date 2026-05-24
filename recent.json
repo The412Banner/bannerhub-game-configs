@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "24117RK2CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779661605,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RK2CG-Adreno__TM__750-1779661605.json"
+  },
+  {
     "game": "DBFighterZ",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779645745,
     "filename": "Replaced-AYN-AYN_Thor-Adreno__TM__740-1779645745.json"
-  },
-  {
-    "game": "LEGO__Marvel__Super_Heroes",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1779645568,
-    "filename": "LEGO__Marvel__Super_Heroes-samsung-SM-M536B-Mali-G68_MC4-1779645568.json"
   }
 ]
