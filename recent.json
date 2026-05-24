@@ -3,6 +3,13 @@
     "game": "Celeste",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1779586213,
+    "filename": "Celeste-motorola-moto_g23-Mali-G52_MC2-1779586213.json"
+  },
+  {
+    "game": "Celeste",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1779586136,
     "filename": "Celeste-motorola-moto_g23-Mali-G52_MC2-1779586136.json"
   },
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779572797,
     "filename": "____2016-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779572797.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779574784,
-    "filename": "DARK_SOULS___REMASTERED-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779574784.json"
   }
 ]
