@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2015",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1779581184,
+    "filename": "Pro_Evolution_Soccer_2015-motorola-motorola_edge_40-Mali-G77_MC9-1779581184.json"
+  },
+  {
     "game": "Stumble_Guys",
     "manufacturer": "KB2005",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1779567325,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1779567325.json"
-  },
-  {
-    "game": "7Launcher_-_GTA_5_1_6_6_____________________________________",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779567198,
-    "filename": "7Launcher_-_GTA_5_1_6_6_____________________________________-samsung-SM-A065F-Mali-G52_MC2-1779567198.json"
   }
 ]
