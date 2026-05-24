@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blur",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779637650,
+    "filename": "Blur-INFINIX-Infinix_X6881-Mali-G57_MC2-1779637650.json"
+  },
+  {
     "game": "S_T_A_L_K_E_R___Anomaly",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779623209,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CK7n-Mali-G57_MC2-1779623209.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779623151,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CK7n-Mali-G57_MC2-1779623151.json"
   }
 ]
