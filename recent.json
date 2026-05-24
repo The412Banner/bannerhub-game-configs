@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Marvel__Super_Heroes",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1779645568,
+    "filename": "LEGO__Marvel__Super_Heroes-samsung-SM-M536B-Mali-G68_MC4-1779645568.json"
+  },
+  {
     "game": "The_Messenger",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1779634627,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A715F-Adreno__TM__618-1779634627.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A715F",
-    "device": "Adreno__TM__618",
-    "timestamp": 1779634545,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A715F-Adreno__TM__618-1779634545.json"
   }
 ]
