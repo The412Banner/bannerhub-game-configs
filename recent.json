@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779644339,
+    "filename": "Need_for_Speed_9-INFINIX_MOBILITY_LIMITED-Infinix_X663B-Mali-G52_MC2-1779644339.json"
+  },
+  {
     "game": "Mortal_Sin",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1779634542,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A715F-Adreno__TM__618-1779634542.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A715F",
-    "device": "Adreno__TM__618",
-    "timestamp": 1779634523,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A715F-Adreno__TM__618-1779634523.json"
   }
 ]
