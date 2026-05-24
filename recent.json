@@ -1,5 +1,12 @@
 [
   {
+    "game": "RE4",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779593676,
+    "filename": "RE4-Xiaomi-24117RN76L-Mali-G57_MC2-1779593676.json"
+  },
+  {
     "game": "Way_of_the_Samurai_3",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1779581798,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G998B-Mali-G78-1779581798.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2015",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1779581184,
-    "filename": "Pro_Evolution_Soccer_2015-motorola-motorola_edge_40-Mali-G77_MC9-1779581184.json"
   }
 ]
