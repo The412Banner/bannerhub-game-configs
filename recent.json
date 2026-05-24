@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779621194,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2312FPCA6G-Mali-G57_MC2-1779621194.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1779600666,
     "filename": "Knight_s_Path__The_Tournament-Xiaomi-24069PC21G-Adreno__TM__735-1779600666.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S25_Ultra",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1779597933,
-    "filename": "Pro_Evolution_Soccer_2013-Welcome-S25_Ultra-PowerVR_Rogue_GE8322-1779597933.json"
   }
 ]
