@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779628655,
+    "filename": "DARK_SOULS-Xiaomi-23129RA5FL-Adreno__TM__610-1779628655.json"
+  },
+  {
     "game": "Rayman_Legends",
     "manufacturer": "LX3",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1779611837,
     "filename": "BeamNG_drive-samsung-SM-X218B-Adreno__TM__619-1779611837.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1779611552,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X6871-Mali-G610_MC6-1779611552.json"
   }
 ]
