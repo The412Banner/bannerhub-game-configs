@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1779623151,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CK7n-Mali-G57_MC2-1779623151.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1779623146,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CK7n-Mali-G57_MC2-1779623146.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779609580,
     "filename": "Mass_Effect-Xiaomi-25053PC47G-Adreno__TM__825-1779609580.json"
-  },
-  {
-    "game": "GoreBox",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1779609564,
-    "filename": "GoreBox-Xiaomi-2207117BPG-Mali-G76-1779609564.json"
   }
 ]
