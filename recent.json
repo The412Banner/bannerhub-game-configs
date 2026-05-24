@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "I2508",
+    "device": "Adreno__TM__829",
+    "timestamp": 1779633386,
+    "filename": "DRAGON_BALL__Sparking__ZERO-vivo-I2508-Adreno__TM__829-1779633386.json"
+  },
+  {
     "game": "Fallout__New_Vegas",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779621194,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2312FPCA6G-Mali-G57_MC2-1779621194.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1779619518,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G998B-Mali-G78-1779619518.json"
   }
 ]
