@@ -1,5 +1,12 @@
 [
   {
+    "game": "rpcs3",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779638024,
+    "filename": "rpcs3-samsung-SM-S911B-Adreno__TM__740-1779638024.json"
+  },
+  {
     "game": "Blur",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779623542,
     "filename": "Rocket_League-nubia-NX799J-Adreno__TM__830-1779623542.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779623209,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CK7n-Mali-G57_MC2-1779623209.json"
   }
 ]
