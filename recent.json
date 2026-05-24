@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Sin",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779644019,
+    "filename": "Mortal_Sin-Anbernic-RG_406H-Mali-G57-1779644019.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RAA4G",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1779634523,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A715F-Adreno__TM__618-1779634523.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779634178,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-TECNO-TECNO_BG6-Mali-G57-1779634178.json"
   }
 ]
