@@ -1,5 +1,12 @@
 [
   {
+    "game": "Swat_4",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779691572,
+    "filename": "Swat_4-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779691572.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1779671470,
     "filename": "Palia-motorola-moto_g51_5G-Adreno__TM__619-1779671470.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779670630,
-    "filename": "Watch_Dogs_-samsung-SM-S938B-Adreno__TM__830-1779670630.json"
   }
 ]
