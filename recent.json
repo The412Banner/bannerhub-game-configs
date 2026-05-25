@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779741716,
+    "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-ayn-Odin3-Adreno__TM__830-1779741716.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "LX9N",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779730681,
     "filename": "Forza_Horizon_6-Xiaomi-25053PC47G-Adreno__TM__825-1779730681.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "V2061",
-    "device": "Adreno__TM__618",
-    "timestamp": 1779730419,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2061-Adreno__TM__618-1779730419.json"
   }
 ]
