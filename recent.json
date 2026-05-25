@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta_sa",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779679254,
+    "filename": "gta_sa-Xiaomi-23053RN02A-Mali-G52_MC2-1779679254.json"
+  },
+  {
     "game": "Forza_Horizon_6",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779665382,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165F-Mali-G57_MC2-1779665382.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1779665185,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1779665185.json"
   }
 ]
