@@ -1,5 +1,12 @@
 [
   {
+    "game": "Frogger2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779744071,
+    "filename": "Frogger2-realme-RMX3938-Mali-G57-1779744071.json"
+  },
+  {
     "game": "NieR_Automata_",
     "manufacturer": "Retroid_Pocket_G2",
     "device": "Adreno__TM__22",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1779734686,
     "filename": "Little_Nightmares_II-vivo-I2501-Adreno__TM__840-1779734686.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779734601,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1779734601.json"
   }
 ]
