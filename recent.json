@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_STORM_3_FB",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779674406,
+    "filename": "NARUTO_STORM_3_FB-samsung-SM-A175F-Mali-G57_MC2-1779674406.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1779661626,
     "filename": "Hollow_Knight__Silksong-LGE-LM-Q630-PowerVR_Rogue_GE8320-1779661626.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779661605,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RK2CG-Adreno__TM__750-1779661605.json"
   }
 ]
