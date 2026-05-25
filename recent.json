@@ -3,6 +3,13 @@
     "game": "MiSide",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1779695583,
+    "filename": "MiSide-realme-RMX3910-Mali-G52_MC2-1779695583.json"
+  },
+  {
+    "game": "MiSide",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1779695517,
     "filename": "MiSide-realme-RMX3910-Mali-G52_MC2-1779695517.json"
   },
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1779680513,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1779680513.json"
-  },
-  {
-    "game": "gta_sa",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779679281,
-    "filename": "gta_sa-Xiaomi-23053RN02A-Mali-G52_MC2-1779679281.json"
   }
 ]
