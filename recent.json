@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779736830,
+    "filename": "BlackOps-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779736830.json"
+  },
+  {
     "game": "AtomRPG_x64",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779725968,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-ITEL-itel_A666LN-Mali-G57-1779725968.json"
-  },
-  {
-    "game": "Resident_Evil_5_Gold_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779725786,
-    "filename": "Resident_Evil_5_Gold_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1779725786.json"
   }
 ]
