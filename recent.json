@@ -1,5 +1,12 @@
 [
   {
+    "game": "MaxPayne_2_Application",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779677489,
+    "filename": "MaxPayne_2_Application-samsung-SM-A156M-Mali-G57_MC2-1779677489.json"
+  },
+  {
     "game": "Dead_Space__2008_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779664271,
     "filename": "Invincible_VS-Xiaomi-25053PC47G-Adreno__TM__825-1779664271.json"
-  },
-  {
-    "game": "PRO_EVOLUTION_SOCCER_2018",
-    "manufacturer": "S731B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1779662711,
-    "filename": "PRO_EVOLUTION_SOCCER_2018-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1779662711.json"
   }
 ]
