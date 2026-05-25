@@ -3,6 +3,13 @@
     "game": "iw3mp",
     "manufacturer": "Mali",
     "device": "G72",
+    "timestamp": 1779693628,
+    "filename": "iw3mp-samsung-SM-N960F-Mali-G72-1779693628.json"
+  },
+  {
+    "game": "iw3mp",
+    "manufacturer": "Mali",
+    "device": "G72",
     "timestamp": 1779693567,
     "filename": "iw3mp-samsung-SM-N960F-Mali-G72-1779693567.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779677489,
     "filename": "MaxPayne_2_Application-samsung-SM-A156M-Mali-G57_MC2-1779677489.json"
-  },
-  {
-    "game": "Dead_Space__2008_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779675804,
-    "filename": "Dead_Space__2008_-samsung-SM-A156M-Mali-G57_MC2-1779675804.json"
   }
 ]
