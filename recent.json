@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779709281,
+    "filename": "Far_Cry_3-Xiaomi-2312FPCA6G-Mali-G57_MC2-1779709281.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779691572,
     "filename": "Swat_4-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779691572.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779689875,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1779689875.json"
   }
 ]
