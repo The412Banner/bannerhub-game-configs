@@ -1,5 +1,12 @@
 [
   {
+    "game": "TLauncher",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779724418,
+    "filename": "TLauncher-samsung-SM-A175F-Mali-G57_MC2-1779724418.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779707356,
     "filename": "SAMURAI_WARRIORS_4-II-INFINIX-Infinix_X6853-Mali-G57_MC2-1779707356.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "S926B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1779706989,
-    "filename": "God_of_War-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1779706989.json"
   }
 ]
