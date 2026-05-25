@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__2",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779691620,
+    "filename": "Dead_Space__2-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779691620.json"
+  },
+  {
     "game": "Swat_4",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__630",
     "timestamp": 1779673517,
     "filename": "Nocturnal-LGE-LM-G910-Adreno__TM__630-1779673517.json"
-  },
-  {
-    "game": "Palia",
-    "manufacturer": "moto_g51_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1779671470,
-    "filename": "Palia-motorola-moto_g51_5G-Adreno__TM__619-1779671470.json"
   }
 ]
