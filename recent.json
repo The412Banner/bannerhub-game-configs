@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fears_To_Fathom",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779739903,
+    "filename": "Fears_To_Fathom-samsung-SM-A075M-Mali-G57_MC2-1779739903.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779727982,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KJ6-Mali-G57_MC2-1779727982.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779727962,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KJ6-Mali-G57_MC2-1779727962.json"
   }
 ]
