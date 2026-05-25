@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1779742449,
+    "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-Xiaomi-25053PC47G-Adreno__TM__825-1779742449.json"
+  },
+  {
     "game": "INSIDE",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779733997,
     "filename": "The_Evil_Within_2-OnePlus-OPD2415-Adreno__TM__830-1779733997.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G72_MP3",
-    "timestamp": 1779731428,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_one_macro-Mali-G72_MP3-1779731428.json"
   }
 ]
