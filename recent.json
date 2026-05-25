@@ -3,6 +3,13 @@
     "game": "Prism_Launcher",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1779725133,
+    "filename": "Prism_Launcher-samsung-SM-A175F-Mali-G57_MC2-1779725133.json"
+  },
+  {
+    "game": "Prism_Launcher",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1779725089,
     "filename": "Prism_Launcher-samsung-SM-A175F-Mali-G57_MC2-1779725089.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779709922,
     "filename": "The_Crew__2-nubia-NX789S_V1B-Adreno__TM__830-1779709922.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779709284,
-    "filename": "Far_Cry_3-Xiaomi-2312FPCA6G-Mali-G57_MC2-1779709284.json"
   }
 ]
