@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "V2307",
+    "device": "Adreno__TM__619",
+    "timestamp": 1779703727,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2307-Adreno__TM__619-1779703727.json"
+  },
+  {
     "game": "_____2",
     "manufacturer": "V2505A",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779684930,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1779684930.json"
-  },
-  {
-    "game": "METAL_GEAR_RISING__REVENGEANCE",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779682256,
-    "filename": "METAL_GEAR_RISING__REVENGEANCE-INFINIX-Infinix_X6833B-Mali-G57_MC2-1779682256.json"
   }
 ]
