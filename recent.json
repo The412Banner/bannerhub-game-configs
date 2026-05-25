@@ -1,5 +1,12 @@
 [
   {
+    "game": "TLauncher",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779722937,
+    "filename": "TLauncher-samsung-SM-A175F-Mali-G57_MC2-1779722937.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "G57",
     "device": "49_1_0_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1779702499,
     "filename": "_____2-vivo-V2505A-Adreno__TM__840-1779702499.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1779701349,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1779701349.json"
   }
 ]
