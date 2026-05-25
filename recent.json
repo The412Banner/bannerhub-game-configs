@@ -1,5 +1,12 @@
 [
   {
+    "game": "Megabonk",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779720975,
+    "filename": "Megabonk-Xiaomi-2311DRK48G-Mali-G615_MC6-1779720975.json"
+  },
+  {
     "game": "Iron_Meat_Demo",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779694654,
     "filename": "Swat4X-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779694654.json"
-  },
-  {
-    "game": "SWAT_4_-_The_Stetchkov_Syndicate",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779693940,
-    "filename": "SWAT_4_-_The_Stetchkov_Syndicate-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779693940.json"
   }
 ]
