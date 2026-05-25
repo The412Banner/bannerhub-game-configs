@@ -1,5 +1,12 @@
 [
   {
+    "game": "xenia_edge",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779715472,
+    "filename": "xenia_edge-AYANEO-Pocket_FIT-Adreno__TM__750-1779715472.json"
+  },
+  {
     "game": "fateextellalink",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1779693567,
     "filename": "iw3mp-samsung-SM-N960F-Mali-G72-1779693567.json"
-  },
-  {
-    "game": "Roblox_Bootstrapper",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1779692468,
-    "filename": "Roblox_Bootstrapper-samsung-SM-A146B-Mali-G68-1779692468.json"
   }
 ]
