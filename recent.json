@@ -1,5 +1,12 @@
 [
   {
+    "game": "fateextellalink",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779715209,
+    "filename": "fateextellalink-INFINIX-Infinix_X6873-Mali-G615_MC6-1779715209.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1779692468,
     "filename": "Roblox_Bootstrapper-samsung-SM-A146B-Mali-G68-1779692468.json"
-  },
-  {
-    "game": "NLY",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779692239,
-    "filename": "NLY-INFINIX-Infinix_X6528B-Mali-G57-1779692239.json"
   }
 ]
