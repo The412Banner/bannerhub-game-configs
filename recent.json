@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prism_Launcher",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779725089,
+    "filename": "Prism_Launcher-samsung-SM-A175F-Mali-G57_MC2-1779725089.json"
+  },
+  {
     "game": "LEGOJurassicWorld_DX11",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779709284,
     "filename": "Far_Cry_3-Xiaomi-2312FPCA6G-Mali-G57_MC2-1779709284.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779709281,
-    "filename": "Far_Cry_3-Xiaomi-2312FPCA6G-Mali-G57_MC2-1779709281.json"
   }
 ]
