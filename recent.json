@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779673746,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1779673746.json"
+  },
+  {
     "game": "Nocturnal",
     "manufacturer": "G910",
     "device": "Adreno__TM__630",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779661605,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RK2CG-Adreno__TM__750-1779661605.json"
-  },
-  {
-    "game": "DBFighterZ",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779661433,
-    "filename": "DBFighterZ-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779661433.json"
   }
 ]
