@@ -1,5 +1,12 @@
 [
   {
+    "game": "Swat4X",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779694654,
+    "filename": "Swat4X-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779694654.json"
+  },
+  {
     "game": "SWAT_4_-_The_Stetchkov_Syndicate",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779679254,
     "filename": "gta_sa-Xiaomi-23053RN02A-Mali-G52_MC2-1779679254.json"
-  },
-  {
-    "game": "Forza_Horizon_6",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779678758,
-    "filename": "Forza_Horizon_6-TECNO_MOBILE_LIMITED-TECNO_CH7n-Mali-G57_MC2-1779678758.json"
   }
 ]
