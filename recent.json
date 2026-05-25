@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Village",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779708506,
+    "filename": "Resident_Evil_Village-Xiaomi-2311DRK48G-Mali-G615_MC6-1779708506.json"
+  },
+  {
     "game": "SAMURAI_WARRIORS_4-II",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779689875,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1779689875.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "2510DRK44C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779687828,
-    "filename": "Resident_Evil_3-Xiaomi-2510DRK44C-Adreno__TM__830-1779687828.json"
   }
 ]
