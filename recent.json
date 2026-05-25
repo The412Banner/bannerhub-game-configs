@@ -1,5 +1,12 @@
 [
   {
+    "game": "HOI4",
+    "manufacturer": "motorola_edge_20",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1779754947,
+    "filename": "HOI4-motorola-motorola_edge_20-Adreno__TM__642L-1779754947.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "itel_A6610L",
     "device": "PowerVR_Rogue_GE8322",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779740601,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X115-Mali-G57_MC2-1779740601.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779740584,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X115-Mali-G57_MC2-1779740584.json"
   }
 ]
