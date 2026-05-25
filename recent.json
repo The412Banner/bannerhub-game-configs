@@ -1,5 +1,12 @@
 [
   {
+    "game": "AtomRPG_x64",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779736233,
+    "filename": "AtomRPG_x64-unknown-GammaOS_Lite-Mali-G57-1779736233.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "S937B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779725786,
     "filename": "Resident_Evil_5_Gold_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1779725786.json"
-  },
-  {
-    "game": "INSIDE",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779725208,
-    "filename": "INSIDE-vivo-V2440-Mali-G57_MC2-1779725208.json"
   }
 ]
