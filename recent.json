@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779689875,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1779689875.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "2510DRK44C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779670630,
     "filename": "Watch_Dogs_-samsung-SM-S938B-Adreno__TM__830-1779670630.json"
-  },
-  {
-    "game": "Visage",
-    "manufacturer": "2509ARPBDG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1779669492,
-    "filename": "Visage-Xiaomi-2509ARPBDG-Adreno__TM__810-1779669492.json"
   }
 ]
