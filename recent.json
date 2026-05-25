@@ -1,5 +1,12 @@
 [
   {
+    "game": "Paralives",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1779743634,
+    "filename": "Paralives-samsung-SM-A356E-Mali-G68-1779743634.json"
+  },
+  {
     "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1779734225,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A346M-Mali-G68_MC4-1779734225.json"
-  },
-  {
-    "game": "The_Evil_Within_2",
-    "manufacturer": "OPD2415",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779733997,
-    "filename": "The_Evil_Within_2-OnePlus-OPD2415-Adreno__TM__830-1779733997.json"
   }
 ]
