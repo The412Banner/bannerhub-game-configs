@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Evil_Within_2",
+    "manufacturer": "OPD2415",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779733997,
+    "filename": "The_Evil_Within_2-OnePlus-OPD2415-Adreno__TM__830-1779733997.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G72_MP3",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779724418,
     "filename": "TLauncher-samsung-SM-A175F-Mali-G57_MC2-1779724418.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779723686,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RN76G-Mali-G57_MC2-1779723686.json"
   }
 ]
