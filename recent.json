@@ -1,5 +1,12 @@
 [
   {
+    "game": "INSIDE",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779723040,
+    "filename": "INSIDE-vivo-V2440-Mali-G57_MC2-1779723040.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1779703786,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2307-Adreno__TM__619-1779703786.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "V2307",
-    "device": "Adreno__TM__619",
-    "timestamp": 1779703727,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2307-Adreno__TM__619-1779703727.json"
   }
 ]
