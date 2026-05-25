@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Crew__2",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779709922,
+    "filename": "The_Crew__2-nubia-NX789S_V1B-Adreno__TM__830-1779709922.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1779692008,
     "filename": "Roblox_Bootstrapper-samsung-SM-A146B-Mali-G68-1779692008.json"
-  },
-  {
-    "game": "Dead_Space__2",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779691620,
-    "filename": "Dead_Space__2-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779691620.json"
   }
 ]
