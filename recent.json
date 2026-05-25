@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "S926B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1779706989,
+    "filename": "God_of_War-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1779706989.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1779687774,
     "filename": "Mafia_II__Classic_-realme-RMX5070-Adreno__TM__660-1779687774.json"
-  },
-  {
-    "game": "NBA_2K17",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779686862,
-    "filename": "NBA_2K17-Xiaomi-25078RA3EA-Mali-G52_MC2-1779686862.json"
   }
 ]
