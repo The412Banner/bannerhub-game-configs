@@ -1,5 +1,12 @@
 [
   {
+    "game": "futrue",
+    "manufacturer": "PLE110",
+    "device": "Adreno__TM__825",
+    "timestamp": 1779729176,
+    "filename": "futrue-OPPO-PLE110-Adreno__TM__825-1779729176.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "49_1_0_",
     "timestamp": 1779722380,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-ANGLE__ARM__Vulkan_1_3_278__Mali-G57__0x90910010____Mali-G57-49_1_0_-1779722380.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1779722349,
-    "filename": "Grand_Theft_Auto_V-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1779722349.json"
   }
 ]
