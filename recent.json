@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw3mp",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1779693567,
+    "filename": "iw3mp-samsung-SM-N960F-Mali-G72-1779693567.json"
+  },
+  {
     "game": "Roblox_Bootstrapper",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779675804,
     "filename": "Dead_Space__2008_-samsung-SM-A156M-Mali-G57_MC2-1779675804.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate____________________________________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779675057,
-    "filename": "NARUTO_X_BORUTO_Ultimate____________________________________-INFINIX-Infinix_X6833B-Mali-G57_MC2-1779675057.json"
   }
 ]
