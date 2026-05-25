@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779695517,
+    "filename": "MiSide-realme-RMX3910-Mali-G52_MC2-1779695517.json"
+  },
+  {
     "game": "Swat4X",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779679281,
     "filename": "gta_sa-Xiaomi-23053RN02A-Mali-G52_MC2-1779679281.json"
-  },
-  {
-    "game": "gta_sa",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779679254,
-    "filename": "gta_sa-Xiaomi-23053RN02A-Mali-G52_MC2-1779679254.json"
   }
 ]
