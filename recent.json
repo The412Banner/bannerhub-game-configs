@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "LX9N",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779741419,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-MAO-LX9N-Adreno__TM__610-1779741419.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1779730419,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2061-Adreno__TM__618-1779730419.json"
-  },
-  {
-    "game": "Just_Cause_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779729655,
-    "filename": "Just_Cause_2-LENOVO-TB310FU-Mali-G52_MC2-1779729655.json"
   }
 ]
