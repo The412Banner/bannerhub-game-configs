@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5_Gold_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779725786,
+    "filename": "Resident_Evil_5_Gold_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1779725786.json"
+  },
+  {
     "game": "INSIDE",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779715209,
     "filename": "fateextellalink-INFINIX-Infinix_X6873-Mali-G615_MC6-1779715209.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779714026,
-    "filename": "DRAGON_BALL__Sparking__ZERO-AYANEO-Pocket_FIT-Adreno__TM__750-1779714026.json"
   }
 ]
