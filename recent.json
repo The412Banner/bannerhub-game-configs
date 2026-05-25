@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779725968,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-ITEL-itel_A666LN-Mali-G57-1779725968.json"
+  },
+  {
     "game": "Resident_Evil_5_Gold_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779715472,
     "filename": "xenia_edge-AYANEO-Pocket_FIT-Adreno__TM__750-1779715472.json"
-  },
-  {
-    "game": "fateextellalink",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779715209,
-    "filename": "fateextellalink-INFINIX-Infinix_X6873-Mali-G615_MC6-1779715209.json"
   }
 ]
