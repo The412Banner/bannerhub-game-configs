@@ -1,5 +1,12 @@
 [
   {
+    "game": "NieR_Automata_",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1779745619,
+    "filename": "NieR_Automata_-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1779745619.json"
+  },
+  {
     "game": "Shaolin_vs_Wutang_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779736233,
     "filename": "AtomRPG_x64-unknown-GammaOS_Lite-Mali-G57-1779736233.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "S937B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779734993,
-    "filename": "Far_Cry_3-samsung-SM-S937B-Adreno__TM__830-1779734993.json"
   }
 ]
