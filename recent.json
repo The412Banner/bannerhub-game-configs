@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A235F",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779717245,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A235F-Adreno__TM__610-1779717245.json"
+  },
+  {
     "game": "xenia_edge",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1779693628,
     "filename": "iw3mp-samsung-SM-N960F-Mali-G72-1779693628.json"
-  },
-  {
-    "game": "iw3mp",
-    "manufacturer": "Mali",
-    "device": "G72",
-    "timestamp": 1779693567,
-    "filename": "iw3mp-samsung-SM-N960F-Mali-G72-1779693567.json"
   }
 ]
