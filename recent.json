@@ -1,5 +1,12 @@
 [
   {
+    "game": "SWAT_4_-_The_Stetchkov_Syndicate",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779693940,
+    "filename": "SWAT_4_-_The_Stetchkov_Syndicate-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779693940.json"
+  },
+  {
     "game": "iw3mp",
     "manufacturer": "Mali",
     "device": "G72",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779678758,
     "filename": "Forza_Horizon_6-TECNO_MOBILE_LIMITED-TECNO_CH7n-Mali-G57_MC2-1779678758.json"
-  },
-  {
-    "game": "MaxPayne_2_Application",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779677489,
-    "filename": "MaxPayne_2_Application-samsung-SM-A156M-Mali-G57_MC2-1779677489.json"
   }
 ]
