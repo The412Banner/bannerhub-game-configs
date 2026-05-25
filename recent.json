@@ -1,5 +1,12 @@
 [
   {
+    "game": "INSIDE",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779742097,
+    "filename": "INSIDE-Xiaomi-2311DRK48G-Mali-G615_MC6-1779742097.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "LX9N",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G72_MP3",
     "timestamp": 1779731428,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_one_macro-Mali-G72_MP3-1779731428.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G72_MP3",
-    "timestamp": 1779731406,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_one_macro-Mali-G72_MP3-1779731406.json"
   }
 ]
