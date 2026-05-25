@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779734601,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1779734601.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779724793,
     "filename": "LEGOJurassicWorld_DX11-INFINIX-Infinix_X6885-Mali-G57_MC2-1779724793.json"
-  },
-  {
-    "game": "Hexa_Td_-_Free_Game",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779724689,
-    "filename": "Hexa_Td_-_Free_Game-samsung-SM-A175F-Mali-G57_MC2-1779724689.json"
   }
 ]
