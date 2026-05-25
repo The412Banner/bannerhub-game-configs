@@ -1,5 +1,12 @@
 [
   {
+    "game": "Zumbi_Blocks_2_Open_Alpha",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779727901,
+    "filename": "Zumbi_Blocks_2_Open_Alpha-OMIX-X7-Mali-G57_MC2-1779727901.json"
+  },
+  {
     "game": "METAL_GEAR_RISING__REVENGEANCE",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779717245,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A235F-Adreno__TM__610-1779717245.json"
-  },
-  {
-    "game": "xenia_edge",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779715472,
-    "filename": "xenia_edge-AYANEO-Pocket_FIT-Adreno__TM__750-1779715472.json"
   }
 ]
