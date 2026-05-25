@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "V2061",
+    "device": "Adreno__TM__618",
+    "timestamp": 1779730419,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2061-Adreno__TM__618-1779730419.json"
+  },
+  {
     "game": "Just_Cause_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779722960,
     "filename": "Pro_Evolution_Soccer_2013-vivo-V2440-Mali-G57_MC2-1779722960.json"
-  },
-  {
-    "game": "TLauncher",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779722937,
-    "filename": "TLauncher-samsung-SM-A175F-Mali-G57_MC2-1779722937.json"
   }
 ]
