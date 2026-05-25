@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "2510DRK44C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779687828,
+    "filename": "Resident_Evil_3-Xiaomi-2510DRK44C-Adreno__TM__830-1779687828.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "RMX5070",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1779669492,
     "filename": "Visage-Xiaomi-2509ARPBDG-Adreno__TM__810-1779669492.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1779668736,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1779668736.json"
   }
 ]
