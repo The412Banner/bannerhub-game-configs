@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779682256,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-INFINIX-Infinix_X6833B-Mali-G57_MC2-1779682256.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A525M",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779666573,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CY-Mali-G52_MC2-1779666573.json"
-  },
-  {
-    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779666561,
-    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-samsung-SM-A156M-Mali-G57_MC2-1779666561.json"
   }
 ]
