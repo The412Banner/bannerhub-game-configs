@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1779734225,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A346M-Mali-G68_MC4-1779734225.json"
+  },
+  {
     "game": "The_Evil_Within_2",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779724689,
     "filename": "Hexa_Td_-_Free_Game-samsung-SM-A175F-Mali-G57_MC2-1779724689.json"
-  },
-  {
-    "game": "TLauncher",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779724418,
-    "filename": "TLauncher-samsung-SM-A175F-Mali-G57_MC2-1779724418.json"
   }
 ]
