@@ -1,5 +1,12 @@
 [
   {
+    "game": "REPLACED",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1779832169,
+    "filename": "REPLACED-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1779832169.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779823609,
     "filename": "Need_for_Speed_9-samsung-SM-A055F-Mali-G52_MC2-1779823609.json"
-  },
-  {
-    "game": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719",
-    "manufacturer": "A042F",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1779819883,
-    "filename": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719-samsung-SM-A042F-PowerVR_Rogue_GE8320-1779819883.json"
   }
 ]
