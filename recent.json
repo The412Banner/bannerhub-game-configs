@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Island_Definitive_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779813380,
+    "filename": "Dead_Island_Definitive_Edition-Xiaomi-2312FPCA6G-Mali-G57_MC2-1779813380.json"
+  },
+  {
     "game": "1-DEAD_ISLAND",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779802112,
     "filename": "B___Path_of_the_Teal_Lotus-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779802112.json"
-  },
-  {
-    "game": "Need_for_Speed__Rivals",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1779802034,
-    "filename": "Need_for_Speed__Rivals-Xiaomi-24095PCADG-Mali-G615_MC2-1779802034.json"
   }
 ]
