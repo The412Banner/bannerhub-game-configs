@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779812926,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779812926.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1779801223,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1779801223.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1779801217,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-24069PC21G-Adreno__TM__735-1779801217.json"
   }
 ]
