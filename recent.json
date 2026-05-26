@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "TB320FC",
+    "device": "Adreno__TM__730",
+    "timestamp": 1779754864,
+    "filename": "Resident_Evil_2-Lenovo-TB320FC-Adreno__TM__730-1779754864.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__22",
     "timestamp": 1779743801,
     "filename": "NieR_Automata_-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1779743801.json"
-  },
-  {
-    "game": "Paralives",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1779743634,
-    "filename": "Paralives-samsung-SM-A356E-Mali-G68-1779743634.json"
   }
 ]
