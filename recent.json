@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prototype_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779765777,
+    "filename": "Prototype_2-ITEL-itel_S666LN-Mali-G57_MC2-1779765777.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779748363,
     "filename": "States_of_Power_Demo-motorola-moto_g05-Mali-G52_MC2-1779748363.json"
-  },
-  {
-    "game": "BALDI",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779748073,
-    "filename": "BALDI-INFINIX-Infinix_X6831-Mali-G52_MC2-1779748073.json"
   }
 ]
