@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779778540,
+    "filename": "Grand_Theft_Auto_V-TECNO-TECNO_KL5-Mali-G52_MC2-1779778540.json"
+  },
+  {
     "game": "My_Summer_Car_v30_10_2016_setup",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1779759195,
     "filename": "MITE-Xiaomi-2510ERA8BG-Adreno__TM__810-1779759195.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2_Demo",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1779756072,
-    "filename": "Euro_Truck_Simulator_2_Demo-samsung-SM-G975F-Mali-G76-1779756072.json"
   }
 ]
