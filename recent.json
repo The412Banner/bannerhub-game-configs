@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_7",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779798852,
+    "filename": "TEKKEN_7-LENOVO-TB321FU-Adreno__TM__750-1779798852.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779782990,
     "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-Xiaomi-25053PC47G-Adreno__TM__825-1779782990.json"
-  },
-  {
-    "game": "WWE_2K15",
-    "manufacturer": "itel_A6611L",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1779782894,
-    "filename": "WWE_2K15-ITEL-itel_A6611L-PowerVR_Rogue_GE8322-1779782894.json"
   }
 ]
