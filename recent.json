@@ -3,6 +3,13 @@
     "game": "oriDE",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1779793751,
+    "filename": "oriDE-HONOR-LLY-NX1-Mali-G57_MC2-1779793751.json"
+  },
+  {
+    "game": "oriDE",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1779793736,
     "filename": "oriDE-HONOR-LLY-NX1-Mali-G57_MC2-1779793736.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779778540,
     "filename": "Grand_Theft_Auto_V-TECNO-TECNO_KL5-Mali-G52_MC2-1779778540.json"
-  },
-  {
-    "game": "My_Summer_Car_v30_10_2016_setup",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779778357,
-    "filename": "My_Summer_Car_v30_10_2016_setup-INFINIX-Infinix_X6831-Mali-G52_MC2-1779778357.json"
   }
 ]
