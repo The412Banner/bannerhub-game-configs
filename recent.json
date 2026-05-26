@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1779811387,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M1908C3JGG-Mali-G52-1779811387.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1779799720,
     "filename": "PES_2016-OPPO-CPH2113-Adreno__TM__618-1779799720.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "ONEPLUS_A6003",
-    "device": "Adreno__TM__630",
-    "timestamp": 1779798932,
-    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-ONEPLUS_A6003-Adreno__TM__630-1779798932.json"
   }
 ]
