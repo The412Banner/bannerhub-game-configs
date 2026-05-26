@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1779764097,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M536B-Mali-G68_MC4-1779764097.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1779762200,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1779762200.json"
@@ -131,12 +138,5 @@
     "device": "G76_MC4",
     "timestamp": 1779747017,
     "filename": "Call_of_Duty_3______________________________________________-Xiaomi-Redmi_Note_8_Pro-Mali-G76_MC4-1779747017.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779745838,
-    "filename": "Tomb_Raider-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779745838.json"
   }
 ]
