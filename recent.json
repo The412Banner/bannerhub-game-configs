@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1779772209,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M536B-Mali-G68_MC4-1779772209.json"
+  },
+  {
     "game": "TheAmazingSpider-Man2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1779754864,
     "filename": "Resident_Evil_2-Lenovo-TB320FC-Adreno__TM__730-1779754864.json"
-  },
-  {
-    "game": "Devil_May_Cry_4_Special_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779754664,
-    "filename": "Devil_May_Cry_4_Special_Edition-TECNO-TECNO_CL6-Mali-G57_MC2-1779754664.json"
   }
 ]
