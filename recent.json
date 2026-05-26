@@ -1,5 +1,12 @@
 [
   {
+    "game": "mysummercar",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1779793349,
+    "filename": "mysummercar-Xiaomi-24094RAD4G-PowerVR_B-Series_BXM-8-256-1779793349.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "V2502",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1779772209,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M536B-Mali-G68_MC4-1779772209.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779771374,
-    "filename": "TheAmazingSpider-Man2-realme-RMX5313-Mali-G57-1779771374.json"
   }
 ]
