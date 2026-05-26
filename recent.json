@@ -1,5 +1,12 @@
 [
   {
+    "game": "Another_World___20th_Anniversary_Edition",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1779825883,
+    "filename": "Another_World___20th_Anniversary_Edition-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1779825883.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "25062RN2DA",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779816375,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1779816375.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779816371,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1779816371.json"
   }
 ]
