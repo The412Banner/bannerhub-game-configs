@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779816367,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1779816367.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1779815033,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075F-Mali-G57_MC2-1779815033.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779806384,
     "filename": "Jurassic_World_Evolution-samsung-SM-S918B-Adreno__TM__740-1779806384.json"
-  },
-  {
-    "game": "Resident_Evil_4__2005_",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1779805400,
-    "filename": "Resident_Evil_4__2005_-Xiaomi-M2102J20SG-Adreno__TM__640-1779805400.json"
   }
 ]
