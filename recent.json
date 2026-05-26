@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719",
+    "manufacturer": "A042F",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1779819883,
+    "filename": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719-samsung-SM-A042F-PowerVR_Rogue_GE8320-1779819883.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23122PCD1G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779813348,
     "filename": "1-DEAD_ISLAND-Xiaomi-2312FPCA6G-Mali-G57_MC2-1779813348.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779812933,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779812933.json"
   }
 ]
