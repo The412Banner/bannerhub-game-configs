@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779837567,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1779837567.json"
+  },
+  {
     "game": "setup",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779829208,
     "filename": "The_Surge___________________________________________________-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779829208.json"
-  },
-  {
-    "game": "PRO_EVOLUTION_SOCCER_2018",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1779827090,
-    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-23049PCD8G-Adreno__TM__725-1779827090.json"
   }
 ]
