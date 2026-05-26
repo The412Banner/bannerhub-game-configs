@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779811206,
+    "filename": "BootstrapPackagedGame-Xiaomi-2311DRK48G-Mali-G615_MC6-1779811206.json"
+  },
+  {
     "game": "Debug",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__630",
     "timestamp": 1779798932,
     "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-ONEPLUS_A6003-Adreno__TM__630-1779798932.json"
-  },
-  {
-    "game": "TEKKEN_7",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779798852,
-    "filename": "TEKKEN_7-LENOVO-TB321FU-Adreno__TM__750-1779798852.json"
   }
 ]
