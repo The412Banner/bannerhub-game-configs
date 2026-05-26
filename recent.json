@@ -1,5 +1,12 @@
 [
   {
+    "game": "Activision_Spider-Man_3",
+    "manufacturer": "25057RN09I",
+    "device": "Adreno__TM__619",
+    "timestamp": 1779785979,
+    "filename": "Activision_Spider-Man_3-Xiaomi-25057RN09I-Adreno__TM__619-1779785979.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013___________________________________",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779766372,
     "filename": "ch5_pro-Xiaomi-2510DRA23L-Mali-G57_MC2-1779766372.json"
-  },
-  {
-    "game": "Prototype_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779765777,
-    "filename": "Prototype_2-ITEL-itel_S666LN-Mali-G57_MC2-1779765777.json"
   }
 ]
