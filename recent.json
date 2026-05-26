@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779765748,
+    "filename": "Devil_May_Cry_4_Special_Edition-ITEL-itel_S666LN-Mali-G57_MC2-1779765748.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1779754947,
     "filename": "HOI4-motorola-motorola_edge_20-Adreno__TM__642L-1779754947.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "itel_A6610L",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1779747585,
-    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A6610L-PowerVR_Rogue_GE8322-1779747585.json"
   }
 ]
