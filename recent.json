@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779766372,
+    "filename": "ch5_pro-Xiaomi-2510DRA23L-Mali-G57_MC2-1779766372.json"
+  },
+  {
     "game": "Prototype_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779748381,
     "filename": "States_of_Power_Demo-motorola-moto_g05-Mali-G52_MC2-1779748381.json"
-  },
-  {
-    "game": "States_of_Power_Demo",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779748363,
-    "filename": "States_of_Power_Demo-motorola-moto_g05-Mali-G52_MC2-1779748363.json"
   }
 ]
