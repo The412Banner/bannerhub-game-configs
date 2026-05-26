@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779781497,
+    "filename": "Left_4_Dead_2-TECNO-TECNO_LJ6-Mali-G57_MC2-1779781497.json"
+  },
+  {
     "game": "Attack_on_Titan_2_-_A_O_T_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779762200,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1779762200.json"
-  },
-  {
-    "game": "EasyAntiCheat_Launcher",
-    "manufacturer": "2211133G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779760718,
-    "filename": "EasyAntiCheat_Launcher-Xiaomi-2211133G-Adreno__TM__740-1779760718.json"
   }
 ]
