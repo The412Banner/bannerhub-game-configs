@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779823609,
+    "filename": "Need_for_Speed_9-samsung-SM-A055F-Mali-G52_MC2-1779823609.json"
+  },
+  {
     "game": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719",
     "manufacturer": "A042F",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779813380,
     "filename": "Dead_Island_Definitive_Edition-Xiaomi-2312FPCA6G-Mali-G57_MC2-1779813380.json"
-  },
-  {
-    "game": "1-DEAD_ISLAND",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779813348,
-    "filename": "1-DEAD_ISLAND-Xiaomi-2312FPCA6G-Mali-G57_MC2-1779813348.json"
   }
 ]
