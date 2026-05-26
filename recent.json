@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Rivals",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1779802034,
+    "filename": "Need_for_Speed__Rivals-Xiaomi-24095PCADG-Mali-G615_MC2-1779802034.json"
+  },
+  {
     "game": "WintersWarmth",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1779793349,
     "filename": "mysummercar-Xiaomi-24094RAD4G-PowerVR_B-Series_BXM-8-256-1779793349.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "V2502",
-    "device": "Adreno__TM__810",
-    "timestamp": 1779788867,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2502-Adreno__TM__810-1779788867.json"
   }
 ]
