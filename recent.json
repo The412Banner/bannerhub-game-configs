@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Island_GOTY_LAN",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779814348,
+    "filename": "Dead_Island_GOTY_LAN-Xiaomi-2312FPCA6G-Mali-G57_MC2-1779814348.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779803592,
     "filename": "Jurassic_World_Evolution-samsung-SM-S918B-Adreno__TM__740-1779803592.json"
-  },
-  {
-    "game": "Injustice__2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779803054,
-    "filename": "Injustice__2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779803054.json"
   }
 ]
