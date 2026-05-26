@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779807851,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1779807851.json"
+  },
+  {
     "game": "Jurassic_World_Evolution",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779798265,
     "filename": "MY_HERO_ONE_S_JUSTICE_2-ITEL-itel_S666LN-Mali-G57_MC2-1779798265.json"
-  },
-  {
-    "game": "Hitman__Absolution_",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1779795339,
-    "filename": "Hitman__Absolution_-OnePlus-CPH2423-Mali-G610_MC6-1779795339.json"
   }
 ]
