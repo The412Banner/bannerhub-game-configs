@@ -1,5 +1,12 @@
 [
   {
+    "game": "speed2",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779800977,
+    "filename": "speed2-samsung-SM-S918B-Adreno__TM__740-1779800977.json"
+  },
+  {
     "game": "PES_2016",
     "manufacturer": "CPH2113",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1779785979,
     "filename": "Activision_Spider-Man_3-Xiaomi-25057RN09I-Adreno__TM__619-1779785979.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013___________________________________",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779785935,
-    "filename": "Pro_Evolution_Soccer_2013___________________________________-INFINIX-Infinix_X6728-Mali-G52_MC2-1779785935.json"
   }
 ]
