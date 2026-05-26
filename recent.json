@@ -1,5 +1,12 @@
 [
   {
+    "game": "Debug",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779810656,
+    "filename": "Debug-Xiaomi-2201117PG-Mali-G57_MC2-1779810656.json"
+  },
+  {
     "game": "Watch_Dogs_",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779798852,
     "filename": "TEKKEN_7-LENOVO-TB321FU-Adreno__TM__750-1779798852.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1779798612,
-    "filename": "Grand_Theft_Auto_V-INFINIX-Infinix_X6871-Mali-G610_MC6-1779798612.json"
   }
 ]
