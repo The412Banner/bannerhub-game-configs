@@ -1,5 +1,12 @@
 [
   {
+    "game": "Paralives",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779830640,
+    "filename": "Paralives-Xiaomi-2510DPC44G-Adreno__TM__830-1779830640.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779819319,
     "filename": "Call_of_Duty_2-Xiaomi-2201116TG-Mali-G57_MC2-1779819319.json"
-  },
-  {
-    "game": "Dragon_Ball_FighterZ_Ultimate_Edition_MULTi11_-_ElAmigos____",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779819245,
-    "filename": "Dragon_Ball_FighterZ_Ultimate_Edition_MULTi11_-_ElAmigos____-TECNO-TECNO_CK7n-Mali-G57_MC2-1779819245.json"
   }
 ]
