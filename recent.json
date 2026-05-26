@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779794402,
+    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1779794402.json"
+  },
+  {
     "game": "oriDE",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__620",
     "timestamp": 1779778651,
     "filename": "Soccer_Manager_2026-Xiaomi-Redmi_K30i_5G-Adreno__TM__620-1779778651.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779778540,
-    "filename": "Grand_Theft_Auto_V-TECNO-TECNO_KL5-Mali-G52_MC2-1779778540.json"
   }
 ]
