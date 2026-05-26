@@ -1,5 +1,12 @@
 [
   {
+    "game": "____2016",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779818602,
+    "filename": "____2016-Xiaomi-23122PCD1G-Adreno__TM__710-1779818602.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1779812163,
     "filename": "Terminator_2D_No_Fate_MULTi14_-_ElAmigos____________________-HONOR-ABR-NX3-PowerVR_B-Series_BXM-8-256-1779812163.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "N981N",
-    "device": "Adreno__TM__650",
-    "timestamp": 1779812055,
-    "filename": "BootstrapPackagedGame-samsung-SM-N981N-Adreno__TM__650-1779812055.json"
   }
 ]
