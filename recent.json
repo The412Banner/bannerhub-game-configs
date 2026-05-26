@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stellar_Blade_",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779834004,
+    "filename": "Stellar_Blade_-Xiaomi-2311DRK48G-Mali-G615_MC6-1779834004.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779824840,
     "filename": "American_Truck_Simulator-samsung-SM-S918B-Adreno__TM__740-1779824840.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779823734,
-    "filename": "Need_for_Speed_9-samsung-SM-A055F-Mali-G52_MC2-1779823734.json"
   }
 ]
