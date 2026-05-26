@@ -1,5 +1,12 @@
 [
   {
+    "game": "Injustice__2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779803054,
+    "filename": "Injustice__2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779803054.json"
+  },
+  {
     "game": "B___Path_of_the_Teal_Lotus",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779793751,
     "filename": "oriDE-HONOR-LLY-NX1-Mali-G57_MC2-1779793751.json"
-  },
-  {
-    "game": "oriDE",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779793736,
-    "filename": "oriDE-HONOR-LLY-NX1-Mali-G57_MC2-1779793736.json"
   }
 ]
