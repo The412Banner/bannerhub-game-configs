@@ -1,5 +1,12 @@
 [
   {
+    "game": "WWE_2K15",
+    "manufacturer": "itel_A6611L",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1779782887,
+    "filename": "WWE_2K15-ITEL-itel_A6611L-PowerVR_Rogue_GE8322-1779782887.json"
+  },
+  {
     "game": "Rocket_League",
     "manufacturer": "NX789J_V1B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779765720,
     "filename": "MY_HERO_ONE_S_JUSTICE_2-ITEL-itel_S666LN-Mali-G57_MC2-1779765720.json"
-  },
-  {
-    "game": "Ultra_Street_Fighter__IV",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779765699,
-    "filename": "Ultra_Street_Fighter__IV-ITEL-itel_S666LN-Mali-G57_MC2-1779765699.json"
   }
 ]
