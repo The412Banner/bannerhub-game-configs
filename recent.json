@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779760531,
+    "filename": "Cuphead-samsung-SM-X115-Mali-G57_MC2-1779760531.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2011",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__22",
     "timestamp": 1779745619,
     "filename": "NieR_Automata_-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1779745619.json"
-  },
-  {
-    "game": "Shaolin_vs_Wutang_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779745322,
-    "filename": "Shaolin_vs_Wutang_2-samsung-SM-A075M-Mali-G57_MC2-1779745322.json"
   }
 ]
