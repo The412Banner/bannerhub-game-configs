@@ -1,5 +1,12 @@
 [
   {
+    "game": "RESIDENT_EVIL_6",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779830433,
+    "filename": "RESIDENT_EVIL_6-motorola-motorola_edge_50_fusion-Adreno__TM__710-1779830433.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779818602,
     "filename": "____2016-Xiaomi-23122PCD1G-Adreno__TM__710-1779818602.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1779818329,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-25053PC47G-Adreno__TM__825-1779818329.json"
   }
 ]
