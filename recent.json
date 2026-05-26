@@ -1,5 +1,12 @@
 [
   {
+    "game": "unins000",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779765764,
+    "filename": "unins000-ITEL-itel_S666LN-Mali-G57_MC2-1779765764.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779748073,
     "filename": "BALDI-INFINIX-Infinix_X6831-Mali-G52_MC2-1779748073.json"
-  },
-  {
-    "game": "HOI4",
-    "manufacturer": "motorola_edge_20",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1779754947,
-    "filename": "HOI4-motorola-motorola_edge_20-Adreno__TM__642L-1779754947.json"
   }
 ]
