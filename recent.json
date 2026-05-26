@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1779834006,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1779834006.json"
+  },
+  {
     "game": "Stellar_Blade_",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779825037,
     "filename": "Gameh-Xiaomi-2311DRK48G-Mali-G615_MC6-1779825037.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779824840,
-    "filename": "American_Truck_Simulator-samsung-SM-S918B-Adreno__TM__740-1779824840.json"
   }
 ]
