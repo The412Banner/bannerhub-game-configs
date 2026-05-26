@@ -1,5 +1,12 @@
 [
   {
+    "game": "Carcassonne_-_Tiles___Tactics",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1779825089,
+    "filename": "Carcassonne_-_Tiles___Tactics-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1779825089.json"
+  },
+  {
     "game": "Gameh",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779815033,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075F-Mali-G57_MC2-1779815033.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1779814412,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1779814412.json"
   }
 ]
