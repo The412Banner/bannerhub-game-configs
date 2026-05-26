@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779805337,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S918B-Adreno__TM__740-1779805337.json"
+  },
+  {
     "game": "Jurassic_World_Evolution",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1779794471,
     "filename": "InstallShield-samsung-SM-G975U-Adreno__TM__640-1779794471.json"
-  },
-  {
-    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779794402,
-    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1779794402.json"
   }
 ]
