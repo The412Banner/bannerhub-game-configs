@@ -1,5 +1,12 @@
 [
   {
+    "game": "1-DEAD_ISLAND",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779813348,
+    "filename": "1-DEAD_ISLAND-Xiaomi-2312FPCA6G-Mali-G57_MC2-1779813348.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1779802034,
     "filename": "Need_for_Speed__Rivals-Xiaomi-24095PCADG-Mali-G615_MC2-1779802034.json"
-  },
-  {
-    "game": "WintersWarmth",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779801416,
-    "filename": "WintersWarmth-INFINIX-Infinix_X6885-Mali-G57_MC2-1779801416.json"
   }
 ]
