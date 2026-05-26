@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779786413,
+    "filename": "BlackOps-Xiaomi-23113RKC6G-Adreno__TM__740-1779786413.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779770342,
     "filename": "FIFA_19-nubia-NX799J-Adreno__TM__830-1779770342.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779768800,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1779768800.json"
   }
 ]
