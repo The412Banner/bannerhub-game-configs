@@ -1,5 +1,12 @@
 [
   {
+    "game": "Jurassic_World_Evolution",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779803592,
+    "filename": "Jurassic_World_Evolution-samsung-SM-S918B-Adreno__TM__740-1779803592.json"
+  },
+  {
     "game": "Injustice__2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779794402,
     "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1779794402.json"
-  },
-  {
-    "game": "oriDE",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779793751,
-    "filename": "oriDE-HONOR-LLY-NX1-Mali-G57_MC2-1779793751.json"
   }
 ]
