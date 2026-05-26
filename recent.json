@@ -1,5 +1,12 @@
 [
   {
+    "game": "InstallShield",
+    "manufacturer": "G975U",
+    "device": "Adreno__TM__640",
+    "timestamp": 1779794471,
+    "filename": "InstallShield-samsung-SM-G975U-Adreno__TM__640-1779794471.json"
+  },
+  {
     "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1779780201,
     "filename": "Grand_Theft_Auto_IV-OPPO-CPH2235-Adreno__TM__618-1779780201.json"
-  },
-  {
-    "game": "Soccer_Manager_2026",
-    "manufacturer": "Redmi_K30i_5G",
-    "device": "Adreno__TM__620",
-    "timestamp": 1779778651,
-    "filename": "Soccer_Manager_2026-Xiaomi-Redmi_K30i_5G-Adreno__TM__620-1779778651.json"
   }
 ]
