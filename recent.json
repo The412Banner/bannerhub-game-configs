@@ -1,5 +1,12 @@
 [
   {
+    "game": "My_Summer_Car_v30_10_2016_setup",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779778357,
+    "filename": "My_Summer_Car_v30_10_2016_setup-INFINIX-Infinix_X6831-Mali-G52_MC2-1779778357.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1779756072,
     "filename": "Euro_Truck_Simulator_2_Demo-samsung-SM-G975F-Mali-G76-1779756072.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "TB320FC",
-    "device": "Adreno__TM__730",
-    "timestamp": 1779754864,
-    "filename": "Resident_Evil_2-Lenovo-TB320FC-Adreno__TM__730-1779754864.json"
   }
 ]
