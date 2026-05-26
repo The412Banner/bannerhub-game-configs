@@ -1,5 +1,12 @@
 [
   {
+    "game": "Attack_on_Titan_2_-_A_O_T_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779780390,
+    "filename": "Attack_on_Titan_2_-_A_O_T_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1779780390.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV",
     "manufacturer": "CPH2235",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779760718,
     "filename": "EasyAntiCheat_Launcher-Xiaomi-2211133G-Adreno__TM__740-1779760718.json"
-  },
-  {
-    "game": "Cuphead",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779760531,
-    "filename": "Cuphead-samsung-SM-X115-Mali-G57_MC2-1779760531.json"
   }
 ]
