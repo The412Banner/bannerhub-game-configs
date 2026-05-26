@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "V2502",
+    "device": "Adreno__TM__810",
+    "timestamp": 1779788867,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2502-Adreno__TM__810-1779788867.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013___________________________________",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779771374,
     "filename": "TheAmazingSpider-Man2-realme-RMX5313-Mali-G57-1779771374.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779771371,
-    "filename": "TheAmazingSpider-Man2-realme-RMX5313-Mali-G57-1779771371.json"
   }
 ]
