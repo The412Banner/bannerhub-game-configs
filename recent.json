@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013___________________________________",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779786573,
+    "filename": "Pro_Evolution_Soccer_2013___________________________________-INFINIX-Infinix_X6728-Mali-G52_MC2-1779786573.json"
+  },
+  {
     "game": "BlackOps",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779771371,
     "filename": "TheAmazingSpider-Man2-realme-RMX5313-Mali-G57-1779771371.json"
-  },
-  {
-    "game": "FIFA_19",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779770342,
-    "filename": "FIFA_19-nubia-NX799J-Adreno__TM__830-1779770342.json"
   }
 ]
