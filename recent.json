@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs_",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1779810032,
+    "filename": "Watch_Dogs_-motorola-moto_g45_5G-Adreno__TM__619-1779810032.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779798331,
     "filename": "MY_HERO_ONE_S_JUSTICE-ITEL-itel_S666LN-Mali-G57_MC2-1779798331.json"
-  },
-  {
-    "game": "MY_HERO_ONE_S_JUSTICE",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779798282,
-    "filename": "MY_HERO_ONE_S_JUSTICE-ITEL-itel_S666LN-Mali-G57_MC2-1779798282.json"
   }
 ]
