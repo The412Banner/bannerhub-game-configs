@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_19",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779770342,
+    "filename": "FIFA_19-nubia-NX799J-Adreno__TM__830-1779770342.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779749710,
     "filename": "EA_SPORTS__FIFA_23-OPPO-CPH2473-Adreno__TM__610-1779749710.json"
-  },
-  {
-    "game": "States_of_Power_Demo",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779748427,
-    "filename": "States_of_Power_Demo-motorola-moto_g05-Mali-G52_MC2-1779748427.json"
   }
 ]
