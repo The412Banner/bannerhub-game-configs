@@ -1,5 +1,12 @@
 [
   {
+    "game": "Soccer_Manager_2026",
+    "manufacturer": "Redmi_K30i_5G",
+    "device": "Adreno__TM__620",
+    "timestamp": 1779778651,
+    "filename": "Soccer_Manager_2026-Xiaomi-Redmi_K30i_5G-Adreno__TM__620-1779778651.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1779759765,
     "filename": "Pro_Evolution_Soccer_2011-motorola-motorola_edge_60_fusion-Mali-G615_MC2-1779759765.json"
-  },
-  {
-    "game": "MITE",
-    "manufacturer": "2510ERA8BG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1779759195,
-    "filename": "MITE-Xiaomi-2510ERA8BG-Adreno__TM__810-1779759195.json"
   }
 ]
