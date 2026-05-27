@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779919825,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A057M-Adreno__TM__610-1779919825.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779913036,
     "filename": "poppy_5-HONOR-NIC-LX1-Mali-G52_MC2-1779913036.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779912825,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-ITEL-itel_S688LN-Mali-G57-1779912825.json"
   }
 ]
