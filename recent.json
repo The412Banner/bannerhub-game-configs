@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Surge___________________________________________________",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779890315,
+    "filename": "The_Surge___________________________________________________-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779890315.json"
+  },
+  {
     "game": "DmC_Devil_May_Cry",
     "manufacturer": "CPH2767",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779875329,
     "filename": "Euro_Truck_Simulator_2-OPPO-CPH2725-Adreno__TM__610-1779875329.json"
-  },
-  {
-    "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
-    "manufacturer": "motorola_edge_50_ultra",
-    "device": "Adreno__TM__735",
-    "timestamp": 1779875311,
-    "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-motorola-motorola_edge_50_ultra-Adreno__TM__735-1779875311.json"
   }
 ]
