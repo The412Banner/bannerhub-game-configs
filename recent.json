@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779855957,
+    "filename": "Need_for_Speed_9-INFINIX_MOBILITY_LIMITED-Infinix_X697-Mali-G57_MC2-1779855957.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man_Remastered",
     "manufacturer": "G715",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779847106,
     "filename": "Just_Cause_2-TECNO-TECNO_LI6-Mali-G57_MC2-1779847106.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779846647,
-    "filename": "PlayGTAV-samsung-SM-A155F-Mali-G57_MC2-1779846647.json"
   }
 ]
