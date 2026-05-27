@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779840974,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX799J-Adreno__TM__830-1779840974.json"
+  },
+  {
     "game": "MOUSE",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779830640,
     "filename": "Paralives-Xiaomi-2510DPC44G-Adreno__TM__830-1779830640.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1779830478,
-    "filename": "DARK_SOULS___REMASTERED-Xiaomi-25053RT47C-Adreno__TM__825-1779830478.json"
   }
 ]
