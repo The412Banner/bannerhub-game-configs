@@ -3,6 +3,13 @@
     "game": "Resident_Evil_3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1779849050,
+    "filename": "Resident_Evil_3-Xiaomi-24117RN76L-Mali-G57_MC2-1779849050.json"
+  },
+  {
+    "game": "Resident_Evil_3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1779848956,
     "filename": "Resident_Evil_3-Xiaomi-24117RN76L-Mali-G57_MC2-1779848956.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779840618,
     "filename": "MOUSE-Xiaomi-23053RN02A-Mali-G52_MC2-1779840618.json"
-  },
-  {
-    "game": "Mini_World__Block_Art",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779838774,
-    "filename": "Mini_World__Block_Art-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779838774.json"
   }
 ]
