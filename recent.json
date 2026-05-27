@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779896085,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25028PC03G-Mali-G57-1779896085.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2010",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779885397,
     "filename": "Car_For_Sale_Simulator_2023-Xiaomi-23124RA7EO-Adreno__TM__610-1779885397.json"
-  },
-  {
-    "game": "Battlefield_3_",
-    "manufacturer": "I2501",
-    "device": "Adreno__TM__840",
-    "timestamp": 1779885365,
-    "filename": "Battlefield_3_-vivo-I2501-Adreno__TM__840-1779885365.json"
   }
 ]
