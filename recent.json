@@ -1,5 +1,12 @@
 [
   {
+    "game": "World_of_Tanks_Blitz",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1779875573,
+    "filename": "World_of_Tanks_Blitz-OUKITEL-WP200_Pro-Mali-G610_MC6-1779875573.json"
+  },
+  {
     "game": "Sonic_vis",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779862360,
     "filename": "BootstrapPackagedGame-motorola-moto_g75_5G-Adreno__TM__710-1779862360.json"
-  },
-  {
-    "game": "eFootball_",
-    "manufacturer": "2509FPN0BC",
-    "device": "Adreno__TM__840",
-    "timestamp": 1779860364,
-    "filename": "eFootball_-Xiaomi-2509FPN0BC-Adreno__TM__840-1779860364.json"
   }
 ]
