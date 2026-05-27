@@ -1,5 +1,12 @@
 [
   {
+    "game": "WatchDogs2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1779904289,
+    "filename": "WatchDogs2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779904289.json"
+  },
+  {
     "game": "World_War_Z",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779898212,
     "filename": "Stellar_Blade_-AYN-Odin2-Adreno__TM__740-1779898212.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779897504,
-    "filename": "Need_for_Speed_9-Xiaomi-2311DRK48G-Mali-G615_MC6-1779897504.json"
   }
 ]
