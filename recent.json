@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1779915525,
+    "filename": "Devil_May_Cry_4_Special_Edition-INFINIX-Infinix_X6871-Mali-G610_MC6-1779915525.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779908217,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-ITEL-itel_S688LN-Mali-G57-1779908217.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779908005,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-ITEL-itel_S688LN-Mali-G57-1779908005.json"
   }
 ]
