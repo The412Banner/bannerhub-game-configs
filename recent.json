@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield_3_",
+    "manufacturer": "I2501",
+    "device": "Adreno__TM__840",
+    "timestamp": 1779885365,
+    "filename": "Battlefield_3_-vivo-I2501-Adreno__TM__840-1779885365.json"
+  },
+  {
     "game": "Castlevania__Lords_of_Shadow_2",
     "manufacturer": "F968U1",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779869666,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_LJ6-Mali-G57_MC2-1779869666.json"
-  },
-  {
-    "game": "Dead_Space__2008_",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1779865763,
-    "filename": "Dead_Space__2008_-Xiaomi-23049PCD8G-Adreno__TM__725-1779865763.json"
   }
 ]
