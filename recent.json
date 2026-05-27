@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_e22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1779848004,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e22-PowerVR_Rogue_GE8320-1779848004.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1779838539,
     "filename": "Pes_2013-samsung-SM-M526B-Adreno__TM__642L-1779838539.json"
-  },
-  {
-    "game": "Freedom",
-    "manufacturer": "Mali",
-    "device": "G72",
-    "timestamp": 1779841661,
-    "filename": "Freedom-samsung-SM-N960F-Mali-G72-1779841661.json"
   }
 ]
