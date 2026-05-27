@@ -3,6 +3,13 @@
     "game": "GIANTS_Engine",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1779898776,
+    "filename": "GIANTS_Engine-Xiaomi-23053RN02I-Mali-G52_MC2-1779898776.json"
+  },
+  {
+    "game": "GIANTS_Engine",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1779898673,
     "filename": "GIANTS_Engine-Xiaomi-23053RN02I-Mali-G52_MC2-1779898673.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779891121,
     "filename": "Hoop_Land-AYANEO-Pocket_FIT-Adreno__TM__750-1779891121.json"
-  },
-  {
-    "game": "Resident_Evil_7_Teaser__Beginning_Hour",
-    "manufacturer": "V2247",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779890870,
-    "filename": "Resident_Evil_7_Teaser__Beginning_Hour-vivo-V2247-Adreno__TM__610-1779890870.json"
   }
 ]
