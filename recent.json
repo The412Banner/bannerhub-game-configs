@@ -1,5 +1,12 @@
 [
   {
+    "game": "MXGP",
+    "manufacturer": "moto_g_8__power",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779910397,
+    "filename": "MXGP-motorola-moto_g_8__power-Adreno__TM__610-1779910397.json"
+  },
+  {
     "game": "MaxPayne____________________________________________________",
     "manufacturer": "T735",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779904808,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-ITEL-itel_S688LN-Mali-G57-1779904808.json"
-  },
-  {
-    "game": "Celeste",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779904425,
-    "filename": "Celeste-AYANEO-Pocket_FIT-Adreno__TM__750-1779904425.json"
   }
 ]
