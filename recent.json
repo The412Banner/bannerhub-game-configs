@@ -1,5 +1,12 @@
 [
   {
+    "game": "Noita",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779883267,
+    "filename": "Noita-INFINIX-Infinix_X6873-Mali-G615_MC6-1779883267.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1779864985,
     "filename": "Dead_Space__2008_-Xiaomi-23049PCD8G-Adreno__TM__725-1779864985.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779864251,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2410FPCC5G-Mali-G52_MC2-1779864251.json"
   }
 ]
