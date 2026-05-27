@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "CPH2725",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779875329,
+    "filename": "Euro_Truck_Simulator_2-OPPO-CPH2725-Adreno__TM__610-1779875329.json"
+  },
+  {
     "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
     "manufacturer": "motorola_edge_50_ultra",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779857205,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1779857205.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_6_DEMO__________________________________________",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779856657,
-    "filename": "Pro_Evolution_Soccer_6_DEMO__________________________________________-Xiaomi-25028PC03G-Mali-G57-1779856657.json"
   }
 ]
