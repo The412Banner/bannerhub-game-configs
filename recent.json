@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Most_Wanted_________________________________",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779843273,
+    "filename": "Need_for_Speed__Most_Wanted_________________________________-INFINIX_MOBILITY_LIMITED-Infinix_X697-Mali-G57_MC2-1779843273.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1779833969,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1779833969.json"
-  },
-  {
-    "game": "REPLACED",
-    "manufacturer": "Retroid_Pocket_G2",
-    "device": "Adreno__TM__22",
-    "timestamp": 1779832169,
-    "filename": "REPLACED-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1779832169.json"
   }
 ]
