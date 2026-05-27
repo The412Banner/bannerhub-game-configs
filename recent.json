@@ -1,5 +1,12 @@
 [
   {
+    "game": "CarX_Drift_Racing_Online",
+    "manufacturer": "Razer_Edge_WiFi",
+    "device": "Adreno__TM__660",
+    "timestamp": 1779917085,
+    "filename": "CarX_Drift_Racing_Online-Razer-Razer_Edge_WiFi-Adreno__TM__660-1779917085.json"
+  },
+  {
     "game": "Manhunt_____________________________________________________",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1779910320,
     "filename": "MaxPayne____________________________________________________-samsung-SM-T735-Adreno__TM__619-1779910320.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "A556E",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1779909343,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1779909343.json"
   }
 ]
