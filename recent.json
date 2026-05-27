@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "moto_g75_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779862360,
+    "filename": "BootstrapPackagedGame-motorola-moto_g75_5G-Adreno__TM__710-1779862360.json"
+  },
+  {
     "game": "eFootball_",
     "manufacturer": "2509FPN0BC",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779849846,
     "filename": "Horny_Zero_Moan___-samsung-SM-A155M-Mali-G57_MC2-1779849846.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779849158,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX799J-Adreno__TM__830-1779849158.json"
   }
 ]
