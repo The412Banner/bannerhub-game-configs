@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1779922708,
+    "filename": "Resident_Evil_5-INFINIX-Infinix_X6871-Mali-G610_MC6-1779922708.json"
+  },
+  {
     "game": "FIFA_14_-_Ultimate_Edition__________________________________",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779915196,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02L-Mali-G52_MC2-1779915196.json"
-  },
-  {
-    "game": "Deluge",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779914922,
-    "filename": "Deluge-ITEL-itel_S688LN-Mali-G57-1779914922.json"
   }
 ]
