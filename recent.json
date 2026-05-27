@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779899912,
+    "filename": "Euro_Truck_Simulator_2-realme-RMX3830-Mali-G57-1779899912.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G72_MP3",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779891747,
     "filename": "God_of_War-OnePlus-CPH2647-Adreno__TM__750-1779891747.json"
-  },
-  {
-    "game": "Need_for_Speed__Heat",
-    "manufacturer": "NX779J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779891306,
-    "filename": "Need_for_Speed__Heat-nubia-NX779J-Adreno__TM__750-1779891306.json"
   }
 ]
