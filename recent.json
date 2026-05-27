@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castlevania__Lords_of_Shadow_2",
+    "manufacturer": "F968U1",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779884604,
+    "filename": "Castlevania__Lords_of_Shadow_2-samsung-SM-F968U1-Adreno__TM__830-1779884604.json"
+  },
+  {
     "game": "RE_6",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1779865763,
     "filename": "Dead_Space__2008_-Xiaomi-23049PCD8G-Adreno__TM__725-1779865763.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779865444,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_CM5-Mali-G57_MC2-1779865444.json"
   }
 ]
