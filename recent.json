@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution",
+    "manufacturer": "motorola_edge_50_pro",
+    "device": "Adreno__TM__720",
+    "timestamp": 1779903318,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution-motorola-motorola_edge_50_pro-Adreno__TM__720-1779903318.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779896638,
     "filename": "Grand_Theft_Auto_V_Legacy-ITEL-itel_S688LN-Mali-G57-1779896638.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779896505,
-    "filename": "Resident_Evil_Revelations_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1779896505.json"
   }
 ]
