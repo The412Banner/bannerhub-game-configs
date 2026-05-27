@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779844646,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6833B-Mali-G57_MC2-1779844646.json"
+  },
+  {
     "game": "Valdis_Story_Abyssal_City_______________________________________",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779834113,
     "filename": "Little_Nightmares-OPPO-CPH3669-Adreno__TM__610-1779834113.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1779834006,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1779834006.json"
   }
 ]
