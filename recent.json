@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lost_For_Swords",
+    "manufacturer": "M2101K6G",
+    "device": "Adreno__TM__618",
+    "timestamp": 1779873988,
+    "filename": "Lost_For_Swords-Xiaomi-M2101K6G-Adreno__TM__618-1779873988.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G51",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779856615,
     "filename": "Pro_Evolution_Soccer_6_DEMO__________________________________________-Xiaomi-25028PC03G-Mali-G57-1779856615.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779856138,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117PG-Mali-G57_MC2-1779856138.json"
   }
 ]
