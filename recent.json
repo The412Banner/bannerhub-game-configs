@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779923490,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2310FPCA4G-Mali-G52_MC2-1779923490.json"
+  },
+  {
     "game": "PES_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1779915525,
     "filename": "Devil_May_Cry_4_Special_Edition-INFINIX-Infinix_X6871-Mali-G610_MC6-1779915525.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1779915315,
-    "filename": "Resident_Evil_6-INFINIX-Infinix_X6871-Mali-G610_MC6-1779915315.json"
   }
 ]
