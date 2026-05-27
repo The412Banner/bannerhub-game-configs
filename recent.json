@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779912759,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-ITEL-itel_S688LN-Mali-G57-1779912759.json"
+  },
+  {
     "game": "M_U_G_E_N",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779905161,
     "filename": "Megabonk-INFINIX_MOBILITY_LIMITED-Infinix_X697-Mali-G57_MC2-1779905161.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779905152,
-    "filename": "Need_for_Speed_9-INFINIX_MOBILITY_LIMITED-Infinix_X697-Mali-G57_MC2-1779905152.json"
   }
 ]
