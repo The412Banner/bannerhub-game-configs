@@ -1,5 +1,12 @@
 [
   {
+    "game": "_",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779897250,
+    "filename": "_-samsung-SM-S918B-Adreno__TM__740-1779897250.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779888172,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RAA4G-Adreno__TM__610-1779888172.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Rogue",
-    "manufacturer": "23122PCD1G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779887919,
-    "filename": "Assassin_s_Creed__Rogue-Xiaomi-23122PCD1G-Adreno__TM__710-1779887919.json"
   }
 ]
