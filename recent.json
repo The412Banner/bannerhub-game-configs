@@ -3,6 +3,13 @@
     "game": "utorrent-3-5-5-45798",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1779913782,
+    "filename": "utorrent-3-5-5-45798-ITEL-itel_S688LN-Mali-G57-1779913782.json"
+  },
+  {
+    "game": "utorrent-3-5-5-45798",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1779913776,
     "filename": "utorrent-3-5-5-45798-ITEL-itel_S688LN-Mali-G57-1779913776.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1779906760,
     "filename": "TEKKEN_7-Xiaomi-2410CRP4CG-Adreno__TM__732-1779906760.json"
-  },
-  {
-    "game": "Mortal_Kombat_11",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779906469,
-    "filename": "Mortal_Kombat_11-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779906469.json"
   }
 ]
