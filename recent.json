@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779915196,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02L-Mali-G52_MC2-1779915196.json"
+  },
+  {
     "game": "Deluge",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779907796,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-ITEL-itel_S688LN-Mali-G57-1779907796.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779907413,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-ITEL-itel_S688LN-Mali-G57-1779907413.json"
   }
 ]
