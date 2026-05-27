@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779921098,
+    "filename": "PES_2013-Xiaomi-2310FPCA4G-Mali-G52_MC2-1779921098.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779913776,
     "filename": "utorrent-3-5-5-45798-ITEL-itel_S688LN-Mali-G57-1779913776.json"
-  },
-  {
-    "game": "poppy_5",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779913036,
-    "filename": "poppy_5-HONOR-NIC-LX1-Mali-G52_MC2-1779913036.json"
   }
 ]
