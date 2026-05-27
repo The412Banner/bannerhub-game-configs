@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_",
+    "manufacturer": "2509FPN0BC",
+    "device": "Adreno__TM__840",
+    "timestamp": 1779860364,
+    "filename": "eFootball_-Xiaomi-2509FPN0BC-Adreno__TM__840-1779860364.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779849158,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX799J-Adreno__TM__830-1779849158.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779849050,
-    "filename": "Resident_Evil_3-Xiaomi-24117RN76L-Mali-G57_MC2-1779849050.json"
   }
 ]
