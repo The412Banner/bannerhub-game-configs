@@ -1,5 +1,12 @@
 [
   {
+    "game": "utorrent-3-5-5-45798",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779913776,
+    "filename": "utorrent-3-5-5-45798-ITEL-itel_S688LN-Mali-G57-1779913776.json"
+  },
+  {
     "game": "poppy_5",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779906469,
     "filename": "Mortal_Kombat_11-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779906469.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "N975U1",
-    "device": "Adreno__TM__640",
-    "timestamp": 1779905871,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-N975U1-Adreno__TM__640-1779905871.json"
   }
 ]
