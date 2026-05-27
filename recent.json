@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G72_MP3",
+    "timestamp": 1779899741,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_one_macro-Mali-G72_MP3-1779899741.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779891306,
     "filename": "Need_for_Speed__Heat-nubia-NX779J-Adreno__TM__750-1779891306.json"
-  },
-  {
-    "game": "Kusan___City_of_Wolves_Demo",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779891144,
-    "filename": "Kusan___City_of_Wolves_Demo-AYANEO-Pocket_FIT-Adreno__TM__750-1779891144.json"
   }
 ]
