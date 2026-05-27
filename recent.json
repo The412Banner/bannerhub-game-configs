@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_7",
+    "manufacturer": "2410CRP4CG",
+    "device": "Adreno__TM__732",
+    "timestamp": 1779906760,
+    "filename": "TEKKEN_7-Xiaomi-2410CRP4CG-Adreno__TM__732-1779906760.json"
+  },
+  {
     "game": "Mortal_Kombat_11",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779902684,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-MAO-LX9N-Adreno__TM__610-1779902684.json"
-  },
-  {
-    "game": "Fears_to_Fathom_-_Ironbark_Lookout",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1779901770,
-    "filename": "Fears_to_Fathom_-_Ironbark_Lookout-motorola-moto_g84_5G-Adreno__TM__619-1779901770.json"
   }
 ]
