@@ -1,5 +1,12 @@
 [
   {
+    "game": "MinecraftInstaller",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779872859,
+    "filename": "MinecraftInstaller-Xiaomi-23108RN04Y-Mali-G52_MC2-1779872859.json"
+  },
+  {
     "game": "The_Witcher_2__Assassins_of_Kings_Enhanced_Edition",
     "manufacturer": "V2247",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779855957,
     "filename": "Need_for_Speed_9-INFINIX_MOBILITY_LIMITED-Infinix_X697-Mali-G57_MC2-1779855957.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man_Remastered",
-    "manufacturer": "G715",
-    "device": "Immortalis_MC11",
-    "timestamp": 1779855368,
-    "filename": "Marvel_s_Spider-Man_Remastered-Xiaomi-23078PND5G-Mali-G715-Immortalis_MC11-1779855368.json"
   }
 ]
