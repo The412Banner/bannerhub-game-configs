@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "LX9N",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779902684,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-MAO-LX9N-Adreno__TM__610-1779902684.json"
+  },
+  {
     "game": "Fears_to_Fathom_-_Ironbark_Lookout",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779894763,
     "filename": "MotoGP17-realme-RMX5303-Mali-G57-1779894763.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "CPH2647",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779892064,
-    "filename": "God_of_War-OnePlus-CPH2647-Adreno__TM__750-1779892064.json"
   }
 ]
