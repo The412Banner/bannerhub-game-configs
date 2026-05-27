@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "CPH2647",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779891747,
+    "filename": "God_of_War-OnePlus-CPH2647-Adreno__TM__750-1779891747.json"
+  },
+  {
     "game": "Need_for_Speed__Heat",
     "manufacturer": "NX779J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779881411,
     "filename": "Resident_Evil_3-Xiaomi-24117RN76L-Mali-G57_MC2-1779881411.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779879932,
-    "filename": "Resident_Evil_3-Xiaomi-24117RN76L-Mali-G57_MC2-1779879932.json"
   }
 ]
