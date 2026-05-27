@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
+    "manufacturer": "motorola_edge_50_ultra",
+    "device": "Adreno__TM__735",
+    "timestamp": 1779875311,
+    "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-motorola-motorola_edge_50_ultra-Adreno__TM__735-1779875311.json"
+  },
+  {
     "game": "Lost_For_Swords",
     "manufacturer": "M2101K6G",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779856657,
     "filename": "Pro_Evolution_Soccer_6_DEMO__________________________________________-Xiaomi-25028PC03G-Mali-G57-1779856657.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_6_DEMO__________________________________________",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779856615,
-    "filename": "Pro_Evolution_Soccer_6_DEMO__________________________________________-Xiaomi-25028PC03G-Mali-G57-1779856615.json"
   }
 ]
