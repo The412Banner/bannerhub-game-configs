@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "22101320G",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1779852317,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-22101320G-Adreno__TM__642L-1779852317.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2209116AG",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779845060,
     "filename": "The_Mortuary_Assistant-Xiaomi-23106RN0DA-Mali-G52_MC2-1779845060.json"
-  },
-  {
-    "game": "The_Mortuary_Assistant",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779845048,
-    "filename": "The_Mortuary_Assistant-Xiaomi-23106RN0DA-Mali-G52_MC2-1779845048.json"
   }
 ]
