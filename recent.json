@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779847583,
+    "filename": "Red_Dead_Redemption_2-AYN-AYN_Thor-Adreno__TM__740-1779847583.json"
+  },
+  {
     "game": "Just_Cause_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1779841661,
     "filename": "Freedom-samsung-SM-N960F-Mali-G72-1779841661.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "motorola_edge_30_pro",
-    "device": "Adreno__TM__730",
-    "timestamp": 1779837842,
-    "filename": "Far_Cry_3-motorola-motorola_edge_30_pro-Adreno__TM__730-1779837842.json"
   }
 ]
