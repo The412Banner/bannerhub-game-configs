@@ -1,5 +1,12 @@
 [
   {
+    "game": "Car_For_Sale_Simulator_2023",
+    "manufacturer": "23124RA7EO",
+    "device": "Adreno__TM__610",
+    "timestamp": 1779885397,
+    "filename": "Car_For_Sale_Simulator_2023-Xiaomi-23124RA7EO-Adreno__TM__610-1779885397.json"
+  },
+  {
     "game": "Battlefield_3_",
     "manufacturer": "I2501",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779870198,
     "filename": "Hellblade__Senua_s_Sacrifice-vivo-V2247-Adreno__TM__610-1779870198.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779869666,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_LJ6-Mali-G57_MC2-1779869666.json"
   }
 ]
