@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779905380,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-ITEL-itel_S688LN-Mali-G57-1779905380.json"
+  },
+  {
     "game": "Megabonk",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779899912,
     "filename": "Euro_Truck_Simulator_2-realme-RMX3830-Mali-G57-1779899912.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G72_MP3",
-    "timestamp": 1779899741,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_one_macro-Mali-G72_MP3-1779899741.json"
   }
 ]
