@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "CPH2647",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779892064,
+    "filename": "God_of_War-OnePlus-CPH2647-Adreno__TM__750-1779892064.json"
+  },
+  {
     "game": "mysummercar",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779883937,
     "filename": "RE_6-TECNO-TECNO_LH8n-Mali-G57_MC2-1779883937.json"
-  },
-  {
-    "game": "Noita",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779883267,
-    "filename": "Noita-INFINIX-Infinix_X6873-Mali-G615_MC6-1779883267.json"
   }
 ]
