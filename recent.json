@@ -1,5 +1,12 @@
 [
   {
+    "game": "MaxPayne____________________________________________________",
+    "manufacturer": "T735",
+    "device": "Adreno__TM__619",
+    "timestamp": 1779910320,
+    "filename": "MaxPayne____________________________________________________-samsung-SM-T735-Adreno__TM__619-1779910320.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779904425,
     "filename": "Celeste-AYANEO-Pocket_FIT-Adreno__TM__750-1779904425.json"
-  },
-  {
-    "game": "WatchDogs2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779904289,
-    "filename": "WatchDogs2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779904289.json"
   }
 ]
