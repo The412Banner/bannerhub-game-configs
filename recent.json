@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGOBAT",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1779850426,
+    "filename": "LEGOBAT-Xiaomi-24069PC21G-Adreno__TM__735-1779850426.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779844646,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6833B-Mali-G57_MC2-1779844646.json"
-  },
-  {
-    "game": "Valdis_Story_Abyssal_City_______________________________________",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779844477,
-    "filename": "Valdis_Story_Abyssal_City_______________________________________-Xiaomi-2409BRN2CY-Mali-G52_MC2-1779844477.json"
   }
 ]
