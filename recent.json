@@ -1,5 +1,12 @@
 [
   {
+    "game": "Deluge",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779914922,
+    "filename": "Deluge-ITEL-itel_S688LN-Mali-G57-1779914922.json"
+  },
+  {
     "game": "utorrent-3-5-5-45798",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779907413,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-ITEL-itel_S688LN-Mali-G57-1779907413.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779907260,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1779907260.json"
   }
 ]
