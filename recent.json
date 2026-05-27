@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Elder_Scrolls_V__Skyrim",
+    "manufacturer": "S938U",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779845799,
+    "filename": "The_Elder_Scrolls_V__Skyrim-samsung-SM-S938U-Adreno__TM__830-1779845799.json"
+  },
+  {
     "game": "The_Mortuary_Assistant",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779836868,
     "filename": "Tomb_Raider-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779836868.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider_",
-    "manufacturer": "RMX5010",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779836007,
-    "filename": "Rise_of_the_Tomb_Raider_-realme-RMX5010-Adreno__TM__830-1779836007.json"
   }
 ]
