@@ -1,5 +1,12 @@
 [
   {
+    "game": "M_U_G_E_N",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779912004,
+    "filename": "M_U_G_E_N-ITEL-itel_S688LN-Mali-G57-1779912004.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779904900,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-ITEL-itel_S688LN-Mali-G57-1779904900.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779904835,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-ITEL-itel_S688LN-Mali-G57-1779904835.json"
   }
 ]
