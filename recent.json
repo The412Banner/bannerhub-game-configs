@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779917189,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-ITEL-itel_S688LN-Mali-G57-1779917189.json"
+  },
+  {
     "game": "CarX_Drift_Racing_Online",
     "manufacturer": "Razer_Edge_WiFi",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779910397,
     "filename": "MXGP-motorola-moto_g_8__power-Adreno__TM__610-1779910397.json"
-  },
-  {
-    "game": "MaxPayne____________________________________________________",
-    "manufacturer": "T735",
-    "device": "Adreno__TM__619",
-    "timestamp": 1779910320,
-    "filename": "MaxPayne____________________________________________________-samsung-SM-T735-Adreno__TM__619-1779910320.json"
   }
 ]
