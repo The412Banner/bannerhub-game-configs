@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779905152,
+    "filename": "Need_for_Speed_9-INFINIX_MOBILITY_LIMITED-Infinix_X697-Mali-G57_MC2-1779905152.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779898867,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1779898867.json"
-  },
-  {
-    "game": "GIANTS_Engine",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779898776,
-    "filename": "GIANTS_Engine-Xiaomi-23053RN02I-Mali-G52_MC2-1779898776.json"
   }
 ]
