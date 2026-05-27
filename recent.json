@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Mortuary_Assistant",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779845048,
+    "filename": "The_Mortuary_Assistant-Xiaomi-23106RN0DA-Mali-G52_MC2-1779845048.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779835651,
     "filename": "Red_Dead_Redemption_2-nubia-NX789J-Adreno__TM__830-1779835651.json"
-  },
-  {
-    "game": "Little_Nightmares",
-    "manufacturer": "CPH3669",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779834113,
-    "filename": "Little_Nightmares-OPPO-CPH3669-Adreno__TM__610-1779834113.json"
   }
 ]
