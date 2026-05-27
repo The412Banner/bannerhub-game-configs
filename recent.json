@@ -1,5 +1,12 @@
 [
   {
+    "game": "RE_6",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779883937,
+    "filename": "RE_6-TECNO-TECNO_LH8n-Mali-G57_MC2-1779883937.json"
+  },
+  {
     "game": "Noita",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779865444,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_CM5-Mali-G57_MC2-1779865444.json"
-  },
-  {
-    "game": "Dead_Space__2008_",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1779864985,
-    "filename": "Dead_Space__2008_-Xiaomi-23049PCD8G-Adreno__TM__725-1779864985.json"
   }
 ]
