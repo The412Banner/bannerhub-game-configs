@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP17",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779894763,
+    "filename": "MotoGP17-realme-RMX5303-Mali-G57-1779894763.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "CPH2647",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779884604,
     "filename": "Castlevania__Lords_of_Shadow_2-samsung-SM-F968U1-Adreno__TM__830-1779884604.json"
-  },
-  {
-    "game": "RE_6",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779883937,
-    "filename": "RE_6-TECNO-TECNO_LH8n-Mali-G57_MC2-1779883937.json"
   }
 ]
