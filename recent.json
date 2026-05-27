@@ -1,5 +1,12 @@
 [
   {
+    "game": "L2",
+    "manufacturer": "Mali",
+    "device": "G610_MC3",
+    "timestamp": 1779841820,
+    "filename": "L2-motorola-motorola_edge_40_neo-Mali-G610_MC3-1779841820.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779831075,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-25053PC47G-Adreno__TM__825-1779831075.json"
-  },
-  {
-    "game": "Paralives",
-    "manufacturer": "2510DPC44G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779830640,
-    "filename": "Paralives-Xiaomi-2510DPC44G-Adreno__TM__830-1779830640.json"
   }
 ]
