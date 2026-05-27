@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC_Devil_May_Cry",
+    "manufacturer": "CPH2767",
+    "device": "Adreno__TM__829",
+    "timestamp": 1779889469,
+    "filename": "DmC_Devil_May_Cry-OnePlus-CPH2767-Adreno__TM__829-1779889469.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RAA4G",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1779875311,
     "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-motorola-motorola_edge_50_ultra-Adreno__TM__735-1779875311.json"
-  },
-  {
-    "game": "Lost_For_Swords",
-    "manufacturer": "M2101K6G",
-    "device": "Adreno__TM__618",
-    "timestamp": 1779873988,
-    "filename": "Lost_For_Swords-Xiaomi-M2101K6G-Adreno__TM__618-1779873988.json"
   }
 ]
