@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779847106,
+    "filename": "Just_Cause_2-TECNO-TECNO_LI6-Mali-G57_MC2-1779847106.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1779837842,
     "filename": "Far_Cry_3-motorola-motorola_edge_30_pro-Adreno__TM__730-1779837842.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779837567,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1779837567.json"
   }
 ]
