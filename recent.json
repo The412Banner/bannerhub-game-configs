@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1779846603,
+    "filename": "PES_2013-samsung-SM-A145M-Mali-G52-1779846603.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1779837487,
     "filename": "setup-Ulefone-Armor_28_Ultra-Mali-G720-Immortalis_MC12-1779837487.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "M526B",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1779837010,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M526B-Adreno__TM__642L-1779837010.json"
   }
 ]
