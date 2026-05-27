@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779879932,
+    "filename": "Resident_Evil_3-Xiaomi-24117RN76L-Mali-G57_MC2-1779879932.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1779864067,
     "filename": "Watch_Dogs__2-Xiaomi-25053PC47G-Adreno__TM__825-1779864067.json"
-  },
-  {
-    "game": "Saints_Row__The_Third",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1779863286,
-    "filename": "Saints_Row__The_Third-Xiaomi-23113RKC6G-Adreno__TM__740-1779863286.json"
   }
 ]
