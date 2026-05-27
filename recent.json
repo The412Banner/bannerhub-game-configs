@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Heat",
+    "manufacturer": "NX779J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779891306,
+    "filename": "Need_for_Speed__Heat-nubia-NX779J-Adreno__TM__750-1779891306.json"
+  },
+  {
     "game": "Kusan___City_of_Wolves_Demo",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779879932,
     "filename": "Resident_Evil_3-Xiaomi-24117RN76L-Mali-G57_MC2-1779879932.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1779878122,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2104K10AC-Mali-G77_MC9-1779878122.json"
   }
 ]
