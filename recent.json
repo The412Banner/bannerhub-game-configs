@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP17",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1779973446,
+    "filename": "MotoGP17-Xiaomi-24095PCADG-Mali-G615_MC2-1779973446.json"
+  },
+  {
     "game": "Chona",
     "manufacturer": "24115RA8EG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1779957150,
     "filename": "Conflict_Desert_Storm-samsung-SM-A125U-PowerVR_Rogue_GE8320-1779957150.json"
-  },
-  {
-    "game": "QuickSFV_Application",
-    "manufacturer": "23129RAA4G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1779957133,
-    "filename": "QuickSFV_Application-Xiaomi-23129RAA4G-Adreno__TM__610-1779957133.json"
   }
 ]
