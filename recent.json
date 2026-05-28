@@ -1,5 +1,12 @@
 [
   {
+    "game": "Plutonium_Launcher",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779956038,
+    "filename": "Plutonium_Launcher-Xiaomi-23100RN82L-Mali-G52_MC2-1779956038.json"
+  },
+  {
     "game": "Resident_Evil_5_Vanilla_",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779941436,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779941436.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1779938391,
-    "filename": "DRAGON_BALL_FighterZ-samsung-SM-G780G-Adreno__TM__650-1779938391.json"
   }
 ]
