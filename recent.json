@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779971997,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-ITEL-itel_S681LN-Mali-G57-1779971997.json"
+  },
+  {
     "game": "GTA_V_Launcher",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1779960026,
     "filename": "Assassin_s_Creed__II-samsung-SM-G781B-Adreno__TM__650-1779960026.json"
-  },
-  {
-    "game": "En_Dead_Space__2",
-    "manufacturer": "G781B",
-    "device": "Adreno__TM__650",
-    "timestamp": 1779960015,
-    "filename": "En_Dead_Space__2-samsung-SM-G781B-Adreno__TM__650-1779960015.json"
   }
 ]
