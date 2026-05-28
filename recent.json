@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ben_10__Power_Trip",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779986757,
+    "filename": "Ben_10__Power_Trip-ITEL-itel_S688LN-Mali-G57-1779986757.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g22",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779974359,
     "filename": "Grand_Theft_Auto_IV-realme-RMX3939-Mali-G57-1779974359.json"
-  },
-  {
-    "game": "MotoGP17",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1779973446,
-    "filename": "MotoGP17-Xiaomi-24095PCADG-Mali-G615_MC2-1779973446.json"
   }
 ]
