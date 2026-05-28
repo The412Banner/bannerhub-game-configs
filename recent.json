@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "X910",
+    "device": "Adreno__TM__740",
+    "timestamp": 1779981907,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-X910-Adreno__TM__740-1779981907.json"
+  },
+  {
     "game": "Hades_II",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779960763,
     "filename": "Blasphemous-OPPO-CPH2699-Adreno__TM__710-1779960763.json"
-  },
-  {
-    "game": "Resident_Evil_2__R_P_D__Demo_",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1779959673,
-    "filename": "Resident_Evil_2__R_P_D__Demo_-TECNO-TECNO_CK8nB-Mali-G77_MC9-1779959673.json"
   }
 ]
