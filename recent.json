@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Launcher",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779971989,
+    "filename": "GTA_V_Launcher-OPPO-CPH2693-Mali-G57_MC2-1779971989.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "2201116SG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1779960015,
     "filename": "En_Dead_Space__2-samsung-SM-G781B-Adreno__TM__650-1779960015.json"
-  },
-  {
-    "game": "Plutonium_Launcher",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779956038,
-    "filename": "Plutonium_Launcher-Xiaomi-23100RN82L-Mali-G52_MC2-1779956038.json"
   }
 ]
