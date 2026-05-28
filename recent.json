@@ -1,5 +1,12 @@
 [
   {
+    "game": "ZombieQueen",
+    "manufacturer": "RMX3709",
+    "device": "Adreno__TM__730",
+    "timestamp": 1779996863,
+    "filename": "ZombieQueen-realme-RMX3709-Adreno__TM__730-1779996863.json"
+  },
+  {
     "game": "melhor_pes__espero_que_funcione_liso_plssss_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779986757,
     "filename": "Ben_10__Power_Trip-ITEL-itel_S688LN-Mali-G57-1779986757.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g22",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1779986206,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1779986206.json"
   }
 ]
