@@ -1,5 +1,12 @@
 [
   {
+    "game": "Undertale",
+    "manufacturer": "CPH2699",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779960773,
+    "filename": "Undertale-OPPO-CPH2699-Adreno__TM__710-1779960773.json"
+  },
+  {
     "game": "Blasphemous",
     "manufacturer": "CPH2699",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779950178,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779950178.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779949492,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779949492.json"
   }
 ]
