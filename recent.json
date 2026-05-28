@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1779994841,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-24090RA29G-Mali-G615_MC2-1779994841.json"
+  },
+  {
     "game": "Fool_s_Pub",
     "manufacturer": "Mali",
     "device": "G610",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1779984922,
     "filename": "FiveM-samsung-SM-A166M-Mali-G68-1779984922.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1779984778,
-    "filename": "Pro_Evolution_Soccer_2017-OPPO-CPH2531-Mali-G68_MC4-1779984778.json"
   }
 ]
