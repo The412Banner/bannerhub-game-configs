@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta_sa",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1780012601,
+    "filename": "gta_sa-Xiaomi-M2003J15SC-Mali-G52-1780012601.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G610",
     "timestamp": 1779994568,
     "filename": "Fool_s_Pub-HUAWEI-BLK-LX9-Mali-G610-1779994568.json"
-  },
-  {
-    "game": "Blasphemous",
-    "manufacturer": "CPH2699",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779992497,
-    "filename": "Blasphemous-OPPO-CPH2699-Adreno__TM__710-1779992497.json"
   }
 ]
