@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hatred",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779931587,
+    "filename": "Hatred-motorola-moto_g04s-Mali-G57-1779931587.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1779919677,
     "filename": "Devil_May_Cry_4_Special_Edition-INFINIX-Infinix_X6871-Mali-G610_MC6-1779919677.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "S928B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779919374,
-    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-S928B-Adreno__TM__750-1779919374.json"
   }
 ]
