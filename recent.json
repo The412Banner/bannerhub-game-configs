@@ -1,5 +1,12 @@
 [
   {
+    "game": "NINJA_GAIDEN_Ragebound",
+    "manufacturer": "25053PC47I",
+    "device": "Adreno__TM__825",
+    "timestamp": 1779990831,
+    "filename": "NINJA_GAIDEN_Ragebound-Xiaomi-25053PC47I-Adreno__TM__825-1779990831.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man__Miles_Morales",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1779983324,
     "filename": "Megabonk-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1779983324.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1779982919,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1779982919.json"
   }
 ]
