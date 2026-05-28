@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A235M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1780008710,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A235M-Adreno__TM__610-1780008710.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779992491,
     "filename": "Undertale-OPPO-CPH2699-Adreno__TM__710-1779992491.json"
-  },
-  {
-    "game": "ELDEN_RING",
-    "manufacturer": "RMX5200",
-    "device": "Adreno__TM__840",
-    "timestamp": 1779991341,
-    "filename": "ELDEN_RING-realme-RMX5200-Adreno__TM__840-1779991341.json"
   }
 ]
