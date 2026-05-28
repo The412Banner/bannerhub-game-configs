@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5_Vanilla_",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1779955645,
+    "filename": "Resident_Evil_5_Vanilla_-Xiaomi-2406APNFAG-Mali-G615_MC6-1779955645.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1779938391,
     "filename": "DRAGON_BALL_FighterZ-samsung-SM-G780G-Adreno__TM__650-1779938391.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779937391,
-    "filename": "Grand_Theft_Auto_V-Xiaomi-23053RN02A-Mali-G52_MC2-1779937391.json"
   }
 ]
