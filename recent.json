@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1779988844,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1779988844.json"
+  },
+  {
     "game": "gta_sa",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1779981907,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-X910-Adreno__TM__740-1779981907.json"
-  },
-  {
-    "game": "Hades_II",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1779981667,
-    "filename": "Hades_II-AYANEO-Pocket_FIT-Adreno__TM__750-1779981667.json"
   }
 ]
