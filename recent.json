@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "24115RA8EG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1779964053,
+    "filename": "BootstrapPackagedGame-Xiaomi-24115RA8EG-Adreno__TM__810-1779964053.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "W09",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779950200,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779950200.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779950193,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779950193.json"
   }
 ]
