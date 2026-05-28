@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades_II",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1779981667,
+    "filename": "Hades_II-AYANEO-Pocket_FIT-Adreno__TM__750-1779981667.json"
+  },
+  {
     "game": "Watch_Dogs_",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1779959673,
     "filename": "Resident_Evil_2__R_P_D__Demo_-TECNO-TECNO_CK8nB-Mali-G77_MC9-1779959673.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779959429,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-INFINIX-Infinix_X6882-Mali-G57_MC2-1779959429.json"
   }
 ]
