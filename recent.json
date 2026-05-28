@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780010731,
+    "filename": "Tomb_Raider-INFINIX-Infinix_X6873-Mali-G615_MC6-1780010731.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A235M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1779992497,
     "filename": "Blasphemous-OPPO-CPH2699-Adreno__TM__710-1779992497.json"
-  },
-  {
-    "game": "Undertale",
-    "manufacturer": "CPH2699",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779992491,
-    "filename": "Undertale-OPPO-CPH2699-Adreno__TM__710-1779992491.json"
   }
 ]
