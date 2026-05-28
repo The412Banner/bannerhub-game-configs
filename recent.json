@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1779931307,
+    "filename": "Euro_Truck_Simulator_2-motorola-motorola_edge_60_fusion-Mali-G615_MC2-1779931307.json"
+  },
+  {
     "game": "eFootball_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1779919374,
     "filename": "Pro_Evolution_Soccer_2017-samsung-SM-S928B-Adreno__TM__750-1779919374.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1779918805,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1779918805.json"
   }
 ]
