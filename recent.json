@@ -1,5 +1,12 @@
 [
   {
+    "game": "ELDEN_RING",
+    "manufacturer": "RMX5200",
+    "device": "Adreno__TM__840",
+    "timestamp": 1779991341,
+    "filename": "ELDEN_RING-realme-RMX5200-Adreno__TM__840-1779991341.json"
+  },
+  {
     "game": "NINJA_GAIDEN_Ragebound",
     "manufacturer": "25053PC47I",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1779983368,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1779983368.json"
-  },
-  {
-    "game": "Megabonk",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1779983324,
-    "filename": "Megabonk-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1779983324.json"
   }
 ]
