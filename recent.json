@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fool_s_Pub",
+    "manufacturer": "Mali",
+    "device": "G610",
+    "timestamp": 1779994568,
+    "filename": "Fool_s_Pub-HUAWEI-BLK-LX9-Mali-G610-1779994568.json"
+  },
+  {
     "game": "Blasphemous",
     "manufacturer": "CPH2699",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1779984778,
     "filename": "Pro_Evolution_Soccer_2017-OPPO-CPH2531-Mali-G68_MC4-1779984778.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1779984470,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1779984470.json"
   }
 ]
