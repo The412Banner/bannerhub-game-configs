@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1779995930,
+    "filename": "Need_for_Speed_9-samsung-SM-A546E-Mali-G68-1779995930.json"
+  },
+  {
     "game": "NFSC",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1779986202,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1779986202.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g22",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1779985721,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1779985721.json"
   }
 ]
