@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty_Black_Ops",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1779998637,
+    "filename": "Call_of_Duty_Black_Ops-TECNO-TECNO_CK8n-Mali-G77_MC9-1779998637.json"
+  },
+  {
     "game": "ZombieQueen",
     "manufacturer": "RMX3709",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779986768,
     "filename": "Ben_10__Power_Trip-ITEL-itel_S688LN-Mali-G57-1779986768.json"
-  },
-  {
-    "game": "Ben_10__Power_Trip",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1779986757,
-    "filename": "Ben_10__Power_Trip-ITEL-itel_S688LN-Mali-G57-1779986757.json"
   }
 ]
