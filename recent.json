@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G51",
+    "timestamp": 1779954563,
+    "filename": "Grand_Theft_Auto_V-HUAWEI-STK-L21-Mali-G51-1779954563.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "RMX5101",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779933564,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779933564.json"
-  },
-  {
-    "game": "Choo-Choo_Charles-samsung-SM-A165M-Mali-G57_MC2-1779923923",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779932522,
-    "filename": "Choo-Choo_Charles-samsung-SM-A165M-Mali-G57_MC2-1779923923-Xiaomi-22120RN86G-Mali-G52_MC2-1779932522.json"
   }
 ]
