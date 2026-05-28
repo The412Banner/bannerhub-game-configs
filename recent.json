@@ -1,5 +1,12 @@
 [
   {
+    "game": "FiveM",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1779984922,
+    "filename": "FiveM-samsung-SM-A166M-Mali-G68-1779984922.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779971989,
     "filename": "GTA_V_Launcher-OPPO-CPH2693-Mali-G57_MC2-1779971989.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "2201116SG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1779970978,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2201116SG-Adreno__TM__619-1779970978.json"
   }
 ]
