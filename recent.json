@@ -1,5 +1,12 @@
 [
   {
+    "game": "Megabonk",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1779983324,
+    "filename": "Megabonk-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1779983324.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1779964520,
     "filename": "DRAGON_BALL_XENOVERSE_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779964520.json"
-  },
-  {
-    "game": "RESIDENT_EVIL_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779964278,
-    "filename": "RESIDENT_EVIL_5-TECNO-TECNO_LH7n-Mali-G57_MC2-1779964278.json"
   }
 ]
