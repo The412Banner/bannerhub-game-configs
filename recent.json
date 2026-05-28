@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blasphemous",
+    "manufacturer": "CPH2699",
+    "device": "Adreno__TM__710",
+    "timestamp": 1779992497,
+    "filename": "Blasphemous-OPPO-CPH2699-Adreno__TM__710-1779992497.json"
+  },
+  {
     "game": "Undertale",
     "manufacturer": "CPH2699",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1779984470,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1779984470.json"
-  },
-  {
-    "game": "The_Killing_Antidote",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779984375,
-    "filename": "The_Killing_Antidote-TECNO-TECNO_LJ9-Mali-G615_MC6-1779984375.json"
   }
 ]
