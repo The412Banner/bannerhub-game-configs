@@ -1,5 +1,12 @@
 [
   {
+    "game": "____________",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779968262,
+    "filename": "____________-ITEL-itel_S688LN-Mali-G57-1779968262.json"
+  },
+  {
     "game": "DRAGON_BALL_XENOVERSE_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1779954563,
     "filename": "Grand_Theft_Auto_V-HUAWEI-STK-L21-Mali-G51-1779954563.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "RMX5101",
-    "device": "Adreno__TM__722",
-    "timestamp": 1779953706,
-    "filename": "Resident_Evil_2-realme-RMX5101-Adreno__TM__722-1779953706.json"
   }
 ]
