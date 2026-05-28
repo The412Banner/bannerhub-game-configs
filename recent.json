@@ -1,5 +1,12 @@
 [
   {
+    "game": "Chona",
+    "manufacturer": "24115RA8EG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1779973343,
+    "filename": "Chona-Xiaomi-24115RA8EG-Adreno__TM__810-1779973343.json"
+  },
+  {
     "game": "TEKKEN_8",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779957133,
     "filename": "QuickSFV_Application-Xiaomi-23129RAA4G-Adreno__TM__610-1779957133.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779957041,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_LH7n-Mali-G57_MC2-1779957041.json"
   }
 ]
