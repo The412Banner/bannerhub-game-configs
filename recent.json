@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1779982895,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1779982895.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1779964053,
     "filename": "BootstrapPackagedGame-Xiaomi-24115RA8EG-Adreno__TM__810-1779964053.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__735",
-    "timestamp": 1779961173,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HONOR-ROD2-W09-Adreno__TM__735-1779961173.json"
   }
 ]
