@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blasphemous_2",
+    "manufacturer": "CPH2699",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780005331,
+    "filename": "Blasphemous_2-OPPO-CPH2699-Adreno__TM__710-1780005331.json"
+  },
+  {
     "game": "KINGDOM_HEARTS_HD_2_8_Final_Chapter_Prologue",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1779988853,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1779988853.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g22",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1779988848,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1779988848.json"
   }
 ]
