@@ -1,5 +1,12 @@
 [
   {
+    "game": "Setup_______________________________________________________",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779957914,
+    "filename": "Setup_______________________________________________________-ITEL-itel_S688LN-Mali-G57-1779957914.json"
+  },
+  {
     "game": "Battlefield_3_",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1779947471,
     "filename": "Grand_Theft_Auto_V__________________________________________-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1779947471.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "23122PCD1G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779945310,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-23122PCD1G-Adreno__TM__710-1779945310.json"
   }
 ]
