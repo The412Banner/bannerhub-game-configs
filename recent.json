@@ -3,6 +3,13 @@
     "game": "Party_Animals",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
+    "timestamp": 1779932140,
+    "filename": "Party_Animals-ayn-Odin3-Adreno__TM__830-1779932140.json"
+  },
+  {
+    "game": "Party_Animals",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
     "timestamp": 1779932131,
     "filename": "Party_Animals-ayn-Odin3-Adreno__TM__830-1779932131.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1779921197,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A057M-Adreno__TM__610-1779921197.json"
-  },
-  {
-    "game": "PES_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1779921098,
-    "filename": "PES_2013-Xiaomi-2310FPCA4G-Mali-G52_MC2-1779921098.json"
   }
 ]
