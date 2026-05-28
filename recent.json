@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1779947776,
+    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-A156E-Mali-G57_MC2-1779947776.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V__________________________________________",
     "manufacturer": "A566B",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1779926776,
     "filename": "PlayGTAV-Xiaomi-2201117SG-Mali-G57_MC2-1779926776.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1779925413,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1779925413.json"
   }
 ]
