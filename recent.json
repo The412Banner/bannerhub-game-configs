@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1779970525,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-ITEL-itel_S688LN-Mali-G57-1779970525.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "LX2",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1779955645,
     "filename": "Resident_Evil_5_Vanilla_-Xiaomi-2406APNFAG-Mali-G615_MC6-1779955645.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1779955215,
-    "filename": "Resident_Evil_2-vivo-V2315-Mali-G57_MC2-1779955215.json"
   }
 ]
