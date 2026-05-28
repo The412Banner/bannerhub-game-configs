@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1779974502,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1779974502.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1779957914,
     "filename": "Setup_______________________________________________________-ITEL-itel_S688LN-Mali-G57-1779957914.json"
-  },
-  {
-    "game": "Battlefield_3_",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1779957271,
-    "filename": "Battlefield_3_-motorola-moto_g75_5G-Adreno__TM__710-1779957271.json"
   }
 ]
