@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ryse__Son_of_Rome",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1779950969,
+    "filename": "Ryse__Son_of_Rome-Xiaomi-2510DPC44G-Adreno__TM__830-1779950969.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1779932140,
     "filename": "Party_Animals-ayn-Odin3-Adreno__TM__830-1779932140.json"
-  },
-  {
-    "game": "Party_Animals",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1779932131,
-    "filename": "Party_Animals-ayn-Odin3-Adreno__TM__830-1779932131.json"
   }
 ]
