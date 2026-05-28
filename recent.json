@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFSC",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1779995563,
+    "filename": "NFSC-Xiaomi-2404ARN45A-Mali-G52_MC2-1779995563.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S711B",
     "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1779985721,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1779985721.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g22",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1779985196,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1779985196.json"
   }
 ]
