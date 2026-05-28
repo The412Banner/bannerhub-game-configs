@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "2201116SG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1779970978,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2201116SG-Adreno__TM__619-1779970978.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1779956038,
     "filename": "Plutonium_Launcher-Xiaomi-23100RN82L-Mali-G52_MC2-1779956038.json"
-  },
-  {
-    "game": "Resident_Evil_5_Vanilla_",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1779955645,
-    "filename": "Resident_Evil_5_Vanilla_-Xiaomi-2406APNFAG-Mali-G615_MC6-1779955645.json"
   }
 ]
