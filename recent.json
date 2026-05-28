@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S711B",
+    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
+    "timestamp": 1779994942,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1779994942.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1779985196,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1779985196.json"
-  },
-  {
-    "game": "FiveM",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1779984922,
-    "filename": "FiveM-samsung-SM-A166M-Mali-G68-1779984922.json"
   }
 ]
