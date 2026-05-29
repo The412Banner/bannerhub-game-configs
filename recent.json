@@ -1,5 +1,12 @@
 [
   {
+    "game": "__Stronghold_Crusader",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780017884,
+    "filename": "__Stronghold_Crusader-INFINIX-Infinix_X6850-Mali-G57_MC2-1780017884.json"
+  },
+  {
     "game": "Resident_Evil_Revelations_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1779999611,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1779999611.json"
-  },
-  {
-    "game": "Call_of_Duty_Black_Ops",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1779998637,
-    "filename": "Call_of_Duty_Black_Ops-TECNO-TECNO_CK8n-Mali-G77_MC9-1779998637.json"
   }
 ]
