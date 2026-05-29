@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "vivo_1918",
+    "device": "Adreno__TM__616",
+    "timestamp": 1780062531,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-vivo-vivo_1918-Adreno__TM__616-1780062531.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1780052468,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1780052468.json"
-  },
-  {
-    "game": "My_Car_My_Life_Demo",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780050188,
-    "filename": "My_Car_My_Life_Demo-Xiaomi-24117RN76L-Mali-G57_MC2-1780050188.json"
   }
 ]
