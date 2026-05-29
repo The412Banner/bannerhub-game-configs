@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1780091243,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M356B-Mali-G68-1780091243.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1780083391,
     "filename": "MaxPayne_2_Application-samsung-SM-A125F-PowerVR_Rogue_GE8320-1780083391.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780080458,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2012K11AG-Adreno__TM__650-1780080458.json"
   }
 ]
