@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780023920,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1780023920.json"
+  },
+  {
     "game": "BlueStacks_5_",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1780013645,
     "filename": "Farming_Simulator_22-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780013645.json"
-  },
-  {
-    "game": "EA_SPORTS_FC__25",
-    "manufacturer": "LX2",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1780013402,
-    "filename": "EA_SPORTS_FC__25-HONOR-RKY-LX2-PowerVR_Rogue_GE8320-1780013402.json"
   }
 ]
