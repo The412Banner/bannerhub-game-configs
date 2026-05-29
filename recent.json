@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1780048611,
+    "filename": "Grand_Theft_Auto_V-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1780048611.json"
+  },
+  {
     "game": "Need_for_Speed__Rivals",
     "manufacturer": "motorola_edge_50_ultra",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1780032552,
     "filename": "Virtual_Desktop_Streamer-TECNO-TECNO_CL9-Mali-G610_MC6-1780032552.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1780031837,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5106-Mali-G615_MC2-1780031837.json"
   }
 ]
