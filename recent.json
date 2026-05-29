@@ -1,5 +1,12 @@
 [
   {
+    "game": "_____2019",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1780055614,
+    "filename": "_____2019-Xiaomi-23129RAA4G-Adreno__TM__610-1780055614.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "I2220",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__612",
     "timestamp": 1780039588,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2101K7AG-Adreno__TM__612-1780039588.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1780037779,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X6871-Mali-G610_MC6-1780037779.json"
   }
 ]
