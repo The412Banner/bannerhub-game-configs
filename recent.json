@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP_26",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1780076843,
+    "filename": "MotoGP_26-Xiaomi-25053PC47G-Adreno__TM__825-1780076843.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "02L",
     "device": "Adreno__TM__508",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1780070567,
     "filename": "SKPeachBeachSplash-nubia-NX809J-Adreno__TM__840-1780070567.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Redmi_Note_8",
-    "device": "Adreno__TM__610",
-    "timestamp": 1780068955,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-Redmi_Note_8-Adreno__TM__610-1780068955.json"
   }
 ]
