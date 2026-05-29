@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alice__Madness_Returns",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1780029311,
+    "filename": "Alice__Madness_Returns-motorola-moto_g84_5G-Adreno__TM__619-1780029311.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "LX3",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780017884,
     "filename": "__Stronghold_Crusader-INFINIX-Infinix_X6850-Mali-G57_MC2-1780017884.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780017452,
-    "filename": "Resident_Evil_Revelations_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780017452.json"
   }
 ]
