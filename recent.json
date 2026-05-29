@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ernasis_Online",
+    "manufacturer": "Retroid_Pocket_Flip2",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780062683,
+    "filename": "Ernasis_Online-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1780062683.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "vivo_1918",
     "device": "Adreno__TM__616",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780054358,
     "filename": "Resident_Evil_2_____________________________________________-samsung-SM-A055M-Mali-G52_MC2-1780054358.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1780052468,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1780052468.json"
   }
 ]
