@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1780060701,
+    "filename": "Resident_Evil_5-samsung-SM-S901E-Adreno__TM__730-1780060701.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780050188,
     "filename": "My_Car_My_Life_Demo-Xiaomi-24117RN76L-Mali-G57_MC2-1780050188.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1780048611,
-    "filename": "Grand_Theft_Auto_V-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1780048611.json"
   }
 ]
