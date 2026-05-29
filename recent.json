@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheLongDrive",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780091020,
+    "filename": "TheLongDrive-LT_mobile-LT_S40-Mali-G57_MC2-1780091020.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780078145,
     "filename": "EA_Installer_Touchup-samsung-SM-A165F-Mali-G57_MC2-1780078145.json"
-  },
-  {
-    "game": "MotoGP_26",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780076843,
-    "filename": "MotoGP_26-Xiaomi-25053PC47G-Adreno__TM__825-1780076843.json"
   }
 ]
