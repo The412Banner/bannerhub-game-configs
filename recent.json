@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Revelations_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780017452,
+    "filename": "Resident_Evil_Revelations_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780017452.json"
+  },
+  {
     "game": "Resident_Evil_Requiem",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1779998637,
     "filename": "Call_of_Duty_Black_Ops-TECNO-TECNO_CK8n-Mali-G77_MC9-1779998637.json"
-  },
-  {
-    "game": "ZombieQueen",
-    "manufacturer": "RMX3709",
-    "device": "Adreno__TM__730",
-    "timestamp": 1779996863,
-    "filename": "ZombieQueen-realme-RMX3709-Adreno__TM__730-1779996863.json"
   }
 ]
