@@ -1,5 +1,12 @@
 [
   {
+    "game": "SKPeachBeachSplash",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1780070567,
+    "filename": "SKPeachBeachSplash-nubia-NX809J-Adreno__TM__840-1780070567.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Redmi_Note_8",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780059873,
     "filename": "METAL_GEAR_SOLID_V__GROUND_ZEROES-Xiaomi-23127PN0CG-Adreno__TM__750-1780059873.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780059793,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1780059793.json"
   }
 ]
