@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC__Devil_May_Cry",
+    "manufacturer": "M2007J3SY",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780054740,
+    "filename": "DmC__Devil_May_Cry-Xiaomi-M2007J3SY-Adreno__TM__650-1780054740.json"
+  },
+  {
     "game": "Resident_Evil_2_____________________________________________",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1780036954,
     "filename": "FIFA_19-Xiaomi-24069PC21G-Adreno__TM__735-1780036954.json"
-  },
-  {
-    "game": "Puck",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780034671,
-    "filename": "Puck-TECNO-TECNO_KL7-Mali-G57_MC2-1780034671.json"
   }
 ]
