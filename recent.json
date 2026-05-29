@@ -1,5 +1,12 @@
 [
   {
+    "game": "B___Path_of_the_Teal_Lotus",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1780058385,
+    "filename": "B___Path_of_the_Teal_Lotus-Xiaomi-24069PC21G-Adreno__TM__735-1780058385.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780043921,
     "filename": "GTA_San_Andreas_www_wifi4games_com_-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780043921.json"
-  },
-  {
-    "game": "Need_for_Speed__Rivals",
-    "manufacturer": "NX789S_V1B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780043676,
-    "filename": "Need_for_Speed__Rivals-nubia-NX789S_V1B-Adreno__TM__830-1780043676.json"
   }
 ]
