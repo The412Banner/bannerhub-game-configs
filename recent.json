@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Infinix_X6515",
+    "device": "PowerVR_Rogue_GE8300",
+    "timestamp": 1780086152,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6515-PowerVR_Rogue_GE8300-1780086152.json"
+  },
+  {
     "game": "Sleeping_Dogs_-_Definitive_Edition__________________________",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1780071832,
     "filename": "TVP_KIRIKIRI__Z_core___Scripting_Platform_for_Win32-OPPO-CPH2531-Mali-G68_MC4-1780071832.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780071805,
-    "filename": "Red_Dead_Redemption-Xiaomi-2201117SG-Mali-G57_MC2-1780071805.json"
   }
 ]
