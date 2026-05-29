@@ -1,5 +1,12 @@
 [
   {
+    "game": "Horizon_Forbidden_West__Complete_Edition",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780097298,
+    "filename": "Horizon_Forbidden_West__Complete_Edition-ayn-Odin3-Adreno__TM__830-1780097298.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780086233,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-samsung-SM-S928B-Adreno__TM__750-1780086233.json"
-  },
-  {
-    "game": "Ben_10__Power_Trip",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1780086189,
-    "filename": "Ben_10__Power_Trip-HUAWEI-STK-L22-Mali-G51-1780086189.json"
   }
 ]
