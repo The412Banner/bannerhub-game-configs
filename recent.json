@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1780058615,
+    "filename": "Grand_Theft_Auto_V-Xiaomi-2511FPC34G-Mali-G720_MC8-1780058615.json"
+  },
+  {
     "game": "B___Path_of_the_Teal_Lotus",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1780045436,
     "filename": "____-nubia-NX809J-Adreno__TM__840-1780045436.json"
-  },
-  {
-    "game": "GTA_San_Andreas_www_wifi4games_com_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780043921,
-    "filename": "GTA_San_Andreas_www_wifi4games_com_-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780043921.json"
   }
 ]
