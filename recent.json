@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hitman__Absolution_",
+    "manufacturer": "25102PCBEG",
+    "device": "Adreno__TM__840",
+    "timestamp": 1780074376,
+    "filename": "Hitman__Absolution_-Xiaomi-25102PCBEG-Adreno__TM__840-1780074376.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Pocket_Max",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780067494,
     "filename": "God_of_War-vivo-I2220-Adreno__TM__750-1780067494.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780067373,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-ayn-Odin3-Adreno__TM__830-1780067373.json"
   }
 ]
