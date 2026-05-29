@@ -1,5 +1,12 @@
 [
   {
+    "game": "Language_Selector",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780091483,
+    "filename": "Language_Selector-INFINIX-Infinix_X6873-Mali-G615_MC6-1780091483.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1780084305,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-INFINIX_MOBILITY_LIMITED-Infinix_X660C-PowerVR_Rogue_GE8320-1780084305.json"
-  },
-  {
-    "game": "MaxPayne_2_Application",
-    "manufacturer": "A125F",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1780083391,
-    "filename": "MaxPayne_2_Application-samsung-SM-A125F-PowerVR_Rogue_GE8320-1780083391.json"
   }
 ]
