@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5_____________________________________________",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780098559,
+    "filename": "Resident_Evil_5_____________________________________________-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780098559.json"
+  },
+  {
     "game": "Far_Cry__5",
     "manufacturer": "S908E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780087476,
     "filename": "Resident_Evil_5-TECNO-TECNO_LH7n-Mali-G57_MC2-1780087476.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780087463,
-    "filename": "Resident_Evil_5-TECNO-TECNO_LH7n-Mali-G57_MC2-1780087463.json"
   }
 ]
