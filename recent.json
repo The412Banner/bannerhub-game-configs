@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cyberdimension_Neptunia__4_Goddesses_Online",
+    "manufacturer": "A024",
+    "device": "Adreno__TM__825",
+    "timestamp": 1780067943,
+    "filename": "Cyberdimension_Neptunia__4_Goddesses_Online-Nothing-A024-Adreno__TM__825-1780067943.json"
+  },
+  {
     "game": "Days_Gone",
     "manufacturer": "I2220",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780059541,
     "filename": "One-armed_robber-Xiaomi-24117RN76L-Mali-G57_MC2-1780059541.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1780059336,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5106-Mali-G615_MC2-1780059336.json"
   }
 ]
