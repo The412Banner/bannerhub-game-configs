@@ -1,5 +1,12 @@
 [
   {
+    "game": "Days_Gone",
+    "manufacturer": "I2220",
+    "device": "Adreno__TM__750",
+    "timestamp": 1780067558,
+    "filename": "Days_Gone-vivo-I2220-Adreno__TM__750-1780067558.json"
+  },
+  {
     "game": "Horizon_Zero_Dawn__Complete_Edition",
     "manufacturer": "I2220",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1780059336,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5106-Mali-G615_MC2-1780059336.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1780058615,
-    "filename": "Grand_Theft_Auto_V-Xiaomi-2511FPC34G-Mali-G720_MC8-1780058615.json"
   }
 ]
