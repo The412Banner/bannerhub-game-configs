@@ -1,5 +1,12 @@
 [
   {
+    "game": "TVP_KIRIKIRI__Z_core___Scripting_Platform_for_Win32",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1780071832,
+    "filename": "TVP_KIRIKIRI__Z_core___Scripting_Platform_for_Win32-OPPO-CPH2531-Mali-G68_MC4-1780071832.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1780062683,
     "filename": "Ernasis_Online-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1780062683.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "vivo_1918",
-    "device": "Adreno__TM__616",
-    "timestamp": 1780062531,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-vivo-vivo_1918-Adreno__TM__616-1780062531.json"
   }
 ]
