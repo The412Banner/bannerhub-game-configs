@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_2",
+    "manufacturer": "CPH2223",
+    "device": "Adreno__TM__610",
+    "timestamp": 1780024652,
+    "filename": "Just_Cause_2-OPPO-CPH2223-Adreno__TM__610-1780024652.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "2410CRP4CG",
     "device": "Adreno__TM__732",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780014860,
     "filename": "Assassin_s_Creed_Valhalla-samsung-SM-S928B-Adreno__TM__750-1780014860.json"
-  },
-  {
-    "game": "Assassin_s_Creed___Director_s_Cut_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1780013997,
-    "filename": "Assassin_s_Creed___Director_s_Cut_Edition-Xiaomi-24090RA29G-Mali-G615_MC2-1780013997.json"
   }
 ]
