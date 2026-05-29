@@ -1,5 +1,12 @@
 [
   {
+    "game": "AmnesiaTheBunker",
+    "manufacturer": "NX721J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1780090266,
+    "filename": "AmnesiaTheBunker-nubia-NX721J-Adreno__TM__750-1780090266.json"
+  },
+  {
     "game": "Absolum",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__508",
     "timestamp": 1780075414,
     "filename": "Pro_Evolution_Soccer_2017-Sony-SO-02L-Adreno__TM__508-1780075414.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "02L",
-    "device": "Adreno__TM__508",
-    "timestamp": 1780074932,
-    "filename": "Pro_Evolution_Soccer_2017-Sony-SO-02L-Adreno__TM__508-1780074932.json"
   }
 ]
