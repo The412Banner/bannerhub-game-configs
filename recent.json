@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1780088801,
+    "filename": "Hollow_Knight-samsung-SM-G990E-Mali-G78-1780088801.json"
+  },
+  {
     "game": "P13",
     "manufacturer": "RMX3081",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
     "timestamp": 1780074722,
     "filename": "Forza_Horizon_4-samsung-SM-F766N-ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_-1780074722.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1780074680,
-    "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-G996B-Mali-G78-1780074680.json"
   }
 ]
