@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlueStacks_5_",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1780099035,
+    "filename": "BlueStacks_5_-motorola-moto_g73_5G-PowerVR_B-Series_BXM-8-256-1780099035.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1780088745,
     "filename": "P13-realme-RMX3081-Adreno__TM__618-1780088745.json"
-  },
-  {
-    "game": "Launch",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1780087636,
-    "filename": "Launch-Xiaomi-M2101K7BG-Mali-G76-1780087636.json"
   }
 ]
