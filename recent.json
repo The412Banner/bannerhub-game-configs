@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g34_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1780073101,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g34_5G-Adreno__TM__619-1780073101.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE__Samsung_Xclipse_940__on_Vulkan_1_3_279",
     "timestamp": 1780064607,
     "filename": "ch5_pro-samsung-SM-S721B-ANGLE__Samsung_Xclipse_940__on_Vulkan_1_3_279-1780064607.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780064127,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2303CRA44A-Mali-G57_MC2-1780064127.json"
   }
 ]
