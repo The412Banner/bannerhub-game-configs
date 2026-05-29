@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1780059893,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1780059893.json"
+  },
+  {
     "game": "METAL_GEAR_SOLID_V__GROUND_ZEROES",
     "manufacturer": "23127PN0CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1780048529,
     "filename": "Bond-motorola-motorola_edge_50_ultra-Adreno__TM__735-1780048529.json"
-  },
-  {
-    "game": "Castlevania__Lords_of_Shadow___Ultimate_Edition",
-    "manufacturer": "motorola_edge_50_ultra",
-    "device": "Adreno__TM__735",
-    "timestamp": 1780048509,
-    "filename": "Castlevania__Lords_of_Shadow___Ultimate_Edition-motorola-motorola_edge_50_ultra-Adreno__TM__735-1780048509.json"
   }
 ]
