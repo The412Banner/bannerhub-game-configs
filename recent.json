@@ -1,5 +1,12 @@
 [
   {
+    "game": "ACOdyssey",
+    "manufacturer": "24117RK2CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1780097695,
+    "filename": "ACOdyssey-Xiaomi-24117RK2CG-Adreno__TM__750-1780097695.json"
+  },
+  {
     "game": "Resident_Evil_Requiem",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780086401,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1780086401.json"
-  },
-  {
-    "game": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780086363,
-    "filename": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered-Xiaomi-23113RKC6G-Adreno__TM__740-1780086363.json"
   }
 ]
