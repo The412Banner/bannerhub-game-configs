@@ -1,5 +1,12 @@
 [
   {
+    "game": "Forza_Horizon_4",
+    "manufacturer": "F766N",
+    "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
+    "timestamp": 1780074722,
+    "filename": "Forza_Horizon_4-samsung-SM-F766N-ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_-1780074722.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780067558,
     "filename": "Days_Gone-vivo-I2220-Adreno__TM__750-1780067558.json"
-  },
-  {
-    "game": "Horizon_Zero_Dawn__Complete_Edition",
-    "manufacturer": "I2220",
-    "device": "Adreno__TM__750",
-    "timestamp": 1780067549,
-    "filename": "Horizon_Zero_Dawn__Complete_Edition-vivo-I2220-Adreno__TM__750-1780067549.json"
   }
 ]
