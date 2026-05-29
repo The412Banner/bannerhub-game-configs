@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1780059336,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5106-Mali-G615_MC2-1780059336.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1780045644,
     "filename": "____-nubia-NX809J-Adreno__TM__840-1780045644.json"
-  },
-  {
-    "game": "____",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1780045436,
-    "filename": "____-nubia-NX809J-Adreno__TM__840-1780045436.json"
   }
 ]
