@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "2410CRP4CG",
+    "device": "Adreno__TM__732",
+    "timestamp": 1780023964,
+    "filename": "DARK_SOULS___REMASTERED-Xiaomi-2410CRP4CG-Adreno__TM__732-1780023964.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1780013997,
     "filename": "Assassin_s_Creed___Director_s_Cut_Edition-Xiaomi-24090RA29G-Mali-G615_MC2-1780013997.json"
-  },
-  {
-    "game": "Farming_Simulator_22",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780013645,
-    "filename": "Farming_Simulator_22-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780013645.json"
   }
 ]
