@@ -1,5 +1,12 @@
 [
   {
+    "game": "Horizon_Zero_Dawn__Complete_Edition",
+    "manufacturer": "I2220",
+    "device": "Adreno__TM__750",
+    "timestamp": 1780067549,
+    "filename": "Horizon_Zero_Dawn__Complete_Edition-vivo-I2220-Adreno__TM__750-1780067549.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "I2220",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1780058615,
     "filename": "Grand_Theft_Auto_V-Xiaomi-2511FPC34G-Mali-G720_MC8-1780058615.json"
-  },
-  {
-    "game": "B___Path_of_the_Teal_Lotus",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1780058385,
-    "filename": "B___Path_of_the_Teal_Lotus-Xiaomi-24069PC21G-Adreno__TM__735-1780058385.json"
   }
 ]
