@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "02L",
+    "device": "Adreno__TM__508",
+    "timestamp": 1780074932,
+    "filename": "Pro_Evolution_Soccer_2017-Sony-SO-02L-Adreno__TM__508-1780074932.json"
+  },
+  {
     "game": "Forza_Horizon_4",
     "manufacturer": "F766N",
     "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780067943,
     "filename": "Cyberdimension_Neptunia__4_Goddesses_Online-Nothing-A024-Adreno__TM__825-1780067943.json"
-  },
-  {
-    "game": "Days_Gone",
-    "manufacturer": "I2220",
-    "device": "Adreno__TM__750",
-    "timestamp": 1780067558,
-    "filename": "Days_Gone-vivo-I2220-Adreno__TM__750-1780067558.json"
   }
 ]
