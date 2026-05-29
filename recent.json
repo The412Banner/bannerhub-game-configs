@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780071801,
+    "filename": "Red_Dead_Redemption-Xiaomi-2201117SG-Mali-G57_MC2-1780071801.json"
+  },
+  {
     "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
     "manufacturer": "CPH2447",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1780060701,
     "filename": "Resident_Evil_5-samsung-SM-S901E-Adreno__TM__730-1780060701.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780060184,
-    "filename": "Hollow_Knight__Silksong-Xiaomi-23113RKC6G-Adreno__TM__740-1780060184.json"
   }
 ]
