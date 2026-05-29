@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bond",
+    "manufacturer": "motorola_edge_50_ultra",
+    "device": "Adreno__TM__735",
+    "timestamp": 1780048529,
+    "filename": "Bond-motorola-motorola_edge_50_ultra-Adreno__TM__735-1780048529.json"
+  },
+  {
     "game": "Castlevania__Lords_of_Shadow___Ultimate_Edition",
     "manufacturer": "motorola_edge_50_ultra",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1780029311,
     "filename": "Alice__Madness_Returns-motorola-moto_g84_5G-Adreno__TM__619-1780029311.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "LX3",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1780028379,
-    "filename": "Pro_Evolution_Soccer_2013-HONOR-GFY-LX3-PowerVR_Rogue_GE8320-1780028379.json"
   }
 ]
