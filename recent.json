@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780060184,
+    "filename": "Hollow_Knight__Silksong-Xiaomi-23113RKC6G-Adreno__TM__740-1780060184.json"
+  },
+  {
     "game": "TheAmazingSpider-Man2",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1780048611,
     "filename": "Grand_Theft_Auto_V-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1780048611.json"
-  },
-  {
-    "game": "Need_for_Speed__Rivals",
-    "manufacturer": "motorola_edge_50_ultra",
-    "device": "Adreno__TM__735",
-    "timestamp": 1780048547,
-    "filename": "Need_for_Speed__Rivals-motorola-motorola_edge_50_ultra-Adreno__TM__735-1780048547.json"
   }
 ]
