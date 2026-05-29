@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_7_Biohazard",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1780073306,
+    "filename": "Resident_Evil_7_Biohazard-Xiaomi-25053RT47C-Adreno__TM__825-1780073306.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780066553,
     "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780066553.json"
-  },
-  {
-    "game": "SonicFrontiers",
-    "manufacturer": "ASUSAI2501B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780065767,
-    "filename": "SonicFrontiers-asus-ASUSAI2501B-Adreno__TM__830-1780065767.json"
   }
 ]
