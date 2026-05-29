@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1780019610,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X6871-Mali-G610_MC6-1780019610.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1780005447,
     "filename": "PRO_EVOLUTION_SOCCER_2018-samsung-SM-S908E-Adreno__TM__730-1780005447.json"
-  },
-  {
-    "game": "Horizon_Forbidden_West__Complete_Edition",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780005408,
-    "filename": "Horizon_Forbidden_West__Complete_Edition-ayn-Odin3-Adreno__TM__830-1780005408.json"
   }
 ]
