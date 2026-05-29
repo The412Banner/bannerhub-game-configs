@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castlevania__Lords_of_Shadow___Ultimate_Edition",
+    "manufacturer": "motorola_edge_50_ultra",
+    "device": "Adreno__TM__735",
+    "timestamp": 1780048509,
+    "filename": "Castlevania__Lords_of_Shadow___Ultimate_Edition-motorola-motorola_edge_50_ultra-Adreno__TM__735-1780048509.json"
+  },
+  {
     "game": "____",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1780028379,
     "filename": "Pro_Evolution_Soccer_2013-HONOR-GFY-LX3-PowerVR_Rogue_GE8320-1780028379.json"
-  },
-  {
-    "game": "NBA_2K23",
-    "manufacturer": "2510DRK44C",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780027606,
-    "filename": "NBA_2K23-Xiaomi-2510DRK44C-Adreno__TM__830-1780027606.json"
   }
 ]
