@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780098849,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e13-Mali-G57-1780098849.json"
+  },
+  {
     "game": "Resident_Evil_5_____________________________________________",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1780087636,
     "filename": "Launch-Xiaomi-M2101K7BG-Mali-G76-1780087636.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780087476,
-    "filename": "Resident_Evil_5-TECNO-TECNO_LH7n-Mali-G57_MC2-1780087476.json"
   }
 ]
