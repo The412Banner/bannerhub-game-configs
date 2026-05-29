@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780064127,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2303CRA44A-Mali-G57_MC2-1780064127.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "S906E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780055182,
     "filename": "God_of_War-vivo-I2220-Adreno__TM__750-1780055182.json"
-  },
-  {
-    "game": "DmC__Devil_May_Cry",
-    "manufacturer": "M2007J3SY",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780054740,
-    "filename": "DmC__Devil_May_Cry-Xiaomi-M2007J3SY-Adreno__TM__650-1780054740.json"
   }
 ]
