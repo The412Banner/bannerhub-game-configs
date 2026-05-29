@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1780033465,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5106-Mali-G615_MC2-1780033465.json"
+  },
+  {
     "game": "Virtual_Desktop_Streamer",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780018989,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S918B-Adreno__TM__740-1780018989.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780018611,
-    "filename": "Grand_Theft_Auto_V-INFINIX-Infinix_X6728-Mali-G52_MC2-1780018611.json"
   }
 ]
