@@ -1,5 +1,12 @@
 [
   {
+    "game": "____",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1780046998,
+    "filename": "____-nubia-NX809J-Adreno__TM__840-1780046998.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A037M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780027606,
     "filename": "NBA_2K23-Xiaomi-2510DRK44C-Adreno__TM__830-1780027606.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "S906E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1780024807,
-    "filename": "PlayGTAV-samsung-SM-S906E-Adreno__TM__730-1780024807.json"
   }
 ]
