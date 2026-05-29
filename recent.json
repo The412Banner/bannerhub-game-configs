@@ -1,5 +1,12 @@
 [
   {
+    "game": "One-armed_robber",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780059541,
+    "filename": "One-armed_robber-Xiaomi-24117RN76L-Mali-G57_MC2-1780059541.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1780046164,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A037M-PowerVR_Rogue_GE8320-1780046164.json"
-  },
-  {
-    "game": "____",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1780045644,
-    "filename": "____-nubia-NX809J-Adreno__TM__840-1780045644.json"
   }
 ]
