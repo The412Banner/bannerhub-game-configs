@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780018989,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S918B-Adreno__TM__740-1780018989.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780005192,
     "filename": "KINGDOM_HEARTS_HD_2_8_Final_Chapter_Prologue-ayn-Odin3-Adreno__TM__830-1780005192.json"
-  },
-  {
-    "game": "FIFA_19_____________________________________________________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780001431,
-    "filename": "FIFA_19_____________________________________________________-Xiaomi-21091116AC-Mali-G57_MC2-1780001431.json"
   }
 ]
