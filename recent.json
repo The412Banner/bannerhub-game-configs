@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1780060053,
+    "filename": "TheAmazingSpider-Man2-Xiaomi-25080RABDG-Mali-G615_MC2-1780060053.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1780048547,
     "filename": "Need_for_Speed__Rivals-motorola-motorola_edge_50_ultra-Adreno__TM__735-1780048547.json"
-  },
-  {
-    "game": "Bond",
-    "manufacturer": "motorola_edge_50_ultra",
-    "device": "Adreno__TM__735",
-    "timestamp": 1780048529,
-    "filename": "Bond-motorola-motorola_edge_50_ultra-Adreno__TM__735-1780048529.json"
   }
 ]
