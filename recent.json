@@ -3,6 +3,13 @@
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1780095744,
+    "filename": "BootstrapPackagedGame-realme-RMX3939-Mali-G57-1780095744.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1780095728,
     "filename": "BootstrapPackagedGame-realme-RMX3939-Mali-G57-1780095728.json"
   },
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1780086189,
     "filename": "Ben_10__Power_Trip-HUAWEI-STK-L22-Mali-G51-1780086189.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Infinix_X6515",
-    "device": "PowerVR_Rogue_GE8300",
-    "timestamp": 1780086152,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6515-PowerVR_Rogue_GE8300-1780086152.json"
   }
 ]
