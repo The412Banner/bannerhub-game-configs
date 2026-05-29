@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+    "manufacturer": "CPH2447",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780070703,
+    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-OnePlus-CPH2447-Adreno__TM__740-1780070703.json"
+  },
+  {
     "game": "Star_Wars__The_Force_Unleashed",
     "manufacturer": "CPH2447",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780060184,
     "filename": "Hollow_Knight__Silksong-Xiaomi-23113RKC6G-Adreno__TM__740-1780060184.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man2",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1780060053,
-    "filename": "TheAmazingSpider-Man2-Xiaomi-25080RABDG-Mali-G615_MC2-1780060053.json"
   }
 ]
