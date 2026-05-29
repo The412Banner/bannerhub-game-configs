@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2_____________________________________________",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780054358,
+    "filename": "Resident_Evil_2_____________________________________________-samsung-SM-A055M-Mali-G52_MC2-1780054358.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780034671,
     "filename": "Puck-TECNO-TECNO_KL7-Mali-G57_MC2-1780034671.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1780033567,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5106-Mali-G615_MC2-1780033567.json"
   }
 ]
