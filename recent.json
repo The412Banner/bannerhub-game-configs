@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1780031837,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5106-Mali-G615_MC2-1780031837.json"
+  },
+  {
     "game": "Alice__Madness_Returns",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780018001,
     "filename": "Pro_Evolution_Soccer_2017-nubia-NX713J-Adreno__TM__740-1780018001.json"
-  },
-  {
-    "game": "__Stronghold_Crusader",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780017884,
-    "filename": "__Stronghold_Crusader-INFINIX-Infinix_X6850-Mali-G57_MC2-1780017884.json"
   }
 ]
