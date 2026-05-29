@@ -1,5 +1,12 @@
 [
   {
+    "game": "SonicFrontiers",
+    "manufacturer": "ASUSAI2501B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780065767,
+    "filename": "SonicFrontiers-asus-ASUSAI2501B-Adreno__TM__830-1780065767.json"
+  },
+  {
     "game": "ch5_pro",
     "manufacturer": "S721B",
     "device": "ANGLE__Samsung_Xclipse_940__on_Vulkan_1_3_279",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780055725,
     "filename": "Need_for_Speed_9-samsung-SM-S938B-Adreno__TM__830-1780055725.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "23129RAA4G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1780055614,
-    "filename": "_____2019-Xiaomi-23129RAA4G-Adreno__TM__610-1780055614.json"
   }
 ]
