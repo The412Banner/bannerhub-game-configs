@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__III_Remastered",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780070675,
+    "filename": "Assassin_s_Creed__III_Remastered-Xiaomi-2311DRK48G-Mali-G615_MC6-1780070675.json"
+  },
+  {
     "game": "SKPeachBeachSplash",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780059893,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1780059893.json"
-  },
-  {
-    "game": "METAL_GEAR_SOLID_V__GROUND_ZEROES",
-    "manufacturer": "23127PN0CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1780059873,
-    "filename": "METAL_GEAR_SOLID_V__GROUND_ZEROES-Xiaomi-23127PN0CG-Adreno__TM__750-1780059873.json"
   }
 ]
