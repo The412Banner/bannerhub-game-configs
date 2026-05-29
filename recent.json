@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "S721B",
+    "device": "ANGLE__Samsung_Xclipse_940__on_Vulkan_1_3_279",
+    "timestamp": 1780064607,
+    "filename": "ch5_pro-samsung-SM-S721B-ANGLE__Samsung_Xclipse_940__on_Vulkan_1_3_279-1780064607.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1780055614,
     "filename": "_____2019-Xiaomi-23129RAA4G-Adreno__TM__610-1780055614.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "I2220",
-    "device": "Adreno__TM__750",
-    "timestamp": 1780055182,
-    "filename": "God_of_War-vivo-I2220-Adreno__TM__750-1780055182.json"
   }
 ]
