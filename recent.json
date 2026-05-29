@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780018611,
+    "filename": "Grand_Theft_Auto_V-INFINIX-Infinix_X6728-Mali-G52_MC2-1780018611.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "NX713J",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780001431,
     "filename": "FIFA_19_____________________________________________________-Xiaomi-21091116AC-Mali-G57_MC2-1780001431.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780001065,
-    "filename": "Resident_Evil_4-Xiaomi-23113RKC6G-Adreno__TM__740-1780001065.json"
   }
 ]
