@@ -1,5 +1,12 @@
 [
   {
+    "game": "MOUSE",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1780072861,
+    "filename": "MOUSE-AYANEO-Pocket_FIT-Adreno__TM__750-1780072861.json"
+  },
+  {
     "game": "TVP_KIRIKIRI__Z_core___Scripting_Platform_for_Win32",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1780062842,
     "filename": "Left_4_Dead_2-samsung-SM-S906E-Adreno__TM__730-1780062842.json"
-  },
-  {
-    "game": "Ernasis_Online",
-    "manufacturer": "Retroid_Pocket_Flip2",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780062683,
-    "filename": "Ernasis_Online-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1780062683.json"
   }
 ]
