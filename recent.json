@@ -1,5 +1,12 @@
 [
   {
+    "game": "____",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1780045436,
+    "filename": "____-nubia-NX809J-Adreno__TM__840-1780045436.json"
+  },
+  {
     "game": "GTA_San_Andreas_www_wifi4games_com_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1780023964,
     "filename": "DARK_SOULS___REMASTERED-Xiaomi-2410CRP4CG-Adreno__TM__732-1780023964.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780023920,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1780023920.json"
   }
 ]
