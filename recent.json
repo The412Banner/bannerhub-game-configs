@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780137279,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1780137279.json"
+  },
+  {
     "game": "DREDGE",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1780130713,
     "filename": "Need_for_Speed__Most_Wanted-motorola-moto_g45_5G-Adreno__TM__619-1780130713.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1780130705,
-    "filename": "Grand_Theft_Auto_V-motorola-moto_g45_5G-Adreno__TM__619-1780130705.json"
   }
 ]
