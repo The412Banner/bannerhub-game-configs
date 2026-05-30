@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780124130,
+    "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-S938B-Adreno__TM__830-1780124130.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1780105252,
     "filename": "FIFA_Soccer_11-Xiaomi-2107113SG-Adreno__TM__660-1780105252.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "23122PCD1I",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780105011,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-23122PCD1I-Adreno__TM__710-1780105011.json"
   }
 ]
