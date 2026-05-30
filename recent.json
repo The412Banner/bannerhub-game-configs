@@ -1,5 +1,12 @@
 [
   {
+    "game": "Heretic___Hexen",
+    "manufacturer": "Mali",
+    "device": "G76_MC4",
+    "timestamp": 1780179514,
+    "filename": "Heretic___Hexen-motorola-moto_g_60_s-Mali-G76_MC4-1780179514.json"
+  },
+  {
     "game": "poppy_playtime_5_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780166334,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1780166334.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1780164946,
-    "filename": "Grand_Theft_Auto_V-Xiaomi-2311DRK48G-Mali-G615_MC6-1780164946.json"
   }
 ]
