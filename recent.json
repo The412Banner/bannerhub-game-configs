@@ -1,5 +1,12 @@
 [
   {
+    "game": "Launch",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1780131772,
+    "filename": "Launch-motorola-moto_g45_5G-Adreno__TM__619-1780131772.json"
+  },
+  {
     "game": "Need_for_Speed__Most_Wanted",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780121630,
     "filename": "Need_for_Speed_9-ITEL-itel_P661N-Mali-G57_MC2-1780121630.json"
-  },
-  {
-    "game": "Islets",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1780117841,
-    "filename": "Islets-Xiaomi-M2101K7BI-Mali-G76-1780117841.json"
   }
 ]
