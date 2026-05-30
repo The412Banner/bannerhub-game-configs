@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780137661,
+    "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1780137661.json"
+  },
+  {
     "game": "DRAGON_BALL_XENOVERSE_2",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1780130756,
     "filename": "Oceanhorn_2-motorola-moto_g45_5G-Adreno__TM__619-1780130756.json"
-  },
-  {
-    "game": "DRAGON_BALL_XENOVERSE",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1780130719,
-    "filename": "DRAGON_BALL_XENOVERSE-motorola-moto_g45_5G-Adreno__TM__619-1780130719.json"
   }
 ]
