@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780115891,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-OMIX-X7-Mali-G57_MC2-1780115891.json"
+  },
+  {
     "game": "__Stronghold_Crusader",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780102957,
     "filename": "Watch_Dogs_-Xiaomi-25053PC47G-Adreno__TM__825-1780102957.json"
-  },
-  {
-    "game": "Sonic_World_Adventure",
-    "manufacturer": "moto_g51_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1780101295,
-    "filename": "Sonic_World_Adventure-motorola-moto_g51_5G-Adreno__TM__619-1780101295.json"
   }
 ]
