@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780164946,
+    "filename": "Grand_Theft_Auto_V-Xiaomi-2311DRK48G-Mali-G615_MC6-1780164946.json"
+  },
+  {
     "game": "The_Elder_Scrolls_V__Skyrim",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1780148461,
     "filename": "Red_Dead_Redemption-Xiaomi-22101316G-Mali-G68_MC4-1780148461.json"
-  },
-  {
-    "game": "Naruto_Shippuden_-_Ultimate_Ninja_Storm_3_Full_Burst________",
-    "manufacturer": "moto_g_30_",
-    "device": "Adreno__TM__610",
-    "timestamp": 1780147275,
-    "filename": "Naruto_Shippuden_-_Ultimate_Ninja_Storm_3_Full_Burst________-motorola-moto_g_30_-Adreno__TM__610-1780147275.json"
   }
 ]
