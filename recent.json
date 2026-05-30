@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1780130705,
+    "filename": "Grand_Theft_Auto_V-motorola-moto_g45_5G-Adreno__TM__619-1780130705.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780107696,
     "filename": "BootstrapPackagedGame-samsung-SM-S931B-Adreno__TM__830-1780107696.json"
-  },
-  {
-    "game": "DARK_SOULS__III",
-    "manufacturer": "S931B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780107674,
-    "filename": "DARK_SOULS__III-samsung-SM-S931B-Adreno__TM__830-1780107674.json"
   }
 ]
