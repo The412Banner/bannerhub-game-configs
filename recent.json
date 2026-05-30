@@ -1,5 +1,12 @@
 [
   {
+    "game": "speed2",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1780131054,
+    "filename": "speed2-motorola-moto_g45_5G-Adreno__TM__619-1780131054.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "LX1",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780115290,
     "filename": "__Stronghold_Crusader-TECNO-TECNO_LH7n-Mali-G57_MC2-1780115290.json"
-  },
-  {
-    "game": "__Stronghold_Crusader",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780115226,
-    "filename": "__Stronghold_Crusader-TECNO-TECNO_LH7n-Mali-G57_MC2-1780115226.json"
   }
 ]
