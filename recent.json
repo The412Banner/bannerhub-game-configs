@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780140348,
+    "filename": "PlayGTAV-TECNO-TECNO_LI9-Mali-G57_MC2-1780140348.json"
+  },
+  {
     "game": "SniperElite4_Dedicated",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1780131054,
     "filename": "speed2-motorola-moto_g45_5G-Adreno__TM__619-1780131054.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "LX1",
-    "device": "Adreno__TM__610",
-    "timestamp": 1780131038,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HONOR-CLK-LX1-Adreno__TM__610-1780131038.json"
   }
 ]
