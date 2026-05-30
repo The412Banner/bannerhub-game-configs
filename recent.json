@@ -3,6 +3,13 @@
     "game": "SlimeRancher",
     "manufacturer": "Mali",
     "device": "G615_MC6",
+    "timestamp": 1780171991,
+    "filename": "SlimeRancher-TECNO-TECNO_CM8-Mali-G615_MC6-1780171991.json"
+  },
+  {
+    "game": "SlimeRancher",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
     "timestamp": 1780171987,
     "filename": "SlimeRancher-TECNO-TECNO_CM8-Mali-G615_MC6-1780171987.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780151477,
     "filename": "Tomb_Raider-AYN-Odin2_Mini-Adreno__TM__740-1780151477.json"
-  },
-  {
-    "game": "Fears_To_Fathom",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1780151414,
-    "filename": "Fears_To_Fathom-Xiaomi-23129RA5FL-Adreno__TM__610-1780151414.json"
   }
 ]
