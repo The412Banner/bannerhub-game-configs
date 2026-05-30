@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARKSOULS",
+    "manufacturer": "23122PCD1I",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780103767,
+    "filename": "DARKSOULS-Xiaomi-23122PCD1I-Adreno__TM__710-1780103767.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1780091243,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M356B-Mali-G68-1780091243.json"
-  },
-  {
-    "game": "eFootball_PES_2021_SEASON_UPDATE",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__810",
-    "timestamp": 1780090997,
-    "filename": "eFootball_PES_2021_SEASON_UPDATE-HONOR-MTN-NX1-Adreno__TM__810-1780090997.json"
   }
 ]
