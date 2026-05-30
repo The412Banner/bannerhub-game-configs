@@ -1,5 +1,12 @@
 [
   {
+    "game": "SlimeRancher",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780171987,
+    "filename": "SlimeRancher-TECNO-TECNO_CM8-Mali-G615_MC6-1780171987.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1780151414,
     "filename": "Fears_To_Fathom-Xiaomi-23129RA5FL-Adreno__TM__610-1780151414.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "54C",
-    "device": "Adreno__TM__730",
-    "timestamp": 1780150796,
-    "filename": "Resident_Evil_6-Sony-SO-54C-Adreno__TM__730-1780150796.json"
   }
 ]
