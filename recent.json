@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "23122PCD1I",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780105011,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-23122PCD1I-Adreno__TM__710-1780105011.json"
+  },
+  {
     "game": "DARKSOULS",
     "manufacturer": "23122PCD1I",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1780091483,
     "filename": "Language_Selector-INFINIX-Infinix_X6873-Mali-G615_MC6-1780091483.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1780091243,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M356B-Mali-G68-1780091243.json"
   }
 ]
