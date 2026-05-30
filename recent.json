@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Rogue",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1780126489,
+    "filename": "Assassin_s_Creed__Rogue-samsung-SM-A256E-Mali-G68-1780126489.json"
+  },
+  {
     "game": "Dying_Light_2_Stay_Human__Reloaded_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1780107447,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g34_5G-Adreno__TM__619-1780107447.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1780105619,
-    "filename": "Hollow_Knight__Silksong-AYANEO-Pocket_FIT-Adreno__TM__750-1780105619.json"
   }
 ]
