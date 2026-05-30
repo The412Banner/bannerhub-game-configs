@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1780166334,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1780166334.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1780148587,
     "filename": "Metro_2033_Redux-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780148587.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1780148461,
-    "filename": "Red_Dead_Redemption-Xiaomi-22101316G-Mali-G68_MC4-1780148461.json"
   }
 ]
