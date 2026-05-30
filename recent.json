@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_Soccer_11",
+    "manufacturer": "2107113SG",
+    "device": "Adreno__TM__660",
+    "timestamp": 1780105252,
+    "filename": "FIFA_Soccer_11-Xiaomi-2107113SG-Adreno__TM__660-1780105252.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "23122PCD1I",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
     "timestamp": 1780093799,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-samsung-SM-F766B-ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_-1780093799.json"
-  },
-  {
-    "game": "Language_Selector",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1780091483,
-    "filename": "Language_Selector-INFINIX-Infinix_X6873-Mali-G615_MC6-1780091483.json"
   }
 ]
