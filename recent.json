@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "54C",
+    "device": "Adreno__TM__730",
+    "timestamp": 1780150796,
+    "filename": "Resident_Evil_6-Sony-SO-54C-Adreno__TM__730-1780150796.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780138941,
     "filename": "God_of_War-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780138941.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780138879,
-    "filename": "God_of_War-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780138879.json"
   }
 ]
