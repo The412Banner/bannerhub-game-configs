@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780180502,
+    "filename": "Cuphead-samsung-SM-A155M-Mali-G57_MC2-1780180502.json"
+  },
+  {
     "game": "Microsoft_Windows_Desktop_Runtime_-_6_0_36__x64_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1780167162,
     "filename": "MudRunner-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780167162.json"
-  },
-  {
-    "game": "Batman__Arkham_Knight",
-    "manufacturer": "NX779J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1780166467,
-    "filename": "Batman__Arkham_Knight-nubia-NX779J-Adreno__TM__750-1780166467.json"
   }
 ]
