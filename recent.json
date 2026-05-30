@@ -1,5 +1,12 @@
 [
   {
+    "game": "autorun6e",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1780146682,
+    "filename": "autorun6e-Xiaomi-2306EPN60G-Mali-G610_MC6-1780146682.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S731B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1780131848,
     "filename": "Config_DW8-motorola-moto_g45_5G-Adreno__TM__619-1780131848.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1780131839,
-    "filename": "Grand_Theft_Auto_V-motorola-moto_g45_5G-Adreno__TM__619-1780131839.json"
   }
 ]
