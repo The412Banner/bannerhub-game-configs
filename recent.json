@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1780174020,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1780174020.json"
+  },
+  {
     "game": "Game",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1780157333,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-nubia-NX809J-Adreno__TM__840-1780157333.json"
-  },
-  {
-    "game": "Deep_Rock_Galactic",
-    "manufacturer": "24129PN74G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780156819,
-    "filename": "Deep_Rock_Galactic-Xiaomi-24129PN74G-Adreno__TM__830-1780156819.json"
   }
 ]
