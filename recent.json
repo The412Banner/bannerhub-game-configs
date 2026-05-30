@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Odin2_Mini",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780151477,
+    "filename": "Tomb_Raider-AYN-Odin2_Mini-Adreno__TM__740-1780151477.json"
+  },
+  {
     "game": "Fears_To_Fathom",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1780140270,
     "filename": "SniperElite4_Dedicated-motorola-moto_g84_5G-Adreno__TM__619-1780140270.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780139649,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780139649.json"
   }
 ]
