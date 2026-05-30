@@ -3,6 +3,13 @@
     "game": "Game",
     "manufacturer": "8",
     "device": "256",
+    "timestamp": 1780172992,
+    "filename": "Game-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1780172992.json"
+  },
+  {
+    "game": "Game",
+    "manufacturer": "8",
+    "device": "256",
     "timestamp": 1780172600,
     "filename": "Game-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1780172600.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780156819,
     "filename": "Deep_Rock_Galactic-Xiaomi-24129PN74G-Adreno__TM__830-1780156819.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780155177,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-Xiaomi-24117RN76L-Mali-G57_MC2-1780155177.json"
   }
 ]
