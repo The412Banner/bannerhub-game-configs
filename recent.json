@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1780182529,
+    "filename": "Resident_Evil_4-nubia-NX809J-Adreno__TM__840-1780182529.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH2473",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1780170645,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-BRP-NX1-Adreno__TM__710-1780170645.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1780167550,
-    "filename": "PlayGTAV-Xiaomi-25080RABDG-Mali-G615_MC2-1780167550.json"
   }
 ]
