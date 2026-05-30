@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dying_Light_2_Stay_Human__Reloaded_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780124489,
+    "filename": "Dying_Light_2_Stay_Human__Reloaded_Edition-samsung-SM-A315G-Mali-G52_MC2-1780124489.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780105619,
     "filename": "Hollow_Knight__Silksong-AYANEO-Pocket_FIT-Adreno__TM__750-1780105619.json"
-  },
-  {
-    "game": "FIFA_Soccer_11",
-    "manufacturer": "2107113SG",
-    "device": "Adreno__TM__660",
-    "timestamp": 1780105252,
-    "filename": "FIFA_Soccer_11-Xiaomi-2107113SG-Adreno__TM__660-1780105252.json"
   }
 ]
