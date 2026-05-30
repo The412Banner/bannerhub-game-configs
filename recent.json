@@ -1,5 +1,12 @@
 [
   {
+    "game": "Deep_Rock_Galactic",
+    "manufacturer": "24129PN74G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780156819,
+    "filename": "Deep_Rock_Galactic-Xiaomi-24129PN74G-Adreno__TM__830-1780156819.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780145713,
     "filename": "Tom_Clancy_s_Splinter_Cell_Blacklist-AYN-Odin2_Mini-Adreno__TM__740-1780145713.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780145236,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1780145236.json"
   }
 ]
