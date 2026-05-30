@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup_rayman_3_-_hoodlum_havoc_1_0_0__22189_",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780147200,
+    "filename": "setup_rayman_3_-_hoodlum_havoc_1_0_0__22189_-motorola-moto_e13-Mali-G57-1780147200.json"
+  },
+  {
     "game": "autorun6e",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1780131881,
     "filename": "Praey_For_the_Gods-motorola-moto_g45_5G-Adreno__TM__619-1780131881.json"
-  },
-  {
-    "game": "Config_DW8",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1780131848,
-    "filename": "Config_DW8-motorola-moto_g45_5G-Adreno__TM__619-1780131848.json"
   }
 ]
