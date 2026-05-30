@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780138879,
+    "filename": "God_of_War-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780138879.json"
+  },
+  {
     "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1780130777,
     "filename": "The_Killing_Antidote-motorola-moto_g45_5G-Adreno__TM__619-1780130777.json"
-  },
-  {
-    "game": "Oceanhorn_2",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1780130756,
-    "filename": "Oceanhorn_2-motorola-moto_g45_5G-Adreno__TM__619-1780130756.json"
   }
 ]
