@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1780150379,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X6871-Mali-G610_MC6-1780150379.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780138879,
     "filename": "God_of_War-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780138879.json"
-  },
-  {
-    "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780137661,
-    "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1780137661.json"
   }
 ]
