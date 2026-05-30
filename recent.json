@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "CPH2473",
+    "device": "Adreno__TM__610",
+    "timestamp": 1780182523,
+    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2473-Adreno__TM__610-1780182523.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1780167550,
     "filename": "PlayGTAV-Xiaomi-25080RABDG-Mali-G615_MC2-1780167550.json"
-  },
-  {
-    "game": "MudRunner",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780167162,
-    "filename": "MudRunner-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780167162.json"
   }
 ]
