@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780184797,
+    "filename": "Grand_Theft_Auto_V-samsung-SM-A145P-Mali-G52_MC2-1780184797.json"
+  },
+  {
     "game": "AtomRPG_x64",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1780171991,
     "filename": "SlimeRancher-TECNO-TECNO_CM8-Mali-G615_MC6-1780171991.json"
-  },
-  {
-    "game": "SlimeRancher",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1780171987,
-    "filename": "SlimeRancher-TECNO-TECNO_CM8-Mali-G615_MC6-1780171987.json"
   }
 ]
