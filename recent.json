@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Windows_Desktop_Runtime_-_6_0_36__x64_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780180370,
+    "filename": "Microsoft_Windows_Desktop_Runtime_-_6_0_36__x64_-samsung-SM-A155M-Mali-G57_MC2-1780180370.json"
+  },
+  {
     "game": "Heretic___Hexen",
     "manufacturer": "Mali",
     "device": "G76_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780166467,
     "filename": "Batman__Arkham_Knight-nubia-NX779J-Adreno__TM__750-1780166467.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780166334,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1780166334.json"
   }
 ]
