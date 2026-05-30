@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1780167550,
+    "filename": "PlayGTAV-Xiaomi-25080RABDG-Mali-G615_MC2-1780167550.json"
+  },
+  {
     "game": "MudRunner",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1780150379,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X6871-Mali-G610_MC6-1780150379.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1780149866,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-22101316G-Mali-G68_MC4-1780149866.json"
   }
 ]
