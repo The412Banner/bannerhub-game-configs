@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1780148461,
+    "filename": "Red_Dead_Redemption-Xiaomi-22101316G-Mali-G68_MC4-1780148461.json"
+  },
+  {
     "game": "Naruto_Shippuden_-_Ultimate_Ninja_Storm_3_Full_Burst________",
     "manufacturer": "moto_g_30_",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780136575,
     "filename": "DREDGE-AYN-AYN_Thor-Adreno__TM__740-1780136575.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780132724,
-    "filename": "Resident_Evil_2-Xiaomi-24116RACCG-Mali-G57_MC2-1780132724.json"
   }
 ]
