@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fran_Bow",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1780159381,
+    "filename": "Fran_Bow-motorola-motorola_edge_60_fusion-Mali-G615_MC2-1780159381.json"
+  },
+  {
     "game": "METAL_GEAR_RISING_REVENGEANCE",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1780146682,
     "filename": "autorun6e-Xiaomi-2306EPN60G-Mali-G610_MC6-1780146682.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S731B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1780146180,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1780146180.json"
   }
 ]
