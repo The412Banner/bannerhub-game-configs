@@ -1,5 +1,12 @@
 [
   {
+    "game": "AFTERBURN",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1780131636,
+    "filename": "AFTERBURN-motorola-moto_g45_5G-Adreno__TM__619-1780131636.json"
+  },
+  {
     "game": "Battlefield__Bad_Company__2",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1780116631,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780116631.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780115891,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-OMIX-X7-Mali-G57_MC2-1780115891.json"
   }
 ]
