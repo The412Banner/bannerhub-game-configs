@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "AN00",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780143538,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-AN00-Adreno__TM__710-1780143538.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1780131234,
     "filename": "ULTRA_AGE-motorola-moto_g45_5G-Adreno__TM__619-1780131234.json"
-  },
-  {
-    "game": "speed2",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1780131054,
-    "filename": "speed2-motorola-moto_g45_5G-Adreno__TM__619-1780131054.json"
   }
 ]
