@@ -1,5 +1,12 @@
 [
   {
+    "game": "Metro_2033_Redux",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780148587,
+    "filename": "Metro_2033_Redux-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780148587.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780137279,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1780137279.json"
-  },
-  {
-    "game": "DREDGE",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780136575,
-    "filename": "DREDGE-AYN-AYN_Thor-Adreno__TM__740-1780136575.json"
   }
 ]
