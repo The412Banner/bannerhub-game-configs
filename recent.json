@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2025",
+    "manufacturer": "S921E",
+    "device": "Adreno__TM__750",
+    "timestamp": 1780172567,
+    "filename": "F1_2025-samsung-SM-S921E-Adreno__TM__750-1780172567.json"
+  },
+  {
     "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1780154241,
     "filename": "need-for-speed-most-wanted-1-0-motorola-motorola_edge_30_neo-Adreno__TM__619-1780154241.json"
-  },
-  {
-    "game": "Ultranium",
-    "manufacturer": "Mali",
-    "device": "G72",
-    "timestamp": 1780154195,
-    "filename": "Ultranium-samsung-SM-S906B-Mali-G72-1780154195.json"
   }
 ]
