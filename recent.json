@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780099625,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A055M-Mali-G52_MC2-1780099625.json"
+  },
+  {
     "game": "BlueStacks_5_",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1780088801,
     "filename": "Hollow_Knight-samsung-SM-G990E-Mali-G78-1780088801.json"
-  },
-  {
-    "game": "P13",
-    "manufacturer": "RMX3081",
-    "device": "Adreno__TM__618",
-    "timestamp": 1780088745,
-    "filename": "P13-realme-RMX3081-Adreno__TM__618-1780088745.json"
   }
 ]
