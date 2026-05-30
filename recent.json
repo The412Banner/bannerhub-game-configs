@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780155177,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-Xiaomi-24117RN76L-Mali-G57_MC2-1780155177.json"
+  },
+  {
     "game": "need-for-speed-most-wanted-1-0",
     "manufacturer": "motorola_edge_30_neo",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780145236,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1780145236.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780144275,
-    "filename": "Resident_Evil_6-TECNO-TECNO_LH7n-Mali-G57_MC2-1780144275.json"
   }
 ]
