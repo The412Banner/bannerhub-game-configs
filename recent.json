@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780112648,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6531B-Mali-G52_MC2-1780112648.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1780112536,
     "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_LH7n-Mali-G57_MC2-1780112536.json"
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1780099035,
     "filename": "BlueStacks_5_-motorola-moto_g73_5G-PowerVR_B-Series_BXM-8-256-1780099035.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780098849,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e13-Mali-G57-1780098849.json"
   }
 ]
