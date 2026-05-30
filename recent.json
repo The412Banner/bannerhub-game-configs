@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780172478,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780172478.json"
+  },
+  {
     "game": "SlimeRancher",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780151659,
     "filename": "Assassin_s_Creed__Rogue-samsung-SM-S928B-Adreno__TM__750-1780151659.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Odin2_Mini",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780151477,
-    "filename": "Tomb_Raider-AYN-Odin2_Mini-Adreno__TM__740-1780151477.json"
   }
 ]
