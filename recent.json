@@ -1,5 +1,12 @@
 [
   {
+    "game": "AtomRPG_x64",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780183196,
+    "filename": "AtomRPG_x64-unknown-GammaOS_Lite-Mali-G57-1780183196.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1780171987,
     "filename": "SlimeRancher-TECNO-TECNO_CM8-Mali-G615_MC6-1780171987.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780170645,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-BRP-NX1-Adreno__TM__710-1780170645.json"
   }
 ]
