@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "LX1",
+    "device": "Adreno__TM__610",
+    "timestamp": 1780131038,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HONOR-CLK-LX1-Adreno__TM__610-1780131038.json"
+  },
+  {
     "game": "Castlevania__Lords_of_Shadow_2",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780115226,
     "filename": "__Stronghold_Crusader-TECNO-TECNO_LH7n-Mali-G57_MC2-1780115226.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780112648,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6531B-Mali-G52_MC2-1780112648.json"
   }
 ]
