@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tom_Clancy_s_Splinter_Cell_Blacklist",
+    "manufacturer": "Odin2_Mini",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780145713,
+    "filename": "Tom_Clancy_s_Splinter_Cell_Blacklist-AYN-Odin2_Mini-Adreno__TM__740-1780145713.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1780131636,
     "filename": "AFTERBURN-motorola-moto_g45_5G-Adreno__TM__619-1780131636.json"
-  },
-  {
-    "game": "Battlefield__Bad_Company__2",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1780131546,
-    "filename": "Battlefield__Bad_Company__2-motorola-moto_g45_5G-Adreno__TM__619-1780131546.json"
   }
 ]
