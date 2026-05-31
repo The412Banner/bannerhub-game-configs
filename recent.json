@@ -1,5 +1,12 @@
 [
   {
+    "game": "JUMP_FORCE",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1780242461,
+    "filename": "JUMP_FORCE-Xiaomi-25053RT47C-Adreno__TM__825-1780242461.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780233837,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NIC-LX2-Mali-G52_MC2-1780233837.json"
-  },
-  {
-    "game": "Spyro__Reignited_Trilogy",
-    "manufacturer": "V2436A",
-    "device": "Adreno__TM__750",
-    "timestamp": 1780228621,
-    "filename": "Spyro__Reignited_Trilogy-vivo-V2436A-Adreno__TM__750-1780228621.json"
   }
 ]
