@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1780234760,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409BRN2CL-Mali-G52_MC2-1780234760.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1780233837,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NIC-LX2-Mali-G52_MC2-1780233837.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__506",
     "timestamp": 1780209311,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g_7__power-Adreno__TM__506-1780209311.json"
-  },
-  {
-    "game": "dota2",
-    "manufacturer": "N986N",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780208342,
-    "filename": "dota2-samsung-SM-N986N-Adreno__TM__650-1780208342.json"
   }
 ]
