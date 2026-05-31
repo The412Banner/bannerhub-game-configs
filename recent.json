@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1780271830,
+    "filename": "Resident_Evil_4-nubia-NX809J-Adreno__TM__840-1780271830.json"
+  },
+  {
     "game": "Alan_Wake",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780255380,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-24117RN76L-Mali-G57_MC2-1780255380.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780255368,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-24117RN76L-Mali-G57_MC2-1780255368.json"
   }
 ]
