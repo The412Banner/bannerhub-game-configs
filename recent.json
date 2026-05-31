@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780255607,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-INFINIX-Infinix_X6881-Mali-G57_MC2-1780255607.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1780248243,
     "filename": "Just_Cause__3-nubia-NX809J-Adreno__TM__840-1780248243.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1780246745,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546B-Mali-G68-1780246745.json"
   }
 ]
