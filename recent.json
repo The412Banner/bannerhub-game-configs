@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780233837,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NIC-LX2-Mali-G52_MC2-1780233837.json"
+  },
+  {
     "game": "Spyro__Reignited_Trilogy",
     "manufacturer": "V2436A",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1780208342,
     "filename": "dota2-samsung-SM-N986N-Adreno__TM__650-1780208342.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1780207955,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1780207955.json"
   }
 ]
