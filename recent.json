@@ -1,5 +1,12 @@
 [
   {
+    "game": "teste",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1780188900,
+    "filename": "teste-samsung-SM-A356E-Mali-G68-1780188900.json"
+  },
+  {
     "game": "pes_2013_kk",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1780174020,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1780174020.json"
-  },
-  {
-    "game": "Game",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1780172992,
-    "filename": "Game-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1780172992.json"
   }
 ]
