@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Revelations_2",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1780193439,
+    "filename": "Resident_Evil_Revelations_2-samsung-SM-A346M-Mali-G68_MC4-1780193439.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S721B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780180502,
     "filename": "Cuphead-samsung-SM-A155M-Mali-G57_MC2-1780180502.json"
-  },
-  {
-    "game": "Microsoft_Windows_Desktop_Runtime_-_6_0_36__x64_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780180370,
-    "filename": "Microsoft_Windows_Desktop_Runtime_-_6_0_36__x64_-samsung-SM-A155M-Mali-G57_MC2-1780180370.json"
   }
 ]
