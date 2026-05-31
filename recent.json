@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "S918U",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780221313,
+    "filename": "Sleeping_Dogs-samsung-SM-S918U-Adreno__TM__740-1780221313.json"
+  },
+  {
     "game": "HKShip",
     "manufacturer": "V2546A",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1780202747,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2109119DG-Adreno__TM__642L-1780202747.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780202354,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1780202354.json"
   }
 ]
