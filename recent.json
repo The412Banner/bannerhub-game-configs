@@ -1,5 +1,12 @@
 [
   {
+    "game": "AC3SP",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1780226896,
+    "filename": "AC3SP-Xiaomi-M2102J20SG-Adreno__TM__640-1780226896.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Infinix_X6515",
     "device": "PowerVR_Rogue_GE8300",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780207929,
     "filename": "setup-OPPO-CPH2639-Mali-G57_MC2-1780207929.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1780207177,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-2511FPC34G-Mali-G720_MC8-1780207177.json"
   }
 ]
