@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780207929,
+    "filename": "setup-OPPO-CPH2639-Mali-G57_MC2-1780207929.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1780193570,
     "filename": "Captain_Tsubasa__Rise_of_New_Champions-INFINIX-Infinix_X6873-Mali-G615_MC6-1780193570.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1780193439,
-    "filename": "Resident_Evil_Revelations_2-samsung-SM-A346M-Mali-G68_MC4-1780193439.json"
   }
 ]
