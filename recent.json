@@ -1,5 +1,12 @@
 [
   {
+    "game": "CoJBiBGame_x86",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780262086,
+    "filename": "CoJBiBGame_x86-Xiaomi-2311DRK48G-Mali-G615_MC6-1780262086.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780250626,
     "filename": "Tomb_Raider-AYN-Odin2_Mini-Adreno__TM__740-1780250626.json"
-  },
-  {
-    "game": "Portal_2",
-    "manufacturer": "Odin2_Mini",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780250620,
-    "filename": "Portal_2-AYN-Odin2_Mini-Adreno__TM__740-1780250620.json"
   }
 ]
