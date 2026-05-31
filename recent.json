@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayRDR",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1780187580,
+    "filename": "PlayRDR-motorola-moto_g84_5G-Adreno__TM__619-1780187580.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M2101K6G",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780172567,
     "filename": "F1_2025-samsung-SM-S921E-Adreno__TM__750-1780172567.json"
-  },
-  {
-    "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1780172538,
-    "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1780172538.json"
   }
 ]
