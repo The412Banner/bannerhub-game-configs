@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780256879,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1780256879.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780250268,
     "filename": "BlueStacks_5_-Xiaomi-23106RN0DA-Mali-G52_MC2-1780250268.json"
-  },
-  {
-    "game": "Just_Cause__3",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1780248243,
-    "filename": "Just_Cause__3-nubia-NX809J-Adreno__TM__840-1780248243.json"
   }
 ]
