@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dying_Light_2_Stay_Human__Reloaded_Edition",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1780201888,
+    "filename": "Dying_Light_2_Stay_Human__Reloaded_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1780201888.json"
+  },
+  {
     "game": "The_Amazing_Spider-Man_2__TM_",
     "manufacturer": "N975U",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780190897,
     "filename": "God_of_War-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780190897.json"
-  },
-  {
-    "game": "teste",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1780188900,
-    "filename": "teste-samsung-SM-A356E-Mali-G68-1780188900.json"
   }
 ]
