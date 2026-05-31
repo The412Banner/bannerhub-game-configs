@@ -1,5 +1,12 @@
 [
   {
+    "game": "Spyro__Reignited_Trilogy",
+    "manufacturer": "V2436A",
+    "device": "Adreno__TM__750",
+    "timestamp": 1780228621,
+    "filename": "Spyro__Reignited_Trilogy-vivo-V2436A-Adreno__TM__750-1780228621.json"
+  },
+  {
     "game": "AC3SP",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1780207955,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1780207955.json"
-  },
-  {
-    "game": "setup",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780207929,
-    "filename": "setup-OPPO-CPH2639-Mali-G57_MC2-1780207929.json"
   }
 ]
