@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Payback",
+    "manufacturer": "V2338A",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780210962,
+    "filename": "Need_for_Speed__Payback-vivo-V2338A-Adreno__TM__740-1780210962.json"
+  },
+  {
     "game": "METAL_GEAR_SOLID_V__GROUND_ZEROES",
     "manufacturer": "2509ARPBDG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1780196706,
     "filename": "God_of_War-Xiaomi-2311DRK48G-Mali-G615_MC6-1780196706.json"
-  },
-  {
-    "game": "Injustice__2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780195378,
-    "filename": "Injustice__2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780195378.json"
   }
 ]
