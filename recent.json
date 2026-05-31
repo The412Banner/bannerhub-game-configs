@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tom_Clancy_s_Splinter_Cell_Blacklist",
+    "manufacturer": "Odin2_Mini",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780250631,
+    "filename": "Tom_Clancy_s_Splinter_Cell_Blacklist-AYN-Odin2_Mini-Adreno__TM__740-1780250631.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Odin2_Mini",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780238305,
     "filename": "Satisfactory-asus-ASUSAI2501B-Adreno__TM__830-1780238305.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780237614,
-    "filename": "Pro_Evolution_Soccer_2013-realme-realme_Note_60-Mali-G57-1780237614.json"
   }
 ]
