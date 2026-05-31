@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlueStacks_5_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780250268,
+    "filename": "BlueStacks_5_-Xiaomi-23106RN0DA-Mali-G52_MC2-1780250268.json"
+  },
+  {
     "game": "Just_Cause__3",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1780237229,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2012K11AG-Adreno__TM__650-1780237229.json"
-  },
-  {
-    "game": "Diablo_II",
-    "manufacturer": "Armor_X13",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1780237066,
-    "filename": "Diablo_II-Ulefone-Armor_X13-PowerVR_Rogue_GE8320-1780237066.json"
   }
 ]
