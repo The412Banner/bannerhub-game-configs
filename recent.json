@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A037M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1780187672,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A037M-PowerVR_Rogue_GE8320-1780187672.json"
+  },
+  {
     "game": "PlayRDR",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1780172600,
     "filename": "Game-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1780172600.json"
-  },
-  {
-    "game": "F1_2025",
-    "manufacturer": "S921E",
-    "device": "Adreno__TM__750",
-    "timestamp": 1780172567,
-    "filename": "F1_2025-samsung-SM-S921E-Adreno__TM__750-1780172567.json"
   }
 ]
