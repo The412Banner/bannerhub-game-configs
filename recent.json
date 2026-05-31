@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780225477,
+    "filename": "Grand_Theft_Auto_V-samsung-SM-A165F-Mali-G57_MC2-1780225477.json"
+  },
+  {
     "game": "Assassin_s_Creed__Rogue",
     "manufacturer": "A057F",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780205501,
     "filename": "Insurgency-Xiaomi-24129PN74G-Adreno__TM__830-1780205501.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "moto_g_7__power",
-    "device": "Adreno__TM__506",
-    "timestamp": 1780204148,
-    "filename": "PlayGTAV-motorola-moto_g_7__power-Adreno__TM__506-1780204148.json"
   }
 ]
