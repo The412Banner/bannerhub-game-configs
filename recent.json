@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1780253148,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1780253148.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1780253101,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780242052,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1780242052.json"
-  },
-  {
-    "game": "Jurassic_World_Evolution_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780241630,
-    "filename": "Jurassic_World_Evolution_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780241630.json"
   }
 ]
