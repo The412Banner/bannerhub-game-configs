@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780202354,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1780202354.json"
+  },
+  {
     "game": "Dying_Light_2_Stay_Human__Reloaded_Edition",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780190909,
     "filename": "OpenAL_Installer-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780190909.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780190897,
-    "filename": "God_of_War-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780190897.json"
   }
 ]
