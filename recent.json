@@ -1,5 +1,12 @@
 [
   {
+    "game": "Insurgency",
+    "manufacturer": "24129PN74G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780205501,
+    "filename": "Insurgency-Xiaomi-24129PN74G-Adreno__TM__830-1780205501.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "moto_g_7__power",
     "device": "Adreno__TM__506",
@@ -131,12 +138,5 @@
     "device": "G76_MC4",
     "timestamp": 1780192050,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_60_s-Mali-G76_MC4-1780192050.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1780192037,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_60_s-Mali-G76_MC4-1780192037.json"
   }
 ]
