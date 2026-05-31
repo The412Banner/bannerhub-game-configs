@@ -1,5 +1,12 @@
 [
   {
+    "game": "Geometry_wars_3",
+    "manufacturer": "Odin2_Mini",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780250639,
+    "filename": "Geometry_wars_3-AYN-Odin2_Mini-Adreno__TM__740-1780250639.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "Odin2_Mini",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780238583,
     "filename": "Satisfactory-asus-ASUSAI2501B-Adreno__TM__830-1780238583.json"
-  },
-  {
-    "game": "Portal_2",
-    "manufacturer": "Odin2_Mini",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780238367,
-    "filename": "Portal_2-AYN-Odin2_Mini-Adreno__TM__740-1780238367.json"
   }
 ]
