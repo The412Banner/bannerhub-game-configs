@@ -1,5 +1,12 @@
 [
   {
+    "game": "Gta3bt",
+    "manufacturer": "moto_g_7__power",
+    "device": "Adreno__TM__506",
+    "timestamp": 1780206188,
+    "filename": "Gta3bt-motorola-moto_g_7__power-Adreno__TM__506-1780206188.json"
+  },
+  {
     "game": "Insurgency",
     "manufacturer": "24129PN74G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1780192287,
     "filename": "BootstrapPackagedGame-Xiaomi-2405CRPFDG-Adreno__TM__710-1780192287.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1780192050,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_60_s-Mali-G76_MC4-1780192050.json"
   }
 ]
