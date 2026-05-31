@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S721B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1780192406,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1780192406.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "2405CRPFDG",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780180370,
     "filename": "Microsoft_Windows_Desktop_Runtime_-_6_0_36__x64_-samsung-SM-A155M-Mali-G57_MC2-1780180370.json"
-  },
-  {
-    "game": "Heretic___Hexen",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1780179514,
-    "filename": "Heretic___Hexen-motorola-moto_g_60_s-Mali-G76_MC4-1780179514.json"
   }
 ]
