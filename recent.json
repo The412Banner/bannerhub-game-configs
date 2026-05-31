@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alan_Wake",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780271376,
+    "filename": "Alan_Wake-ayn-Odin3-Adreno__TM__830-1780271376.json"
+  },
+  {
     "game": "Halo_2_for_Windows_Vista",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780255368,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-24117RN76L-Mali-G57_MC2-1780255368.json"
-  },
-  {
-    "game": "Alice__Madness_Returns",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780254994,
-    "filename": "Alice__Madness_Returns-samsung-SM-G780G-Adreno__TM__650-1780254994.json"
   }
 ]
