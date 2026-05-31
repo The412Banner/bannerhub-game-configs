@@ -3,6 +3,13 @@
     "game": "gta-vc",
     "manufacturer": "Mali",
     "device": "G52",
+    "timestamp": 1780265366,
+    "filename": "gta-vc-Xiaomi-21121119SG-Mali-G52-1780265366.json"
+  },
+  {
+    "game": "gta-vc",
+    "manufacturer": "Mali",
+    "device": "G52",
     "timestamp": 1780265364,
     "filename": "gta-vc-Xiaomi-21121119SG-Mali-G52-1780265364.json"
   },
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1780253148,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1780253148.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780253101,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1780253101.json"
   }
 ]
