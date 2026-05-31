@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780255368,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-24117RN76L-Mali-G57_MC2-1780255368.json"
+  },
+  {
     "game": "Alice__Madness_Returns",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780246082,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6855-Mali-G57_MC2-1780246082.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1780245446,
-    "filename": "Sleeping_Dogs-Xiaomi-2311DRK48G-Mali-G615_MC6-1780245446.json"
   }
 ]
