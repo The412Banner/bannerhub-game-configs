@@ -1,5 +1,12 @@
 [
   {
+    "game": "Black_Myth__Wukong",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780198928,
+    "filename": "Black_Myth__Wukong-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780198928.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1780187672,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A037M-PowerVR_Rogue_GE8320-1780187672.json"
-  },
-  {
-    "game": "PlayRDR",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1780187580,
-    "filename": "PlayRDR-motorola-moto_g84_5G-Adreno__TM__619-1780187580.json"
   }
 ]
