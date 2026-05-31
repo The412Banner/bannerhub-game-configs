@@ -1,5 +1,12 @@
 [
   {
+    "game": "Diablo_II",
+    "manufacturer": "Armor_X13",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1780237066,
+    "filename": "Diablo_II-Ulefone-Armor_X13-PowerVR_Rogue_GE8320-1780237066.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1780213136,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780213136.json"
-  },
-  {
-    "game": "Fears_to_Fathom_-_Carson_House",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1780212997,
-    "filename": "Fears_to_Fathom_-_Carson_House-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1780212997.json"
   }
 ]
