@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "moto_g_7__power",
+    "device": "Adreno__TM__506",
+    "timestamp": 1780209311,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g_7__power-Adreno__TM__506-1780209311.json"
+  },
+  {
     "game": "dota2",
     "manufacturer": "N986N",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1780194935,
     "filename": "FIFA_20-OPPO-CPH2743-Adreno__TM__710-1780194935.json"
-  },
-  {
-    "game": "Prototype_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780194537,
-    "filename": "Prototype_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780194537.json"
   }
 ]
