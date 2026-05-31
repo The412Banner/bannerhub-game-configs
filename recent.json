@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Infinix_X6515",
+    "device": "PowerVR_Rogue_GE8300",
+    "timestamp": 1780225778,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6515-PowerVR_Rogue_GE8300-1780225778.json"
+  },
+  {
     "game": "Hitman_2__Silent_Assassin",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1780207177,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-2511FPC34G-Mali-G720_MC8-1780207177.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1780206495,
-    "filename": "Grand_Theft_Auto_V-samsung-SM-A256E-Mali-G68-1780206495.json"
   }
 ]
