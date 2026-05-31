@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Amazing_Spider-Man_2__TM_",
+    "manufacturer": "N975U",
+    "device": "Adreno__TM__640",
+    "timestamp": 1780201857,
+    "filename": "The_Amazing_Spider-Man_2__TM_-samsung-SM-N975U-Adreno__TM__640-1780201857.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1780188900,
     "filename": "teste-samsung-SM-A356E-Mali-G68-1780188900.json"
-  },
-  {
-    "game": "pes_2013_kk",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780187951,
-    "filename": "pes_2013_kk-Xiaomi-24117RN76L-Mali-G57_MC2-1780187951.json"
   }
 ]
