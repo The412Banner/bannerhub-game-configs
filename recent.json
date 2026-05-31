@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "X306F",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1780253923,
+    "filename": "BootstrapPackagedGame-LENOVO-Lenovo_TB-X306F-PowerVR_Rogue_GE8320-1780253923.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780242461,
     "filename": "JUMP_FORCE-Xiaomi-25053RT47C-Adreno__TM__825-1780242461.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780242052,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1780242052.json"
   }
 ]
