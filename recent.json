@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prototype_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780194537,
+    "filename": "Prototype_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780194537.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780183196,
     "filename": "AtomRPG_x64-unknown-GammaOS_Lite-Mali-G57-1780183196.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1780182529,
-    "filename": "Resident_Evil_4-nubia-NX809J-Adreno__TM__840-1780182529.json"
   }
 ]
