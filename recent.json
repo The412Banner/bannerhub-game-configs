@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alan_Wake",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780265153,
+    "filename": "Alan_Wake-samsung-SM-G780G-Adreno__TM__650-1780265153.json"
+  },
+  {
     "game": "FIFA_14_-_Ultimate_Edition__________________________________",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1780251367,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A366E-Adreno__TM__710-1780251367.json"
-  },
-  {
-    "game": "Titanfall__2",
-    "manufacturer": "Odin2_Mini",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780250658,
-    "filename": "Titanfall__2-AYN-Odin2_Mini-Adreno__TM__740-1780250658.json"
   }
 ]
