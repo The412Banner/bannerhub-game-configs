@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hitman_2__Silent_Assassin",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1780225703,
+    "filename": "Hitman_2__Silent_Assassin-samsung-SM-N971N-Mali-G76-1780225703.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Infinix_X6515",
     "device": "PowerVR_Rogue_GE8300",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1780206495,
     "filename": "Grand_Theft_Auto_V-samsung-SM-A256E-Mali-G68-1780206495.json"
-  },
-  {
-    "game": "Gta3bt",
-    "manufacturer": "moto_g_7__power",
-    "device": "Adreno__TM__506",
-    "timestamp": 1780206188,
-    "filename": "Gta3bt-motorola-moto_g_7__power-Adreno__TM__506-1780206188.json"
   }
 ]
