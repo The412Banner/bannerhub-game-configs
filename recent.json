@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause__3",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1780248243,
+    "filename": "Just_Cause__3-nubia-NX809J-Adreno__TM__840-1780248243.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1780237066,
     "filename": "Diablo_II-Ulefone-Armor_X13-PowerVR_Rogue_GE8320-1780237066.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780236587,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2012K11AG-Adreno__TM__650-1780236587.json"
   }
 ]
