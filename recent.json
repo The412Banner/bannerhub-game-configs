@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780251367,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A366E-Adreno__TM__710-1780251367.json"
+  },
+  {
     "game": "Titanfall__2",
     "manufacturer": "Odin2_Mini",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780239418,
     "filename": "Dispatch-asus-ASUSAI2501B-Adreno__TM__830-1780239418.json"
-  },
-  {
-    "game": "Heavy_Rain",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780238765,
-    "filename": "Heavy_Rain-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780238765.json"
   }
 ]
