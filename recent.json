@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__2",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780254981,
+    "filename": "Dead_Space__2-samsung-SM-G780G-Adreno__TM__650-1780254981.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "RMX3661",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1780244087,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2012K11AG-Adreno__TM__650-1780244087.json"
-  },
-  {
-    "game": "Sonic_World_Adventure",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780242755,
-    "filename": "Sonic_World_Adventure-samsung-SM-S918B-Adreno__TM__740-1780242755.json"
   }
 ]
