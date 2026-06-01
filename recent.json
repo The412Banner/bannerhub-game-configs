@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780348566,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_KJ6-Mali-G57_MC2-1780348566.json"
+  },
+  {
     "game": "Hitman__Absolution_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780332961,
     "filename": "Grand_Theft_Auto_V-INFINIX-Infinix_X6853-Mali-G57_MC2-1780332961.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1780331048,
-    "filename": "Mafia_II__Classic_-motorola-moto_g34_5G-Adreno__TM__619-1780331048.json"
   }
 ]
