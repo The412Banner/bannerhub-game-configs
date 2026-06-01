@@ -1,5 +1,12 @@
 [
   {
+    "game": "JoJos_Bizarre_Adventure_All_Star_Battle_____________________",
+    "manufacturer": "A037M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1780344813,
+    "filename": "JoJos_Bizarre_Adventure_All_Star_Battle_____________________-samsung-SM-A037M-PowerVR_Rogue_GE8320-1780344813.json"
+  },
+  {
     "game": "iw3sp",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1780329472,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A146M-Mali-G68-1780329472.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780329141,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1780329141.json"
   }
 ]
