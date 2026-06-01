@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780293245,
+    "filename": "Resident_Evil_2-INFINIX-Infinix_X6858-Mali-G57_MC2-1780293245.json"
+  },
+  {
     "game": "Bloodstained__Ritual_of_the_Night",
     "manufacturer": "S931N",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1780278176,
     "filename": "Fallout_3-Xiaomi-2311DRK48G-Mali-G615_MC6-1780278176.json"
-  },
-  {
-    "game": "7-Zip",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780277967,
-    "filename": "7-Zip-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780277967.json"
   }
 ]
