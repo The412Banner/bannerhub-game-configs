@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cabal_Imp_rio_-_EP38________________________________________",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1780280942,
+    "filename": "Cabal_Imp_rio_-_EP38________________________________________-samsung-SM-A346M-Mali-G68_MC4-1780280942.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780268011,
     "filename": "Halo_2_for_Windows_Vista-Xiaomi-2510DPC44G-Adreno__TM__830-1780268011.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780267381,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RN76L-Mali-G57_MC2-1780267381.json"
   }
 ]
