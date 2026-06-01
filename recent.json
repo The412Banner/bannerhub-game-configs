@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bloodstained__Ritual_of_the_Night",
+    "manufacturer": "S931N",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780292227,
+    "filename": "Bloodstained__Ritual_of_the_Night-samsung-SM-S931N-Adreno__TM__830-1780292227.json"
+  },
+  {
     "game": "Eiyuden_Chronicle__Hundred_Heroes",
     "manufacturer": "S931N",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780277967,
     "filename": "7-Zip-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780277967.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780276332,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1780276332.json"
   }
 ]
