@@ -3,6 +3,13 @@
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G72",
+    "timestamp": 1780312118,
+    "filename": "BootstrapPackagedGame-samsung-SM-M215G-Mali-G72-1780312118.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G72",
     "timestamp": 1780311631,
     "filename": "BootstrapPackagedGame-samsung-SM-M215G-Mali-G72-1780311631.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780281544,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1780281544.json"
-  },
-  {
-    "game": "FS_22_",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__644",
-    "timestamp": 1780281149,
-    "filename": "FS_22_-HUAWEI-BTK-W09-Adreno__TM__644-1780281149.json"
   }
 ]
