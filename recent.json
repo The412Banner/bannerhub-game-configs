@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780325629,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1780325629.json"
+  },
+  {
     "game": "Batman___Arkham_Origins",
     "manufacturer": "CPH2455",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780314578,
     "filename": "Euro_Truck_Simulator_2______________________________________-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780314578.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "I2401",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780312772,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-I2401-Adreno__TM__830-1780312772.json"
   }
 ]
