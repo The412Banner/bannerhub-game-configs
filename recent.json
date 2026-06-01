@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES2017",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780319048,
+    "filename": "PES2017-Xiaomi-M2012K11AG-Adreno__TM__650-1780319048.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780295133,
     "filename": "Resident_Evil_2-INFINIX-Infinix_X6858-Mali-G57_MC2-1780295133.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780294637,
-    "filename": "Resident_Evil_2-INFINIX-Infinix_X6858-Mali-G57_MC2-1780294637.json"
   }
 ]
