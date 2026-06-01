@@ -3,6 +3,13 @@
     "game": "Setup",
     "manufacturer": "Mali",
     "device": "G76",
+    "timestamp": 1780338173,
+    "filename": "Setup-Xiaomi-M2101K7BG-Mali-G76-1780338173.json"
+  },
+  {
+    "game": "Setup",
+    "manufacturer": "Mali",
+    "device": "G76",
     "timestamp": 1780338169,
     "filename": "Setup-Xiaomi-M2101K7BG-Mali-G76-1780338169.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780324740,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-25053PC47G-Adreno__TM__825-1780324740.json"
-  },
-  {
-    "game": "speed2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780324713,
-    "filename": "speed2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780324713.json"
   }
 ]
