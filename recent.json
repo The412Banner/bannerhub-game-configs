@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw3sp",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780344783,
+    "filename": "iw3sp-ITEL-itel_S666LN-Mali-G57_MC2-1780344783.json"
+  },
+  {
     "game": "Resident_Evil__Operation_Raccoon_City",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780329141,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1780329141.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1780328628,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A146M-Mali-G68-1780328628.json"
   }
 ]
