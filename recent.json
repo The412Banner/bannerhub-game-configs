@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1780307708,
+    "filename": "God_of_War-Xiaomi-25053PC47G-Adreno__TM__825-1780307708.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "25098RA98G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1780280942,
     "filename": "Cabal_Imp_rio_-_EP38________________________________________-samsung-SM-A346M-Mali-G68_MC4-1780280942.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1780280869,
-    "filename": "Tomb_Raider-SHENQIJIYUAN-Z2570N-Mali-G615_MC2-1780280869.json"
   }
 ]
