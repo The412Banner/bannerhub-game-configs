@@ -1,5 +1,12 @@
 [
   {
+    "game": "Eiyuden_Chronicle__Hundred_Heroes",
+    "manufacturer": "S931N",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780291815,
+    "filename": "Eiyuden_Chronicle__Hundred_Heroes-samsung-SM-S931N-Adreno__TM__830-1780291815.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780276332,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1780276332.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780275683,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25028RN03L-Mali-G57-1780275683.json"
   }
 ]
