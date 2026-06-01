@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil__Operation_Raccoon_City",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1780341355,
+    "filename": "Resident_Evil__Operation_Raccoon_City-motorola-moto_g86_power_5G-Mali-G615_MC2-1780341355.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "X306F",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1780328628,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A146M-Mali-G68-1780328628.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1780328152,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A146M-Mali-G68-1780328152.json"
   }
 ]
