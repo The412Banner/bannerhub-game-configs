@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Nokia_5_3",
+    "device": "Adreno__TM__610",
+    "timestamp": 1780356217,
+    "filename": "Pro_Evolution_Soccer_2013-HMD_Global-Nokia_5_3-Adreno__TM__610-1780356217.json"
+  },
+  {
     "game": "Cat_Quest_II",
     "manufacturer": "23129RAA4G",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780338929,
     "filename": "GIANTS_Launcher-Xiaomi-25053PC47G-Adreno__TM__825-1780338929.json"
-  },
-  {
-    "game": "GIANTS_Launcher",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780338887,
-    "filename": "GIANTS_Launcher-Xiaomi-25053PC47G-Adreno__TM__825-1780338887.json"
   }
 ]
