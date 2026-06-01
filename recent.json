@@ -1,5 +1,12 @@
 [
   {
+    "game": "Satisfactory",
+    "manufacturer": "ASUSAI2501B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780346150,
+    "filename": "Satisfactory-asus-ASUSAI2501B-Adreno__TM__830-1780346150.json"
+  },
+  {
     "game": "JoJos_Bizarre_Adventure_All_Star_Battle_____________________",
     "manufacturer": "A037M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1780330338,
     "filename": "Red_Dead_Redemption_2-HONOR-BRP-NX1-Adreno__TM__710-1780330338.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1780329472,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A146M-Mali-G68-1780329472.json"
   }
 ]
