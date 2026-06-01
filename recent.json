@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC__Devil_May_Cry",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780287434,
+    "filename": "DmC__Devil_May_Cry-samsung-SM-G780G-Adreno__TM__650-1780287434.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780273864,
     "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-S918B-Adreno__TM__740-1780273864.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780272476,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1780272476.json"
   }
 ]
