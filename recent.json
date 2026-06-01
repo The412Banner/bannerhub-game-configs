@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1780289544,
+    "filename": "Left_4_Dead_2-samsung-SM-S901E-Adreno__TM__730-1780289544.json"
+  },
+  {
     "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1780275250,
     "filename": "gjif-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1780275250.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780274949,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1780274949.json"
   }
 ]
