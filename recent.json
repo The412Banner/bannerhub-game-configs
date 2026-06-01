@@ -1,5 +1,12 @@
 [
   {
+    "game": "Granny_Legacy",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1780280617,
+    "filename": "Granny_Legacy-samsung-SM-A256E-Mali-G68-1780280617.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1780266726,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1780266726.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Syndicate",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780266438,
-    "filename": "Assassin_s_Creed__Syndicate-realme-RMX5303-Mali-G57-1780266438.json"
   }
 ]
