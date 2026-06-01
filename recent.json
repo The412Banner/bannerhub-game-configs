@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780314951,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1780314951.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2______________________________________",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780288958,
     "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-Xiaomi-25053PC47G-Adreno__TM__825-1780288958.json"
-  },
-  {
-    "game": "DmC__Devil_May_Cry",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780287434,
-    "filename": "DmC__Devil_May_Cry-samsung-SM-G780G-Adreno__TM__650-1780287434.json"
   }
 ]
