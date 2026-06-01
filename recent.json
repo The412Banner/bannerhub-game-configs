@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "moto_g34_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1780331048,
+    "filename": "Mafia_II__Classic_-motorola-moto_g34_5G-Adreno__TM__619-1780331048.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780319019,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-23108RN04Y-Mali-G52_MC2-1780319019.json"
-  },
-  {
-    "game": "PES2017",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780319006,
-    "filename": "PES2017-Xiaomi-M2012K11AG-Adreno__TM__650-1780319006.json"
   }
 ]
