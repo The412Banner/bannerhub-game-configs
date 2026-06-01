@@ -1,5 +1,12 @@
 [
   {
+    "game": "Setup",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1780338169,
+    "filename": "Setup-Xiaomi-M2101K7BG-Mali-G76-1780338169.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2015",
     "manufacturer": "23122PCD1G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1780324713,
     "filename": "speed2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780324713.json"
-  },
-  {
-    "game": "Jalopy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780324483,
-    "filename": "Jalopy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780324483.json"
   }
 ]
