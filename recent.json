@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780274949,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1780274949.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1780260427,
     "filename": "Grand_Theft_Auto_V-Xiaomi-23021RAAEG-Adreno__TM__610-1780260427.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780256892,
-    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_KJ6-Mali-G57_MC2-1780256892.json"
   }
 ]
