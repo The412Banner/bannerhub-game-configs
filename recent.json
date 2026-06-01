@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2______________________________________",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780314578,
+    "filename": "Euro_Truck_Simulator_2______________________________________-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780314578.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "I2401",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1780287434,
     "filename": "DmC__Devil_May_Cry-samsung-SM-G780G-Adreno__TM__650-1780287434.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780281939,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1780281939.json"
   }
 ]
