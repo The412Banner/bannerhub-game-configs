@@ -3,6 +3,13 @@
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G72",
+    "timestamp": 1780311631,
+    "filename": "BootstrapPackagedGame-samsung-SM-M215G-Mali-G72-1780311631.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G72",
     "timestamp": 1780311599,
     "filename": "BootstrapPackagedGame-samsung-SM-M215G-Mali-G72-1780311599.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__644",
     "timestamp": 1780281149,
     "filename": "FS_22_-HUAWEI-BTK-W09-Adreno__TM__644-1780281149.json"
-  },
-  {
-    "game": "FS_22_",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__644",
-    "timestamp": 1780281143,
-    "filename": "FS_22_-HUAWEI-BTK-W09-Adreno__TM__644-1780281143.json"
   }
 ]
