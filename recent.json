@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780329141,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1780329141.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1780317434,
     "filename": "One-armed_cook-Xiaomi-M2101K7BG-Mali-G76-1780317434.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "CPH2801",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780317375,
-    "filename": "_____2019-OPPO-CPH2801-Adreno__TM__710-1780317375.json"
   }
 ]
