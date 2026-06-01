@@ -1,5 +1,12 @@
 [
   {
+    "game": "One-armed_cook",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1780317434,
+    "filename": "One-armed_cook-Xiaomi-M2101K7BG-Mali-G76-1780317434.json"
+  },
+  {
     "game": "_____2019",
     "manufacturer": "CPH2801",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780291815,
     "filename": "Eiyuden_Chronicle__Hundred_Heroes-samsung-SM-S931N-Adreno__TM__830-1780291815.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780290651,
-    "filename": "Need_for_Speed_9-Xiaomi-24117RN76L-Mali-G57_MC2-1780290651.json"
   }
 ]
