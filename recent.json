@@ -1,5 +1,12 @@
 [
   {
+    "game": "Jalopy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780324483,
+    "filename": "Jalopy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780324483.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2015",
     "manufacturer": "22111317PI",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1780311599,
     "filename": "BootstrapPackagedGame-samsung-SM-M215G-Mali-G72-1780311599.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780307708,
-    "filename": "God_of_War-Xiaomi-25053PC47G-Adreno__TM__825-1780307708.json"
   }
 ]
