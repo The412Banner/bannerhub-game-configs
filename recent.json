@@ -1,5 +1,12 @@
 [
   {
+    "game": "AVAMain",
+    "manufacturer": "N49",
+    "device": "Adreno__TM__750",
+    "timestamp": 1780300334,
+    "filename": "AVAMain-HONOR-BVL-N49-Adreno__TM__750-1780300334.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1780280617,
     "filename": "Granny_Legacy-samsung-SM-A256E-Mali-G68-1780280617.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780280443,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1780280443.json"
   }
 ]
