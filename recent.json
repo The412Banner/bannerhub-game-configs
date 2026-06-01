@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780330338,
+    "filename": "Red_Dead_Redemption_2-HONOR-BRP-NX1-Adreno__TM__710-1780330338.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1780319006,
     "filename": "PES2017-Xiaomi-M2012K11AG-Adreno__TM__650-1780319006.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Infinix_X6878",
-    "device": "Adreno__TM__810",
-    "timestamp": 1780317491,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-INFINIX-Infinix_X6878-Adreno__TM__810-1780317491.json"
   }
 ]
