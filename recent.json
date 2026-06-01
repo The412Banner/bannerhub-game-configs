@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780332961,
+    "filename": "Grand_Theft_Auto_V-INFINIX-Infinix_X6853-Mali-G57_MC2-1780332961.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1780319048,
     "filename": "PES2017-Xiaomi-M2012K11AG-Adreno__TM__650-1780319048.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780319019,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-23108RN04Y-Mali-G52_MC2-1780319019.json"
   }
 ]
