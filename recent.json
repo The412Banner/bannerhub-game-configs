@@ -1,5 +1,12 @@
 [
   {
+    "game": "Demonologist",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780272337,
+    "filename": "Demonologist-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780272337.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780255607,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-INFINIX-Infinix_X6881-Mali-G57_MC2-1780255607.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780255380,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-24117RN76L-Mali-G57_MC2-1780255380.json"
   }
 ]
