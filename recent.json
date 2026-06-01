@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68",
+    "timestamp": 1780328628,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A146M-Mali-G68-1780328628.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G68",
     "timestamp": 1780328152,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A146M-Mali-G68-1780328152.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1780317375,
     "filename": "_____2019-OPPO-CPH2801-Adreno__TM__710-1780317375.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "CPH2801",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780317371,
-    "filename": "_____2019-OPPO-CPH2801-Adreno__TM__710-1780317371.json"
   }
 ]
