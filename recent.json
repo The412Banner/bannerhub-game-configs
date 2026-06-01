@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1780329472,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A146M-Mali-G68-1780329472.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1780317491,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-INFINIX-Infinix_X6878-Adreno__TM__810-1780317491.json"
-  },
-  {
-    "game": "One-armed_cook",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1780317434,
-    "filename": "One-armed_cook-Xiaomi-M2101K7BG-Mali-G76-1780317434.json"
   }
 ]
