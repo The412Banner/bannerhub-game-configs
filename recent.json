@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780362375,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e13-Mali-G57-1780362375.json"
+  },
+  {
     "game": "Sniper_Elite_3",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780346150,
     "filename": "Satisfactory-asus-ASUSAI2501B-Adreno__TM__830-1780346150.json"
-  },
-  {
-    "game": "JoJos_Bizarre_Adventure_All_Star_Battle_____________________",
-    "manufacturer": "A037M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1780344813,
-    "filename": "JoJos_Bizarre_Adventure_All_Star_Battle_____________________-samsung-SM-A037M-PowerVR_Rogue_GE8320-1780344813.json"
   }
 ]
