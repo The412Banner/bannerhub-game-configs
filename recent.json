@@ -1,5 +1,12 @@
 [
   {
+    "game": "RESIDENT_EVIL_6",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780392274,
+    "filename": "RESIDENT_EVIL_6-Xiaomi-2311DRK48G-Mali-G615_MC6-1780392274.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780366213,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2410FPCC5G-Mali-G52_MC2-1780366213.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A236M",
-    "device": "Adreno__TM__619",
-    "timestamp": 1780366160,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A236M-Adreno__TM__619-1780366160.json"
   }
 ]
