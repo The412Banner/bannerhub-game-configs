@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1780437233,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g55_5G-PowerVR_B-Series_BXM-8-256-1780437233.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1780436480,
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1780423292,
     "filename": "________-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780423292.json"
-  },
-  {
-    "game": "SPEED2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780422050,
-    "filename": "SPEED2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780422050.json"
   }
 ]
