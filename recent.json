@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "I2202",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780431677,
+    "filename": "Sleeping_Dogs-vivo-I2202-Adreno__TM__650-1780431677.json"
+  },
+  {
     "game": "Megabonk",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1780417407,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1780417407.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780417256,
-    "filename": "Pro_Evolution_Soccer_2013-nubia-NP05J-Adreno__TM__830-1780417256.json"
   }
 ]
