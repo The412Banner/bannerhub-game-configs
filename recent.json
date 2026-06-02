@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A236M",
+    "device": "Adreno__TM__619",
+    "timestamp": 1780366160,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A236M-Adreno__TM__619-1780366160.json"
+  },
+  {
     "game": "____2016",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780353601,
     "filename": "God_of_War-ayn-Odin3-Adreno__TM__830-1780353601.json"
-  },
-  {
-    "game": "Resident_Evil_4__2005_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780352935,
-    "filename": "Resident_Evil_4__2005_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780352935.json"
   }
 ]
