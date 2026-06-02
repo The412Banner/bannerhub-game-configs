@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sniper_Elite_3",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1780361413,
+    "filename": "Sniper_Elite_3-Xiaomi-25053PC47G-Adreno__TM__825-1780361413.json"
+  },
+  {
     "game": "Attack_on_Titan_2_-_A_O_T_2",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1780344813,
     "filename": "JoJos_Bizarre_Adventure_All_Star_Battle_____________________-samsung-SM-A037M-PowerVR_Rogue_GE8320-1780344813.json"
-  },
-  {
-    "game": "iw3sp",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780344783,
-    "filename": "iw3sp-ITEL-itel_S666LN-Mali-G57_MC2-1780344783.json"
   }
 ]
