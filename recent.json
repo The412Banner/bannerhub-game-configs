@@ -1,5 +1,12 @@
 [
   {
+    "game": "________",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780436394,
+    "filename": "________-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780436394.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780421848,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-X115-Mali-G57_MC2-1780421848.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780421803,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-X115-Mali-G57_MC2-1780421803.json"
   }
 ]
