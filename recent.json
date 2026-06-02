@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Office",
+    "manufacturer": "G986U",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780402776,
+    "filename": "Microsoft_Office-samsung-SM-G986U-Adreno__TM__650-1780402776.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1780375479,
     "filename": "FIFA_Soccer_11-samsung-SM-A236M-Adreno__TM__619-1780375479.json"
-  },
-  {
-    "game": "PES2017-_PATCH_LENGEDS_LITE_part1",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780374116,
-    "filename": "PES2017-_PATCH_LENGEDS_LITE_part1-samsung-SM-A065M-Mali-G52_MC2-1780374116.json"
   }
 ]
