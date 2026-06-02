@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlaytimePrototype1006-V1_6_0",
+    "manufacturer": "X306F",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1780404989,
+    "filename": "PlaytimePrototype1006-V1_6_0-LENOVO-Lenovo_TB-X306F-PowerVR_Rogue_GE8320-1780404989.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1780376441,
     "filename": "sonho_nino-samsung-SM-A266M-Mali-G68-1780376441.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780379167,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078PC3EG-Mali-G52_MC2-1780379167.json"
   }
 ]
