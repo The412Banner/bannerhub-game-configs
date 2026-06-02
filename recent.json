@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Revelations_2",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1780369475,
+    "filename": "Resident_Evil_Revelations_2-nubia-NX809J-Adreno__TM__840-1780369475.json"
+  },
+  {
     "game": "Starship_EVO",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1780356385,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S901E-Adreno__TM__730-1780356385.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Nokia_5_3",
-    "device": "Adreno__TM__610",
-    "timestamp": 1780356217,
-    "filename": "Pro_Evolution_Soccer_2013-HMD_Global-Nokia_5_3-Adreno__TM__610-1780356217.json"
   }
 ]
