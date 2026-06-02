@@ -1,5 +1,12 @@
 [
   {
+    "game": "AdventureQuest_3D",
+    "manufacturer": "G991U",
+    "device": "Adreno__TM__660",
+    "timestamp": 1780420157,
+    "filename": "AdventureQuest_3D-samsung-SM-G991U-Adreno__TM__660-1780420157.json"
+  },
+  {
     "game": "Monster_Hunter_Frontier_Z",
     "manufacturer": "23073RPBFG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1780409427,
     "filename": "Resident_Evil_3-Xiaomi-2511FPC34G-Mali-G720_MC8-1780409427.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780409242,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g75_5G-Adreno__TM__710-1780409242.json"
   }
 ]
