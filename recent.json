@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780409874,
+    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KJ5n-Mali-G52_MC2-1780409874.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
     "timestamp": 1780409470,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780393004,
     "filename": "WolfNewOrder-ayn-Odin3-Adreno__TM__830-1780393004.json"
-  },
-  {
-    "game": "G-Rebels_Demo",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780392578,
-    "filename": "G-Rebels_Demo-samsung-SM-A075F-Mali-G57_MC2-1780392578.json"
   }
 ]
