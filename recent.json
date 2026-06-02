@@ -1,5 +1,12 @@
 [
   {
+    "game": "G-Rebels_Demo",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780392571,
+    "filename": "G-Rebels_Demo-samsung-SM-A075F-Mali-G57_MC2-1780392571.json"
+  },
+  {
     "game": "RESIDENT_EVIL_6",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780366356,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1780366356.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780366213,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2410FPCC5G-Mali-G52_MC2-1780366213.json"
   }
 ]
