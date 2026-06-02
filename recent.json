@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780366213,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2410FPCC5G-Mali-G52_MC2-1780366213.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A236M",
     "device": "Adreno__TM__619",
     "timestamp": 1780366160,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780353745,
     "filename": "Batman___Arkham_Knight-nubia-NX779J-Adreno__TM__750-1780353745.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780353601,
-    "filename": "God_of_War-ayn-Odin3-Adreno__TM__830-1780353601.json"
   }
 ]
