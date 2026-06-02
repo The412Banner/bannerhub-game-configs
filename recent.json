@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780421803,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-X115-Mali-G57_MC2-1780421803.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "NX9",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780409874,
     "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KJ5n-Mali-G52_MC2-1780409874.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780409470,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g75_5G-Adreno__TM__710-1780409470.json"
   }
 ]
