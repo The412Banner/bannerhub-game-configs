@@ -3,6 +3,13 @@
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1780443281,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1780443281.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1780443194,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1780443194.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780426776,
     "filename": "Pro_Evolution_Soccer_2015-samsung-SM-A155M-Mali-G57_MC2-1780426776.json"
-  },
-  {
-    "game": "Palworld",
-    "manufacturer": "Retroid_Pocket_Flip2",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780426145,
-    "filename": "Palworld-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1780426145.json"
   }
 ]
