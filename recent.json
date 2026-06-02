@@ -1,5 +1,12 @@
 [
   {
+    "game": "__Stronghold_Crusader",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780366720,
+    "filename": "__Stronghold_Crusader-HONOR-ALI-NX1-Adreno__TM__710-1780366720.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780355801,
     "filename": "Darksiders-Xiaomi-25053PC47G-Adreno__TM__825-1780355801.json"
-  },
-  {
-    "game": "Need_for_Speed__Heat",
-    "manufacturer": "F731B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780355222,
-    "filename": "Need_for_Speed__Heat-samsung-SM-F731B-Adreno__TM__740-1780355222.json"
   }
 ]
