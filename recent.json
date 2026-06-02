@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES2017-_PATCH_LENGEDS_LITE_part1",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780374116,
+    "filename": "PES2017-_PATCH_LENGEDS_LITE_part1-samsung-SM-A065M-Mali-G52_MC2-1780374116.json"
+  },
+  {
     "game": "Resident_Evil_Revelations_2",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780356408,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1780356408.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1780356385,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S901E-Adreno__TM__730-1780356385.json"
   }
 ]
