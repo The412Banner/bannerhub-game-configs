@@ -1,5 +1,12 @@
 [
   {
+    "game": "Megabonk",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780431669,
+    "filename": "Megabonk-unknown-SM-S948B-Mali-G57-1780431669.json"
+  },
+  {
     "game": "Resident_Evil_5_Gold_Edition________________________________",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780417256,
     "filename": "Pro_Evolution_Soccer_2013-nubia-NP05J-Adreno__TM__830-1780417256.json"
-  },
-  {
-    "game": "mhf",
-    "manufacturer": "23073RPBFG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1780414640,
-    "filename": "mhf-Xiaomi-23073RPBFG-Adreno__TM__610-1780414640.json"
   }
 ]
