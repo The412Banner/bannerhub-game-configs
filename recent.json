@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780379167,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078PC3EG-Mali-G52_MC2-1780379167.json"
+  },
+  {
     "game": "FIFA_Soccer_11",
     "manufacturer": "A236M",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780359682,
     "filename": "Attack_on_Titan_2_-_A_O_T_2-samsung-SM-S928B-Adreno__TM__750-1780359682.json"
-  },
-  {
-    "game": "MOUSE",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780358767,
-    "filename": "MOUSE-Xiaomi-24117RN76L-Mali-G57_MC2-1780358767.json"
   }
 ]
