@@ -1,5 +1,12 @@
 [
   {
+    "game": "MOUSE",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780358767,
+    "filename": "MOUSE-Xiaomi-24117RN76L-Mali-G57_MC2-1780358767.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1780341355,
     "filename": "Resident_Evil__Operation_Raccoon_City-motorola-moto_g86_power_5G-Mali-G615_MC2-1780341355.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "X306F",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1780340640,
-    "filename": "BootstrapPackagedGame-LENOVO-Lenovo_TB-X306F-PowerVR_Rogue_GE8320-1780340640.json"
   }
 ]
