@@ -1,5 +1,12 @@
 [
   {
+    "game": "Atomic_Heart",
+    "manufacturer": "2509FPN0BC",
+    "device": "Adreno__TM__840",
+    "timestamp": 1780485083,
+    "filename": "Atomic_Heart-Xiaomi-2509FPN0BC-Adreno__TM__840-1780485083.json"
+  },
+  {
     "game": "Resident_Evil_4___Biohazard_4",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1780462590,
     "filename": "Devil_May_Cry_4_Special_Edition-vivo-V2205-Adreno__TM__610-1780462590.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780462154,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780462154.json"
   }
 ]
