@@ -1,6 +1,13 @@
 [
   {
     "game": "PlayGTAV",
+    "manufacturer": "motorola_edge_30_neo",
+    "device": "Adreno__TM__619",
+    "timestamp": 1780489280,
+    "filename": "PlayGTAV-motorola-motorola_edge_30_neo-Adreno__TM__619-1780489280.json"
+  },
+  {
+    "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G615_MC6",
     "timestamp": 1780488862,
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780470468,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-ITEL-itel_S688LN-Mali-G57-1780470468.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "V2338A",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780467714,
-    "filename": "The_Elder_Scrolls_V__Skyrim-vivo-V2338A-Adreno__TM__740-1780467714.json"
   }
 ]
