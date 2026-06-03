@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780491036,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-X115-Mali-G57_MC2-1780491036.json"
+  },
+  {
     "game": "JUMP_FORCE",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1780472076,
     "filename": "Cuphead-vivo-I2501-Adreno__TM__840-1780472076.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1780470579,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2102J20SG-Adreno__TM__640-1780470579.json"
   }
 ]
