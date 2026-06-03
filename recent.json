@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "I2508",
+    "device": "Adreno__TM__829",
+    "timestamp": 1780450361,
+    "filename": "Devil_May_Cry_5-vivo-I2508-Adreno__TM__829-1780450361.json"
+  },
+  {
     "game": "GOD_EATER_RESURRECTION",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1780437233,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g55_5G-PowerVR_B-Series_BXM-8-256-1780437233.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780436480,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04-Mali-G57-1780436480.json"
   }
 ]
