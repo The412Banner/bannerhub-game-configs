@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780462154,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780462154.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_arabic_bx2zq",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780447392,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1780447392.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1780446282,
-    "filename": "Tomb_Raider-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1780446282.json"
   }
 ]
