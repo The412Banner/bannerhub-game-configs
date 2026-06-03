@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1780523810,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24094RAD4G-PowerVR_B-Series_BXM-8-256-1780523810.json"
+  },
+  {
     "game": "Dragon-Ball-XenoVerse_nosTEAM_part1",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780509628,
     "filename": "Devil_May_Cry_5-vivo-I2405-Adreno__TM__825-1780509628.json"
-  },
-  {
-    "game": "Tokyo_Extreme_Racer",
-    "manufacturer": "AN00",
-    "device": "Adreno__TM__840",
-    "timestamp": 1780509342,
-    "filename": "Tokyo_Extreme_Racer-HONOR-AAP-AN00-Adreno__TM__840-1780509342.json"
   }
 ]
