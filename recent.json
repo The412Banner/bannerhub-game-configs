@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "V2205",
+    "device": "Adreno__TM__610",
+    "timestamp": 1780462590,
+    "filename": "Devil_May_Cry_4_Special_Edition-vivo-V2205-Adreno__TM__610-1780462590.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G715",
     "timestamp": 1780447601,
     "filename": "Turok_Evolution-Google-Pixel_9_Pro-Mali-G715-1780447601.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780447392,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1780447392.json"
   }
 ]
