@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780480718,
+    "filename": "PlayGTAV-Xiaomi-2311DRK48G-Mali-G615_MC6-1780480718.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780457264,
     "filename": "Ben_10__Power_Trip-ITEL-itel_S688LN-Mali-G57-1780457264.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780455526,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g14-Mali-G57-1780455526.json"
   }
 ]
