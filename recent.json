@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Syndicate",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780449495,
+    "filename": "Assassin_s_Creed__Syndicate-realme-RMX5303-Mali-G57-1780449495.json"
+  },
+  {
     "game": "OCTOPATH_TRAVELER_0",
     "manufacturer": "I2508",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780434498,
     "filename": "PlayGTAV-Xiaomi-25053PC47G-Adreno__TM__825-1780434498.json"
-  },
-  {
-    "game": "Interior_Worlds",
-    "manufacturer": "Mali",
-    "device": "G715",
-    "timestamp": 1780433366,
-    "filename": "Interior_Worlds-Google-Pixel_9_Pro-Mali-G715-1780433366.json"
   }
 ]
