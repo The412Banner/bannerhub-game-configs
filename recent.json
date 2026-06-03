@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g53_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1780493515,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g53_5G-Adreno__TM__619-1780493515.json"
+  },
+  {
     "game": "MKKE",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780473213,
     "filename": "Ben_10__Power_Trip-ITEL-itel_S688LN-Mali-G57-1780473213.json"
-  },
-  {
-    "game": "Crazy_Taxi_PC",
-    "manufacturer": "2201117TG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1780472507,
-    "filename": "Crazy_Taxi_PC-Xiaomi-2201117TG-Adreno__TM__610-1780472507.json"
   }
 ]
