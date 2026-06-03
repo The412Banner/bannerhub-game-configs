@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Elder_Scrolls_V__Skyrim",
+    "manufacturer": "V2338A",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780467714,
+    "filename": "The_Elder_Scrolls_V__Skyrim-vivo-V2338A-Adreno__TM__740-1780467714.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780449495,
     "filename": "Assassin_s_Creed__Syndicate-realme-RMX5303-Mali-G57-1780449495.json"
-  },
-  {
-    "game": "OCTOPATH_TRAVELER_0",
-    "manufacturer": "I2508",
-    "device": "Adreno__TM__829",
-    "timestamp": 1780448900,
-    "filename": "OCTOPATH_TRAVELER_0-vivo-I2508-Adreno__TM__829-1780448900.json"
   }
 ]
