@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1780495193,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-21081111RG-Mali-G77_MC9-1780495193.json"
+  },
+  {
     "game": "forzahorizon6_loader",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1780480718,
     "filename": "PlayGTAV-Xiaomi-2311DRK48G-Mali-G615_MC6-1780480718.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1780477741,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2102J20SG-Adreno__TM__640-1780477741.json"
   }
 ]
