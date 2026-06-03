@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4___Biohazard_4",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1780484714,
+    "filename": "Resident_Evil_4___Biohazard_4-samsung-SM-N975F-Mali-G76-1780484714.json"
+  },
+  {
     "game": "GameApp",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1780462154,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780462154.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_arabic_bx2zq",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780461743,
-    "filename": "Grand_Theft_Auto_V_arabic_bx2zq-HONOR-BRP-NX1-Adreno__TM__710-1780461743.json"
   }
 ]
