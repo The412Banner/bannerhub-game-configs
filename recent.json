@@ -3,6 +3,13 @@
     "game": "Ben_10__Power_Trip",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1780457277,
+    "filename": "Ben_10__Power_Trip-ITEL-itel_S688LN-Mali-G57-1780457277.json"
+  },
+  {
+    "game": "Ben_10__Power_Trip",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1780457264,
     "filename": "Ben_10__Power_Trip-ITEL-itel_S688LN-Mali-G57-1780457264.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780443194,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1780443194.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1780440408,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6876-Mali-G615_MC2-1780440408.json"
   }
 ]
