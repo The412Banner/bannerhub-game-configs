@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780515604,
+    "filename": "Resident_Evil_6-TECNO-TECNO_LH7n-Mali-G57_MC2-1780515604.json"
+  },
+  {
     "game": "bhd",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1780496328,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M336B-Mali-G68-1780496328.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1780496256,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M336B-Mali-G68-1780496256.json"
   }
 ]
