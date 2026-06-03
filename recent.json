@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ori_and_the_Will_of_the_Wisps",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780519138,
+    "filename": "Ori_and_the_Will_of_the_Wisps-LENOVO-TB322FC-Adreno__TM__830-1780519138.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1780498807,
     "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-STK-L21-Mali-G51-1780498807.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1780498684,
-    "filename": "Sleeping_Dogs-INFINIX-Infinix_X6873-Mali-G615_MC6-1780498684.json"
   }
 ]
