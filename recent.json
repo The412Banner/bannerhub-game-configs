@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780447392,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1780447392.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1780430298,
     "filename": "Resident_Evil_5_Gold_Edition________________________________-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1780430298.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Enhanced",
-    "manufacturer": "2510ERA8BT",
-    "device": "Adreno__TM__810",
-    "timestamp": 1780428463,
-    "filename": "Grand_Theft_Auto_V_Enhanced-Xiaomi-2510ERA8BT-Adreno__TM__810-1780428463.json"
   }
 ]
