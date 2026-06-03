@@ -1,5 +1,12 @@
 [
   {
+    "game": "OCTOPATH_TRAVELER_0",
+    "manufacturer": "I2508",
+    "device": "Adreno__TM__829",
+    "timestamp": 1780448900,
+    "filename": "OCTOPATH_TRAVELER_0-vivo-I2508-Adreno__TM__829-1780448900.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G715",
     "timestamp": 1780433366,
     "filename": "Interior_Worlds-Google-Pixel_9_Pro-Mali-G715-1780433366.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1780432058,
-    "filename": "BootstrapPackagedGame-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1780432058.json"
   }
 ]
