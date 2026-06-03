@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1780446282,
+    "filename": "Tomb_Raider-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1780446282.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1780428463,
     "filename": "Grand_Theft_Auto_V_Enhanced-Xiaomi-2510ERA8BT-Adreno__TM__810-1780428463.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780426911,
-    "filename": "Pro_Evolution_Soccer_2013-ZTE-Z2357N-Mali-G57-1780426911.json"
   }
 ]
