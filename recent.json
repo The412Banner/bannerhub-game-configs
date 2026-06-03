@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G51",
+    "timestamp": 1780498807,
+    "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-STK-L21-Mali-G51-1780498807.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780486590,
     "filename": "Pro_Evolution_Soccer_2015-HONOR-BVL-N49-Adreno__TM__750-1780486590.json"
-  },
-  {
-    "game": "Resident_Evil_4___Biohazard_4",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1780485754,
-    "filename": "Resident_Evil_4___Biohazard_4-samsung-SM-N975F-Mali-G76-1780485754.json"
   }
 ]
