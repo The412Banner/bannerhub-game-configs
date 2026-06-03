@@ -3,6 +3,13 @@
     "game": "Ben_10__Power_Trip",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1780473244,
+    "filename": "Ben_10__Power_Trip-ITEL-itel_S688LN-Mali-G57-1780473244.json"
+  },
+  {
+    "game": "Ben_10__Power_Trip",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1780473213,
     "filename": "Ben_10__Power_Trip-ITEL-itel_S688LN-Mali-G57-1780473213.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780453225,
     "filename": "Game_f_x64_EOS-LENOVO-TB322FC-Adreno__TM__830-1780453225.json"
-  },
-  {
-    "game": "Devil_May_Cry_5",
-    "manufacturer": "I2508",
-    "device": "Adreno__TM__829",
-    "timestamp": 1780450361,
-    "filename": "Devil_May_Cry_5-vivo-I2508-Adreno__TM__829-1780450361.json"
   }
 ]
