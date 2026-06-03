@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1780504992,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_20_-Mali-G52-1780504992.json"
+  },
+  {
     "game": "forzahorizon6_loader",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780490624,
     "filename": "JUMP_FORCE-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1780490624.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "motorola_edge_30_neo",
-    "device": "Adreno__TM__619",
-    "timestamp": 1780489280,
-    "filename": "PlayGTAV-motorola-motorola_edge_30_neo-Adreno__TM__619-1780489280.json"
   }
 ]
