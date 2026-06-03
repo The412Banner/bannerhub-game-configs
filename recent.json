@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1780474518,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X6871-Mali-G610_MC6-1780474518.json"
+  },
+  {
     "game": "Ben_10__Power_Trip",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780455032,
     "filename": "Ben_10__Power_Trip-ITEL-itel_S688LN-Mali-G57-1780455032.json"
-  },
-  {
-    "game": "Game_f_x64_EOS",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780453225,
-    "filename": "Game_f_x64_EOS-LENOVO-TB322FC-Adreno__TM__830-1780453225.json"
   }
 ]
