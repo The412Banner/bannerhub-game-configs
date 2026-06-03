@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Sims__4",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780510766,
+    "filename": "The_Sims__4-Xiaomi-2409BRN2CY-Mali-G52_MC2-1780510766.json"
+  },
+  {
     "game": "Devil_May_Cry_5",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1780495193,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-21081111RG-Mali-G77_MC9-1780495193.json"
-  },
-  {
-    "game": "forzahorizon6_loader",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1780495025,
-    "filename": "forzahorizon6_loader-samsung-SM-A536E-Mali-G68-1780495025.json"
   }
 ]
