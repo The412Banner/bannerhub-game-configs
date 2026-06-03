@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780521423,
+    "filename": "Pro_Evolution_Soccer_2017-nubia-NP05J-Adreno__TM__830-1780521423.json"
+  },
+  {
     "game": "Ori_and_the_Will_of_the_Wisps",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1780500102,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_20_-Mali-G52-1780500102.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1780498807,
-    "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-STK-L21-Mali-G51-1780498807.json"
   }
 ]
