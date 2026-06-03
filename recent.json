@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1780496256,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M336B-Mali-G68-1780496256.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1780481948,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-vivo-I2407-Adreno__TM__810-1780481948.json"
-  },
-  {
-    "game": "Need_for_Speed_MW_2005",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780480944,
-    "filename": "Need_for_Speed_MW_2005-TECNO-TECNO_LH7n-Mali-G57_MC2-1780480944.json"
   }
 ]
