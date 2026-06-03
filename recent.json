@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "I2501",
+    "device": "Adreno__TM__840",
+    "timestamp": 1780472076,
+    "filename": "Cuphead-vivo-I2501-Adreno__TM__840-1780472076.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__829",
     "timestamp": 1780450327,
     "filename": "Devil_May_Cry_4_Special_Edition-vivo-I2508-Adreno__TM__829-1780450327.json"
-  },
-  {
-    "game": "GOD_EATER_RESURRECTION",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1780449894,
-    "filename": "GOD_EATER_RESURRECTION-nubia-NX809J-Adreno__TM__840-1780449894.json"
   }
 ]
