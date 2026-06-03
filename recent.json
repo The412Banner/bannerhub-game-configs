@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "moto_g34_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1780529112,
+    "filename": "American_Truck_Simulator-motorola-moto_g34_5G-Adreno__TM__619-1780529112.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780515604,
     "filename": "Resident_Evil_6-TECNO-TECNO_LH7n-Mali-G57_MC2-1780515604.json"
-  },
-  {
-    "game": "bhd",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1780513986,
-    "filename": "bhd-INFINIX-Infinix_X6873-Mali-G615_MC6-1780513986.json"
   }
 ]
