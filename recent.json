@@ -3,6 +3,13 @@
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "V2205",
     "device": "Adreno__TM__610",
+    "timestamp": 1780462663,
+    "filename": "Devil_May_Cry_4_Special_Edition-vivo-V2205-Adreno__TM__610-1780462663.json"
+  },
+  {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "V2205",
+    "device": "Adreno__TM__610",
     "timestamp": 1780462590,
     "filename": "Devil_May_Cry_4_Special_Edition-vivo-V2205-Adreno__TM__610-1780462590.json"
   },
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1780448432,
     "filename": "____2016-Xiaomi-22101316G-Mali-G68_MC4-1780448432.json"
-  },
-  {
-    "game": "Turok_Evolution",
-    "manufacturer": "Mali",
-    "device": "G715",
-    "timestamp": 1780447601,
-    "filename": "Turok_Evolution-Google-Pixel_9_Pro-Mali-G715-1780447601.json"
   }
 ]
