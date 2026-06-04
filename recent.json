@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Crew__2",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1780532663,
+    "filename": "The_Crew__2-nubia-NX809J-Adreno__TM__840-1780532663.json"
+  },
+  {
     "game": "Farming_Simulator_19",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780519025,
     "filename": "BootstrapPackagedGame-Xiaomi-25053PC47G-Adreno__TM__825-1780519025.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780518627,
-    "filename": "BootstrapPackagedGame-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780518627.json"
   }
 ]
