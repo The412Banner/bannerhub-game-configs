@@ -1,5 +1,12 @@
 [
   {
+    "game": "Farming_Simulator_19",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780531669,
+    "filename": "Farming_Simulator_19-samsung-SM-A366E-Adreno__TM__710-1780531669.json"
+  },
+  {
     "game": "The_Crew__2",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1780518627,
     "filename": "BootstrapPackagedGame-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780518627.json"
-  },
-  {
-    "game": "Teenage_Mutant_Ninja_Turtles__Shredder_s_Revenge",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780517131,
-    "filename": "Teenage_Mutant_Ninja_Turtles__Shredder_s_Revenge-LENOVO-TB322FC-Adreno__TM__830-1780517131.json"
   }
 ]
