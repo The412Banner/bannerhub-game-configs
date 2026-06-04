@@ -1,5 +1,12 @@
 [
   {
+    "game": "OCTOPATH_TRAVELER_II",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1780575999,
+    "filename": "OCTOPATH_TRAVELER_II-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1780575999.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1780550253,
     "filename": "mkxp-z-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1780550253.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "MI_8_Lite",
-    "device": "Adreno__TM__512",
-    "timestamp": 1780550031,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-MI_8_Lite-Adreno__TM__512-1780550031.json"
   }
 ]
