@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780588622,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1780588622.json"
+  },
+  {
     "game": "Need_for_Speed__Heat",
     "manufacturer": "NX779J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1780578956,
     "filename": "cstrike15-motorola-moto_g75_5G-Adreno__TM__710-1780578956.json"
-  },
-  {
-    "game": "Far_Cry_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780577879,
-    "filename": "Far_Cry_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780577879.json"
   }
 ]
