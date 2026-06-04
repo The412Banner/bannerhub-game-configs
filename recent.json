@@ -1,5 +1,12 @@
 [
   {
+    "game": "All_in_One_Runtimes",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1780596026,
+    "filename": "All_in_One_Runtimes-Xiaomi-23021RAAEG-Adreno__TM__610-1780596026.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV",
     "manufacturer": "23013PC75G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1780583244,
     "filename": "Quarantine_Zone_The_Last_Check-Xiaomi-2509FPN0BC-Adreno__TM__840-1780583244.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1780582879,
-    "filename": "God_of_War-Xiaomi-24095PCADG-Mali-G615_MC2-1780582879.json"
   }
 ]
