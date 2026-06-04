@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "MI_8_Lite",
+    "device": "Adreno__TM__512",
+    "timestamp": 1780548779,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-MI_8_Lite-Adreno__TM__512-1780548779.json"
+  },
+  {
     "game": "Metro_2033_Redux",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1780531669,
     "filename": "Farming_Simulator_19-samsung-SM-A366E-Adreno__TM__710-1780531669.json"
-  },
-  {
-    "game": "The_Crew__2",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1780531365,
-    "filename": "The_Crew__2-nubia-NX809J-Adreno__TM__840-1780531365.json"
   }
 ]
