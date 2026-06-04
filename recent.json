@@ -1,5 +1,12 @@
 [
   {
+    "game": "Spiderman_Web_Of_Shadows",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780565751,
+    "filename": "Spiderman_Web_Of_Shadows-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780565751.json"
+  },
+  {
     "game": "Five_Nights_At_Freddy__Security_Breach",
     "manufacturer": "2509FPN0BC",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1780547167,
     "filename": "Metro_2033_Redux-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1780547167.json"
-  },
-  {
-    "game": "LEGO__Marvel__Super_Heroes",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780546411,
-    "filename": "LEGO__Marvel__Super_Heroes-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780546411.json"
   }
 ]
