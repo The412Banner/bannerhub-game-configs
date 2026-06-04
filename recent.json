@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1780599595,
+    "filename": "Mafia_II__Classic_-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1780599595.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V__________________________________________",
     "manufacturer": "21051182G",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780587669,
     "filename": "Need_for_Speed__Heat-nubia-NX779J-Adreno__TM__750-1780587669.json"
-  },
-  {
-    "game": "Need_for_Speed__Heat",
-    "manufacturer": "NX779J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1780587180,
-    "filename": "Need_for_Speed__Heat-nubia-NX779J-Adreno__TM__750-1780587180.json"
   }
 ]
