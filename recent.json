@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_7",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780600989,
+    "filename": "TEKKEN_7-Xiaomi-23043RP34G-Adreno__TM__650-1780600989.json"
+  },
+  {
     "game": "Assassin_s_Creed__Unity",
     "manufacturer": "CPH2691",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780588855,
     "filename": "Resident_Evil_2-INFINIX-Infinix_X6858-Mali-G57_MC2-1780588855.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780588715,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1780588715.json"
   }
 ]
