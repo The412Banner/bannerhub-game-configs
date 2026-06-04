@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Legend_of_Heroes__Trails_in_the_Sky",
+    "manufacturer": "CPH2767",
+    "device": "Adreno__TM__829",
+    "timestamp": 1780601550,
+    "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-OnePlus-CPH2767-Adreno__TM__829-1780601550.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__722",
     "timestamp": 1780589776,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-motorola-motorola_edge_70-Adreno__TM__722-1780589776.json"
-  },
-  {
-    "game": "mhf",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1780589157,
-    "filename": "mhf-HMD_Global-Nokia_T20-Mali-G52-1780589157.json"
   }
 ]
