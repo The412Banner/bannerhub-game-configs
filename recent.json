@@ -1,5 +1,12 @@
 [
   {
+    "game": "BioShock_Infinite",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780611965,
+    "filename": "BioShock_Infinite-ayn-Odin3-Adreno__TM__830-1780611965.json"
+  },
+  {
     "game": "It_Takes_Two",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1780600989,
     "filename": "TEKKEN_7-Xiaomi-23043RP34G-Adreno__TM__650-1780600989.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Unity",
-    "manufacturer": "CPH2691",
-    "device": "Adreno__TM__750",
-    "timestamp": 1780600481,
-    "filename": "Assassin_s_Creed__Unity-OnePlus-CPH2691-Adreno__TM__750-1780600481.json"
   }
 ]
