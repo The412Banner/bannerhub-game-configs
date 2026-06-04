@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC__Devil_May_Cry",
+    "manufacturer": "M2007J3SY",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780597938,
+    "filename": "DmC__Devil_May_Cry-Xiaomi-M2007J3SY-Adreno__TM__650-1780597938.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780585020,
     "filename": "LEGO__Star_Wars___A_Saga_Skywalker-Xiaomi-25053PC47G-Adreno__TM__825-1780585020.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780584634,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1780584634.json"
   }
 ]
