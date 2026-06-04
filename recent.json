@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1780562561,
+    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2531-Mali-G68_MC4-1780562561.json"
+  },
+  {
     "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1780542566,
     "filename": "Contra__Operation_Galuga-realme-RMX5070-Adreno__TM__810-1780542566.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__Remastered__2017_",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780542372,
-    "filename": "Call_of_Duty___Modern_Warfare__Remastered__2017_-samsung-SM-S911B-Adreno__TM__740-1780542372.json"
   }
 ]
