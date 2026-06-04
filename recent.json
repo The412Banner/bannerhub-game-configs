@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "motorola_edge_70",
+    "device": "Adreno__TM__722",
+    "timestamp": 1780589776,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-motorola-motorola_edge_70-Adreno__TM__722-1780589776.json"
+  },
+  {
     "game": "mhf",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780580061,
     "filename": "DRAGON_BALL_FighterZ-Xiaomi-24075RP89G-Mali-G52_MC2-1780580061.json"
-  },
-  {
-    "game": "The_Killing_Antidote",
-    "manufacturer": "PEDM00",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780579363,
-    "filename": "The_Killing_Antidote-OPPO-PEDM00-Adreno__TM__650-1780579363.json"
   }
 ]
