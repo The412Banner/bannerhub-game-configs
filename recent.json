@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Marvel__Super_Heroes",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780546411,
+    "filename": "LEGO__Marvel__Super_Heroes-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780546411.json"
+  },
+  {
     "game": "Contra__Operation_Galuga",
     "manufacturer": "RMX5070",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780530270,
     "filename": "Resident_Evil_6_MULTi9_-_ElAmigos___________________________-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780530270.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1780529112,
-    "filename": "American_Truck_Simulator-motorola-moto_g34_5G-Adreno__TM__619-1780529112.json"
   }
 ]
