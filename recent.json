@@ -1,5 +1,12 @@
 [
   {
+    "game": "EasyAntiCheat_Launcher",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780534769,
+    "filename": "EasyAntiCheat_Launcher-ITEL-itel_A666LN-Mali-G57-1780534769.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1780521730,
     "filename": "Prince_of_Persia_-_The_Forgotten_Sands-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780521730.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780521535,
-    "filename": "Pro_Evolution_Soccer_2017-nubia-NP05J-Adreno__TM__830-1780521535.json"
   }
 ]
