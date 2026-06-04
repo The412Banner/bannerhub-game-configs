@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC__Devil_May_Cry",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780562410,
+    "filename": "DmC__Devil_May_Cry-ayn-Odin3-Adreno__TM__830-1780562410.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1780541540,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1780541540.json"
-  },
-  {
-    "game": "Prototype_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780539558,
-    "filename": "Prototype_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780539558.json"
   }
 ]
