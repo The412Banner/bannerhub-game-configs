@@ -1,5 +1,12 @@
 [
   {
+    "game": "mkxp-z",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1780550253,
+    "filename": "mkxp-z-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1780550253.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "MI_8_Lite",
     "device": "Adreno__TM__512",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780533807,
     "filename": "Wasteland_Bites-Xiaomi-25053PC47G-Adreno__TM__825-1780533807.json"
-  },
-  {
-    "game": "Five_Nights_at_Freddy_s__Into_the_Pit",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780533744,
-    "filename": "Five_Nights_at_Freddy_s__Into_the_Pit-Xiaomi-25053PC47G-Adreno__TM__825-1780533744.json"
   }
 ]
