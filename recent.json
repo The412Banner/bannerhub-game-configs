@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G51",
+    "timestamp": 1780591141,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-MGA-LX3-Mali-G51-1780591141.json"
+  },
+  {
     "game": "Dead_Space__",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1780580946,
     "filename": "Left_4_Dead_2-HONOR-DNY-NX9-Adreno__TM__720-1780580946.json"
-  },
-  {
-    "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780580569,
-    "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-ayn-Odin3-Adreno__TM__830-1780580569.json"
   }
 ]
