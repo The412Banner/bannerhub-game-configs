@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780580061,
+    "filename": "DRAGON_BALL_FighterZ-Xiaomi-24075RP89G-Mali-G52_MC2-1780580061.json"
+  },
+  {
     "game": "The_Killing_Antidote",
     "manufacturer": "PEDM00",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780562410,
     "filename": "DmC__Devil_May_Cry-ayn-Odin3-Adreno__TM__830-1780562410.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1780561396,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2531-Mali-G68_MC4-1780561396.json"
   }
 ]
