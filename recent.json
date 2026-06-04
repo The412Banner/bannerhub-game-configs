@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES2017_Play_Disini",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1780535809,
+    "filename": "PES2017_Play_Disini-Xiaomi-25053PC47G-Adreno__TM__825-1780535809.json"
+  },
+  {
     "game": "PATCH_DMPES",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780522171,
     "filename": "Pro_Evolution_Soccer_2017-nubia-NP05J-Adreno__TM__830-1780522171.json"
-  },
-  {
-    "game": "Forza_Horizon_2_____________________________________________",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1780521943,
-    "filename": "Forza_Horizon_2_____________________________________________-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1780521943.json"
   }
 ]
