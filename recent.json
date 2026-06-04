@@ -1,5 +1,12 @@
 [
   {
+    "game": "pes_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780606703,
+    "filename": "pes_2013-samsung-SM-A065M-Mali-G52_MC2-1780606703.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mi_Note_10_Lite",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780597278,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1780597278.json"
-  },
-  {
-    "game": "Aladdin",
-    "manufacturer": "A125F",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1780597242,
-    "filename": "Aladdin-samsung-SM-A125F-PowerVR_Rogue_GE8320-1780597242.json"
   }
 ]
