@@ -1,5 +1,12 @@
 [
   {
+    "game": "Forza_Horizon_6",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1780571412,
+    "filename": "Forza_Horizon_6-samsung-SM-A536E-Mali-G68-1780571412.json"
+  },
+  {
     "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__512",
     "timestamp": 1780549872,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-MI_8_Lite-Adreno__TM__512-1780549872.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780549649,
-    "filename": "Resident_Evil_2-Xiaomi-24040RN64Y-Mali-G52_MC2-1780549649.json"
   }
 ]
