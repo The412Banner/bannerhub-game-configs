@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "S731B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1780602407,
+    "filename": "God_of_War-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1780602407.json"
+  },
+  {
     "game": "TEKKEN_7",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1780591141,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-MGA-LX3-Mali-G51-1780591141.json"
-  },
-  {
-    "game": "Dead_Space__",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780590228,
-    "filename": "Dead_Space__-INFINIX-Infinix_X6882-Mali-G57_MC2-1780590228.json"
   }
 ]
