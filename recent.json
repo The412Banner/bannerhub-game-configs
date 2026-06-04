@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780588855,
+    "filename": "Resident_Evil_2-INFINIX-Infinix_X6858-Mali-G57_MC2-1780588855.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1780579066,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g52-Adreno__TM__610-1780579066.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g52",
-    "device": "Adreno__TM__610",
-    "timestamp": 1780579057,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g52-Adreno__TM__610-1780579057.json"
   }
 ]
