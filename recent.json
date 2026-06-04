@@ -1,5 +1,12 @@
 [
   {
+    "game": "________________________________________________________________",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780604523,
+    "filename": "________________________________________________________________-samsung-SM-A155M-Mali-G57_MC2-1780604523.json"
+  },
+  {
     "game": "Prototype_",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1780596026,
     "filename": "All_in_One_Runtimes-Xiaomi-23021RAAEG-Adreno__TM__610-1780596026.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV",
-    "manufacturer": "23013PC75G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1780595741,
-    "filename": "Grand_Theft_Auto_IV-Xiaomi-23013PC75G-Adreno__TM__730-1780595741.json"
   }
 ]
