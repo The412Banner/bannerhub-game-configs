@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "220333QAG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1780614044,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-220333QAG-Adreno__TM__610-1780614044.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1780601565,
     "filename": "TEKKEN_7-Xiaomi-23043RP34G-Adreno__TM__650-1780601565.json"
-  },
-  {
-    "game": "The_Legend_of_Heroes__Trails_in_the_Sky",
-    "manufacturer": "CPH2767",
-    "device": "Adreno__TM__829",
-    "timestamp": 1780601550,
-    "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-OnePlus-CPH2767-Adreno__TM__829-1780601550.json"
   }
 ]
