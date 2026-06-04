@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "M2101K7AG",
+    "device": "Adreno__TM__612",
+    "timestamp": 1780554421,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-M2101K7AG-Adreno__TM__612-1780554421.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780535793,
     "filename": "PATCH_DMPES-Xiaomi-25053PC47G-Adreno__TM__825-1780535793.json"
-  },
-  {
-    "game": "EasyAntiCheat_Launcher",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780534769,
-    "filename": "EasyAntiCheat_Launcher-ITEL-itel_A666LN-Mali-G57-1780534769.json"
   }
 ]
