@@ -1,5 +1,12 @@
 [
   {
+    "game": "Helltaker",
+    "manufacturer": "V2418",
+    "device": "Adreno__TM__613",
+    "timestamp": 1780615468,
+    "filename": "Helltaker-vivo-V2418-Adreno__TM__613-1780615468.json"
+  },
+  {
     "game": "Bayonetta",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1780603661,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-M2102J20SG-Adreno__TM__640-1780603661.json"
-  },
-  {
-    "game": "GTA1setup",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780603323,
-    "filename": "GTA1setup-Xiaomi-2311DRN14I-Mali-G52_MC2-1780603323.json"
   }
 ]
