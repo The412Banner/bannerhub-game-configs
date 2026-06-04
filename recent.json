@@ -1,5 +1,12 @@
 [
   {
+    "game": "Aladdin",
+    "manufacturer": "A125F",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1780597242,
+    "filename": "Aladdin-samsung-SM-A125F-PowerVR_Rogue_GE8320-1780597242.json"
+  },
+  {
     "game": "All_in_One_Runtimes",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780584514,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1780584514.json"
-  },
-  {
-    "game": "__Stronghold_Crusader",
-    "manufacturer": "CPH2239",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1780584500,
-    "filename": "__Stronghold_Crusader-OPPO-CPH2239-PowerVR_Rogue_GE8320-1780584500.json"
   }
 ]
