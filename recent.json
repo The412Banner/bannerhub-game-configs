@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780613911,
+    "filename": "DRAGON_BALL_FighterZ-Xiaomi-24075RP89G-Mali-G52_MC2-1780613911.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__829",
     "timestamp": 1780601550,
     "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-OnePlus-CPH2767-Adreno__TM__829-1780601550.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1780601393,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1780601393.json"
   }
 ]
