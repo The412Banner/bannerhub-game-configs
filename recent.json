@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1780536115,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M546B-Mali-G68-1780536115.json"
+  },
+  {
     "game": "Sally_Face",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1780523306,
     "filename": "Grand_Theft_Auto_V_arabic_bx2zq__1_-HONOR-BRP-NX1-Adreno__TM__710-1780523306.json"
-  },
-  {
-    "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1780522362,
-    "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1780522362.json"
   }
 ]
