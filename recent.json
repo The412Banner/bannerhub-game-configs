@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA1setup",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780603323,
+    "filename": "GTA1setup-Xiaomi-2311DRN14I-Mali-G52_MC2-1780603323.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "S731B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1780591157,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-MGA-LX3-Mali-G51-1780591157.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1780591141,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-MGA-LX3-Mali-G51-1780591141.json"
   }
 ]
