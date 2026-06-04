@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1780603661,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-M2102J20SG-Adreno__TM__640-1780603661.json"
+  },
+  {
     "game": "GTA1setup",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1780591214,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-MGA-LX3-Mali-G51-1780591214.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1780591157,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-MGA-LX3-Mali-G51-1780591157.json"
   }
 ]
