@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780553914,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-M2012K11AG-Adreno__TM__650-1780553914.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780534769,
     "filename": "EasyAntiCheat_Launcher-ITEL-itel_A666LN-Mali-G57-1780534769.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780534600,
-    "filename": "Resident_Evil_2-INFINIX-Infinix_X6858-Mali-G57_MC2-1780534600.json"
   }
 ]
