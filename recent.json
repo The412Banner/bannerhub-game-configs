@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wasteland_Bites",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1780533807,
+    "filename": "Wasteland_Bites-Xiaomi-25053PC47G-Adreno__TM__825-1780533807.json"
+  },
+  {
     "game": "Five_Nights_at_Freddy_s__Into_the_Pit",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780521498,
     "filename": "Pro_Evolution_Soccer_2017-nubia-NP05J-Adreno__TM__830-1780521498.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780521423,
-    "filename": "Pro_Evolution_Soccer_2017-nubia-NP05J-Adreno__TM__830-1780521423.json"
   }
 ]
