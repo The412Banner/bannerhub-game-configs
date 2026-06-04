@@ -1,5 +1,12 @@
 [
   {
+    "game": "__Stronghold_Crusader",
+    "manufacturer": "CPH2239",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1780584500,
+    "filename": "__Stronghold_Crusader-OPPO-CPH2239-PowerVR_Rogue_GE8320-1780584500.json"
+  },
+  {
     "game": "Little_Nightmares_2",
     "manufacturer": "2509FPN0BC",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1780573145,
     "filename": "unins000-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1780573145.json"
-  },
-  {
-    "game": "Forza_Horizon_6",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1780571412,
-    "filename": "Forza_Horizon_6-samsung-SM-A536E-Mali-G68-1780571412.json"
   }
 ]
