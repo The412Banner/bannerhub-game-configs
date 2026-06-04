@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Heat",
+    "manufacturer": "NX779J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1780587180,
+    "filename": "Need_for_Speed__Heat-nubia-NX779J-Adreno__TM__750-1780587180.json"
+  },
+  {
     "game": "L2",
     "manufacturer": "Mali",
     "device": "G610_MC3",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1780577245,
     "filename": "unins000-Xiaomi-23129RA5FL-Adreno__TM__610-1780577245.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1780576714,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M546B-Mali-G68-1780576714.json"
   }
 ]
