@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Killing_Antidote",
+    "manufacturer": "PEDM00",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780579363,
+    "filename": "The_Killing_Antidote-OPPO-PEDM00-Adreno__TM__650-1780579363.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g52",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1780561396,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2531-Mali-G68_MC4-1780561396.json"
-  },
-  {
-    "game": "METAL_GEAR_RISING__REVENGEANCE",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780558382,
-    "filename": "METAL_GEAR_RISING__REVENGEANCE-TECNO-TECNO_LH7n-Mali-G57_MC2-1780558382.json"
   }
 ]
