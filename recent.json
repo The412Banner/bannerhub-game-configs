@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Unity",
+    "manufacturer": "CPH2691",
+    "device": "Adreno__TM__750",
+    "timestamp": 1780600481,
+    "filename": "Assassin_s_Creed__Unity-OnePlus-CPH2691-Adreno__TM__750-1780600481.json"
+  },
+  {
     "game": "NieR_Automata_",
     "manufacturer": "25053PC47I",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780588715,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1780588715.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780588622,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1780588622.json"
   }
 ]
