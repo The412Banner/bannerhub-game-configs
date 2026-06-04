@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prototype_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780614392,
+    "filename": "Prototype_2-Anbernic-RG556-Mali-G57-1780614392.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "220333QAG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1780602407,
     "filename": "God_of_War-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1780602407.json"
-  },
-  {
-    "game": "TEKKEN_7",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780601565,
-    "filename": "TEKKEN_7-Xiaomi-23043RP34G-Adreno__TM__650-1780601565.json"
   }
 ]
