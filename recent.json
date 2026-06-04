@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780549649,
+    "filename": "Resident_Evil_2-Xiaomi-24040RN64Y-Mali-G52_MC2-1780549649.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "MI_8_Lite",
     "device": "Adreno__TM__512",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1780532663,
     "filename": "The_Crew__2-nubia-NX809J-Adreno__TM__840-1780532663.json"
-  },
-  {
-    "game": "Farming_Simulator_19",
-    "manufacturer": "A366E",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780531669,
-    "filename": "Farming_Simulator_19-samsung-SM-A366E-Adreno__TM__710-1780531669.json"
   }
 ]
