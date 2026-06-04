@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1780582879,
+    "filename": "God_of_War-Xiaomi-24095PCADG-Mali-G615_MC2-1780582879.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780568649,
     "filename": "Red_Dead_Redemption_2-samsung-SM-S928B-Adreno__TM__750-1780568649.json"
-  },
-  {
-    "game": "Spiderman_Web_Of_Shadows",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780565751,
-    "filename": "Spiderman_Web_Of_Shadows-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780565751.json"
   }
 ]
