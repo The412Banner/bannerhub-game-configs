@@ -1,5 +1,12 @@
 [
   {
+    "game": "It_Takes_Two",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780610404,
+    "filename": "It_Takes_Two-Xiaomi-2412DPC0AI-Mali-G720_MC7-1780610404.json"
+  },
+  {
     "game": "Overcooked2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780600481,
     "filename": "Assassin_s_Creed__Unity-OnePlus-CPH2691-Adreno__TM__750-1780600481.json"
-  },
-  {
-    "game": "NieR_Automata_",
-    "manufacturer": "25053PC47I",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780600243,
-    "filename": "NieR_Automata_-Xiaomi-25053PC47I-Adreno__TM__825-1780600243.json"
   }
 ]
