@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780618742,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1780618742.json"
+  },
+  {
     "game": "VPet-Simulator",
     "manufacturer": "V2418",
     "device": "Adreno__TM__613",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780606703,
     "filename": "pes_2013-samsung-SM-A065M-Mali-G52_MC2-1780606703.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mi_Note_10_Lite",
-    "device": "Adreno__TM__618",
-    "timestamp": 1780605312,
-    "filename": "Grand_Theft_Auto_V-Xiaomi-Mi_Note_10_Lite-Adreno__TM__618-1780605312.json"
   }
 ]
