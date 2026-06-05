@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ys_X__Proud_Nordics",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780675678,
+    "filename": "Ys_X__Proud_Nordics-Xiaomi-2510DPC44G-Adreno__TM__830-1780675678.json"
+  },
+  {
     "game": "Visions_of_Mana",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1780660489,
     "filename": "Little_Nightmares-Xiaomi-22081212UG-Adreno__TM__730-1780660489.json"
-  },
-  {
-    "game": "DARK_SOULS__III",
-    "manufacturer": "2509FPN0BC",
-    "device": "Adreno__TM__840",
-    "timestamp": 1780659921,
-    "filename": "DARK_SOULS__III-Xiaomi-2509FPN0BC-Adreno__TM__840-1780659921.json"
   }
 ]
