@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780667414,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-23113RKC6G-Adreno__TM__740-1780667414.json"
+  },
+  {
     "game": "Gorilla_Tag",
     "manufacturer": "W09",
     "device": "Adreno__TM__644",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780647541,
     "filename": "_Transformers_the_game-Xiaomi-24075RP89G-Mali-G52_MC2-1780647541.json"
-  },
-  {
-    "game": "Sky__Children_of_the_Light",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780647187,
-    "filename": "Sky__Children_of_the_Light-OPPO-OPPO_Reno12_F_5G-Mali-G57_MC2-1780647187.json"
   }
 ]
