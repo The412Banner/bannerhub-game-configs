@@ -1,5 +1,12 @@
 [
   {
+    "game": "_Transformers_the_game",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780647541,
+    "filename": "_Transformers_the_game-Xiaomi-24075RP89G-Mali-G52_MC2-1780647541.json"
+  },
+  {
     "game": "Sky__Children_of_the_Light",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1780628727,
     "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780628727.json"
-  },
-  {
-    "game": "Hitman__Absolution_",
-    "manufacturer": "NX789S_V1B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780627977,
-    "filename": "Hitman__Absolution_-nubia-NX789S_V1B-Adreno__TM__830-1780627977.json"
   }
 ]
