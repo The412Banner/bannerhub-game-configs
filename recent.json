@@ -1,5 +1,12 @@
 [
   {
+    "game": "Gorilla_Tag",
+    "manufacturer": "W09",
+    "device": "Adreno__TM__644",
+    "timestamp": 1780667181,
+    "filename": "Gorilla_Tag-HUAWEI-BTK-W09-Adreno__TM__644-1780667181.json"
+  },
+  {
     "game": "Devil_May_Cry_3_Special_Edition",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780647187,
     "filename": "Sky__Children_of_the_Light-OPPO-OPPO_Reno12_F_5G-Mali-G57_MC2-1780647187.json"
-  },
-  {
-    "game": "PES_2016",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1780647114,
-    "filename": "PES_2016-Xiaomi-M2102J20SG-Adreno__TM__640-1780647114.json"
   }
 ]
