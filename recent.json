@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Batman__2__DC_Super_Heroes",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780703330,
+    "filename": "LEGO__Batman__2__DC_Super_Heroes-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780703330.json"
+  },
+  {
     "game": "Postal2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780687936,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1780687936.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "N976V",
-    "device": "Adreno__TM__640",
-    "timestamp": 1780686838,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-N976V-Adreno__TM__640-1780686838.json"
   }
 ]
