@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2016",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780645884,
+    "filename": "Pro_Evolution_Soccer_2016-Xiaomi-23117RA68G-Mali-G57_MC2-1780645884.json"
+  },
+  {
     "game": "Nioh_2___The_Complete_Edition",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G610_MC3",
     "timestamp": 1780627278,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_40_neo-Mali-G610_MC3-1780627278.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G610_MC3",
-    "timestamp": 1780627265,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_40_neo-Mali-G610_MC3-1780627265.json"
   }
 ]
