@@ -3,6 +3,13 @@
     "game": "spiderman",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1780693156,
+    "filename": "spiderman-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780693156.json"
+  },
+  {
+    "game": "spiderman",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1780693140,
     "filename": "spiderman-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780693140.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780675822,
     "filename": "SCARLET_NEXUS-Xiaomi-2510DPC44G-Adreno__TM__830-1780675822.json"
-  },
-  {
-    "game": "Tales_of_Arise",
-    "manufacturer": "2510DPC44G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780675714,
-    "filename": "Tales_of_Arise-Xiaomi-2510DPC44G-Adreno__TM__830-1780675714.json"
   }
 ]
