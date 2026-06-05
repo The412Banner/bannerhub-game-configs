@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780668866,
+    "filename": "Mortal_Kombat_X-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780668866.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1780648196,
     "filename": "Counter-Strike_Global_Offensive-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780648196.json"
-  },
-  {
-    "game": "Devil_May_Cry_4_Special_Edition",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780647599,
-    "filename": "Devil_May_Cry_4_Special_Edition-vivo-I2405-Adreno__TM__825-1780647599.json"
   }
 ]
