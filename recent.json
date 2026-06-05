@@ -1,5 +1,12 @@
 [
   {
+    "game": "Visions_of_Mana",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780675584,
+    "filename": "Visions_of_Mana-Xiaomi-2510DPC44G-Adreno__TM__830-1780675584.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1780659921,
     "filename": "DARK_SOULS__III-Xiaomi-2509FPN0BC-Adreno__TM__840-1780659921.json"
-  },
-  {
-    "game": "AC3SP",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780658246,
-    "filename": "AC3SP-samsung-SM-S911B-Adreno__TM__740-1780658246.json"
   }
 ]
