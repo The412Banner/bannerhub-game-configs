@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "V2505A",
+    "device": "Adreno__TM__840",
+    "timestamp": 1780669748,
+    "filename": "Devil_May_Cry_5-vivo-V2505A-Adreno__TM__840-1780669748.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780653338,
     "filename": "Red_Dead_Redemption_2-vivo-I2220-Adreno__TM__750-1780653338.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780651884,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1780651884.json"
   }
 ]
