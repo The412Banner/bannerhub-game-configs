@@ -1,5 +1,12 @@
 [
   {
+    "game": "Palia",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780678157,
+    "filename": "Palia-Xiaomi-M2103K19G-Mali-G57_MC2-1780678157.json"
+  },
+  {
     "game": "GOALS",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1780663093,
     "filename": "BootstrapPackagedGame-HONOR-BRP-NX1-Adreno__TM__710-1780663093.json"
-  },
-  {
-    "game": "METAL_GEAR_RISING__REVENGEANCE",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780662147,
-    "filename": "METAL_GEAR_RISING__REVENGEANCE-samsung-SM-G780G-Adreno__TM__650-1780662147.json"
   }
 ]
