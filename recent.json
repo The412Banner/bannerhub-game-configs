@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "I2220",
+    "device": "Adreno__TM__750",
+    "timestamp": 1780653338,
+    "filename": "Red_Dead_Redemption_2-vivo-I2220-Adreno__TM__750-1780653338.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1780632614,
     "filename": "Left_4_Dead_2-HONOR-DNY-NX9-Adreno__TM__720-1780632614.json"
-  },
-  {
-    "game": "ashes",
-    "manufacturer": "RMX5070",
-    "device": "Adreno__TM__810",
-    "timestamp": 1780630760,
-    "filename": "ashes-realme-RMX5070-Adreno__TM__810-1780630760.json"
   }
 ]
