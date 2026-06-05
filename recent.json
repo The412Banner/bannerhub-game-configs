@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780694787,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1780694787.json"
+  },
+  {
     "game": "Assetto_Corsa_Competizione",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780678157,
     "filename": "Palia-Xiaomi-M2103K19G-Mali-G57_MC2-1780678157.json"
-  },
-  {
-    "game": "GOALS",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780676440,
-    "filename": "GOALS-motorola-moto_g35_5G-Mali-G57-1780676440.json"
   }
 ]
