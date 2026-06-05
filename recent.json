@@ -1,5 +1,12 @@
 [
   {
+    "game": "SCARLET_NEXUS",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780675822,
+    "filename": "SCARLET_NEXUS-Xiaomi-2510DPC44G-Adreno__TM__830-1780675822.json"
+  },
+  {
     "game": "Tales_of_Arise",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__829",
     "timestamp": 1780661571,
     "filename": "_________-OnePlus-CPH2767-Adreno__TM__829-1780661571.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "itel_A665L",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1780661408,
-    "filename": "Hollow_Knight__Silksong-ITEL-itel_A665L-PowerVR_Rogue_GE8322-1780661408.json"
   }
 ]
