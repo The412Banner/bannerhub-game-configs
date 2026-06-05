@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "N976V",
+    "device": "Adreno__TM__640",
+    "timestamp": 1780686816,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-N976V-Adreno__TM__640-1780686816.json"
+  },
+  {
     "game": "C1-Launcher",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1780669872,
     "filename": "Red_Dead_Redemption_2-motorola-motorola_edge_30_pro-Adreno__TM__730-1780669872.json"
-  },
-  {
-    "game": "Devil_May_Cry_5",
-    "manufacturer": "V2505A",
-    "device": "Adreno__TM__840",
-    "timestamp": 1780669748,
-    "filename": "Devil_May_Cry_5-vivo-V2505A-Adreno__TM__840-1780669748.json"
   }
 ]
