@@ -1,5 +1,12 @@
 [
   {
+    "game": "Nioh_2___The_Complete_Edition",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1780643059,
+    "filename": "Nioh_2___The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1780643059.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G610_MC3",
     "timestamp": 1780627265,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_40_neo-Mali-G610_MC3-1780627265.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G610_MC3",
-    "timestamp": 1780627254,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_40_neo-Mali-G610_MC3-1780627254.json"
   }
 ]
