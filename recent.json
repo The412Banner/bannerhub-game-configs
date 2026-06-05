@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC__Devil_May_Cry",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1780630399,
+    "filename": "DmC__Devil_May_Cry-motorola-motorola_edge_60_fusion-Mali-G615_MC2-1780630399.json"
+  },
+  {
     "game": "Hollow_Knight",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780617567,
     "filename": "unins000-samsung-SM-S918B-Adreno__TM__740-1780617567.json"
-  },
-  {
-    "game": "Helltaker",
-    "manufacturer": "V2418",
-    "device": "Adreno__TM__613",
-    "timestamp": 1780615468,
-    "filename": "Helltaker-vivo-V2418-Adreno__TM__613-1780615468.json"
   }
 ]
