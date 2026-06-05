@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hitman__Absolution_",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780627977,
+    "filename": "Hitman__Absolution_-nubia-NX789S_V1B-Adreno__TM__830-1780627977.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G610_MC3",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780614392,
     "filename": "Prototype_2-Anbernic-RG556-Mali-G57-1780614392.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "220333QAG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1780614044,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-220333QAG-Adreno__TM__610-1780614044.json"
   }
 ]
