@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stellar_Blade_",
+    "manufacturer": "S938U1",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780679463,
+    "filename": "Stellar_Blade_-samsung-SM-S938U1-Adreno__TM__830-1780679463.json"
+  },
+  {
     "game": "Palia",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780664111,
     "filename": "Devil_May_Cry_3_Special_Edition-motorola-moto_g04-Mali-G57-1780664111.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780663093,
-    "filename": "BootstrapPackagedGame-HONOR-BRP-NX1-Adreno__TM__710-1780663093.json"
   }
 ]
