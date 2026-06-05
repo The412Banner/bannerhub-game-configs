@@ -1,5 +1,12 @@
 [
   {
+    "game": "C1-Launcher",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780685957,
+    "filename": "C1-Launcher-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780685957.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1780669748,
     "filename": "Devil_May_Cry_5-vivo-V2505A-Adreno__TM__840-1780669748.json"
-  },
-  {
-    "game": "Mortal_Kombat_X",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780668886,
-    "filename": "Mortal_Kombat_X-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780668886.json"
   }
 ]
