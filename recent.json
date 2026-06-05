@@ -1,5 +1,12 @@
 [
   {
+    "game": "unins003",
+    "manufacturer": "22101320G",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1780694947,
+    "filename": "unins003-Xiaomi-22101320G-Adreno__TM__642L-1780694947.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780679463,
     "filename": "Stellar_Blade_-samsung-SM-S938U1-Adreno__TM__830-1780679463.json"
-  },
-  {
-    "game": "Palia",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780678157,
-    "filename": "Palia-Xiaomi-M2103K19G-Mali-G57_MC2-1780678157.json"
   }
 ]
