@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1780635723,
+    "filename": "Left_4_Dead_2-samsung-SM-S901E-Adreno__TM__730-1780635723.json"
+  },
+  {
     "game": "Wolverine",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780621420,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1780621420.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780618742,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1780618742.json"
   }
 ]
