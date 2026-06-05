@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780625119,
+    "filename": "Mafia_II__Classic_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780625119.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1780608652,
     "filename": "Stumble_Guys-realme-RMX5070-Adreno__TM__810-1780608652.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780608319,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EL-Mali-G52_MC2-1780608319.json"
   }
 ]
