@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tales_of_Arise",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780675714,
+    "filename": "Tales_of_Arise-Xiaomi-2510DPC44G-Adreno__TM__830-1780675714.json"
+  },
+  {
     "game": "Ys_X__Proud_Nordics",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1780661408,
     "filename": "Hollow_Knight__Silksong-ITEL-itel_A665L-PowerVR_Rogue_GE8322-1780661408.json"
-  },
-  {
-    "game": "Little_Nightmares",
-    "manufacturer": "22081212UG",
-    "device": "Adreno__TM__730",
-    "timestamp": 1780660489,
-    "filename": "Little_Nightmares-Xiaomi-22081212UG-Adreno__TM__730-1780660489.json"
   }
 ]
