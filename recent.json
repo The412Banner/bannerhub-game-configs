@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780667734,
+    "filename": "Resident_Evil_3-Xiaomi-23113RKC6G-Adreno__TM__740-1780667734.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780647599,
     "filename": "Devil_May_Cry_4_Special_Edition-vivo-I2405-Adreno__TM__825-1780647599.json"
-  },
-  {
-    "game": "_Transformers_the_game",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780647541,
-    "filename": "_Transformers_the_game-Xiaomi-24075RP89G-Mali-G52_MC2-1780647541.json"
   }
 ]
