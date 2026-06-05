@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dragon_s_Dogma__Dark_Arisen",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780680184,
+    "filename": "Dragon_s_Dogma__Dark_Arisen-Xiaomi-2510DPC44G-Adreno__TM__830-1780680184.json"
+  },
+  {
     "game": "Stellar_Blade_",
     "manufacturer": "S938U1",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780667734,
     "filename": "Resident_Evil_3-Xiaomi-23113RKC6G-Adreno__TM__740-1780667734.json"
-  },
-  {
-    "game": "PRO_EVOLUTION_SOCCER_2018",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780667414,
-    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-23113RKC6G-Adreno__TM__740-1780667414.json"
   }
 ]
