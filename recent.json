@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G610_MC3",
+    "timestamp": 1780627254,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_40_neo-Mali-G610_MC3-1780627254.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780611965,
     "filename": "BioShock_Infinite-ayn-Odin3-Adreno__TM__830-1780611965.json"
-  },
-  {
-    "game": "It_Takes_Two",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780610404,
-    "filename": "It_Takes_Two-Xiaomi-2412DPC0AI-Mali-G720_MC7-1780610404.json"
   }
 ]
