@@ -330,9 +330,8 @@
   /* BannerHub site matching nav */
   .bh-topnav {
     position: sticky; top: 0; z-index: 200; height: 44px; box-sizing: border-box;
-    display: flex; align-items: center; gap: 3px;
-    background: #0b0e14; border-bottom: 1px solid #2a3346;
-    padding: 0 14px; overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch;
+    display: flex; align-items: center; gap: 6px;
+    background: #0b0e14; border-bottom: 1px solid #2a3346; padding: 0 14px;
   }
   .bh-topnav::-webkit-scrollbar { height: 0; }
   .bh-topnav .bh-brand { display: inline-flex; align-items: center; gap: 8px; flex-shrink: 0;
@@ -345,13 +344,30 @@
   .bh-topnav a.bh-link:hover { color: #fff; background: #1a2030; }
   .bh-topnav .bh-here { color: #fff; background: #1d2a4d; font-size: 13px; padding: 5px 8px;
     border-radius: 7px; flex-shrink: 0; font-weight: 600; }
+
+  .bh-links { display: flex; align-items: center; gap: 3px; flex: 1; min-width: 0;
+    overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; }
+  .bh-links::-webkit-scrollbar { height: 0; }
+  .bh-burger { display: none; flex-shrink: 0; cursor: pointer; margin-left: auto;
+    background: #161b22; border: 1px solid #2a3346; color: #e6e9f0;
+    width: 34px; height: 32px; border-radius: 7px; font-size: 1.05rem; line-height: 1; }
+  @media (max-width: 760px) {
+    .bh-burger { display: block; }
+    .bh-links { position: absolute; top: 44px; left: 0; right: 0; flex-direction: column;
+      align-items: stretch; gap: 2px; background: #0b0e14; border-bottom: 1px solid #2a3346;
+      padding: 10px; display: none; overflow-x: visible; overflow-y: auto; max-height: calc(100vh - 44px); }
+    .bh-links.open { display: flex; }
+    .bh-links a.bh-link, .bh-links .bh-here { width: 100%; padding: 11px 14px; }
+  }
 </style>
 </head>
 <body>
 
 <nav class="bh-topnav" aria-label="BannerHub site">
   <a class="bh-brand" href="https://the412banner.github.io/bannerhub-site/"><span class="bh-logo">B</span> BannerHub</a>
-  <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/">Home</a>
+  <button class="bh-burger" type="button" aria-label="Menu" onclick="this.parentNode.querySelector('.bh-links').classList.toggle('open')">☰</button>
+  <div class="bh-links">
+    <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/">Home</a>
   <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/why.html">Why</a>
   <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/compare.html">Compare</a>
   <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/lite.html">BannerHub Lite</a>
@@ -363,6 +379,7 @@
   <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/faq.html">FAQ</a>
   <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/credits.html">Credits</a>
   <span class="bh-here">Config Library</span>
+  </div>
 </nav>
 
 <header>
