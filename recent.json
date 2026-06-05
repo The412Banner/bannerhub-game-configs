@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assetto_Corsa_Competizione",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780690263,
+    "filename": "Assetto_Corsa_Competizione-LENOVO-TB322FC-Adreno__TM__830-1780690263.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "N976V",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780671956,
     "filename": "Stellar_Blade_-samsung-SM-S938U1-Adreno__TM__830-1780671956.json"
-  },
-  {
-    "game": "Plants_vs__Zombies",
-    "manufacturer": "RMX3491",
-    "device": "Adreno__TM__610",
-    "timestamp": 1780671182,
-    "filename": "Plants_vs__Zombies-realme-RMX3491-Adreno__TM__610-1780671182.json"
   }
 ]
