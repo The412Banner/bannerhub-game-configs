@@ -11,7 +11,7 @@
   header {
     background: #161b22; border-bottom: 1px solid #30363d;
     padding: 10px 16px 0; display: flex; flex-direction: column;
-    gap: 0; position: sticky; top: 0; z-index: 100;
+    gap: 0; position: sticky; top: 44px; z-index: 100;
   }
   .header-top { display: flex; align-items: center; gap: 10px; padding-bottom: 10px; }
   header a.logo-link { display: flex; align-items: center; gap: 10px; text-decoration: none; flex: 1; }
@@ -44,7 +44,7 @@
   .header-sub .release-badge-v6:hover { background: #2d2150; }
   .header-sub .release-label { font-size: 12px; color: #8b949e; margin-left: auto; display: flex; align-items: center; gap: 8px; }
 
-  .layout { display: grid; grid-template-columns: 280px 1fr; height: calc(100vh - 82px - 20px); }
+  .layout { display: grid; grid-template-columns: 280px 1fr; height: calc(100vh - 82px - 20px - 44px); }
   .site-disclaimer {
     position: fixed; bottom: 0; left: 0; right: 0; z-index: 100;
     background: #0d1117; border-top: 1px solid #161b22;
@@ -313,7 +313,7 @@
   ::-webkit-scrollbar-thumb { background: #30363d; border-radius: 3px; }
 
   @media (max-width: 640px) {
-    .layout { display: block; height: calc(100vh - 82px - 20px); overflow: hidden; position: relative; }
+    .layout { display: block; height: calc(100vh - 82px - 20px - 44px); overflow: hidden; position: relative; }
     .sidebar { position: absolute; inset: 0; width: 100%; border-right: none; transition: transform 0.25s ease; z-index: 10; }
     .sidebar.hidden { transform: translateX(-100%); }
     .main { position: absolute; inset: 0; width: 100%; padding: 14px; transform: translateX(100%); transition: transform 0.25s ease; }
@@ -326,9 +326,44 @@
     .compare-table th, .compare-table td { padding: 6px 8px; font-size: 12px; }
     .header-sub { gap: 10px; }
   }
+
+  /* BannerHub site matching nav */
+  .bh-topnav {
+    position: sticky; top: 0; z-index: 200; height: 44px; box-sizing: border-box;
+    display: flex; align-items: center; gap: 3px;
+    background: #0b0e14; border-bottom: 1px solid #2a3346;
+    padding: 0 14px; overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch;
+  }
+  .bh-topnav::-webkit-scrollbar { height: 0; }
+  .bh-topnav .bh-brand { display: inline-flex; align-items: center; gap: 8px; flex-shrink: 0;
+    font-weight: 800; color: #e6e9f0; text-decoration: none; font-size: 14px; margin-right: 6px; }
+  .bh-topnav .bh-logo { width: 22px; height: 22px; border-radius: 6px; flex-shrink: 0;
+    background: linear-gradient(135deg,#5b8cff,#b48cff); display: inline-grid; place-items: center;
+    color: #fff; font-weight: 900; font-size: 13px; }
+  .bh-topnav a.bh-link { color: #aab2c4; text-decoration: none; font-size: 13px; padding: 5px 8px;
+    border-radius: 7px; flex-shrink: 0; }
+  .bh-topnav a.bh-link:hover { color: #fff; background: #1a2030; }
+  .bh-topnav .bh-here { color: #fff; background: #1d2a4d; font-size: 13px; padding: 5px 8px;
+    border-radius: 7px; flex-shrink: 0; font-weight: 600; }
 </style>
 </head>
 <body>
+
+<nav class="bh-topnav" aria-label="BannerHub site">
+  <a class="bh-brand" href="https://the412banner.github.io/bannerhub-site/"><span class="bh-logo">B</span> BannerHub</a>
+  <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/">Home</a>
+  <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/why.html">Why</a>
+  <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/compare.html">Compare</a>
+  <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/lite.html">BannerHub Lite</a>
+  <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/bannerhub.html">BannerHub</a>
+  <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/v6.html">BannerHub v6</a>
+  <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/v6-privacy.html">Privacy</a>
+  <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/apis.html">APIs</a>
+  <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/configs.html">Configs</a>
+  <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/faq.html">FAQ</a>
+  <a class="bh-link" href="https://the412banner.github.io/bannerhub-site/credits.html">Credits</a>
+  <span class="bh-here">Config Library</span>
+</nav>
 
 <header>
   <div class="header-top">
