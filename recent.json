@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780759851,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03L-Mali-G57-1780759851.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "itel_A665L",
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1780757903,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780724297,
     "filename": "Celeste-samsung-SM-S911B-Adreno__TM__740-1780724297.json"
-  },
-  {
-    "game": "Kyoko",
-    "manufacturer": "Mali",
-    "device": "G72",
-    "timestamp": 1780723158,
-    "filename": "Kyoko-samsung-SM-M315F-Mali-G72-1780723158.json"
   }
 ]
