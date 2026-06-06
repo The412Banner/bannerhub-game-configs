@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780787142,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1780787142.json"
+  },
+  {
     "game": "Resident_Evil_Revelations",
     "manufacturer": "_2024",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1780771905,
     "filename": "Rise_of_the_Tomb_Raider_-Nothing-A059-Adreno__TM__810-1780771905.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider_",
-    "manufacturer": "A059",
-    "device": "Adreno__TM__810",
-    "timestamp": 1780771890,
-    "filename": "Rise_of_the_Tomb_Raider_-Nothing-A059-Adreno__TM__810-1780771890.json"
   }
 ]
