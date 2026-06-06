@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780728040,
+    "filename": "Cuphead-samsung-SM-A366E-Adreno__TM__710-1780728040.json"
+  },
+  {
     "game": "xenia",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1780713542,
     "filename": "Hades-Xiaomi-Redmi_K20_Pro-Adreno__TM__640-1780713542.json"
-  },
-  {
-    "game": "Dishonored",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780711728,
-    "filename": "Dishonored-samsung-SM-G780G-Adreno__TM__650-1780711728.json"
   }
 ]
