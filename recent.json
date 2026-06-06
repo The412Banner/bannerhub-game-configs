@@ -1,5 +1,12 @@
 [
   {
+    "game": "BLEACH-RoS-SteamRIP_com",
+    "manufacturer": "motorola_edge_20",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1780764255,
+    "filename": "BLEACH-RoS-SteamRIP_com-motorola-motorola_edge_20-Adreno__TM__642L-1780764255.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780745157,
     "filename": "play_grand_Theft_Auto_v-HONOR-NIC-LX2-Mali-G52_MC2-1780745157.json"
-  },
-  {
-    "game": "LEGO__Batman__2__DC_Super_Heroes",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780744775,
-    "filename": "LEGO__Batman__2__DC_Super_Heroes-ayn-Odin3-Adreno__TM__830-1780744775.json"
   }
 ]
