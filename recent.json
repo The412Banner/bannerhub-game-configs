@@ -1,5 +1,12 @@
 [
   {
+    "game": "Black_Myth__Wukong",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780716132,
+    "filename": "Black_Myth__Wukong-motorola-moto_e13-Mali-G57-1780716132.json"
+  },
+  {
     "game": "SniperEliteV2",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780701244,
     "filename": "PRAGMATA-LENOVO-TB322FC-Adreno__TM__830-1780701244.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1780701099,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-M2003J15SC-Mali-G52-1780701099.json"
   }
 ]
