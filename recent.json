@@ -1,5 +1,12 @@
 [
   {
+    "game": "_Transformers_the_game",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780721758,
+    "filename": "_Transformers_the_game-Xiaomi-24075RP89G-Mali-G52_MC2-1780721758.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780711062,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1780711062.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "2201117TL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1780714362,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-Xiaomi-2201117TL-Adreno__TM__610-1780714362.json"
   }
 ]
