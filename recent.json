@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw3mp",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780782698,
+    "filename": "iw3mp-INFINIX-Infinix_X6856-Mali-G615_MC6-1780782698.json"
+  },
+  {
     "game": "Call_of_Duty__World_at_War",
     "manufacturer": "MEIZU_21",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1780767658,
     "filename": "2K_Sports_NBA_2K14-nubia-NX809J-Adreno__TM__840-1780767658.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780766155,
-    "filename": "God_of_War-Xiaomi-23113RKC6G-Adreno__TM__740-1780766155.json"
   }
 ]
