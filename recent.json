@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "A059",
+    "device": "Adreno__TM__810",
+    "timestamp": 1780771890,
+    "filename": "Rise_of_the_Tomb_Raider_-Nothing-A059-Adreno__TM__810-1780771890.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780761022,
     "filename": "Farming_Simulator_19-Xiaomi-23106RN0DA-Mali-G52_MC2-1780761022.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780760436,
-    "filename": "Grand_Theft_Auto_V-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780760436.json"
   }
 ]
