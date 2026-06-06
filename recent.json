@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780766155,
+    "filename": "God_of_War-Xiaomi-23113RKC6G-Adreno__TM__740-1780766155.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1780757303,
     "filename": "Planescape_Torment_Enhanced_Edition-motorola-moto_g84_5G-Adreno__TM__619-1780757303.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780756192,
-    "filename": "Resident_Evil_Revelations_2-Xiaomi-2412DPC0AI-Mali-G720_MC7-1780756192.json"
   }
 ]
