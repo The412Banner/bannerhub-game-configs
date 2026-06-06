@@ -1,5 +1,12 @@
 [
   {
+    "game": "Train_Manager",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1780705915,
+    "filename": "Train_Manager-Xiaomi-21061119AG-Mali-G52-1780705915.json"
+  },
+  {
     "game": "OCTOPATH_TRAVELER_",
     "manufacturer": "I2508",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780692159,
     "filename": "pes_2013_bom_que_so_-samsung-SM-A155M-Mali-G57_MC2-1780692159.json"
-  },
-  {
-    "game": "Resident_Evil_4___Biohazard_4",
-    "manufacturer": "CPH2449",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780690589,
-    "filename": "Resident_Evil_4___Biohazard_4-OnePlus-CPH2449-Adreno__TM__740-1780690589.json"
   }
 ]
