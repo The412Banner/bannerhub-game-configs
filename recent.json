@@ -1,5 +1,12 @@
 [
   {
+    "game": "2K_Sports_NBA_2K14",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1780767658,
+    "filename": "2K_Sports_NBA_2K14-nubia-NX809J-Adreno__TM__840-1780767658.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1780757903,
     "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A665L-PowerVR_Rogue_GE8322-1780757903.json"
-  },
-  {
-    "game": "Planescape_Torment_Enhanced_Edition",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1780757303,
-    "filename": "Planescape_Torment_Enhanced_Edition-motorola-moto_g84_5G-Adreno__TM__619-1780757303.json"
   }
 ]
