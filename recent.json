@@ -1,5 +1,12 @@
 [
   {
+    "game": "It_Takes_Two",
+    "manufacturer": "S936B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780753971,
+    "filename": "It_Takes_Two-samsung-SM-S936B-Adreno__TM__830-1780753971.json"
+  },
+  {
     "game": "sister",
     "manufacturer": "24069RA21C",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780719447,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1780719447.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780719389,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1780719389.json"
   }
 ]
