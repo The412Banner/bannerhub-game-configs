@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780790045,
+    "filename": "Sleeping_Dogs-Xiaomi-M2012K11AG-Adreno__TM__650-1780790045.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1780778677,
     "filename": "PlayGTAV-INFINIX-Infinix_X6873-Mali-G615_MC6-1780778677.json"
-  },
-  {
-    "game": "ELDEN_RING",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780778040,
-    "filename": "ELDEN_RING-ayn-Odin3-Adreno__TM__830-1780778040.json"
   }
 ]
