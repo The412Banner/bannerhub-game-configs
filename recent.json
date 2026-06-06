@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades",
+    "manufacturer": "Redmi_K20_Pro",
+    "device": "Adreno__TM__640",
+    "timestamp": 1780713542,
+    "filename": "Hades-Xiaomi-Redmi_K20_Pro-Adreno__TM__640-1780713542.json"
+  },
+  {
     "game": "Dishonored",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780697069,
     "filename": "Pro_Evolution_Soccer_2017-nubia-NP05J-Adreno__TM__830-1780697069.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780697066,
-    "filename": "Pro_Evolution_Soccer_2017-nubia-NP05J-Adreno__TM__830-1780697066.json"
   }
 ]
