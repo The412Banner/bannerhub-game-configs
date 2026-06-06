@@ -1,5 +1,12 @@
 [
   {
+    "game": "SniperEliteV2",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780716114,
+    "filename": "SniperEliteV2-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780716114.json"
+  },
+  {
     "game": "DARK_SOULS__II",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1780701099,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-M2003J15SC-Mali-G52-1780701099.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S731B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1780700533,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1780700533.json"
   }
 ]
