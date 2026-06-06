@@ -1,5 +1,12 @@
 [
   {
+    "game": "Celeste",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780724297,
+    "filename": "Celeste-samsung-SM-S911B-Adreno__TM__740-1780724297.json"
+  },
+  {
     "game": "Kyoko",
     "manufacturer": "Mali",
     "device": "G72",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1780711544,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M526B-Adreno__TM__642L-1780711544.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780711071,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1780711071.json"
   }
 ]
