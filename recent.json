@@ -1,5 +1,12 @@
 [
   {
+    "game": "sister",
+    "manufacturer": "24069RA21C",
+    "device": "Adreno__TM__735",
+    "timestamp": 1780751628,
+    "filename": "sister-Xiaomi-24069RA21C-Adreno__TM__735-1780751628.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780719389,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1780719389.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780719336,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1780719336.json"
   }
 ]
