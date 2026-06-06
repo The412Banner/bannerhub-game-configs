@@ -1,5 +1,12 @@
 [
   {
+    "game": "OCTOPATH_TRAVELER_",
+    "manufacturer": "I2508",
+    "device": "Adreno__TM__829",
+    "timestamp": 1780705829,
+    "filename": "OCTOPATH_TRAVELER_-vivo-I2508-Adreno__TM__829-1780705829.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780690589,
     "filename": "Resident_Evil_4___Biohazard_4-OnePlus-CPH2449-Adreno__TM__740-1780690589.json"
-  },
-  {
-    "game": "Assetto_Corsa_Competizione",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780690263,
-    "filename": "Assetto_Corsa_Competizione-LENOVO-TB322FC-Adreno__TM__830-1780690263.json"
   }
 ]
