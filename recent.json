@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780705495,
+    "filename": "Left_4_Dead_2-TECNO-TECNO_KJ5-Mali-G52_MC2-1780705495.json"
+  },
+  {
     "game": "MTA_San_Andreas",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780690263,
     "filename": "Assetto_Corsa_Competizione-LENOVO-TB322FC-Adreno__TM__830-1780690263.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "N976V",
-    "device": "Adreno__TM__640",
-    "timestamp": 1780689228,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-N976V-Adreno__TM__640-1780689228.json"
   }
 ]
