@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1780788820,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A266M-Mali-G68-1780788820.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1780787390,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1780787390.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780774689,
     "filename": "Need_for_Speed__Payback-Xiaomi-25053PC47G-Adreno__TM__825-1780774689.json"
-  },
-  {
-    "game": "Dying_Light_2_Stay_Human__Reloaded_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780773748,
-    "filename": "Dying_Light_2_Stay_Human__Reloaded_Edition-realme-RMX2193-Mali-G52_MC2-1780773748.json"
   }
 ]
