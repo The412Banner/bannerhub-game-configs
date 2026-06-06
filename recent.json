@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1780749495,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2003J15SC-Mali-G52-1780749495.json"
+  },
+  {
     "game": "play_grand_Theft_Auto_v",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780719336,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1780719336.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780718617,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1780718617.json"
   }
 ]
