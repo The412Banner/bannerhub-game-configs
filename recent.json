@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman___Arkham_Origins",
+    "manufacturer": "MEIZU_21",
+    "device": "Adreno__TM__750",
+    "timestamp": 1780780376,
+    "filename": "Batman___Arkham_Origins-meizu-MEIZU_21-Adreno__TM__750-1780780376.json"
+  },
+  {
     "game": "Fallout_3",
     "manufacturer": "MEIZU_21",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780764909,
     "filename": "Pro_Evolution_Soccer_2017-nubia-NP05J-Adreno__TM__830-1780764909.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780764831,
-    "filename": "Pro_Evolution_Soccer_2017-nubia-NP05J-Adreno__TM__830-1780764831.json"
   }
 ]
