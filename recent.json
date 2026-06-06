@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780783842,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-AYN-Odin2_Portal-Adreno__TM__740-1780783842.json"
+  },
+  {
     "game": "iw3mp",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1780768690,
     "filename": "OCTOPATH_TRAVELER_II-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1780768690.json"
-  },
-  {
-    "game": "2K_Sports_NBA_2K14",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1780767658,
-    "filename": "2K_Sports_NBA_2K14-nubia-NX809J-Adreno__TM__840-1780767658.json"
   }
 ]
