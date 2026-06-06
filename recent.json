@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRAGMATA_Deluxe_Edition_____________________________________",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780734274,
+    "filename": "PRAGMATA_Deluxe_Edition_____________________________________-Xiaomi-2311DRK48G-Mali-G615_MC6-1780734274.json"
+  },
+  {
     "game": "Prototype___________________________________________________",
     "manufacturer": "CPH2731",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1780716114,
     "filename": "SniperEliteV2-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780716114.json"
-  },
-  {
-    "game": "DARK_SOULS__II",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780715814,
-    "filename": "DARK_SOULS__II-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780715814.json"
   }
 ]
