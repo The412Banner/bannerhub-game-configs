@@ -1,5 +1,12 @@
 [
   {
+    "game": "OCTOPATH_TRAVELER_II",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1780768690,
+    "filename": "OCTOPATH_TRAVELER_II-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1780768690.json"
+  },
+  {
     "game": "2K_Sports_NBA_2K14",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780759851,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03L-Mali-G57-1780759851.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "itel_A665L",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1780757903,
-    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A665L-PowerVR_Rogue_GE8322-1780757903.json"
   }
 ]
