@@ -1,5 +1,12 @@
 [
   {
+    "game": "MTA_San_Andreas",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780704446,
+    "filename": "MTA_San_Andreas-motorola-moto_g14-Mali-G57-1780704446.json"
+  },
+  {
     "game": "LEGO__Batman__2__DC_Super_Heroes",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1780689228,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-N976V-Adreno__TM__640-1780689228.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780687936,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1780687936.json"
   }
 ]
