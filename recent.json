@@ -1,5 +1,12 @@
 [
   {
+    "game": "Injustice__2",
+    "manufacturer": "23127PN0CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1780716711,
+    "filename": "Injustice__2-Xiaomi-23127PN0CG-Adreno__TM__750-1780716711.json"
+  },
+  {
     "game": "Black_Myth__Wukong",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780702230,
     "filename": "Postal2-TECNO-TECNO_KJ5n-Mali-G52_MC2-1780702230.json"
-  },
-  {
-    "game": "PRAGMATA",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780701244,
-    "filename": "PRAGMATA-LENOVO-TB322FC-Adreno__TM__830-1780701244.json"
   }
 ]
