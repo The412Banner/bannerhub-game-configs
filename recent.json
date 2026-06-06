@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780778677,
+    "filename": "PlayGTAV-INFINIX-Infinix_X6873-Mali-G615_MC6-1780778677.json"
+  },
+  {
     "game": "ELDEN_RING",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780764563,
     "filename": "Pro_Evolution_Soccer_2017-nubia-NP05J-Adreno__TM__830-1780764563.json"
-  },
-  {
-    "game": "BLEACH-RoS-SteamRIP_com",
-    "manufacturer": "motorola_edge_20",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1780764255,
-    "filename": "BLEACH-RoS-SteamRIP_com-motorola-motorola_edge_20-Adreno__TM__642L-1780764255.json"
   }
 ]
