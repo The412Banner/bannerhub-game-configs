@@ -1,5 +1,12 @@
 [
   {
+    "game": "ELDEN_RING",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780778040,
+    "filename": "ELDEN_RING-ayn-Odin3-Adreno__TM__830-1780778040.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1780764255,
     "filename": "BLEACH-RoS-SteamRIP_com-motorola-motorola_edge_20-Adreno__TM__642L-1780764255.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1780763668,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_60_pro-Mali-G615_MC6-1780763668.json"
   }
 ]
