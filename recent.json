@@ -1,5 +1,12 @@
 [
   {
+    "game": "mysummercar",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780734460,
+    "filename": "mysummercar-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780734460.json"
+  },
+  {
     "game": "PRAGMATA_Deluxe_Edition_____________________________________",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780716132,
     "filename": "Black_Myth__Wukong-motorola-moto_e13-Mali-G57-1780716132.json"
-  },
-  {
-    "game": "SniperEliteV2",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780716114,
-    "filename": "SniperEliteV2-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780716114.json"
   }
 ]
