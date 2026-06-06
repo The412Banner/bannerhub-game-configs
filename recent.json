@@ -1,5 +1,12 @@
 [
   {
+    "game": "Planescape_Torment_Enhanced_Edition",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1780757303,
+    "filename": "Planescape_Torment_Enhanced_Edition-motorola-moto_g84_5G-Adreno__TM__619-1780757303.json"
+  },
+  {
     "game": "Resident_Evil_Revelations_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780721758,
     "filename": "_Transformers_the_game-Xiaomi-24075RP89G-Mali-G52_MC2-1780721758.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780719571,
-    "filename": "Sleeping_Dogs-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780719571.json"
   }
 ]
