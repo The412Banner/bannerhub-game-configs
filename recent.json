@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "itel_A665L",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1780757903,
+    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A665L-PowerVR_Rogue_GE8322-1780757903.json"
+  },
+  {
     "game": "Planescape_Torment_Enhanced_Edition",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1780723158,
     "filename": "Kyoko-samsung-SM-M315F-Mali-G72-1780723158.json"
-  },
-  {
-    "game": "_Transformers_the_game",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780721758,
-    "filename": "_Transformers_the_game-Xiaomi-24075RP89G-Mali-G52_MC2-1780721758.json"
   }
 ]
