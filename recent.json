@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780717853,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1780717853.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1780716877,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1780716877.json"
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780704446,
     "filename": "MTA_San_Andreas-motorola-moto_g14-Mali-G57-1780704446.json"
-  },
-  {
-    "game": "LEGO__Batman__2__DC_Super_Heroes",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780703330,
-    "filename": "LEGO__Batman__2__DC_Super_Heroes-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780703330.json"
   }
 ]
