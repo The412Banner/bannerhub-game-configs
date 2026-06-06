@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__II",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780715814,
+    "filename": "DARK_SOULS__II-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780715814.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M526B",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1780700533,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1780700533.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780699643,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2312FPCA6G-Mali-G57_MC2-1780699643.json"
   }
 ]
