@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "M526B",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1780715505,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M526B-Adreno__TM__642L-1780715505.json"
+  },
+  {
     "game": "Hades",
     "manufacturer": "Redmi_K20_Pro",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780699643,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2312FPCA6G-Mali-G57_MC2-1780699643.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780697069,
-    "filename": "Pro_Evolution_Soccer_2017-nubia-NP05J-Adreno__TM__830-1780697069.json"
   }
 ]
