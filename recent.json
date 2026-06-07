@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_2",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780868471,
+    "filename": "Just_Cause_2-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780868471.json"
+  },
+  {
     "game": "Assassin_s_Creed___Director_s_Cut_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1780856779,
     "filename": "The_Surge___________________________________________________-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780856779.json"
-  },
-  {
-    "game": "State_of_Decay",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780856771,
-    "filename": "State_of_Decay-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780856771.json"
   }
 ]
