@@ -1,5 +1,12 @@
 [
   {
+    "game": "GOG_GALAXY__________________________________________________",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780858173,
+    "filename": "GOG_GALAXY__________________________________________________-nubia-NX789J-Adreno__TM__830-1780858173.json"
+  },
+  {
     "game": "Steam",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1780844119,
     "filename": "PlayGTAV-INFINIX-Infinix_X6873-Mali-G615_MC6-1780844119.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780843380,
-    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_KJ6-Mali-G57_MC2-1780843380.json"
   }
 ]
