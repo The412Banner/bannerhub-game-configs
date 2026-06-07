@@ -3,6 +3,13 @@
     "game": "Ben10",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1780803429,
+    "filename": "Ben10-INFINIX-Infinix_X6720B-Mali-G57_MC2-1780803429.json"
+  },
+  {
+    "game": "Ben10",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1780803376,
     "filename": "Ben10-INFINIX-Infinix_X6720B-Mali-G57_MC2-1780803376.json"
   },
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1780788820,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A266M-Mali-G68-1780788820.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780787390,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1780787390.json"
   }
 ]
