@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1780870517,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A127M-Mali-G52-1780870517.json"
+  },
+  {
     "game": "Project_Castaway",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780858622,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1780858622.json"
-  },
-  {
-    "game": "GOG_GALAXY__________________________________________________",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780858173,
-    "filename": "GOG_GALAXY__________________________________________________-nubia-NX789J-Adreno__TM__830-1780858173.json"
   }
 ]
