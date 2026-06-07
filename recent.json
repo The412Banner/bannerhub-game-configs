@@ -1,5 +1,12 @@
 [
   {
+    "game": "Disgaea_5_Complete",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1780840266,
+    "filename": "Disgaea_5_Complete-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1780840266.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__829",
     "timestamp": 1780832974,
     "filename": "LEGO__________________________________-OnePlus-PLR110-Adreno__TM__829-1780832974.json"
-  },
-  {
-    "game": "POLYARIS_Demo",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780830762,
-    "filename": "POLYARIS_Demo-Xiaomi-23106RN0DA-Mali-G52_MC2-1780830762.json"
   }
 ]
