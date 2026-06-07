@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "PKG110",
+    "device": "Adreno__TM__750",
+    "timestamp": 1780852341,
+    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-PKG110-Adreno__TM__750-1780852341.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780839813,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-25053PC47G-Adreno__TM__825-1780839813.json"
-  },
-  {
-    "game": "Disgaea_5_Complete",
-    "manufacturer": "A556E",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1780839573,
-    "filename": "Disgaea_5_Complete-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1780839573.json"
   }
 ]
