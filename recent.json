@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Sims__4",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780833762,
+    "filename": "The_Sims__4-motorola-moto_e32-Mali-G57-1780833762.json"
+  },
+  {
     "game": "LEGO__________________________________",
     "manufacturer": "PLR110",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1780810064,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6873-Mali-G615_MC6-1780810064.json"
-  },
-  {
-    "game": "LumenTale_Memories_of_Trey",
-    "manufacturer": "Razer_Edge_5G",
-    "device": "Adreno__TM__660",
-    "timestamp": 1780809666,
-    "filename": "LumenTale_Memories_of_Trey-Razer-Razer_Edge_5G-Adreno__TM__660-1780809666.json"
   }
 ]
