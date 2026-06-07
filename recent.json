@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lethal_Company",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780851495,
+    "filename": "Lethal_Company-Xiaomi-24049RN28L-Mali-G52_MC2-1780851495.json"
+  },
+  {
     "game": "Nine_Sols",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780838933,
     "filename": "Castlevania__Lords_of_Shadow___Ultimate_Edition-AYN-Odin2_Portal-Adreno__TM__740-1780838933.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780838782,
-    "filename": "Resident_Evil_4-Xiaomi-23053RN02A-Mali-G52_MC2-1780838782.json"
   }
 ]
