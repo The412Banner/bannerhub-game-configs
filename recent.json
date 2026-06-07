@@ -3,6 +3,13 @@
     "game": "activation",
     "manufacturer": "Mali",
     "device": "G615_MC6",
+    "timestamp": 1780866623,
+    "filename": "activation-TECNO-TECNO_LJ9-Mali-G615_MC6-1780866623.json"
+  },
+  {
+    "game": "activation",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
     "timestamp": 1780866619,
     "filename": "activation-TECNO-TECNO_LJ9-Mali-G615_MC6-1780866619.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780851148,
     "filename": "Nine_Sols-Xiaomi-25040RP0AE-Mali-G57_MC2-1780851148.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780850807,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1780850807.json"
   }
 ]
