@@ -1,5 +1,12 @@
 [
   {
+    "game": "State_of_Decay",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780856771,
+    "filename": "State_of_Decay-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780856771.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Redmi_Note_9S",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1780841404,
     "filename": "Tomb_Raider-INFINIX-Infinix_X6871-Mali-G610_MC6-1780841404.json"
-  },
-  {
-    "game": "Disgaea_5_Complete",
-    "manufacturer": "A556E",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1780840315,
-    "filename": "Disgaea_5_Complete-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1780840315.json"
   }
 ]
