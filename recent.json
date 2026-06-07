@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_2013_LEND_RIO_",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1780793214,
+    "filename": "PES_2013_LEND_RIO_-samsung-SM-M536B-Mali-G68_MC4-1780793214.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1780778753,
     "filename": "PlayGTAV-INFINIX-Infinix_X6873-Mali-G615_MC6-1780778753.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1780778677,
-    "filename": "PlayGTAV-INFINIX-Infinix_X6873-Mali-G615_MC6-1780778677.json"
   }
 ]
