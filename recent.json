@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stray",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1780874070,
+    "filename": "Stray-Xiaomi-23049PCD8G-Adreno__TM__725-1780874070.json"
+  },
+  {
     "game": "Hades",
     "manufacturer": "Redmi_K20_Pro",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780862228,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03L-Mali-G57-1780862228.json"
-  },
-  {
-    "game": "mysummercar",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1780861595,
-    "filename": "mysummercar-Xiaomi-24069PC21G-Adreno__TM__735-1780861595.json"
   }
 ]
