@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__II",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780816830,
+    "filename": "DARK_SOULS__II-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780816830.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "S948N",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780803376,
     "filename": "Ben10-INFINIX-Infinix_X6720B-Mali-G57_MC2-1780803376.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780802417,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078PC3EG-Mali-G52_MC2-1780802417.json"
   }
 ]
