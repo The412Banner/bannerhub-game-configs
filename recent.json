@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "S948N",
+    "device": "Adreno__TM__840",
+    "timestamp": 1780812458,
+    "filename": "Tomb_Raider-samsung-SM-S948N-Adreno__TM__840-1780812458.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780799804,
     "filename": "____2016-TECNO-TECNO_KJ5n-Mali-G52_MC2-1780799804.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780799473,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03L-Mali-G57-1780799473.json"
   }
 ]
