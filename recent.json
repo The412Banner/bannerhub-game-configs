@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780858622,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1780858622.json"
+  },
+  {
     "game": "GOG_GALAXY__________________________________________________",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780845873,
     "filename": "Cyberpunk_2077-AYN-AYN_Thor-Adreno__TM__740-1780845873.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1780844119,
-    "filename": "PlayGTAV-INFINIX-Infinix_X6873-Mali-G615_MC6-1780844119.json"
   }
 ]
