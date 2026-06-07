@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780799285,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EA-Mali-G52_MC2-1780799285.json"
+  },
+  {
     "game": "Pes_13",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1780785057,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M315F-Mali-G72-1780785057.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780783842,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-AYN-Odin2_Portal-Adreno__TM__740-1780783842.json"
   }
 ]
