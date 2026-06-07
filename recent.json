@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780844119,
+    "filename": "PlayGTAV-INFINIX-Infinix_X6873-Mali-G615_MC6-1780844119.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780834174,
     "filename": "Red_Dead_Redemption_2-nubia-NX789J-Adreno__TM__830-1780834174.json"
-  },
-  {
-    "game": "Castle_Crashers_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780833892,
-    "filename": "Castle_Crashers_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780833892.json"
   }
 ]
