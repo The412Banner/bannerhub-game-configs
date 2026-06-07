@@ -1,5 +1,12 @@
 [
   {
+    "game": "____2016",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780799804,
+    "filename": "____2016-TECNO-TECNO_KJ5n-Mali-G52_MC2-1780799804.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780787142,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1780787142.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations",
-    "manufacturer": "_2024",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780787033,
-    "filename": "Resident_Evil_Revelations-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1780787033.json"
   }
 ]
