@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_7",
+    "manufacturer": "25099RP13G",
+    "device": "Adreno__TM__810",
+    "timestamp": 1780808488,
+    "filename": "TEKKEN_7-Xiaomi-25099RP13G-Adreno__TM__810-1780808488.json"
+  },
+  {
     "game": "Max_Payne_3",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780798570,
     "filename": "Fallout_3-INFINIX-Infinix_X6880-Mali-G57_MC2-1780798570.json"
-  },
-  {
-    "game": "unins000",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1780797632,
-    "filename": "unins000-Xiaomi-2207117BPG-Mali-G76-1780797632.json"
   }
 ]
