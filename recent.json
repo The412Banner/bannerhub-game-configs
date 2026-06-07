@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780822516,
+    "filename": "Sleeping_Dogs-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780822516.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1780806254,
     "filename": "game_-OPPO-CPH2659-Mali-G925-Immortalis_MC12-1780806254.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780806147,
-    "filename": "Grand_Theft_Auto_IV-INFINIX-Infinix_X6711-Mali-G57_MC2-1780806147.json"
   }
 ]
