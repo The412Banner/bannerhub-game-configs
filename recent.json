@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades",
+    "manufacturer": "Redmi_K20_Pro",
+    "device": "Adreno__TM__640",
+    "timestamp": 1780871860,
+    "filename": "Hades-Xiaomi-Redmi_K20_Pro-Adreno__TM__640-1780871860.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1780861595,
     "filename": "mysummercar-Xiaomi-24069PC21G-Adreno__TM__735-1780861595.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780858622,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1780858622.json"
   }
 ]
