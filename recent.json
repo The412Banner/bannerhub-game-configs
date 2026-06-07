@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780808593,
+    "filename": "Grand_Theft_Auto_IV-INFINIX-Infinix_X6711-Mali-G57_MC2-1780808593.json"
+  },
+  {
     "game": "TEKKEN_7",
     "manufacturer": "25099RP13G",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780799122,
     "filename": "Dead_Space__2008_-Xiaomi-25053PC47G-Adreno__TM__825-1780799122.json"
-  },
-  {
-    "game": "Fallout_3",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780798570,
-    "filename": "Fallout_3-INFINIX-Infinix_X6880-Mali-G57_MC2-1780798570.json"
   }
 ]
