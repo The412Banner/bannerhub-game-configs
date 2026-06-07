@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1780841404,
+    "filename": "Tomb_Raider-INFINIX-Infinix_X6871-Mali-G610_MC6-1780841404.json"
+  },
+  {
     "game": "Disgaea_5_Complete",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780833767,
     "filename": "The_Sims__4-motorola-moto_e32-Mali-G57-1780833767.json"
-  },
-  {
-    "game": "The_Sims__4",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780833762,
-    "filename": "The_Sims__4-motorola-moto_e32-Mali-G57-1780833762.json"
   }
 ]
