@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780797054,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078PC3EG-Mali-G52_MC2-1780797054.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780780388,
     "filename": "DiRT_Rally-meizu-MEIZU_21-Adreno__TM__750-1780780388.json"
-  },
-  {
-    "game": "Batman___Arkham_Origins",
-    "manufacturer": "MEIZU_21",
-    "device": "Adreno__TM__750",
-    "timestamp": 1780780376,
-    "filename": "Batman___Arkham_Origins-meizu-MEIZU_21-Adreno__TM__750-1780780376.json"
   }
 ]
