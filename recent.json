@@ -1,5 +1,12 @@
 [
   {
+    "game": "POLYARIS_Demo",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780830762,
+    "filename": "POLYARIS_Demo-Xiaomi-23106RN0DA-Mali-G52_MC2-1780830762.json"
+  },
+  {
     "game": "DP",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780808916,
     "filename": "Pro_Evolution_Soccer_2013-HONOR-ELA-LX3-Mali-G52_MC2-1780808916.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780808797,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-INFINIX-Infinix_X6711-Mali-G57_MC2-1780808797.json"
   }
 ]
