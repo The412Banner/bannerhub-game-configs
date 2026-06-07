@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fallout_3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780798570,
+    "filename": "Fallout_3-INFINIX-Infinix_X6880-Mali-G57_MC2-1780798570.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780782305,
     "filename": "Call_of_Duty__World_at_War-meizu-MEIZU_21-Adreno__TM__750-1780782305.json"
-  },
-  {
-    "game": "Military_Tanks",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1780781878,
-    "filename": "Military_Tanks-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1780781878.json"
   }
 ]
