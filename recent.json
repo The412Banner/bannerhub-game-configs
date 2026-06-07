@@ -1,5 +1,12 @@
 [
   {
+    "game": "Minecraft",
+    "manufacturer": "23028RA60L",
+    "device": "Adreno__TM__610",
+    "timestamp": 1780862729,
+    "filename": "Minecraft-Xiaomi-23028RA60L-Adreno__TM__610-1780862729.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780849525,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03L-Mali-G57-1780849525.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780848864,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03L-Mali-G57-1780848864.json"
   }
 ]
