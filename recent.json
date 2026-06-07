@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__________________________________",
+    "manufacturer": "PLR110",
+    "device": "Adreno__TM__829",
+    "timestamp": 1780832974,
+    "filename": "LEGO__________________________________-OnePlus-PLR110-Adreno__TM__829-1780832974.json"
+  },
+  {
     "game": "POLYARIS_Demo",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1780809666,
     "filename": "LumenTale_Memories_of_Trey-Razer-Razer_Edge_5G-Adreno__TM__660-1780809666.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780808916,
-    "filename": "Pro_Evolution_Soccer_2013-HONOR-ELA-LX3-Mali-G52_MC2-1780808916.json"
   }
 ]
