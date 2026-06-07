@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball__PES_2020",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780807090,
+    "filename": "eFootball__PES_2020-INFINIX-Infinix_X6873-Mali-G615_MC6-1780807090.json"
+  },
+  {
     "game": "game_",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780797054,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078PC3EG-Mali-G52_MC2-1780797054.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780796706,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25053PC47G-Adreno__TM__825-1780796706.json"
   }
 ]
