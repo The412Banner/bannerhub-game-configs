@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780866144,
+    "filename": "Sleeping_Dogs-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780866144.json"
+  },
+  {
     "game": "Mad_Max",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1780850580,
     "filename": "God_of_War-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1780850580.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1780849681,
-    "filename": "God_of_War-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1780849681.json"
   }
 ]
