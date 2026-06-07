@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1780822633,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1780822633.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1780807090,
     "filename": "eFootball__PES_2020-INFINIX-Infinix_X6873-Mali-G615_MC6-1780807090.json"
-  },
-  {
-    "game": "game_",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1780806254,
-    "filename": "game_-OPPO-CPH2659-Mali-G925-Immortalis_MC12-1780806254.json"
   }
 ]
