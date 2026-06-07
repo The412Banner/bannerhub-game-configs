@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1780867049,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Nothing-A001-Mali-G615_MC2-1780867049.json"
+  },
+  {
     "game": "Naruto_-_Ultimate_Ninja_Storm__Europe___En_Fr_De_Es_It_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780852341,
     "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-PKG110-Adreno__TM__750-1780852341.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1780851778,
-    "filename": "God_of_War-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1780851778.json"
   }
 ]
