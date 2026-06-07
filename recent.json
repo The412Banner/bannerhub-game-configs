@@ -1,5 +1,12 @@
 [
   {
+    "game": "Naruto_-_Ultimate_Ninja_Storm__Europe___En_Fr_De_Es_It_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780866922,
+    "filename": "Naruto_-_Ultimate_Ninja_Storm__Europe___En_Fr_De_Es_It_-samsung-SM-A075M-Mali-G57_MC2-1780866922.json"
+  },
+  {
     "game": "activation",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1780851778,
     "filename": "God_of_War-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1780851778.json"
-  },
-  {
-    "game": "Lethal_Company",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1780851495,
-    "filename": "Lethal_Company-Xiaomi-24049RN28L-Mali-G52_MC2-1780851495.json"
   }
 ]
