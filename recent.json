@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "I2405",
+    "device": "Adreno__TM__825",
+    "timestamp": 1780825616,
+    "filename": "Mortal_Kombat_X-vivo-I2405-Adreno__TM__825-1780825616.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780807199,
     "filename": "Max_Payne_3-Xiaomi-25053PC47G-Adreno__TM__825-1780807199.json"
-  },
-  {
-    "game": "eFootball__PES_2020",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1780807090,
-    "filename": "eFootball__PES_2020-INFINIX-Infinix_X6873-Mali-G615_MC6-1780807090.json"
   }
 ]
