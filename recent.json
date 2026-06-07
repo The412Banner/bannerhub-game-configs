@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1780834222,
+    "filename": "TheAmazingSpider-Man-samsung-SM-A346E-Mali-G68_MC4-1780834222.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1780816840,
     "filename": "Sleeping_Dogs-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780816840.json"
-  },
-  {
-    "game": "DARK_SOULS__II",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780816830,
-    "filename": "DARK_SOULS__II-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780816830.json"
   }
 ]
