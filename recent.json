@@ -1,5 +1,12 @@
 [
   {
+    "game": "RESIDENT_EVIL_6",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1780868671,
+    "filename": "RESIDENT_EVIL_6-Xiaomi-M2003J15SC-Mali-G52-1780868671.json"
+  },
+  {
     "game": "Just_Cause_2",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780858157,
     "filename": "Steam-nubia-NX789J-Adreno__TM__830-1780858157.json"
-  },
-  {
-    "game": "The_Surge___________________________________________________",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780856779,
-    "filename": "The_Surge___________________________________________________-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780856779.json"
   }
 ]
