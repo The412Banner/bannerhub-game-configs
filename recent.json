@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castlevania__Lords_of_Shadow___Ultimate_Edition",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780838933,
+    "filename": "Castlevania__Lords_of_Shadow___Ultimate_Edition-AYN-Odin2_Portal-Adreno__TM__740-1780838933.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1780825935,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RK2CG-Adreno__TM__750-1780825935.json"
-  },
-  {
-    "game": "Mortal_Kombat_X",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780825616,
-    "filename": "Mortal_Kombat_X-vivo-I2405-Adreno__TM__825-1780825616.json"
   }
 ]
