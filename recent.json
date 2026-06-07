@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cyberpunk_2077",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780845873,
+    "filename": "Cyberpunk_2077-AYN-AYN_Thor-Adreno__TM__740-1780845873.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1780834222,
     "filename": "TheAmazingSpider-Man-samsung-SM-A346E-Mali-G68_MC4-1780834222.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780834174,
-    "filename": "Red_Dead_Redemption_2-nubia-NX789J-Adreno__TM__830-1780834174.json"
   }
 ]
