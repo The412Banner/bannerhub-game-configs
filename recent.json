@@ -3,6 +3,13 @@
     "game": "TheAmazingSpider-Man",
     "manufacturer": "Mali",
     "device": "G68_MC4",
+    "timestamp": 1780834967,
+    "filename": "TheAmazingSpider-Man-samsung-SM-A346E-Mali-G68_MC4-1780834967.json"
+  },
+  {
+    "game": "TheAmazingSpider-Man",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
     "timestamp": 1780834222,
     "filename": "TheAmazingSpider-Man-samsung-SM-A346E-Mali-G68_MC4-1780834222.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1780816849,
     "filename": "LEGO__Batman__2__DC_Super_Heroes-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780816849.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780816840,
-    "filename": "Sleeping_Dogs-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780816840.json"
   }
 ]
