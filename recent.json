@@ -1,5 +1,12 @@
 [
   {
+    "game": "Black_Myth__Wukong",
+    "manufacturer": "Mali",
+    "device": "G51",
+    "timestamp": 1780836027,
+    "filename": "Black_Myth__Wukong-HUAWEI-ART-L29-Mali-G51-1780836027.json"
+  },
+  {
     "game": "TheAmazingSpider-Man",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1780819036,
     "filename": "Sleeping_Dogs-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780819036.json"
-  },
-  {
-    "game": "LEGO__Batman__2__DC_Super_Heroes",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780816849,
-    "filename": "LEGO__Batman__2__DC_Super_Heroes-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780816849.json"
   }
 ]
