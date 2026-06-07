@@ -1,5 +1,12 @@
 [
   {
+    "game": "mysummercar",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1780861595,
+    "filename": "mysummercar-Xiaomi-24069PC21G-Adreno__TM__735-1780861595.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780848334,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03L-Mali-G57-1780848334.json"
-  },
-  {
-    "game": "Cyberpunk_2077",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780845873,
-    "filename": "Cyberpunk_2077-AYN-AYN_Thor-Adreno__TM__740-1780845873.json"
   }
 ]
