@@ -1,5 +1,12 @@
 [
   {
+    "game": "activation",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1780866619,
+    "filename": "activation-TECNO-TECNO_LJ9-Mali-G615_MC6-1780866619.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780850807,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1780850807.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1780850580,
-    "filename": "God_of_War-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1780850580.json"
   }
 ]
