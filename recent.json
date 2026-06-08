@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mad_Max",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780882323,
+    "filename": "Mad_Max-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780882323.json"
+  },
+  {
     "game": "Assassin_s_Creed__Revelations",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1780867049,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Nothing-A001-Mali-G615_MC2-1780867049.json"
-  },
-  {
-    "game": "Naruto_-_Ultimate_Ninja_Storm__Europe___En_Fr_De_Es_It_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780866922,
-    "filename": "Naruto_-_Ultimate_Ninja_Storm__Europe___En_Fr_De_Es_It_-samsung-SM-A075M-Mali-G57_MC2-1780866922.json"
   }
 ]
