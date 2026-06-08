@@ -1,5 +1,12 @@
 [
   {
+    "game": "Demon_Slayer_-Kimetsu_no_Yaiba-_The_Hinokami_Chronicles_2",
+    "manufacturer": "RMX1911",
+    "device": "Adreno__TM__610",
+    "timestamp": 1780888436,
+    "filename": "Demon_Slayer_-Kimetsu_no_Yaiba-_The_Hinokami_Chronicles_2-realme-RMX1911-Adreno__TM__610-1780888436.json"
+  },
+  {
     "game": "Deadpool",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1780870325,
     "filename": "Project_Castaway-Xiaomi-23129RA5FL-Adreno__TM__610-1780870325.json"
-  },
-  {
-    "game": "RESIDENT_EVIL_6",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1780868671,
-    "filename": "RESIDENT_EVIL_6-Xiaomi-M2003J15SC-Mali-G52-1780868671.json"
   }
 ]
