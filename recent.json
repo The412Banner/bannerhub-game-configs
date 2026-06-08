@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780912410,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-23043RP34G-Adreno__TM__650-1780912410.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780891416,
     "filename": "splintercell3-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780891416.json"
-  },
-  {
-    "game": "Far_Cry__2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780891404,
-    "filename": "Far_Cry__2-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780891404.json"
   }
 ]
