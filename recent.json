@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780884298,
+    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KL5-Mali-G52_MC2-1780884298.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G615_MC2",
     "timestamp": 1780883709,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g86_5G-Mali-G615_MC2-1780883709.json"
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780867819,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-motorola-moto_g04-Mali-G57-1780867819.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780867712,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-motorola-moto_g04-Mali-G57-1780867712.json"
   }
 ]
