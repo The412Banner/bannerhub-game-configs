@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780891450,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780891450.json"
+  },
+  {
     "game": "Outlast",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780881478,
     "filename": "Assassin_s_Creed__Revelations-TECNO-TECNO_LJ6-Mali-G57_MC2-1780881478.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G610_MC3",
-    "timestamp": 1780880856,
-    "filename": "Resident_Evil_6-motorola-motorola_edge_40_neo-Mali-G610_MC3-1780880856.json"
   }
 ]
