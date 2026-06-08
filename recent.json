@@ -1,5 +1,12 @@
 [
   {
+    "game": "__Stronghold_Crusader",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780893308,
+    "filename": "__Stronghold_Crusader-TECNO-TECNO_LH7n-Mali-G57_MC2-1780893308.json"
+  },
+  {
     "game": "Far_Cry_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780884298,
     "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KL5-Mali-G52_MC2-1780884298.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1780883709,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g86_5G-Mali-G615_MC2-1780883709.json"
   }
 ]
