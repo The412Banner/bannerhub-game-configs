@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1780959110,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution-Xiaomi-23049PCD8G-Adreno__TM__725-1780959110.json"
+  },
+  {
     "game": "Papa_s_Mocharia_Deluxe",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780937475,
     "filename": "Devil_May_Cry_5-Xiaomi-25053PC47G-Adreno__TM__825-1780937475.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780935937,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-INFINIX-Infinix_X6837-Mali-G57_MC2-1780935937.json"
   }
 ]
