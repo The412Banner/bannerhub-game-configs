@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "2510DRK44C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780911527,
+    "filename": "Resident_Evil_3-Xiaomi-2510DRK44C-Adreno__TM__830-1780911527.json"
+  },
+  {
     "game": "LEGO__Batman__2__DC_Super_Heroes",
     "manufacturer": "vivo_1904",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1780889457,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-vivo-V2513-Mali-G615_MC2-1780889457.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1780889283,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-samsung-SM-A546E-Mali-G68-1780889283.json"
   }
 ]
