@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780932604,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780932604.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1780904709,
     "filename": "The_Last_of_Us__Part_I-Xiaomi-23043RP34G-Adreno__TM__650-1780904709.json"
-  },
-  {
-    "game": "The_Last_of_Us__Part_I",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780904606,
-    "filename": "The_Last_of_Us__Part_I-Xiaomi-23043RP34G-Adreno__TM__650-1780904606.json"
   }
 ]
