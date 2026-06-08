@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1780951196,
+    "filename": "DARK_SOULS___REMASTERED-Xiaomi-25053PC47G-Adreno__TM__825-1780951196.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "22081212UG",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1780929016,
     "filename": "Watch_Dogs_-Xiaomi-23113RKC6G-Adreno__TM__740-1780929016.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017seting",
-    "manufacturer": "24018RPACG",
-    "device": "Adreno__TM__740",
-    "timestamp": 1780928436,
-    "filename": "Pro_Evolution_Soccer_2017seting-Xiaomi-24018RPACG-Adreno__TM__740-1780928436.json"
   }
 ]
