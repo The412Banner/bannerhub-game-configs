@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780891388,
+    "filename": "Far_Cry_-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780891388.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "RMX1911",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780876913,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-motorola-moto_g04-Mali-G57-1780876913.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25010PN30G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780875905,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25010PN30G-Adreno__TM__830-1780875905.json"
   }
 ]
