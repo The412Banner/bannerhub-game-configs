@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "RMX1911",
+    "device": "Adreno__TM__610",
+    "timestamp": 1780889984,
+    "filename": "Cuphead-realme-RMX1911-Adreno__TM__610-1780889984.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780875905,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25010PN30G-Adreno__TM__830-1780875905.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25010PN30G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1780875903,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25010PN30G-Adreno__TM__830-1780875903.json"
   }
 ]
