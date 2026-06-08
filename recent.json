@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wow",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780912836,
+    "filename": "Wow-Xiaomi-23043RP34G-Adreno__TM__650-1780912836.json"
+  },
+  {
     "game": "DP",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780891438,
     "filename": "Outlast-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780891438.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780891424,
-    "filename": "Resident_Evil_6-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780891424.json"
   }
 ]
