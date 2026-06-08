@@ -1,5 +1,12 @@
 [
   {
+    "game": "splintercell3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780891416,
+    "filename": "splintercell3-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780891416.json"
+  },
+  {
     "game": "Far_Cry__2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1780878165,
     "filename": "Ys_X__Proud_Nordics-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1780878165.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780877486,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-motorola-moto_g04-Mali-G57-1780877486.json"
   }
 ]
