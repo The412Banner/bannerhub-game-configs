@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "Mali",
+    "device": "G610_MC3",
+    "timestamp": 1780880782,
+    "filename": "Resident_Evil_3-motorola-motorola_edge_40_neo-Mali-G610_MC3-1780880782.json"
+  },
+  {
     "game": "Ys_X__Proud_Nordics",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1780866623,
     "filename": "activation-TECNO-TECNO_LJ9-Mali-G615_MC6-1780866623.json"
-  },
-  {
-    "game": "activation",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1780866619,
-    "filename": "activation-TECNO-TECNO_LJ9-Mali-G615_MC6-1780866619.json"
   }
 ]
