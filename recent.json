@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alice__Madness_Returns",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780891470,
+    "filename": "Alice__Madness_Returns-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780891470.json"
+  },
+  {
     "game": "Shank",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1780882511,
     "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780882511.json"
-  },
-  {
-    "game": "Mad_Max",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780882323,
-    "filename": "Mad_Max-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780882323.json"
   }
 ]
