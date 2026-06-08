@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1780889457,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-vivo-V2513-Mali-G615_MC2-1780889457.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780875903,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25010PN30G-Adreno__TM__830-1780875903.json"
-  },
-  {
-    "game": "Stray",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1780874070,
-    "filename": "Stray-Xiaomi-23049PCD8G-Adreno__TM__725-1780874070.json"
   }
 ]
