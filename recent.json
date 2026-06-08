@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ys_X__Proud_Nordics",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1780878165,
+    "filename": "Ys_X__Proud_Nordics-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1780878165.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1780866619,
     "filename": "activation-TECNO-TECNO_LJ9-Mali-G615_MC6-1780866619.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780866144,
-    "filename": "Sleeping_Dogs-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780866144.json"
   }
 ]
