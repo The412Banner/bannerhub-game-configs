@@ -1,5 +1,12 @@
 [
   {
+    "game": "Deadpool",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1780888130,
+    "filename": "Deadpool-samsung-SM-G780G-Adreno__TM__650-1780888130.json"
+  },
+  {
     "game": "Dead_Space__3",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1780868671,
     "filename": "RESIDENT_EVIL_6-Xiaomi-M2003J15SC-Mali-G52-1780868671.json"
-  },
-  {
-    "game": "Just_Cause_2",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1780868471,
-    "filename": "Just_Cause_2-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780868471.json"
   }
 ]
