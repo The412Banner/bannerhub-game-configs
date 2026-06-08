@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780946350,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g14-Mali-G57-1780946350.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G72_MP3",
     "timestamp": 1780946307,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_one_macro-Mali-G72_MP3-1780946307.json"
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780920543,
     "filename": "Mortal_Kombat_Komplete_Edition-samsung-SM-A075M-Mali-G57_MC2-1780920543.json"
-  },
-  {
-    "game": "DRAGON_BALL_XENOVERSE_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1780917644,
-    "filename": "DRAGON_BALL_XENOVERSE_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780917644.json"
   }
 ]
