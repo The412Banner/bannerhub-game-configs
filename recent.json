@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017seting",
+    "manufacturer": "24018RPACG",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780928436,
+    "filename": "Pro_Evolution_Soccer_2017seting-Xiaomi-24018RPACG-Adreno__TM__740-1780928436.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "RMX3701",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1780894159,
     "filename": "Resident_Evil_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780894159.json"
-  },
-  {
-    "game": "__Stronghold_Crusader",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780893389,
-    "filename": "__Stronghold_Crusader-TECNO-TECNO_LH7n-Mali-G57_MC2-1780893389.json"
   }
 ]
