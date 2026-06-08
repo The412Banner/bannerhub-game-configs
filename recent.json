@@ -1,5 +1,12 @@
 [
   {
+    "game": "Outlast",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780891438,
+    "filename": "Outlast-INFINIX-Infinix_X6833B-Mali-G57_MC2-1780891438.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC3",
     "timestamp": 1780880856,
     "filename": "Resident_Evil_6-motorola-motorola_edge_40_neo-Mali-G610_MC3-1780880856.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "Mali",
-    "device": "G610_MC3",
-    "timestamp": 1780880782,
-    "filename": "Resident_Evil_3-motorola-motorola_edge_40_neo-Mali-G610_MC3-1780880782.json"
   }
 ]
