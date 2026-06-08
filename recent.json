@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Launcher",
+    "manufacturer": "M2010J19SG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1780959615,
+    "filename": "GTA_V_Launcher-Xiaomi-M2010J19SG-Adreno__TM__610-1780959615.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780937482,
     "filename": "Resident_Evil_3-Xiaomi-25053PC47G-Adreno__TM__825-1780937482.json"
-  },
-  {
-    "game": "Devil_May_Cry_5",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780937475,
-    "filename": "Devil_May_Cry_5-Xiaomi-25053PC47G-Adreno__TM__825-1780937475.json"
   }
 ]
