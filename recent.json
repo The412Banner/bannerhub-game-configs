@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Revelations",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780881478,
+    "filename": "Assassin_s_Creed__Revelations-TECNO-TECNO_LJ6-Mali-G57_MC2-1780881478.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "Mali",
     "device": "G610_MC3",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780866922,
     "filename": "Naruto_-_Ultimate_Ninja_Storm__Europe___En_Fr_De_Es_It_-samsung-SM-A075M-Mali-G57_MC2-1780866922.json"
-  },
-  {
-    "game": "activation",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1780866627,
-    "filename": "activation-TECNO-TECNO_LJ9-Mali-G615_MC6-1780866627.json"
   }
 ]
