@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "RMX3701",
+    "device": "Adreno__TM__725",
+    "timestamp": 1780927479,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3701-Adreno__TM__725-1780927479.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1780893389,
     "filename": "__Stronghold_Crusader-TECNO-TECNO_LH7n-Mali-G57_MC2-1780893389.json"
-  },
-  {
-    "game": "__Stronghold_Crusader",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1780893308,
-    "filename": "__Stronghold_Crusader-TECNO-TECNO_LH7n-Mali-G57_MC2-1780893308.json"
   }
 ]
