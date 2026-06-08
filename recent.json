@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1780876913,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-motorola-moto_g04-Mali-G57-1780876913.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25010PN30G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1780866140,
     "filename": "Mad_Max-motorola-motorola_edge_50_fusion-Adreno__TM__710-1780866140.json"
-  },
-  {
-    "game": "Resident_Evil_3__Raccoon_City_Demo_",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1780864825,
-    "filename": "Resident_Evil_3__Raccoon_City_Demo_-motorola-moto_g34_5G-Adreno__TM__619-1780864825.json"
   }
 ]
