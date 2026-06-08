@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "V2536A",
+    "device": "Adreno__TM__829",
+    "timestamp": 1780903622,
+    "filename": "DRAGON_BALL__Sparking__ZERO-vivo-V2536A-Adreno__TM__829-1780903622.json"
+  },
+  {
     "game": "DmC__Devil_May_Cry",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1780888436,
     "filename": "Demon_Slayer_-Kimetsu_no_Yaiba-_The_Hinokami_Chronicles_2-realme-RMX1911-Adreno__TM__610-1780888436.json"
-  },
-  {
-    "game": "Deadpool",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1780888130,
-    "filename": "Deadpool-samsung-SM-G780G-Adreno__TM__650-1780888130.json"
   }
 ]
