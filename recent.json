@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__3",
+    "manufacturer": "moto_g75_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1780887134,
+    "filename": "Dead_Space__3-motorola-moto_g75_5G-Adreno__TM__710-1780887134.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1780868407,
     "filename": "Assassin_s_Creed___Director_s_Cut_Edition-Xiaomi-24090RA29G-Mali-G615_MC2-1780868407.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780867819,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-motorola-moto_g04-Mali-G57-1780867819.json"
   }
 ]
