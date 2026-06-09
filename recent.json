@@ -3,6 +3,13 @@
     "game": "Resident_Evil_3",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1781019813,
+    "filename": "Resident_Evil_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781019813.json"
+  },
+  {
+    "game": "Resident_Evil_3",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1781019781,
     "filename": "Resident_Evil_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781019781.json"
   },
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1781008423,
     "filename": "Pro_Evolution_Soccer_2011-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781008423.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "LX1",
-    "device": "Adreno__TM__610",
-    "timestamp": 1781007542,
-    "filename": "BootstrapPackagedGame-HONOR-ABR-LX1-Adreno__TM__610-1781007542.json"
   }
 ]
