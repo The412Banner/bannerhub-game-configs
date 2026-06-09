@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1781035688,
+    "filename": "setup-Xiaomi-21121119SG-Mali-G52-1781035688.json"
+  },
+  {
     "game": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719",
     "manufacturer": "NX9",
     "device": "Adreno__TM__644",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1781019592,
     "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A667LP-PowerVR_Rogue_GE8322-1781019592.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781018950,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1781018950.json"
   }
 ]
