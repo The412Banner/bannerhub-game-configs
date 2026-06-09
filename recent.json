@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1780986697,
+    "filename": "Just_Cause_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1780986697.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A042M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780961377,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1780961377.json"
-  },
-  {
-    "game": "GTA_V_Launcher",
-    "manufacturer": "M2010J19SG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1780959615,
-    "filename": "GTA_V_Launcher-Xiaomi-M2010J19SG-Adreno__TM__610-1780959615.json"
   }
 ]
