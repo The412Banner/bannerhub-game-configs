@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "CPH2819",
+    "device": "Adreno__TM__610",
+    "timestamp": 1780981087,
+    "filename": "Euro_Truck_Simulator_2-OPPO-CPH2819-Adreno__TM__610-1780981087.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G610_MC3",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1780950426,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22081212UG-Adreno__TM__730-1780950426.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780946352,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g14-Mali-G57-1780946352.json"
   }
 ]
