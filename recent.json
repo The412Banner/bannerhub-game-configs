@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1780987030,
+    "filename": "Tomb_Raider-Xiaomi-M2003J15SC-Mali-G52-1780987030.json"
+  },
+  {
     "game": "Just_Cause_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G610_MC3",
     "timestamp": 1780966656,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-motorola_edge_40_neo-Mali-G610_MC3-1780966656.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780961377,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1780961377.json"
   }
 ]
