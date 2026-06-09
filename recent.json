@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alien_isolation",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1780969760,
+    "filename": "Alien_isolation-LENOVO-TB322FC-Adreno__TM__830-1780969760.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G610_MC3",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1780945405,
     "filename": "Romestead-Xiaomi-23049PCD8G-Adreno__TM__725-1780945405.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G610_MC3",
-    "timestamp": 1780945381,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_40_neo-Mali-G610_MC3-1780945381.json"
   }
 ]
