@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1780981681,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-23113RKC6G-Adreno__TM__740-1780981681.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "CPH2819",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1780951196,
     "filename": "DARK_SOULS___REMASTERED-Xiaomi-25053PC47G-Adreno__TM__825-1780951196.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "22081212UG",
-    "device": "Adreno__TM__730",
-    "timestamp": 1780950426,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22081212UG-Adreno__TM__730-1780950426.json"
   }
 ]
