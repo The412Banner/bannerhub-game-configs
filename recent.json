@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1780982159,
+    "filename": "Pro_Evolution_Soccer_2013-HONOR-ELA-LX3-Mali-G52_MC2-1780982159.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1780951791,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-NP05J-Adreno__TM__830-1780951791.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780951200,
-    "filename": "DARK_SOULS___REMASTERED-Xiaomi-25053PC47G-Adreno__TM__825-1780951200.json"
   }
 ]
