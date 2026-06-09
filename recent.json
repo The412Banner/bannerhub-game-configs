@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A042M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1780984193,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1780984193.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1780982242,
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1780956661,
     "filename": "Papa_s_Mocharia_Deluxe-realme-RMX5303-Mali-G57-1780956661.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1780956053,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1780956053.json"
   }
 ]
