@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__Remastered__2017_",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1781014293,
+    "filename": "Call_of_Duty___Modern_Warfare__Remastered__2017_-Xiaomi-25053PC47G-Adreno__TM__825-1781014293.json"
+  },
+  {
     "game": "eFootball_",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1780985456,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1780985456.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A042M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1780985338,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1780985338.json"
   }
 ]
