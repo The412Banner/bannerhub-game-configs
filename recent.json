@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G610_MC3",
+    "timestamp": 1780966656,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-motorola_edge_40_neo-Mali-G610_MC3-1780966656.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1780938394,
     "filename": "NieR_Automata_-Xiaomi-23043RP34G-Adreno__TM__650-1780938394.json"
-  },
-  {
-    "game": "Replaced",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1780937487,
-    "filename": "Replaced-Xiaomi-25053PC47G-Adreno__TM__825-1780937487.json"
   }
 ]
