@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "CPH2113",
+    "device": "Adreno__TM__618",
+    "timestamp": 1781006393,
+    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2113-Adreno__TM__618-1781006393.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "LE2121",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1780981087,
     "filename": "Euro_Truck_Simulator_2-OPPO-CPH2819-Adreno__TM__610-1780981087.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G610_MC3",
-    "timestamp": 1780973610,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_40_neo-Mali-G610_MC3-1780973610.json"
   }
 ]
