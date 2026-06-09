@@ -1,5 +1,12 @@
 [
   {
+    "game": "AC3SP",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1781037786,
+    "filename": "AC3SP-Xiaomi-M2102J20SG-Adreno__TM__640-1781037786.json"
+  },
+  {
     "game": "setup",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1781019726,
     "filename": "Grand_Theft_Auto_V-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781019726.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "itel_A667LP",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1781019592,
-    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A667LP-PowerVR_Rogue_GE8322-1781019592.json"
   }
 ]
