@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lost_Ruins",
+    "manufacturer": "motorola_edge_30_fusion",
+    "device": "Adreno__TM__660",
+    "timestamp": 1780988049,
+    "filename": "Lost_Ruins-motorola-motorola_edge_30_fusion-Adreno__TM__660-1780988049.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1780966927,
     "filename": "Ratchet___Clank__Rift_Apart-nubia-NX809J-Adreno__TM__840-1780966927.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G610_MC3",
-    "timestamp": 1780966656,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-motorola_edge_40_neo-Mali-G610_MC3-1780966656.json"
   }
 ]
