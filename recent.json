@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1780991090,
+    "filename": "Resident_Evil_5-vivo-V2440-Mali-G57_MC2-1780991090.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "V2441",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G610_MC3",
     "timestamp": 1780969659,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_40_neo-Mali-G610_MC3-1780969659.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "LX3",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1780968005,
-    "filename": "Pro_Evolution_Soccer_2013-HONOR-WDY-LX3-PowerVR_Rogue_GE8320-1780968005.json"
   }
 ]
