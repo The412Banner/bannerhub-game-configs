@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781040726,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1781040726.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__Remastered__2017_",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781022771,
     "filename": "Pro_Evolution_Soccer_2013-ADVAN-6781-Mali-G57_MC2-1781022771.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781022744,
-    "filename": "DRAGON_BALL_FighterZ-Xiaomi-23043RP34G-Adreno__TM__650-1781022744.json"
   }
 ]
