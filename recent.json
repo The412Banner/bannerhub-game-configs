@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "V2441",
+    "device": "Adreno__TM__610",
+    "timestamp": 1780990356,
+    "filename": "Pro_Evolution_Soccer_2013-vivo-V2441-Adreno__TM__610-1780990356.json"
+  },
+  {
     "game": "Lost_Ruins",
     "manufacturer": "motorola_edge_30_fusion",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1780967347,
     "filename": "Pro_Evolution_Soccer_2013-HONOR-WDY-LX3-PowerVR_Rogue_GE8320-1780967347.json"
-  },
-  {
-    "game": "Ratchet___Clank__Rift_Apart",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1780966927,
-    "filename": "Ratchet___Clank__Rift_Apart-nubia-NX809J-Adreno__TM__840-1780966927.json"
   }
 ]
