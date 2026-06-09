@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "S731B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1781011569,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1781011569.json"
+  },
+  {
     "game": "Need_for_Speed_moster_wanted",
     "manufacturer": "motorola_edge_30_neo",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1780984952,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-moto_g06-Mali-G52_MC2-1780984952.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A042M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1780984193,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1780984193.json"
   }
 ]
