@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1781018642,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781018642.json"
+  },
+  {
     "game": "Ghostwire__Tokyo",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1780990363,
     "filename": "Pro_Evolution_Soccer_2013-vivo-V2441-Adreno__TM__610-1780990363.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "V2441",
-    "device": "Adreno__TM__610",
-    "timestamp": 1780990356,
-    "filename": "Pro_Evolution_Soccer_2013-vivo-V2441-Adreno__TM__610-1780990356.json"
   }
 ]
