@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "itel_A667LP",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1781019592,
+    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A667LP-PowerVR_Rogue_GE8322-1781019592.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1781018950,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1781001109,
     "filename": "Resident_Evil_2-OnePlus-LE2121-Adreno__TM__660-1781001109.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780997105,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2419-Mali-G57-1780997105.json"
   }
 ]
