@@ -3,6 +3,13 @@
     "game": "AC3SP",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
+    "timestamp": 1781037795,
+    "filename": "AC3SP-Xiaomi-M2102J20SG-Adreno__TM__640-1781037795.json"
+  },
+  {
+    "game": "AC3SP",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
     "timestamp": 1781037786,
     "filename": "AC3SP-Xiaomi-M2102J20SG-Adreno__TM__640-1781037786.json"
   },
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1781019781,
     "filename": "Resident_Evil_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781019781.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1781019726,
-    "filename": "Grand_Theft_Auto_V-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781019726.json"
   }
 ]
