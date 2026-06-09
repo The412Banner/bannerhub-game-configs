@@ -1,5 +1,12 @@
 [
   {
+    "game": "____-_______Persona_3_Reload",
+    "manufacturer": "24129PN74C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1781034539,
+    "filename": "____-_______Persona_3_Reload-Xiaomi-24129PN74C-Adreno__TM__830-1781034539.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781018940,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1781018940.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781018926,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1781018926.json"
   }
 ]
