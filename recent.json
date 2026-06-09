@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ghostwire__Tokyo",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1781016901,
+    "filename": "Ghostwire__Tokyo-vivo-V2507A-Mali-G925-Immortalis_MC12-1781016901.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "S731B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1780990356,
     "filename": "Pro_Evolution_Soccer_2013-vivo-V2441-Adreno__TM__610-1780990356.json"
-  },
-  {
-    "game": "Lost_Ruins",
-    "manufacturer": "motorola_edge_30_fusion",
-    "device": "Adreno__TM__660",
-    "timestamp": 1780988049,
-    "filename": "Lost_Ruins-motorola-motorola_edge_30_fusion-Adreno__TM__660-1780988049.json"
   }
 ]
