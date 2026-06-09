@@ -1,5 +1,12 @@
 [
   {
+    "game": "Days_Gone",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1781042581,
+    "filename": "Days_Gone-Xiaomi-25053PC47G-Adreno__TM__825-1781042581.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1781023323,
     "filename": "Halo_Infinite-OUKITEL-WP200_Pro-Mali-G610_MC6-1781023323.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781022771,
-    "filename": "Pro_Evolution_Soccer_2013-ADVAN-6781-Mali-G57_MC2-1781022771.json"
   }
 ]
