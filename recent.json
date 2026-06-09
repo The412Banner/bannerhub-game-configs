@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__Remastered__2017_",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1781039744,
+    "filename": "Call_of_Duty___Modern_Warfare__Remastered__2017_-AYANEO-Pocket_FIT-Adreno__TM__750-1781039744.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man__Miles_Morales",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781022744,
     "filename": "DRAGON_BALL_FighterZ-Xiaomi-23043RP34G-Adreno__TM__650-1781022744.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781020227,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1781020227.json"
   }
 ]
