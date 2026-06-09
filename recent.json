@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781045726,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03A-Mali-G57-1781045726.json"
+  },
+  {
     "game": "Days_Gone",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781023647,
     "filename": "Red_Dead_Redemption-samsung-SM-S928B-Adreno__TM__750-1781023647.json"
-  },
-  {
-    "game": "Halo_Infinite",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1781023323,
-    "filename": "Halo_Infinite-OUKITEL-WP200_Pro-Mali-G610_MC6-1781023323.json"
   }
 ]
