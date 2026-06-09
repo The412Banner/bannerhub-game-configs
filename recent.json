@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781034171,
+    "filename": "Grand_Theft_Auto_IV-samsung-SM-A546E-Mali-G68-1781034171.json"
+  },
+  {
     "game": "Subnautica",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781018926,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1781018926.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "23021RAAEG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1781018851,
-    "filename": "Resident_Evil_6-Xiaomi-23021RAAEG-Adreno__TM__610-1781018851.json"
   }
 ]
