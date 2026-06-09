@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A042M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1780985338,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1780985338.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1780959110,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution-Xiaomi-23049PCD8G-Adreno__TM__725-1780959110.json"
-  },
-  {
-    "game": "Papa_s_Mocharia_Deluxe",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1780956697,
-    "filename": "Papa_s_Mocharia_Deluxe-realme-RMX5303-Mali-G57-1780956697.json"
   }
 ]
