@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball__PES_2020",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1781055332,
+    "filename": "eFootball__PES_2020-INFINIX-Infinix_X6873-Mali-G615_MC6-1781055332.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2014",
     "manufacturer": "NX9",
     "device": "Adreno__TM__644",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781034539,
     "filename": "____-_______Persona_3_Reload-Xiaomi-24129PN74C-Adreno__TM__830-1781034539.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1781034171,
-    "filename": "Grand_Theft_Auto_IV-samsung-SM-A546E-Mali-G68-1781034171.json"
   }
 ]
