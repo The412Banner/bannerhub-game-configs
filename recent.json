@@ -1,5 +1,12 @@
 [
   {
+    "game": "Outlast",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781116971,
+    "filename": "Outlast-TECNO-TECNO_KJ6-Mali-G57_MC2-1781116971.json"
+  },
+  {
     "game": "Prototype",
     "manufacturer": "CPH2709",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781095313,
     "filename": "Vampire_Crawlers-Xiaomi-23043RP34G-Adreno__TM__650-1781095313.json"
-  },
-  {
-    "game": "Alan_Wake",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781095298,
-    "filename": "Alan_Wake-Xiaomi-23043RP34G-Adreno__TM__650-1781095298.json"
   }
 ]
