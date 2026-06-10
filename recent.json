@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed_Rogue_IV_",
+    "manufacturer": "M2007J3SG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781115131,
+    "filename": "Assassin_s_Creed_Rogue_IV_-Xiaomi-M2007J3SG-Adreno__TM__650-1781115131.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781091938,
     "filename": "Sifu-Xiaomi-23043RP34G-Adreno__TM__650-1781091938.json"
-  },
-  {
-    "game": "Counter-Strike_1_4",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781089039,
-    "filename": "Counter-Strike_1_4-Xiaomi-25078RA3EA-Mali-G52_MC2-1781089039.json"
   }
 ]
