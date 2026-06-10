@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_XENOVERSE",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781106587,
+    "filename": "DRAGON_BALL_XENOVERSE-Xiaomi-2410FPCC5G-Mali-G52_MC2-1781106587.json"
+  },
+  {
     "game": "Mortal_Kombat_11",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1781086663,
     "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6870-Mali-G615_MC2-1781086663.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1781086581,
-    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6870-Mali-G615_MC2-1781086581.json"
   }
 ]
