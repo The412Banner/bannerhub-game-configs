@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sifu",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1781070165,
+    "filename": "Sifu-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781070165.json"
+  },
+  {
     "game": "Bionic_Commando",
     "manufacturer": "_2024",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781045726,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03A-Mali-G57-1781045726.json"
-  },
-  {
-    "game": "Days_Gone",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1781042581,
-    "filename": "Days_Gone-Xiaomi-25053PC47G-Adreno__TM__825-1781042581.json"
   }
 ]
