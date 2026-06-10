@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781118924,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1781118924.json"
+  },
+  {
     "game": "METAL_SLUG_DEFENSE",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781097842,
     "filename": "Sniper_x86-INFINIX-Infinix_X6833B-Mali-G57_MC2-1781097842.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781097514,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3511-Mali-G57-1781097514.json"
   }
 ]
