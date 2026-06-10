@@ -1,5 +1,12 @@
 [
   {
+    "game": "Killer_is_Dead",
+    "manufacturer": "CPH2709",
+    "device": "Adreno__TM__735",
+    "timestamp": 1781119628,
+    "filename": "Killer_is_Dead-OnePlus-CPH2709-Adreno__TM__735-1781119628.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1781098900,
     "filename": "NieR_Automata_-OnePlus-CPH2709-Adreno__TM__735-1781098900.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Rogue",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1781098815,
-    "filename": "Assassin_s_Creed__Rogue-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781098815.json"
   }
 ]
