@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781066906,
+    "filename": "Tomb_Raider-Xiaomi-23100RN82L-Mali-G52_MC2-1781066906.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781039744,
     "filename": "Call_of_Duty___Modern_Warfare__Remastered__2017_-AYANEO-Pocket_FIT-Adreno__TM__750-1781039744.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man__Miles_Morales",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781039108,
-    "filename": "Marvel_s_Spider-Man__Miles_Morales-realme-realme_12x_5G-Mali-G57_MC2-1781039108.json"
   }
 ]
