@@ -1,5 +1,12 @@
 [
   {
+    "game": "Little_Nightmares_III",
+    "manufacturer": "24018RPACG",
+    "device": "Adreno__TM__740",
+    "timestamp": 1781129505,
+    "filename": "Little_Nightmares_III-Xiaomi-24018RPACG-Adreno__TM__740-1781129505.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781111445,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1781111445.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781110534,
-    "filename": "Resident_Evil_Revelations_2-INFINIX-Infinix_X6833B-Mali-G57_MC2-1781110534.json"
   }
 ]
