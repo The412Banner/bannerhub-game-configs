@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alice__Madness_Returns",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781058786,
+    "filename": "Alice__Madness_Returns-INFINIX-Infinix_X6833B-Mali-G57_MC2-1781058786.json"
+  },
+  {
     "game": "PES_2026",
     "manufacturer": "X210",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1781037795,
     "filename": "AC3SP-Xiaomi-M2102J20SG-Adreno__TM__640-1781037795.json"
-  },
-  {
-    "game": "AC3SP",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1781037786,
-    "filename": "AC3SP-Xiaomi-M2102J20SG-Adreno__TM__640-1781037786.json"
   }
 ]
