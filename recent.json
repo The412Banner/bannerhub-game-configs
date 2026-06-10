@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781128241,
+    "filename": "Mafia_II__Classic_-vivo-V2344-Mali-G57-1781128241.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Retroid_Pocket_G2",
     "device": "Adreno__TM__22",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781110534,
     "filename": "Resident_Evil_Revelations_2-INFINIX-Infinix_X6833B-Mali-G57_MC2-1781110534.json"
-  },
-  {
-    "game": "DRAGON_BALL_XENOVERSE",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781106587,
-    "filename": "DRAGON_BALL_XENOVERSE-Xiaomi-2410FPCC5G-Mali-G52_MC2-1781106587.json"
   }
 ]
