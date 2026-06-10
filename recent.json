@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1781127885,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1781127885.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "V2416",
     "device": "Adreno__TM__613",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781106587,
     "filename": "DRAGON_BALL_XENOVERSE-Xiaomi-2410FPCC5G-Mali-G52_MC2-1781106587.json"
-  },
-  {
-    "game": "Mortal_Kombat_11",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1781106164,
-    "filename": "Mortal_Kombat_11-motorola-moto_g84_5G-Adreno__TM__619-1781106164.json"
   }
 ]
