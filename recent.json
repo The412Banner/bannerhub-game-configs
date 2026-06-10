@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781060446,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CL-Mali-G52_MC2-1781060446.json"
+  },
+  {
     "game": "Alice__Madness_Returns",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__644",
     "timestamp": 1781037956,
     "filename": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719-HONOR-REA-NX9-Adreno__TM__644-1781037956.json"
-  },
-  {
-    "game": "AC3SP",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1781037795,
-    "filename": "AC3SP-Xiaomi-M2102J20SG-Adreno__TM__640-1781037795.json"
   }
 ]
