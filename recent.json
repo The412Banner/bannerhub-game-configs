@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781111445,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1781111445.json"
+  },
+  {
     "game": "Resident_Evil_Revelations_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781089039,
     "filename": "Counter-Strike_1_4-Xiaomi-25078RA3EA-Mali-G52_MC2-1781089039.json"
-  },
-  {
-    "game": "MONSTER_HUNTER_FRONTIER_Z",
-    "manufacturer": "23073RPBFG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1781088937,
-    "filename": "MONSTER_HUNTER_FRONTIER_Z-Xiaomi-23073RPBFG-Adreno__TM__610-1781088937.json"
   }
 ]
