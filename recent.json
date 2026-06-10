@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_SLUG_DEFENSE",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1781117975,
+    "filename": "METAL_SLUG_DEFENSE-motorola-moto_g55_5G-PowerVR_B-Series_BXM-8-256-1781117975.json"
+  },
+  {
     "game": "Outlast",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781097514,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3511-Mali-G57-1781097514.json"
-  },
-  {
-    "game": "Vampire_Crawlers",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781095313,
-    "filename": "Vampire_Crawlers-Xiaomi-23043RP34G-Adreno__TM__650-1781095313.json"
   }
 ]
