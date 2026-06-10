@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_lite",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1781077227,
+    "filename": "Grand_Theft_Auto_V_lite-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781077227.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "V2443",
     "device": "Adreno__TM__613",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781049064,
     "filename": "MARVEL_Cosmic_Invasion-vivo-V2440-Mali-G57_MC2-1781049064.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man__Miles_Morales",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781048494,
-    "filename": "Marvel_s_Spider-Man__Miles_Morales-realme-realme_12x_5G-Mali-G57_MC2-1781048494.json"
   }
 ]
