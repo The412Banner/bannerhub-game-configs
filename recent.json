@@ -1,5 +1,12 @@
 [
   {
+    "game": "BloodStrike",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781052872,
+    "filename": "BloodStrike-Xiaomi-2310FPCA4I-Mali-G52_MC2-1781052872.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781033246,
     "filename": "Subnautica-LENOVO-TB322FC-Adreno__TM__830-1781033246.json"
-  },
-  {
-    "game": "NBA_2K23",
-    "manufacturer": "S948B",
-    "device": "Adreno__TM__840",
-    "timestamp": 1781032556,
-    "filename": "NBA_2K23-samsung-SM-S948B-Adreno__TM__840-1781032556.json"
   }
 ]
