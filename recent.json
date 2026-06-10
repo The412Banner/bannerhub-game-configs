@@ -1,5 +1,12 @@
 [
   {
+    "game": "Vampire_Crawlers",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781095313,
+    "filename": "Vampire_Crawlers-Xiaomi-23043RP34G-Adreno__TM__650-1781095313.json"
+  },
+  {
     "game": "Alan_Wake",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1781060569,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25099RP13G-Adreno__TM__810-1781060569.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781060446,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CL-Mali-G52_MC2-1781060446.json"
   }
 ]
