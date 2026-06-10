@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781052014,
+    "filename": "Pro_Evolution_Soccer_2013-realme-realme_12x_5G-Mali-G57_MC2-1781052014.json"
+  },
+  {
     "game": "MARVEL_Cosmic_Invasion",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781032195,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-23053RN02L-Mali-G52_MC2-1781032195.json"
-  },
-  {
-    "game": "People_Playground",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__644",
-    "timestamp": 1781029477,
-    "filename": "People_Playground-HUAWEI-BTK-W09-Adreno__TM__644-1781029477.json"
   }
 ]
