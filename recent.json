@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1781086581,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6870-Mali-G615_MC2-1781086581.json"
+  },
+  {
     "game": "Prototype_",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__644",
     "timestamp": 1781054305,
     "filename": "Pro_Evolution_Soccer_2014-HONOR-REA-NX9-Adreno__TM__644-1781054305.json"
-  },
-  {
-    "game": "BloodStrike",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781052872,
-    "filename": "BloodStrike-Xiaomi-2310FPCA4I-Mali-G52_MC2-1781052872.json"
   }
 ]
