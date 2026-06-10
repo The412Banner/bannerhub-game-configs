@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Sims__4",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1781125355,
+    "filename": "The_Sims__4-samsung-SM-A127M-Mali-G52-1781125355.json"
+  },
+  {
     "game": "The_Walking_Dead__Michonne",
     "manufacturer": "CPH2709",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1781101974,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S908E-Adreno__TM__730-1781101974.json"
-  },
-  {
-    "game": "Killer_Instinct",
-    "manufacturer": "CPH2709",
-    "device": "Adreno__TM__735",
-    "timestamp": 1781101079,
-    "filename": "Killer_Instinct-OnePlus-CPH2709-Adreno__TM__735-1781101079.json"
   }
 ]
