@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_2026",
+    "manufacturer": "X210",
+    "device": "Adreno__TM__619",
+    "timestamp": 1781057643,
+    "filename": "PES_2026-samsung-SM-X210-Adreno__TM__619-1781057643.json"
+  },
+  {
     "game": "VRising",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1781037786,
     "filename": "AC3SP-Xiaomi-M2102J20SG-Adreno__TM__640-1781037786.json"
-  },
-  {
-    "game": "setup",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1781035688,
-    "filename": "setup-Xiaomi-21121119SG-Mali-G52-1781035688.json"
   }
 ]
