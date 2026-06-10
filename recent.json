@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alan_Wake",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781095298,
+    "filename": "Alan_Wake-Xiaomi-23043RP34G-Adreno__TM__650-1781095298.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781060446,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CL-Mali-G52_MC2-1781060446.json"
-  },
-  {
-    "game": "Alice__Madness_Returns",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781058786,
-    "filename": "Alice__Madness_Returns-INFINIX-Infinix_X6833B-Mali-G57_MC2-1781058786.json"
   }
 ]
