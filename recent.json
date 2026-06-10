@@ -1,5 +1,12 @@
 [
   {
+    "game": "Counter-Strike_1_4",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781089039,
+    "filename": "Counter-Strike_1_4-Xiaomi-25078RA3EA-Mali-G52_MC2-1781089039.json"
+  },
+  {
     "game": "MONSTER_HUNTER_FRONTIER_Z",
     "manufacturer": "23073RPBFG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1781057003,
     "filename": "VRising-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781057003.json"
-  },
-  {
-    "game": "ANTONBLAST",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1781056333,
-    "filename": "ANTONBLAST-motorola-motorola_edge_60-Mali-G615_MC2-1781056333.json"
   }
 ]
