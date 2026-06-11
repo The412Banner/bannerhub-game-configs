@@ -1,5 +1,12 @@
 [
   {
+    "game": "proxy_sa",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1781144453,
+    "filename": "proxy_sa-samsung-SM-S928B-Adreno__TM__750-1781144453.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1781125460,
     "filename": "Pro_Evolution_Soccer_6-HONOR-ELI-NX9-Adreno__TM__720-1781125460.json"
-  },
-  {
-    "game": "The_Sims__4",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1781125355,
-    "filename": "The_Sims__4-samsung-SM-A127M-Mali-G52-1781125355.json"
   }
 ]
