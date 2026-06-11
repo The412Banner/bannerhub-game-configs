@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1781142470,
+    "filename": "Resident_Evil_5-Xiaomi-24069PC21G-Adreno__TM__735-1781142470.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1781125355,
     "filename": "The_Sims__4-samsung-SM-A127M-Mali-G52-1781125355.json"
-  },
-  {
-    "game": "The_Walking_Dead__Michonne",
-    "manufacturer": "CPH2709",
-    "device": "Adreno__TM__735",
-    "timestamp": 1781124265,
-    "filename": "The_Walking_Dead__Michonne-OnePlus-CPH2709-Adreno__TM__735-1781124265.json"
   }
 ]
