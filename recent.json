@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1781211864,
+    "filename": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered-samsung-SM-G996B-Mali-G78-1781211864.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1781202639,
     "filename": "Need_for_Speed__Rivals-AYN-Odin2_Portal-Adreno__TM__740-1781202639.json"
-  },
-  {
-    "game": "HxHNENxIMPACT",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781200964,
-    "filename": "HxHNENxIMPACT-Xiaomi-24117RN76G-Mali-G57_MC2-1781200964.json"
   }
 ]
