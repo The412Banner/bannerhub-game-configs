@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Darkness_II",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781198167,
+    "filename": "The_Darkness_II-TECNO-TECNO_LH7n-Mali-G57_MC2-1781198167.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1781182847,
     "filename": "INSIDE-vivo-V2307-Adreno__TM__619-1781182847.json"
-  },
-  {
-    "game": "ROM_de_Marvel_vs__Capcom_2___Jogo_para_Xbox___Baixar_ROMs__1_",
-    "manufacturer": "22111317PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1781181295,
-    "filename": "ROM_de_Marvel_vs__Capcom_2___Jogo_para_Xbox___Baixar_ROMs__1_-Xiaomi-22111317PG-Adreno__TM__619-1781181295.json"
   }
 ]
