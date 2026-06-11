@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1781149568,
+    "filename": "God_of_War-AYANEO-Pocket_FIT-Adreno__TM__750-1781149568.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Enhanced",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781136948,
     "filename": "Sniper_x86-INFINIX-Infinix_X6833B-Mali-G57_MC2-1781136948.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781136923,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2410FPCC5G-Mali-G52_MC2-1781136923.json"
   }
 ]
