@@ -1,5 +1,12 @@
 [
   {
+    "game": "BioShock",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1781149541,
+    "filename": "BioShock-AYANEO-Pocket_FIT-Adreno__TM__750-1781149541.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1781132431,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G985F-Mali-G77-1781132431.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1781129736,
-    "filename": "Resident_Evil_3-Xiaomi-23129RA5FL-Adreno__TM__610-1781129736.json"
   }
 ]
