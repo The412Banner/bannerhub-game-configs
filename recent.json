@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "22021211RG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781172691,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22021211RG-Adreno__TM__650-1781172691.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781149581,
     "filename": "High_on_Life_-AYANEO-Pocket_FIT-Adreno__TM__750-1781149581.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man_Remastered",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781149572,
-    "filename": "Marvel_s_Spider-Man_Remastered-AYANEO-Pocket_FIT-Adreno__TM__750-1781149572.json"
   }
 ]
