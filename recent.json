@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781151536,
+    "filename": "Tomb_Raider-Xiaomi-M2012K11AG-Adreno__TM__650-1781151536.json"
+  },
+  {
     "game": "Titanfall_2",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781144453,
     "filename": "proxy_sa-samsung-SM-S928B-Adreno__TM__750-1781144453.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1781142470,
-    "filename": "Resident_Evil_5-Xiaomi-24069PC21G-Adreno__TM__735-1781142470.json"
   }
 ]
