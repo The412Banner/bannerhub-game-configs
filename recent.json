@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Binding_of_Isaac",
+    "manufacturer": "CPH2653",
+    "device": "Adreno__TM__830",
+    "timestamp": 1781211623,
+    "filename": "The_Binding_of_Isaac-OnePlus-CPH2653-Adreno__TM__830-1781211623.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781200874,
     "filename": "Assassin_s_Creed__Brotherhood-realme-RMX5303-Mali-G57-1781200874.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1781200043,
-    "filename": "Resident_Evil_3-Xiaomi-23129RA5FL-Adreno__TM__610-1781200043.json"
   }
 ]
