@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Punisher",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781146345,
+    "filename": "The_Punisher-samsung-SM-A156M-Mali-G57_MC2-1781146345.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1781129505,
     "filename": "Little_Nightmares_III-Xiaomi-24018RPACG-Adreno__TM__740-1781129505.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781128241,
-    "filename": "Mafia_II__Classic_-vivo-V2344-Mali-G57-1781128241.json"
   }
 ]
