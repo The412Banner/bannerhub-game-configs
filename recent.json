@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Island_2",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1781149589,
+    "filename": "Dead_Island_2-AYANEO-Pocket_FIT-Adreno__TM__750-1781149589.json"
+  },
+  {
     "game": "Overlord",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1781141462,
     "filename": "Dead_Space__2-motorola-moto_g75_5G-Adreno__TM__710-1781141462.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1781139404,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781139404.json"
   }
 ]
