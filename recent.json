@@ -3,6 +3,13 @@
     "game": "State_of_Decay",
     "manufacturer": "Mali",
     "device": "G78",
+    "timestamp": 1781210220,
+    "filename": "State_of_Decay-samsung-SM-G996B-Mali-G78-1781210220.json"
+  },
+  {
+    "game": "State_of_Decay",
+    "manufacturer": "Mali",
+    "device": "G78",
     "timestamp": 1781210177,
     "filename": "State_of_Decay-samsung-SM-G996B-Mali-G78-1781210177.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781198151,
     "filename": "unins000-TECNO-TECNO_LH7n-Mali-G57_MC2-1781198151.json"
-  },
-  {
-    "game": "DeadIsland_Riptide",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781198127,
-    "filename": "DeadIsland_Riptide-TECNO-TECNO_LH7n-Mali-G57_MC2-1781198127.json"
   }
 ]
