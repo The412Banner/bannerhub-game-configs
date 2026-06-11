@@ -1,5 +1,12 @@
 [
   {
+    "game": "AC4BFSP",
+    "manufacturer": "TECNO_KJ7",
+    "device": "MT6789",
+    "timestamp": 1781211163,
+    "filename": "AC4BFSP-TECNO-TECNO_KJ7-MT6789-1781211163.json"
+  },
+  {
     "game": "Farming_Simulator_19",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1781198310,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23021RAAEG-Adreno__TM__610-1781198310.json"
-  },
-  {
-    "game": "The_Darkness_II",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781198167,
-    "filename": "The_Darkness_II-TECNO-TECNO_LH7n-Mali-G57_MC2-1781198167.json"
   }
 ]
