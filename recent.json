@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781213284,
+    "filename": "Pro_Evolution_Soccer_2013-nubia-Z2465N-Mali-G57-1781213284.json"
+  },
+  {
     "game": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1781203084,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6870-Mali-G615_MC2-1781203084.json"
-  },
-  {
-    "game": "Need_for_Speed__Rivals",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1781202639,
-    "filename": "Need_for_Speed__Rivals-AYN-Odin2_Portal-Adreno__TM__740-1781202639.json"
   }
 ]
