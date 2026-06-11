@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1781185676,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1781185676.json"
+  },
+  {
     "game": "Prototype_2",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781161364,
     "filename": "Oceanhorn_2__Knights_of_the_Lost_Realm-samsung-SM-S928B-Adreno__TM__750-1781161364.json"
-  },
-  {
-    "game": "Middle-earth___Shadow_of_Mordor_",
-    "manufacturer": "S928B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781161333,
-    "filename": "Middle-earth___Shadow_of_Mordor_-samsung-SM-S928B-Adreno__TM__750-1781161333.json"
   }
 ]
