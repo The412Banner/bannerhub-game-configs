@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1781195084,
+    "filename": "Resident_Evil_3-Xiaomi-23129RA5FL-Adreno__TM__610-1781195084.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1781179094,
     "filename": "MONSTER_HUNTER_FRONTIER_Z-Xiaomi-23073RPBFG-Adreno__TM__610-1781179094.json"
-  },
-  {
-    "game": "God_of_War_III______________________________________________",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781178235,
-    "filename": "God_of_War_III______________________________________________-Xiaomi-23043RP34G-Adreno__TM__650-1781178235.json"
   }
 ]
