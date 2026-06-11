@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Brotherhood",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781200874,
+    "filename": "Assassin_s_Creed__Brotherhood-realme-RMX5303-Mali-G57-1781200874.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1781185961,
     "filename": "PPSSPP______________________________________________________-ITEL-itel_A6610L-PowerVR_Rogue_GE8322-1781185961.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1781185676,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1781185676.json"
   }
 ]
