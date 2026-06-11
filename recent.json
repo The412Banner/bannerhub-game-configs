@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2014",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1781186444,
+    "filename": "F1_2014-Xiaomi-25053PC47G-Adreno__TM__825-1781186444.json"
+  },
+  {
     "game": "DeadIslandRiptideDE",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1781175750,
     "filename": "Grand_Theft_Auto_V-Xiaomi-24095PCADG-Mali-G615_MC2-1781175750.json"
-  },
-  {
-    "game": "gta_sa",
-    "manufacturer": "S928B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781173620,
-    "filename": "gta_sa-samsung-SM-S928B-Adreno__TM__750-1781173620.json"
   }
 ]
