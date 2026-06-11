@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "24048RN6CG",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1781204925,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24048RN6CG-PowerVR_Rogue_GE8322-1781204925.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
     "timestamp": 1781204001,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1781187452,
     "filename": "ROM_de_Marvel_vs__Capcom_2___Jogo_para_Xbox___Baixar_ROMs__1_-Xiaomi-22111317PG-Adreno__TM__619-1781187452.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1781187073,
-    "filename": "Sekiro___Shadows_Die_Twice-nubia-NX809J-Adreno__TM__840-1781187073.json"
   }
 ]
