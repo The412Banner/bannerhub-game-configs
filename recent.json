@@ -1,5 +1,12 @@
 [
   {
+    "game": "Singularity_________________________________________________",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1781177649,
+    "filename": "Singularity_________________________________________________-Xiaomi-24069PC21G-Adreno__TM__735-1781177649.json"
+  },
+  {
     "game": "3298_-_Pro_Evolution_Soccer_2014__Europe___Es_Pt_",
     "manufacturer": "22111317PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781151536,
     "filename": "Tomb_Raider-Xiaomi-M2012K11AG-Adreno__TM__650-1781151536.json"
-  },
-  {
-    "game": "Titanfall_2",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781149607,
-    "filename": "Titanfall_2-AYANEO-Pocket_FIT-Adreno__TM__750-1781149607.json"
   }
 ]
