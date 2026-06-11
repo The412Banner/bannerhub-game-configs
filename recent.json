@@ -1,5 +1,12 @@
 [
   {
+    "game": "PATCH_DMPES",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1781138645,
+    "filename": "PATCH_DMPES-Xiaomi-25053PC47G-Adreno__TM__825-1781138645.json"
+  },
+  {
     "game": "Sniper_x86",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781118924,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1781118924.json"
-  },
-  {
-    "game": "METAL_SLUG_DEFENSE",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1781117975,
-    "filename": "METAL_SLUG_DEFENSE-motorola-moto_g55_5G-PowerVR_B-Series_BXM-8-256-1781117975.json"
   }
 ]
