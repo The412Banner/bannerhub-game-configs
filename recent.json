@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Rogue",
+    "manufacturer": "22101320G",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1781220939,
+    "filename": "Assassin_s_Creed__Rogue-Xiaomi-22101320G-Adreno__TM__642L-1781220939.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1781211220,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781211220.json"
-  },
-  {
-    "game": "AC4BFSP",
-    "manufacturer": "TECNO_KJ7",
-    "device": "MT6789",
-    "timestamp": 1781211163,
-    "filename": "AC4BFSP-TECNO-TECNO_KJ7-MT6789-1781211163.json"
   }
 ]
