@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tribes_of_Midgard",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1781176346,
+    "filename": "Tribes_of_Midgard-Xiaomi-25053PC47G-Adreno__TM__825-1781176346.json"
+  },
+  {
     "game": "RESIDENT_EVIL_5",
     "manufacturer": "Mali",
     "device": "G76_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781149598,
     "filename": "Dead_Space_3-AYANEO-Pocket_FIT-Adreno__TM__750-1781149598.json"
-  },
-  {
-    "game": "Teenage_Mutant_Ninja_Turtles__Splintered_Fate",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781149594,
-    "filename": "Teenage_Mutant_Ninja_Turtles__Splintered_Fate-AYANEO-Pocket_FIT-Adreno__TM__750-1781149594.json"
   }
 ]
