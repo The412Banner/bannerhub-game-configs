@@ -1,5 +1,12 @@
 [
   {
+    "game": "DeadIslandRiptideDE",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1781186466,
+    "filename": "DeadIslandRiptideDE-Xiaomi-25053PC47G-Adreno__TM__825-1781186466.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781173620,
     "filename": "gta_sa-samsung-SM-S928B-Adreno__TM__750-1781173620.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "22021211RG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781172691,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22021211RG-Adreno__TM__650-1781172691.json"
   }
 ]
