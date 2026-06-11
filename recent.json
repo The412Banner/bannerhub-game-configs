@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781204001,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A336M-Mali-G68-1781204001.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G615_MC2",
     "timestamp": 1781203090,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6870-Mali-G615_MC2-1781203090.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1781187073,
     "filename": "Sekiro___Shadows_Die_Twice-nubia-NX809J-Adreno__TM__840-1781187073.json"
-  },
-  {
-    "game": "F1_2014",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1781186444,
-    "filename": "F1_2014-Xiaomi-25053PC47G-Adreno__TM__825-1781186444.json"
   }
 ]
