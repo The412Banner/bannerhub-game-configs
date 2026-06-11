@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781206945,
+    "filename": "BootstrapPackagedGame-samsung-SM-A075F-Mali-G57_MC2-1781206945.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH2727",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781190863,
     "filename": "Pro_Evolution_Soccer_2013-TCL-T612B-Mali-G52_MC2-1781190863.json"
-  },
-  {
-    "game": "Resident_Evil_Village_Gold_Edition_Gameplay_Demo",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781190239,
-    "filename": "Resident_Evil_Village_Gold_Edition_Gameplay_Demo-Xiaomi-23108RN04Y-Mali-G52_MC2-1781190239.json"
   }
 ]
