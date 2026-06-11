@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781145921,
+    "filename": "Need_for_Speed_9-TECNO-TECNO_KJ7s-Mali-G57_MC2-1781145921.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__613",
     "timestamp": 1781125759,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2416-Adreno__TM__613-1781125759.json"
-  },
-  {
-    "game": "SPEED2-ORIG",
-    "manufacturer": "SM1",
-    "device": "PowerVR_Rogue_GE8300",
-    "timestamp": 1781125591,
-    "filename": "SPEED2-ORIG-KAT-SM1-PowerVR_Rogue_GE8300-1781125591.json"
   }
 ]
