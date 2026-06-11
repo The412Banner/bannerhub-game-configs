@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sniper_x86",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781136948,
+    "filename": "Sniper_x86-INFINIX-Infinix_X6833B-Mali-G57_MC2-1781136948.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1781117975,
     "filename": "METAL_SLUG_DEFENSE-motorola-moto_g55_5G-PowerVR_B-Series_BXM-8-256-1781117975.json"
-  },
-  {
-    "game": "Outlast",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781116971,
-    "filename": "Outlast-TECNO-TECNO_KJ6-Mali-G57_MC2-1781116971.json"
   }
 ]
