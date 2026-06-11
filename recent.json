@@ -1,5 +1,12 @@
 [
   {
+    "game": "Roblox_Bootstrapper",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781216940,
+    "filename": "Roblox_Bootstrapper-Xiaomi-23053RN02A-Mali-G52_MC2-1781216940.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1781207836,
     "filename": "The_Long_Dark-samsung-SM-S911B-Adreno__TM__740-1781207836.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781206945,
-    "filename": "BootstrapPackagedGame-samsung-SM-A075F-Mali-G57_MC2-1781206945.json"
   }
 ]
