@@ -1,5 +1,12 @@
 [
   {
+    "game": "DeadIsland_Riptide",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781198127,
+    "filename": "DeadIsland_Riptide-TECNO-TECNO_LH7n-Mali-G57_MC2-1781198127.json"
+  },
+  {
     "game": "Crysis_2_-_Maximum_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1781181273,
     "filename": "INSIDE-vivo-V2307-Adreno__TM__619-1781181273.json"
-  },
-  {
-    "game": "PPSSPP______________________________________________________",
-    "manufacturer": "itel_A6610L",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1781179513,
-    "filename": "PPSSPP______________________________________________________-ITEL-itel_A6610L-PowerVR_Rogue_GE8322-1781179513.json"
   }
 ]
