@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1781187073,
+    "filename": "Sekiro___Shadows_Die_Twice-nubia-NX809J-Adreno__TM__840-1781187073.json"
+  },
+  {
     "game": "F1_2014",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G76_MC4",
     "timestamp": 1781176213,
     "filename": "RESIDENT_EVIL_5-INFINIX_MOBILITY_LIMITED-Infinix_X695-Mali-G76_MC4-1781176213.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1781175750,
-    "filename": "Grand_Theft_Auto_V-Xiaomi-24095PCADG-Mali-G615_MC2-1781175750.json"
   }
 ]
