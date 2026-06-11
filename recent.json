@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1781198917,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6870-Mali-G615_MC2-1781198917.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
     "timestamp": 1781198310,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781183792,
     "filename": "Prototype_2-samsung-SM-S928B-Adreno__TM__750-1781183792.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "TECNO_KH6",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1781183647,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KH6-PowerVR_Rogue_GE8320-1781183647.json"
   }
 ]
