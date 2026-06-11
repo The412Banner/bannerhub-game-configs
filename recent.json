@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1781141945,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A366E-Adreno__TM__710-1781141945.json"
+  },
+  {
     "game": "White_Knuckle",
     "manufacturer": "Mali",
     "device": "G715",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1781124265,
     "filename": "The_Walking_Dead__Michonne-OnePlus-CPH2709-Adreno__TM__735-1781124265.json"
-  },
-  {
-    "game": "Limbo",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781123941,
-    "filename": "Limbo-INFINIX-Infinix_X6525-Mali-G57-1781123941.json"
   }
 ]
