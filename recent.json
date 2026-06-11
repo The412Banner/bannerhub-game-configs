@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781136923,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2410FPCC5G-Mali-G52_MC2-1781136923.json"
+  },
+  {
     "game": "Need_for_Speed__Heat",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781116971,
     "filename": "Outlast-TECNO-TECNO_KJ6-Mali-G57_MC2-1781116971.json"
-  },
-  {
-    "game": "Prototype",
-    "manufacturer": "CPH2709",
-    "device": "Adreno__TM__735",
-    "timestamp": 1781115892,
-    "filename": "Prototype-OnePlus-CPH2709-Adreno__TM__735-1781115892.json"
   }
 ]
