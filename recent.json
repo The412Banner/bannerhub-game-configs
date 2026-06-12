@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1781226787,
+    "filename": "Rise_of_the_Tomb_Raider_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781226787.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2011",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1781215889,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781215889.json"
-  },
-  {
-    "game": "Format_Factory",
-    "manufacturer": "25062RN2DL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1781215163,
-    "filename": "Format_Factory-Xiaomi-25062RN2DL-Adreno__TM__610-1781215163.json"
   }
 ]
