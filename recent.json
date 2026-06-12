@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_Komplete_Edition",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1781285705,
+    "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781285705.json"
+  },
+  {
     "game": "F_E_A_R__3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781266924,
     "filename": "FINAL_FANTASY-AYANEO-Pocket_S2_Pro-Adreno__TM__750-1781266924.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1781264146,
-    "filename": "Watch_Dogs_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781264146.json"
   }
 ]
