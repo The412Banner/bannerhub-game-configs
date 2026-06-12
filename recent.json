@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1781270192,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1781270192.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1781269977,
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781229487,
     "filename": "DRAGON_BALL_Z__KAKAROT_Demo-realme-realme_Note_60-Mali-G57-1781229487.json"
-  },
-  {
-    "game": "DRAGON_BALL_Z__KAKAROT_Demo",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781229479,
-    "filename": "DRAGON_BALL_Z__KAKAROT_Demo-realme-realme_Note_60-Mali-G57-1781229479.json"
   }
 ]
