@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781272183,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1781272183.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1781235098,
     "filename": "Pro_Evolution_Soccer_2011-Xiaomi-25053PC47G-Adreno__TM__825-1781235098.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A037M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1781230369,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A037M-PowerVR_Rogue_GE8320-1781230369.json"
   }
 ]
