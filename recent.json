@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shadow_Warrior_2",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1781229137,
+    "filename": "Shadow_Warrior_2-nubia-NX809J-Adreno__TM__840-1781229137.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781219051,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-2502FRA65G-Mali-G57_MC2-1781219051.json"
-  },
-  {
-    "game": "Roblox_Bootstrapper",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781216940,
-    "filename": "Roblox_Bootstrapper-Xiaomi-23053RN02A-Mali-G52_MC2-1781216940.json"
   }
 ]
