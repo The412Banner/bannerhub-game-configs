@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2011",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781224973,
+    "filename": "Pro_Evolution_Soccer_2011-TCL-T612B-Mali-G52_MC2-1781224973.json"
+  },
+  {
     "game": "33_Immortals",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781213288,
     "filename": "Pro_Evolution_Soccer_2013-nubia-Z2465N-Mali-G57-1781213288.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781213284,
-    "filename": "Pro_Evolution_Soccer_2013-nubia-Z2465N-Mali-G57-1781213284.json"
   }
 ]
