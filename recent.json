@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Brotherhood",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781305467,
+    "filename": "Assassin_s_Creed__Brotherhood-realme-RMX5303-Mali-G57-1781305467.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__620",
     "timestamp": 1781279355,
     "filename": "Grand_Theft_Auto_V_-motorola-motorola_edge-Adreno__TM__620-1781279355.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_",
-    "manufacturer": "motorola_edge",
-    "device": "Adreno__TM__620",
-    "timestamp": 1781279348,
-    "filename": "Grand_Theft_Auto_V_-motorola-motorola_edge-Adreno__TM__620-1781279348.json"
   }
 ]
