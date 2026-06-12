@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A045F",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1781296736,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A045F-PowerVR_Rogue_GE8320-1781296736.json"
+  },
+  {
     "game": "Dig2",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1781274228,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24048RN6CG-PowerVR_Rogue_GE8322-1781274228.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781273282,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1781273282.json"
   }
 ]
