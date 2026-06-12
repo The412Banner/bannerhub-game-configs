@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dig2",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1781296030,
+    "filename": "Dig2-TECNO-TECNO_CL8-Mali-G610_MC6-1781296030.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781273282,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1781273282.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781272277,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1781272277.json"
   }
 ]
