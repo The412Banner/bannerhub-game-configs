@@ -1,5 +1,12 @@
 [
   {
+    "game": "OCTOPATH_TRAVELER_0",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1781224466,
+    "filename": "OCTOPATH_TRAVELER_0-Xiaomi-2510DPC44G-Adreno__TM__830-1781224466.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1781211864,
     "filename": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered-samsung-SM-G996B-Mali-G78-1781211864.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781211777,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_BG6-Mali-G57-1781211777.json"
   }
 ]
