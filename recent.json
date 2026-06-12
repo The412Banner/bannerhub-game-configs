@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_",
+    "manufacturer": "motorola_edge",
+    "device": "Adreno__TM__620",
+    "timestamp": 1781279348,
+    "filename": "Grand_Theft_Auto_V_-motorola-motorola_edge-Adreno__TM__620-1781279348.json"
+  },
+  {
     "game": "fifa14-3dm",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1781243993,
     "filename": "Stray-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781243993.json"
-  },
-  {
-    "game": "Ridge_Racer__Unbounded",
-    "manufacturer": "RMX5011",
-    "device": "Adreno__TM__830",
-    "timestamp": 1781242151,
-    "filename": "Ridge_Racer__Unbounded-realme-RMX5011-Adreno__TM__830-1781242151.json"
   }
 ]
