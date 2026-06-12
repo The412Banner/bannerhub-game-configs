@@ -1,5 +1,12 @@
 [
   {
+    "game": "33_Immortals",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781224954,
+    "filename": "33_Immortals-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1781224954.json"
+  },
+  {
     "game": "OCTOPATH_TRAVELER_0",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781213284,
     "filename": "Pro_Evolution_Soccer_2013-nubia-Z2465N-Mali-G57-1781213284.json"
-  },
-  {
-    "game": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1781211864,
-    "filename": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered-samsung-SM-G996B-Mali-G78-1781211864.json"
   }
 ]
