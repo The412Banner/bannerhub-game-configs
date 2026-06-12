@@ -1,5 +1,12 @@
 [
   {
+    "game": "NieR_Automata_",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781289683,
+    "filename": "NieR_Automata_-Xiaomi-23043RP34G-Adreno__TM__650-1781289683.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781270457,
     "filename": "Need_for_Speed_-samsung-SM-F956B-Adreno__TM__750-1781270457.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1781270192,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1781270192.json"
   }
 ]
