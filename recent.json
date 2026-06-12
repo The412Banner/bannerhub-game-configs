@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Brotherhood",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781282512,
+    "filename": "Assassin_s_Creed__Brotherhood-realme-RMX5303-Mali-G57-1781282512.json"
+  },
+  {
     "game": "C1-Launcher",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1781262136,
     "filename": "Schedule_I-samsung-SM-F926B-Adreno__TM__660-1781262136.json"
-  },
-  {
-    "game": "SuperMario64HD",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1781260950,
-    "filename": "SuperMario64HD-INFINIX-Infinix_X6871-Mali-G610_MC6-1781260950.json"
   }
 ]
