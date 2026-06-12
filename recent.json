@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Z__KAKAROT_Demo",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781229471,
+    "filename": "DRAGON_BALL_Z__KAKAROT_Demo-realme-realme_Note_60-Mali-G57-1781229471.json"
+  },
+  {
     "game": "Shadow_Warrior_2",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781219256,
     "filename": "The_Sims_2__________________________________________________-INFINIX-Infinix_X6525-Mali-G57-1781219256.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781219051,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-2502FRA65G-Mali-G57_MC2-1781219051.json"
   }
 ]
