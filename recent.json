@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781269977,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1781269977.json"
+  },
+  {
     "game": "FINAL_FANTASY",
     "manufacturer": "Pocket_S2_Pro",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781229479,
     "filename": "DRAGON_BALL_Z__KAKAROT_Demo-realme-realme_Note_60-Mali-G57-1781229479.json"
-  },
-  {
-    "game": "DRAGON_BALL_Z__KAKAROT_Demo",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781229471,
-    "filename": "DRAGON_BALL_Z__KAKAROT_Demo-realme-realme_Note_60-Mali-G57-1781229471.json"
   }
 ]
