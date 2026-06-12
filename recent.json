@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781236222,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g15-Mali-G52_MC2-1781236222.json"
+  },
+  {
     "game": "Halo_Infinite",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781224236,
     "filename": "Pro_Evolution_Soccer_2013-TCL-T612B-Mali-G52_MC2-1781224236.json"
-  },
-  {
-    "game": "Blood_West",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1781223183,
-    "filename": "Blood_West-motorola-motorola_edge_50_fusion-Adreno__TM__710-1781223183.json"
   }
 ]
