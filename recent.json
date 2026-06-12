@@ -1,5 +1,12 @@
 [
   {
+    "game": "pun",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781229665,
+    "filename": "pun-Xiaomi-2410FPCC5G-Mali-G52_MC2-1781229665.json"
+  },
+  {
     "game": "DRAGON_BALL_Z__KAKAROT_Demo",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781220857,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-2502FRA65G-Mali-G57_MC2-1781220857.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781220844,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-2502FRA65G-Mali-G57_MC2-1781220844.json"
   }
 ]
