@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781273282,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1781273282.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1781272277,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1781272277.json"
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781236222,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g15-Mali-G52_MC2-1781236222.json"
-  },
-  {
-    "game": "Halo_Infinite",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1781235965,
-    "filename": "Halo_Infinite-OUKITEL-WP200_Pro-Mali-G610_MC6-1781235965.json"
   }
 ]
