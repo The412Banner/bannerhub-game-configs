@@ -1,6 +1,13 @@
 [
   {
     "game": "________",
+    "manufacturer": "moto_g200_5G",
+    "device": "Adreno__TM__660",
+    "timestamp": 1781240955,
+    "filename": "________-motorola-moto_g200_5G-Adreno__TM__660-1781240955.json"
+  },
+  {
+    "game": "________",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
     "timestamp": 1781240773,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1781225812,
     "filename": "GTA_IV-Xiaomi-2405CRPFDG-Adreno__TM__710-1781225812.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2011",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781224973,
-    "filename": "Pro_Evolution_Soccer_2011-TCL-T612B-Mali-G52_MC2-1781224973.json"
   }
 ]
