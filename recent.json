@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781384050,
+    "filename": "Cuphead-INFINIX-Infinix_X6881-Mali-G57_MC2-1781384050.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1781369831,
     "filename": "OuterWilds-Xiaomi-25053RT47C-Adreno__TM__825-1781369831.json"
-  },
-  {
-    "game": "Hitman__Absolution_",
-    "manufacturer": "OPD2415",
-    "device": "Adreno__TM__830",
-    "timestamp": 1781369491,
-    "filename": "Hitman__Absolution_-OnePlus-OPD2415-Adreno__TM__830-1781369491.json"
   }
 ]
