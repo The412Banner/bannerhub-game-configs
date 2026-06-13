@@ -1,5 +1,12 @@
 [
   {
+    "game": "OuterWilds",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1781369831,
+    "filename": "OuterWilds-Xiaomi-25053RT47C-Adreno__TM__825-1781369831.json"
+  },
+  {
     "game": "Hitman__Absolution_",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1781337005,
     "filename": "Assassin_s_Creed__Syndicate-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781337005.json"
-  },
-  {
-    "game": "Lonely_Mountains__Downhill",
-    "manufacturer": "2510ERA8BG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1781333163,
-    "filename": "Lonely_Mountains__Downhill-Xiaomi-2510ERA8BG-Adreno__TM__810-1781333163.json"
   }
 ]
