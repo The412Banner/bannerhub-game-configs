@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Marvel__Super_Heroes",
+    "manufacturer": "22021211RG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781385871,
+    "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-22021211RG-Adreno__TM__650-1781385871.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1781370757,
     "filename": "GRID_Autosport-Xiaomi-25053PC47G-Adreno__TM__825-1781370757.json"
-  },
-  {
-    "game": "____14_____",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1781370752,
-    "filename": "____14_____-samsung-SM-G990E-Mali-G78-1781370752.json"
   }
 ]
