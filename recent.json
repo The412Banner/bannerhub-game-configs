@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013___________________________________",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781322671,
+    "filename": "Pro_Evolution_Soccer_2013___________________________________-samsung-SM-A035M-Mali-G57-1781322671.json"
+  },
+  {
     "game": "NieR_Automata_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1781290494,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1781290494.json"
-  },
-  {
-    "game": "Little_Nightmares_III",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1781290221,
-    "filename": "Little_Nightmares_III-Xiaomi-23049PCD8G-Adreno__TM__725-1781290221.json"
   }
 ]
