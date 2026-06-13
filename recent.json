@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "2201116SI",
+    "device": "Adreno__TM__619",
+    "timestamp": 1781310734,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-Xiaomi-2201116SI-Adreno__TM__619-1781310734.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g_60_",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781282512,
     "filename": "Assassin_s_Creed__Brotherhood-realme-RMX5303-Mali-G57-1781282512.json"
-  },
-  {
-    "game": "C1-Launcher",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1781281489,
-    "filename": "C1-Launcher-Xiaomi-2311DRK48G-Mali-G615_MC6-1781281489.json"
   }
 ]
