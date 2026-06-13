@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S721B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1781320970,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1781320970.json"
+  },
+  {
     "game": "Snooker_Blitz",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781289683,
     "filename": "NieR_Automata_-Xiaomi-23043RP34G-Adreno__TM__650-1781289683.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1781288412,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-OnePlus-CPH2717-Mali-G615_MC6-1781288412.json"
   }
 ]
