@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1781332718,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6876-Mali-G615_MC2-1781332718.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1781310734,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-Xiaomi-2201116SI-Adreno__TM__619-1781310734.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g_60_",
-    "device": "Adreno__TM__618",
-    "timestamp": 1781308310,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_60_-Adreno__TM__618-1781308310.json"
   }
 ]
