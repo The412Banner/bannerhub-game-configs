@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Syndicate",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781386418,
+    "filename": "Assassin_s_Creed__Syndicate-realme-RMX5303-Mali-G57-1781386418.json"
+  },
+  {
     "game": "PES_2018_-_Pro_Evolution_Soccer__USA___En_Fr_Es_Pt_",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1781372165,
     "filename": "Marvel_s_Spider-Man__Miles_Morales-OPPO-CPH2763-Mali-G615_MC2-1781372165.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man__Miles_Morales",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1781372006,
-    "filename": "Marvel_s_Spider-Man__Miles_Morales-OPPO-CPH2763-Mali-G615_MC2-1781372006.json"
   }
 ]
