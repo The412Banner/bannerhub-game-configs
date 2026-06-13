@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781378980,
+    "filename": "Grand_Theft_Auto_V_Legacy-Anbernic-RG556-Mali-G57-1781378980.json"
+  },
+  {
     "game": "ELDEN_RING_",
     "manufacturer": "2509FPN0BC",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781362351,
     "filename": "Pro_Evolution_Soccer_2013-TCL-T612B-Mali-G52_MC2-1781362351.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781362143,
-    "filename": "Pro_Evolution_Soccer_2013-TCL-T612B-Mali-G52_MC2-1781362143.json"
   }
 ]
