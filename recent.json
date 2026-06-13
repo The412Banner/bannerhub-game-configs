@@ -1,5 +1,12 @@
 [
   {
+    "game": "Postal2",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781363341,
+    "filename": "Postal2-samsung-SM-A536E-Mali-G68-1781363341.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781330518,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1781330518.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781328775,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_LH7n-Mali-G57_MC2-1781328775.json"
   }
 ]
