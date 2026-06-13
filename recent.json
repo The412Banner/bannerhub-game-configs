@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "motorola_edge_20",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1781380424,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_20-Adreno__TM__642L-1781380424.json"
+  },
+  {
     "game": "Dead_Space",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1781364264,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g34_5G-Adreno__TM__619-1781364264.json"
-  },
-  {
-    "game": "Postal2",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1781363341,
-    "filename": "Postal2-samsung-SM-A536E-Mali-G68-1781363341.json"
   }
 ]
