@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781384868,
+    "filename": "PlayGTAV-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1781384868.json"
+  },
+  {
     "game": "Sky_Force_Anniversary",
     "manufacturer": "RMX5011",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1781370752,
     "filename": "____14_____-samsung-SM-G990E-Mali-G78-1781370752.json"
-  },
-  {
-    "game": "EuroTruckSimulator2_setup",
-    "manufacturer": "M2101K6G",
-    "device": "Adreno__TM__618",
-    "timestamp": 1781370519,
-    "filename": "EuroTruckSimulator2_setup-Xiaomi-M2101K6G-Adreno__TM__618-1781370519.json"
   }
 ]
