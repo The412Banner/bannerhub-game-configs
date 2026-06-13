@@ -1,5 +1,12 @@
 [
   {
+    "game": "EuroTruckSimulator2_setup",
+    "manufacturer": "M2101K6G",
+    "device": "Adreno__TM__618",
+    "timestamp": 1781370519,
+    "filename": "EuroTruckSimulator2_setup-Xiaomi-M2101K6G-Adreno__TM__618-1781370519.json"
+  },
+  {
     "game": "OuterWilds",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1781337131,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781337131.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Syndicate",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1781337005,
-    "filename": "Assassin_s_Creed__Syndicate-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781337005.json"
   }
 ]
