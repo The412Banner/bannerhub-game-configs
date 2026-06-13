@@ -1,5 +1,12 @@
 [
   {
+    "game": "NieR_Automata_",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1781322315,
+    "filename": "NieR_Automata_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781322315.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S721B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1781290221,
     "filename": "Little_Nightmares_III-Xiaomi-23049PCD8G-Adreno__TM__725-1781290221.json"
-  },
-  {
-    "game": "NieR_Automata_",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781289683,
-    "filename": "NieR_Automata_-Xiaomi-23043RP34G-Adreno__TM__650-1781289683.json"
   }
 ]
