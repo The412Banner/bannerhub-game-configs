@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man__Miles_Morales",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1781372006,
+    "filename": "Marvel_s_Spider-Man__Miles_Morales-OPPO-CPH2763-Mali-G615_MC2-1781372006.json"
+  },
+  {
     "game": "GRID_Autosport",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781347983,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075F-Mali-G57_MC2-1781347983.json"
-  },
-  {
-    "game": "A_Plague_Tale__Requiem",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1781345794,
-    "filename": "A_Plague_Tale__Requiem-ayn-Odin3-Adreno__TM__830-1781345794.json"
   }
 ]
