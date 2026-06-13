@@ -1,5 +1,12 @@
 [
   {
+    "game": "Manhunt2",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781387102,
+    "filename": "Manhunt2-samsung-SM-A536E-Mali-G68-1781387102.json"
+  },
+  {
     "game": "Assassin_s_Creed__Syndicate",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781375432,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1781375432.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man__Miles_Morales",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1781372165,
-    "filename": "Marvel_s_Spider-Man__Miles_Morales-OPPO-CPH2763-Mali-G615_MC2-1781372165.json"
   }
 ]
