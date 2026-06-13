@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781375432,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1781375432.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man__Miles_Morales",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781357779,
     "filename": "Pro_Evolution_Soccer_2017-TECNO-TECNO_BG6-Mali-G57-1781357779.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781348833,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_LJ6-Mali-G57_MC2-1781348833.json"
   }
 ]
