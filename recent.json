@@ -1,5 +1,12 @@
 [
   {
+    "game": "GRID_Autosport",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1781370757,
+    "filename": "GRID_Autosport-Xiaomi-25053PC47G-Adreno__TM__825-1781370757.json"
+  },
+  {
     "game": "____14_____",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781345794,
     "filename": "A_Plague_Tale__Requiem-ayn-Odin3-Adreno__TM__830-1781345794.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1781345771,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_CN7c-Mali-G615_MC2-1781345771.json"
   }
 ]
