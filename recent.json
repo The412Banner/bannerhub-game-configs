@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sifu",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1781388565,
+    "filename": "Sifu-Xiaomi-M2102J20SG-Adreno__TM__640-1781388565.json"
+  },
+  {
     "game": "Manhunt2",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1781378531,
     "filename": "SILENT_HILL_2-Xiaomi-2509FPN0BC-Adreno__TM__840-1781378531.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781375432,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1781375432.json"
   }
 ]
