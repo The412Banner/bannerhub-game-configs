@@ -1,5 +1,12 @@
 [
   {
+    "game": "A_Plague_Tale__Requiem",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1781345794,
+    "filename": "A_Plague_Tale__Requiem-ayn-Odin3-Adreno__TM__830-1781345794.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1781320970,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1781320970.json"
-  },
-  {
-    "game": "Snooker_Blitz",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781320403,
-    "filename": "Snooker_Blitz-samsung-SM-A155M-Mali-G57_MC2-1781320403.json"
   }
 ]
