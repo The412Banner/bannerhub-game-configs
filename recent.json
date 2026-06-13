@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "moto_g22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1781367287,
+    "filename": "Need_for_Speed_9-motorola-moto_g22-PowerVR_Rogue_GE8320-1781367287.json"
+  },
+  {
     "game": "Devil_May_Cry_5",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781331833,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-G780G-Adreno__TM__650-1781331833.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781331600,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-G780G-Adreno__TM__650-1781331600.json"
   }
 ]
