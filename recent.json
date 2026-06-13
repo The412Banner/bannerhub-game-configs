@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1781383121,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2511FPC34G-Mali-G720_MC8-1781383121.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781369491,
     "filename": "Hitman__Absolution_-OnePlus-OPD2415-Adreno__TM__830-1781369491.json"
-  },
-  {
-    "game": "Hytale_Launcher",
-    "manufacturer": "itel_A6610L",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1781369272,
-    "filename": "Hytale_Launcher-ITEL-itel_A6610L-PowerVR_Rogue_GE8322-1781369272.json"
   }
 ]
