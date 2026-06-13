@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781365244,
+    "filename": "Devil_May_Cry_5-Xiaomi-2410FPCC5G-Mali-G52_MC2-1781365244.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781331600,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-G780G-Adreno__TM__650-1781331600.json"
-  },
-  {
-    "game": "The_Witcher_3__Wild_Hunt",
-    "manufacturer": "PKG110",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781330951,
-    "filename": "The_Witcher_3__Wild_Hunt-OnePlus-PKG110-Adreno__TM__750-1781330951.json"
   }
 ]
