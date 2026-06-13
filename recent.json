@@ -1,5 +1,12 @@
 [
   {
+    "game": "____14_____",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1781370752,
+    "filename": "____14_____-samsung-SM-G990E-Mali-G78-1781370752.json"
+  },
+  {
     "game": "EuroTruckSimulator2_setup",
     "manufacturer": "M2101K6G",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1781345771,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_CN7c-Mali-G615_MC2-1781345771.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1781337131,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781337131.json"
   }
 ]
