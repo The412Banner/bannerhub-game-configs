@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hytale_Launcher",
+    "manufacturer": "itel_A6610L",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1781369272,
+    "filename": "Hytale_Launcher-ITEL-itel_A6610L-PowerVR_Rogue_GE8322-1781369272.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "25062PC34G",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1781332718,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6876-Mali-G615_MC2-1781332718.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781332009,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-G780G-Adreno__TM__650-1781332009.json"
   }
 ]
