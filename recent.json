@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alba",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1781411737,
+    "filename": "Alba-Xiaomi-23113RKC6G-Adreno__TM__740-1781411737.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1781396304,
     "filename": "FIFA_14_-_Ultimate_Edition__________________________________-Xiaomi-25053PC47G-Adreno__TM__825-1781396304.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Infinix_X665E",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1781395926,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X665E-PowerVR_Rogue_GE8320-1781395926.json"
   }
 ]
