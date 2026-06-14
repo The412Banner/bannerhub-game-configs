@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX729J",
+    "device": "Adreno__TM__740",
+    "timestamp": 1781431107,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX729J-Adreno__TM__740-1781431107.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1781416330,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_60_-Adreno__TM__618-1781416330.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781415272,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-INFINIX-Infinix_X6886-Mali-G57_MC2-1781415272.json"
   }
 ]
