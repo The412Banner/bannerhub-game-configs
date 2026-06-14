@@ -1,5 +1,12 @@
 [
   {
+    "game": "White_Day_2",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1781436654,
+    "filename": "White_Day_2-LENOVO-TB322FC-Adreno__TM__830-1781436654.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "22021211RG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781417642,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23117RA68G-Mali-G57_MC2-1781417642.json"
-  },
-  {
-    "game": "____________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781417366,
-    "filename": "____________-samsung-SM-A155F-Mali-G57_MC2-1781417366.json"
   }
 ]
