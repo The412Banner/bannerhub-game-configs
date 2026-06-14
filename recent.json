@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781417642,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23117RA68G-Mali-G57_MC2-1781417642.json"
+  },
+  {
     "game": "____________",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1781403841,
     "filename": "naruto_storm_4-samsung-SM-S916B-Adreno__TM__740-1781403841.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "G781U",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781401582,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-G781U-Adreno__TM__650-1781401582.json"
   }
 ]
