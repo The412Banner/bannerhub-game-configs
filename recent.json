@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rayman__Origins",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781462472,
+    "filename": "Rayman__Origins-samsung-SM-A546E-Mali-G68-1781462472.json"
+  },
+  {
     "game": "A_Space_for_the_Unbound",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1781447324,
     "filename": "Undisputed-vivo-V2338A-Adreno__TM__740-1781447324.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781447296,
-    "filename": "BootstrapPackagedGame-samsung-SM-A055M-Mali-G52_MC2-1781447296.json"
   }
 ]
