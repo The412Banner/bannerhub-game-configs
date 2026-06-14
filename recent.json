@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "V1930",
+    "device": "Adreno__TM__620",
+    "timestamp": 1781427861,
+    "filename": "Left_4_Dead_2-vivo-V1930-Adreno__TM__620-1781427861.json"
+  },
+  {
     "game": "STORY_OF_SEASONS__Grand_Bazaar",
     "manufacturer": "V2520A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1781412431,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6876-Mali-G615_MC2-1781412431.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "G781U",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781412354,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G781U-Adreno__TM__650-1781412354.json"
   }
 ]
