@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2011",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781397530,
+    "filename": "Pro_Evolution_Soccer_2011-TCL-T612B-Mali-G52_MC2-1781397530.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781384868,
     "filename": "PlayGTAV-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1781384868.json"
-  },
-  {
-    "game": "Sky_Force_Anniversary",
-    "manufacturer": "RMX5011",
-    "device": "Adreno__TM__830",
-    "timestamp": 1781384356,
-    "filename": "Sky_Force_Anniversary-realme-RMX5011-Adreno__TM__830-1781384356.json"
   }
 ]
