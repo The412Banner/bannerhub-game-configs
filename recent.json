@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_3__Wild_Hunt",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1781466167,
+    "filename": "The_Witcher_3__Wild_Hunt-AYN-AYN_Thor-Adreno__TM__740-1781466167.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1781448350,
     "filename": "Tomb_Raider-Xiaomi-25053RT47C-Adreno__TM__825-1781448350.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "NP03J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781447858,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-nubia-NP03J-Adreno__TM__750-1781447858.json"
   }
 ]
