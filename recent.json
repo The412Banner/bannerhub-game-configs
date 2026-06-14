@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC__Devil_May_Cry",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1781398766,
+    "filename": "DmC__Devil_May_Cry-motorola-moto_g84_5G-Adreno__TM__619-1781398766.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781386418,
     "filename": "Assassin_s_Creed__Syndicate-realme-RMX5303-Mali-G57-1781386418.json"
-  },
-  {
-    "game": "PES_2018_-_Pro_Evolution_Soccer__USA___En_Fr_Es_Pt_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781385937,
-    "filename": "PES_2018_-_Pro_Evolution_Soccer__USA___En_Fr_Es_Pt_-Xiaomi-25028RN03L-Mali-G57-1781385937.json"
   }
 ]
