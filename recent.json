@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Rogue_Prince_of_Persia",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1781436688,
+    "filename": "The_Rogue_Prince_of_Persia-LENOVO-TB322FC-Adreno__TM__830-1781436688.json"
+  },
+  {
     "game": "SILENT_HILL_f",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1781422606,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1781422606.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781419816,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EL-Mali-G52_MC2-1781419816.json"
   }
 ]
