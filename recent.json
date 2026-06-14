@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft__NET_Framework_4",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781450882,
+    "filename": "Microsoft__NET_Framework_4-INFINIX-Infinix_X6881-Mali-G57_MC2-1781450882.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "G9650",
     "device": "Adreno__TM__630",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1781436785,
     "filename": "Resident_Evil_4__2005_-Lenovo-TB320FC-Adreno__TM__730-1781436785.json"
-  },
-  {
-    "game": "LOK",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1781436724,
-    "filename": "LOK-LENOVO-TB322FC-Adreno__TM__830-1781436724.json"
   }
 ]
