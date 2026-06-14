@@ -1,5 +1,12 @@
 [
   {
+    "game": "STORY_OF_SEASONS__Grand_Bazaar",
+    "manufacturer": "V2520A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1781427652,
+    "filename": "STORY_OF_SEASONS__Grand_Bazaar-vivo-V2520A-Adreno__TM__830-1781427652.json"
+  },
+  {
     "game": "OCTOPATH_TRAVELER_II",
     "manufacturer": "V2520A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781412354,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G781U-Adreno__TM__650-1781412354.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "G781U",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781412206,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G781U-Adreno__TM__650-1781412206.json"
   }
 ]
