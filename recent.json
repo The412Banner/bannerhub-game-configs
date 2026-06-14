@@ -1,5 +1,12 @@
 [
   {
+    "game": "VRChat",
+    "manufacturer": "S731B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1781416363,
+    "filename": "VRChat-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1781416363.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g_60_",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781401083,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-G781U-Adreno__TM__650-1781401083.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "G781U",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781401054,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-G781U-Adreno__TM__650-1781401054.json"
   }
 ]
