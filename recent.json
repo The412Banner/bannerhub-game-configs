@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781445343,
+    "filename": "Grand_Theft_Auto_IV-vivo-V2507-Mali-G57-1781445343.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2010",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781436654,
     "filename": "White_Day_2-LENOVO-TB322FC-Adreno__TM__830-1781436654.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "22021211RG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781434773,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-22021211RG-Adreno__TM__650-1781434773.json"
   }
 ]
