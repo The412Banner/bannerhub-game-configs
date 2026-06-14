@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781398132,
+    "filename": "Pro_Evolution_Soccer_2013-TCL-T612B-Mali-G52_MC2-1781398132.json"
+  },
+  {
     "game": "pse",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781385937,
     "filename": "PES_2018_-_Pro_Evolution_Soccer__USA___En_Fr_Es_Pt_-Xiaomi-25028RN03L-Mali-G57-1781385937.json"
-  },
-  {
-    "game": "LEGO__Marvel__Super_Heroes",
-    "manufacturer": "22021211RG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781385871,
-    "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-22021211RG-Adreno__TM__650-1781385871.json"
   }
 ]
