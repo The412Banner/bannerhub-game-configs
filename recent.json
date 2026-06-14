@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781466232,
+    "filename": "Euro_Truck_Simulator_2-realme-RMX5313-Mali-G57-1781466232.json"
+  },
+  {
     "game": "The_Witcher_3__Wild_Hunt",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1781448783,
     "filename": "NFSC-Xiaomi-25053PC47G-Adreno__TM__825-1781448783.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1781448350,
-    "filename": "Tomb_Raider-Xiaomi-25053RT47C-Adreno__TM__825-1781448350.json"
   }
 ]
