@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1781436671,
+    "filename": "Tomb_Raider-LENOVO-TB322FC-Adreno__TM__830-1781436671.json"
+  },
+  {
     "game": "Tomb_Raider__Underworld",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781417994,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24040RN64Y-Mali-G52_MC2-1781417994.json"
-  },
-  {
-    "game": "No_Im_not_a_Human___________________________________________",
-    "manufacturer": "2312CRAD3C",
-    "device": "Adreno__TM__710",
-    "timestamp": 1781417971,
-    "filename": "No_Im_not_a_Human___________________________________________-Xiaomi-2312CRAD3C-Adreno__TM__710-1781417971.json"
   }
 ]
