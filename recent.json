@@ -1,5 +1,12 @@
 [
   {
+    "game": "OCTOPATH_TRAVELER_II",
+    "manufacturer": "V2520A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1781427608,
+    "filename": "OCTOPATH_TRAVELER_II-vivo-V2520A-Adreno__TM__830-1781427608.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013___________________________________",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781412206,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G781U-Adreno__TM__650-1781412206.json"
-  },
-  {
-    "game": "Alba",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1781411737,
-    "filename": "Alba-Xiaomi-23113RKC6G-Adreno__TM__740-1781411737.json"
   }
 ]
