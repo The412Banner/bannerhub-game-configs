@@ -1,5 +1,12 @@
 [
   {
+    "game": "____________",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781417366,
+    "filename": "____________-samsung-SM-A155F-Mali-G57_MC2-1781417366.json"
+  },
+  {
     "game": "VRChat",
     "manufacturer": "S731B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781401582,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-G781U-Adreno__TM__650-1781401582.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "G781U",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781401083,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-G781U-Adreno__TM__650-1781401083.json"
   }
 ]
