@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4__2005_",
+    "manufacturer": "TB320FC",
+    "device": "Adreno__TM__730",
+    "timestamp": 1781436785,
+    "filename": "Resident_Evil_4__2005_-Lenovo-TB320FC-Adreno__TM__730-1781436785.json"
+  },
+  {
     "game": "LOK",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781427652,
     "filename": "STORY_OF_SEASONS__Grand_Bazaar-vivo-V2520A-Adreno__TM__830-1781427652.json"
-  },
-  {
-    "game": "OCTOPATH_TRAVELER_II",
-    "manufacturer": "V2520A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1781427608,
-    "filename": "OCTOPATH_TRAVELER_II-vivo-V2520A-Adreno__TM__830-1781427608.json"
   }
 ]
