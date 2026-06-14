@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_Playtime",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781468541,
+    "filename": "Poppy_Playtime-samsung-SM-A155M-Mali-G57_MC2-1781468541.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__630",
     "timestamp": 1781450598,
     "filename": "Far_Cry_3-samsung-SM-G9650-Adreno__TM__630-1781450598.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1781450203,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1781450203.json"
   }
 ]
