@@ -1,5 +1,12 @@
 [
   {
+    "game": "IW3SP-MOD",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1781428092,
+    "filename": "IW3SP-MOD-samsung-SM-S918B-Adreno__TM__740-1781428092.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "V1930",
     "device": "Adreno__TM__620",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1781412437,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6876-Mali-G615_MC2-1781412437.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1781412431,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6876-Mali-G615_MC2-1781412431.json"
   }
 ]
