@@ -1,5 +1,12 @@
 [
   {
+    "game": "Onikura_Demo",
+    "manufacturer": "S731B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1781415196,
+    "filename": "Onikura_Demo-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1781415196.json"
+  },
+  {
     "game": "Touhou_Farming___Minoriko_s_Homestead_Harvest",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781399299,
     "filename": "PRO_EVO_17-Xiaomi-25028RN03L-Mali-G57-1781399299.json"
-  },
-  {
-    "game": "DmC__Devil_May_Cry",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1781398766,
-    "filename": "DmC__Devil_May_Cry-motorola-moto_g84_5G-Adreno__TM__619-1781398766.json"
   }
 ]
