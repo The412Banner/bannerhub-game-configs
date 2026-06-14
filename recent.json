@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "G781U",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781412791,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G781U-Adreno__TM__650-1781412791.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781398132,
     "filename": "Pro_Evolution_Soccer_2013-TCL-T612B-Mali-G52_MC2-1781398132.json"
-  },
-  {
-    "game": "pse",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781397991,
-    "filename": "pse-TCL-T612B-Mali-G52_MC2-1781397991.json"
   }
 ]
