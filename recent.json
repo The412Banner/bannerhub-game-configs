@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2412DPC0AG",
+    "device": "MT6899",
+    "timestamp": 1781478115,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-MT6899-1781478115.json"
+  },
+  {
     "game": "Lethalmon",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781461623,
     "filename": "One-armed_robber-samsung-SM-A325M-Mali-G52_MC2-1781461623.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781461029,
-    "filename": "Grand_Theft_Auto_V-INFINIX-Infinix_X6833B-Mali-G57_MC2-1781461029.json"
   }
 ]
