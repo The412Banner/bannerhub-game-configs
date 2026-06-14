@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Revelations_2",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1781436715,
+    "filename": "Resident_Evil_Revelations_2-LENOVO-TB322FC-Adreno__TM__830-1781436715.json"
+  },
+  {
     "game": "Little_Nightmares_III",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1781427523,
     "filename": "Pro_Evolution_Soccer_2013___________________________________-Xiaomi-25053PC47G-Adreno__TM__825-1781427523.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "G781U",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781425331,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G781U-Adreno__TM__650-1781425331.json"
   }
 ]
