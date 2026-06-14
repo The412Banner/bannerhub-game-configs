@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781471122,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1781471122.json"
+  },
+  {
     "game": "Poppy_Playtime",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781450882,
     "filename": "Microsoft__NET_Framework_4-INFINIX-Infinix_X6881-Mali-G57_MC2-1781450882.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "G9650",
-    "device": "Adreno__TM__630",
-    "timestamp": 1781450598,
-    "filename": "Far_Cry_3-samsung-SM-G9650-Adreno__TM__630-1781450598.json"
   }
 ]
