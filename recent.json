@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVO_17",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781399299,
+    "filename": "PRO_EVO_17-Xiaomi-25028RN03L-Mali-G57-1781399299.json"
+  },
+  {
     "game": "DmC__Devil_May_Cry",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1781387102,
     "filename": "Manhunt2-samsung-SM-A536E-Mali-G68-1781387102.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Syndicate",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781386418,
-    "filename": "Assassin_s_Creed__Syndicate-realme-RMX5303-Mali-G57-1781386418.json"
   }
 ]
