@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781449210,
+    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6831-Mali-G52_MC2-1781449210.json"
+  },
+  {
     "game": "NFSC",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781436708,
     "filename": "Little_Nightmares_III-LENOVO-TB322FC-Adreno__TM__830-1781436708.json"
-  },
-  {
-    "game": "Kena__Bridge_of_Spirits",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1781436698,
-    "filename": "Kena__Bridge_of_Spirits-LENOVO-TB322FC-Adreno__TM__830-1781436698.json"
   }
 ]
