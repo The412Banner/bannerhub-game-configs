@@ -3,6 +3,13 @@
     "game": "One-armed_robber",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1781462105,
+    "filename": "One-armed_robber-samsung-SM-A325M-Mali-G52_MC2-1781462105.json"
+  },
+  {
+    "game": "One-armed_robber",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1781461623,
     "filename": "One-armed_robber-samsung-SM-A325M-Mali-G52_MC2-1781461623.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781445343,
     "filename": "Grand_Theft_Auto_IV-vivo-V2507-Mali-G57-1781445343.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2010",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1781444583,
-    "filename": "Pro_Evolution_Soccer_2010-Xiaomi-2312DRA50G-Adreno__TM__710-1781444583.json"
   }
 ]
