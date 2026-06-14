@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1781448350,
+    "filename": "Tomb_Raider-Xiaomi-25053RT47C-Adreno__TM__825-1781448350.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "NP03J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781436688,
     "filename": "The_Rogue_Prince_of_Persia-LENOVO-TB322FC-Adreno__TM__830-1781436688.json"
-  },
-  {
-    "game": "SILENT_HILL_f",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1781436681,
-    "filename": "SILENT_HILL_f-LENOVO-TB322FC-Adreno__TM__830-1781436681.json"
   }
 ]
