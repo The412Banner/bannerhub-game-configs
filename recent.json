@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "G781U",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781401054,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-G781U-Adreno__TM__650-1781401054.json"
+  },
+  {
     "game": "DmC__Devil_May_Cry",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781389162,
     "filename": "Pro_Evolution_Soccer_2013-realme-realme_Note_60-Mali-G57-1781389162.json"
-  },
-  {
-    "game": "Sifu",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1781388565,
-    "filename": "Sifu-Xiaomi-M2102J20SG-Adreno__TM__640-1781388565.json"
   }
 ]
