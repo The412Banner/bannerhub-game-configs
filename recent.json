@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1781422606,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1781422606.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1781419816,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EL-Mali-G52_MC2-1781419816.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781409887,
     "filename": "FINAL_FANTASY_IX-ayn-Odin3-Adreno__TM__830-1781409887.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781408163,
-    "filename": "Resident_Evil_4-Xiaomi-23100RN82L-Mali-G52_MC2-1781408163.json"
   }
 ]
