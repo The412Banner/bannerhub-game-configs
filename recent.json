@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781447296,
+    "filename": "BootstrapPackagedGame-samsung-SM-A055M-Mali-G52_MC2-1781447296.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781436663,
     "filename": "Tomb_Raider__Underworld-LENOVO-TB322FC-Adreno__TM__830-1781436663.json"
-  },
-  {
-    "game": "White_Day_2",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1781436654,
-    "filename": "White_Day_2-LENOVO-TB322FC-Adreno__TM__830-1781436654.json"
   }
 ]
