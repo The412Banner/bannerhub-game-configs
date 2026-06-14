@@ -1,5 +1,12 @@
 [
   {
+    "game": "pse",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781397991,
+    "filename": "pse-TCL-T612B-Mali-G52_MC2-1781397991.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2011",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781385871,
     "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-22021211RG-Adreno__TM__650-1781385871.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781384868,
-    "filename": "PlayGTAV-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1781384868.json"
   }
 ]
