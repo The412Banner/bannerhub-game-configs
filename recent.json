@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lethalmon",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1781477512,
+    "filename": "Lethalmon-AYN-AYN_Thor-Adreno__TM__740-1781477512.json"
+  },
+  {
     "game": "DARK_SOULS__II",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781461029,
     "filename": "Grand_Theft_Auto_V-INFINIX-Infinix_X6833B-Mali-G57_MC2-1781461029.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S731B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1781460105,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1781460105.json"
   }
 ]
