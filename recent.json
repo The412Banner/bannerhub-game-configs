@@ -1,5 +1,12 @@
 [
   {
+    "game": "FEZ",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1781440567,
+    "filename": "FEZ-Xiaomi-2311DRK48G-Mali-G615_MC6-1781440567.json"
+  },
+  {
     "game": "pes2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1781428108,
     "filename": "Blur-samsung-SM-S918B-Adreno__TM__740-1781428108.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1781428099,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S918B-Adreno__TM__740-1781428099.json"
   }
 ]
