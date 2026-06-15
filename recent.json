@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1781520208,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24095PCADG-Mali-G615_MC2-1781520208.json"
+  },
+  {
     "game": "Resident_Evil_Revelations_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781490580,
     "filename": "Dead_Cells-vivo-V2425A-Adreno__TM__750-1781490580.json"
-  },
-  {
-    "game": "GTA_IV__San_Andreas_Setup",
-    "manufacturer": "Mali",
-    "device": "G77",
-    "timestamp": 1781489441,
-    "filename": "GTA_IV__San_Andreas_Setup-samsung-SM-G985F-Mali-G77-1781489441.json"
   }
 ]
