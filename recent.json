@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2011",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781554460,
+    "filename": "F1_2011-Xiaomi-23117RA68G-Mali-G57_MC2-1781554460.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781534385,
     "filename": "SimCity_4-TECNO-TECNO_LI7-Mali-G57_MC2-1781534385.json"
-  },
-  {
-    "game": "Cities_Skylines_Deluxe_Edition_MULTi8_-_ElAmigos____________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781533360,
-    "filename": "Cities_Skylines_Deluxe_Edition_MULTi8_-_ElAmigos____________-TECNO-TECNO_LI7-Mali-G57_MC2-1781533360.json"
   }
 ]
