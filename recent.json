@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781545983,
+    "filename": "Pro_Evolution_Soccer_2017-TECNO-TECNO_KL4-Mali-G57-1781545983.json"
+  },
+  {
     "game": "L2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781531443,
     "filename": "Assassin_s_Creed__Revelations-samsung-SM-S928B-Adreno__TM__750-1781531443.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781530581,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1781530581.json"
   }
 ]
