@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781495361,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_LG7n-Mali-G57_MC2-1781495361.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1781477435,
     "filename": "DARK_SOULS__II-motorola-moto_g75_5G-Adreno__TM__710-1781477435.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2412DPC0AG",
-    "device": "MT6899",
-    "timestamp": 1781477390,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-MT6899-1781477390.json"
   }
 ]
