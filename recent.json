@@ -1,5 +1,12 @@
 [
   {
+    "game": "Launcher",
+    "manufacturer": "CPH2709",
+    "device": "Adreno__TM__735",
+    "timestamp": 1781536697,
+    "filename": "Launcher-OnePlus-CPH2709-Adreno__TM__735-1781536697.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1781524409,
     "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-M2102J20SG-Adreno__TM__640-1781524409.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781522994,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RN76G-Mali-G57_MC2-1781522994.json"
   }
 ]
