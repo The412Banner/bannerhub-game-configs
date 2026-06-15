@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S721B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1781524828,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1781524828.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1781497176,
     "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781497176.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1781496911,
-    "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781496911.json"
   }
 ]
