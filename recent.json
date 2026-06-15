@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1781560295,
+    "filename": "American_Truck_Simulator-LENOVO-TB322FC-Adreno__TM__830-1781560295.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1781536697,
     "filename": "Launcher-OnePlus-CPH2709-Adreno__TM__735-1781536697.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1781535584,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1781535584.json"
   }
 ]
