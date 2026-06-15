@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Cells",
+    "manufacturer": "V2425A",
+    "device": "Adreno__TM__750",
+    "timestamp": 1781490580,
+    "filename": "Dead_Cells-vivo-V2425A-Adreno__TM__750-1781490580.json"
+  },
+  {
     "game": "GTA_IV__San_Andreas_Setup",
     "manufacturer": "Mali",
     "device": "G77",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1781475372,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A736B-Adreno__TM__642L-1781475372.json"
-  },
-  {
-    "game": "NINJA_GAIDEN_Ragebound",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781475021,
-    "filename": "NINJA_GAIDEN_Ragebound-samsung-SM-A156M-Mali-G57_MC2-1781475021.json"
   }
 ]
