@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_IV__San_Andreas_Setup",
+    "manufacturer": "Mali",
+    "device": "G77",
+    "timestamp": 1781489441,
+    "filename": "GTA_IV__San_Andreas_Setup-samsung-SM-G985F-Mali-G77-1781489441.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781475021,
     "filename": "NINJA_GAIDEN_Ragebound-samsung-SM-A156M-Mali-G57_MC2-1781475021.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781472583,
-    "filename": "Euro_Truck_Simulator_2-LENOVO-TB321FU-Adreno__TM__750-1781472583.json"
   }
 ]
