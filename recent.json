@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1781524742,
+    "filename": "Red_Dead_Redemption-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781524742.json"
+  },
+  {
     "game": "God_of_War_1_de_ps2_",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1781496911,
     "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781496911.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781495663,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1781495663.json"
   }
 ]
