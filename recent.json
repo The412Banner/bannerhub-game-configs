@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_1_de_ps2_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781524532,
+    "filename": "God_of_War_1_de_ps2_-motorola-moto_g06-Mali-G52_MC2-1781524532.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781495663,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1781495663.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781495361,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_LG7n-Mali-G57_MC2-1781495361.json"
   }
 ]
