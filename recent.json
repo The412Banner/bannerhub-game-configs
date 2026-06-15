@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "2412DPC0AG",
+    "device": "MT6899",
+    "timestamp": 1781560671,
+    "filename": "Tomb_Raider-Xiaomi-2412DPC0AG-MT6899-1781560671.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781537759,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2591-Mali-G52_MC2-1781537759.json"
-  },
-  {
-    "game": "Launcher",
-    "manufacturer": "CPH2709",
-    "device": "Adreno__TM__735",
-    "timestamp": 1781536697,
-    "filename": "Launcher-OnePlus-CPH2709-Adreno__TM__735-1781536697.json"
   }
 ]
