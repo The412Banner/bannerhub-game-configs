@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_Komplete_Edition",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1781524409,
+    "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-M2102J20SG-Adreno__TM__640-1781524409.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781495361,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_LG7n-Mali-G57_MC2-1781495361.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781491684,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2409BRN2CY-Mali-G52_MC2-1781491684.json"
   }
 ]
