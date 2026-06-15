@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781495663,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1781495663.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1781477512,
     "filename": "Lethalmon-AYN-AYN_Thor-Adreno__TM__740-1781477512.json"
-  },
-  {
-    "game": "DARK_SOULS__II",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1781477435,
-    "filename": "DARK_SOULS__II-motorola-moto_g75_5G-Adreno__TM__710-1781477435.json"
   }
 ]
