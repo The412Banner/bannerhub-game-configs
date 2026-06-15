@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781537759,
+    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2591-Mali-G52_MC2-1781537759.json"
+  },
+  {
     "game": "Launcher",
     "manufacturer": "CPH2709",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781524532,
     "filename": "God_of_War_1_de_ps2_-motorola-moto_g06-Mali-G52_MC2-1781524532.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1781524409,
-    "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-M2102J20SG-Adreno__TM__640-1781524409.json"
   }
 ]
