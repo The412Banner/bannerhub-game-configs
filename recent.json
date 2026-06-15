@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1781551855,
+    "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781551855.json"
+  },
+  {
     "game": "Mount___Blade_II__Bannerlord",
     "manufacturer": "N49",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781533360,
     "filename": "Cities_Skylines_Deluxe_Edition_MULTi8_-_ElAmigos____________-TECNO-TECNO_LI7-Mali-G57_MC2-1781533360.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781533350,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A035M-Mali-G57-1781533350.json"
   }
 ]
