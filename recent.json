@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Elder_Scrolls_V__Skyrim",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1781499889,
+    "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781499889.json"
+  },
+  {
     "game": "DEAD_OR_ALIVE_5_Last_Round",
     "manufacturer": "V2427",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1781482265,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1781482265.json"
-  },
-  {
-    "game": "Naruto_Shippuden_Ultimate_Ninja_Impact_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781481848,
-    "filename": "Naruto_Shippuden_Ultimate_Ninja_Impact_2-INFINIX-Infinix_X6881-Mali-G57_MC2-1781481848.json"
   }
 ]
