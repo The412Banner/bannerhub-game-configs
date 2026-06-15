@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781556349,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409BRN2CA-Mali-G52_MC2-1781556349.json"
+  },
+  {
     "game": "F1_2011",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1781535584,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1781535584.json"
-  },
-  {
-    "game": "SimCity_4",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781534385,
-    "filename": "SimCity_4-TECNO-TECNO_LI7-Mali-G57_MC2-1781534385.json"
   }
 ]
