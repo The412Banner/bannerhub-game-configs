@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G71",
+    "timestamp": 1781527665,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A205G-Mali-G71-1781527665.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
     "timestamp": 1781525458,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781498477,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_LG7n-Mali-G57_MC2-1781498477.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1781498006,
-    "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781498006.json"
   }
 ]
