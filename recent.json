@@ -3,6 +3,13 @@
     "game": "MafiaSetupXPHotfix",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1781566906,
+    "filename": "MafiaSetupXPHotfix-samsung-SM-A035M-Mali-G57-1781566906.json"
+  },
+  {
+    "game": "MafiaSetupXPHotfix",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1781566898,
     "filename": "MafiaSetupXPHotfix-samsung-SM-A035M-Mali-G57-1781566898.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781541305,
     "filename": "L2-TECNO-TECNO_CK7n-Mali-G57_MC2-1781541305.json"
-  },
-  {
-    "game": "Launcher",
-    "manufacturer": "CPH2709",
-    "device": "Adreno__TM__735",
-    "timestamp": 1781540555,
-    "filename": "Launcher-OnePlus-CPH2709-Adreno__TM__735-1781540555.json"
   }
 ]
