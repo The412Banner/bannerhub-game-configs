@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1781484815,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781484815.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781468541,
     "filename": "Poppy_Playtime-samsung-SM-A155M-Mali-G57_MC2-1781468541.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1781468188,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1781468188.json"
   }
 ]
