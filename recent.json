@@ -1,5 +1,12 @@
 [
   {
+    "game": "MafiaSetupXPHotfix",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781566898,
+    "filename": "MafiaSetupXPHotfix-samsung-SM-A035M-Mali-G57-1781566898.json"
+  },
+  {
     "game": "The_Elder_Scrolls_V__Skyrim",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1781540555,
     "filename": "Launcher-OnePlus-CPH2709-Adreno__TM__735-1781540555.json"
-  },
-  {
-    "game": "Prototype_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1781539677,
-    "filename": "Prototype_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781539677.json"
   }
 ]
