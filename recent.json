@@ -1,5 +1,12 @@
 [
   {
+    "game": "nfs",
+    "manufacturer": "S926B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1781619030,
+    "filename": "nfs-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1781619030.json"
+  },
+  {
     "game": "gta-vc_Batman",
     "manufacturer": "Mali",
     "device": "G71",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1781586519,
     "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781586519.json"
-  },
-  {
-    "game": "LEGO__Marvel__Super_Heroes",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781584845,
-    "filename": "LEGO__Marvel__Super_Heroes-motorola-moto_g04-Mali-G57-1781584845.json"
   }
 ]
