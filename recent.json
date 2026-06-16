@@ -1,5 +1,12 @@
 [
   {
+    "game": "Withering_Rooms",
+    "manufacturer": "motorola_edge_30_fusion",
+    "device": "Adreno__TM__660",
+    "timestamp": 1781587964,
+    "filename": "Withering_Rooms-motorola-motorola_edge_30_fusion-Adreno__TM__660-1781587964.json"
+  },
+  {
     "game": "Lost_Ruins",
     "manufacturer": "motorola_edge_30_fusion",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781562844,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_KM6-Mali-G57_MC2-1781562844.json"
-  },
-  {
-    "game": "GTA_IV__San_Andreas_Setup",
-    "manufacturer": "Mali",
-    "device": "G77",
-    "timestamp": 1781561916,
-    "filename": "GTA_IV__San_Andreas_Setup-samsung-SM-G985F-Mali-G77-1781561916.json"
   }
 ]
