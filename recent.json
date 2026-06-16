@@ -1,5 +1,12 @@
 [
   {
+    "game": "TES4__Oblivion",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781625069,
+    "filename": "TES4__Oblivion-MOTOROLA-XT2575-4-Mali-G57_MC2-1781625069.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781598128,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-25078PC3EG-Mali-G52_MC2-1781598128.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781591597,
-    "filename": "Need_for_Speed_9-Anbernic-RG_406H-Mali-G57-1781591597.json"
   }
 ]
