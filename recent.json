@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman___Arkham_VR",
+    "manufacturer": "CPH2727",
+    "device": "Adreno__TM__610",
+    "timestamp": 1781581159,
+    "filename": "Batman___Arkham_VR-OPPO-CPH2727-Adreno__TM__610-1781581159.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A042M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781556349,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409BRN2CA-Mali-G52_MC2-1781556349.json"
-  },
-  {
-    "game": "F1_2011",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781554460,
-    "filename": "F1_2011-Xiaomi-23117RA68G-Mali-G57_MC2-1781554460.json"
   }
 ]
