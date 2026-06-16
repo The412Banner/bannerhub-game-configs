@@ -1,5 +1,12 @@
 [
   {
+    "game": "007_First_Light",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781654179,
+    "filename": "007_First_Light-samsung-SM-A065M-Mali-G52_MC2-1781654179.json"
+  },
+  {
     "game": "_________",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1781628403,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g84_5G-Adreno__TM__619-1781628403.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1781628376,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g84_5G-Adreno__TM__619-1781628376.json"
   }
 ]
