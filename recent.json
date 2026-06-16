@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "motorola_edge_50_ultra",
+    "device": "Adreno__TM__735",
+    "timestamp": 1781637191,
+    "filename": "Need_for_Speed_9-motorola-motorola_edge_50_ultra-Adreno__TM__735-1781637191.json"
+  },
+  {
     "game": "The_Last_Case_of_Benedict_Fox",
     "manufacturer": "G986U",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G72_MP3",
     "timestamp": 1781620214,
     "filename": "PlayGTAV-OPPO-CPH1911-Mali-G72_MP3-1781620214.json"
-  },
-  {
-    "game": "nfs",
-    "manufacturer": "S926B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1781619030,
-    "filename": "nfs-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1781619030.json"
   }
 ]
