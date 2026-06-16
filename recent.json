@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "TM12",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1781569990,
+    "filename": "Pro_Evolution_Soccer_2013-BLUEWORLD-TM12-PowerVR_Rogue_GE8320-1781569990.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G781U",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781548329,
     "filename": "Prototype_2-INFINIX-Infinix_X6858-Mali-G57_MC2-1781548329.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781546807,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-A315F-Mali-G52_MC2-1781546807.json"
   }
 ]
