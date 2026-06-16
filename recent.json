@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781627993,
+    "filename": "Red_Dead_Redemption-samsung-SM-A165F-Mali-G57_MC2-1781627993.json"
+  },
+  {
     "game": "Poppy_Playtime",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781602245,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RN76G-Mali-G57_MC2-1781602245.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "2201123G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1781598186,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-Xiaomi-2201123G-Adreno__TM__730-1781598186.json"
   }
 ]
