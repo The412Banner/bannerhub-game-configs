@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Binding_of_Isaac",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781639273,
+    "filename": "The_Binding_of_Isaac-Xiaomi-2409BRN2CL-Mali-G52_MC2-1781639273.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "motorola_edge_50_ultra",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781621548,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-nubia-NP05J-Adreno__TM__830-1781621548.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G72_MP3",
-    "timestamp": 1781620214,
-    "filename": "PlayGTAV-OPPO-CPH1911-Mali-G72_MP3-1781620214.json"
   }
 ]
