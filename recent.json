@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta-vc_Batman",
+    "manufacturer": "Mali",
+    "device": "G71",
+    "timestamp": 1781618176,
+    "filename": "gta-vc_Batman-samsung-SM-A750F-Mali-G71-1781618176.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH2819",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781584845,
     "filename": "LEGO__Marvel__Super_Heroes-motorola-moto_g04-Mali-G57-1781584845.json"
-  },
-  {
-    "game": "UE4Game",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1781582044,
-    "filename": "UE4Game-motorola-moto_g55_5G-PowerVR_B-Series_BXM-8-256-1781582044.json"
   }
 ]
