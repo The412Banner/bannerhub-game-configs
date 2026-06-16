@@ -1,5 +1,12 @@
 [
   {
+    "game": "TES4__Oblivion",
+    "manufacturer": "A566B",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1781616588,
+    "filename": "TES4__Oblivion-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1781616588.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1781580274,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1781580274.json"
-  },
-  {
-    "game": "Hades",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1781578888,
-    "filename": "Hades-motorola-motorola_edge_60-Mali-G615_MC2-1781578888.json"
   }
 ]
