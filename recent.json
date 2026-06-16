@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781628621,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1781628621.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
     "timestamp": 1781628406,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1781613262,
     "filename": "Batman___Arkham_VR-Xiaomi-22111317G-Adreno__TM__619-1781613262.json"
-  },
-  {
-    "game": "DEVIL_MAY_CRY_4_TRIAL",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781611283,
-    "filename": "DEVIL_MAY_CRY_4_TRIAL-TECNO-TECNO_BG6-Mali-G57-1781611283.json"
   }
 ]
