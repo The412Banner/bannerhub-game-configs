@@ -1,5 +1,12 @@
 [
   {
+    "game": "ONE_PIECE__PIRATE_WARRIORS_4",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1781622559,
+    "filename": "ONE_PIECE__PIRATE_WARRIORS_4-INFINIX-Infinix_X6873-Mali-G615_MC6-1781622559.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781590393,
     "filename": "Pro_Evolution_Soccer_2012-Xiaomi-2312FPCA6G-Mali-G57_MC2-1781590393.json"
-  },
-  {
-    "game": "Devil_May_Cry_4_Special_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781588443,
-    "filename": "Devil_May_Cry_4_Special_Edition-realme-RMX5020-Mali-G52_MC2-1781588443.json"
   }
 ]
