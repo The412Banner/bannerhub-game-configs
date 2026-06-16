@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781598128,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-25078PC3EG-Mali-G52_MC2-1781598128.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781569133,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G781U-Adreno__TM__650-1781569133.json"
-  },
-  {
-    "game": "MafiaSetupXPHotfix",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781566906,
-    "filename": "MafiaSetupXPHotfix-samsung-SM-A035M-Mali-G57-1781566906.json"
   }
 ]
