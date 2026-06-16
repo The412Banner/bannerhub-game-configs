@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Last_Case_of_Benedict_Fox",
+    "manufacturer": "G986U",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781637070,
+    "filename": "The_Last_Case_of_Benedict_Fox-samsung-SM-G986U-Adreno__TM__650-1781637070.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2011",
     "manufacturer": "moto_g52",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1781619030,
     "filename": "nfs-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1781619030.json"
-  },
-  {
-    "game": "gta-vc_Batman",
-    "manufacturer": "Mali",
-    "device": "G71",
-    "timestamp": 1781618176,
-    "filename": "gta-vc_Batman-samsung-SM-A750F-Mali-G71-1781618176.json"
   }
 ]
