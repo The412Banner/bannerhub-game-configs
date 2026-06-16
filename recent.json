@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781617471,
+    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_P661N-Mali-G57_MC2-1781617471.json"
+  },
+  {
     "game": "TES4__Oblivion",
     "manufacturer": "A566B",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1781581159,
     "filename": "Batman___Arkham_VR-OPPO-CPH2727-Adreno__TM__610-1781581159.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A042M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1781580274,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1781580274.json"
   }
 ]
