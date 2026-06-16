@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_Playtime",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781626888,
+    "filename": "Poppy_Playtime-samsung-SM-A075M-Mali-G57_MC2-1781626888.json"
+  },
+  {
     "game": "TES4__Oblivion",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1781598186,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-Xiaomi-2201123G-Adreno__TM__730-1781598186.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781598128,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-25078PC3EG-Mali-G52_MC2-1781598128.json"
   }
 ]
