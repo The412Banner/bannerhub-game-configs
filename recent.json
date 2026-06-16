@@ -1,5 +1,12 @@
 [
   {
+    "game": "Signal___",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781632518,
+    "filename": "Signal___-Anbernic-RG_406H-Mali-G57-1781632518.json"
+  },
+  {
     "game": "TheAmazingSpider-Man2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781617471,
     "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_P661N-Mali-G57_MC2-1781617471.json"
-  },
-  {
-    "game": "TES4__Oblivion",
-    "manufacturer": "A566B",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1781616588,
-    "filename": "TES4__Oblivion-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1781616588.json"
   }
 ]
