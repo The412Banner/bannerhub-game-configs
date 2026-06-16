@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sniper_Ghost_Warrior_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1781648853,
+    "filename": "Sniper_Ghost_Warrior_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781648853.json"
+  },
+  {
     "game": "Yakuza_0",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781626888,
     "filename": "Poppy_Playtime-samsung-SM-A075M-Mali-G57_MC2-1781626888.json"
-  },
-  {
-    "game": "TES4__Oblivion",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781625069,
-    "filename": "TES4__Oblivion-MOTOROLA-XT2575-4-Mali-G57_MC2-1781625069.json"
   }
 ]
