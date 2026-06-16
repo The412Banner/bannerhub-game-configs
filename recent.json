@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781631959,
+    "filename": "TheAmazingSpider-Man2-TECNO-TECNO_KL4-Mali-G57-1781631959.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1781616588,
     "filename": "TES4__Oblivion-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1781616588.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781614577,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1781614577.json"
   }
 ]
