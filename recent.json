@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781591597,
+    "filename": "Need_for_Speed_9-Anbernic-RG_406H-Mali-G57-1781591597.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2012",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781566906,
     "filename": "MafiaSetupXPHotfix-samsung-SM-A035M-Mali-G57-1781566906.json"
-  },
-  {
-    "game": "MafiaSetupXPHotfix",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781566898,
-    "filename": "MafiaSetupXPHotfix-samsung-SM-A035M-Mali-G57-1781566898.json"
   }
 ]
