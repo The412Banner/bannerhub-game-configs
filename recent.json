@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781602245,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RN76G-Mali-G57_MC2-1781602245.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "2201123G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1781569990,
     "filename": "Pro_Evolution_Soccer_2013-BLUEWORLD-TM12-PowerVR_Rogue_GE8320-1781569990.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G781U",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781569192,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G781U-Adreno__TM__650-1781569192.json"
   }
 ]
