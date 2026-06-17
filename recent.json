@@ -1,5 +1,12 @@
 [
   {
+    "game": "Outlast",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781694582,
+    "filename": "Outlast-TECNO-TECNO_KJ6-Mali-G57_MC2-1781694582.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781667108,
     "filename": "Dead_Space__2-samsung-SM-S928B-Adreno__TM__750-1781667108.json"
-  },
-  {
-    "game": "GTA_V_Launcher",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781666405,
-    "filename": "GTA_V_Launcher-vivo-V2109-Mali-G52_MC2-1781666405.json"
   }
 ]
