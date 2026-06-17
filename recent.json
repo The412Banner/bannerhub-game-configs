@@ -1,5 +1,12 @@
 [
   {
+    "game": "Forza_Horizon_2_Launcher",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1781734387,
+    "filename": "Forza_Horizon_2_Launcher-Xiaomi-23129RA5FL-Adreno__TM__610-1781734387.json"
+  },
+  {
     "game": "Poppy_Playtime_chapter_5_",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1781717245,
     "filename": "UE4Game-OnePlus-CPH2709-Adreno__TM__735-1781717245.json"
-  },
-  {
-    "game": "tvlz",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781715048,
-    "filename": "tvlz-samsung-SM-A055M-Mali-G52_MC2-1781715048.json"
   }
 ]
