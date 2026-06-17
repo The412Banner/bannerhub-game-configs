@@ -1,5 +1,12 @@
 [
   {
+    "game": "Phoenix_Wright__Ace_Attorney_Trilogy",
+    "manufacturer": "F966B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1781730192,
+    "filename": "Phoenix_Wright__Ace_Attorney_Trilogy-samsung-SM-F966B-Adreno__TM__830-1781730192.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "23122PCD1G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1781712252,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23021RAAEG-Adreno__TM__610-1781712252.json"
-  },
-  {
-    "game": "GIANTS_Engine",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1781712199,
-    "filename": "GIANTS_Engine-motorola-motorola_edge_60_pro-Mali-G615_MC6-1781712199.json"
   }
 ]
