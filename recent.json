@@ -1,5 +1,12 @@
 [
   {
+    "game": "AutoPlay_Menu_Builder",
+    "manufacturer": "X216B",
+    "device": "Adreno__TM__619",
+    "timestamp": 1781737789,
+    "filename": "AutoPlay_Menu_Builder-samsung-SM-X216B-Adreno__TM__619-1781737789.json"
+  },
+  {
     "game": "START-GAME",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781719625,
     "filename": "Battlefield__1-samsung-SM-S928B-Adreno__TM__750-1781719625.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1781719313,
-    "filename": "PlayGTAV-samsung-SM-A256E-Mali-G68-1781719313.json"
   }
 ]
