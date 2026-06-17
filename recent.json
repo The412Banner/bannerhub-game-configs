@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "G781U",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781667798,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-G781U-Adreno__TM__650-1781667798.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1781657116,
     "filename": "The_Elder_Scrolls_V__Skyrim_Special_Edition-Xiaomi-23049PCD8G-Adreno__TM__725-1781657116.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "CPH2819",
-    "device": "Adreno__TM__610",
-    "timestamp": 1781654384,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2819-Adreno__TM__610-1781654384.json"
   }
 ]
