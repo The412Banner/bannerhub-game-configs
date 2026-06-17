@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781707386,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-24117RN76L-Mali-G57_MC2-1781707386.json"
+  },
+  {
     "game": "Lego_Batman_3",
     "manufacturer": "2405CRPFDG",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1781674399,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201116SG-Adreno__TM__619-1781674399.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013_tutu",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781673250,
-    "filename": "Pro_Evolution_Soccer_2013_tutu-samsung-SM-A055M-Mali-G52_MC2-1781673250.json"
   }
 ]
