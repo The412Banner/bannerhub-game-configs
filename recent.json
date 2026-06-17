@@ -1,5 +1,12 @@
 [
   {
+    "game": "far_cry",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781711553,
+    "filename": "far_cry-Xiaomi-2310FPCA4G-Mali-G52_MC2-1781711553.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2201116SG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781680442,
     "filename": "NFS__Most_Wanted-samsung-SM-S9210-Adreno__TM__750-1781680442.json"
-  },
-  {
-    "game": "NFS__Most_Wanted",
-    "manufacturer": "S9210",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781680431,
-    "filename": "NFS__Most_Wanted-samsung-SM-S9210-Adreno__TM__750-1781680431.json"
   }
 ]
