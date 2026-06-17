@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Elder_Scrolls_V__Skyrim_Special_Edition",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1781657116,
+    "filename": "The_Elder_Scrolls_V__Skyrim_Special_Edition-Xiaomi-23049PCD8G-Adreno__TM__725-1781657116.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH2819",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1781628621,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1781628621.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1781628406,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g84_5G-Adreno__TM__619-1781628406.json"
   }
 ]
