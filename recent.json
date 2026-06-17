@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781671152,
+    "filename": "Resident_Evil_5-TECNO-TECNO_LH7n-Mali-G57_MC2-1781671152.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013_tutu",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1781661221,
     "filename": "God_of_War-samsung-SM-F731B-Adreno__TM__740-1781661221.json"
-  },
-  {
-    "game": "ArmA_2_Free",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781660065,
-    "filename": "ArmA_2_Free-Xiaomi-25078PC3EG-Mali-G52_MC2-1781660065.json"
   }
 ]
