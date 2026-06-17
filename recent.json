@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1781729560,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-23122PCD1G-Adreno__TM__710-1781729560.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1781712199,
     "filename": "GIANTS_Engine-motorola-motorola_edge_60_pro-Mali-G615_MC6-1781712199.json"
-  },
-  {
-    "game": "far_cry",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781711553,
-    "filename": "far_cry-Xiaomi-2310FPCA4G-Mali-G52_MC2-1781711553.json"
   }
 ]
