@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lego_Batman_3",
+    "manufacturer": "2405CRPFDG",
+    "device": "Adreno__TM__710",
+    "timestamp": 1781706467,
+    "filename": "Lego_Batman_3-Xiaomi-2405CRPFDG-Adreno__TM__710-1781706467.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "S948B",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781673250,
     "filename": "Pro_Evolution_Soccer_2013_tutu-samsung-SM-A055M-Mali-G52_MC2-1781673250.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781672435,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1781672435.json"
   }
 ]
