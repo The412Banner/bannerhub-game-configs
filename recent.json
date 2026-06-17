@@ -1,5 +1,12 @@
 [
   {
+    "game": "GIANTS_Engine",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1781712199,
+    "filename": "GIANTS_Engine-motorola-motorola_edge_60_pro-Mali-G615_MC6-1781712199.json"
+  },
+  {
     "game": "far_cry",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1781685309,
     "filename": "Resident_Evil_5-Xiaomi-2311DRK48G-Mali-G615_MC6-1781685309.json"
-  },
-  {
-    "game": "NFS__Most_Wanted",
-    "manufacturer": "S9210",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781680442,
-    "filename": "NFS__Most_Wanted-samsung-SM-S9210-Adreno__TM__750-1781680442.json"
   }
 ]
