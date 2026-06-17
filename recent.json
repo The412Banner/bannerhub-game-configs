@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "F731B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1781661221,
+    "filename": "God_of_War-samsung-SM-F731B-Adreno__TM__740-1781661221.json"
+  },
+  {
     "game": "ArmA_2_Free",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781637070,
     "filename": "The_Last_Case_of_Benedict_Fox-samsung-SM-G986U-Adreno__TM__650-1781637070.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2011",
-    "manufacturer": "moto_g52",
-    "device": "Adreno__TM__610",
-    "timestamp": 1781636380,
-    "filename": "Pro_Evolution_Soccer_2011-motorola-moto_g52-Adreno__TM__610-1781636380.json"
   }
 ]
