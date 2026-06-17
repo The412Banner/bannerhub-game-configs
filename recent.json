@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1781675606,
+    "filename": "Resident_Evil_6-UNISOC-X18S-Mali-G52-1781675606.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2201116SG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781665515,
     "filename": "Resident_Evil_2-nubia-NX789S_V1B-Adreno__TM__830-1781665515.json"
-  },
-  {
-    "game": "Resident_Evil",
-    "manufacturer": "NX789S_V1B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1781665500,
-    "filename": "Resident_Evil-nubia-NX789S_V1B-Adreno__TM__830-1781665500.json"
   }
 ]
