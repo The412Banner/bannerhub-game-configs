@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shieldwall",
+    "manufacturer": "V2205",
+    "device": "Adreno__TM__610",
+    "timestamp": 1781664862,
+    "filename": "Shieldwall-vivo-V2205-Adreno__TM__610-1781664862.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2015",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781639621,
     "filename": "setup-INFINIX-Infinix_X678B-Mali-G57_MC2-1781639621.json"
-  },
-  {
-    "game": "The_Binding_of_Isaac",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781639273,
-    "filename": "The_Binding_of_Isaac-Xiaomi-2409BRN2CL-Mali-G52_MC2-1781639273.json"
   }
 ]
