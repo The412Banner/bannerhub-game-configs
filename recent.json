@@ -1,5 +1,12 @@
 [
   {
+    "game": "____14_____",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781707414,
+    "filename": "____14_____-Anbernic-RG_406H-Mali-G57-1781707414.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1781674771,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201116SG-Adreno__TM__619-1781674771.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2201116SG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1781674399,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201116SG-Adreno__TM__619-1781674399.json"
   }
 ]
