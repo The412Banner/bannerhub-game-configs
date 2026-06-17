@@ -1,5 +1,12 @@
 [
   {
+    "game": "START-GAME",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781737683,
+    "filename": "START-GAME-samsung-SM-A266M-Mali-G68-1781737683.json"
+  },
+  {
     "game": "Dead_Space__2",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1781719313,
     "filename": "PlayGTAV-samsung-SM-A256E-Mali-G68-1781719313.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1781719303,
-    "filename": "PlayGTAV-samsung-SM-A256E-Mali-G68-1781719303.json"
   }
 ]
