@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1781736817,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1781736817.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1781734622,
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1781719136,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-N970F-Mali-G76-1781719136.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1781718461,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-N970F-Mali-G76-1781718461.json"
   }
 ]
