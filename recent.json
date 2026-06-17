@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013_tutu",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781671577,
+    "filename": "Pro_Evolution_Soccer_2013_tutu-samsung-SM-A055M-Mali-G52_MC2-1781671577.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1781661559,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1781661559.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "F731B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1781661221,
-    "filename": "God_of_War-samsung-SM-F731B-Adreno__TM__740-1781661221.json"
   }
 ]
