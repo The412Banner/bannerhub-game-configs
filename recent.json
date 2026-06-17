@@ -3,6 +3,13 @@
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G68",
+    "timestamp": 1781719313,
+    "filename": "PlayGTAV-samsung-SM-A256E-Mali-G68-1781719313.json"
+  },
+  {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G68",
     "timestamp": 1781719303,
     "filename": "PlayGTAV-samsung-SM-A256E-Mali-G68-1781719303.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781707386,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-24117RN76L-Mali-G57_MC2-1781707386.json"
-  },
-  {
-    "game": "Lego_Batman_3",
-    "manufacturer": "2405CRPFDG",
-    "device": "Adreno__TM__710",
-    "timestamp": 1781706467,
-    "filename": "Lego_Batman_3-Xiaomi-2405CRPFDG-Adreno__TM__710-1781706467.json"
   }
 ]
