@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781733728,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-motorola-moto_g23-Mali-G52_MC2-1781733728.json"
+  },
+  {
     "game": "START-GAME-Oculus",
     "manufacturer": "2201116PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1781714956,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g_10_-Adreno__TM__610-1781714956.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "moto_g_10_",
-    "device": "Adreno__TM__610",
-    "timestamp": 1781714938,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g_10_-Adreno__TM__610-1781714938.json"
   }
 ]
