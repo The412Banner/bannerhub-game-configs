@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_SPORTS_FC__26_SHOWCASE",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781746678,
+    "filename": "EA_SPORTS_FC__26_SHOWCASE-TECNO-TECNO_LI9-Mali-G57_MC2-1781746678.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1781734022,
     "filename": "Poppy_Playtime_chapter_5_-Xiaomi-23129RA5FL-Adreno__TM__610-1781734022.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781733728,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-motorola-moto_g23-Mali-G52_MC2-1781733728.json"
   }
 ]
