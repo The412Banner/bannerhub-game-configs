@@ -1,5 +1,12 @@
 [
   {
+    "game": "Kuro_no_Kiseki",
+    "manufacturer": "I2213",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1781745220,
+    "filename": "Kuro_no_Kiseki-vivo-I2213-Adreno__TM__642L-1781745220.json"
+  },
+  {
     "game": "OCTOPATH_TRAVELER_0",
     "manufacturer": "I2213",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1781733501,
     "filename": "START-GAME-Oculus-Xiaomi-2201116PG-Adreno__TM__619-1781733501.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781732917,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1781732917.json"
   }
 ]
