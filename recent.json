@@ -1,5 +1,12 @@
 [
   {
+    "game": "Crisis",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1781824242,
+    "filename": "Crisis-Xiaomi-23122PCD1G-Adreno__TM__710-1781824242.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1781806976,
     "filename": "NFSC-Xiaomi-25053PC47G-Adreno__TM__825-1781806976.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781805837,
-    "filename": "Far_Cry_3-Xiaomi-24117RK2CG-Adreno__TM__750-1781805837.json"
   }
 ]
