@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1781825944,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-N970F-Mali-G76-1781825944.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781809364,
     "filename": "Red_Dead_Redemption-samsung-SM-G781U-Adreno__TM__650-1781809364.json"
-  },
-  {
-    "game": "Farming_Simulator_15________________________________________",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1781808812,
-    "filename": "Farming_Simulator_15________________________________________-samsung-SM-A536E-Mali-G68-1781808812.json"
   }
 ]
