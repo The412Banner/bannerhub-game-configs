@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781816781,
+    "filename": "American_Truck_Simulator-motorola-moto_g35_5G-Mali-G57-1781816781.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "NX729J",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1781801102,
     "filename": "Toy_Story_3-motorola-moto_g34_5G-Adreno__TM__619-1781801102.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Brotherhood",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781798857,
-    "filename": "Assassin_s_Creed__Brotherhood-realme-RMX5303-Mali-G57-1781798857.json"
   }
 ]
