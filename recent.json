@@ -3,6 +3,13 @@
     "game": "pes2016",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1781818666,
+    "filename": "pes2016-samsung-SM-A075M-Mali-G57_MC2-1781818666.json"
+  },
+  {
+    "game": "pes2016",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1781818141,
     "filename": "pes2016-samsung-SM-A075M-Mali-G57_MC2-1781818141.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781803778,
     "filename": "Final_Fantasy_Renaissance-samsung-SM-S936U-Adreno__TM__830-1781803778.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "CPH2653",
-    "device": "Adreno__TM__830",
-    "timestamp": 1781803050,
-    "filename": "Far_Cry_3-OnePlus-CPH2653-Adreno__TM__830-1781803050.json"
   }
 ]
