@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "NX729J",
+    "device": "Adreno__TM__740",
+    "timestamp": 1781814873,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-nubia-NX729J-Adreno__TM__740-1781814873.json"
+  },
+  {
     "game": "Mount___Blade_II__Bannerlord",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1781798864,
     "filename": "Coffee_Talk_Episode_2__Hibiscus___Butterfly-AYN-AYN_Thor-Adreno__TM__740-1781798864.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781798366,
-    "filename": "Resident_Evil_6-samsung-SM-A155M-Mali-G57_MC2-1781798366.json"
   }
 ]
