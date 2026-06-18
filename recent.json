@@ -1,5 +1,12 @@
 [
   {
+    "game": "pes2016",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781818141,
+    "filename": "pes2016-samsung-SM-A075M-Mali-G57_MC2-1781818141.json"
+  },
+  {
     "game": "Days_Gone",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781803050,
     "filename": "Far_Cry_3-OnePlus-CPH2653-Adreno__TM__830-1781803050.json"
-  },
-  {
-    "game": "Riders_Republic",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1781802817,
-    "filename": "Riders_Republic-Xiaomi-25053PC47G-Adreno__TM__825-1781802817.json"
   }
 ]
