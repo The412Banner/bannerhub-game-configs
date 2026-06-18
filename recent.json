@@ -1,5 +1,12 @@
 [
   {
+    "game": "Days_Gone",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781817866,
+    "filename": "Days_Gone-samsung-SM-A165M-Mali-G57_MC2-1781817866.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1781802817,
     "filename": "Riders_Republic-Xiaomi-25053PC47G-Adreno__TM__825-1781802817.json"
-  },
-  {
-    "game": "Toy_Story_3",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1781801102,
-    "filename": "Toy_Story_3-motorola-moto_g34_5G-Adreno__TM__619-1781801102.json"
   }
 ]
