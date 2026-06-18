@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mount___Blade_II__Bannerlord",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1781814420,
+    "filename": "Mount___Blade_II__Bannerlord-LENOVO-TB322FC-Adreno__TM__830-1781814420.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781798366,
     "filename": "Resident_Evil_6-samsung-SM-A155M-Mali-G57_MC2-1781798366.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1781796797,
-    "filename": "DARK_SOULS___REMASTERED-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781796797.json"
   }
 ]
