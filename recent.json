@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781741351,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A256E-Mali-G68-1781741351.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1781729560,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-23122PCD1G-Adreno__TM__710-1781729560.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781729023,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23053RN02A-Mali-G52_MC2-1781729023.json"
   }
 ]
