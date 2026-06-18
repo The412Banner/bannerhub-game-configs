@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Brotherhood",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781798857,
+    "filename": "Assassin_s_Creed__Brotherhood-realme-RMX5303-Mali-G57-1781798857.json"
+  },
+  {
     "game": "Coffee_Talk_Episode_2__Hibiscus___Butterfly",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781750377,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1781750377.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781750368,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1781750368.json"
   }
 ]
