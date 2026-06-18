@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman___Arkham_Origins",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1781752560,
+    "filename": "Batman___Arkham_Origins-samsung-SM-S928B-Adreno__TM__750-1781752560.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1781736817,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1781736817.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781734622,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1781734622.json"
   }
 ]
