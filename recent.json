@@ -1,5 +1,12 @@
 [
   {
+    "game": "Farming_Simulator_15________________________________________",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781808812,
+    "filename": "Farming_Simulator_15________________________________________-samsung-SM-A536E-Mali-G68-1781808812.json"
+  },
+  {
     "game": "Assassin_s_Creed__Liberation_HD",
     "manufacturer": "2201117TG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781765703,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22120RN86G-Mali-G52_MC2-1781765703.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781765652,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22120RN86G-Mali-G52_MC2-1781765652.json"
   }
 ]
