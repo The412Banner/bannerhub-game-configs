@@ -1,5 +1,12 @@
 [
   {
+    "game": "Riders_Republic",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1781802817,
+    "filename": "Riders_Republic-Xiaomi-25053PC47G-Adreno__TM__825-1781802817.json"
+  },
+  {
     "game": "Toy_Story_3",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781752560,
     "filename": "Batman___Arkham_Origins-samsung-SM-S928B-Adreno__TM__750-1781752560.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781750392,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1781750392.json"
   }
 ]
