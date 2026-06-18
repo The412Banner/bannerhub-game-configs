@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1781745974,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A366E-Adreno__TM__710-1781745974.json"
+  },
+  {
     "game": "Kuro_no_Kiseki",
     "manufacturer": "I2213",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781733728,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-motorola-moto_g23-Mali-G52_MC2-1781733728.json"
-  },
-  {
-    "game": "START-GAME-Oculus",
-    "manufacturer": "2201116PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1781733501,
-    "filename": "START-GAME-Oculus-Xiaomi-2201116PG-Adreno__TM__619-1781733501.json"
   }
 ]
