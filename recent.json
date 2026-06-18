@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781825976,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25078PC3EG-Mali-G52_MC2-1781825976.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781810054,
     "filename": "Promise_Mascot_Agency-Anbernic-RG_406H-Mali-G57-1781810054.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "G781U",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781809364,
-    "filename": "Red_Dead_Redemption-samsung-SM-G781U-Adreno__TM__650-1781809364.json"
   }
 ]
