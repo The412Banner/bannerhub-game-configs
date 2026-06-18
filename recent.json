@@ -1,5 +1,12 @@
 [
   {
+    "game": "Promise_Mascot_Agency",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781810054,
+    "filename": "Promise_Mascot_Agency-Anbernic-RG_406H-Mali-G57-1781810054.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "G781U",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781778421,
     "filename": "Resident_Evil_4__2005_-TECNO-TECNO_LH7n-Mali-G57_MC2-1781778421.json"
-  },
-  {
-    "game": "C1-Launcher",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1781775251,
-    "filename": "C1-Launcher-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781775251.json"
   }
 ]
