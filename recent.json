@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781750330,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1781750330.json"
+  },
+  {
     "game": "EA_SPORTS_FC__26_SHOWCASE",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1781734387,
     "filename": "Forza_Horizon_2_Launcher-Xiaomi-23129RA5FL-Adreno__TM__610-1781734387.json"
-  },
-  {
-    "game": "Poppy_Playtime_chapter_5_",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1781734022,
-    "filename": "Poppy_Playtime_chapter_5_-Xiaomi-23129RA5FL-Adreno__TM__610-1781734022.json"
   }
 ]
