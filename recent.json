@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781829893,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1781829893.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__3__2011_",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1781813475,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23129RA5FL-Adreno__TM__610-1781813475.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1781813098,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1781813098.json"
   }
 ]
