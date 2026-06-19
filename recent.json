@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "A528B",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1781908994,
+    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-A528B-Adreno__TM__642L-1781908994.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__3__2011_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781893308,
     "filename": "Left_4_Dead_2-TECNO-TECNO_LH7n-Mali-G57_MC2-1781893308.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781893286,
-    "filename": "Left_4_Dead_2-TECNO-TECNO_LH7n-Mali-G57_MC2-1781893286.json"
   }
 ]
