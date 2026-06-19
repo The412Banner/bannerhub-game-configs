@@ -1,5 +1,12 @@
 [
   {
+    "game": "dacapo",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781834663,
+    "filename": "dacapo-samsung-SM-A166M-Mali-G68-1781834663.json"
+  },
+  {
     "game": "MorningdewFarms",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781829893,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1781829893.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781829729,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-G780G-Adreno__TM__650-1781829729.json"
   }
 ]
