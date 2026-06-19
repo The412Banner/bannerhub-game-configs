@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "CPH2415",
+    "device": "Adreno__TM__730",
+    "timestamp": 1781897595,
+    "filename": "God_of_War-OnePlus-CPH2415-Adreno__TM__730-1781897595.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781885438,
     "filename": "Fallout__New_Vegas-samsung-SM-S928B-Adreno__TM__750-1781885438.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "P619",
-    "device": "Adreno__TM__618",
-    "timestamp": 1781885234,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-P619-Adreno__TM__618-1781885234.json"
   }
 ]
