@@ -1,5 +1,12 @@
 [
   {
+    "game": "Macromedia_Director",
+    "manufacturer": "AIR_X",
+    "device": "Adreno__TM__610",
+    "timestamp": 1781834825,
+    "filename": "Macromedia_Director-MANGMI-AIR_X-Adreno__TM__610-1781834825.json"
+  },
+  {
     "game": "Coming_Out_on_Top",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781831321,
     "filename": "Elsword-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1781831321.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781831299,
-    "filename": "PlayGTAV-samsung-SM-G780G-Adreno__TM__650-1781831299.json"
   }
 ]
