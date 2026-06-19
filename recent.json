@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781872429,
+    "filename": "MiSide-TECNO-TECNO_LJ6-Mali-G57_MC2-1781872429.json"
+  },
+  {
     "game": "DRAGON_BALL_Sparking__ZERO",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781843001,
     "filename": "Fallout__New_Vegas-samsung-SM-S928B-Adreno__TM__750-1781843001.json"
-  },
-  {
-    "game": "Mortal_Kombat_X",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1781840806,
-    "filename": "Mortal_Kombat_X-Xiaomi-25053PC47G-Adreno__TM__825-1781840806.json"
   }
 ]
