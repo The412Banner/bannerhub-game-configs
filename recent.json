@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781876689,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X6886-Mali-G57_MC2-1781876689.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1781850274,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_30_-Adreno__TM__610-1781850274.json"
-  },
-  {
-    "game": "SILENT_HILL_2",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1781850025,
-    "filename": "SILENT_HILL_2-nubia-NP05J-Adreno__TM__830-1781850025.json"
   }
 ]
