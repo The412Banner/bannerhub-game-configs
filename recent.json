@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781862780,
+    "filename": "Grand_Theft_Auto_V-samsung-SM-A165F-Mali-G57_MC2-1781862780.json"
+  },
+  {
     "game": "l2",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "SM8735",
     "timestamp": 1781836575,
     "filename": "Undisputed-Xiaomi-25053PC47G-SM8735-1781836575.json"
-  },
-  {
-    "game": "Battlefield_3_",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1781836551,
-    "filename": "Battlefield_3_-samsung-SM-S938B-Adreno__TM__830-1781836551.json"
   }
 ]
