@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "MEIZU_21",
+    "device": "Adreno__TM__750",
+    "timestamp": 1781870977,
+    "filename": "BlackOps-meizu-MEIZU_21-Adreno__TM__750-1781870977.json"
+  },
+  {
     "game": "Max_Payne_3",
     "manufacturer": "MEIZU_21",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1781836944,
     "filename": "Call_of_Duty___Ghosts-Xiaomi-25053PC47G-Adreno__TM__825-1781836944.json"
-  },
-  {
-    "game": "setup",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781836816,
-    "filename": "setup-Xiaomi-M2103K19PG-Mali-G57_MC2-1781836816.json"
   }
 ]
