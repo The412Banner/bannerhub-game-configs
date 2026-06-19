@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781876678,
+    "filename": "Tomb_Raider-samsung-SM-G780G-Adreno__TM__650-1781876678.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "NX729J",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781850025,
     "filename": "SILENT_HILL_2-nubia-NP05J-Adreno__TM__830-1781850025.json"
-  },
-  {
-    "game": "SILENT_HILL_2",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1781849866,
-    "filename": "SILENT_HILL_2-nubia-NP05J-Adreno__TM__830-1781849866.json"
   }
 ]
