@@ -1,5 +1,12 @@
 [
   {
+    "game": "Coming_Out_on_Top",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781834742,
+    "filename": "Coming_Out_on_Top-samsung-SM-A166M-Mali-G68-1781834742.json"
+  },
+  {
     "game": "Dream_Daddy__A_Dad_Dating_Simulator",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781831299,
     "filename": "PlayGTAV-samsung-SM-G780G-Adreno__TM__650-1781831299.json"
-  },
-  {
-    "game": "Far_Cry__2",
-    "manufacturer": "2201123G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1781831127,
-    "filename": "Far_Cry__2-Xiaomi-2201123G-Adreno__TM__730-1781831127.json"
   }
 ]
