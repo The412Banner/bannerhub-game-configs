@@ -1,5 +1,12 @@
 [
   {
+    "game": "Coming_Out_on_Top",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781834678,
+    "filename": "Coming_Out_on_Top-samsung-SM-A166M-Mali-G68-1781834678.json"
+  },
+  {
     "game": "dacapo",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781830403,
     "filename": "Far_Cry_3-Xiaomi-24117RK2CG-Adreno__TM__750-1781830403.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781829893,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1781829893.json"
   }
 ]
