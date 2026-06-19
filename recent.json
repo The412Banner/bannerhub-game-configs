@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "NX729J",
+    "device": "Adreno__TM__740",
+    "timestamp": 1781874547,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-nubia-NX729J-Adreno__TM__740-1781874547.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH1933",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781849866,
     "filename": "SILENT_HILL_2-nubia-NP05J-Adreno__TM__830-1781849866.json"
-  },
-  {
-    "game": "Palworld",
-    "manufacturer": "Retroid_Pocket_Flip2",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781849776,
-    "filename": "Palworld-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1781849776.json"
   }
 ]
