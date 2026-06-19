@@ -1,5 +1,12 @@
 [
   {
+    "game": "Majikoi",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781834585,
+    "filename": "Majikoi-samsung-SM-A166M-Mali-G68-1781834585.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1781824242,
     "filename": "Crisis-Xiaomi-23122PCD1G-Adreno__TM__710-1781824242.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781821099,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23117RA68G-Mali-G57_MC2-1781821099.json"
   }
 ]
