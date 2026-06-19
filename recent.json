@@ -1,5 +1,12 @@
 [
   {
+    "game": "Schedule_I",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1781899698,
+    "filename": "Schedule_I-motorola-moto_e40-Mali-G52-1781899698.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1781891342,
     "filename": "Tomb_Raider_GOTY_Edition____________________________________-Xiaomi-23129RA5FL-Adreno__TM__610-1781891342.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781890695,
-    "filename": "Need_for_Speed_9-samsung-SM-A035F-Mali-G57-1781890695.json"
   }
 ]
