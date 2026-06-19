@@ -1,5 +1,12 @@
 [
   {
+    "game": "l2",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1781862547,
+    "filename": "l2-Xiaomi-M2102J20SG-Adreno__TM__640-1781862547.json"
+  },
+  {
     "game": "DRAGON_BALL_Sparking__ZERO",
     "manufacturer": "24122RKC7C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781836551,
     "filename": "Battlefield_3_-samsung-SM-S938B-Adreno__TM__830-1781836551.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781835642,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-G780G-Adreno__TM__650-1781835642.json"
   }
 ]
