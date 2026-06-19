@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1781881204,
+    "filename": "Resident_Evil_2-Xiaomi-24095PCADG-Mali-G615_MC2-1781881204.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781856259,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX789J_V1B-Adreno__TM__830-1781856259.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1781852831,
-    "filename": "Resident_Evil_3-Xiaomi-24069PC21G-Adreno__TM__735-1781852831.json"
   }
 ]
