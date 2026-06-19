@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1781884928,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-23122PCD1G-Adreno__TM__710-1781884928.json"
+  },
+  {
     "game": "DNFC",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781871072,
     "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-AYANEO-Pocket_FIT-Adreno__TM__750-1781871072.json"
-  },
-  {
-    "game": "BlackOps",
-    "manufacturer": "MEIZU_21",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781870977,
-    "filename": "BlackOps-meizu-MEIZU_21-Adreno__TM__750-1781870977.json"
   }
 ]
