@@ -1,5 +1,12 @@
 [
   {
+    "game": "Togainu_no_Chi_True_Blood",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781834593,
+    "filename": "Togainu_no_Chi_True_Blood-samsung-SM-A166M-Mali-G68-1781834593.json"
+  },
+  {
     "game": "Majikoi",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781824655,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1781824655.json"
-  },
-  {
-    "game": "Crisis",
-    "manufacturer": "23122PCD1G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1781824242,
-    "filename": "Crisis-Xiaomi-23122PCD1G-Adreno__TM__710-1781824242.json"
   }
 ]
