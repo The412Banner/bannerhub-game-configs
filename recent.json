@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Odyssey",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781863569,
+    "filename": "Assassin_s_Creed__Odyssey-Xiaomi-23117RA68G-Mali-G57_MC2-1781863569.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781836582,
     "filename": "Fallout__New_Vegas-samsung-SM-S928B-Adreno__TM__750-1781836582.json"
-  },
-  {
-    "game": "Undisputed",
-    "manufacturer": "25053PC47G",
-    "device": "SM8735",
-    "timestamp": 1781836575,
-    "filename": "Undisputed-Xiaomi-25053PC47G-SM8735-1781836575.json"
   }
 ]
