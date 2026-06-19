@@ -1,5 +1,12 @@
 [
   {
+    "game": "DNFC",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1781893706,
+    "filename": "DNFC-motorola-moto_e40-Mali-G52-1781893706.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781882504,
     "filename": "Pro_Evolution_Soccer_6-TECNO-TECNO_LH7n-Mali-G57_MC2-1781882504.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781881274,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-vivo-V2310-Mali-G52_MC2-1781881274.json"
   }
 ]
