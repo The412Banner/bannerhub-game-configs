@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dream_Daddy__A_Dad_Dating_Simulator",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781834712,
+    "filename": "Dream_Daddy__A_Dad_Dating_Simulator-samsung-SM-A166M-Mali-G68-1781834712.json"
+  },
+  {
     "game": "Pub_Encounter",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1781831127,
     "filename": "Far_Cry__2-Xiaomi-2201123G-Adreno__TM__730-1781831127.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1781830655,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1781830655.json"
   }
 ]
