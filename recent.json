@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "G781U",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781897524,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-G781U-Adreno__TM__650-1781897524.json"
+  },
+  {
     "game": "Rocket_League",
     "manufacturer": "W29",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1781884989,
     "filename": "DNFC-motorola-moto_e40-Mali-G52-1781884989.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "23122PCD1G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1781884928,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-23122PCD1G-Adreno__TM__710-1781884928.json"
   }
 ]
