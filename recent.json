@@ -1,5 +1,12 @@
 [
   {
+    "game": "msn",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781834644,
+    "filename": "msn-samsung-SM-A166M-Mali-G68-1781834644.json"
+  },
+  {
     "game": "LD1",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781826086,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25078PC3EG-Mali-G52_MC2-1781826086.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781825976,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25078PC3EG-Mali-G52_MC2-1781825976.json"
   }
 ]
