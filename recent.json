@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781839627,
+    "filename": "Need_for_Speed_9-Xiaomi-M2103K19PG-Mali-G57_MC2-1781839627.json"
+  },
+  {
     "game": "Need_for_Speed_Most_Wanted_Portugu_s_do_Brasil",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1781834593,
     "filename": "Togainu_no_Chi_True_Blood-samsung-SM-A166M-Mali-G68-1781834593.json"
-  },
-  {
-    "game": "Majikoi",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1781834585,
-    "filename": "Majikoi-samsung-SM-A166M-Mali-G68-1781834585.json"
   }
 ]
