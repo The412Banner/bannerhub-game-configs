@@ -1,5 +1,12 @@
 [
   {
+    "game": "DNFC",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1781884610,
+    "filename": "DNFC-motorola-moto_e40-Mali-G52-1781884610.json"
+  },
+  {
     "game": "Fallout__New_Vegas",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781870977,
     "filename": "BlackOps-meizu-MEIZU_21-Adreno__TM__750-1781870977.json"
-  },
-  {
-    "game": "Max_Payne_3",
-    "manufacturer": "MEIZU_21",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781869872,
-    "filename": "Max_Payne_3-meizu-MEIZU_21-Adreno__TM__750-1781869872.json"
   }
 ]
