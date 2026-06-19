@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pub_Encounter",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781834693,
+    "filename": "Pub_Encounter-samsung-SM-A166M-Mali-G68-1781834693.json"
+  },
+  {
     "game": "Coming_Out_on_Top",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1781830655,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1781830655.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781830403,
-    "filename": "Far_Cry_3-Xiaomi-24117RK2CG-Adreno__TM__750-1781830403.json"
   }
 ]
