@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781906074,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-moto_g04s-Mali-G57-1781906074.json"
+  },
+  {
     "game": "Content_Manager",
     "manufacturer": "RMX3700",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1781893067,
     "filename": "River_City_Girls_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781893067.json"
-  },
-  {
-    "game": "Plutonium_Launcher",
-    "manufacturer": "MEIZU_21",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781892923,
-    "filename": "Plutonium_Launcher-meizu-MEIZU_21-Adreno__TM__750-1781892923.json"
   }
 ]
