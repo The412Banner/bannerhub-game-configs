@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1781830655,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1781830655.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "24117RK2CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781814420,
     "filename": "Mount___Blade_II__Bannerlord-LENOVO-TB322FC-Adreno__TM__830-1781814420.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1781813614,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1781813614.json"
   }
 ]
