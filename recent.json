@@ -1,5 +1,12 @@
 [
   {
+    "game": "Plutonium_Launcher",
+    "manufacturer": "MEIZU_21",
+    "device": "Adreno__TM__750",
+    "timestamp": 1781892923,
+    "filename": "Plutonium_Launcher-meizu-MEIZU_21-Adreno__TM__750-1781892923.json"
+  },
+  {
     "game": "l2",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781876689,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X6886-Mali-G57_MC2-1781876689.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781876678,
-    "filename": "Tomb_Raider-samsung-SM-G780G-Adreno__TM__650-1781876678.json"
   }
 ]
