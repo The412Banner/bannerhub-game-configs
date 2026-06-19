@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1781871072,
+    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-AYANEO-Pocket_FIT-Adreno__TM__750-1781871072.json"
+  },
+  {
     "game": "BlackOps",
     "manufacturer": "MEIZU_21",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781838612,
     "filename": "Need_for_Speed_Most_Wanted_Portugu_s_do_Brasil-Xiaomi-M2103K19PG-Mali-G57_MC2-1781838612.json"
-  },
-  {
-    "game": "Call_of_Duty___Ghosts",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1781836944,
-    "filename": "Call_of_Duty___Ghosts-Xiaomi-25053PC47G-Adreno__TM__825-1781836944.json"
   }
 ]
