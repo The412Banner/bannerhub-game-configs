@@ -1,5 +1,12 @@
 [
   {
+    "game": "realistair",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781834615,
+    "filename": "realistair-samsung-SM-A166M-Mali-G68-1781834615.json"
+  },
+  {
     "game": "sweet_pool_for_Steam",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1781825944,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-N970F-Mali-G76-1781825944.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781825852,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-M2103K19PG-Mali-G57_MC2-1781825852.json"
   }
 ]
