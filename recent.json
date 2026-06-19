@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781890695,
+    "filename": "Need_for_Speed_9-samsung-SM-A035F-Mali-G57-1781890695.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "P619",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1781873292,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH1933-Adreno__TM__610-1781873292.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "CPH1933",
-    "device": "Adreno__TM__610",
-    "timestamp": 1781873256,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH1933-Adreno__TM__610-1781873256.json"
   }
 ]
