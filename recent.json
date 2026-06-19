@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781831299,
+    "filename": "PlayGTAV-samsung-SM-G780G-Adreno__TM__650-1781831299.json"
+  },
+  {
     "game": "Far_Cry__2",
     "manufacturer": "2201123G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1781814882,
     "filename": "PRO_EVOLUTION_SOCCER_2018-nubia-NX729J-Adreno__TM__740-1781814882.json"
-  },
-  {
-    "game": "PRO_EVOLUTION_SOCCER_2018",
-    "manufacturer": "NX729J",
-    "device": "Adreno__TM__740",
-    "timestamp": 1781814873,
-    "filename": "PRO_EVOLUTION_SOCCER_2018-nubia-NX729J-Adreno__TM__740-1781814873.json"
   }
 ]
