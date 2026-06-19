@@ -1,5 +1,12 @@
 [
   {
+    "game": "l2",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1781892140,
+    "filename": "l2-Xiaomi-M2102J20SG-Adreno__TM__640-1781892140.json"
+  },
+  {
     "game": "Tomb_Raider_GOTY_Edition____________________________________",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781876678,
     "filename": "Tomb_Raider-samsung-SM-G780G-Adreno__TM__650-1781876678.json"
-  },
-  {
-    "game": "PRO_EVOLUTION_SOCCER_2018",
-    "manufacturer": "NX729J",
-    "device": "Adreno__TM__740",
-    "timestamp": 1781874547,
-    "filename": "PRO_EVOLUTION_SOCCER_2018-nubia-NX729J-Adreno__TM__740-1781874547.json"
   }
 ]
