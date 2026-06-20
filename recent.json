@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781999782,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX_MOBILITY_LIMITED-Infinix_X6812B-Mali-G52_MC2-1781999782.json"
+  },
+  {
     "game": "FIFA_17",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1781985156,
     "filename": "Pro_Evolution_Soccer_2013___________________________________-samsung-SM-A125M-PowerVR_Rogue_GE8320-1781985156.json"
-  },
-  {
-    "game": "setup",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1781982212,
-    "filename": "setup-samsung-SM-A057M-Adreno__TM__610-1781982212.json"
   }
 ]
