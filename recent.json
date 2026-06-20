@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRACU-RIOT_",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1781951845,
+    "filename": "DRACU-RIOT_-Xiaomi-24069PC21G-Adreno__TM__735-1781951845.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1781927079,
     "filename": "Hogwarts_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1781927079.json"
-  },
-  {
-    "game": "CrashReportClient",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1781926859,
-    "filename": "CrashReportClient-Xiaomi-25053PC47G-Adreno__TM__825-1781926859.json"
   }
 ]
