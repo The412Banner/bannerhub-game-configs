@@ -1,5 +1,12 @@
 [
   {
+    "game": "World_in_Conflict",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781914728,
+    "filename": "World_in_Conflict-Xiaomi-2201116TG-Mali-G57_MC2-1781914728.json"
+  },
+  {
     "game": "Fallout__New_Vegas",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1781896094,
     "filename": "Rocket_League-HONOR-ELN2-W29-Adreno__TM__610-1781896094.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781895830,
-    "filename": "BootstrapPackagedGame-motorola-moto_g04-Mali-G57-1781895830.json"
   }
 ]
