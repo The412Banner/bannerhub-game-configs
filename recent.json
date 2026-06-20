@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1781916900,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-OPPO-CPH2371-Mali-G68_MC4-1781916900.json"
+  },
+  {
     "game": "World_in_Conflict",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781897524,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-G781U-Adreno__TM__650-1781897524.json"
-  },
-  {
-    "game": "Rocket_League",
-    "manufacturer": "W29",
-    "device": "Adreno__TM__610",
-    "timestamp": 1781896094,
-    "filename": "Rocket_League-HONOR-ELN2-W29-Adreno__TM__610-1781896094.json"
   }
 ]
