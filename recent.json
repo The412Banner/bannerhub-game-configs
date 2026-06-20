@@ -1,5 +1,12 @@
 [
   {
+    "game": "fifa14",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781917897,
+    "filename": "fifa14-realme-RMX3930-Mali-G57-1781917897.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1781898447,
     "filename": "God_of_War-Xiaomi-2410CRP4CG-Adreno__TM__732-1781898447.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "CPH2415",
-    "device": "Adreno__TM__730",
-    "timestamp": 1781897595,
-    "filename": "God_of_War-OnePlus-CPH2415-Adreno__TM__730-1781897595.json"
   }
 ]
