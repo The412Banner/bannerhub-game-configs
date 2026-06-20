@@ -1,5 +1,12 @@
 [
   {
+    "game": "FINAL_FANTASY_VII_REMAKE_INTERGRADE",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1781990881,
+    "filename": "FINAL_FANTASY_VII_REMAKE_INTERGRADE-Xiaomi-25053PC47G-Adreno__TM__825-1781990881.json"
+  },
+  {
     "game": "Sniper_at_Work",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1781977965,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A528B-Adreno__TM__642L-1781977965.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781977962,
-    "filename": "Need_for_Speed_9-TECNO-TECNO_LH8n-Mali-G57_MC2-1781977962.json"
   }
 ]
