@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1781982212,
+    "filename": "setup-samsung-SM-A057M-Adreno__TM__610-1781982212.json"
+  },
+  {
     "game": "F1_2013",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1781976045,
     "filename": "Pro_Evolution_Soccer_2013___________________________________-samsung-SM-A125M-PowerVR_Rogue_GE8320-1781976045.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "itel_A667LP",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1781975800,
-    "filename": "Grand_Theft_Auto_V_Legacy-ITEL-itel_A667LP-PowerVR_Rogue_GE8322-1781975800.json"
   }
 ]
