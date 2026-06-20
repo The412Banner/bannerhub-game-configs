@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781980924,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6528-Mali-G57-1781980924.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013___________________________________",
     "manufacturer": "A125M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781975612,
     "filename": "EA_SPORTS_FC__26-Xiaomi-24117RN76L-Mali-G57_MC2-1781975612.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781975340,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1781975340.json"
   }
 ]
