@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1781974671,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781974671.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013___________________________________",
     "manufacturer": "A125M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781964480,
     "filename": "___________________________________________________________________-samsung-SM-A155F-Mali-G57_MC2-1781964480.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1781963303,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2312DRA50G-Adreno__TM__710-1781963303.json"
   }
 ]
