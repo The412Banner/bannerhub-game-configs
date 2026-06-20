@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g42",
+    "device": "Adreno__TM__610",
+    "timestamp": 1781970427,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g42-Adreno__TM__610-1781970427.json"
+  },
+  {
     "game": "Dying_Light",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1781951845,
     "filename": "DRACU-RIOT_-Xiaomi-24069PC21G-Adreno__TM__735-1781951845.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781951687,
-    "filename": "Resident_Evil_5-Xiaomi-24117RN76G-Mali-G57_MC2-1781951687.json"
   }
 ]
