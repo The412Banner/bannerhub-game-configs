@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup",
+    "manufacturer": "A528B",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1781970693,
+    "filename": "setup-samsung-SM-A528B-Adreno__TM__642L-1781970693.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g42",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781956839,
     "filename": "Microsoft__Windows__Operating_Systemgryyy-ITEL-itel_S666LN-Mali-G57_MC2-1781956839.json"
-  },
-  {
-    "game": "DRACU-RIOT_",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1781951845,
-    "filename": "DRACU-RIOT_-Xiaomi-24069PC21G-Adreno__TM__735-1781951845.json"
   }
 ]
