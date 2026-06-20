@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1781934464,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g84_5G-Adreno__TM__619-1781934464.json"
+  },
+  {
     "game": "BeatTheChampions",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1781912596,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1781912596.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781911959,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-moto_g04s-Mali-G57-1781911959.json"
   }
 ]
