@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1781963303,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2312DRA50G-Adreno__TM__710-1781963303.json"
+  },
+  {
     "game": "Far_Cry_5___________________________________________________",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1781932825,
     "filename": "BeatTheChampions-AYANEO-Pocket_FIT-Adreno__TM__750-1781932825.json"
-  },
-  {
-    "game": "GrabPack",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781931917,
-    "filename": "GrabPack-motorola-moto_g04-Mali-G57-1781931917.json"
   }
 ]
