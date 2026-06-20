@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781917180,
+    "filename": "Far_Cry_3-realme-RMX5303-Mali-G57-1781917180.json"
+  },
+  {
     "game": "FAP_N_A_F__ARCADE_MODE",
     "manufacturer": "A566B",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1781897595,
     "filename": "God_of_War-OnePlus-CPH2415-Adreno__TM__730-1781897595.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1781897589,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1781897589.json"
   }
 ]
