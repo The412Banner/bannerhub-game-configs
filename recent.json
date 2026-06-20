@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "itel_A667LP",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1781975800,
+    "filename": "Grand_Theft_Auto_V_Legacy-ITEL-itel_A667LP-PowerVR_Rogue_GE8322-1781975800.json"
+  },
+  {
     "game": "EA_SPORTS_FC__26",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1781965647,
     "filename": "Pro_Evolution_Soccer_2017-samsung-SM-X736B-Mali-G925-Immortalis_MC12-1781965647.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1781965632,
-    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-X736B-Mali-G925-Immortalis_MC12-1781965632.json"
   }
 ]
