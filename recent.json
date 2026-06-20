@@ -1,5 +1,12 @@
 [
   {
+    "game": "M_U_G_E_N",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1781976611,
+    "filename": "M_U_G_E_N-motorola-moto_g55_5G-PowerVR_B-Series_BXM-8-256-1781976611.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013___________________________________",
     "manufacturer": "A125M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781966724,
     "filename": "Mortal_Kombat_Komplete_Edition-samsung-SM-A065F-Mali-G52_MC2-1781966724.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g42",
-    "device": "Adreno__TM__610",
-    "timestamp": 1781966152,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g42-Adreno__TM__610-1781966152.json"
   }
 ]
