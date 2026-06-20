@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S908E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1781973032,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S908E-Adreno__TM__730-1781973032.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1781962105,
     "filename": "Far_Cry_5___________________________________________________-Xiaomi-25053RT47C-Adreno__TM__825-1781962105.json"
-  },
-  {
-    "game": "Cuphead",
-    "manufacturer": "S721B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1781961555,
-    "filename": "Cuphead-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1781961555.json"
   }
 ]
