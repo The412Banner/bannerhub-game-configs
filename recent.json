@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1781965632,
+    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-X736B-Mali-G925-Immortalis_MC12-1781965632.json"
+  },
+  {
     "game": "Speak_Demo",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781938499,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-ITEL-itel_P661N-Mali-G57_MC2-1781938499.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1781937575,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1781937575.json"
   }
 ]
