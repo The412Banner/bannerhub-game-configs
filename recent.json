@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_5___________________________________________________",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1781962105,
+    "filename": "Far_Cry_5___________________________________________________-Xiaomi-25053RT47C-Adreno__TM__825-1781962105.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "S721B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781931917,
     "filename": "GrabPack-motorola-moto_g04-Mali-G57-1781931917.json"
-  },
-  {
-    "game": "METAL_GEAR_RISING__REVENGEANCE",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781930503,
-    "filename": "METAL_GEAR_RISING__REVENGEANCE-INFINIX-Infinix_X6833B-Mali-G57_MC2-1781930503.json"
   }
 ]
