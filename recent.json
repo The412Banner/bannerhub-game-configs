@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g42",
+    "device": "Adreno__TM__610",
+    "timestamp": 1781979160,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g42-Adreno__TM__610-1781979160.json"
+  },
+  {
     "game": "Click",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1781974117,
     "filename": "Pro_Evolution_Soccer_2013___________________________________-samsung-SM-A125M-PowerVR_Rogue_GE8320-1781974117.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S908E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1781973032,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S908E-Adreno__TM__730-1781973032.json"
   }
 ]
