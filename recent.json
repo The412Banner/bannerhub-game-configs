@@ -1,5 +1,12 @@
 [
   {
+    "game": "l2",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1781974976,
+    "filename": "l2-Xiaomi-M2102J20SG-Adreno__TM__640-1781974976.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781964705,
     "filename": "Mortal_Kombat_Komplete_Edition-samsung-SM-A065F-Mali-G52_MC2-1781964705.json"
-  },
-  {
-    "game": "___________________________________________________________________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781964480,
-    "filename": "___________________________________________________________________-samsung-SM-A155F-Mali-G57_MC2-1781964480.json"
   }
 ]
