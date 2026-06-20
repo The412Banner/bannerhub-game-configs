@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cricket_26",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781927862,
+    "filename": "Cricket_26-INFINIX-Infinix_X6838-Mali-G57_MC2-1781927862.json"
+  },
+  {
     "game": "Hogwarts_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781906541,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-A075M-Mali-G57_MC2-1781906541.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781906074,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-moto_g04s-Mali-G57-1781906074.json"
   }
 ]
