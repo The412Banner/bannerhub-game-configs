@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781972109,
+    "filename": "Need_for_Speed_9-samsung-SM-E225F-Mali-G52_MC2-1781972109.json"
+  },
+  {
     "game": "Need_for_Speed__Most_Wanted",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1781959379,
     "filename": "Warcraft___Frozen_Throne-LENOVO-TB323FU-Adreno__TM__840-1781959379.json"
-  },
-  {
-    "game": "Microsoft__Windows__Operating_Systemgryyy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781956843,
-    "filename": "Microsoft__Windows__Operating_Systemgryyy-ITEL-itel_S666LN-Mali-G57_MC2-1781956843.json"
   }
 ]
