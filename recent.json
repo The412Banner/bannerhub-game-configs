@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A528B",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1781994762,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A528B-Adreno__TM__642L-1781994762.json"
+  },
+  {
     "game": "LD1",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781980924,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6528-Mali-G57-1781980924.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013___________________________________",
-    "manufacturer": "A125M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1781979625,
-    "filename": "Pro_Evolution_Soccer_2013___________________________________-samsung-SM-A125M-PowerVR_Rogue_GE8320-1781979625.json"
   }
 ]
