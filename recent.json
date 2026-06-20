@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1781972364,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1781972364.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1781961555,
     "filename": "Cuphead-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1781961555.json"
-  },
-  {
-    "game": "Warcraft___Frozen_Throne",
-    "manufacturer": "TB323FU",
-    "device": "Adreno__TM__840",
-    "timestamp": 1781959379,
-    "filename": "Warcraft___Frozen_Throne-LENOVO-TB323FU-Adreno__TM__840-1781959379.json"
   }
 ]
