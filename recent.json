@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_SPORTS__FIFA_21",
+    "manufacturer": "S918U",
+    "device": "Adreno__TM__740",
+    "timestamp": 1781945090,
+    "filename": "EA_SPORTS__FIFA_21-samsung-SM-S918U-Adreno__TM__740-1781945090.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781917897,
     "filename": "fifa14-realme-RMX3930-Mali-G57-1781917897.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1781917180,
-    "filename": "Far_Cry_3-realme-RMX5303-Mali-G57-1781917180.json"
   }
 ]
