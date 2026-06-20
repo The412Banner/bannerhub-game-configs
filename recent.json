@@ -1,5 +1,12 @@
 [
   {
+    "game": "DOOM__3__BFG_Edition_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781935271,
+    "filename": "DOOM__3__BFG_Edition_-samsung-SM-A075F-Mali-G57_MC2-1781935271.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1781912997,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1781912997.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1781912596,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1781912596.json"
   }
 ]
