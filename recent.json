@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "G781U",
+    "device": "Adreno__TM__650",
+    "timestamp": 1781941764,
+    "filename": "Red_Dead_Redemption-samsung-SM-G781U-Adreno__TM__650-1781941764.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013_DEMO_______________________",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1781917155,
     "filename": "FAP_N_A_F__ARCADE_MODE-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1781917155.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1781916900,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-OPPO-CPH2371-Mali-G68_MC4-1781916900.json"
   }
 ]
