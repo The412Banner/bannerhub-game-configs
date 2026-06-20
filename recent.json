@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup",
+    "manufacturer": "A528B",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1781970103,
+    "filename": "setup-samsung-SM-A528B-Adreno__TM__642L-1781970103.json"
+  },
+  {
     "game": "Dead_Space__2008_",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781950364,
     "filename": "unins000-TECNO-TECNO_KJ6-Mali-G57_MC2-1781950364.json"
-  },
-  {
-    "game": "unins000",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781950340,
-    "filename": "unins000-TECNO-TECNO_KJ6-Mali-G57_MC2-1781950340.json"
   }
 ]
