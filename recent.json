@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1781943647,
+    "filename": "Tomb_Raider-INFINIX-Infinix_X6873-Mali-G615_MC6-1781943647.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "G781U",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781917180,
     "filename": "Far_Cry_3-realme-RMX5303-Mali-G57-1781917180.json"
-  },
-  {
-    "game": "FAP_N_A_F__ARCADE_MODE",
-    "manufacturer": "A566B",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1781917155,
-    "filename": "FAP_N_A_F__ARCADE_MODE-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1781917155.json"
   }
 ]
