@@ -1,5 +1,12 @@
 [
   {
+    "game": "Warcraft___Frozen_Throne",
+    "manufacturer": "TB323FU",
+    "device": "Adreno__TM__840",
+    "timestamp": 1781959379,
+    "filename": "Warcraft___Frozen_Throne-LENOVO-TB323FU-Adreno__TM__840-1781959379.json"
+  },
+  {
     "game": "Microsoft__Windows__Operating_Systemgryyy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1781929347,
     "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-G990E-Mali-G78-1781929347.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1781928116,
-    "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-G990E-Mali-G78-1781928116.json"
   }
 ]
