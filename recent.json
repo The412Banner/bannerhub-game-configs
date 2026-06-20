@@ -1,5 +1,12 @@
 [
   {
+    "game": "GrabPack",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781931917,
+    "filename": "GrabPack-motorola-moto_g04-Mali-G57-1781931917.json"
+  },
+  {
     "game": "METAL_GEAR_RISING__REVENGEANCE",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1781911360,
     "filename": "Oceanhorn_2__Knights_of_the_Lost_Realm-samsung-SM-A065M-Mali-G52_MC2-1781911360.json"
-  },
-  {
-    "game": "Oceanhorn_2__Knights_of_the_Lost_Realm",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781910998,
-    "filename": "Oceanhorn_2__Knights_of_the_Lost_Realm-samsung-SM-A065M-Mali-G52_MC2-1781910998.json"
   }
 ]
