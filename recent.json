@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1781928116,
+    "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-G990E-Mali-G78-1781928116.json"
+  },
+  {
     "game": "Cricket_26",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1781908994,
     "filename": "Pro_Evolution_Soccer_2017-samsung-SM-A528B-Adreno__TM__642L-1781908994.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781906541,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-A075M-Mali-G57_MC2-1781906541.json"
   }
 ]
