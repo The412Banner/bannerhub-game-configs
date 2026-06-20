@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1781975340,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1781975340.json"
+  },
+  {
     "game": "l2",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1781965214,
     "filename": "Speak_Demo-motorola-moto_e40-Mali-G52-1781965214.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781964705,
-    "filename": "Mortal_Kombat_Komplete_Edition-samsung-SM-A065F-Mali-G52_MC2-1781964705.json"
   }
 ]
