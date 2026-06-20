@@ -1,5 +1,12 @@
 [
   {
+    "game": "BeatTheChampions",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1781932825,
+    "filename": "BeatTheChampions-AYANEO-Pocket_FIT-Adreno__TM__750-1781932825.json"
+  },
+  {
     "game": "GrabPack",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1781911959,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-moto_g04s-Mali-G57-1781911959.json"
-  },
-  {
-    "game": "Oceanhorn_2__Knights_of_the_Lost_Realm",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1781911360,
-    "filename": "Oceanhorn_2__Knights_of_the_Lost_Realm-samsung-SM-A065M-Mali-G52_MC2-1781911360.json"
   }
 ]
