@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_Komplete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1781966724,
+    "filename": "Mortal_Kombat_Komplete_Edition-samsung-SM-A065F-Mali-G52_MC2-1781966724.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g42",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1781943647,
     "filename": "Tomb_Raider-INFINIX-Infinix_X6873-Mali-G615_MC6-1781943647.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "G781U",
-    "device": "Adreno__TM__650",
-    "timestamp": 1781941764,
-    "filename": "Red_Dead_Redemption-samsung-SM-G781U-Adreno__TM__650-1781941764.json"
   }
 ]
