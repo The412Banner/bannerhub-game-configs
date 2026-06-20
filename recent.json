@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g42",
+    "device": "Adreno__TM__610",
+    "timestamp": 1781966152,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g42-Adreno__TM__610-1781966152.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1781941764,
     "filename": "Red_Dead_Redemption-samsung-SM-G781U-Adreno__TM__650-1781941764.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013_DEMO_______________________",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1781939910,
-    "filename": "Pro_Evolution_Soccer_2013_DEMO_______________________-Xiaomi-21121119SC-Mali-G52-1781939910.json"
   }
 ]
