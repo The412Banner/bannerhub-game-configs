@@ -1,5 +1,12 @@
 [
   {
+    "game": "residente_evil_5",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1781992753,
+    "filename": "residente_evil_5-Xiaomi-2412DPC0AI-Mali-G720_MC7-1781992753.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1781979160,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g42-Adreno__TM__610-1781979160.json"
-  },
-  {
-    "game": "Click",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781978683,
-    "filename": "Click-samsung-SM-A075M-Mali-G57_MC2-1781978683.json"
   }
 ]
