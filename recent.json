@@ -1,5 +1,12 @@
 [
   {
+    "game": "LD1",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1781994676,
+    "filename": "LD1-samsung-SM-A166M-Mali-G68-1781994676.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1781979625,
     "filename": "Pro_Evolution_Soccer_2013___________________________________-samsung-SM-A125M-PowerVR_Rogue_GE8320-1781979625.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013___________________________________",
-    "manufacturer": "A125M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1781979616,
-    "filename": "Pro_Evolution_Soccer_2013___________________________________-samsung-SM-A125M-PowerVR_Rogue_GE8320-1781979616.json"
   }
 ]
