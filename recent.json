@@ -1,5 +1,12 @@
 [
   {
+    "game": "Speak_Demo",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1781965214,
+    "filename": "Speak_Demo-motorola-moto_e40-Mali-G52-1781965214.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1781937575,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1781937575.json"
-  },
-  {
-    "game": "DOOM__3__BFG_Edition_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1781935271,
-    "filename": "DOOM__3__BFG_Edition_-samsung-SM-A075F-Mali-G57_MC2-1781935271.json"
   }
 ]
