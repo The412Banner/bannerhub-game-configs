@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "S721B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1781961555,
+    "filename": "Cuphead-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1781961555.json"
+  },
+  {
     "game": "Warcraft___Frozen_Throne",
     "manufacturer": "TB323FU",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1781930503,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-INFINIX-Infinix_X6833B-Mali-G57_MC2-1781930503.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1781929347,
-    "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-G990E-Mali-G78-1781929347.json"
   }
 ]
