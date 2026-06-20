@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_SPORTS_FC__26",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1781975612,
+    "filename": "EA_SPORTS_FC__26-Xiaomi-24117RN76L-Mali-G57_MC2-1781975612.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1781965632,
     "filename": "Pro_Evolution_Soccer_2017-samsung-SM-X736B-Mali-G925-Immortalis_MC12-1781965632.json"
-  },
-  {
-    "game": "Speak_Demo",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1781965214,
-    "filename": "Speak_Demo-motorola-moto_e40-Mali-G52-1781965214.json"
   }
 ]
