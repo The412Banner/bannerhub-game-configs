@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782054657,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25040RP0AE-Mali-G57_MC2-1782054657.json"
+  },
+  {
     "game": "Assassin_s_Creed_Mirage",
     "manufacturer": "I2401",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782030492,
     "filename": "The_Witcher_3__Wild_Hunt-OnePlus-PKG110-Adreno__TM__750-1782030492.json"
-  },
-  {
-    "game": "The_Witcher_3__Wild_Hunt",
-    "manufacturer": "PKG110",
-    "device": "Adreno__TM__750",
-    "timestamp": 1782030397,
-    "filename": "The_Witcher_3__Wild_Hunt-OnePlus-PKG110-Adreno__TM__750-1782030397.json"
   }
 ]
