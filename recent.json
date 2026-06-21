@@ -1,5 +1,12 @@
 [
   {
+    "game": "t__tendo_sirikuticos__",
+    "manufacturer": "A715F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1782057194,
+    "filename": "t__tendo_sirikuticos__-samsung-SM-A715F-Adreno__TM__618-1782057194.json"
+  },
+  {
     "game": "BlackOps",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782034457,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2103K19PG-Mali-G57_MC2-1782034457.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782034443,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2103K19PG-Mali-G57_MC2-1782034443.json"
   }
 ]
