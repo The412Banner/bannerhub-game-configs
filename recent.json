@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1782049956,
+    "filename": "Resident_Evil_5-vivo-V2534-Mali-G615_MC2-1782049956.json"
+  },
+  {
     "game": "iw4sp",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782026462,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1782026462.json"
-  },
-  {
-    "game": "Devil_May_Cry_5",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1782025021,
-    "filename": "Devil_May_Cry_5-Xiaomi-24069PC21G-Adreno__TM__735-1782025021.json"
   }
 ]
