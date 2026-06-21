@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1782052631,
+    "filename": "Resident_Evil_5-Xiaomi-23049PCD8G-Adreno__TM__725-1782052631.json"
+  },
+  {
     "game": "XIII",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782029747,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KM4k-Mali-G52_MC2-1782029747.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782026482,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1782026482.json"
   }
 ]
