@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S721B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1782079721,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1782079721.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "V2408A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1782069249,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6871-Mali-G610_MC6-1782069249.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782068430,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A245M-Mali-G57_MC2-1782068430.json"
   }
 ]
