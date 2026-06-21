@@ -1,5 +1,12 @@
 [
   {
+    "game": "rockstar-games-launcher-1-0-106-2879",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782054540,
+    "filename": "rockstar-games-launcher-1-0-106-2879-TECNO-TECNO_KM4k-Mali-G52_MC2-1782054540.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1782033231,
     "filename": "eFootball_-Xiaomi-2311DRK48G-Mali-G615_MC6-1782033231.json"
-  },
-  {
-    "game": "The_Witcher_3__Wild_Hunt",
-    "manufacturer": "PKG110",
-    "device": "Adreno__TM__750",
-    "timestamp": 1782030492,
-    "filename": "The_Witcher_3__Wild_Hunt-OnePlus-PKG110-Adreno__TM__750-1782030492.json"
   }
 ]
