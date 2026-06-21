@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1782008391,
+    "filename": "Tomb_Raider-Xiaomi-M2101K7BG-Mali-G76-1782008391.json"
+  },
+  {
     "game": "Halo",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1781990881,
     "filename": "FINAL_FANTASY_VII_REMAKE_INTERGRADE-Xiaomi-25053PC47G-Adreno__TM__825-1781990881.json"
-  },
-  {
-    "game": "Sniper_at_Work",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1781990674,
-    "filename": "Sniper_at_Work-samsung-SM-S938B-Adreno__TM__830-1781990674.json"
   }
 ]
