@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Walking_Dead__The_Final_Season",
+    "manufacturer": "24117RK2CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1782012550,
+    "filename": "The_Walking_Dead__The_Final_Season-Xiaomi-24117RK2CG-Adreno__TM__750-1782012550.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1781992465,
     "filename": "Resident_Evil_2-Xiaomi-2412DPC0AI-Mali-G720_MC7-1781992465.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1781992070,
-    "filename": "Resident_Evil_2-Xiaomi-24069PC21G-Adreno__TM__735-1781992070.json"
   }
 ]
