@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Lord_of_the_Rings__War_in_the_North",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782003640,
+    "filename": "The_Lord_of_the_Rings__War_in_the_North-samsung-SM-A065M-Mali-G52_MC2-1782003640.json"
+  },
+  {
     "game": "007_First_Light",
     "manufacturer": "NX789S_V1B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1781986566,
     "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1781986566.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013___________________________________",
-    "manufacturer": "A125M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1781985507,
-    "filename": "Pro_Evolution_Soccer_2013___________________________________-samsung-SM-A125M-PowerVR_Rogue_GE8320-1781985507.json"
   }
 ]
