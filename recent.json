@@ -1,5 +1,12 @@
 [
   {
+    "game": "XIII",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1782050626,
+    "filename": "XIII-INFINIX-Infinix_X6873-Mali-G615_MC6-1782050626.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782026482,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1782026482.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782026462,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1782026462.json"
   }
 ]
