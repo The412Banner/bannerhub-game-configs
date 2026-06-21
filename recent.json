@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782067972,
+    "filename": "Resident_Evil_2-samsung-SM-S918B-Adreno__TM__740-1782067972.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782055886,
     "filename": "BlackOps-ITEL-itel_S666LN-Mali-G57_MC2-1782055886.json"
-  },
-  {
-    "game": "rockstar-games-launcher-1-0-106-2879",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782054540,
-    "filename": "rockstar-games-launcher-1-0-106-2879-TECNO-TECNO_KM4k-Mali-G52_MC2-1782054540.json"
   }
 ]
