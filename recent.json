@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1782080245,
+    "filename": "Tomb_Raider-Xiaomi-M2101K7BG-Mali-G76-1782080245.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S721B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782069606,
     "filename": "Replaced-samsung-SM-S918B-Adreno__TM__740-1782069606.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1782069249,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6871-Mali-G610_MC6-1782069249.json"
   }
 ]
