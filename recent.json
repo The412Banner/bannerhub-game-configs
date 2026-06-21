@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g_60_",
+    "device": "Adreno__TM__618",
+    "timestamp": 1782003681,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_60_-Adreno__TM__618-1782003681.json"
+  },
+  {
     "game": "The_Lord_of_the_Rings__War_in_the_North",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1781988207,
     "filename": "Watch_Dogs-motorola-moto_g34_5G-Adreno__TM__619-1781988207.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1781986566,
-    "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1781986566.json"
   }
 ]
