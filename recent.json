@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "CPH2819",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782059950,
+    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2819-Adreno__TM__610-1782059950.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A125M",
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1782059410,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782042941,
     "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-A165M-Mali-G57_MC2-1782042941.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "MEIZU_21",
-    "device": "Adreno__TM__750",
-    "timestamp": 1782039704,
-    "filename": "Grand_Theft_Auto_V_Legacy-meizu-MEIZU_21-Adreno__TM__750-1782039704.json"
   }
 ]
