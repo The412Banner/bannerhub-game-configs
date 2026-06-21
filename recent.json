@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stellar_Blade_",
+    "manufacturer": "V2408A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1782057747,
+    "filename": "Stellar_Blade_-vivo-V2408A-Adreno__TM__830-1782057747.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A125M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1782036649,
     "filename": "autorun_PES2008-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1782036649.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782036100,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1782036100.json"
   }
 ]
