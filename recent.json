@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782042941,
+    "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-A165M-Mali-G57_MC2-1782042941.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "MEIZU_21",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782013353,
     "filename": "Need_for_Speed__Heat-samsung-SM-S938B-Adreno__TM__830-1782013353.json"
-  },
-  {
-    "game": "State_of_Decay",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1782013004,
-    "filename": "State_of_Decay-Xiaomi-M2101K7BG-Mali-G76-1782013004.json"
   }
 ]
