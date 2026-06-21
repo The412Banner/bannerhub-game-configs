@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1782062834,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-INFINIX-Infinix_X6871-Mali-G610_MC6-1782062834.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1782049956,
     "filename": "Resident_Evil_5-vivo-V2534-Mali-G615_MC2-1782049956.json"
-  },
-  {
-    "game": "iw4sp",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782049881,
-    "filename": "iw4sp-samsung-SM-A156M-Mali-G57_MC2-1782049881.json"
   }
 ]
