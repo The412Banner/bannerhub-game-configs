@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw4sp",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782049881,
+    "filename": "iw4sp-samsung-SM-A156M-Mali-G57_MC2-1782049881.json"
+  },
+  {
     "game": "TWFC",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1782025021,
     "filename": "Devil_May_Cry_5-Xiaomi-24069PC21G-Adreno__TM__735-1782025021.json"
-  },
-  {
-    "game": "FIFA_14",
-    "manufacturer": "A528B",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1782021341,
-    "filename": "FIFA_14-samsung-SM-A528B-Adreno__TM__642L-1782021341.json"
   }
 ]
