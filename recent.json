@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1782076514,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1782076514.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1782076288,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3241-Mali-G57_MC2-1782076288.json"
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1782062834,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-INFINIX-Infinix_X6871-Mali-G610_MC6-1782062834.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782062226,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3241-Mali-G57_MC2-1782062226.json"
   }
 ]
