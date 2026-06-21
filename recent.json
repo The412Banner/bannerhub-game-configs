@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1782006120,
+    "filename": "Tomb_Raider-Xiaomi-M2101K7BG-Mali-G76-1782006120.json"
+  },
+  {
     "game": "PhysX_2_5_1",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1781989627,
     "filename": "DARK_SOULS___REMASTERED-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781989627.json"
-  },
-  {
-    "game": "MotoGP_26",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1781989407,
-    "filename": "MotoGP_26-AYANEO-Pocket_FIT-Adreno__TM__750-1781989407.json"
   }
 ]
