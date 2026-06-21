@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A125M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1782057539,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A125M-PowerVR_Rogue_GE8320-1782057539.json"
+  },
+  {
     "game": "t__tendo_sirikuticos__",
     "manufacturer": "A715F",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782036100,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1782036100.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782034457,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2103K19PG-Mali-G57_MC2-1782034457.json"
   }
 ]
