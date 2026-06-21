@@ -1,5 +1,12 @@
 [
   {
+    "game": "Replaced",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782069606,
+    "filename": "Replaced-samsung-SM-S918B-Adreno__TM__740-1782069606.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782057747,
     "filename": "Stellar_Blade_-vivo-V2408A-Adreno__TM__830-1782057747.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A125M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1782057539,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A125M-PowerVR_Rogue_GE8320-1782057539.json"
   }
 ]
