@@ -1,5 +1,12 @@
 [
   {
+    "game": "Halo",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1782007736,
+    "filename": "Halo-INFINIX-Infinix_X6871-Mali-G610_MC6-1782007736.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1781990674,
     "filename": "Sniper_at_Work-samsung-SM-S938B-Adreno__TM__830-1781990674.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1781989627,
-    "filename": "DARK_SOULS___REMASTERED-Xiaomi-2412DPC0AG-Mali-G720_MC7-1781989627.json"
   }
 ]
