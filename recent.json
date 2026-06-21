@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "MEIZU_21",
+    "device": "Adreno__TM__750",
+    "timestamp": 1782039704,
+    "filename": "Grand_Theft_Auto_V_Legacy-meizu-MEIZU_21-Adreno__TM__750-1782039704.json"
+  },
+  {
     "game": "Poppy_playtime",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1782013004,
     "filename": "State_of_Decay-Xiaomi-M2101K7BG-Mali-G76-1782013004.json"
-  },
-  {
-    "game": "The_Walking_Dead__The_Final_Season",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1782012554,
-    "filename": "The_Walking_Dead__The_Final_Season-Xiaomi-24117RK2CG-Adreno__TM__750-1782012554.json"
   }
 ]
