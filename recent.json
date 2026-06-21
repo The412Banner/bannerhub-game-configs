@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782062226,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3241-Mali-G57_MC2-1782062226.json"
+  },
+  {
     "game": "TJoC_SM",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782049881,
     "filename": "iw4sp-samsung-SM-A156M-Mali-G57_MC2-1782049881.json"
-  },
-  {
-    "game": "TWFC",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1782049338,
-    "filename": "TWFC-UNISOC-X18S-Mali-G52-1782049338.json"
   }
 ]
