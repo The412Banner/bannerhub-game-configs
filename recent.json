@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1782069249,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6871-Mali-G610_MC6-1782069249.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1782057539,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A125M-PowerVR_Rogue_GE8320-1782057539.json"
-  },
-  {
-    "game": "t__tendo_sirikuticos__",
-    "manufacturer": "A715F",
-    "device": "Adreno__TM__618",
-    "timestamp": 1782057194,
-    "filename": "t__tendo_sirikuticos__-samsung-SM-A715F-Adreno__TM__618-1782057194.json"
   }
 ]
