@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_playtime",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782039489,
+    "filename": "Poppy_playtime-INFINIX_MOBILITY_LIMITED-Infinix_X6812B-Mali-G52_MC2-1782039489.json"
+  },
+  {
     "game": "Don_t_Starve_Together",
     "manufacturer": "V2453A",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782012554,
     "filename": "The_Walking_Dead__The_Final_Season-Xiaomi-24117RK2CG-Adreno__TM__750-1782012554.json"
-  },
-  {
-    "game": "The_Walking_Dead__The_Final_Season",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1782012550,
-    "filename": "The_Walking_Dead__The_Final_Season-Xiaomi-24117RK2CG-Adreno__TM__750-1782012550.json"
   }
 ]
