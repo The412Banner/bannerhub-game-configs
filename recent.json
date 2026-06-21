@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782068430,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A245M-Mali-G57_MC2-1782068430.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1782057194,
     "filename": "t__tendo_sirikuticos__-samsung-SM-A715F-Adreno__TM__618-1782057194.json"
-  },
-  {
-    "game": "BlackOps",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782055886,
-    "filename": "BlackOps-ITEL-itel_S666LN-Mali-G57_MC2-1782055886.json"
   }
 ]
