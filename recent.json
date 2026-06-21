@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_MW",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782075871,
+    "filename": "Need_for_Speed_MW-Xiaomi-23106RN0DA-Mali-G52_MC2-1782075871.json"
+  },
+  {
     "game": "TBH__Task_Bar_Hero",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1782060581,
     "filename": "Pro_Evolution_Soccer_2013-TCL-T610K-PowerVR_Rogue_GE8320-1782060581.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "CPH2819",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782059950,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2819-Adreno__TM__610-1782059950.json"
   }
 ]
