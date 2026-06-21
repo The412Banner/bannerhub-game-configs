@@ -1,5 +1,12 @@
 [
   {
+    "game": "________",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1782060955,
+    "filename": "________-Xiaomi-2412DPC0AI-Mali-G720_MC7-1782060955.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "T610K",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1782048021,
     "filename": "Resident_Evil_7_Biohazard-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782048021.json"
-  },
-  {
-    "game": "________",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782045592,
-    "filename": "________-Xiaomi-2412DPC0AI-Mali-G720_MC7-1782045592.json"
   }
 ]
