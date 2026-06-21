@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blades_of_Time",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782071714,
+    "filename": "Blades_of_Time-Xiaomi-24117RN76E-Mali-G57_MC2-1782071714.json"
+  },
+  {
     "game": "TBH__Task_Bar_Hero",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1782058986,
     "filename": "Far_Cry_3-Xiaomi-2311DRK48G-Mali-G615_MC6-1782058986.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A125M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1782057870,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A125M-PowerVR_Rogue_GE8320-1782057870.json"
   }
 ]
