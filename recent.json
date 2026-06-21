@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1782008460,
+    "filename": "Resident_Evil_6-Xiaomi-2311DRK48G-Mali-G615_MC6-1782008460.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1781992070,
     "filename": "Resident_Evil_2-Xiaomi-24069PC21G-Adreno__TM__735-1781992070.json"
-  },
-  {
-    "game": "FINAL_FANTASY_VII_REMAKE_INTERGRADE",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1781990881,
-    "filename": "FINAL_FANTASY_VII_REMAKE_INTERGRADE-Xiaomi-25053PC47G-Adreno__TM__825-1781990881.json"
   }
 ]
