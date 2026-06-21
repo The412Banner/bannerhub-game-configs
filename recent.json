@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782081216,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3241-Mali-G57_MC2-1782081216.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__Remastered__2017_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782071714,
     "filename": "Blades_of_Time-Xiaomi-24117RN76E-Mali-G57_MC2-1782071714.json"
-  },
-  {
-    "game": "TBH__Task_Bar_Hero",
-    "manufacturer": "2510DPC44G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1782070731,
-    "filename": "TBH__Task_Bar_Hero-Xiaomi-2510DPC44G-Adreno__TM__830-1782070731.json"
   }
 ]
