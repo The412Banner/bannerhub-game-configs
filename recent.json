@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782055886,
+    "filename": "BlackOps-ITEL-itel_S666LN-Mali-G57_MC2-1782055886.json"
+  },
+  {
     "game": "rockstar-games-launcher-1-0-106-2879",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782034443,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2103K19PG-Mali-G57_MC2-1782034443.json"
-  },
-  {
-    "game": "eFootball_",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1782033231,
-    "filename": "eFootball_-Xiaomi-2311DRK48G-Mali-G615_MC6-1782033231.json"
   }
 ]
