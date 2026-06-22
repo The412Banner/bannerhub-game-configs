@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782171679,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1782171679.json"
+  },
+  {
     "game": "Stellar_Blade_",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782153619,
     "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_LH7n-Mali-G57_MC2-1782153619.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782153609,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_LH7n-Mali-G57_MC2-1782153609.json"
   }
 ]
