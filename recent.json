@@ -1,5 +1,12 @@
 [
   {
+    "game": "SAINT_SEIYA_SS",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782104112,
+    "filename": "SAINT_SEIYA_SS-ITEL-itel_S666LN-Mali-G57_MC2-1782104112.json"
+  },
+  {
     "game": "One_Piece_Pirate_Warriors_3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1782082108,
     "filename": "Teardown-motorola-motorola_edge_50_fusion-Adreno__TM__710-1782082108.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782082081,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2103K19PG-Mali-G57_MC2-1782082081.json"
   }
 ]
