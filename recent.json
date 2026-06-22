@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782150984,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1782150984.json"
+  },
+  {
     "game": "SniperV2Launcher",
     "manufacturer": "S931B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782119987,
     "filename": "setup_mount_and_blade_warband_2_068-INFINIX-Infinix_X6837-Mali-G57_MC2-1782119987.json"
-  },
-  {
-    "game": "setup_mount_and_blade_warband_2_068",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782119974,
-    "filename": "setup_mount_and_blade_warband_2_068-INFINIX-Infinix_X6837-Mali-G57_MC2-1782119974.json"
   }
 ]
