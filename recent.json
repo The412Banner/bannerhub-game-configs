@@ -1,5 +1,12 @@
 [
   {
+    "game": "SAMURAI_WARRIORS_4-II",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782104076,
+    "filename": "SAMURAI_WARRIORS_4-II-ITEL-itel_S666LN-Mali-G57_MC2-1782104076.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G72_MP3",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782081513,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2103K19PG-Mali-G57_MC2-1782081513.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782081216,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3241-Mali-G57_MC2-1782081216.json"
   }
 ]
