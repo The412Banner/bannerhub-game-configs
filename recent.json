@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A715F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1782112405,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A715F-Adreno__TM__618-1782112405.json"
+  },
+  {
     "game": "Darksiders_II_Deathinitive_Edition__________________________",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1782095784,
     "filename": "TODO_________-samsung-SM-A236M-Adreno__TM__619-1782095784.json"
-  },
-  {
-    "game": "Bob_Esponja__Tit_s_da_Mar__-_Demo",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782094280,
-    "filename": "Bob_Esponja__Tit_s_da_Mar__-_Demo-samsung-SM-A065M-Mali-G52_MC2-1782094280.json"
   }
 ]
