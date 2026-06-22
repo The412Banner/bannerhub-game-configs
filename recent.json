@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782158851,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1782158851.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
     "timestamp": 1782158332,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782129778,
     "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-motorola-moto_g32-Adreno__TM__610-1782129778.json"
-  },
-  {
-    "game": "Don_t_Starve_Together",
-    "manufacturer": "V2453A",
-    "device": "Adreno__TM__825",
-    "timestamp": 1782128133,
-    "filename": "Don_t_Starve_Together-vivo-V2453A-Adreno__TM__825-1782128133.json"
   }
 ]
