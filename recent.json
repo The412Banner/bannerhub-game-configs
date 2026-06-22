@@ -1,5 +1,12 @@
 [
   {
+    "game": "Don_t_Starve_Together",
+    "manufacturer": "V2453A",
+    "device": "Adreno__TM__825",
+    "timestamp": 1782128133,
+    "filename": "Don_t_Starve_Together-vivo-V2453A-Adreno__TM__825-1782128133.json"
+  },
+  {
     "game": "DP",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782104209,
     "filename": "Ultra_Street_Fighter__IV-ITEL-itel_S666LN-Mali-G57_MC2-1782104209.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782104189,
-    "filename": "Mortal_Kombat_Komplete_Edition-ITEL-itel_S666LN-Mali-G57_MC2-1782104189.json"
   }
 ]
