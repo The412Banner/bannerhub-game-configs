@@ -1,5 +1,12 @@
 [
   {
+    "game": "Saints_Row__The_Third",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782127228,
+    "filename": "Saints_Row__The_Third-samsung-SM-A057M-Adreno__TM__610-1782127228.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782104159,
     "filename": "Sleeping_Dogs-ITEL-itel_S666LN-Mali-G57_MC2-1782104159.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782104131,
-    "filename": "Sleeping_Dogs-ITEL-itel_S666LN-Mali-G57_MC2-1782104131.json"
   }
 ]
