@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Marvel__Super_Heroes",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782104241,
+    "filename": "LEGO__Marvel__Super_Heroes-ITEL-itel_S666LN-Mali-G57_MC2-1782104241.json"
+  },
+  {
     "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1782093169,
     "filename": "Abiotic_Factor-Xiaomi-25053PC47G-Adreno__TM__825-1782093169.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1782091207,
-    "filename": "Resident_Evil_4-Xiaomi-24069PC21G-Adreno__TM__735-1782091207.json"
   }
 ]
