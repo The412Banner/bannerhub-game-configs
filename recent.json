@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+    "manufacturer": "moto_g32",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782129778,
+    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-motorola-moto_g32-Adreno__TM__610-1782129778.json"
+  },
+  {
     "game": "Don_t_Starve_Together",
     "manufacturer": "V2453A",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782104223,
     "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-ITEL-itel_S666LN-Mali-G57_MC2-1782104223.json"
-  },
-  {
-    "game": "Ultra_Street_Fighter__IV",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782104209,
-    "filename": "Ultra_Street_Fighter__IV-ITEL-itel_S666LN-Mali-G57_MC2-1782104209.json"
   }
 ]
