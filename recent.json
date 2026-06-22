@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782158327,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1782158327.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782127263,
     "filename": "DP-samsung-SM-A057M-Adreno__TM__610-1782127263.json"
-  },
-  {
-    "game": "Dead_Space__2008_",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782127244,
-    "filename": "Dead_Space__2008_-samsung-SM-A057M-Adreno__TM__610-1782127244.json"
   }
 ]
