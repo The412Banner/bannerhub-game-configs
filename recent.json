@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "PLE110",
+    "device": "Adreno__TM__825",
+    "timestamp": 1782162184,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-PLE110-Adreno__TM__825-1782162184.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68",
     "timestamp": 1782159229,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782136859,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2312FPCA6G-Mali-G57_MC2-1782136859.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G610_MC3",
-    "timestamp": 1782136741,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_40_neo-Mali-G610_MC3-1782136741.json"
   }
 ]
