@@ -1,5 +1,12 @@
 [
   {
+    "game": "Metro_2033_Redux",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782172429,
+    "filename": "Metro_2033_Redux-INFINIX-Infinix_X6833B-Mali-G57_MC2-1782172429.json"
+  },
+  {
     "game": "____Starward_",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782157044,
     "filename": "American_Truck_Simulator-BLU-G73-Mali-G57-1782157044.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782157022,
-    "filename": "American_Truck_Simulator-BLU-G73-Mali-G57-1782157022.json"
   }
 ]
