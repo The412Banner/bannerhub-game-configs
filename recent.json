@@ -1,5 +1,12 @@
 [
   {
+    "game": "Darksiders_II_Deathinitive_Edition__________________________",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1782110431,
+    "filename": "Darksiders_II_Deathinitive_Edition__________________________-samsung-SM-A546E-Mali-G68-1782110431.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782094280,
     "filename": "Bob_Esponja__Tit_s_da_Mar__-_Demo-samsung-SM-A065M-Mali-G52_MC2-1782094280.json"
-  },
-  {
-    "game": "Bob_Esponja__Tit_s_da_Mar__-_Demo",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782094252,
-    "filename": "Bob_Esponja__Tit_s_da_Mar__-_Demo-samsung-SM-A065M-Mali-G52_MC2-1782094252.json"
   }
 ]
