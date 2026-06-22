@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__2008_",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782127244,
+    "filename": "Dead_Space__2008_-samsung-SM-A057M-Adreno__TM__610-1782127244.json"
+  },
+  {
     "game": "Saints_Row__The_Third",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782104174,
     "filename": "MY_HERO_ONE_S_JUSTICE_2-ITEL-itel_S666LN-Mali-G57_MC2-1782104174.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782104159,
-    "filename": "Sleeping_Dogs-ITEL-itel_S666LN-Mali-G57_MC2-1782104159.json"
   }
 ]
