@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782157022,
+    "filename": "American_Truck_Simulator-BLU-G73-Mali-G57-1782157022.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782127228,
     "filename": "Saints_Row__The_Third-samsung-SM-A057M-Adreno__TM__610-1782127228.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782127213,
-    "filename": "Resident_Evil_5-samsung-SM-A057M-Adreno__TM__610-1782127213.json"
   }
 ]
