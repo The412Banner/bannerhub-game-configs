@@ -1,5 +1,12 @@
 [
   {
+    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782104223,
+    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-ITEL-itel_S666LN-Mali-G57_MC2-1782104223.json"
+  },
+  {
     "game": "Ultra_Street_Fighter__IV",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1782091207,
     "filename": "Resident_Evil_4-Xiaomi-24069PC21G-Adreno__TM__735-1782091207.json"
-  },
-  {
-    "game": "Resident_Evil",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782090678,
-    "filename": "Resident_Evil-INFINIX-Infinix_X6882-Mali-G57_MC2-1782090678.json"
   }
 ]
