@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782090678,
+    "filename": "Resident_Evil-INFINIX-Infinix_X6882-Mali-G57_MC2-1782090678.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1782076521,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1782076521.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1782076514,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1782076514.json"
   }
 ]
