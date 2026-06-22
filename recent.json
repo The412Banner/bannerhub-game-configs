@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFSC",
+    "manufacturer": "OPPO_A40m",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782153324,
+    "filename": "NFSC-OPPO-OPPO_A40m-Adreno__TM__610-1782153324.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G76_MC4",
     "timestamp": 1782125950,
     "filename": "Far_Cry_3-realme-RMX3085-Mali-G76_MC4-1782125950.json"
-  },
-  {
-    "game": "OCTOPATH_TRAVELER_0",
-    "manufacturer": "I2213",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1782120986,
-    "filename": "OCTOPATH_TRAVELER_0-vivo-I2213-Adreno__TM__642L-1782120986.json"
   }
 ]
