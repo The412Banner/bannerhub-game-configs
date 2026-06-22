@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782104131,
+    "filename": "Sleeping_Dogs-ITEL-itel_S666LN-Mali-G57_MC2-1782104131.json"
+  },
+  {
     "game": "SAINT_SEIYA_SS",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782082222,
     "filename": "Battlefield_4_-samsung-SM-S928B-Adreno__TM__750-1782082222.json"
-  },
-  {
-    "game": "Teardown",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1782082108,
-    "filename": "Teardown-motorola-motorola_edge_50_fusion-Adreno__TM__710-1782082108.json"
   }
 ]
