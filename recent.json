@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G610_MC3",
+    "timestamp": 1782136741,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_40_neo-Mali-G610_MC3-1782136741.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "M2007J20CG",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782104254,
     "filename": "Street_Fighter_X_Tekken-ITEL-itel_S666LN-Mali-G57_MC2-1782104254.json"
-  },
-  {
-    "game": "LEGO__Marvel__Super_Heroes",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782104241,
-    "filename": "LEGO__Marvel__Super_Heroes-ITEL-itel_S666LN-Mali-G57_MC2-1782104241.json"
   }
 ]
