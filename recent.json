@@ -1,5 +1,12 @@
 [
   {
+    "game": "Street_Fighter_X_Tekken",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782104254,
+    "filename": "Street_Fighter_X_Tekken-ITEL-itel_S666LN-Mali-G57_MC2-1782104254.json"
+  },
+  {
     "game": "LEGO__Marvel__Super_Heroes",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1782093813,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1782093813.json"
-  },
-  {
-    "game": "Abiotic_Factor",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1782093169,
-    "filename": "Abiotic_Factor-Xiaomi-25053PC47G-Adreno__TM__825-1782093169.json"
   }
 ]
