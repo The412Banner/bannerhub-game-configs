@@ -1,5 +1,12 @@
 [
   {
+    "game": "____Starward_",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782171922,
+    "filename": "____Starward_-Xiaomi-23129RA5FL-Adreno__TM__610-1782171922.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782157022,
     "filename": "American_Truck_Simulator-BLU-G73-Mali-G57-1782157022.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782153619,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_LH7n-Mali-G57_MC2-1782153619.json"
   }
 ]
