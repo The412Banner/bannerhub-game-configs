@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782136859,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2312FPCA6G-Mali-G57_MC2-1782136859.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G610_MC3",
     "timestamp": 1782136741,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_40_neo-Mali-G610_MC3-1782136741.json"
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782104268,
     "filename": "Devil_May_Cry_4_Special_Edition-ITEL-itel_S666LN-Mali-G57_MC2-1782104268.json"
-  },
-  {
-    "game": "Street_Fighter_X_Tekken",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782104254,
-    "filename": "Street_Fighter_X_Tekken-ITEL-itel_S666LN-Mali-G57_MC2-1782104254.json"
   }
 ]
