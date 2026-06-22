@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1782091207,
+    "filename": "Resident_Evil_4-Xiaomi-24069PC21G-Adreno__TM__735-1782091207.json"
+  },
+  {
     "game": "Resident_Evil",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1782076822,
     "filename": "Pes_2016-motorola-moto_g86_5G-Mali-G615_MC2-1782076822.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1782076521,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1782076521.json"
   }
 ]
