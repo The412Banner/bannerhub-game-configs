@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "22111317PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1782145156,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22111317PG-Adreno__TM__619-1782145156.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G76_MC4",
     "timestamp": 1782144638,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1782117345,
     "filename": "Resident_Evil_2-Xiaomi-M2102J20SG-Adreno__TM__640-1782117345.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A715F",
-    "device": "Adreno__TM__618",
-    "timestamp": 1782112405,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A715F-Adreno__TM__618-1782112405.json"
   }
 ]
