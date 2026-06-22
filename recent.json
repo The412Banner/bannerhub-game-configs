@@ -1,5 +1,12 @@
 [
   {
+    "game": "Manor_Lords",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1782117588,
+    "filename": "Manor_Lords-Xiaomi-25053PC47G-Adreno__TM__825-1782117588.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1782100094,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1782100094.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782096324,
-    "filename": "Resident_Evil_5-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782096324.json"
   }
 ]
