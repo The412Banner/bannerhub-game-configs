@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782104268,
+    "filename": "Devil_May_Cry_4_Special_Edition-ITEL-itel_S666LN-Mali-G57_MC2-1782104268.json"
+  },
+  {
     "game": "Street_Fighter_X_Tekken",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782094234,
     "filename": "Bob_Esponja__Tit_s_da_Mar__-_Demo-samsung-SM-A065M-Mali-G52_MC2-1782094234.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1782093813,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1782093813.json"
   }
 ]
