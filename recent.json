@@ -1,5 +1,12 @@
 [
   {
+    "game": "DP",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782127263,
+    "filename": "DP-samsung-SM-A057M-Adreno__TM__610-1782127263.json"
+  },
+  {
     "game": "Dead_Space__2008_",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782104189,
     "filename": "Mortal_Kombat_Komplete_Edition-ITEL-itel_S666LN-Mali-G57_MC2-1782104189.json"
-  },
-  {
-    "game": "MY_HERO_ONE_S_JUSTICE_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782104174,
-    "filename": "MY_HERO_ONE_S_JUSTICE_2-ITEL-itel_S666LN-Mali-G57_MC2-1782104174.json"
   }
 ]
