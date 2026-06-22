@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ultra_Street_Fighter__IV",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782104209,
+    "filename": "Ultra_Street_Fighter__IV-ITEL-itel_S666LN-Mali-G57_MC2-1782104209.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782090678,
     "filename": "Resident_Evil-INFINIX-Infinix_X6882-Mali-G57_MC2-1782090678.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782086344,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2103K19PG-Mali-G57_MC2-1782086344.json"
   }
 ]
