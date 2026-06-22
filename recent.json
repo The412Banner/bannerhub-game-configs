@@ -1,5 +1,12 @@
 [
   {
+    "game": "OCTOPATH_TRAVELER_0",
+    "manufacturer": "I2213",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1782120986,
+    "filename": "OCTOPATH_TRAVELER_0-vivo-I2213-Adreno__TM__642L-1782120986.json"
+  },
+  {
     "game": "setup_mount_and_blade_warband_2_068",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782104076,
     "filename": "SAMURAI_WARRIORS_4-II-ITEL-itel_S666LN-Mali-G57_MC2-1782104076.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G72_MP3",
-    "timestamp": 1782102760,
-    "filename": "Pro_Evolution_Soccer_2013-CUBOT-P80-Mali-G72_MP3-1782102760.json"
   }
 ]
