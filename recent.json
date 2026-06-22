@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "M2007J20CG",
+    "device": "Adreno__TM__618",
+    "timestamp": 1782134120,
+    "filename": "Cuphead-Xiaomi-M2007J20CG-Adreno__TM__618-1782134120.json"
+  },
+  {
     "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
     "manufacturer": "moto_g32",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782104241,
     "filename": "LEGO__Marvel__Super_Heroes-ITEL-itel_S666LN-Mali-G57_MC2-1782104241.json"
-  },
-  {
-    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782104223,
-    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-ITEL-itel_S666LN-Mali-G57_MC2-1782104223.json"
   }
 ]
