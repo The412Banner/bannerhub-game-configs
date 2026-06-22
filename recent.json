@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G76_MC4",
+    "timestamp": 1782125950,
+    "filename": "Far_Cry_3-realme-RMX3085-Mali-G76_MC4-1782125950.json"
+  },
+  {
     "game": "OCTOPATH_TRAVELER_0",
     "manufacturer": "I2213",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782104091,
     "filename": "One_Piece_Pirate_Warriors_3-ITEL-itel_S666LN-Mali-G57_MC2-1782104091.json"
-  },
-  {
-    "game": "SAMURAI_WARRIORS_4-II",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782104076,
-    "filename": "SAMURAI_WARRIORS_4-II-ITEL-itel_S666LN-Mali-G57_MC2-1782104076.json"
   }
 ]
