@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782127213,
+    "filename": "Resident_Evil_5-samsung-SM-A057M-Adreno__TM__610-1782127213.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G76_MC4",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782104131,
     "filename": "Sleeping_Dogs-ITEL-itel_S666LN-Mali-G57_MC2-1782104131.json"
-  },
-  {
-    "game": "SAINT_SEIYA_SS",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782104112,
-    "filename": "SAINT_SEIYA_SS-ITEL-itel_S666LN-Mali-G57_MC2-1782104112.json"
   }
 ]
