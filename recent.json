@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1782247516,
+    "filename": "Grand_Theft_Auto_V-samsung-SM-S928B-Adreno__TM__750-1782247516.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1782232190,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A366E-Adreno__TM__710-1782232190.json"
-  },
-  {
-    "game": "METAL_GEAR_RISING__REVENGEANCE",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782232157,
-    "filename": "METAL_GEAR_RISING__REVENGEANCE-motorola-moto_g35_5G-Mali-G57-1782232157.json"
   }
 ]
