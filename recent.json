@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_PES_2021_SEASON_UPDATE",
+    "manufacturer": "V2425A",
+    "device": "Adreno__TM__750",
+    "timestamp": 1782181328,
+    "filename": "eFootball_PES_2021_SEASON_UPDATE-vivo-V2425A-Adreno__TM__750-1782181328.json"
+  },
+  {
     "game": "Silent_Hill_Homecoming",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1782164010,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A515F-Mali-G72-1782164010.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "PLE110",
-    "device": "Adreno__TM__825",
-    "timestamp": 1782162184,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-PLE110-Adreno__TM__825-1782162184.json"
   }
 ]
