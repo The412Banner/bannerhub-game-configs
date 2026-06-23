@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782234659,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155F-Mali-G57_MC2-1782234659.json"
+  },
+  {
     "game": "METAL_GEAR_RISING__REVENGEANCE",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1782218418,
     "filename": "Resident_Evil_2-realme-RMX5000-Mali-G615_MC2-1782218418.json"
-  },
-  {
-    "game": "F1_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1782216032,
-    "filename": "F1_2013-Xiaomi-2406APNFAG-Mali-G615_MC6-1782216032.json"
   }
 ]
