@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1782246999,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1782246999.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1782245558,
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782232056,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-motorola-moto_g35_5G-Mali-G57-1782232056.json"
-  },
-  {
-    "game": "Devil_May_Cry_4_Special_Edition",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782231616,
-    "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-23113RKC6G-Adreno__TM__740-1782231616.json"
   }
 ]
