@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782247335,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2311DRN14I-Mali-G52_MC2-1782247335.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782232157,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-motorola-moto_g35_5G-Mali-G57-1782232157.json"
-  },
-  {
-    "game": "METAL_GEAR_RISING__REVENGEANCE",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782232056,
-    "filename": "METAL_GEAR_RISING__REVENGEANCE-motorola-moto_g35_5G-Mali-G57-1782232056.json"
   }
 ]
