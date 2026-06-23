@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Elder_Scrolls_V__Skyrim",
+    "manufacturer": "A566B",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1782174674,
+    "filename": "The_Elder_Scrolls_V__Skyrim-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1782174674.json"
+  },
+  {
     "game": "vlc-media-player-3-0-23",
     "manufacturer": "25062RN2DL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782158332,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1782158332.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782158327,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1782158327.json"
   }
 ]
