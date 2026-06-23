@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782237849,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1782237849.json"
+  },
+  {
     "game": "METAL_GEAR_SOLID_V__GROUND_ZEROES",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1782225242,
     "filename": "Need_for_Speed__Heat-Xiaomi-2406APNFAG-Mali-G615_MC6-1782225242.json"
-  },
-  {
-    "game": "DRAGON_BALL_Sparking__ZERO",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1782223984,
-    "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-25053PC47G-Adreno__TM__825-1782223984.json"
   }
 ]
