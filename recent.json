@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lucas_viado_13",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782252171,
+    "filename": "Lucas_viado_13-Xiaomi-23129RAA4G-Adreno__TM__610-1782252171.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782234659,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155F-Mali-G57_MC2-1782234659.json"
-  },
-  {
-    "game": "METAL_GEAR_RISING__REVENGEANCE",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782232435,
-    "filename": "METAL_GEAR_RISING__REVENGEANCE-motorola-moto_g35_5G-Mali-G57-1782232435.json"
   }
 ]
