@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__III_Remastered",
+    "manufacturer": "I2508",
+    "device": "Adreno__TM__829",
+    "timestamp": 1782200043,
+    "filename": "Assassin_s_Creed__III_Remastered-vivo-I2508-Adreno__TM__829-1782200043.json"
+  },
+  {
     "game": "Far_Cry_",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782172429,
     "filename": "Metro_2033_Redux-INFINIX-Infinix_X6833B-Mali-G57_MC2-1782172429.json"
-  },
-  {
-    "game": "____Starward_",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782171922,
-    "filename": "____Starward_-Xiaomi-23129RA5FL-Adreno__TM__610-1782171922.json"
   }
 ]
