@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782226231,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1782226231.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "23122PCD1G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782193397,
     "filename": "Assassin_s_Creed_Mirage-vivo-I2401-Adreno__TM__830-1782193397.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "RMX5566",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782192663,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5566-Adreno__TM__610-1782192663.json"
   }
 ]
