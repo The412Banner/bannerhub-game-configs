@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_19",
+    "manufacturer": "A528B",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1782188059,
+    "filename": "FIFA_19-samsung-SM-A528B-Adreno__TM__642L-1782188059.json"
+  },
+  {
     "game": "No__I_m_not_a_Human",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782169444,
     "filename": "Stellar_Blade_-samsung-SM-S918B-Adreno__TM__740-1782169444.json"
-  },
-  {
-    "game": "Stellar_Blade_",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782169378,
-    "filename": "Stellar_Blade_-samsung-SM-S918B-Adreno__TM__740-1782169378.json"
   }
 ]
