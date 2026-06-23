@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1782232190,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A366E-Adreno__TM__710-1782232190.json"
+  },
+  {
     "game": "METAL_GEAR_RISING__REVENGEANCE",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782207888,
     "filename": "TBH__Task_Bar_Hero-Xiaomi-2510DPC44G-Adreno__TM__830-1782207888.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "I2508",
-    "device": "Adreno__TM__829",
-    "timestamp": 1782206931,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-vivo-I2508-Adreno__TM__829-1782206931.json"
   }
 ]
