@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782232201,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-motorola-moto_g35_5G-Mali-G57-1782232201.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__612",
     "timestamp": 1782210504,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K7AG-Adreno__TM__612-1782210504.json"
-  },
-  {
-    "game": "TBH__Task_Bar_Hero",
-    "manufacturer": "2510DPC44G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1782207888,
-    "filename": "TBH__Task_Bar_Hero-Xiaomi-2510DPC44G-Adreno__TM__830-1782207888.json"
   }
 ]
