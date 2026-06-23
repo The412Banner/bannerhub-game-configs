@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1782197656,
+    "filename": "Far_Cry_-samsung-SM-A546B-Mali-G68-1782197656.json"
+  },
+  {
     "game": "Farming_Simulator_19",
     "manufacturer": "A015",
     "device": "MT6878",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782171922,
     "filename": "____Starward_-Xiaomi-23129RA5FL-Adreno__TM__610-1782171922.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782171679,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1782171679.json"
   }
 ]
