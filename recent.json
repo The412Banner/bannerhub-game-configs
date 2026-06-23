@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sonic_World_Adventure",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1782182368,
+    "filename": "Sonic_World_Adventure-Xiaomi-24069PC21G-Adreno__TM__735-1782182368.json"
+  },
+  {
     "game": "NFSC",
     "manufacturer": "24117RK2CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1782169039,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A536E-Mali-G68-1782169039.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1782168336,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A536E-Mali-G68-1782168336.json"
   }
 ]
