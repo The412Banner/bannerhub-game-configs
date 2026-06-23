@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "M556B",
+    "device": "Adreno__TM__644",
+    "timestamp": 1782231214,
+    "filename": "Rise_of_the_Tomb_Raider_-samsung-SM-M556B-Adreno__TM__644-1782231214.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1782197656,
     "filename": "Far_Cry_-samsung-SM-A546B-Mali-G68-1782197656.json"
-  },
-  {
-    "game": "Farming_Simulator_19",
-    "manufacturer": "A015",
-    "device": "MT6878",
-    "timestamp": 1782195650,
-    "filename": "Farming_Simulator_19-Nothing-A015-MT6878-1782195650.json"
   }
 ]
