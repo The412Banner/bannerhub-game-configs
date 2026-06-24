@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_5",
+    "manufacturer": "N960U",
+    "device": "Adreno__TM__630",
+    "timestamp": 1782332594,
+    "filename": "Grand_Theft_Auto_5-samsung-SM-N960U-Adreno__TM__630-1782332594.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782318679,
     "filename": "xenia_edge-samsung-SM-S916B-Adreno__TM__740-1782318679.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1782317678,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A176B-Mali-G68-1782317678.json"
   }
 ]
