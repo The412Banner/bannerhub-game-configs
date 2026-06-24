@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1782326050,
+    "filename": "Resident_Evil_3-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1782326050.json"
+  },
+  {
     "game": "nss",
     "manufacturer": "RMX3890",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782312173,
     "filename": "PlayGTAV-samsung-SM-S928B-Adreno__TM__750-1782312173.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782308115,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2103K19PG-Mali-G57_MC2-1782308115.json"
   }
 ]
