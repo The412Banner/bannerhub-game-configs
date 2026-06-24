@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "MI_8_Lite",
+    "device": "Adreno__TM__512",
+    "timestamp": 1782327366,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-MI_8_Lite-Adreno__TM__512-1782327366.json"
+  },
+  {
     "game": "MMRX",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1782315392,
     "filename": "Prototype_2-Xiaomi-M2101K6G-Adreno__TM__618-1782315392.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782312449,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1782312449.json"
   }
 ]
