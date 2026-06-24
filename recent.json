@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1782338996,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_60_fusion-Mali-G615_MC2-1782338996.json"
+  },
+  {
     "game": "Atomic_Heart",
     "manufacturer": "V2425A",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782320634,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25028RN03A-Mali-G57-1782320634.json"
-  },
-  {
-    "game": "Zefyr__Prologue",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782319707,
-    "filename": "Zefyr__Prologue-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782319707.json"
   }
 ]
