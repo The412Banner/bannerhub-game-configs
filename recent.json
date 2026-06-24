@@ -1,5 +1,12 @@
 [
   {
+    "game": "R_C__Cars",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782333710,
+    "filename": "R_C__Cars-Anbernic-RG_406H-Mali-G57-1782333710.json"
+  },
+  {
     "game": "Grand_Theft_Auto_5",
     "manufacturer": "N960U",
     "device": "Adreno__TM__630",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1782319110,
     "filename": "100_Girls_Handsome_Man-motorola-motorola_razr_50_ultra-Adreno__TM__735-1782319110.json"
-  },
-  {
-    "game": "xenia_edge",
-    "manufacturer": "S916B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782318679,
-    "filename": "xenia_edge-samsung-SM-S916B-Adreno__TM__740-1782318679.json"
   }
 ]
