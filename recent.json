@@ -1,5 +1,12 @@
 [
   {
+    "game": "Clair_Obscur__Expedition_33",
+    "manufacturer": "V2425A",
+    "device": "Adreno__TM__750",
+    "timestamp": 1782260222,
+    "filename": "Clair_Obscur__Expedition_33-vivo-V2425A-Adreno__TM__750-1782260222.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1782244586,
     "filename": "UE4Game-Xiaomi-2311DRK48G-Mali-G615_MC6-1782244586.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782243120,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25078RA3EA-Mali-G52_MC2-1782243120.json"
   }
 ]
