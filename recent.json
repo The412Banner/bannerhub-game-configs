@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "NX729J",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782298243,
+    "filename": "God_of_War-nubia-NX729J-Adreno__TM__740-1782298243.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "2201117TY",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782265478,
     "filename": "Fallout__New_Vegas-samsung-SM-S928B-Adreno__TM__750-1782265478.json"
-  },
-  {
-    "game": "Middle-earth__Shadow_of_Mordor_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782260555,
-    "filename": "Middle-earth__Shadow_of_Mordor_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782260555.json"
   }
 ]
