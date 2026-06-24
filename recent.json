@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782321188,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1782321188.json"
+  },
+  {
     "game": "CRISIS_CORE__FINAL_FANTASY_VII__REUNION",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782298243,
     "filename": "God_of_War-nubia-NX729J-Adreno__TM__740-1782298243.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "2201117TY",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782297309,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2201117TY-Adreno__TM__610-1782297309.json"
   }
 ]
