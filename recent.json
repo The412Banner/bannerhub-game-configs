@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782343571,
+    "filename": "Pro_Evolution_Soccer_2013-HONOR-JDY-LX2-Mali-G52_MC2-1782343571.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G77",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782332029,
     "filename": "CRISIS_CORE__FINAL_FANTASY_VII__REUNION-AYN-AYN_Thor-Adreno__TM__740-1782332029.json"
-  },
-  {
-    "game": "XeniaManager",
-    "manufacturer": "S916B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782321161,
-    "filename": "XeniaManager-samsung-SM-S916B-Adreno__TM__740-1782321161.json"
   }
 ]
