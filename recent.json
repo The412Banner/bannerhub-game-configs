@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prince_of_Persia_The_Sands_of_Time__________________________",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1782259332,
+    "filename": "Prince_of_Persia_The_Sands_of_Time__________________________-Xiaomi-25080RABDG-Mali-G615_MC2-1782259332.json"
+  },
+  {
     "game": "Farthest_Frontier",
     "manufacturer": "V2425A",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782240373,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1782240373.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A528B",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1782239739,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A528B-Adreno__TM__642L-1782239739.json"
   }
 ]
