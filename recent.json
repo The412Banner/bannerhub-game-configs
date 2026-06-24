@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blur",
+    "manufacturer": "2510EPC8BG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1782344496,
+    "filename": "Blur-Xiaomi-2510EPC8BG-Adreno__TM__810-1782344496.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782321188,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1782321188.json"
-  },
-  {
-    "game": "CRISIS_CORE__FINAL_FANTASY_VII__REUNION",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782332029,
-    "filename": "CRISIS_CORE__FINAL_FANTASY_VII__REUNION-AYN-AYN_Thor-Adreno__TM__740-1782332029.json"
   }
 ]
