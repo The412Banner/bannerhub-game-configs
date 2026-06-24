@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mini_Motor_Evo",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782323608,
+    "filename": "Mini_Motor_Evo-Anbernic-RG_406H-Mali-G57-1782323608.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782307776,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2103K19PG-Mali-G57_MC2-1782307776.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782306715,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2103K19PG-Mali-G57_MC2-1782306715.json"
   }
 ]
