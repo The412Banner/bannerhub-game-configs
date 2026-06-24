@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G77",
+    "timestamp": 1782339765,
+    "filename": "Need_for_Speed_9-samsung-SM-N986B-Mali-G77-1782339765.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782321161,
     "filename": "XeniaManager-samsung-SM-S916B-Adreno__TM__740-1782321161.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782320634,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25028RN03A-Mali-G57-1782320634.json"
   }
 ]
