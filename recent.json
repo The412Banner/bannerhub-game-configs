@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "22021211RG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1782292865,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22021211RG-Adreno__TM__650-1782292865.json"
+  },
+  {
     "game": "Titanfall__2",
     "manufacturer": "I2508",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782259548,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-S918B-Adreno__TM__740-1782259548.json"
-  },
-  {
-    "game": "Prince_of_Persia_The_Sands_of_Time__________________________",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1782259332,
-    "filename": "Prince_of_Persia_The_Sands_of_Time__________________________-Xiaomi-25080RABDG-Mali-G615_MC2-1782259332.json"
   }
 ]
