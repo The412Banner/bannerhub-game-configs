@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1782415328,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25069PTEBG-Mali-G720_MC7-1782415328.json"
+  },
+  {
     "game": "need_for_speed_street",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1782402977,
     "filename": "Resident_Evil_5-vivo-I2219-Adreno__TM__710-1782402977.json"
-  },
-  {
-    "game": "FB_JK_Trine",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782401925,
-    "filename": "FB_JK_Trine-Xiaomi-24117RN76E-Mali-G57_MC2-1782401925.json"
   }
 ]
