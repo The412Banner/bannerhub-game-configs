@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1782412718,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-nubia-NP05J-Adreno__TM__830-1782412718.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G71",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782393784,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-24117RN76L-Mali-G57_MC2-1782393784.json"
-  },
-  {
-    "game": "Lucas_viado_13",
-    "manufacturer": "23129RAA4G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782392881,
-    "filename": "Lucas_viado_13-Xiaomi-23129RAA4G-Adreno__TM__610-1782392881.json"
   }
 ]
