@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1782353657,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782353657.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M2101K6G",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782333710,
     "filename": "R_C__Cars-Anbernic-RG_406H-Mali-G57-1782333710.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_5",
-    "manufacturer": "N960U",
-    "device": "Adreno__TM__630",
-    "timestamp": 1782332594,
-    "filename": "Grand_Theft_Auto_5-samsung-SM-N960U-Adreno__TM__630-1782332594.json"
   }
 ]
