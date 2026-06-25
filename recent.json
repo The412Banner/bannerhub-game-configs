@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_e22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1782368145,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e22-PowerVR_Rogue_GE8320-1782368145.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1782367934,
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782350553,
     "filename": "Pro_Evolution_Soccer_6-Xiaomi-2310FPCA4G-Mali-G52_MC2-1782350553.json"
-  },
-  {
-    "game": "MONSTER_HUNTER_RISE",
-    "manufacturer": "22101320G",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1782349002,
-    "filename": "MONSTER_HUNTER_RISE-Xiaomi-22101320G-Adreno__TM__642L-1782349002.json"
   }
 ]
