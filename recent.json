@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782428239,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1782428239.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man_Remastered",
     "manufacturer": "moto_g54_5G",
     "device": "MT6855V_AZA",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782416495,
     "filename": "Max_Payne_3-nubia-NX799J-Adreno__TM__830-1782416495.json"
-  },
-  {
-    "game": "WL3",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782426883,
-    "filename": "WL3-AYN-AYN_Thor-Adreno__TM__740-1782426883.json"
   }
 ]
