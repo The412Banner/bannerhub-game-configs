@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shadow_of_Mordor__test",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1782426692,
+    "filename": "Shadow_of_Mordor__test-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782426692.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1782415328,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25069PTEBG-Mali-G720_MC7-1782415328.json"
-  },
-  {
-    "game": "need_for_speed_street",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782414502,
-    "filename": "need_for_speed_street-realme-realme_Note_60-Mali-G57-1782414502.json"
   }
 ]
