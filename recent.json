@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "M2101K6G",
+    "device": "Adreno__TM__618",
+    "timestamp": 1782356800,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K6G-Adreno__TM__618-1782356800.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782334006,
     "filename": "Assassin_s_Creed__Brotherhood-realme-RMX5303-Mali-G57-1782334006.json"
-  },
-  {
-    "game": "R_C__Cars",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782333710,
-    "filename": "R_C__Cars-Anbernic-RG_406H-Mali-G57-1782333710.json"
   }
 ]
