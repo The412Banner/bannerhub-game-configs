@@ -1,5 +1,12 @@
 [
   {
+    "game": "DAVE_THE_DIVER",
+    "manufacturer": "22021211RG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1782389056,
+    "filename": "DAVE_THE_DIVER-Xiaomi-22021211RG-Adreno__TM__650-1782389056.json"
+  },
+  {
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "NX741J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1782353581,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K6G-Adreno__TM__618-1782353581.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "M2101K6G",
-    "device": "Adreno__TM__618",
-    "timestamp": 1782353579,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K6G-Adreno__TM__618-1782353579.json"
   }
 ]
