@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw3sp",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782426225,
+    "filename": "iw3sp-INFINIX-Infinix_X6885-Mali-G57_MC2-1782426225.json"
+  },
+  {
     "game": "Fields_of_Mistria",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1782413530,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25069PTEBG-Mali-G720_MC7-1782413530.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782413155,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25069PTEBG-Mali-G720_MC7-1782413155.json"
   }
 ]
