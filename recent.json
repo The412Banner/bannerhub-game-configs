@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "ASUS_AI2201_C",
+    "device": "Adreno__TM__730",
+    "timestamp": 1782399423,
+    "filename": "Grand_Theft_Auto_V_Legacy-asus-ASUS_AI2201_C-Adreno__TM__730-1782399423.json"
+  },
+  {
     "game": "Silent_Hill_Homecoming",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1782366515,
     "filename": "pes__2013-motorola-moto_e22-PowerVR_Rogue_GE8320-1782366515.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1782363972,
-    "filename": "Grand_Theft_Auto_V_Legacy-Daria-DM-B50104-Mali-G68_MC4-1782363972.json"
   }
 ]
