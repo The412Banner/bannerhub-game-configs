@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1782363577,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782363577.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A042M",
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1782361733,
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782343571,
     "filename": "Pro_Evolution_Soccer_2013-HONOR-JDY-LX2-Mali-G52_MC2-1782343571.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G77",
-    "timestamp": 1782339765,
-    "filename": "Need_for_Speed_9-samsung-SM-N986B-Mali-G77-1782339765.json"
   }
 ]
