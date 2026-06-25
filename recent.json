@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782407791,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_CL6k-Mali-G57_MC2-1782407791.json"
+  },
+  {
     "game": "Zombie_Army_Trilogy_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1782388816,
     "filename": "God_of_War_Ragnar_k-nubia-NX741J-Adreno__TM__840-1782388816.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1782388262,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1782388262.json"
   }
 ]
