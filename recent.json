@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_2007",
+    "manufacturer": "Redmi_7",
+    "device": "Adreno__TM__506",
+    "timestamp": 1782375382,
+    "filename": "FIFA_2007-Xiaomi-Redmi_7-Adreno__TM__506-1782375382.json"
+  },
+  {
     "game": "Sims",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782352428,
     "filename": "my_eyes_deceive-vivo-V2425A-Adreno__TM__750-1782352428.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782351174,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2303ERA42L-Mali-G57_MC2-1782351174.json"
   }
 ]
