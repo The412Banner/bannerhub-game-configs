@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G71",
+    "timestamp": 1782412370,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A205G-Mali-G71-1782412370.json"
+  },
+  {
     "game": "NFSC",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782392881,
     "filename": "Lucas_viado_13-Xiaomi-23129RAA4G-Adreno__TM__610-1782392881.json"
-  },
-  {
-    "game": "Poppy_Playtime",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782392481,
-    "filename": "Poppy_Playtime-motorola-moto_g15-Mali-G52_MC2-1782392481.json"
   }
 ]
