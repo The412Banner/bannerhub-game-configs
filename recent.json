@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_6",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782350553,
+    "filename": "Pro_Evolution_Soccer_6-Xiaomi-2310FPCA4G-Mali-G52_MC2-1782350553.json"
+  },
+  {
     "game": "MONSTER_HUNTER_RISE",
     "manufacturer": "22101320G",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782323608,
     "filename": "Mini_Motor_Evo-Anbernic-RG_406H-Mali-G57-1782323608.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1782323090,
-    "filename": "Euro_Truck_Simulator_2-motorola-motorola_edge_40-Mali-G77_MC9-1782323090.json"
   }
 ]
