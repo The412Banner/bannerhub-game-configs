@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sims",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782375223,
+    "filename": "Sims-LENOVO-TB336FU-Mali-G57_MC2-1782375223.json"
+  },
+  {
     "game": "The_Elder_Scrolls_V__Skyrim",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782351174,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2303ERA42L-Mali-G57_MC2-1782351174.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782350656,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2303ERA42L-Mali-G57_MC2-1782350656.json"
   }
 ]
