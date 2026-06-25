@@ -1,5 +1,12 @@
 [
   {
+    "game": "No__I_m_not_a_Human",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782430482,
+    "filename": "No__I_m_not_a_Human-samsung-SM-A065F-Mali-G52_MC2-1782430482.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782417736,
     "filename": "Far_Cry_3-samsung-SM-S928B-Adreno__TM__750-1782417736.json"
-  },
-  {
-    "game": "Max_Payne_3",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1782416511,
-    "filename": "Max_Payne_3-nubia-NX799J-Adreno__TM__830-1782416511.json"
   }
 ]
