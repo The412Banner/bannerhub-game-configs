@@ -1,5 +1,12 @@
 [
   {
+    "game": "hollow_knight",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1782412774,
+    "filename": "hollow_knight-Xiaomi-22101316G-Mali-G68_MC4-1782412774.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782397254,
     "filename": "Resident_Evil_7_Biohazard-samsung-SM-S928B-Adreno__TM__750-1782397254.json"
-  },
-  {
-    "game": "TBH__Task_Bar_Hero",
-    "manufacturer": "CPH2109",
-    "device": "Adreno__TM__618",
-    "timestamp": 1782395616,
-    "filename": "TBH__Task_Bar_Hero-OPPO-CPH2109-Adreno__TM__618-1782395616.json"
   }
 ]
