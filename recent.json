@@ -1,5 +1,12 @@
 [
   {
+    "game": "MECCHA_CHAMELEON",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1782404095,
+    "filename": "MECCHA_CHAMELEON-TECNO-TECNO_CM8-Mali-G615_MC6-1782404095.json"
+  },
+  {
     "game": "Wobbly_Life",
     "manufacturer": "motorola_one_hyper",
     "device": "Adreno__TM__612",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__829",
     "timestamp": 1782377365,
     "filename": "BlackOps-vivo-I2508-Adreno__TM__829-1782377365.json"
-  },
-  {
-    "game": "FIFA_2007",
-    "manufacturer": "Redmi_7",
-    "device": "Adreno__TM__506",
-    "timestamp": 1782375382,
-    "filename": "FIFA_2007-Xiaomi-Redmi_7-Adreno__TM__506-1782375382.json"
   }
 ]
