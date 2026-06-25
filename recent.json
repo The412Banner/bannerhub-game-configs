@@ -1,5 +1,12 @@
 [
   {
+    "game": "WL3",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782426883,
+    "filename": "WL3-AYN-AYN_Thor-Adreno__TM__740-1782426883.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782403278,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EA-Mali-G52_MC2-1782403278.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "I2219",
-    "device": "Adreno__TM__710",
-    "timestamp": 1782402977,
-    "filename": "Resident_Evil_5-vivo-I2219-Adreno__TM__710-1782402977.json"
   }
 ]
