@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A042M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1782361733,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1782361733.json"
+  },
+  {
     "game": "BlackOps",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1782339765,
     "filename": "Need_for_Speed_9-samsung-SM-N986B-Mali-G77-1782339765.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1782338996,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_60_fusion-Mali-G615_MC2-1782338996.json"
   }
 ]
