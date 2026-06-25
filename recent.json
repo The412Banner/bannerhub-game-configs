@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782350656,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2303ERA42L-Mali-G57_MC2-1782350656.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_6",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782323708,
     "filename": "nss-realme-RMX3890-Adreno__TM__610-1782323708.json"
-  },
-  {
-    "game": "Mini_Motor_Evo",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782323608,
-    "filename": "Mini_Motor_Evo-Anbernic-RG_406H-Mali-G57-1782323608.json"
   }
 ]
