@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "NX741J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1782388816,
+    "filename": "God_of_War_Ragnar_k-nubia-NX741J-Adreno__TM__840-1782388816.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1782353579,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K6G-Adreno__TM__618-1782353579.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "M2101K6G",
-    "device": "Adreno__TM__618",
-    "timestamp": 1782353571,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K6G-Adreno__TM__618-1782353571.json"
   }
 ]
