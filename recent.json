@@ -1,5 +1,12 @@
 [
   {
+    "game": "pes__2013",
+    "manufacturer": "moto_e22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1782366515,
+    "filename": "pes__2013-motorola-moto_e22-PowerVR_Rogue_GE8320-1782366515.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1782345752,
     "filename": "____2016-samsung-SM-A346M-Mali-G68_MC4-1782345752.json"
-  },
-  {
-    "game": "Blur",
-    "manufacturer": "2510EPC8BG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1782344496,
-    "filename": "Blur-Xiaomi-2510EPC8BG-Adreno__TM__810-1782344496.json"
   }
 ]
