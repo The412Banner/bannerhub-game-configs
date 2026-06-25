@@ -1,5 +1,12 @@
 [
   {
+    "game": "Zombie_Army_Trilogy_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782406670,
+    "filename": "Zombie_Army_Trilogy_-TECNO-TECNO_LH7n-Mali-G57_MC2-1782406670.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1782388262,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1782388262.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782387165,
-    "filename": "_____2019-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782387165.json"
   }
 ]
