@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheWalkingDead2",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1782421954,
+    "filename": "TheWalkingDead2-nubia-NX799J-Adreno__TM__830-1782421954.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1782405775,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25080RABDG-Mali-G615_MC2-1782405775.json"
-  },
-  {
-    "game": "Wobbly_Life",
-    "manufacturer": "motorola_one_hyper",
-    "device": "Adreno__TM__612",
-    "timestamp": 1782405317,
-    "filename": "Wobbly_Life-motorola-motorola_one_hyper-Adreno__TM__612-1782405317.json"
   }
 ]
