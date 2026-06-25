@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_SPORTS__FIFA_23",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782423288,
+    "filename": "EA_SPORTS__FIFA_23-Xiaomi-2312FPCA6G-Mali-G57_MC2-1782423288.json"
+  },
+  {
     "game": "Wobbly_Life",
     "manufacturer": "motorola_one_hyper",
     "device": "Adreno__TM__612",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1782407914,
     "filename": "Dead_Space__2008_-Xiaomi-25053PC47G-Adreno__TM__825-1782407914.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782407791,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_CL6k-Mali-G57_MC2-1782407791.json"
   }
 ]
