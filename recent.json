@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wobbly_Life",
+    "manufacturer": "motorola_one_hyper",
+    "device": "Adreno__TM__612",
+    "timestamp": 1782403682,
+    "filename": "Wobbly_Life-motorola-motorola_one_hyper-Adreno__TM__612-1782403682.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__506",
     "timestamp": 1782375382,
     "filename": "FIFA_2007-Xiaomi-Redmi_7-Adreno__TM__506-1782375382.json"
-  },
-  {
-    "game": "Sims",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782375223,
-    "filename": "Sims-LENOVO-TB336FU-Mali-G57_MC2-1782375223.json"
   }
 ]
