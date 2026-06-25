@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wobbly_Life",
+    "manufacturer": "motorola_one_hyper",
+    "device": "Adreno__TM__612",
+    "timestamp": 1782405317,
+    "filename": "Wobbly_Life-motorola-motorola_one_hyper-Adreno__TM__612-1782405317.json"
+  },
+  {
     "game": "MECCHA_CHAMELEON",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782380766,
     "filename": "Just_Cause_2-INFINIX-Infinix_X6525-Mali-G57-1782380766.json"
-  },
-  {
-    "game": "BlackOps",
-    "manufacturer": "I2508",
-    "device": "Adreno__TM__829",
-    "timestamp": 1782377365,
-    "filename": "BlackOps-vivo-I2508-Adreno__TM__829-1782377365.json"
   }
 ]
