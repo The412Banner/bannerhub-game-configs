@@ -1,5 +1,12 @@
 [
   {
+    "game": "need_for_speed_street",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782414502,
+    "filename": "need_for_speed_street-realme-realme_Note_60-Mali-G57-1782414502.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782401925,
     "filename": "FB_JK_Trine-Xiaomi-24117RN76E-Mali-G57_MC2-1782401925.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "ASUS_AI2201_C",
-    "device": "Adreno__TM__730",
-    "timestamp": 1782399423,
-    "filename": "Grand_Theft_Auto_V_Legacy-asus-ASUS_AI2201_C-Adreno__TM__730-1782399423.json"
   }
 ]
