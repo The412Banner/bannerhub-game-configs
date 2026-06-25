@@ -1,5 +1,12 @@
 [
   {
+    "game": "Silent_Hill_Homecoming",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782399117,
+    "filename": "Silent_Hill_Homecoming-INFINIX-Infinix_X6833B-Mali-G57_MC2-1782399117.json"
+  },
+  {
     "game": "Far_Cry__Primal",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1782363972,
     "filename": "Grand_Theft_Auto_V_Legacy-Daria-DM-B50104-Mali-G68_MC4-1782363972.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782363577,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782363577.json"
   }
 ]
