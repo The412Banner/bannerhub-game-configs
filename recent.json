@@ -1,5 +1,12 @@
 [
   {
+    "game": "my_eyes_deceive",
+    "manufacturer": "V2425A",
+    "device": "Adreno__TM__750",
+    "timestamp": 1782352428,
+    "filename": "my_eyes_deceive-vivo-V2425A-Adreno__TM__750-1782352428.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1782326439,
     "filename": "Mortal_Kombat_11-Xiaomi-25053PC47G-Adreno__TM__825-1782326439.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1782326050,
-    "filename": "Resident_Evil_3-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1782326050.json"
   }
 ]
