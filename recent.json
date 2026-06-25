@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "I2508",
+    "device": "Adreno__TM__829",
+    "timestamp": 1782377365,
+    "filename": "BlackOps-vivo-I2508-Adreno__TM__829-1782377365.json"
+  },
+  {
     "game": "FIFA_2007",
     "manufacturer": "Redmi_7",
     "device": "Adreno__TM__506",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1782353548,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K6G-Adreno__TM__618-1782353548.json"
-  },
-  {
-    "game": "my_eyes_deceive",
-    "manufacturer": "V2425A",
-    "device": "Adreno__TM__750",
-    "timestamp": 1782352428,
-    "filename": "my_eyes_deceive-vivo-V2425A-Adreno__TM__750-1782352428.json"
   }
 ]
