@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Sims__4",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782416499,
+    "filename": "The_Sims__4-samsung-SM-A065M-Mali-G52_MC2-1782416499.json"
+  },
+  {
     "game": "Max_Payne_3",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__612",
     "timestamp": 1782403682,
     "filename": "Wobbly_Life-motorola-motorola_one_hyper-Adreno__TM__612-1782403682.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782403312,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EA-Mali-G52_MC2-1782403312.json"
   }
 ]
