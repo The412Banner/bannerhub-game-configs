@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wobbly_Life",
+    "manufacturer": "motorola_one_hyper",
+    "device": "Adreno__TM__612",
+    "timestamp": 1782422843,
+    "filename": "Wobbly_Life-motorola-motorola_one_hyper-Adreno__TM__612-1782422843.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782407791,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_CL6k-Mali-G57_MC2-1782407791.json"
-  },
-  {
-    "game": "Zombie_Army_Trilogy_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782406670,
-    "filename": "Zombie_Army_Trilogy_-TECNO-TECNO_LH7n-Mali-G57_MC2-1782406670.json"
   }
 ]
