@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__2008_",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1782407914,
+    "filename": "Dead_Space__2008_-Xiaomi-25053PC47G-Adreno__TM__825-1782407914.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1782389056,
     "filename": "DAVE_THE_DIVER-Xiaomi-22021211RG-Adreno__TM__650-1782389056.json"
-  },
-  {
-    "game": "God_of_War_Ragnar_k",
-    "manufacturer": "NX741J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1782388816,
-    "filename": "God_of_War_Ragnar_k-nubia-NX741J-Adreno__TM__840-1782388816.json"
   }
 ]
