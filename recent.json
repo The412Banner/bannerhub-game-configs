@@ -1,5 +1,12 @@
 [
   {
+    "game": "Max_Payne_3",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1782416495,
+    "filename": "Max_Payne_3-nubia-NX799J-Adreno__TM__830-1782416495.json"
+  },
+  {
     "game": "WL3",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782403312,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EA-Mali-G52_MC2-1782403312.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782403278,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EA-Mali-G52_MC2-1782403278.json"
   }
 ]
