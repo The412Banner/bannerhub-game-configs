@@ -3,6 +3,13 @@
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G68",
+    "timestamp": 1782481336,
+    "filename": "BootstrapPackagedGame-samsung-SM-E146B-Mali-G68-1782481336.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G68",
     "timestamp": 1782481187,
     "filename": "BootstrapPackagedGame-samsung-SM-E146B-Mali-G68-1782481187.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782467750,
     "filename": "Grand_Theft_Auto_V-realme-RMX3710-Mali-G52_MC2-1782467750.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782467696,
-    "filename": "Grand_Theft_Auto_V-realme-RMX3710-Mali-G52_MC2-1782467696.json"
   }
 ]
