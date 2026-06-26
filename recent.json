@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782432089,
+    "filename": "Need_for_Speed_9-Xiaomi-M2103K19PG-Mali-G57_MC2-1782432089.json"
+  },
+  {
     "game": "UNCHARTED___Legacy_of_Thieves_Collection",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782422545,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-ITEL-itel_S688LN-Mali-G57-1782422545.json"
-  },
-  {
-    "game": "TheWalkingDead2",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1782421954,
-    "filename": "TheWalkingDead2-nubia-NX799J-Adreno__TM__830-1782421954.json"
   }
 ]
