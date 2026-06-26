@@ -1,5 +1,12 @@
 [
   {
+    "game": "L2_Divolion",
+    "manufacturer": "motorola_edge_70_fusion",
+    "device": "Adreno__TM__810",
+    "timestamp": 1782488034,
+    "filename": "L2_Divolion-motorola-motorola_edge_70_fusion-Adreno__TM__810-1782488034.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782475317,
     "filename": "Hitman__Absolution_-nubia-NP05J-Adreno__TM__830-1782475317.json"
-  },
-  {
-    "game": "Hitman__Absolution_",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1782475310,
-    "filename": "Hitman__Absolution_-nubia-NP05J-Adreno__TM__830-1782475310.json"
   }
 ]
