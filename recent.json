@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Island_Definitive_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782434876,
+    "filename": "Dead_Island_Definitive_Edition-INFINIX-Infinix_X6833B-Mali-G57_MC2-1782434876.json"
+  },
+  {
     "game": "Silent_Hill_Homecoming",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782428239,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1782428239.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man_Remastered",
-    "manufacturer": "moto_g54_5G",
-    "device": "MT6855V_AZA",
-    "timestamp": 1782427037,
-    "filename": "Marvel_s_Spider-Man_Remastered-motorola-moto_g54_5G-MT6855V_AZA-1782427037.json"
   }
 ]
