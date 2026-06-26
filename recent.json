@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782466879,
+    "filename": "BootstrapPackagedGame-OPPO-CPH2483-Mali-G57_MC2-1782466879.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1782452857,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g45_5G-Adreno__TM__619-1782452857.json"
-  },
-  {
-    "game": "Last_Epoch",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1782450093,
-    "filename": "Last_Epoch-nubia-NX809J-Adreno__TM__840-1782450093.json"
   }
 ]
