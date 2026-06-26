@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782458939,
+    "filename": "Left_4_Dead_2-AYN-AYN_Thor-Adreno__TM__740-1782458939.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "M526BR",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782444200,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1782444200.json"
-  },
-  {
-    "game": "DP",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1782443977,
-    "filename": "DP-Xiaomi-22041216G-Mali-G610_MC6-1782443977.json"
   }
 ]
