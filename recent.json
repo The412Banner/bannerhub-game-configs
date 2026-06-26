@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1782468417,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25053PC47G-Adreno__TM__825-1782468417.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
     "timestamp": 1782454405,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S942B-ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_-1782454405.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782453784,
-    "filename": "Resident_Evil_5-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782453784.json"
   }
 ]
