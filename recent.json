@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_18",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782517906,
+    "filename": "FIFA_18-nubia-Z2465N-Mali-G57-1782517906.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1782488034,
     "filename": "L2_Divolion-motorola-motorola_edge_70_fusion-Adreno__TM__810-1782488034.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__720",
-    "timestamp": 1782487517,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-DNY-NX9-Adreno__TM__720-1782487517.json"
   }
 ]
