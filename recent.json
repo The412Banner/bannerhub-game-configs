@@ -1,5 +1,12 @@
 [
   {
+    "game": "A_Plague_Tale__Innocence",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1782478792,
+    "filename": "A_Plague_Tale__Innocence-nubia-NX799J-Adreno__TM__830-1782478792.json"
+  },
+  {
     "game": "DEAD_RISING_",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782460453,
     "filename": "TES4__Oblivion-nubia-NX799J-Adreno__TM__830-1782460453.json"
-  },
-  {
-    "game": "p_s_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782459319,
-    "filename": "p_s_2013-Xiaomi-25078RA3EA-Mali-G52_MC2-1782459319.json"
   }
 ]
