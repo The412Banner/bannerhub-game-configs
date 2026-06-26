@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dying_Light",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1782518342,
+    "filename": "Dying_Light-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782518342.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1782489635,
     "filename": "NFS_Most_Wanted_-_Black_Edition_2005-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782489635.json"
-  },
-  {
-    "game": "Mortal_Kombat_X",
-    "manufacturer": "23127PN0CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1782489602,
-    "filename": "Mortal_Kombat_X-Xiaomi-23127PN0CG-Adreno__TM__750-1782489602.json"
   }
 ]
