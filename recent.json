@@ -1,5 +1,12 @@
 [
   {
+    "game": "p_s_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782455045,
+    "filename": "p_s_2013-Xiaomi-25078RA3EA-Mali-G52_MC2-1782455045.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1782442462,
     "filename": "Halo_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782442462.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1782441497,
-    "filename": "Far_Cry_3-samsung-SM-S901E-Adreno__TM__730-1782441497.json"
   }
 ]
