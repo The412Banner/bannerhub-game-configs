@@ -1,5 +1,12 @@
 [
   {
+    "game": "____2016",
+    "manufacturer": "N976V",
+    "device": "Adreno__TM__640",
+    "timestamp": 1782495885,
+    "filename": "____2016-samsung-SM-N976V-Adreno__TM__640-1782495885.json"
+  },
+  {
     "game": "FIFA_Soccer_11",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G76_MC4",
     "timestamp": 1782475619,
     "filename": "GALVAN-Xiaomi-Redmi_Note_8_Pro-Mali-G76_MC4-1782475619.json"
-  },
-  {
-    "game": "GALVAN",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1782475607,
-    "filename": "GALVAN-Xiaomi-Redmi_Note_8_Pro-Mali-G76_MC4-1782475607.json"
   }
 ]
