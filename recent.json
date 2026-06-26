@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fallout_3",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1782440904,
+    "filename": "Fallout_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782440904.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782432545,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1782432545.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782432434,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1782432434.json"
   }
 ]
