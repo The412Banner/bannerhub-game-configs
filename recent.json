@@ -1,5 +1,12 @@
 [
   {
+    "game": "TES4__Oblivion",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1782460453,
+    "filename": "TES4__Oblivion-nubia-NX799J-Adreno__TM__830-1782460453.json"
+  },
+  {
     "game": "p_s_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782447488,
     "filename": "The_Elder_Scrolls_V__Skyrim_Special_Edition-samsung-SM-S928B-Adreno__TM__750-1782447488.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782445866,
-    "filename": "Resident_Evil_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782445866.json"
   }
 ]
