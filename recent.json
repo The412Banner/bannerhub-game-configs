@@ -1,5 +1,12 @@
 [
   {
+    "game": "Super_Mario_64______________________________________________",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1782509297,
+    "filename": "Super_Mario_64______________________________________________-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1782509297.json"
+  },
+  {
     "game": "Bombergrounds__Reborn",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1782482210,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-M127G-Mali-G52-1782482210.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1782481336,
-    "filename": "BootstrapPackagedGame-samsung-SM-E146B-Mali-G68-1782481336.json"
   }
 ]
