@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782434821,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RAA4G-Adreno__TM__610-1782434821.json"
+  },
+  {
     "game": "SPEED2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782426243,
     "filename": "PlayGTAV-Xiaomi-25078RA3EE-Mali-G52_MC2-1782426243.json"
-  },
-  {
-    "game": "iw3sp",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782426225,
-    "filename": "iw3sp-INFINIX-Infinix_X6885-Mali-G57_MC2-1782426225.json"
   }
 ]
