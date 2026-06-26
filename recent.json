@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1782441497,
+    "filename": "Far_Cry_3-samsung-SM-S901E-Adreno__TM__730-1782441497.json"
+  },
+  {
     "game": "The_Elder_Scrolls_V__Skyrim_Special_Edition",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1782434336,
     "filename": "AC3SP-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782434336.json"
-  },
-  {
-    "game": "Fallout_3",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782433784,
-    "filename": "Fallout_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782433784.json"
   }
 ]
