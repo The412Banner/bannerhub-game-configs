@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782458954,
+    "filename": "DARK_SOULS___REMASTERED-AYN-AYN_Thor-Adreno__TM__740-1782458954.json"
+  },
+  {
     "game": "THE_KING_OF_FIGHTERS__98_ULTIMATE_MATCH_FINAL_EDITION",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1782445735,
     "filename": "Dead_Space__2008_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782445735.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2014",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782445726,
-    "filename": "Pro_Evolution_Soccer_2014-samsung-SM-A165M-Mali-G57_MC2-1782445726.json"
   }
 ]
