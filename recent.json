@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782480031,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2410FPCC5G-Mali-G52_MC2-1782480031.json"
+  },
+  {
     "game": "A_Plague_Tale__Innocence",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782460905,
     "filename": "The_Elder_Scrolls_V__Skyrim_Special_Edition-samsung-SM-S928B-Adreno__TM__750-1782460905.json"
-  },
-  {
-    "game": "TES4__Oblivion",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1782460453,
-    "filename": "TES4__Oblivion-nubia-NX799J-Adreno__TM__830-1782460453.json"
   }
 ]
