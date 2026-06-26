@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1782454909,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782454909.json"
+  },
+  {
     "game": "Shank",
     "manufacturer": "S936B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1782441497,
     "filename": "Far_Cry_3-samsung-SM-S901E-Adreno__TM__730-1782441497.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim_Special_Edition",
-    "manufacturer": "S928B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1782441041,
-    "filename": "The_Elder_Scrolls_V__Skyrim_Special_Edition-samsung-SM-S928B-Adreno__TM__750-1782441041.json"
   }
 ]
