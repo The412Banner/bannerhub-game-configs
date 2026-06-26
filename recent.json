@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFS_Most_Wanted_-_Black_Edition_2005",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1782489635,
+    "filename": "NFS_Most_Wanted_-_Black_Edition_2005-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782489635.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "23127PN0CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782475449,
     "filename": "Hitman__Absolution_-nubia-NP05J-Adreno__TM__830-1782475449.json"
-  },
-  {
-    "game": "Hitman__Absolution_",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1782475443,
-    "filename": "Hitman__Absolution_-nubia-NP05J-Adreno__TM__830-1782475443.json"
   }
 ]
