@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2014",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782445726,
+    "filename": "Pro_Evolution_Soccer_2014-samsung-SM-A165M-Mali-G57_MC2-1782445726.json"
+  },
+  {
     "game": "Halo_2_for_Windows_Vista",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782434884,
     "filename": "Dead_Space__-INFINIX-Infinix_X6833B-Mali-G57_MC2-1782434884.json"
-  },
-  {
-    "game": "Dead_Island_Definitive_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782434876,
-    "filename": "Dead_Island_Definitive_Edition-INFINIX-Infinix_X6833B-Mali-G57_MC2-1782434876.json"
   }
 ]
