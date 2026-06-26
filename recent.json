@@ -3,6 +3,13 @@
     "game": "_____2019",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1782504206,
+    "filename": "_____2019-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782504206.json"
+  },
+  {
+    "game": "_____2019",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1782504178,
     "filename": "_____2019-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782504178.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782480031,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2410FPCC5G-Mali-G52_MC2-1782480031.json"
-  },
-  {
-    "game": "A_Plague_Tale__Innocence",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1782478792,
-    "filename": "A_Plague_Tale__Innocence-nubia-NX799J-Adreno__TM__830-1782478792.json"
   }
 ]
