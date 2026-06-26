@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782475517,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25040RP0AG-Mali-G57_MC2-1782475517.json"
+  },
+  {
     "game": "Hitman__Absolution_",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782458944,
     "filename": "Ultra_Street_Fighter__IV-AYN-AYN_Thor-Adreno__TM__740-1782458944.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782458939,
-    "filename": "Left_4_Dead_2-AYN-AYN_Thor-Adreno__TM__740-1782458939.json"
   }
 ]
