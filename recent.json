@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1782485828,
+    "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-Xiaomi-2311DRK48G-Mali-G615_MC6-1782485828.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "G996U",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782475304,
     "filename": "Hitman__Absolution_-nubia-NP05J-Adreno__TM__830-1782475304.json"
-  },
-  {
-    "game": "Bombergrounds__Reborn",
-    "manufacturer": "A556E",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1782473755,
-    "filename": "Bombergrounds__Reborn-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1782473755.json"
   }
 ]
