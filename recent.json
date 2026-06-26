@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782516090,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1782516090.json"
+  },
+  {
     "game": "Just_Cause_2",
     "manufacturer": "G781B",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1782485828,
     "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-Xiaomi-2311DRK48G-Mali-G615_MC6-1782485828.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "G996U",
-    "device": "Adreno__TM__660",
-    "timestamp": 1782484743,
-    "filename": "Resident_Evil_2-samsung-SM-G996U-Adreno__TM__660-1782484743.json"
   }
 ]
