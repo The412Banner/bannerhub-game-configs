@@ -3,6 +3,13 @@
     "game": "GALVAN",
     "manufacturer": "Mali",
     "device": "G76_MC4",
+    "timestamp": 1782475619,
+    "filename": "GALVAN-Xiaomi-Redmi_Note_8_Pro-Mali-G76_MC4-1782475619.json"
+  },
+  {
+    "game": "GALVAN",
+    "manufacturer": "Mali",
+    "device": "G76_MC4",
     "timestamp": 1782475607,
     "filename": "GALVAN-Xiaomi-Redmi_Note_8_Pro-Mali-G76_MC4-1782475607.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782458954,
     "filename": "DARK_SOULS___REMASTERED-AYN-AYN_Thor-Adreno__TM__740-1782458954.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS__98_ULTIMATE_MATCH_FINAL_EDITION",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782458949,
-    "filename": "THE_KING_OF_FIGHTERS__98_ULTIMATE_MATCH_FINAL_EDITION-AYN-AYN_Thor-Adreno__TM__740-1782458949.json"
   }
 ]
