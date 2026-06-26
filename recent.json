@@ -1,5 +1,12 @@
 [
   {
+    "game": "SPEED2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782434431,
+    "filename": "SPEED2-Xiaomi-M2103K19PG-Mali-G57_MC2-1782434431.json"
+  },
+  {
     "game": "S_T_A_L_K_E_R__________________v1_0006______________________",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782426225,
     "filename": "iw3sp-INFINIX-Infinix_X6885-Mali-G57_MC2-1782426225.json"
-  },
-  {
-    "game": "Fields_of_Mistria",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782425970,
-    "filename": "Fields_of_Mistria-samsung-SM-A075M-Mali-G57_MC2-1782425970.json"
   }
 ]
