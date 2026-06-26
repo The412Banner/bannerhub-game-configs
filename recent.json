@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shank",
+    "manufacturer": "S936B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1782454838,
+    "filename": "Shank-samsung-SM-S936B-Adreno__TM__830-1782454838.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S942B",
     "device": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782441041,
     "filename": "The_Elder_Scrolls_V__Skyrim_Special_Edition-samsung-SM-S928B-Adreno__TM__750-1782441041.json"
-  },
-  {
-    "game": "Dead_Space__2008_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782440998,
-    "filename": "Dead_Space__2008_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782440998.json"
   }
 ]
