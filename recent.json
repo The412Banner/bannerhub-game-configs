@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782518048,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2310FPCA4G-Mali-G52_MC2-1782518048.json"
+  },
+  {
     "game": "FIFA_18",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782489602,
     "filename": "Mortal_Kombat_X-Xiaomi-23127PN0CG-Adreno__TM__750-1782489602.json"
-  },
-  {
-    "game": "L2_Divolion",
-    "manufacturer": "motorola_edge_70_fusion",
-    "device": "Adreno__TM__810",
-    "timestamp": 1782488034,
-    "filename": "L2_Divolion-motorola-motorola_edge_70_fusion-Adreno__TM__810-1782488034.json"
   }
 ]
