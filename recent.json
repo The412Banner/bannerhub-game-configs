@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hitman__Absolution_",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1782475304,
+    "filename": "Hitman__Absolution_-nubia-NP05J-Adreno__TM__830-1782475304.json"
+  },
+  {
     "game": "Bombergrounds__Reborn",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782457149,
     "filename": "Sleeping_Dogs-INFINIX-Infinix_X676C-Mali-G57_MC2-1782457149.json"
-  },
-  {
-    "game": "p_s_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782455045,
-    "filename": "p_s_2013-Xiaomi-25078RA3EA-Mali-G52_MC2-1782455045.json"
   }
 ]
