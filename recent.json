@@ -1,5 +1,12 @@
 [
   {
+    "game": "Halo_2_for_Windows_Vista",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1782445366,
+    "filename": "Halo_2_for_Windows_Vista-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782445366.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782434876,
     "filename": "Dead_Island_Definitive_Edition-INFINIX-Infinix_X6833B-Mali-G57_MC2-1782434876.json"
-  },
-  {
-    "game": "Silent_Hill_Homecoming",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782434869,
-    "filename": "Silent_Hill_Homecoming-INFINIX-Infinix_X6833B-Mali-G57_MC2-1782434869.json"
   }
 ]
