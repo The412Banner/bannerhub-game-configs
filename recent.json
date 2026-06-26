@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782467696,
+    "filename": "Grand_Theft_Auto_V-realme-RMX3710-Mali-G52_MC2-1782467696.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
     "timestamp": 1782453123,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S942B-ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_-1782453123.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1782452857,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g45_5G-Adreno__TM__619-1782452857.json"
   }
 ]
