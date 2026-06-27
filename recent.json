@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed_Mirage",
+    "manufacturer": "I2401",
+    "device": "Adreno__TM__830",
+    "timestamp": 1782560908,
+    "filename": "Assassin_s_Creed_Mirage-vivo-I2401-Adreno__TM__830-1782560908.json"
+  },
+  {
     "game": "Assassin_s_Creed__Odyssey",
     "manufacturer": "I2401",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782561961,
     "filename": "Resident_Evil_3-AYN-AYN_Thor-Adreno__TM__740-1782561961.json"
-  },
-  {
-    "game": "XCOM__Chimera_Squad",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782561809,
-    "filename": "XCOM__Chimera_Squad-AYN-AYN_Thor-Adreno__TM__740-1782561809.json"
   }
 ]
