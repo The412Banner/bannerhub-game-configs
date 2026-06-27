@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782543084,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1782543084.json"
+  },
+  {
     "game": "Wolf2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782518048,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2310FPCA4G-Mali-G52_MC2-1782518048.json"
-  },
-  {
-    "game": "FIFA_18",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782517906,
-    "filename": "FIFA_18-nubia-Z2465N-Mali-G57-1782517906.json"
   }
 ]
