@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782567746,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LH8n-Mali-G57_MC2-1782567746.json"
+  },
+  {
     "game": "Batman__Arkham_Knight",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782565007,
     "filename": "DARK_SOULS__III-AYN-AYN_Thor-Adreno__TM__740-1782565007.json"
-  },
-  {
-    "game": "DARK_SOULS__II",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782564115,
-    "filename": "DARK_SOULS__II-AYN-AYN_Thor-Adreno__TM__740-1782564115.json"
   }
 ]
