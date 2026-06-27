@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Island_2_",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1782557802,
+    "filename": "Dead_Island_2_-AYANEO-Pocket_FIT-Adreno__TM__750-1782557802.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782557190,
     "filename": "TEKKEN_7-AYN-AYN_Thor-Adreno__TM__740-1782557190.json"
-  },
-  {
-    "game": "Wasteland_3_",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782555888,
-    "filename": "Wasteland_3_-AYN-AYN_Thor-Adreno__TM__740-1782555888.json"
   }
 ]
