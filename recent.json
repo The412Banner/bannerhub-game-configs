@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1782581546,
+    "filename": "God_of_War-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1782581546.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782569193,
     "filename": "WorldBox_-_God_Simulator-Xiaomi-2303ERA42L-Mali-G57_MC2-1782569193.json"
-  },
-  {
-    "game": "ELDEN_RING_NIGHTREIGN",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1782568232,
-    "filename": "ELDEN_RING_NIGHTREIGN-AYANEO-Pocket_FIT-Adreno__TM__750-1782568232.json"
   }
 ]
