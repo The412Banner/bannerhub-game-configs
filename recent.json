@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782578093,
+    "filename": "Pro_Evolution_Soccer_2013-realme-realme_Note_60-Mali-G57-1782578093.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
     "timestamp": 1782576556,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782567746,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LH8n-Mali-G57_MC2-1782567746.json"
-  },
-  {
-    "game": "Batman__Arkham_Knight",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1782566914,
-    "filename": "Batman__Arkham_Knight-AYANEO-Pocket_FIT-Adreno__TM__750-1782566914.json"
   }
 ]
