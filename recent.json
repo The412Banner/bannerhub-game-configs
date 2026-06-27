@@ -1,5 +1,12 @@
 [
   {
+    "game": "xca",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1782575812,
+    "filename": "xca-samsung-SM-A166M-Mali-G68-1782575812.json"
+  },
+  {
     "game": "XChange3",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782563487,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g32-Adreno__TM__610-1782563487.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G72",
-    "timestamp": 1782561827,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_one_action-Mali-G72-1782561827.json"
   }
 ]
