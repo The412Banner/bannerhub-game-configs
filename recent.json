@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_14_ModdingWay_Mod_Selector",
+    "manufacturer": "G991U1",
+    "device": "Adreno__TM__660",
+    "timestamp": 1782536731,
+    "filename": "FIFA_14_ModdingWay_Mod_Selector-samsung-SM-G991U1-Adreno__TM__660-1782536731.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1782509481,
     "filename": "Assassin_s_Creed__Revelations-samsung-SM-G781B-Adreno__TM__650-1782509481.json"
-  },
-  {
-    "game": "Super_Mario_64______________________________________________",
-    "manufacturer": "A556E",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1782509297,
-    "filename": "Super_Mario_64______________________________________________-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1782509297.json"
   }
 ]
