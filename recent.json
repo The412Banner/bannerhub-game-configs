@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782564683,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02L-Mali-G52_MC2-1782564683.json"
+  },
+  {
     "game": "setup",
     "manufacturer": "M526B",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782563632,
     "filename": "TheComa2B-AYN-AYN_Thor-Adreno__TM__740-1782563632.json"
-  },
-  {
-    "game": "You_Will_Die_Here_Tonight",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782563344,
-    "filename": "You_Will_Die_Here_Tonight-AYN-AYN_Thor-Adreno__TM__740-1782563344.json"
   }
 ]
