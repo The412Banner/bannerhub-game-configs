@@ -1,5 +1,12 @@
 [
   {
+    "game": "XChange3",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1782575758,
+    "filename": "XChange3-samsung-SM-A166M-Mali-G68-1782575758.json"
+  },
+  {
     "game": "WANKO",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782560908,
     "filename": "Assassin_s_Creed_Mirage-vivo-I2401-Adreno__TM__830-1782560908.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Odyssey",
-    "manufacturer": "I2401",
-    "device": "Adreno__TM__830",
-    "timestamp": 1782560821,
-    "filename": "Assassin_s_Creed__Odyssey-vivo-I2401-Adreno__TM__830-1782560821.json"
   }
 ]
