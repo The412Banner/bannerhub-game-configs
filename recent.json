@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty__World_at_War",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782587775,
+    "filename": "Call_of_Duty__World_at_War-INFINIX-Infinix_X678B-Mali-G57_MC2-1782587775.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A037M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782575032,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1782575032.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782573699,
-    "filename": "Grand_Theft_Auto_V_Legacy-ZTE-Z2352N-Mali-G57-1782573699.json"
   }
 ]
