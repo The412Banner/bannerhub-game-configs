@@ -1,5 +1,12 @@
 [
   {
+    "game": "XChangeRenewal",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1782575843,
+    "filename": "XChangeRenewal-samsung-SM-A166M-Mali-G68-1782575843.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782564683,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02L-Mali-G52_MC2-1782564683.json"
-  },
-  {
-    "game": "setup",
-    "manufacturer": "M526B",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1782564040,
-    "filename": "setup-samsung-SM-M526B-Adreno__TM__642L-1782564040.json"
   }
 ]
