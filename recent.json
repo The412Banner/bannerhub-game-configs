@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782561961,
+    "filename": "Resident_Evil_3-AYN-AYN_Thor-Adreno__TM__740-1782561961.json"
+  },
+  {
     "game": "XCOM__Chimera_Squad",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782528204,
     "filename": "Granny-samsung-SM-A155M-Mali-G57_MC2-1782528204.json"
-  },
-  {
-    "game": "FINAL_FANTASY_X_X-2_HD_Remaster",
-    "manufacturer": "S948N",
-    "device": "Adreno__TM__840",
-    "timestamp": 1782523341,
-    "filename": "FINAL_FANTASY_X_X-2_HD_Remaster-samsung-SM-S948N-Adreno__TM__840-1782523341.json"
   }
 ]
