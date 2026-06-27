@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blur",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782551219,
+    "filename": "Blur-samsung-SM-A325F-Mali-G52_MC2-1782551219.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782528849,
     "filename": "ISI_DX11-Xiaomi-23113RKC6G-Adreno__TM__740-1782528849.json"
-  },
-  {
-    "game": "Granny",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782528204,
-    "filename": "Granny-samsung-SM-A155M-Mali-G57_MC2-1782528204.json"
   }
 ]
