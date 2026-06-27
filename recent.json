@@ -1,5 +1,12 @@
 [
   {
+    "game": "WorldBox_-_God_Simulator",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782569193,
+    "filename": "WorldBox_-_God_Simulator-Xiaomi-2303ERA42L-Mali-G57_MC2-1782569193.json"
+  },
+  {
     "game": "ELDEN_RING_NIGHTREIGN",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782554212,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1782554212.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782554199,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1782554199.json"
   }
 ]
