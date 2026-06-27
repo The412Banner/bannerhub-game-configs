@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1782540989,
+    "filename": "BootstrapPackagedGame-samsung-SM-A346E-Mali-G68_MC4-1782540989.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782516090,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1782516090.json"
-  },
-  {
-    "game": "Just_Cause_2",
-    "manufacturer": "G781B",
-    "device": "Adreno__TM__650",
-    "timestamp": 1782511343,
-    "filename": "Just_Cause_2-samsung-SM-G781B-Adreno__TM__650-1782511343.json"
   }
 ]
