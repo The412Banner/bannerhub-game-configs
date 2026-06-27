@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_Knight",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1782565444,
+    "filename": "Batman__Arkham_Knight-AYANEO-Pocket_FIT-Adreno__TM__750-1782565444.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782563834,
     "filename": "TheComaRecut-AYN-AYN_Thor-Adreno__TM__740-1782563834.json"
-  },
-  {
-    "game": "TheComa2B",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782563632,
-    "filename": "TheComa2B-AYN-AYN_Thor-Adreno__TM__740-1782563632.json"
   }
 ]
