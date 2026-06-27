@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g32",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782563487,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g32-Adreno__TM__610-1782563487.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G72",
     "timestamp": 1782561827,
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1782551816,
     "filename": "NINJA_GAIDEN_Ragebound-motorola-motorola_edge_50_neo-Mali-G615_MC2-1782551816.json"
-  },
-  {
-    "game": "All_in_One_Runtimes",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782551720,
-    "filename": "All_in_One_Runtimes-samsung-SM-A325F-Mali-G52_MC2-1782551720.json"
   }
 ]
