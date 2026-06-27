@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheComa2B",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782563632,
+    "filename": "TheComa2B-AYN-AYN_Thor-Adreno__TM__740-1782563632.json"
+  },
+  {
     "game": "You_Will_Die_Here_Tonight",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1782536731,
     "filename": "FIFA_14_ModdingWay_Mod_Selector-samsung-SM-G991U1-Adreno__TM__660-1782536731.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782530716,
-    "filename": "Resident_Evil_2-samsung-SM-S911B-Adreno__TM__740-1782530716.json"
   }
 ]
