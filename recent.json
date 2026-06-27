@@ -1,5 +1,12 @@
 [
   {
+    "game": "MECCHA_CHAMELEON",
+    "manufacturer": "X210",
+    "device": "Adreno__TM__619",
+    "timestamp": 1782597145,
+    "filename": "MECCHA_CHAMELEON-samsung-SM-X210-Adreno__TM__619-1782597145.json"
+  },
+  {
     "game": "mywintercar",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782576498,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23021RAAEG-Adreno__TM__610-1782576498.json"
-  },
-  {
-    "game": "XChangeRenewal",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1782575843,
-    "filename": "XChangeRenewal-samsung-SM-A166M-Mali-G68-1782575843.json"
   }
 ]
