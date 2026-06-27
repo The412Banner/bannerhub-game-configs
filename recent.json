@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__REMASTERED",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782575634,
+    "filename": "DARK_SOULS__REMASTERED-motorola-moto_g35_5G-Mali-G57-1782575634.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782559273,
     "filename": "Batman__Arkham_Knight-AYANEO-Pocket_FIT-Adreno__TM__750-1782559273.json"
-  },
-  {
-    "game": "ELDEN_RING_NIGHTREIGN",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1782558404,
-    "filename": "ELDEN_RING_NIGHTREIGN-AYANEO-Pocket_FIT-Adreno__TM__750-1782558404.json"
   }
 ]
