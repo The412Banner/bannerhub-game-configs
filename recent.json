@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782554199,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1782554199.json"
+  },
+  {
     "game": "DARK_SOULS__III",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1782541211,
     "filename": "L2_Amnesia_-Xiaomi-2311DRK48G-Mali-G615_MC6-1782541211.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1782540989,
-    "filename": "BootstrapPackagedGame-samsung-SM-A346E-Mali-G68_MC4-1782540989.json"
   }
 ]
