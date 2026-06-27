@@ -1,5 +1,12 @@
 [
   {
+    "game": "Granny",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782528204,
+    "filename": "Granny-samsung-SM-A155M-Mali-G57_MC2-1782528204.json"
+  },
+  {
     "game": "FINAL_FANTASY_X_X-2_HD_Remaster",
     "manufacturer": "S948N",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782504222,
     "filename": "PRAGMATA-AYANEO-Pocket_FIT-Adreno__TM__750-1782504222.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782504206,
-    "filename": "_____2019-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782504206.json"
   }
 ]
