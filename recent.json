@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wolf2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782542289,
+    "filename": "Wolf2-INFINIX-Infinix_X6833B-Mali-G57_MC2-1782542289.json"
+  },
+  {
     "game": "L2_Amnesia_",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782517906,
     "filename": "FIFA_18-nubia-Z2465N-Mali-G57-1782517906.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782516648,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3241-Mali-G57_MC2-1782516648.json"
   }
 ]
