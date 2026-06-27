@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Payback",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1782591814,
+    "filename": "Need_for_Speed__Payback-Xiaomi-25053PC47G-Adreno__TM__825-1782591814.json"
+  },
+  {
     "game": "Stardew_Valley",
     "manufacturer": "moto_g52",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1782575798,
     "filename": "XChange2-samsung-SM-A166M-Mali-G68-1782575798.json"
-  },
-  {
-    "game": "XChange3",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1782575758,
-    "filename": "XChange3-samsung-SM-A166M-Mali-G68-1782575758.json"
   }
 ]
