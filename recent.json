@@ -1,5 +1,12 @@
 [
   {
+    "game": "XCOM__Chimera_Squad",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782561809,
+    "filename": "XCOM__Chimera_Squad-AYN-AYN_Thor-Adreno__TM__740-1782561809.json"
+  },
+  {
     "game": "BlackOps",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1782523341,
     "filename": "FINAL_FANTASY_X_X-2_HD_Remaster-samsung-SM-S948N-Adreno__TM__840-1782523341.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2012_DEMO",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782522894,
-    "filename": "Pro_Evolution_Soccer_2012_DEMO-samsung-SM-A075M-Mali-G57_MC2-1782522894.json"
   }
 ]
