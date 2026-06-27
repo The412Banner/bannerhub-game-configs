@@ -1,5 +1,12 @@
 [
   {
+    "game": "ISI_DX11",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782528849,
+    "filename": "ISI_DX11-Xiaomi-23113RKC6G-Adreno__TM__740-1782528849.json"
+  },
+  {
     "game": "Granny",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1782508704,
     "filename": "Bombergrounds__Reborn-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1782508704.json"
-  },
-  {
-    "game": "PRAGMATA",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1782504222,
-    "filename": "PRAGMATA-AYANEO-Pocket_FIT-Adreno__TM__750-1782504222.json"
   }
 ]
