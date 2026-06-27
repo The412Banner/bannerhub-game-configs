@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Evil_Within",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782557382,
+    "filename": "The_Evil_Within-AYN-AYN_Thor-Adreno__TM__740-1782557382.json"
+  },
+  {
     "game": "TEKKEN_7",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782521480,
     "filename": "ch5_pro-motorola-moto_g15-Mali-G52_MC2-1782521480.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782521452,
-    "filename": "ch5_pro-motorola-moto_g15-Mali-G52_MC2-1782521452.json"
   }
 ]
