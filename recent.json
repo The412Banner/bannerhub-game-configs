@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "W09",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782571438,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NDL-W09-Adreno__TM__610-1782571438.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1782555474,
     "filename": "BootstrapPackagedGame-Xiaomi-25053PC47I-Adreno__TM__825-1782555474.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "W09",
-    "device": "Maleoon_920C",
-    "timestamp": 1782554911,
-    "filename": "Red_Dead_Redemption_2-HUAWEI-TXZ-W09-Maleoon_920C-1782554911.json"
   }
 ]
