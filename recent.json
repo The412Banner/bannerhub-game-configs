@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "W09",
+    "device": "Maleoon_920C",
+    "timestamp": 1782554911,
+    "filename": "Red_Dead_Redemption_2-HUAWEI-TXZ-W09-Maleoon_920C-1782554911.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782543084,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1782543084.json"
-  },
-  {
-    "game": "Wolf2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782542289,
-    "filename": "Wolf2-INFINIX-Infinix_X6833B-Mali-G57_MC2-1782542289.json"
   }
 ]
