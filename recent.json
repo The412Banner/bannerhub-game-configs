@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782588314,
+    "filename": "Tomb_Raider-TECNO-TECNO_LH7n-Mali-G57_MC2-1782588314.json"
+  },
+  {
     "game": "Call_of_Duty__World_at_War",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782575634,
     "filename": "DARK_SOULS__REMASTERED-motorola-moto_g35_5G-Mali-G57-1782575634.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782575032,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1782575032.json"
   }
 ]
