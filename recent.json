@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782604407,
+    "filename": "Tomb_Raider-INFINIX-Infinix_X6833B-Mali-G57_MC2-1782604407.json"
+  },
+  {
     "game": "Devil_May_Cry_3_Special_Edition",
     "manufacturer": "22111317PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1782587179,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A037M-PowerVR_Rogue_GE8320-1782587179.json"
-  },
-  {
-    "game": "BioShock_",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782584701,
-    "filename": "BioShock_-samsung-SM-S918B-Adreno__TM__740-1782584701.json"
   }
 ]
