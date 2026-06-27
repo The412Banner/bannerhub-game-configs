@@ -3,6 +3,13 @@
     "game": "BlackOps",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1782550726,
+    "filename": "BlackOps-samsung-SM-A325F-Mali-G52_MC2-1782550726.json"
+  },
+  {
+    "game": "BlackOps",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1782550533,
     "filename": "BlackOps-samsung-SM-A325F-Mali-G52_MC2-1782550533.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782522894,
     "filename": "Pro_Evolution_Soccer_2012_DEMO-samsung-SM-A075M-Mali-G57_MC2-1782522894.json"
-  },
-  {
-    "game": "Baladins",
-    "manufacturer": "24048RN6CG",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1782522496,
-    "filename": "Baladins-Xiaomi-24048RN6CG-PowerVR_Rogue_GE8322-1782522496.json"
   }
 ]
