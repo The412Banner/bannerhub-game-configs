@@ -3,6 +3,13 @@
     "game": "ch5_pro",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1782521452,
+    "filename": "ch5_pro-motorola-moto_g15-Mali-G52_MC2-1782521452.json"
+  },
+  {
+    "game": "ch5_pro",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1782521372,
     "filename": "ch5_pro-motorola-moto_g15-Mali-G52_MC2-1782521372.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782495472,
     "filename": "FIFA_Soccer_11-Xiaomi-25078RA3EE-Mali-G52_MC2-1782495472.json"
-  },
-  {
-    "game": "DP",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1782494282,
-    "filename": "DP-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1782494282.json"
   }
 ]
