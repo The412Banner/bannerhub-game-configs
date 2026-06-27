@@ -1,5 +1,12 @@
 [
   {
+    "game": "All_in_One_Runtimes",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782551720,
+    "filename": "All_in_One_Runtimes-samsung-SM-A325F-Mali-G52_MC2-1782551720.json"
+  },
+  {
     "game": "Blur",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1782529526,
     "filename": "Far_Cry__3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782529526.json"
-  },
-  {
-    "game": "ISI_DX11",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782528849,
-    "filename": "ISI_DX11-Xiaomi-23113RKC6G-Adreno__TM__740-1782528849.json"
   }
 ]
