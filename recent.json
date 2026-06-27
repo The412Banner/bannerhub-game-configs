@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1782556879,
+    "filename": "Resident_Evil_2-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1782556879.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "25053PC47I",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782555888,
     "filename": "Wasteland_3_-AYN-AYN_Thor-Adreno__TM__740-1782555888.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782543414,
-    "filename": "PlayGTAV-samsung-SM-A055F-Mali-G52_MC2-1782543414.json"
   }
 ]
