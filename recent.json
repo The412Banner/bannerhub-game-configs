@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2015",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782602283,
+    "filename": "Pro_Evolution_Soccer_2015-samsung-SM-A057M-Adreno__TM__610-1782602283.json"
+  },
+  {
     "game": "Human_Fall_Flat",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1782583921,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782583921.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782583870,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782583870.json"
   }
 ]
