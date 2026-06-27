@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782573699,
+    "filename": "Grand_Theft_Auto_V_Legacy-ZTE-Z2352N-Mali-G57-1782573699.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1782558025,
     "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782558025.json"
-  },
-  {
-    "game": "Dead_Island_2_",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1782557802,
-    "filename": "Dead_Island_2_-AYANEO-Pocket_FIT-Adreno__TM__750-1782557802.json"
   }
 ]
