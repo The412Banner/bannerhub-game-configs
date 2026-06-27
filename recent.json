@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782580635,
+    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6833B-Mali-G57_MC2-1782580635.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782568232,
     "filename": "ELDEN_RING_NIGHTREIGN-AYANEO-Pocket_FIT-Adreno__TM__750-1782568232.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782567746,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LH8n-Mali-G57_MC2-1782567746.json"
   }
 ]
