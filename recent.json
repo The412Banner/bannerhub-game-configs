@@ -1,5 +1,12 @@
 [
   {
+    "game": "MONSTER_HUNTER_FRONTIER_Z",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782627597,
+    "filename": "MONSTER_HUNTER_FRONTIER_Z-Xiaomi-2312DRAABG-Mali-G57_MC2-1782627597.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A235M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1782610750,
     "filename": "PMR-samsung-SM-A515F-Mali-G72-1782610750.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782610165,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1782610165.json"
   }
 ]
