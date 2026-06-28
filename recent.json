@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stardew_Valley",
+    "manufacturer": "Pocket_FIT_Elite",
+    "device": "Adreno__TM__830",
+    "timestamp": 1782654749,
+    "filename": "Stardew_Valley-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1782654749.json"
+  },
+  {
     "game": "METAL_GEAR_SOLID_V__GROUND_ZEROES",
     "manufacturer": "Pocket_FIT_Elite",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782631947,
     "filename": "Yakuza_0-nubia-NX729J-Adreno__TM__740-1782631947.json"
-  },
-  {
-    "game": "MONSTER_HUNTER_FRONTIER_Z",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782627597,
-    "filename": "MONSTER_HUNTER_FRONTIER_Z-Xiaomi-2312DRAABG-Mali-G57_MC2-1782627597.json"
   }
 ]
