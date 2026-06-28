@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "CPH2529",
+    "device": "Adreno__TM__619",
+    "timestamp": 1782671083,
+    "filename": "Euro_Truck_Simulator_2-OPPO-CPH2529-Adreno__TM__619-1782671083.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782654631,
     "filename": "METAL_GEAR_SOLID_V__GROUND_ZEROES-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1782654631.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "RMX2030",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782654089,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX2030-Adreno__TM__610-1782654089.json"
   }
 ]
