@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782611564,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-25128RN17A-Mali-G57-1782611564.json"
+  },
+  {
     "game": "SuperMario64HD",
     "manufacturer": "Mali",
     "device": "G72",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782593507,
     "filename": "mywintercar-realme-RMX3760-Mali-G57-1782593507.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S711B",
-    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
-    "timestamp": 1782592610,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1782592610.json"
   }
 ]
