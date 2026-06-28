@@ -3,6 +3,13 @@
     "game": "TheLongDrive",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1782607874,
+    "filename": "TheLongDrive-realme-RMX3760-Mali-G57-1782607874.json"
+  },
+  {
+    "game": "TheLongDrive",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1782607844,
     "filename": "TheLongDrive-realme-RMX3760-Mali-G57-1782607844.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1782591814,
     "filename": "Need_for_Speed__Payback-Xiaomi-25053PC47G-Adreno__TM__825-1782591814.json"
-  },
-  {
-    "game": "Stardew_Valley",
-    "manufacturer": "moto_g52",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782591639,
-    "filename": "Stardew_Valley-motorola-moto_g52-Adreno__TM__610-1782591639.json"
   }
 ]
