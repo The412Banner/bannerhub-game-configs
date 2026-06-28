@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782661054,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76G-Mali-G57_MC2-1782661054.json"
+  },
+  {
     "game": "Ashes_Cricket_2009",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782642045,
     "filename": "Battlefield_4_-samsung-SM-S928B-Adreno__TM__750-1782642045.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782641420,
-    "filename": "PlayGTAV-INFINIX-Infinix_X676C-Mali-G57_MC2-1782641420.json"
   }
 ]
