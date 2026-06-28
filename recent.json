@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1782665326,
+    "filename": "God_of_War-nubia-NX809J-Adreno__TM__840-1782665326.json"
+  },
+  {
     "game": "ACOdyssey",
     "manufacturer": "I2401",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1782651023,
     "filename": "Grand_Theft_Auto_V-samsung-SM-G998B-Mali-G78-1782651023.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1782649723,
-    "filename": "Resident_Evil_6-Xiaomi-23049PCD8G-Adreno__TM__725-1782649723.json"
   }
 ]
