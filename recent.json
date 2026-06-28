@@ -1,5 +1,12 @@
 [
   {
+    "game": "_RA3Bar__Red_Alert_3_QuickLoader",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782656997,
+    "filename": "_RA3Bar__Red_Alert_3_QuickLoader-INFINIX-Infinix_X6525-Mali-G57-1782656997.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1782633377,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-G780G-Adreno__TM__650-1782633377.json"
-  },
-  {
-    "game": "Ace_Combat__Assault_Horizon",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1782632021,
-    "filename": "Ace_Combat__Assault_Horizon-Xiaomi-25053PC47G-Adreno__TM__825-1782632021.json"
   }
 ]
