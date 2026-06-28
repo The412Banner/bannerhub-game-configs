@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1782688624,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G780G-Adreno__TM__650-1782688624.json"
+  },
+  {
     "game": "Days_Gone",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782673792,
     "filename": "DP-INFINIX-Infinix_X678B-Mali-G57_MC2-1782673792.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1782673070,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1782673070.json"
   }
 ]
