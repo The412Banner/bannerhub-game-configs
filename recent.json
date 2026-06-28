@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1782648603,
+    "filename": "Tomb_Raider-Xiaomi-23122PCD1G-Adreno__TM__710-1782648603.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782622479,
     "filename": "Rune_Dice-samsung-SM-S931B-Adreno__TM__830-1782622479.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782621684,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22120RN86G-Mali-G52_MC2-1782621684.json"
   }
 ]
