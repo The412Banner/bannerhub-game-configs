@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782658269,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1782658269.json"
+  },
+  {
     "game": "_RA3Bar__Red_Alert_3_QuickLoader",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1782633856,
     "filename": "Resident_Evil_2-vivo-I2221-Adreno__TM__735-1782633856.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1782633377,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-G780G-Adreno__TM__650-1782633377.json"
   }
 ]
