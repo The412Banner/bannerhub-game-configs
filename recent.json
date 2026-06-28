@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782621671,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22120RN86G-Mali-G52_MC2-1782621671.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1782603410,
     "filename": "Devil_May_Cry_3_Special_Edition-Xiaomi-22111317PG-Adreno__TM__619-1782603410.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2015",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782602283,
-    "filename": "Pro_Evolution_Soccer_2015-samsung-SM-A057M-Adreno__TM__610-1782602283.json"
   }
 ]
