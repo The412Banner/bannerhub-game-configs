@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782641420,
+    "filename": "PlayGTAV-INFINIX-Infinix_X676C-Mali-G57_MC2-1782641420.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "V2408A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1782619867,
     "filename": "Resident_Evil_2__Remake-motorola-moto_g75_5G-Adreno__TM__710-1782619867.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782619173,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S911B-Adreno__TM__740-1782619173.json"
   }
 ]
