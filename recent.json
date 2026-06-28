@@ -1,5 +1,12 @@
 [
   {
+    "game": "Yakuza_0",
+    "manufacturer": "NX729J",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782631947,
+    "filename": "Yakuza_0-nubia-NX729J-Adreno__TM__740-1782631947.json"
+  },
+  {
     "game": "MONSTER_HUNTER_FRONTIER_Z",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1782610855,
     "filename": "SuperMario64HD-samsung-SM-A515F-Mali-G72-1782610855.json"
-  },
-  {
-    "game": "PMR",
-    "manufacturer": "Mali",
-    "device": "G72",
-    "timestamp": 1782610750,
-    "filename": "PMR-samsung-SM-A515F-Mali-G72-1782610750.json"
   }
 ]
