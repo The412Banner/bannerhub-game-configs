@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1782686361,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1782686361.json"
+  },
+  {
     "game": "Assassin_s_Creed__Brotherhood",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782672753,
     "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KL4-Mali-G57-1782672753.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782672548,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO_MOBILE_LIMITED-TECNO_LE7-Mali-G52_MC2-1782672548.json"
   }
 ]
