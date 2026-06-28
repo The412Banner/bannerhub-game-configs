@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "CPH3669",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782681236,
+    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH3669-Adreno__TM__610-1782681236.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
     "timestamp": 1782678337,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782665663,
     "filename": "PRAGMATA-AYANEO-Pocket_FIT-Adreno__TM__750-1782665663.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1782665326,
-    "filename": "God_of_War-nubia-NX809J-Adreno__TM__840-1782665326.json"
   }
 ]
