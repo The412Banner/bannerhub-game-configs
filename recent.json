@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782613084,
+    "filename": "Resident_Evil_5-INFINIX-Infinix_X6881-Mali-G57_MC2-1782613084.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782597271,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1782597271.json"
-  },
-  {
-    "game": "MECCHA_CHAMELEON",
-    "manufacturer": "X210",
-    "device": "Adreno__TM__619",
-    "timestamp": 1782597145,
-    "filename": "MECCHA_CHAMELEON-samsung-SM-X210-Adreno__TM__619-1782597145.json"
   }
 ]
