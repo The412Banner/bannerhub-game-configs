@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782683683,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-ITEL-itel_P661N-Mali-G57_MC2-1782683683.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1782672030,
     "filename": "Forza_Horizon_2_Launcher-INFINIX-Infinix_X6873-Mali-G615_MC6-1782672030.json"
-  },
-  {
-    "game": "FINAL_FANTASY_XIII-2",
-    "manufacturer": "Pocket_FIT_Elite",
-    "device": "Adreno__TM__830",
-    "timestamp": 1782671261,
-    "filename": "FINAL_FANTASY_XIII-2-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1782671261.json"
   }
 ]
