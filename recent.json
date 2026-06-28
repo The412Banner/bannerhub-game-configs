@@ -1,5 +1,12 @@
 [
   {
+    "game": "ACOdyssey",
+    "manufacturer": "I2401",
+    "device": "Adreno__TM__830",
+    "timestamp": 1782664967,
+    "filename": "ACOdyssey-vivo-I2401-Adreno__TM__830-1782664967.json"
+  },
+  {
     "game": "SPEED2",
     "manufacturer": "S906E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1782649723,
     "filename": "Resident_Evil_6-Xiaomi-23049PCD8G-Adreno__TM__725-1782649723.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "23122PCD1G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1782648603,
-    "filename": "Tomb_Raider-Xiaomi-23122PCD1G-Adreno__TM__710-1782648603.json"
   }
 ]
