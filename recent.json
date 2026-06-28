@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782689270,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g24-Mali-G52_MC2-1782689270.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1782673943,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-2209116AG-Adreno__TM__618-1782673943.json"
-  },
-  {
-    "game": "DP",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782673792,
-    "filename": "DP-INFINIX-Infinix_X678B-Mali-G57_MC2-1782673792.json"
   }
 ]
