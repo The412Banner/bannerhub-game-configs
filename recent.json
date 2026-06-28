@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782683271,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A226BR-Mali-G57_MC2-1782683271.json"
+  },
+  {
     "game": "GIANTS_Engine",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782671261,
     "filename": "FINAL_FANTASY_XIII-2-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1782671261.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "CPH2529",
-    "device": "Adreno__TM__619",
-    "timestamp": 1782671083,
-    "filename": "Euro_Truck_Simulator_2-OPPO-CPH2529-Adreno__TM__619-1782671083.json"
   }
 ]
