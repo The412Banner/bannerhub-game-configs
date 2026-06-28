@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1782685412,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1782685412.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1782685102,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1782685102.json"
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1782672057,
     "filename": "Forza_Horizon_2_Launcher-INFINIX-Infinix_X6873-Mali-G615_MC6-1782672057.json"
-  },
-  {
-    "game": "Forza_Horizon_2_Launcher",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1782672036,
-    "filename": "Forza_Horizon_2_Launcher-INFINIX-Infinix_X6873-Mali-G615_MC6-1782672036.json"
   }
 ]
