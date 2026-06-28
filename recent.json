@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782668152,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1782668152.json"
+  },
+  {
     "game": "Human",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782654089,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX2030-Adreno__TM__610-1782654089.json"
-  },
-  {
-    "game": "GSE____________________",
-    "manufacturer": "Pocket_FIT_Elite",
-    "device": "Adreno__TM__830",
-    "timestamp": 1782654042,
-    "filename": "GSE____________________-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1782654042.json"
   }
 ]
