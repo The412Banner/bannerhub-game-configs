@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782624355,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-23053RN02A-Mali-G52_MC2-1782624355.json"
+  },
+  {
     "game": "Need_for_Speed_-_Most_Wanted________________________________",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782607844,
     "filename": "TheLongDrive-realme-RMX3760-Mali-G57-1782607844.json"
-  },
-  {
-    "game": "The_Witcher_2_Game",
-    "manufacturer": "Mali",
-    "device": "G610_MC4",
-    "timestamp": 1782607290,
-    "filename": "The_Witcher_2_Game-vivo-V2321-Mali-G610_MC4-1782607290.json"
   }
 ]
