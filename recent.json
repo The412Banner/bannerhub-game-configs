@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Revelations",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782659675,
+    "filename": "Assassin_s_Creed__Revelations-realme-RMX5303-Mali-G57-1782659675.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "I2501",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1782639560,
     "filename": "Microsoft_Windows_Operating_System-samsung-SM-M526B-Adreno__TM__642L-1782639560.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782638791,
-    "filename": "Far_Cry_3-realme-RMX5303-Mali-G57-1782638791.json"
   }
 ]
