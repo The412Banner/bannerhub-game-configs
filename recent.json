@@ -3,6 +3,13 @@
     "game": "GIANTS_Engine",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1782683184,
+    "filename": "GIANTS_Engine-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782683184.json"
+  },
+  {
+    "game": "GIANTS_Engine",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1782683158,
     "filename": "GIANTS_Engine-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782683158.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782668152,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1782668152.json"
-  },
-  {
-    "game": "Human",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782667355,
-    "filename": "Human-Xiaomi-24117RN76G-Mali-G57_MC2-1782667355.json"
   }
 ]
