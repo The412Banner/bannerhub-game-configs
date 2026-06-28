@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782619173,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S911B-Adreno__TM__740-1782619173.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1782600644,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23122PCD1G-Adreno__TM__710-1782600644.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "F731B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782597831,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-F731B-Adreno__TM__740-1782597831.json"
   }
 ]
