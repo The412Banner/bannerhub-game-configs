@@ -1,5 +1,12 @@
 [
   {
+    "game": "SuperMario64HD",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1782610855,
+    "filename": "SuperMario64HD-samsung-SM-A515F-Mali-G72-1782610855.json"
+  },
+  {
     "game": "PMR",
     "manufacturer": "Mali",
     "device": "G72",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
     "timestamp": 1782592610,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1782592610.json"
-  },
-  {
-    "game": "Need_for_Speed__Payback",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1782592109,
-    "filename": "Need_for_Speed__Payback-Xiaomi-25053PC47G-Adreno__TM__825-1782592109.json"
   }
 ]
