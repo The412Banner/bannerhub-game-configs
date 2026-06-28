@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ace_Combat__Assault_Horizon",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1782632021,
+    "filename": "Ace_Combat__Assault_Horizon-Xiaomi-25053PC47G-Adreno__TM__825-1782632021.json"
+  },
+  {
     "game": "Yakuza_0",
     "manufacturer": "NX729J",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782611564,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-25128RN17A-Mali-G57-1782611564.json"
-  },
-  {
-    "game": "SuperMario64HD",
-    "manufacturer": "Mali",
-    "device": "G72",
-    "timestamp": 1782610855,
-    "filename": "SuperMario64HD-samsung-SM-A515F-Mali-G72-1782610855.json"
   }
 ]
