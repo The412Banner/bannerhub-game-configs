@@ -1,5 +1,12 @@
 [
   {
+    "game": "C1-Launcher",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1782637365,
+    "filename": "C1-Launcher-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782637365.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "I2221",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1782614872,
     "filename": "____2016-Xiaomi-2412DPC0AI-Mali-G720_MC7-1782614872.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782613084,
-    "filename": "Resident_Evil_5-INFINIX-Infinix_X6881-Mali-G57_MC2-1782613084.json"
   }
 ]
