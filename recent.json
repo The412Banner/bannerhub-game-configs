@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Windows_Operating_System",
+    "manufacturer": "M526B",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1782639560,
+    "filename": "Microsoft_Windows_Operating_System-samsung-SM-M526B-Adreno__TM__642L-1782639560.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1782617454,
     "filename": "PlayGTAV-Xiaomi-2311DRK48G-Mali-G615_MC6-1782617454.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1782614939,
-    "filename": "BootstrapPackagedGame-samsung-SM-E146B-Mali-G68-1782614939.json"
   }
 ]
