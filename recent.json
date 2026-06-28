@@ -1,5 +1,12 @@
 [
   {
+    "game": "Forza_Horizon_2_Launcher",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1782672030,
+    "filename": "Forza_Horizon_2_Launcher-INFINIX-Infinix_X6873-Mali-G615_MC6-1782672030.json"
+  },
+  {
     "game": "FINAL_FANTASY_XIII-2",
     "manufacturer": "Pocket_FIT_Elite",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782655511,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1782655511.json"
-  },
-  {
-    "game": "Stardew_Valley",
-    "manufacturer": "Pocket_FIT_Elite",
-    "device": "Adreno__TM__830",
-    "timestamp": 1782654749,
-    "filename": "Stardew_Valley-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1782654749.json"
   }
 ]
