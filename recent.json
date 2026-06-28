@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782655511,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1782655511.json"
+  },
+  {
     "game": "Stardew_Valley",
     "manufacturer": "Pocket_FIT_Elite",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1782632021,
     "filename": "Ace_Combat__Assault_Horizon-Xiaomi-25053PC47G-Adreno__TM__825-1782632021.json"
-  },
-  {
-    "game": "Yakuza_0",
-    "manufacturer": "NX729J",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782631947,
-    "filename": "Yakuza_0-nubia-NX729J-Adreno__TM__740-1782631947.json"
   }
 ]
