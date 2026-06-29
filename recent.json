@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Launcher",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782736799,
+    "filename": "GTA_V_Launcher-motorola-moto_g24-Mali-G52_MC2-1782736799.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782708456,
     "filename": "FINAL_FANTASY__XIII-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1782708456.json"
-  },
-  {
-    "game": "Metaphor__ReFantazio",
-    "manufacturer": "Pocket_FIT_Elite",
-    "device": "Adreno__TM__830",
-    "timestamp": 1782708449,
-    "filename": "Metaphor__ReFantazio-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1782708449.json"
   }
 ]
