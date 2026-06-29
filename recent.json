@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782769511,
+    "filename": "DRAGON_BALL__Sparking__ZERO-INFINIX-Infinix_X6817-Mali-G52_MC2-1782769511.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX3",
     "device": "Adreno__TM__613",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782743616,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25062RN2DL-Adreno__TM__610-1782743616.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782742245,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6817-Mali-G52_MC2-1782742245.json"
   }
 ]
