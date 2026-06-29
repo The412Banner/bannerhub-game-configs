@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Liberation_HD",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1782710852,
+    "filename": "Assassin_s_Creed__Liberation_HD-samsung-SM-A546E-Mali-G68-1782710852.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782693615,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2502FRA65G-Mali-G57_MC2-1782693615.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782693292,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782693292.json"
   }
 ]
