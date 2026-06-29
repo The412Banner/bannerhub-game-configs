@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1782771481,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S901E-Adreno__TM__730-1782771481.json"
+  },
+  {
     "game": "Farming_Simulator_17",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1782747275,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G986U-Adreno__TM__650-1782747275.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1782746025,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-21121119SG-Mali-G52-1782746025.json"
   }
 ]
