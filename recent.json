@@ -1,5 +1,12 @@
 [
   {
+    "game": "mcclauncher",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782773097,
+    "filename": "mcclauncher-Xiaomi-2312FPCA6G-Mali-G57_MC2-1782773097.json"
+  },
+  {
     "game": "MAFIA_II",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782751629,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04-Mali-G57-1782751629.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782751594,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04-Mali-G57-1782751594.json"
   }
 ]
