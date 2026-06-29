@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782709514,
+    "filename": "Tomb_Raider-samsung-SM-A165M-Mali-G57_MC2-1782709514.json"
+  },
+  {
     "game": "FINAL_FANTASY__XIII",
     "manufacturer": "Pocket_FIT_Elite",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1782693292,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782693292.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "moto_g85_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1782693096,
-    "filename": "Resident_Evil_6-motorola-moto_g85_5G-Adreno__TM__619-1782693096.json"
   }
 ]
