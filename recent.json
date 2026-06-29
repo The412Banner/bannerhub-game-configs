@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1782715871,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24094RAD4G-PowerVR_B-Series_BXM-8-256-1782715871.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1782702561,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G781B-Adreno__TM__650-1782702561.json"
-  },
-  {
-    "game": "DyingLight",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782702067,
-    "filename": "DyingLight-Xiaomi-24117RN76L-Mali-G57_MC2-1782702067.json"
   }
 ]
