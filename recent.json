@@ -1,5 +1,12 @@
 [
   {
+    "game": "launcher",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782772153,
+    "filename": "launcher-samsung-SM-A155M-Mali-G57_MC2-1782772153.json"
+  },
+  {
     "game": "Sunset_Overdrive",
     "manufacturer": "CPH2767",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1782751216,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2405CRPFDG-Adreno__TM__710-1782751216.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Liberation_HD",
-    "manufacturer": "I2508",
-    "device": "Adreno__TM__829",
-    "timestamp": 1782750056,
-    "filename": "Assassin_s_Creed__Liberation_HD-vivo-I2508-Adreno__TM__829-1782750056.json"
   }
 ]
