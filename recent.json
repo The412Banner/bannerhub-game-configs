@@ -1,5 +1,12 @@
 [
   {
+    "game": "SteamWorldDig",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1782726697,
+    "filename": "SteamWorldDig-Anbernic-RG_VITA-Mali-G52-1782726697.json"
+  },
+  {
     "game": "Assassin_s_Creed__Unity",
     "manufacturer": "A037F",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782706261,
     "filename": "Cult_of_the_Lamb-HONOR-JMS-W09-Adreno__TM__610-1782706261.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782705815,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6817-Mali-G52_MC2-1782705815.json"
   }
 ]
