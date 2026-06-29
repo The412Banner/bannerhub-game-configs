@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782705039,
+    "filename": "Pro_Evolution_Soccer_2013-realme-realme_Note_60-Mali-G57-1782705039.json"
+  },
+  {
     "game": "Metro_2033_Redux",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782686065,
     "filename": "Assassin_s_Creed__Brotherhood-realme-RMX5303-Mali-G57-1782686065.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1782685412,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1782685412.json"
   }
 ]
