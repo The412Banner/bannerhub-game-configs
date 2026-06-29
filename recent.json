@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_12__c__EA______________________________________________",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782771498,
+    "filename": "FIFA_12__c__EA______________________________________________-Xiaomi-23129RAA4G-Adreno__TM__610-1782771498.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782747946,
     "filename": "fs_17-Xiaomi-25078PC3EG-Mali-G52_MC2-1782747946.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G986U",
-    "device": "Adreno__TM__650",
-    "timestamp": 1782747275,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G986U-Adreno__TM__650-1782747275.json"
   }
 ]
