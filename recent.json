@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782706456,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-X133-Mali-G57_MC2-1782706456.json"
+  },
+  {
     "game": "Cult_of_the_Lamb",
     "manufacturer": "W09",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782689270,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g24-Mali-G52_MC2-1782689270.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1782688624,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G780G-Adreno__TM__650-1782688624.json"
   }
 ]
