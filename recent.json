@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "moto_g85_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1782696260,
+    "filename": "Tomb_Raider-motorola-moto_g85_5G-Adreno__TM__619-1782696260.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1782683184,
     "filename": "GIANTS_Engine-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782683184.json"
-  },
-  {
-    "game": "GIANTS_Engine",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782683158,
-    "filename": "GIANTS_Engine-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782683158.json"
   }
 ]
