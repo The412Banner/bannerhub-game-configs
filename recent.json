@@ -1,5 +1,12 @@
 [
   {
+    "game": "Metro_2033_Redux",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782703125,
+    "filename": "Metro_2033_Redux-INFINIX-Infinix_X6833B-Mali-G57_MC2-1782703125.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "23124RA7EO",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1782685412,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1782685412.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782685102,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1782685102.json"
   }
 ]
