@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719",
+    "manufacturer": "S711B",
+    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
+    "timestamp": 1782748896,
+    "filename": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1782748896.json"
+  },
+  {
     "game": "fs_17",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1782738894,
     "filename": "BeamNG_drive-Nothing-A059-Adreno__TM__810-1782738894.json"
-  },
-  {
-    "game": "GTA_V_Launcher",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782736799,
-    "filename": "GTA_V_Launcher-motorola-moto_g24-Mali-G52_MC2-1782736799.json"
   }
 ]
