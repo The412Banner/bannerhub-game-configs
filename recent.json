@@ -1,5 +1,12 @@
 [
   {
+    "game": "BeamNG_drive",
+    "manufacturer": "A059",
+    "device": "Adreno__TM__810",
+    "timestamp": 1782738894,
+    "filename": "BeamNG_drive-Nothing-A059-Adreno__TM__810-1782738894.json"
+  },
+  {
     "game": "GTA_V_Launcher",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782709514,
     "filename": "Tomb_Raider-samsung-SM-A165M-Mali-G57_MC2-1782709514.json"
-  },
-  {
-    "game": "FINAL_FANTASY__XIII",
-    "manufacturer": "Pocket_FIT_Elite",
-    "device": "Adreno__TM__830",
-    "timestamp": 1782708456,
-    "filename": "FINAL_FANTASY__XIII-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1782708456.json"
   }
 ]
