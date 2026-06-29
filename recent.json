@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23124RA7EO",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782702828,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23124RA7EO-Adreno__TM__610-1782702828.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G781B",
     "device": "Adreno__TM__650",
     "timestamp": 1782702561,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782685102,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1782685102.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782683683,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-ITEL-itel_P661N-Mali-G57_MC2-1782683683.json"
   }
 ]
