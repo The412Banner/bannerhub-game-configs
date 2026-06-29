@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mi_A3",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782736429,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-Mi_A3-Adreno__TM__610-1782736429.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "M2101K6G",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1782707865,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1782707865.json"
-  },
-  {
-    "game": "Gears_Of_War",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1782707087,
-    "filename": "Gears_Of_War-Xiaomi-24117RK2CG-Adreno__TM__750-1782707087.json"
   }
 ]
