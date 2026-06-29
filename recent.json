@@ -1,5 +1,12 @@
 [
   {
+    "game": "FINAL_FANTASY__XIII",
+    "manufacturer": "Pocket_FIT_Elite",
+    "device": "Adreno__TM__830",
+    "timestamp": 1782708456,
+    "filename": "FINAL_FANTASY__XIII-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1782708456.json"
+  },
+  {
     "game": "Metaphor__ReFantazio",
     "manufacturer": "Pocket_FIT_Elite",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1782693096,
     "filename": "Resident_Evil_6-motorola-moto_g85_5G-Adreno__TM__619-1782693096.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "moto_g85_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1782691936,
-    "filename": "Tomb_Raider-motorola-moto_g85_5G-Adreno__TM__619-1782691936.json"
   }
 ]
