@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield_3_",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1782729717,
+    "filename": "Battlefield_3_-samsung-SM-S901E-Adreno__TM__730-1782729717.json"
+  },
+  {
     "game": "SteamWorldDig",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782706456,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-X133-Mali-G57_MC2-1782706456.json"
-  },
-  {
-    "game": "Cult_of_the_Lamb",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782706261,
-    "filename": "Cult_of_the_Lamb-HONOR-JMS-W09-Adreno__TM__610-1782706261.json"
   }
 ]
