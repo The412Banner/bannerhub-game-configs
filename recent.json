@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1783085918,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23043RP34G-Adreno__TM__650-1783085918.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782716819,
     "filename": "DAVE_THE_DIVER-samsung-SM-S938B-Adreno__TM__830-1782716819.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1782715871,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24094RAD4G-PowerVR_B-Series_BXM-8-256-1782715871.json"
   }
 ]
