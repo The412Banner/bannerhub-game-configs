@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blades_of_Time",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782777399,
+    "filename": "Blades_of_Time-TECNO-TECNO_LH7n-Mali-G57_MC2-1782777399.json"
+  },
+  {
     "game": "mcclauncher",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1782754744,
     "filename": "Grand_Theft_Auto_V_-Xiaomi-2201123G-Adreno__TM__730-1782754744.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782751629,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04-Mali-G57-1782751629.json"
   }
 ]
