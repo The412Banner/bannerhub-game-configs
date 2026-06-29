@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25062RN2DL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782743616,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25062RN2DL-Adreno__TM__610-1782743616.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1782742245,
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1782726697,
     "filename": "SteamWorldDig-Anbernic-RG_VITA-Mali-G52-1782726697.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Unity",
-    "manufacturer": "A037F",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1782724737,
-    "filename": "Assassin_s_Creed__Unity-samsung-SM-A037F-PowerVR_Rogue_GE8320-1782724737.json"
   }
 ]
