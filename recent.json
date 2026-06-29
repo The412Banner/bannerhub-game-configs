@@ -1,5 +1,12 @@
 [
   {
+    "game": "Metaphor__ReFantazio",
+    "manufacturer": "Pocket_FIT_Elite",
+    "device": "Adreno__TM__830",
+    "timestamp": 1782708449,
+    "filename": "Metaphor__ReFantazio-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1782708449.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1782691936,
     "filename": "Tomb_Raider-motorola-moto_g85_5G-Adreno__TM__619-1782691936.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23073RPBFL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782691486,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23073RPBFL-Adreno__TM__610-1782691486.json"
   }
 ]
