@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__4",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1782812326,
+    "filename": "Far_Cry__4-Xiaomi-23049PCD8G-Adreno__TM__725-1782812326.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2_Demo",
     "manufacturer": "S926B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1782795193,
     "filename": "Grand_Theft_Auto_V-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1782795193.json"
-  },
-  {
-    "game": "fifa16",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782794689,
-    "filename": "fifa16-INFINIX-Infinix_X6817-Mali-G52_MC2-1782794689.json"
   }
 ]
