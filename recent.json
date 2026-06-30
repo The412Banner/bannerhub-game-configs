@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1782837528,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e40-Mali-G52-1782837528.json"
+  },
+  {
     "game": "Test_Drive_Unlimited_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1782821984,
     "filename": "Need_for_Speed__Payback-Xiaomi-25053PC47G-Adreno__TM__825-1782821984.json"
-  },
-  {
-    "game": "Need_for_Speed__Payback",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1782821352,
-    "filename": "Need_for_Speed__Payback-Xiaomi-25053PC47G-Adreno__TM__825-1782821352.json"
   }
 ]
