@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Payback",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1782821352,
+    "filename": "Need_for_Speed__Payback-Xiaomi-25053PC47G-Adreno__TM__825-1782821352.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1782798222,
     "filename": "Euro_Truck_Simulator_2_Demo-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1782798222.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782798111,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6817-Mali-G52_MC2-1782798111.json"
   }
 ]
