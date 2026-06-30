@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mina_The_Hollower",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782791239,
+    "filename": "Mina_The_Hollower-AYN-AYN_Thor-Adreno__TM__740-1782791239.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2201117TL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782771498,
     "filename": "FIFA_12__c__EA______________________________________________-Xiaomi-23129RAA4G-Adreno__TM__610-1782771498.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1782771481,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S901E-Adreno__TM__730-1782771481.json"
   }
 ]
