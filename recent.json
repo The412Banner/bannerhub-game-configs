@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hospital_666",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1782808079,
+    "filename": "Hospital_666-Xiaomi-M2004J19C-Mali-G52-1782808079.json"
+  },
+  {
     "game": "Assassin_s_Creed__III_Remastered",
     "manufacturer": "I2508",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1782793780,
     "filename": "_____2019-samsung-SM-A346B-Mali-G68_MC4-1782793780.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782792803,
-    "filename": "God_of_War-INFINIX-Infinix_X6817-Mali-G52_MC2-1782792803.json"
   }
 ]
