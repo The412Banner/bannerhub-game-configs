@@ -1,5 +1,12 @@
 [
   {
+    "game": "Arma_2__Operation_Arrowhead",
+    "manufacturer": "RMX3706",
+    "device": "Adreno__TM__730",
+    "timestamp": 1782843058,
+    "filename": "Arma_2__Operation_Arrowhead-realme-RMX3706-Adreno__TM__730-1782843058.json"
+  },
+  {
     "game": "Assassin_s_Creed__Brotherhood",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1782827021,
     "filename": "Far_Cry__Primal-asus-ASUS_AI2401_D-Adreno__TM__750-1782827021.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "G991U",
-    "device": "Adreno__TM__660",
-    "timestamp": 1782829720,
-    "filename": "American_Truck_Simulator-samsung-SM-G991U-Adreno__TM__660-1782829720.json"
   }
 ]
