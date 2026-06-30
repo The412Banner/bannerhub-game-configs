@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades_II",
+    "manufacturer": "Redmi_K20_Pro",
+    "device": "Adreno__TM__640",
+    "timestamp": 1782859771,
+    "filename": "Hades_II-Xiaomi-Redmi_K20_Pro-Adreno__TM__640-1782859771.json"
+  },
+  {
     "game": "_____2019",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782840648,
     "filename": "Need_for_Speed_9-samsung-SM-A057M-Adreno__TM__610-1782840648.json"
-  },
-  {
-    "game": "One_Piece_Pirate_Warriors_3",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782840051,
-    "filename": "One_Piece_Pirate_Warriors_3-samsung-SM-S911B-Adreno__TM__740-1782840051.json"
   }
 ]
