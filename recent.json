@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1782861727,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_fusion-Adreno__TM__710-1782861727.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782847584,
     "filename": "kicksalot-Anbernic-RG_406H-Mali-G57-1782847584.json"
-  },
-  {
-    "game": "SPEED2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782846833,
-    "filename": "SPEED2-ITEL-itel_S666LN-Mali-G57_MC2-1782846833.json"
   }
 ]
