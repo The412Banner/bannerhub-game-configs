@@ -1,5 +1,12 @@
 [
   {
+    "game": "_____2019",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1782793780,
+    "filename": "_____2019-samsung-SM-A346B-Mali-G68_MC4-1782793780.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782777399,
     "filename": "Blades_of_Time-TECNO-TECNO_LH7n-Mali-G57_MC2-1782777399.json"
-  },
-  {
-    "game": "mcclauncher",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782773097,
-    "filename": "mcclauncher-Xiaomi-2312FPCA6G-Mali-G57_MC2-1782773097.json"
   }
 ]
