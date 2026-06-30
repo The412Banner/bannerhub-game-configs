@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782831275,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-INFINIX-Infinix_X6817-Mali-G52_MC2-1782831275.json"
+  },
+  {
     "game": "Far_Cry__Primal",
     "manufacturer": "ASUS_AI2401_D",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782805563,
     "filename": "CarX_Street-vivo-V2315-Mali-G57_MC2-1782805563.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2527",
-    "device": "Adreno__TM__619",
-    "timestamp": 1782805239,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2527-Adreno__TM__619-1782805239.json"
   }
 ]
