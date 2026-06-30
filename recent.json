@@ -1,5 +1,12 @@
 [
   {
+    "game": "Zombie_Army_Trilogy_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782812630,
+    "filename": "Zombie_Army_Trilogy_-TECNO-TECNO_LH7n-Mali-G57_MC2-1782812630.json"
+  },
+  {
     "game": "Wolfenstein_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782796369,
     "filename": "Pro_Evolution_Soccer_2013-nubia-Z2465N-Mali-G57-1782796369.json"
-  },
-  {
-    "game": "Left_4_Dead",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782795933,
-    "filename": "Left_4_Dead-INFINIX-Infinix_X6817-Mali-G52_MC2-1782795933.json"
   }
 ]
