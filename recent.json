@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782780733,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1782780733.json"
+  },
+  {
     "game": "Sleeping_Dogs__Definitive_Edition",
     "manufacturer": "Retroid_Pocket_Flip2",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782769511,
     "filename": "DRAGON_BALL__Sparking__ZERO-INFINIX-Infinix_X6817-Mali-G52_MC2-1782769511.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX3",
-    "device": "Adreno__TM__613",
-    "timestamp": 1782769075,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALT-NX3-Adreno__TM__613-1782769075.json"
   }
 ]
