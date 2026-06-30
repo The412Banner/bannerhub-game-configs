@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__Primal",
+    "manufacturer": "ASUS_AI2401_D",
+    "device": "Adreno__TM__750",
+    "timestamp": 1782827021,
+    "filename": "Far_Cry__Primal-asus-ASUS_AI2401_D-Adreno__TM__750-1782827021.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "G991U",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1782805239,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2527-Adreno__TM__619-1782805239.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2_Demo",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__720",
-    "timestamp": 1782805145,
-    "filename": "Euro_Truck_Simulator_2_Demo-HONOR-DNY-NX9-Adreno__TM__720-1782805145.json"
   }
 ]
