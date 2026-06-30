@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__II",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782812909,
+    "filename": "DARK_SOULS__II-TECNO-TECNO_LH7n-Mali-G57_MC2-1782812909.json"
+  },
+  {
     "game": "Zombie_Army_Trilogy_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782796495,
     "filename": "MARVEL_Cosmic_Invasion-motorola-moto_g06-Mali-G52_MC2-1782796495.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782796369,
-    "filename": "Pro_Evolution_Soccer_2013-nubia-Z2465N-Mali-G57-1782796369.json"
   }
 ]
