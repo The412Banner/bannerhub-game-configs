@@ -1,5 +1,12 @@
 [
   {
+    "game": "UFL_Launcher________________________________________________",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782845785,
+    "filename": "UFL_Launcher________________________________________________-realme-RMX3938-Mali-G57-1782845785.json"
+  },
+  {
     "game": "Neva",
     "manufacturer": "G1",
     "device": "Ultra_MC12",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1782831841,
     "filename": "Asphalt_Legends_-samsung-SM-A515F-Mali-G72-1782831841.json"
-  },
-  {
-    "game": "AC3SP",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782831463,
-    "filename": "AC3SP-nubia-Z2575-Mali-G57-1782831463.json"
   }
 ]
