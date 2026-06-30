@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782796369,
+    "filename": "Pro_Evolution_Soccer_2013-nubia-Z2465N-Mali-G57-1782796369.json"
+  },
+  {
     "game": "Left_4_Dead",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1782778827,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2405CRPFDG-Adreno__TM__710-1782778827.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782778805,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-motorola-moto_g15-Mali-G52_MC2-1782778805.json"
   }
 ]
