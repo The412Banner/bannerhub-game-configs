@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_playtime_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782826034,
+    "filename": "Poppy_playtime_-samsung-SM-A055M-Mali-G52_MC2-1782826034.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1782801418,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1782801418.json"
-  },
-  {
-    "game": "Resident_Evil_4_____________________________________________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782800792,
-    "filename": "Resident_Evil_4_____________________________________________-Xiaomi-24116RACCG-Mali-G57_MC2-1782800792.json"
   }
 ]
