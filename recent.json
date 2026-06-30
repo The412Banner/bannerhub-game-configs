@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_SA_Online",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1782847788,
+    "filename": "Grand_Theft_Auto_SA_Online-samsung-SM-A346M-Mali-G68_MC4-1782847788.json"
+  },
+  {
     "game": "MiSide",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1782835400,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e40-Mali-G52-1782835400.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1782835376,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e40-Mali-G52-1782835376.json"
   }
 ]
