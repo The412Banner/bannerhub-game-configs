@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "T610K",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1782848660,
+    "filename": "Pro_Evolution_Soccer_2013-TCL-T610K-PowerVR_Rogue_GE8320-1782848660.json"
+  },
+  {
     "game": "Grand_Theft_Auto_SA_Online",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782835723,
     "filename": "Counter-Strike__Global_Offensive-INFINIX-Infinix_X6817-Mali-G52_MC2-1782835723.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1782835400,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e40-Mali-G52-1782835400.json"
   }
 ]
