@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1782859242,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1782859242.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1782859240,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A035M-Mali-G57-1782859240.json"
@@ -131,12 +138,5 @@
     "device": "Ultra_MC12",
     "timestamp": 1782843426,
     "filename": "Neva-vivo-V2514-Mali-G1-Ultra_MC12-1782843426.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782843367,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6817-Mali-G52_MC2-1782843367.json"
   }
 ]
