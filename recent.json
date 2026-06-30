@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Brotherhood",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782842553,
+    "filename": "Assassin_s_Creed__Brotherhood-realme-RMX5303-Mali-G57-1782842553.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1782829720,
     "filename": "American_Truck_Simulator-samsung-SM-G991U-Adreno__TM__660-1782829720.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "G991U",
-    "device": "Adreno__TM__660",
-    "timestamp": 1782829680,
-    "filename": "American_Truck_Simulator-samsung-SM-G991U-Adreno__TM__660-1782829680.json"
   }
 ]
