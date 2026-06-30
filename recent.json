@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2_Demo",
+    "manufacturer": "S926B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1782798222,
+    "filename": "Euro_Truck_Simulator_2_Demo-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1782798222.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782780733,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1782780733.json"
-  },
-  {
-    "game": "Sleeping_Dogs__Definitive_Edition",
-    "manufacturer": "Retroid_Pocket_Flip2",
-    "device": "Adreno__TM__650",
-    "timestamp": 1782780420,
-    "filename": "Sleeping_Dogs__Definitive_Edition-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1782780420.json"
   }
 ]
