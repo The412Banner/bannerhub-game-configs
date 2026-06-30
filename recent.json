@@ -1,5 +1,12 @@
 [
   {
+    "game": "Asphalt_Legends_",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1782831841,
+    "filename": "Asphalt_Legends_-samsung-SM-A515F-Mali-G72-1782831841.json"
+  },
+  {
     "game": "AC3SP",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1782808079,
     "filename": "Hospital_666-Xiaomi-M2004J19C-Mali-G52-1782808079.json"
-  },
-  {
-    "game": "Assassin_s_Creed__III_Remastered",
-    "manufacturer": "I2508",
-    "device": "Adreno__TM__829",
-    "timestamp": 1782805738,
-    "filename": "Assassin_s_Creed__III_Remastered-vivo-I2508-Adreno__TM__829-1782805738.json"
   }
 ]
