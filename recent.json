@@ -1,5 +1,12 @@
 [
   {
+    "game": "Neva",
+    "manufacturer": "G1",
+    "device": "Ultra_MC12",
+    "timestamp": 1782843426,
+    "filename": "Neva-vivo-V2514-Mali-G1-Ultra_MC12-1782843426.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782831463,
     "filename": "AC3SP-nubia-Z2575-Mali-G57-1782831463.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782831275,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-INFINIX-Infinix_X6817-Mali-G52_MC2-1782831275.json"
   }
 ]
