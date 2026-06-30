@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782847720,
+    "filename": "MiSide-INFINIX-Infinix_X6711-Mali-G57_MC2-1782847720.json"
+  },
+  {
     "game": "kicksalot",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1782835376,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e40-Mali-G52-1782835376.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1782835280,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e40-Mali-G52-1782835280.json"
   }
 ]
