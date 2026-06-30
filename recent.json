@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1782792364,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1782792364.json"
+  },
+  {
     "game": "Mina_The_Hollower",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782771505,
     "filename": "FIFA_12__c__EA______________________________________________-Xiaomi-23129RAA4G-Adreno__TM__610-1782771505.json"
-  },
-  {
-    "game": "FIFA_12__c__EA______________________________________________",
-    "manufacturer": "23129RAA4G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782771498,
-    "filename": "FIFA_12__c__EA______________________________________________-Xiaomi-23129RAA4G-Adreno__TM__610-1782771498.json"
   }
 ]
