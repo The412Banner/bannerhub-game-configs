@@ -1,5 +1,12 @@
 [
   {
+    "game": "fifa16",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782794689,
+    "filename": "fifa16-INFINIX-Infinix_X6817-Mali-G52_MC2-1782794689.json"
+  },
+  {
     "game": "_____2019",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782777407,
     "filename": "RESIDENT_EVIL_5-TECNO-TECNO_LH7n-Mali-G57_MC2-1782777407.json"
-  },
-  {
-    "game": "Blades_of_Time",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782777399,
-    "filename": "Blades_of_Time-TECNO-TECNO_LH7n-Mali-G57_MC2-1782777399.json"
   }
 ]
