@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782798111,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6817-Mali-G52_MC2-1782798111.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1782780420,
     "filename": "Sleeping_Dogs__Definitive_Edition-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1782780420.json"
-  },
-  {
-    "game": "MSI_App_Player_Installer_",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782779842,
-    "filename": "MSI_App_Player_Installer_-Xiaomi-25078PC3EG-Mali-G52_MC2-1782779842.json"
   }
 ]
