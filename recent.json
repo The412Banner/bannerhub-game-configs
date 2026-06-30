@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "G991U",
+    "device": "Adreno__TM__660",
+    "timestamp": 1782829680,
+    "filename": "American_Truck_Simulator-samsung-SM-G991U-Adreno__TM__660-1782829680.json"
+  },
+  {
     "game": "Poppy_playtime_",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1782805123,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2527-Adreno__TM__619-1782805123.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1782801418,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1782801418.json"
   }
 ]
