@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH2527",
+    "device": "Adreno__TM__619",
+    "timestamp": 1782805123,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2527-Adreno__TM__619-1782805123.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782792364,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1782792364.json"
-  },
-  {
-    "game": "Mina_The_Hollower",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782791239,
-    "filename": "Mina_The_Hollower-AYN-AYN_Thor-Adreno__TM__740-1782791239.json"
   }
 ]
