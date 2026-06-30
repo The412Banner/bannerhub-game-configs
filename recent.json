@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "T505N",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782861687,
+    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-T505N-Adreno__TM__610-1782861687.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1782846073,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-HONOR-MTN-NX1-Adreno__TM__810-1782846073.json"
-  },
-  {
-    "game": "UFL_Launcher________________________________________________",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782845785,
-    "filename": "UFL_Launcher________________________________________________-realme-RMX3938-Mali-G57-1782845785.json"
   }
 ]
