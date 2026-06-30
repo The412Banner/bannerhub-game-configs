@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs__Definitive_Edition",
+    "manufacturer": "Retroid_Pocket_Flip2",
+    "device": "Adreno__TM__650",
+    "timestamp": 1782780420,
+    "filename": "Sleeping_Dogs__Definitive_Edition-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1782780420.json"
+  },
+  {
     "game": "MSI_App_Player_Installer_",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__613",
     "timestamp": 1782769075,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALT-NX3-Adreno__TM__613-1782769075.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1782769064,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1782769064.json"
   }
 ]
