@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hatred",
+    "manufacturer": "Pocket_S",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782863335,
+    "filename": "Hatred-AYANEO-Pocket_S-Adreno__TM__740-1782863335.json"
+  },
+  {
     "game": "Farming_Simulator_19",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1782847788,
     "filename": "Grand_Theft_Auto_SA_Online-samsung-SM-A346M-Mali-G68_MC4-1782847788.json"
-  },
-  {
-    "game": "MiSide",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782847720,
-    "filename": "MiSide-INFINIX-Infinix_X6711-Mali-G57_MC2-1782847720.json"
   }
 ]
