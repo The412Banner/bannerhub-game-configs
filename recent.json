@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1782801418,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1782801418.json"
+  },
+  {
     "game": "Resident_Evil_4_____________________________________________",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782791239,
     "filename": "Mina_The_Hollower-AYN-AYN_Thor-Adreno__TM__740-1782791239.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2201117TL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782791166,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TL-Adreno__TM__610-1782791166.json"
   }
 ]
