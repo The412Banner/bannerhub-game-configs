@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782792800,
+    "filename": "God_of_War-INFINIX-Infinix_X6817-Mali-G52_MC2-1782792800.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782772974,
     "filename": "MAFIA_II-samsung-SM-A155M-Mali-G57_MC2-1782772974.json"
-  },
-  {
-    "game": "launcher",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782772153,
-    "filename": "launcher-samsung-SM-A155M-Mali-G57_MC2-1782772153.json"
   }
 ]
