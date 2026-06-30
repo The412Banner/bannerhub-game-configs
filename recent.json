@@ -1,5 +1,12 @@
 [
   {
+    "game": "MSI_App_Player_Installer_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782779842,
+    "filename": "MSI_App_Player_Installer_-Xiaomi-25078PC3EG-Mali-G52_MC2-1782779842.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1782769064,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1782769064.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1782768184,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G970F-Mali-G76-1782768184.json"
   }
 ]
