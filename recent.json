@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782778805,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-motorola-moto_g15-Mali-G52_MC2-1782778805.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782759881,
     "filename": "FIFA_Soccer_11-realme-RMX3834-Mali-G57-1782759881.json"
-  },
-  {
-    "game": "gta-sa",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782757642,
-    "filename": "gta-sa-Xiaomi-23053RN02A-Mali-G52_MC2-1782757642.json"
   }
 ]
