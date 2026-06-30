@@ -1,5 +1,12 @@
 [
   {
+    "game": "Farming_Simulator_19",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782862058,
+    "filename": "Farming_Simulator_19-Xiaomi-23129RA5FL-Adreno__TM__610-1782862058.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782847720,
     "filename": "MiSide-INFINIX-Infinix_X6711-Mali-G57_MC2-1782847720.json"
-  },
-  {
-    "game": "kicksalot",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782847584,
-    "filename": "kicksalot-Anbernic-RG_406H-Mali-G57-1782847584.json"
   }
 ]
