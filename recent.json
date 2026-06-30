@@ -1,5 +1,12 @@
 [
   {
+    "game": "MONSTER_HUNTER_RISE",
+    "manufacturer": "24117RK2CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1782839784,
+    "filename": "MONSTER_HUNTER_RISE-Xiaomi-24117RK2CG-Adreno__TM__750-1782839784.json"
+  },
+  {
     "game": "TheAmazingSpider-Man",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1782823802,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-21121119SG-Mali-G52-1782823802.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23073RPBFG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782823685,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23073RPBFG-Adreno__TM__610-1782823685.json"
   }
 ]
