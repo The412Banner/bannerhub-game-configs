@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2_Demo",
+    "manufacturer": "S926B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1782810933,
+    "filename": "Euro_Truck_Simulator_2_Demo-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1782810933.json"
+  },
+  {
     "game": "Hospital_666",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782794689,
     "filename": "fifa16-INFINIX-Infinix_X6817-Mali-G52_MC2-1782794689.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1782793780,
-    "filename": "_____2019-samsung-SM-A346B-Mali-G68_MC4-1782793780.json"
   }
 ]
