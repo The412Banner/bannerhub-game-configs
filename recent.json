@@ -3,6 +3,13 @@
     "game": "Counter-Strike__Global_Offensive",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1782835956,
+    "filename": "Counter-Strike__Global_Offensive-INFINIX-Infinix_X6817-Mali-G52_MC2-1782835956.json"
+  },
+  {
+    "game": "Counter-Strike__Global_Offensive",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1782835723,
     "filename": "Counter-Strike__Global_Offensive-INFINIX-Infinix_X6817-Mali-G52_MC2-1782835723.json"
   },
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1782814054,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1782814054.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782813340,
-    "filename": "BootstrapPackagedGame-Xiaomi-2312FPCA6G-Mali-G57_MC2-1782813340.json"
   }
 ]
