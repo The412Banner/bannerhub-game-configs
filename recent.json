@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782797027,
+    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6817-Mali-G52_MC2-1782797027.json"
+  },
+  {
     "game": "MARVEL_Cosmic_Invasion",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782779842,
     "filename": "MSI_App_Player_Installer_-Xiaomi-25078PC3EG-Mali-G52_MC2-1782779842.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782779580,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-motorola-moto_g15-Mali-G52_MC2-1782779580.json"
   }
 ]
