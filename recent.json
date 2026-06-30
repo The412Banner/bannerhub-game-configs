@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pes_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782858140,
+    "filename": "Pes_2013-samsung-SM-A175F-Mali-G57_MC2-1782858140.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1782838791,
     "filename": "TheAmazingSpider-Man-Xiaomi-2311DRK48G-Mali-G615_MC6-1782838791.json"
-  },
-  {
-    "game": "pes_2013",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782838369,
-    "filename": "pes_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1782838369.json"
   }
 ]
