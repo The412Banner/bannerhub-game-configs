@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782795933,
+    "filename": "Left_4_Dead-INFINIX-Infinix_X6817-Mali-G52_MC2-1782795933.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782778805,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-motorola-moto_g15-Mali-G52_MC2-1782778805.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782778053,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-INFINIX-Infinix_X6853-Mali-G57_MC2-1782778053.json"
   }
 ]
