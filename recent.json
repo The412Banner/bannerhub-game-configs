@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4_____________________________________________",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782800792,
+    "filename": "Resident_Evil_4_____________________________________________-Xiaomi-24116RACCG-Mali-G57_MC2-1782800792.json"
+  },
+  {
     "game": "Alice__Madness_Returns",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782791166,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TL-Adreno__TM__610-1782791166.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2201117TL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782791162,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TL-Adreno__TM__610-1782791162.json"
   }
 ]
