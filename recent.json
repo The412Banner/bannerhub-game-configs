@@ -1,5 +1,12 @@
 [
   {
+    "game": "CarX_Street",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782805563,
+    "filename": "CarX_Street-vivo-V2315-Mali-G57_MC2-1782805563.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2527",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782792800,
     "filename": "God_of_War-INFINIX-Infinix_X6817-Mali-G52_MC2-1782792800.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782792457,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1782792457.json"
   }
 ]
