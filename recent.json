@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades",
+    "manufacturer": "Redmi_K20_Pro",
+    "device": "Adreno__TM__640",
+    "timestamp": 1782859815,
+    "filename": "Hades-Xiaomi-Redmi_K20_Pro-Adreno__TM__640-1782859815.json"
+  },
+  {
     "game": "Hades_II",
     "manufacturer": "Redmi_K20_Pro",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782842553,
     "filename": "Assassin_s_Creed__Brotherhood-realme-RMX5303-Mali-G57-1782842553.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782840648,
-    "filename": "Need_for_Speed_9-samsung-SM-A057M-Adreno__TM__610-1782840648.json"
   }
 ]
