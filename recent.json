@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782937854,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1782937854.json"
+  },
+  {
     "game": "LIMBO",
     "manufacturer": "NX769J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1782921368,
     "filename": "Left_4_Dead_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1782921368.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1782920819,
-    "filename": "God_of_War-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1782920819.json"
   }
 ]
