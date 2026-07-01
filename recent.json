@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cowboy_Life_Simulator",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1782911703,
+    "filename": "Cowboy_Life_Simulator-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782911703.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782875463,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g23-Mali-G52_MC2-1782875463.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1782875090,
-    "filename": "BootstrapPackagedGame-samsung-SM-A127F-Mali-G52-1782875090.json"
   }
 ]
