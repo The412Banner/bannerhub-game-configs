@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1782946295,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e40-Mali-G52-1782946295.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "motorola_edge_30_fusion",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1782933782,
     "filename": "Need_for_Speed_MONST_WANTEND-samsung-SM-A366E-Adreno__TM__710-1782933782.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "V2247",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782931814,
-    "filename": "BootstrapPackagedGame-vivo-V2247-Adreno__TM__610-1782931814.json"
   }
 ]
