@@ -1,5 +1,12 @@
 [
   {
+    "game": "assettocorsarally",
+    "manufacturer": "22081212C",
+    "device": "Adreno__TM__730",
+    "timestamp": 1782915095,
+    "filename": "assettocorsarally-Xiaomi-22081212C-Adreno__TM__730-1782915095.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782881441,
     "filename": "One_Piece_Pirate_Warriors_3-samsung-SM-S911B-Adreno__TM__740-1782881441.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782881278,
-    "filename": "Red_Dead_Redemption-INFINIX-Infinix_X6817-Mali-G52_MC2-1782881278.json"
   }
 ]
