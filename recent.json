@@ -1,5 +1,12 @@
 [
   {
+    "game": "DEAD_RISING_",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1782890944,
+    "filename": "DEAD_RISING_-ayn-Odin3-Adreno__TM__830-1782890944.json"
+  },
+  {
     "game": "DRAGON_BALL_Sparking__ZERO",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1782867063,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-PPA-LX2-Mali-G51-1782867063.json"
-  },
-  {
-    "game": "Portal_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782866173,
-    "filename": "Portal_2-TECNO-TECNO_LI7-Mali-G57_MC2-1782866173.json"
   }
 ]
