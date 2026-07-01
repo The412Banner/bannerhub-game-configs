@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782892052,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1782892052.json"
+  },
+  {
     "game": "DEAD_RISING_",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1782869708,
     "filename": "_____2019-Xiaomi-2511FPC34G-Mali-G720_MC8-1782869708.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1782867063,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-PPA-LX2-Mali-G51-1782867063.json"
   }
 ]
