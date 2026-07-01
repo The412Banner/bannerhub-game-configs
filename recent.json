@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782924028,
+    "filename": "BlackOps-TECNO-TECNO_KL5-Mali-G52_MC2-1782924028.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1782899184,
     "filename": "Dead_Space__-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1782899184.json"
-  },
-  {
-    "game": "GRID",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1782899143,
-    "filename": "GRID-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1782899143.json"
   }
 ]
