@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782915831,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1782915831.json"
+  },
+  {
     "game": "assettocorsarally",
     "manufacturer": "22081212C",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782882483,
     "filename": "Mafia_II__Classic_-Xiaomi-2201117PG-Mali-G57_MC2-1782882483.json"
-  },
-  {
-    "game": "One_Piece_Pirate_Warriors_3",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782881441,
-    "filename": "One_Piece_Pirate_Warriors_3-samsung-SM-S911B-Adreno__TM__740-1782881441.json"
   }
 ]
