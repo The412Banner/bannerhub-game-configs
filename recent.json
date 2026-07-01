@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782871327,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6531-Mali-G52_MC2-1782871327.json"
+  },
+  {
     "game": "FINAL_FANTASY_IX",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1782859771,
     "filename": "Hades_II-Xiaomi-Redmi_K20_Pro-Adreno__TM__640-1782859771.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1782859027,
-    "filename": "_____2019-Xiaomi-25053PC47G-Adreno__TM__825-1782859027.json"
   }
 ]
