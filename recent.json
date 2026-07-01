@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Sparking__ZERO",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1782889382,
+    "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-24094RAD4G-PowerVR_B-Series_BXM-8-256-1782889382.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_e22",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782866173,
     "filename": "Portal_2-TECNO-TECNO_LI7-Mali-G57_MC2-1782866173.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782865933,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2410FPCC5G-Mali-G52_MC2-1782865933.json"
   }
 ]
