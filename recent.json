@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782882483,
+    "filename": "Mafia_II__Classic_-Xiaomi-2201117PG-Mali-G57_MC2-1782882483.json"
+  },
+  {
     "game": "One_Piece_Pirate_Warriors_3",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1782862058,
     "filename": "Farming_Simulator_19-Xiaomi-23129RA5FL-Adreno__TM__610-1782862058.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1782861727,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_fusion-Adreno__TM__710-1782861727.json"
   }
 ]
