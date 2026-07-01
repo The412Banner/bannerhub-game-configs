@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1782885131,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1782885131.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782865334,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1782865334.json"
-  },
-  {
-    "game": "Hatred",
-    "manufacturer": "Pocket_S",
-    "device": "Adreno__TM__740",
-    "timestamp": 1782863335,
-    "filename": "Hatred-AYANEO-Pocket_S-Adreno__TM__740-1782863335.json"
   }
 ]
