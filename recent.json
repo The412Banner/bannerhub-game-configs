@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "moto_g_100_",
+    "device": "Adreno__TM__650",
+    "timestamp": 1782946923,
+    "filename": "PlayGTAV-motorola-moto_g_100_-Adreno__TM__650-1782946923.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A528B",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1782934552,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2511FPC34G-Mali-G720_MC8-1782934552.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1782934494,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2511FPC34G-Mali-G720_MC8-1782934494.json"
   }
 ]
