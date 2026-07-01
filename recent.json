@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782926540,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2312DRAABG-Mali-G57_MC2-1782926540.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A236M",
     "device": "Adreno__TM__619",
     "timestamp": 1782925649,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1782913852,
     "filename": "Watch_Dogs_-OnePlus-HD1901-Adreno__TM__640-1782913852.json"
-  },
-  {
-    "game": "Cowboy_Life_Simulator",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782911703,
-    "filename": "Cowboy_Life_Simulator-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782911703.json"
   }
 ]
