@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1782921368,
+    "filename": "Left_4_Dead_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1782921368.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1782890944,
     "filename": "DEAD_RISING_-ayn-Odin3-Adreno__TM__830-1782890944.json"
-  },
-  {
-    "game": "DRAGON_BALL_Sparking__ZERO",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1782889382,
-    "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-24094RAD4G-PowerVR_B-Series_BXM-8-256-1782889382.json"
   }
 ]
