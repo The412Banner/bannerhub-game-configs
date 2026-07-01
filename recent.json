@@ -1,5 +1,12 @@
 [
   {
+    "game": "Portal_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1782866173,
+    "filename": "Portal_2-TECNO-TECNO_LI7-Mali-G57_MC2-1782866173.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1782857828,
     "filename": "NFS_Most_Wanted_Black_Edition_2005-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782857828.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782857390,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2103K19PG-Mali-G57_MC2-1782857390.json"
   }
 ]
