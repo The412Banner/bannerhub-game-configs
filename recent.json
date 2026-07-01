@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782865334,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1782865334.json"
+  },
+  {
     "game": "Hatred",
     "manufacturer": "Pocket_S",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1782848660,
     "filename": "Pro_Evolution_Soccer_2013-TCL-T610K-PowerVR_Rogue_GE8320-1782848660.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_SA_Online",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1782847788,
-    "filename": "Grand_Theft_Auto_SA_Online-samsung-SM-A346M-Mali-G68_MC4-1782847788.json"
   }
 ]
