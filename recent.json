@@ -3,6 +3,13 @@
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G610_MC4",
+    "timestamp": 1782922963,
+    "filename": "BootstrapPackagedGame-Xiaomi-23090RA98G-Mali-G610_MC4-1782922963.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G610_MC4",
     "timestamp": 1782922953,
     "filename": "BootstrapPackagedGame-Xiaomi-23090RA98G-Mali-G610_MC4-1782922953.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782898952,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2332-Mali-G52_MC2-1782898952.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782892052,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1782892052.json"
   }
 ]
