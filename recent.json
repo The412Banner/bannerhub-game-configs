@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782881278,
+    "filename": "Red_Dead_Redemption-INFINIX-Infinix_X6817-Mali-G52_MC2-1782881278.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G71",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782861714,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e13-Mali-G57-1782861714.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "T505N",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782861687,
-    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-T505N-Adreno__TM__610-1782861687.json"
   }
 ]
