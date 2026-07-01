@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1782923298,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25080RABDG-Mali-G615_MC2-1782923298.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G610_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1782899143,
     "filename": "GRID-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1782899143.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782898952,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2332-Mali-G52_MC2-1782898952.json"
   }
 ]
