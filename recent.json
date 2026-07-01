@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "V2247",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782931814,
+    "filename": "BootstrapPackagedGame-vivo-V2247-Adreno__TM__610-1782931814.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1782917813,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g14-Mali-G57-1782917813.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1782915831,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1782915831.json"
   }
 ]
