@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_e22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1782887115,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e22-PowerVR_Rogue_GE8320-1782887115.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1782885158,
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782865933,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2410FPCC5G-Mali-G52_MC2-1782865933.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1782865815,
-    "filename": "Resident_Evil_2-Xiaomi-24095PCADG-Mali-G615_MC2-1782865815.json"
   }
 ]
