@@ -1,5 +1,12 @@
 [
   {
+    "game": "One_Piece_Pirate_Warriors_3",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782881441,
+    "filename": "One_Piece_Pirate_Warriors_3-samsung-SM-S911B-Adreno__TM__740-1782881441.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1782861727,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_fusion-Adreno__TM__710-1782861727.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1782861714,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e13-Mali-G57-1782861714.json"
   }
 ]
