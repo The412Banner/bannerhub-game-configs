@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1782943238,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25080RABDG-Mali-G615_MC2-1782943238.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "22111317PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1782928403,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1782928403.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782928362,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1782928362.json"
   }
 ]
