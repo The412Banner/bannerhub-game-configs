@@ -1,5 +1,12 @@
 [
   {
+    "game": "CloverPit",
+    "manufacturer": "2509FPN0BC",
+    "device": "Adreno__TM__840",
+    "timestamp": 1782984211,
+    "filename": "CloverPit-Xiaomi-2509FPN0BC-Adreno__TM__840-1782984211.json"
+  },
+  {
     "game": "Poppy_Playtime_Chapter_5",
     "manufacturer": "2509FPN0BC",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782952352,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1782952352.json"
-  },
-  {
-    "game": "DmC__Devil_May_Cry",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782951094,
-    "filename": "DmC__Devil_May_Cry-samsung-SM-A057M-Adreno__TM__610-1782951094.json"
   }
 ]
