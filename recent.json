@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1783032890,
+    "filename": "Left_4_Dead_2-INFINIX-Infinix_X6871-Mali-G610_MC6-1783032890.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1783014938,
     "filename": "JoJo_s_Bizarre_Adventure__All-Star_Battle_R-Xiaomi-23122PCD1G-Adreno__TM__710-1783014938.json"
-  },
-  {
-    "game": "mx_bike",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783013953,
-    "filename": "mx_bike-samsung-SM-A155M-Mali-G57_MC2-1783013953.json"
   }
 ]
