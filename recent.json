@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1782997135,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1782997135.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "V2538",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782980592,
     "filename": "S_T_A_L_K_E_R___Shadow_of_Chornobyl_-_Enhanced_Edition-AYANEO-Pocket_S-Adreno__TM__740-1782980592.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "V2247",
-    "device": "Adreno__TM__610",
-    "timestamp": 1782973341,
-    "filename": "BootstrapPackagedGame-vivo-V2247-Adreno__TM__610-1782973341.json"
   }
 ]
