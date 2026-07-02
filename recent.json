@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1782991968,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-nubia-NX809J-Adreno__TM__840-1782991968.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1782966729,
     "filename": "S_T_A_L_K_E_R___Shadow_of_Chornobyl_-_Enhanced_Edition-AYANEO-Pocket_S-Adreno__TM__740-1782966729.json"
-  },
-  {
-    "game": "Prince_of_Persia_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1782965078,
-    "filename": "Prince_of_Persia_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782965078.json"
   }
 ]
