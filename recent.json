@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_22",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783008793,
+    "filename": "FIFA_22-HONOR-CRT-LX2-Mali-G52_MC2-1783008793.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1782991968,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-nubia-NX809J-Adreno__TM__840-1782991968.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782987172,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1782987172.json"
   }
 ]
