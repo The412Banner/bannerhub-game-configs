@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783003161,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1783003161.json"
+  },
+  {
     "game": "rpcs3",
     "manufacturer": "LE2121",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1782984300,
     "filename": "Hollow_Knight__Silksong-Xiaomi-2509FPN0BC-Adreno__TM__840-1782984300.json"
-  },
-  {
-    "game": "Atomic_Heart",
-    "manufacturer": "2509FPN0BC",
-    "device": "Adreno__TM__840",
-    "timestamp": 1782984297,
-    "filename": "Atomic_Heart-Xiaomi-2509FPN0BC-Adreno__TM__840-1782984297.json"
   }
 ]
