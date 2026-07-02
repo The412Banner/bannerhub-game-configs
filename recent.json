@@ -1,5 +1,12 @@
 [
   {
+    "game": "Life_is_Strange_-_Episode_1",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1782955062,
+    "filename": "Life_is_Strange_-_Episode_1-Xiaomi-23129RA5FL-Adreno__TM__610-1782955062.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1782941209,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1782941209.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1782940880,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1782940880.json"
   }
 ]
