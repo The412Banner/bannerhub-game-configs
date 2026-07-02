@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783000190,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1783000190.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G720_MC7",
     "timestamp": 1782999978,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1782999978.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1782984268,
     "filename": "Portal_2-Xiaomi-2509FPN0BC-Adreno__TM__840-1782984268.json"
-  },
-  {
-    "game": "Little_Nightmares_2",
-    "manufacturer": "2509FPN0BC",
-    "device": "Adreno__TM__840",
-    "timestamp": 1782984254,
-    "filename": "Little_Nightmares_2-Xiaomi-2509FPN0BC-Adreno__TM__840-1782984254.json"
   }
 ]
