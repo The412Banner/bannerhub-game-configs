@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783022339,
+    "filename": "Hollow_Knight__Silksong-samsung-SM-A057M-Adreno__TM__610-1783022339.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783008793,
     "filename": "FIFA_22-HONOR-CRT-LX2-Mali-G52_MC2-1783008793.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783008145,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1783008145.json"
   }
 ]
