@@ -1,5 +1,12 @@
 [
   {
+    "game": "S_T_A_L_K_E_R___Shadow_of_Chornobyl_-_Enhanced_Edition",
+    "manufacturer": "Pocket_S",
+    "device": "Adreno__TM__740",
+    "timestamp": 1782966729,
+    "filename": "S_T_A_L_K_E_R___Shadow_of_Chornobyl_-_Enhanced_Edition-AYANEO-Pocket_S-Adreno__TM__740-1782966729.json"
+  },
+  {
     "game": "Prince_of_Persia_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1782946522,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A528B-Adreno__TM__642L-1782946522.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1782946295,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e40-Mali-G52-1782946295.json"
   }
 ]
