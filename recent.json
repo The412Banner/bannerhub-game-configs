@@ -1,5 +1,12 @@
 [
   {
+    "game": "AssassinsCreedIIGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783017031,
+    "filename": "AssassinsCreedIIGame-INFINIX-Infinix_X6817-Mali-G52_MC2-1783017031.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783000609,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1783000609.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783000190,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1783000190.json"
   }
 ]
