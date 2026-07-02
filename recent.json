@@ -1,5 +1,12 @@
 [
   {
+    "game": "KuloNiku",
+    "manufacturer": "Pocket_S",
+    "device": "Adreno__TM__740",
+    "timestamp": 1783013811,
+    "filename": "KuloNiku-AYANEO-Pocket_S-Adreno__TM__740-1783013811.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__722",
     "timestamp": 1782996238,
     "filename": "DRAGON_BALL_FighterZ-vivo-V2538-Adreno__TM__722-1782996238.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Rogue",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1782995281,
-    "filename": "Assassin_s_Creed__Rogue-samsung-SM-A155M-Mali-G57_MC2-1782995281.json"
   }
 ]
