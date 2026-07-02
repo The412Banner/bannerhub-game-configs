@@ -1,5 +1,12 @@
 [
   {
+    "game": "mx_bike",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783013953,
+    "filename": "mx_bike-samsung-SM-A155M-Mali-G57_MC2-1783013953.json"
+  },
+  {
     "game": "KuloNiku",
     "manufacturer": "Pocket_S",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782997135,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1782997135.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "V2538",
-    "device": "Adreno__TM__722",
-    "timestamp": 1782996238,
-    "filename": "DRAGON_BALL_FighterZ-vivo-V2538-Adreno__TM__722-1782996238.json"
   }
 ]
