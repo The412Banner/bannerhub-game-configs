@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G76_MC4",
+    "timestamp": 1782955956,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2059-Mali-G76_MC4-1782955956.json"
+  },
+  {
     "game": "Life_is_Strange_-_Episode_1",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1782941329,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1782941329.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1782941209,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1782941209.json"
   }
 ]
