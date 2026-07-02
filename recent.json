@@ -1,5 +1,12 @@
 [
   {
+    "game": "Portal_2",
+    "manufacturer": "2509FPN0BC",
+    "device": "Adreno__TM__840",
+    "timestamp": 1782984268,
+    "filename": "Portal_2-Xiaomi-2509FPN0BC-Adreno__TM__840-1782984268.json"
+  },
+  {
     "game": "Little_Nightmares_2",
     "manufacturer": "2509FPN0BC",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1782953584,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1782953584.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1782952540,
-    "filename": "Pro_Evolution_Soccer_2013-nubia-NX799J-Adreno__TM__830-1782952540.json"
   }
 ]
