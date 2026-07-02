@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783021861,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1783021861.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "25057PC09I",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783005906,
     "filename": "Pro_Evolution_Soccer_2017-JOVI-J2506-Adreno__TM__610-1783005906.json"
-  },
-  {
-    "game": "God_of_War_III______________________________________________",
-    "manufacturer": "RMX5566",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783004071,
-    "filename": "God_of_War_III______________________________________________-realme-RMX5566-Adreno__TM__610-1783004071.json"
   }
 ]
