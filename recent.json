@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_III______________________________________________",
+    "manufacturer": "RMX5566",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783004071,
+    "filename": "God_of_War_III______________________________________________-realme-RMX5566-Adreno__TM__610-1783004071.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1782985607,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A366E-Adreno__TM__710-1782985607.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1782984458,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1782984458.json"
   }
 ]
