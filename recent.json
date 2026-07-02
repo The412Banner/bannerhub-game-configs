@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A528B",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1782969771,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A528B-Adreno__TM__642L-1782969771.json"
+  },
+  {
     "game": "Ryse__Son_of_Rome",
     "manufacturer": "Pocket_S",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782948210,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1782948210.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "moto_g_100_",
-    "device": "Adreno__TM__650",
-    "timestamp": 1782946923,
-    "filename": "PlayGTAV-motorola-moto_g_100_-Adreno__TM__650-1782946923.json"
   }
 ]
