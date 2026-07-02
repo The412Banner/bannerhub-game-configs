@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "V2538",
+    "device": "Adreno__TM__722",
+    "timestamp": 1782999953,
+    "filename": "DRAGON_BALL_FighterZ-vivo-V2538-Adreno__TM__722-1782999953.json"
+  },
+  {
     "game": "TheForest",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1782984211,
     "filename": "CloverPit-Xiaomi-2509FPN0BC-Adreno__TM__840-1782984211.json"
-  },
-  {
-    "game": "Poppy_Playtime_Chapter_5",
-    "manufacturer": "2509FPN0BC",
-    "device": "Adreno__TM__840",
-    "timestamp": 1782984206,
-    "filename": "Poppy_Playtime_Chapter_5-Xiaomi-2509FPN0BC-Adreno__TM__840-1782984206.json"
   }
 ]
