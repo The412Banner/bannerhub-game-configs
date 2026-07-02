@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_14",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1783027260,
+    "filename": "FIFA_14-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783027260.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783013811,
     "filename": "KuloNiku-AYANEO-Pocket_S-Adreno__TM__740-1783013811.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1783012893,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G780G-Adreno__TM__650-1783012893.json"
   }
 ]
