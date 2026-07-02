@@ -1,5 +1,12 @@
 [
   {
+    "game": "Farming_Simulator_19",
+    "manufacturer": "22101320G",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1782982933,
+    "filename": "Farming_Simulator_19-Xiaomi-22101320G-Adreno__TM__642L-1782982933.json"
+  },
+  {
     "game": "S_T_A_L_K_E_R___Shadow_of_Chornobyl_-_Enhanced_Edition",
     "manufacturer": "Pocket_S",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1782950878,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1782950878.json"
-  },
-  {
-    "game": "game",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1782949402,
-    "filename": "game-INFINIX-Infinix_X6851-PowerVR_B-Series_BXM-8-256-1782949402.json"
   }
 ]
