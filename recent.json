@@ -1,5 +1,12 @@
 [
   {
+    "game": "rpcs3",
+    "manufacturer": "LE2121",
+    "device": "Adreno__TM__660",
+    "timestamp": 1783001549,
+    "filename": "rpcs3-OnePlus-LE2121-Adreno__TM__660-1783001549.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1782984297,
     "filename": "Atomic_Heart-Xiaomi-2509FPN0BC-Adreno__TM__840-1782984297.json"
-  },
-  {
-    "game": "Sons_Of_The_Forest",
-    "manufacturer": "2509FPN0BC",
-    "device": "Adreno__TM__840",
-    "timestamp": 1782984287,
-    "filename": "Sons_Of_The_Forest-Xiaomi-2509FPN0BC-Adreno__TM__840-1782984287.json"
   }
 ]
