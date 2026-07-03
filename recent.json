@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed___Director_s_Cut_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783075781,
+    "filename": "Assassin_s_Creed___Director_s_Cut_Edition-motorola-moto_g06-Mali-G52_MC2-1783075781.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2201117TY",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1783052440,
     "filename": "Paint_the_Town_Red-Xiaomi-2511FPC34G-Mali-G720_MC8-1783052440.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783050490,
-    "filename": "Need_for_Speed_9-samsung-SM-E075F-Mali-G57_MC2-1783050490.json"
   }
 ]
