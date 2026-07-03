@@ -1,5 +1,12 @@
 [
   {
+    "game": "Paint_the_Town_Red",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1783052440,
+    "filename": "Paint_the_Town_Red-Xiaomi-2511FPC34G-Mali-G720_MC8-1783052440.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1783037117,
     "filename": "Lesta_Game_Center___________________________________________-nubia-NX809J-Adreno__TM__840-1783037117.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Liberation_HD",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1783037085,
-    "filename": "Assassin_s_Creed__Liberation_HD-INFINIX-Infinix_X6873-Mali-G615_MC6-1783037085.json"
   }
 ]
