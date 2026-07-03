@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1783082304,
+    "filename": "Need_for_Speed_9-samsung-SM-S901E-Adreno__TM__730-1783082304.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783056100,
     "filename": "modo_carreira_-motorola-moto_g_30_-Adreno__TM__610-1783056100.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1783053577,
-    "filename": "Red_Dead_Redemption-TECNO_MOBILE_LIMITED-TECNO_CG8-Mali-G76_MC4-1783053577.json"
   }
 ]
