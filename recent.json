@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lesta_Game_Center___________________________________________",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1783037117,
+    "filename": "Lesta_Game_Center___________________________________________-nubia-NX809J-Adreno__TM__840-1783037117.json"
+  },
+  {
     "game": "Assassin_s_Creed__Liberation_HD",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783017031,
     "filename": "AssassinsCreedIIGame-INFINIX-Infinix_X6817-Mali-G52_MC2-1783017031.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A366E",
-    "device": "Adreno__TM__710",
-    "timestamp": 1783015150,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A366E-Adreno__TM__710-1783015150.json"
   }
 ]
