@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Revelations",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783052727,
+    "filename": "Assassin_s_Creed__Revelations-realme-RMX5303-Mali-G57-1783052727.json"
+  },
+  {
     "game": "Paint_the_Town_Red",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1783037313,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1783037313.json"
-  },
-  {
-    "game": "Lesta_Game_Center___________________________________________",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1783037117,
-    "filename": "Lesta_Game_Center___________________________________________-nubia-NX809J-Adreno__TM__840-1783037117.json"
   }
 ]
