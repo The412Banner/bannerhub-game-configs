@@ -1,5 +1,12 @@
 [
   {
+    "game": "ashes",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1783068288,
+    "filename": "ashes-INFINIX-Infinix_X6876-Mali-G615_MC2-1783068288.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783043490,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76G-Mali-G57_MC2-1783043490.json"
-  },
-  {
-    "game": "Fallen_Part-Time_Wife_1_00_eng",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783042648,
-    "filename": "Fallen_Part-Time_Wife_1_00_eng-INFINIX-Infinix_X6528-Mali-G57-1783042648.json"
   }
 ]
