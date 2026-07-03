@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castle_Crashers_",
+    "manufacturer": "A042M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1783089140,
+    "filename": "Castle_Crashers_-samsung-SM-A042M-PowerVR_Rogue_GE8320-1783089140.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "itel_A667LP",
     "device": "PowerVR_Rogue_GE8322",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1783068288,
     "filename": "ashes-INFINIX-Infinix_X6876-Mali-G615_MC2-1783068288.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1783067645,
-    "filename": "God_of_War-Xiaomi-25053PC47G-Adreno__TM__825-1783067645.json"
   }
 ]
