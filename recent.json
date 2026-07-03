@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Binding_of_Isaac__Rebirth",
+    "manufacturer": "S911N",
+    "device": "Adreno__TM__740",
+    "timestamp": 1783077756,
+    "filename": "The_Binding_of_Isaac__Rebirth-samsung-SM-S911N-Adreno__TM__740-1783077756.json"
+  },
+  {
     "game": "Assassin_s_Creed___Director_s_Cut_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783052727,
     "filename": "Assassin_s_Creed__Revelations-realme-RMX5303-Mali-G57-1783052727.json"
-  },
-  {
-    "game": "Paint_the_Town_Red",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1783052440,
-    "filename": "Paint_the_Town_Red-Xiaomi-2511FPC34G-Mali-G720_MC8-1783052440.json"
   }
 ]
