@@ -1,5 +1,12 @@
 [
   {
+    "game": "NBA2K16",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1783108991,
+    "filename": "NBA2K16-AYN-AYN_Thor-Adreno__TM__740-1783108991.json"
+  },
+  {
     "game": "Forza_Horizon_4",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783084962,
     "filename": "Biomutant-AYN-Odin2_Portal-Adreno__TM__740-1783084962.json"
-  },
-  {
-    "game": "p_s_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783084724,
-    "filename": "p_s_2013-Xiaomi-2310FPCA4G-Mali-G52_MC2-1783084724.json"
   }
 ]
