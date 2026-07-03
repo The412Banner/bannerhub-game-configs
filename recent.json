@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783095975,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-ITEL-itel_S666LN-Mali-G57_MC2-1783095975.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "RMX2030",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783072421,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TY-Adreno__TM__610-1783072421.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783071805,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M156B-Mali-G57_MC2-1783071805.json"
   }
 ]
