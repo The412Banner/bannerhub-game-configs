@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783071805,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M156B-Mali-G57_MC2-1783071805.json"
+  },
+  {
     "game": "BeamNG_drive",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1783048625,
     "filename": "No_Man_s_Sky-samsung-SM-S938B-Adreno__TM__830-1783048625.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1783046819,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25053PC47G-Adreno__TM__825-1783046819.json"
   }
 ]
