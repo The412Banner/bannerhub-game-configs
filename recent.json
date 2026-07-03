@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783057744,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-TECNO-TECNO_LH7n-Mali-G57_MC2-1783057744.json"
+  },
+  {
     "game": "modo_carreira_",
     "manufacturer": "moto_g_30_",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783038132,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6528-Mali-G57-1783038132.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783038119,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6528-Mali-G57-1783038119.json"
   }
 ]
