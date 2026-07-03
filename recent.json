@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fallen_Part-Time_Wife_1_00_eng",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783042648,
+    "filename": "Fallen_Part-Time_Wife_1_00_eng-INFINIX-Infinix_X6528-Mali-G57-1783042648.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M2007J20CG",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1783027260,
     "filename": "FIFA_14-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783027260.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783026507,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1783026507.json"
   }
 ]
