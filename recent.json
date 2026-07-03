@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_7",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1783122700,
+    "filename": "TEKKEN_7-Xiaomi-2511FPC34G-Mali-G720_MC8-1783122700.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S921B",
     "device": "ANGLE__Samsung_Xclipse_940__on_Vulkan_1_3_264",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783094425,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX2030-Adreno__TM__610-1783094425.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783092730,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EL-Mali-G52_MC2-1783092730.json"
   }
 ]
