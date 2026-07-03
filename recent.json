@@ -1,5 +1,12 @@
 [
   {
+    "game": "IW3SP-MOD",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1783096668,
+    "filename": "IW3SP-MOD-samsung-SM-S918B-Adreno__TM__740-1783096668.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__3__2011_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783075781,
     "filename": "Assassin_s_Creed___Director_s_Cut_Edition-motorola-moto_g06-Mali-G52_MC2-1783075781.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2201117TY",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783072421,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TY-Adreno__TM__610-1783072421.json"
   }
 ]
