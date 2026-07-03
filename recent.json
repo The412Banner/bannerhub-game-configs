@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783112199,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1783112199.json"
+  },
+  {
     "game": "gta_sa",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1783089140,
     "filename": "Castle_Crashers_-samsung-SM-A042M-PowerVR_Rogue_GE8320-1783089140.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "itel_A667LP",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1783088828,
-    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A667LP-PowerVR_Rogue_GE8322-1783088828.json"
   }
 ]
