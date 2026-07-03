@@ -1,5 +1,12 @@
 [
   {
+    "game": "ELDEN_RING",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1783115231,
+    "filename": "ELDEN_RING-nubia-NX809J-Adreno__TM__840-1783115231.json"
+  },
+  {
     "game": "Gunfire_Reborn",
     "manufacturer": "PLE110",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783092710,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EL-Mali-G52_MC2-1783092710.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783092574,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EL-Mali-G52_MC2-1783092574.json"
   }
 ]
