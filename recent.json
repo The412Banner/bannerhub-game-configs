@@ -1,5 +1,12 @@
 [
   {
+    "game": "modo_carreira_",
+    "manufacturer": "moto_g_30_",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783056100,
+    "filename": "modo_carreira_-motorola-moto_g_30_-Adreno__TM__610-1783056100.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "Mali",
     "device": "G76_MC4",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783038119,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6528-Mali-G57-1783038119.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783038007,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6528-Mali-G57-1783038007.json"
   }
 ]
