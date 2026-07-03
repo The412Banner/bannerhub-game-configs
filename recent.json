@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1783067645,
+    "filename": "God_of_War-Xiaomi-25053PC47G-Adreno__TM__825-1783067645.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783042648,
     "filename": "Fallen_Part-Time_Wife_1_00_eng-INFINIX-Infinix_X6528-Mali-G57-1783042648.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "M2007J20CG",
-    "device": "Adreno__TM__618",
-    "timestamp": 1783042274,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2007J20CG-Adreno__TM__618-1783042274.json"
   }
 ]
