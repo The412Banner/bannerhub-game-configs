@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783092574,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EL-Mali-G52_MC2-1783092574.json"
+  },
+  {
     "game": "Castle_Crashers_",
     "manufacturer": "A042M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1783068299,
     "filename": "ashes-INFINIX-Infinix_X6876-Mali-G615_MC2-1783068299.json"
-  },
-  {
-    "game": "ashes",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1783068288,
-    "filename": "ashes-INFINIX-Infinix_X6876-Mali-G615_MC2-1783068288.json"
   }
 ]
