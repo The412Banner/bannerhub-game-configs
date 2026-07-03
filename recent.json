@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta_sa",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783110474,
+    "filename": "gta_sa-TECNO-TECNO_LH7n-Mali-G57_MC2-1783110474.json"
+  },
+  {
     "game": "LEGO__Batman___Legacy_of_the_Dark_Knight",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1783088828,
     "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A667LP-PowerVR_Rogue_GE8322-1783088828.json"
-  },
-  {
-    "game": "S_T_A_L_K_E_R___Shadow_of_Chornobyl_-_Enhanced_Edition",
-    "manufacturer": "Pocket_S",
-    "device": "Adreno__TM__740",
-    "timestamp": 1783087332,
-    "filename": "S_T_A_L_K_E_R___Shadow_of_Chornobyl_-_Enhanced_Edition-AYANEO-Pocket_S-Adreno__TM__740-1783087332.json"
   }
 ]
