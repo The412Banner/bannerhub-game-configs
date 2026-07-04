@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1783188188,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1783188188.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "M2007J3SY",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1783175212,
     "filename": "Hitman__Absolution_-samsung-SM-A515F-Mali-G72-1783175212.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783175147,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6525-Mali-G57-1783175147.json"
   }
 ]
