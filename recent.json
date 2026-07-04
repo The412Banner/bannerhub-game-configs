@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1783163630,
+    "filename": "Resident_Evil_6-Xiaomi-2306EPN60G-Mali-G610_MC6-1783163630.json"
+  },
+  {
     "game": "Castle_of_Illusion",
     "manufacturer": "A235F",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1783131558,
     "filename": "Dead_Space__3-Xiaomi-2510EPC8BG-Adreno__TM__810-1783131558.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1783131500,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24090RA29G-Mali-G615_MC2-1783131500.json"
   }
 ]
