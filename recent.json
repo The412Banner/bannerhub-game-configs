@@ -1,5 +1,12 @@
 [
   {
+    "game": "Furi",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1783144729,
+    "filename": "Furi-Xiaomi-2511FPC34G-Mali-G720_MC8-1783144729.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "I2508",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1783127202,
     "filename": "Pes_Soccer_2013-motorola-moto_g75_5G-Adreno__TM__710-1783127202.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1783126564,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1783126564.json"
   }
 ]
