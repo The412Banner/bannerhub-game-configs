@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1783166969,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6876-Mali-G615_MC2-1783166969.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783132464,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S911B-Adreno__TM__740-1783132464.json"
-  },
-  {
-    "game": "Dead_Space__3",
-    "manufacturer": "2510EPC8BG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1783131558,
-    "filename": "Dead_Space__3-Xiaomi-2510EPC8BG-Adreno__TM__810-1783131558.json"
   }
 ]
