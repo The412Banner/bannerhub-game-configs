@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castle_of_Illusion",
+    "manufacturer": "A235F",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783161958,
+    "filename": "Castle_of_Illusion-samsung-SM-A235F-Adreno__TM__610-1783161958.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "2201117TG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1783131500,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24090RA29G-Mali-G615_MC2-1783131500.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1783130111,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1783130111.json"
   }
 ]
