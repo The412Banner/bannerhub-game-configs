@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783175147,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6525-Mali-G57-1783175147.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__829",
     "timestamp": 1783138934,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-vivo-I2508-Adreno__TM__829-1783138934.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783138323,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1783138323.json"
   }
 ]
