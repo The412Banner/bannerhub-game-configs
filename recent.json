@@ -1,5 +1,12 @@
 [
   {
+    "game": "Matrix3",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783137401,
+    "filename": "Matrix3-ITEL-itel_S688LN-Mali-G57-1783137401.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1783115231,
     "filename": "ELDEN_RING-nubia-NX809J-Adreno__TM__840-1783115231.json"
-  },
-  {
-    "game": "Gunfire_Reborn",
-    "manufacturer": "PLE110",
-    "device": "Adreno__TM__825",
-    "timestamp": 1783113893,
-    "filename": "Gunfire_Reborn-OPPO-PLE110-Adreno__TM__825-1783113893.json"
   }
 ]
