@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1783170150,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1783170150.json"
+  },
+  {
     "game": "Tag__The_Power_of_Paint",
     "manufacturer": "23073RPBFC",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783134463,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6531-Mali-G52_MC2-1783134463.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783134437,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6531-Mali-G52_MC2-1783134437.json"
   }
 ]
