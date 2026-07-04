@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1783125285,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6891-Mali-G720_MC7-1783125285.json"
+  },
+  {
     "game": "TEKKEN_7",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783095975,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-ITEL-itel_S666LN-Mali-G57_MC2-1783095975.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "RMX2030",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783094425,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX2030-Adreno__TM__610-1783094425.json"
   }
 ]
