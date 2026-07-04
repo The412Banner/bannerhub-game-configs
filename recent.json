@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_e22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1783138181,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e22-PowerVR_Rogue_GE8320-1783138181.json"
+  },
+  {
     "game": "Matrix3",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1783122700,
     "filename": "TEKKEN_7-Xiaomi-2511FPC34G-Mali-G720_MC8-1783122700.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S921B",
-    "device": "ANGLE__Samsung_Xclipse_940__on_Vulkan_1_3_264",
-    "timestamp": 1783120590,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S921B-ANGLE__Samsung_Xclipse_940__on_Vulkan_1_3_264-1783120590.json"
   }
 ]
