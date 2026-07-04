@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783184135,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2103K19PG-Mali-G57_MC2-1783184135.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783165225,
     "filename": "Tag__The_Power_of_Paint-Xiaomi-23073RPBFC-Adreno__TM__610-1783165225.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "I2508",
-    "device": "Adreno__TM__829",
-    "timestamp": 1783167400,
-    "filename": "God_of_War-vivo-I2508-Adreno__TM__829-1783167400.json"
   }
 ]
