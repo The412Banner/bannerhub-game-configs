@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "S721B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1783177700,
+    "filename": "MiSide-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1783177700.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "F946B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783154371,
     "filename": "Grand_Theft_Auto_V-Xiaomi-2201117TG-Adreno__TM__610-1783154371.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "2201117TG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783154133,
-    "filename": "Grand_Theft_Auto_V-Xiaomi-2201117TG-Adreno__TM__610-1783154133.json"
   }
 ]
