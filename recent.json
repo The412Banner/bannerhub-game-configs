@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1783189736,
+    "filename": "Tomb_Raider-Xiaomi-2511FPC34G-Mali-G720_MC8-1783189736.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1783177700,
     "filename": "MiSide-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1783177700.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "F946B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1783177333,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-F946B-Adreno__TM__740-1783177333.json"
   }
 ]
