@@ -1,5 +1,12 @@
 [
   {
+    "game": "Divinity__Original_Sin_Enhanced_Edition",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1783195230,
+    "filename": "Divinity__Original_Sin_Enhanced_Edition-nubia-NX809J-Adreno__TM__840-1783195230.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783185889,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1783185889.json"
-  },
-  {
-    "game": "DARK_SOULS__III",
-    "manufacturer": "2410CRP4CG",
-    "device": "Adreno__TM__732",
-    "timestamp": 1783185481,
-    "filename": "DARK_SOULS__III-Xiaomi-2410CRP4CG-Adreno__TM__732-1783185481.json"
   }
 ]
