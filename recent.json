@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hitman__Absolution_",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1783175212,
+    "filename": "Hitman__Absolution_-samsung-SM-A515F-Mali-G72-1783175212.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1783144729,
     "filename": "Furi-Xiaomi-2511FPC34G-Mali-G720_MC8-1783144729.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "I2508",
-    "device": "Adreno__TM__829",
-    "timestamp": 1783138934,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-vivo-I2508-Adreno__TM__829-1783138934.json"
   }
 ]
