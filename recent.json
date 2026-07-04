@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "CPH2447",
+    "device": "Adreno__TM__740",
+    "timestamp": 1783190522,
+    "filename": "PlayGTAV-OnePlus-CPH2447-Adreno__TM__740-1783190522.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1783182890,
     "filename": "Assetto_Corsa-TECNO-TECNO_CK8n-Mali-G77_MC9-1783182890.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "I2508",
-    "device": "Adreno__TM__829",
-    "timestamp": 1783182162,
-    "filename": "God_of_War-vivo-I2508-Adreno__TM__829-1783182162.json"
   }
 ]
