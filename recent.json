@@ -1,5 +1,12 @@
 [
   {
+    "game": "R_E_P_O_",
+    "manufacturer": "RMX5010",
+    "device": "Adreno__TM__830",
+    "timestamp": 1783188440,
+    "filename": "R_E_P_O_-realme-RMX5010-Adreno__TM__830-1783188440.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783176885,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-F946B-Adreno__TM__740-1783176885.json"
-  },
-  {
-    "game": "PES_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1783176276,
-    "filename": "PES_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783176276.json"
   }
 ]
