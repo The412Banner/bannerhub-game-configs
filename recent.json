@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "I2508",
+    "device": "Adreno__TM__829",
+    "timestamp": 1783182162,
+    "filename": "God_of_War-vivo-I2508-Adreno__TM__829-1783182162.json"
+  },
+  {
     "game": "Launcher",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1783163630,
     "filename": "Resident_Evil_6-Xiaomi-2306EPN60G-Mali-G610_MC6-1783163630.json"
-  },
-  {
-    "game": "Castle_of_Illusion",
-    "manufacturer": "A235F",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783161958,
-    "filename": "Castle_of_Illusion-samsung-SM-A235F-Adreno__TM__610-1783161958.json"
   }
 ]
