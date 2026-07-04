@@ -3,6 +3,13 @@
     "game": "Matrix3",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1783137444,
+    "filename": "Matrix3-ITEL-itel_S688LN-Mali-G57-1783137444.json"
+  },
+  {
+    "game": "Matrix3",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1783137401,
     "filename": "Matrix3-ITEL-itel_S688LN-Mali-G57-1783137401.json"
   },
@@ -131,12 +138,5 @@
     "device": "ANGLE__Samsung_Xclipse_940__on_Vulkan_1_3_264",
     "timestamp": 1783120590,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S921B-ANGLE__Samsung_Xclipse_940__on_Vulkan_1_3_264-1783120590.json"
-  },
-  {
-    "game": "ELDEN_RING",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1783115231,
-    "filename": "ELDEN_RING-nubia-NX809J-Adreno__TM__840-1783115231.json"
   }
 ]
