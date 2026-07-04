@@ -1,5 +1,12 @@
 [
   {
+    "game": "update",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1783196253,
+    "filename": "update-samsung-SM-S928B-Adreno__TM__750-1783196253.json"
+  },
+  {
     "game": "high_fi_rush",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1783188188,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1783188188.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "M2007J3SY",
-    "device": "Adreno__TM__650",
-    "timestamp": 1783186835,
-    "filename": "Left_4_Dead_2-Xiaomi-M2007J3SY-Adreno__TM__650-1783186835.json"
   }
 ]
