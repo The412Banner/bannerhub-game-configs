@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_14",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783208154,
+    "filename": "FIFA_14-Xiaomi-M2103K19PG-Mali-G57_MC2-1783208154.json"
+  },
+  {
     "game": "SuperMario64HD",
     "manufacturer": "Redmi_Note_9S",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1783191145,
     "filename": "Setup-samsung-SM-S928B-Adreno__TM__750-1783191145.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "CPH2447",
-    "device": "Adreno__TM__740",
-    "timestamp": 1783190732,
-    "filename": "PlayGTAV-OnePlus-CPH2447-Adreno__TM__740-1783190732.json"
   }
 ]
