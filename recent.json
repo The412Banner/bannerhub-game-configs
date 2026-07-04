@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783173860,
+    "filename": "Left_4_Dead_2-TECNO-TECNO_KL6-Mali-G52_MC2-1783173860.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783138323,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1783138323.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_e22",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1783138181,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e22-PowerVR_Rogue_GE8320-1783138181.json"
   }
 ]
