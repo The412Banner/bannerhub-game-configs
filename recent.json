@@ -1,5 +1,12 @@
 [
   {
+    "game": "Launcher",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1783181471,
+    "filename": "Launcher-Xiaomi-25053PC47G-Adreno__TM__825-1783181471.json"
+  },
+  {
     "game": "MiSide",
     "manufacturer": "S721B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783161958,
     "filename": "Castle_of_Illusion-samsung-SM-A235F-Adreno__TM__610-1783161958.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "2201117TG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783154371,
-    "filename": "Grand_Theft_Auto_V-Xiaomi-2201117TG-Adreno__TM__610-1783154371.json"
   }
 ]
