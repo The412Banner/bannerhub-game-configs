@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assetto_Corsa",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1783182890,
+    "filename": "Assetto_Corsa-TECNO-TECNO_CK8n-Mali-G77_MC9-1783182890.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "I2508",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1783166969,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6876-Mali-G615_MC2-1783166969.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1783163630,
-    "filename": "Resident_Evil_6-Xiaomi-2306EPN60G-Mali-G610_MC6-1783163630.json"
   }
 ]
