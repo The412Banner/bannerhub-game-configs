@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "I2508",
+    "device": "Adreno__TM__829",
+    "timestamp": 1783167400,
+    "filename": "God_of_War-vivo-I2508-Adreno__TM__829-1783167400.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783133425,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1783133425.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1783132464,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S911B-Adreno__TM__740-1783132464.json"
   }
 ]
