@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__III",
+    "manufacturer": "2410CRP4CG",
+    "device": "Adreno__TM__732",
+    "timestamp": 1783185481,
+    "filename": "DARK_SOULS__III-Xiaomi-2410CRP4CG-Adreno__TM__732-1783185481.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1783173097,
     "filename": "BootstrapPackagedGame-Xiaomi-23049PCD8G-Adreno__TM__725-1783173097.json"
-  },
-  {
-    "game": "DARK_SOULS__II",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1783171969,
-    "filename": "DARK_SOULS__II-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783171969.json"
   }
 ]
