@@ -1,5 +1,12 @@
 [
   {
+    "game": "high_fi_rush",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1783195249,
+    "filename": "high_fi_rush-nubia-NX809J-Adreno__TM__840-1783195249.json"
+  },
+  {
     "game": "Divinity__Original_Sin_Enhanced_Edition",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1783186835,
     "filename": "Left_4_Dead_2-Xiaomi-M2007J3SY-Adreno__TM__650-1783186835.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783185889,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1783185889.json"
   }
 ]
