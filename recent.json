@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783134437,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6531-Mali-G52_MC2-1783134437.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1783110414,
     "filename": "LEGO__Batman___Legacy_of_the_Dark_Knight-Xiaomi-2311DRK48G-Mali-G615_MC6-1783110414.json"
-  },
-  {
-    "game": "AC3SP",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1783109394,
-    "filename": "AC3SP-OnePlus-CPH2717-Mali-G615_MC6-1783109394.json"
   }
 ]
