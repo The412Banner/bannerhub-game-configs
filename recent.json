@@ -1,5 +1,12 @@
 [
   {
+    "game": "SuperMario64HD",
+    "manufacturer": "Redmi_Note_9S",
+    "device": "Adreno__TM__618",
+    "timestamp": 1783206477,
+    "filename": "SuperMario64HD-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1783206477.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G71",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783190732,
     "filename": "PlayGTAV-OnePlus-CPH2447-Adreno__TM__740-1783190732.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "CPH2447",
-    "device": "Adreno__TM__740",
-    "timestamp": 1783190522,
-    "filename": "PlayGTAV-OnePlus-CPH2447-Adreno__TM__740-1783190522.json"
   }
 ]
