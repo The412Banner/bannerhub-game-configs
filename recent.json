@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "M2007J3SY",
+    "device": "Adreno__TM__650",
+    "timestamp": 1783186835,
+    "filename": "Left_4_Dead_2-Xiaomi-M2007J3SY-Adreno__TM__650-1783186835.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783175147,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6525-Mali-G57-1783175147.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783173860,
-    "filename": "Left_4_Dead_2-TECNO-TECNO_KL6-Mali-G52_MC2-1783173860.json"
   }
 ]
