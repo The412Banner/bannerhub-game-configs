@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V__________________________________________",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783250735,
+    "filename": "Grand_Theft_Auto_V__________________________________________-INFINIX-Infinix_X6880-Mali-G57_MC2-1783250735.json"
+  },
+  {
     "game": "Thymesia",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1783219464,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1783219464.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783219199,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24_power-Mali-G52_MC2-1783219199.json"
   }
 ]
