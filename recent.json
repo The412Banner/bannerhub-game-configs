@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__4",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1783245913,
+    "filename": "Far_Cry__4-Xiaomi-25053PC47G-Adreno__TM__825-1783245913.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC3",
     "timestamp": 1783218584,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX2111-Mali-G57_MC3-1783218584.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783218418,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LH7n-Mali-G57_MC2-1783218418.json"
   }
 ]
