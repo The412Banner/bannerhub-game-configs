@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFSC",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1783211842,
+    "filename": "NFSC-motorola-moto_g84_5G-Adreno__TM__619-1783211842.json"
+  },
+  {
     "game": "SPEED2",
     "manufacturer": "2201117TL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783192914,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1783192914.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783192012,
-    "filename": "Watch_Dogs_-samsung-SM-A175F-Mali-G57_MC2-1783192012.json"
   }
 ]
