@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Marvel__Super_Heroes",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1783292792,
+    "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-25080RABDG-Mali-G615_MC2-1783292792.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783271754,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e13-Mali-G57-1783271754.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1783271717,
-    "filename": "Watch_Dogs_-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1783271717.json"
   }
 ]
