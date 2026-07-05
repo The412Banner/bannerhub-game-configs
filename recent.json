@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57_MC3",
+    "timestamp": 1783218281,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX2111-Mali-G57_MC3-1783218281.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1783217861,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1783217861.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783202656,
     "filename": "CARRION-samsung-SM-S918B-Adreno__TM__740-1783202656.json"
-  },
-  {
-    "game": "sonic_exe-the-fallen-angel",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783198418,
-    "filename": "sonic_exe-the-fallen-angel-Xiaomi-2409BRN2CL-Mali-G52_MC2-1783198418.json"
   }
 ]
