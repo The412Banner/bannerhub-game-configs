@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grocery_Store_Simulator",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783235746,
+    "filename": "Grocery_Store_Simulator-Xiaomi-2310FPCA4G-Mali-G52_MC2-1783235746.json"
+  },
+  {
     "game": "Killer_Instinct",
     "manufacturer": "CPH2709",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__512",
     "timestamp": 1783216865,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-MI_8_Lite-Adreno__TM__512-1783216865.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1783216078,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48I-Mali-G615_MC6-1783216078.json"
   }
 ]
