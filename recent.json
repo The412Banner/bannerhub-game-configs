@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783279817,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24049RN28L-Mali-G52_MC2-1783279817.json"
+  },
+  {
     "game": "Neon_Inferno",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783263263,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1783263263.json"
-  },
-  {
-    "game": "Half-Life_2",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1783263050,
-    "filename": "Half-Life_2-samsung-SM-A266B-Mali-G68-1783263050.json"
   }
 ]
