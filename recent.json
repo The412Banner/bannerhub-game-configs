@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Enhanced",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1783220395,
+    "filename": "Grand_Theft_Auto_V_Enhanced-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1783220395.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783208154,
     "filename": "FIFA_14-Xiaomi-M2103K19PG-Mali-G57_MC2-1783208154.json"
-  },
-  {
-    "game": "SuperMario64HD",
-    "manufacturer": "Redmi_Note_9S",
-    "device": "Adreno__TM__618",
-    "timestamp": 1783206477,
-    "filename": "SuperMario64HD-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1783206477.json"
   }
 ]
