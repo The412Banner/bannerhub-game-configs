@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013_1",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1783225023,
+    "filename": "Pro_Evolution_Soccer_2013_1-samsung-SM-A145M-Mali-G52-1783225023.json"
+  },
+  {
     "game": "Gameplay_config",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783209679,
     "filename": "SPEED2-Xiaomi-2201117TL-Adreno__TM__610-1783209679.json"
-  },
-  {
-    "game": "SPEED2",
-    "manufacturer": "2201117TL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783209673,
-    "filename": "SPEED2-Xiaomi-2201117TL-Adreno__TM__610-1783209673.json"
   }
 ]
