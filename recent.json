@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783256391,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1783256391.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Redmi_Note_9S",
     "device": "Adreno__TM__618",
     "timestamp": 1783256069,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1783231942,
     "filename": "Killer_Instinct-OnePlus-CPH2709-Adreno__TM__735-1783231942.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1783229817,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g55_5G-PowerVR_B-Series_BXM-8-256-1783229817.json"
   }
 ]
