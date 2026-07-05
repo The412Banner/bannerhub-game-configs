@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw3sp",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1783282914,
+    "filename": "iw3sp-Xiaomi-21091116UG-Mali-G68_MC4-1783282914.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "CPH2747",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1783271433,
     "filename": "Euro_Truck_Simulator_2-motorola-moto_g82_5G-Adreno__TM__619-1783271433.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1783271345,
-    "filename": "Watch_Dogs_-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1783271345.json"
   }
 ]
