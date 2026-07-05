@@ -1,5 +1,12 @@
 [
   {
+    "game": "Half-Life_2",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1783263050,
+    "filename": "Half-Life_2-samsung-SM-A266B-Mali-G68-1783263050.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1783248583,
     "filename": "Thymesia-nubia-NX799J-Adreno__TM__830-1783248583.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "2510ERA8BG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1783247935,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-2510ERA8BG-Adreno__TM__810-1783247935.json"
   }
 ]
