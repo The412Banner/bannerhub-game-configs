@@ -1,5 +1,12 @@
 [
   {
+    "game": "7Launcher_-_GTA_5_1_7_0_7___________________________________",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783266434,
+    "filename": "7Launcher_-_GTA_5_1_7_0_7___________________________________-vivo-V2420-Mali-G57_MC2-1783266434.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M2007J3SG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783252851,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1783252851.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783252784,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1783252784.json"
   }
 ]
