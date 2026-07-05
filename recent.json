@@ -1,5 +1,12 @@
 [
   {
+    "game": "Killer_Instinct",
+    "manufacturer": "CPH2709",
+    "device": "Adreno__TM__735",
+    "timestamp": 1783231942,
+    "filename": "Killer_Instinct-OnePlus-CPH2709-Adreno__TM__735-1783231942.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1783216078,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48I-Mali-G615_MC6-1783216078.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1783214814,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S911B-Adreno__TM__740-1783214814.json"
   }
 ]
