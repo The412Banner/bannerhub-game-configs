@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "MI_8_Lite",
+    "device": "Adreno__TM__512",
+    "timestamp": 1783216865,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-MI_8_Lite-Adreno__TM__512-1783216865.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC6",
     "timestamp": 1783216078,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1783196253,
     "filename": "update-samsung-SM-S928B-Adreno__TM__750-1783196253.json"
-  },
-  {
-    "game": "high_fi_rush",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1783195249,
-    "filename": "high_fi_rush-nubia-NX809J-Adreno__TM__840-1783195249.json"
   }
 ]
