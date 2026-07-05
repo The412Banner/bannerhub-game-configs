@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alice__Madness_Returns",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1783225853,
+    "filename": "Alice__Madness_Returns-Xiaomi-25053PC47G-Adreno__TM__825-1783225853.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013_1",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1783211842,
     "filename": "NFSC-motorola-moto_g84_5G-Adreno__TM__619-1783211842.json"
-  },
-  {
-    "game": "SPEED2",
-    "manufacturer": "2201117TL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783209679,
-    "filename": "SPEED2-Xiaomi-2201117TL-Adreno__TM__610-1783209679.json"
   }
 ]
