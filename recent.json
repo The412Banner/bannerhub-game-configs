@@ -1,5 +1,12 @@
 [
   {
+    "game": "GameSteamDRM",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783254524,
+    "filename": "GameSteamDRM-realme-RMX3760-Mali-G57-1783254524.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013_plss",
     "manufacturer": "moto_g42",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1783225853,
     "filename": "Alice__Madness_Returns-Xiaomi-25053PC47G-Adreno__TM__825-1783225853.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013_1",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1783225023,
-    "filename": "Pro_Evolution_Soccer_2013_1-samsung-SM-A145M-Mali-G52-1783225023.json"
   }
 ]
