@@ -1,5 +1,12 @@
 [
   {
+    "game": "Thymesia",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1783248583,
+    "filename": "Thymesia-nubia-NX799J-Adreno__TM__830-1783248583.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "2510ERA8BG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783219199,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24_power-Mali-G52_MC2-1783219199.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC3",
-    "timestamp": 1783218591,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX2111-Mali-G57_MC3-1783218591.json"
   }
 ]
