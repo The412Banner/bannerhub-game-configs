@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783263263,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1783263263.json"
+  },
+  {
     "game": "Half-Life_2",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783250735,
     "filename": "Grand_Theft_Auto_V__________________________________________-INFINIX-Infinix_X6880-Mali-G57_MC2-1783250735.json"
-  },
-  {
-    "game": "Thymesia",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1783248583,
-    "filename": "Thymesia-nubia-NX799J-Adreno__TM__830-1783248583.json"
   }
 ]
