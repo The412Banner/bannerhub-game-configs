@@ -1,5 +1,12 @@
 [
   {
+    "game": "OpenIV",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1783293572,
+    "filename": "OpenIV-motorola-motorola_edge_60_pro-Mali-G615_MC6-1783293572.json"
+  },
+  {
     "game": "DRAGON_BALL_XENOVERSE_2",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1783272105,
     "filename": "Watch_Dogs_-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1783272105.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1783272000,
-    "filename": "Watch_Dogs_-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1783272000.json"
   }
 ]
