@@ -3,6 +3,13 @@
     "game": "Watch_Dogs_",
     "manufacturer": "8",
     "device": "256",
+    "timestamp": 1783271717,
+    "filename": "Watch_Dogs_-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1783271717.json"
+  },
+  {
+    "game": "Watch_Dogs_",
+    "manufacturer": "8",
+    "device": "256",
     "timestamp": 1783271528,
     "filename": "Watch_Dogs_-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1783271528.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783254524,
     "filename": "GameSteamDRM-realme-RMX3760-Mali-G57-1783254524.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013_plss",
-    "manufacturer": "moto_g42",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783254406,
-    "filename": "Pro_Evolution_Soccer_2013_plss-motorola-moto_g42-Adreno__TM__610-1783254406.json"
   }
 ]
