@@ -1,5 +1,12 @@
 [
   {
+    "game": "REANIMAL",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1783253627,
+    "filename": "REANIMAL-OnePlus-CPH2747-Adreno__TM__840-1783253627.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1783221247,
     "filename": "Gameplay_config-samsung-SM-A146M-Mali-G68-1783221247.json"
-  },
-  {
-    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783224713,
-    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-TECNO-TECNO_LH7n-Mali-G57_MC2-1783224713.json"
   }
 ]
