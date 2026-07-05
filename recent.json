@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1783216078,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48I-Mali-G615_MC6-1783216078.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1783195249,
     "filename": "high_fi_rush-nubia-NX809J-Adreno__TM__840-1783195249.json"
-  },
-  {
-    "game": "Divinity__Original_Sin_Enhanced_Edition",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1783195230,
-    "filename": "Divinity__Original_Sin_Enhanced_Edition-nubia-NX809J-Adreno__TM__840-1783195230.json"
   }
 ]
