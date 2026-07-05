@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1783274843,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A356E-Mali-G68-1783274843.json"
+  },
+  {
     "game": "Watch_Dogs_",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1783256431,
     "filename": "PES_2013-samsung-SM-A236M-Adreno__TM__619-1783256431.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783256391,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1783256391.json"
   }
 ]
