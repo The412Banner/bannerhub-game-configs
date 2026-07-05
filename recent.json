@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "2510ERA8BG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1783247935,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-2510ERA8BG-Adreno__TM__810-1783247935.json"
+  },
+  {
     "game": "Far_Cry__4",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC3",
     "timestamp": 1783218591,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX2111-Mali-G57_MC3-1783218591.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC3",
-    "timestamp": 1783218584,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX2111-Mali-G57_MC3-1783218584.json"
   }
 ]
