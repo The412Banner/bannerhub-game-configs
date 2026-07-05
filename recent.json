@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades_II",
+    "manufacturer": "24117RK2CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1783259567,
+    "filename": "Hades_II-Xiaomi-24117RK2CG-Adreno__TM__750-1783259567.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "220333QAG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1783240219,
     "filename": "Sleeping_Dogs_-ayn-Odin3-Adreno__TM__830-1783240219.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1783238123,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-Xiaomi-23113RKC6G-Adreno__TM__740-1783238123.json"
   }
 ]
