@@ -1,5 +1,12 @@
 [
   {
+    "game": "Days_Gone___________________________________________________",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1783237069,
+    "filename": "Days_Gone___________________________________________________-Xiaomi-2312DRA50G-Adreno__TM__710-1783237069.json"
+  },
+  {
     "game": "Grocery_Store_Simulator",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1783216938,
     "filename": "Divinity__Original_Sin_-_Enhanced_Edition-nubia-NX809J-Adreno__TM__840-1783216938.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "MI_8_Lite",
-    "device": "Adreno__TM__512",
-    "timestamp": 1783216865,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-MI_8_Lite-Adreno__TM__512-1783216865.json"
   }
 ]
