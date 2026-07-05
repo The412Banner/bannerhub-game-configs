@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1783282113,
+    "filename": "Need_for_Speed_9-OnePlus-CPH2747-Adreno__TM__840-1783282113.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "RMX3472",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1783271345,
     "filename": "Watch_Dogs_-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1783271345.json"
-  },
-  {
-    "game": "7Launcher_-_GTA_5_1_7_0_7___________________________________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783266434,
-    "filename": "7Launcher_-_GTA_5_1_7_0_7___________________________________-vivo-V2420-Mali-G57_MC2-1783266434.json"
   }
 ]
