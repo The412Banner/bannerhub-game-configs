@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783323831,
+    "filename": "BootstrapPackagedGame-samsung-SM-A075F-Mali-G57_MC2-1783323831.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "motorola_edge_20_pro",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1783298431,
     "filename": "Resident_Evil_2-samsung-SM-A366E-Adreno__TM__710-1783298431.json"
-  },
-  {
-    "game": "E",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783296637,
-    "filename": "E-Fortune_Ship-Wildfire_E5_Plus-Mali-G57-1783296637.json"
   }
 ]
