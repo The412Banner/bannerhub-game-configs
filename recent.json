@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "F766B",
+    "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
+    "timestamp": 1783350416,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-samsung-SM-F766B-ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_-1783350416.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783335534,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2310FPCA4G-Mali-G52_MC2-1783335534.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2014_DEMO",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783334781,
-    "filename": "Pro_Evolution_Soccer_2014_DEMO-INFINIX-Infinix_X6531B-Mali-G52_MC2-1783334781.json"
   }
 ]
