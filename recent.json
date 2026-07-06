@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Rogue",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783319044,
+    "filename": "Assassin_s_Creed__Rogue-Xiaomi-2410FPCC5G-Mali-G52_MC2-1783319044.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783294390,
     "filename": "FIFA_14-realme-RMX3491-Adreno__TM__610-1783294390.json"
-  },
-  {
-    "game": "OpenIV",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1783293572,
-    "filename": "OpenIV-motorola-motorola_edge_60_pro-Mali-G615_MC6-1783293572.json"
   }
 ]
