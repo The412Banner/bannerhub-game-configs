@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Definitive_Edition",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1783336372,
+    "filename": "Mafia_II__Definitive_Edition-Moorechip-Retroid_Pocket_Flip2__D1100_-Mali-G77_MC9-1783336372.json"
+  },
+  {
     "game": "The_Riftbreaker_",
     "manufacturer": "21121210G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1783304925,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1783304925.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783303943,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A055F-Mali-G52_MC2-1783303943.json"
   }
 ]
