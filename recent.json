@@ -1,5 +1,12 @@
 [
   {
+    "game": "Moonlighter",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1783364851,
+    "filename": "Moonlighter-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783364851.json"
+  },
+  {
     "game": "Launcher",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783349776,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CG-Mali-G52_MC2-1783349776.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1783349767,
-    "filename": "Resident_Evil_4-Xiaomi-25053PC47G-Adreno__TM__825-1783349767.json"
   }
 ]
