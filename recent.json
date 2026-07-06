@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2014",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783381755,
+    "filename": "Pro_Evolution_Soccer_2014-INFINIX-Infinix_X6531B-Mali-G52_MC2-1783381755.json"
+  },
+  {
     "game": "gta-vc",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783358431,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_10_-Adreno__TM__610-1783358431.json"
-  },
-  {
-    "game": "l2_gri",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1783357804,
-    "filename": "l2_gri-motorola-moto_g75_5G-Adreno__TM__710-1783357804.json"
   }
 ]
