@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783313660,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_KI5k-Mali-G57-1783313660.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g_30_",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1783292881,
     "filename": "DRAGON_BALL_XENOVERSE_2-Xiaomi-2510DPC44G-Adreno__TM__830-1783292881.json"
-  },
-  {
-    "game": "LEGO__Marvel__Super_Heroes",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1783292792,
-    "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-25080RABDG-Mali-G615_MC2-1783292792.json"
   }
 ]
