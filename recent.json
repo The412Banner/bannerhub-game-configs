@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ultra_Street_Fighter__IV",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783357617,
+    "filename": "Ultra_Street_Fighter__IV-TECNO-TECNO_LH7n-Mali-G57_MC2-1783357617.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1783338899,
     "filename": "____Z-HONOR-VKP-NX9-Adreno__TM__830-1783338899.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V____",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__830",
-    "timestamp": 1783338882,
-    "filename": "Grand_Theft_Auto_V____-HONOR-VKP-NX9-Adreno__TM__830-1783338882.json"
   }
 ]
