@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta-vc",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783380461,
+    "filename": "gta-vc-Xiaomi-23129RA5FL-Adreno__TM__610-1783380461.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1783357804,
     "filename": "l2_gri-motorola-moto_g75_5G-Adreno__TM__710-1783357804.json"
-  },
-  {
-    "game": "Ultra_Street_Fighter__IV",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783357617,
-    "filename": "Ultra_Street_Fighter__IV-TECNO-TECNO_LH7n-Mali-G57_MC2-1783357617.json"
   }
 ]
