@@ -3,6 +3,13 @@
     "game": "Halo",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1783383077,
+    "filename": "Halo-vivo-V2351-Mali-G57_MC2-1783383077.json"
+  },
+  {
+    "game": "Halo",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1783382870,
     "filename": "Halo-vivo-V2351-Mali-G57_MC2-1783382870.json"
   },
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1783357505,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G991B-Mali-G78-1783357505.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783357087,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24049RN28L-Mali-G52_MC2-1783357087.json"
   }
 ]
