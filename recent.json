@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta_ss",
+    "manufacturer": "SL219C",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1783336684,
+    "filename": "gta_ss-Coosea-SL219C-PowerVR_Rogue_GE8320-1783336684.json"
+  },
+  {
     "game": "Mafia_II__Definitive_Edition",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1783305154,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22111317PG-Adreno__TM__619-1783305154.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1783304925,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1783304925.json"
   }
 ]
