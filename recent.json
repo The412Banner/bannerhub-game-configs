@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783371463,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_KI5k-Mali-G57-1783371463.json"
+  },
+  {
     "game": "CS2D",
     "manufacturer": "Redmi_Note_8",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1783352772,
     "filename": "SuccubusSuccessor-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783352772.json"
-  },
-  {
-    "game": "Pacer",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1783351598,
-    "filename": "Pacer-AYN-Odin2_Portal-Adreno__TM__740-1783351598.json"
   }
 ]
