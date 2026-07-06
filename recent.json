@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1783298431,
+    "filename": "Resident_Evil_2-samsung-SM-A366E-Adreno__TM__710-1783298431.json"
+  },
+  {
     "game": "E",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1783277687,
     "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-25053PC47G-Adreno__TM__825-1783277687.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1783276538,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1783276538.json"
   }
 ]
