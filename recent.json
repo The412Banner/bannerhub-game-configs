@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783355920,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1783355920.json"
+  },
+  {
     "game": "Resident_Evil_Requiem",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783338305,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NIC-LX2-Mali-G52_MC2-1783338305.json"
-  },
-  {
-    "game": "Counter-Strike_2",
-    "manufacturer": "24030PN60G",
-    "device": "Adreno__TM__750",
-    "timestamp": 1783337109,
-    "filename": "Counter-Strike_2-Xiaomi-24030PN60G-Adreno__TM__750-1783337109.json"
   }
 ]
