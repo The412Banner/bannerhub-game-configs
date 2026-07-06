@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783363371,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1783363371.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "S928U",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1783349538,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_60_neo-Mali-G615_MC2-1783349538.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1783347892,
-    "filename": "PlayGTAV-nubia-NX809J-Adreno__TM__840-1783347892.json"
   }
 ]
