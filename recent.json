@@ -1,5 +1,12 @@
 [
   {
+    "game": "Launcher",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1783363765,
+    "filename": "Launcher-Xiaomi-2312DRA50G-Adreno__TM__710-1783363765.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1783349767,
     "filename": "Resident_Evil_4-Xiaomi-25053PC47G-Adreno__TM__825-1783349767.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1783349538,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_60_neo-Mali-G615_MC2-1783349538.json"
   }
 ]
