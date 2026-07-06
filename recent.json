@@ -1,5 +1,12 @@
 [
   {
+    "game": "CS2D",
+    "manufacturer": "Redmi_Note_8",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783370385,
+    "filename": "CS2D-Xiaomi-Redmi_Note_8-Adreno__TM__610-1783370385.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783351598,
     "filename": "Pacer-AYN-Odin2_Portal-Adreno__TM__740-1783351598.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "F766B",
-    "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
-    "timestamp": 1783350416,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-samsung-SM-F766B-ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_-1783350416.json"
   }
 ]
