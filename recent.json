@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783381114,
+    "filename": "DRAGON_BALL_FighterZ-vivo-V2351-Mali-G57_MC2-1783381114.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1783353756,
     "filename": "Resident_Evil_Requiem-Xiaomi-25053PC47G-Adreno__TM__825-1783353756.json"
-  },
-  {
-    "game": "BeamNG_drive",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783353349,
-    "filename": "BeamNG_drive-samsung-SM-A065M-Mali-G52_MC2-1783353349.json"
   }
 ]
