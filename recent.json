@@ -1,5 +1,12 @@
 [
   {
+    "game": "Counter-Strike_2",
+    "manufacturer": "24030PN60G",
+    "device": "Adreno__TM__750",
+    "timestamp": 1783337109,
+    "filename": "Counter-Strike_2-Xiaomi-24030PN60G-Adreno__TM__750-1783337109.json"
+  },
+  {
     "game": "gta_ss",
     "manufacturer": "SL219C",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1783307228,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25053PC47G-Adreno__TM__825-1783307228.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "22111317PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1783305154,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22111317PG-Adreno__TM__619-1783305154.json"
   }
 ]
