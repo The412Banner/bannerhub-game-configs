@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_SPORTS_FC__26_SHOWCASE",
+    "manufacturer": "CPH1941",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783340589,
+    "filename": "EA_SPORTS_FC__26_SHOWCASE-OPPO-CPH1941-Adreno__TM__610-1783340589.json"
+  },
+  {
     "game": "__8",
     "manufacturer": "NX9",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783316856,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_KI5k-Mali-G57-1783316856.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783313660,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_KI5k-Mali-G57-1783313660.json"
   }
 ]
