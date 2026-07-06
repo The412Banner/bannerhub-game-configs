@@ -1,5 +1,12 @@
 [
   {
+    "game": "BEYBLADE_X_EVOBATTLE",
+    "manufacturer": "Pocket_S",
+    "device": "Adreno__TM__740",
+    "timestamp": 1783331338,
+    "filename": "BEYBLADE_X_EVOBATTLE-AYANEO-Pocket_S-Adreno__TM__740-1783331338.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783300366,
     "filename": "Resident_Evil_5-realme-RMX3760-Mali-G57-1783300366.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1783299794,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1783299794.json"
   }
 ]
