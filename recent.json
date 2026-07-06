@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783365605,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3941-Mali-G52_MC2-1783365605.json"
+  },
+  {
     "game": "Moonlighter",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
     "timestamp": 1783350416,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-samsung-SM-F766B-ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_-1783350416.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783349776,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CG-Mali-G52_MC2-1783349776.json"
   }
 ]
