@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1783349767,
+    "filename": "Resident_Evil_4-Xiaomi-25053PC47G-Adreno__TM__825-1783349767.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783331338,
     "filename": "BEYBLADE_X_EVOBATTLE-AYANEO-Pocket_S-Adreno__TM__740-1783331338.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783323904,
-    "filename": "BootstrapPackagedGame-samsung-SM-A075F-Mali-G57_MC2-1783323904.json"
   }
 ]
