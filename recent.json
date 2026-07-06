@@ -1,5 +1,12 @@
 [
   {
+    "game": "l2_gri",
+    "manufacturer": "moto_g75_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1783357804,
+    "filename": "l2_gri-motorola-moto_g75_5G-Adreno__TM__710-1783357804.json"
+  },
+  {
     "game": "Ultra_Street_Fighter__IV",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1783339026,
     "filename": "__8-HONOR-VKP-NX9-Adreno__TM__830-1783339026.json"
-  },
-  {
-    "game": "____Z",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__830",
-    "timestamp": 1783338899,
-    "filename": "____Z-HONOR-VKP-NX9-Adreno__TM__830-1783338899.json"
   }
 ]
