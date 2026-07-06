@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1783347892,
+    "filename": "PlayGTAV-nubia-NX809J-Adreno__TM__840-1783347892.json"
+  },
+  {
     "game": "Watch_Dogs__2",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783323831,
     "filename": "BootstrapPackagedGame-samsung-SM-A075F-Mali-G57_MC2-1783323831.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "motorola_edge_20_pro",
-    "device": "Adreno__TM__650",
-    "timestamp": 1783323683,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-motorola-motorola_edge_20_pro-Adreno__TM__650-1783323683.json"
   }
 ]
