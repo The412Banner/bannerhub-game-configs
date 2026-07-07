@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g75_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1783384981,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g75_5G-Adreno__TM__710-1783384981.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "I2218",
     "device": "Adreno__TM__720",
     "timestamp": 1783383609,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783363371,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1783363371.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "S928U",
-    "device": "Adreno__TM__750",
-    "timestamp": 1783363341,
-    "filename": "Mortal_Kombat_Komplete_Edition-samsung-SM-S928U-Adreno__TM__750-1783363341.json"
   }
 ]
