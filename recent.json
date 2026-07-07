@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783441605,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23021RAAEG-Adreno__TM__610-1783441605.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G720_MC7",
     "timestamp": 1783440167,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1783423127,
     "filename": "Minishoot__Adventures-AYANEO-Pocket_FIT-Adreno__TM__750-1783423127.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "CPH2363",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783422072,
-    "filename": "PlayGTAV-OPPO-CPH2363-Adreno__TM__610-1783422072.json"
   }
 ]
