@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783447722,
+    "filename": "Resident_Evil_6-realme-RMX3760-Mali-G57-1783447722.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "S906E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783432288,
     "filename": "Pro_Evolution_Soccer_2017-TECNO-TECNO_LH8n-Mali-G57_MC2-1783432288.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783434424,
-    "filename": "Hollow_Knight__Silksong-vivo-V2351-Mali-G57_MC2-1783434424.json"
   }
 ]
