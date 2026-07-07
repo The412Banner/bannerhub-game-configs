@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Brotherhood",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783388760,
+    "filename": "Assassin_s_Creed__Brotherhood-realme-RMX5303-Mali-G57-1783388760.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783377547,
     "filename": "unins000-Xiaomi-220333QAG-Adreno__TM__610-1783377547.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783381114,
-    "filename": "DRAGON_BALL_FighterZ-vivo-V2351-Mali-G57_MC2-1783381114.json"
   }
 ]
