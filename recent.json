@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783414865,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6885-Mali-G57_MC2-1783414865.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1783389031,
     "filename": "Overlord_-Xiaomi-23122PCD1I-Adreno__TM__710-1783389031.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Brotherhood",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783388760,
-    "filename": "Assassin_s_Creed__Brotherhood-realme-RMX5303-Mali-G57-1783388760.json"
   }
 ]
