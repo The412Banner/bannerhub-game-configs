@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783405395,
+    "filename": "eFootball_-samsung-SM-A315G-Mali-G52_MC2-1783405395.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A528B",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1783387716,
     "filename": "Tomb_Raider-samsung-SM-G780G-Adreno__TM__650-1783387716.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1783387067,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S918B-Adreno__TM__740-1783387067.json"
   }
 ]
