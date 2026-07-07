@@ -1,5 +1,12 @@
 [
   {
+    "game": "Trine_5__A_Clockwork_Conspiracy",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1783415055,
+    "filename": "Trine_5__A_Clockwork_Conspiracy-LENOVO-TB321FU-Adreno__TM__750-1783415055.json"
+  },
+  {
     "game": "Trine_4__The_Nightmare_Prince",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783390806,
     "filename": "FlatOut_Ultimate_Carnage-AYN-Odin2_Portal-Adreno__TM__740-1783390806.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783389443,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2103K19PG-Mali-G57_MC2-1783389443.json"
   }
 ]
