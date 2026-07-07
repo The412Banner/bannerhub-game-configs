@@ -1,5 +1,12 @@
 [
   {
+    "game": "Torque_Game_Builder",
+    "manufacturer": "CPH2631",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783457243,
+    "filename": "Torque_Game_Builder-OPPO-CPH2631-Adreno__TM__610-1783457243.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783438053,
     "filename": "Pes2013-samsung-SM-A065M-Mali-G52_MC2-1783438053.json"
-  },
-  {
-    "game": "Bus_Driving_Sim_22",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1783436839,
-    "filename": "Bus_Driving_Sim_22-Xiaomi-2412DPC0AI-Mali-G720_MC7-1783436839.json"
   }
 ]
