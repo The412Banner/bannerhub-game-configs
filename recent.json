@@ -1,5 +1,12 @@
 [
   {
+    "game": "Solateria",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1783415024,
+    "filename": "Solateria-LENOVO-TB321FU-Adreno__TM__750-1783415024.json"
+  },
+  {
     "game": "Bioshock",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783389391,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S916B-Adreno__TM__740-1783389391.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1783389351,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783389351.json"
   }
 ]
