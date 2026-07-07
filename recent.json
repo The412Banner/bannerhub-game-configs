@@ -1,5 +1,12 @@
 [
   {
+    "game": "4gb_patch",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783415929,
+    "filename": "4gb_patch-TECNO-TECNO_KI5m-Mali-G57-1783415929.json"
+  },
+  {
     "game": "Trine_5__A_Clockwork_Conspiracy",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783391079,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2727-Adreno__TM__610-1783391079.json"
-  },
-  {
-    "game": "FlatOut_Ultimate_Carnage",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1783390806,
-    "filename": "FlatOut_Ultimate_Carnage-AYN-Odin2_Portal-Adreno__TM__740-1783390806.json"
   }
 ]
