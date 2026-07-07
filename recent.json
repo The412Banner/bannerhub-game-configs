@@ -1,5 +1,12 @@
 [
   {
+    "game": "GoW",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1783468073,
+    "filename": "GoW-samsung-SM-S911B-Adreno__TM__740-1783468073.json"
+  },
+  {
     "game": "Just_Cause_2",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783449729,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2410FPCC5G-Mali-G52_MC2-1783449729.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783447722,
-    "filename": "Resident_Evil_6-realme-RMX3760-Mali-G57-1783447722.json"
   }
 ]
