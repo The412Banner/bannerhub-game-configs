@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783435166,
+    "filename": "Pro_Evolution_Soccer_2017-TECNO-TECNO_LH8n-Mali-G57_MC2-1783435166.json"
+  },
+  {
     "game": "FINAL_FANTASY_VIII_-_REMASTERED",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783414865,
     "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6885-Mali-G57_MC2-1783414865.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1783414811,
-    "filename": "Resident_Evil_5-motorola-moto_g34_5G-Adreno__TM__619-1783414811.json"
   }
 ]
