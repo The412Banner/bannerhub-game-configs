@@ -1,5 +1,12 @@
 [
   {
+    "game": "Injustice",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1783427244,
+    "filename": "Injustice-OPPO-CPH2625-Mali-G615_MC2-1783427244.json"
+  },
+  {
     "game": "Created_with_GameMaker_Studio_2",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1783401231,
     "filename": "Resident_Evil_3-samsung-SM-S948B-Adreno__TM__840-1783401231.json"
-  },
-  {
-    "game": "Resident_Evil_Village",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1783399553,
-    "filename": "Resident_Evil_Village-INFINIX-Infinix_X6873-Mali-G615_MC6-1783399553.json"
   }
 ]
