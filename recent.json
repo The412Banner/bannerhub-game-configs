@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lucky_Tower_Ultimate",
+    "manufacturer": "moto_g_8__power_lite",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1783383004,
+    "filename": "Lucky_Tower_Ultimate-motorola-moto_g_8__power_lite-PowerVR_Rogue_GE8320-1783383004.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783362305,
     "filename": "The_Lost_Village-nubia-NX729J-Adreno__TM__740-1783362305.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "NX3",
-    "device": "Adreno__TM__619",
-    "timestamp": 1783359334,
-    "filename": "The_Elder_Scrolls_V__Skyrim-HONOR-LGN-NX3-Adreno__TM__619-1783359334.json"
   }
 ]
