@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_2",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1783467469,
+    "filename": "Just_Cause_2-samsung-SM-S911B-Adreno__TM__740-1783467469.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783447722,
     "filename": "Resident_Evil_6-realme-RMX3760-Mali-G57-1783447722.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "S906E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1783444692,
-    "filename": "Need_for_Speed_9-samsung-SM-S906E-Adreno__TM__730-1783444692.json"
   }
 ]
