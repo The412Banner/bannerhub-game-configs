@@ -1,5 +1,12 @@
 [
   {
+    "game": "LOLLIPOP_CHAINSAW_RePOP",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1783450097,
+    "filename": "LOLLIPOP_CHAINSAW_RePOP-ayn-Odin3-Adreno__TM__830-1783450097.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "moto_g85_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783435166,
     "filename": "Pro_Evolution_Soccer_2017-TECNO-TECNO_LH8n-Mali-G57_MC2-1783435166.json"
-  },
-  {
-    "game": "FINAL_FANTASY_VIII_-_REMASTERED",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1783435108,
-    "filename": "FINAL_FANTASY_VIII_-_REMASTERED-vivo-I2405-Adreno__TM__825-1783435108.json"
   }
 ]
