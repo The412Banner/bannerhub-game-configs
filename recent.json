@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fallout_4",
+    "manufacturer": "AN00",
+    "device": "Adreno__TM__830",
+    "timestamp": 1783436817,
+    "filename": "Fallout_4-HONOR-AAK-AN00-Adreno__TM__830-1783436817.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1783415038,
     "filename": "Trine_4__The_Nightmare_Prince-LENOVO-TB321FU-Adreno__TM__750-1783415038.json"
-  },
-  {
-    "game": "Solateria",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1783415024,
-    "filename": "Solateria-LENOVO-TB321FU-Adreno__TM__750-1783415024.json"
   }
 ]
