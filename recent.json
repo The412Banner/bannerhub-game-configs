@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "S906E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1783444692,
+    "filename": "Need_for_Speed_9-samsung-SM-S906E-Adreno__TM__730-1783444692.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "G996U",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783434424,
     "filename": "Hollow_Knight__Silksong-vivo-V2351-Mali-G57_MC2-1783434424.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "25062RN2DY",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783429994,
-    "filename": "Far_Cry_3-Xiaomi-25062RN2DY-Adreno__TM__610-1783429994.json"
   }
 ]
