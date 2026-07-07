@@ -1,5 +1,12 @@
 [
   {
+    "game": "GIANTS_Engine",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1783382611,
+    "filename": "GIANTS_Engine-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783382611.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2014",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1783359227,
     "filename": "The_Elder_Scrolls_V__Skyrim-HONOR-LGN-NX3-Adreno__TM__619-1783359227.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g_10_",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783358431,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_10_-Adreno__TM__610-1783358431.json"
   }
 ]
