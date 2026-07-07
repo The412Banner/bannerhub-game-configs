@@ -1,5 +1,12 @@
 [
   {
+    "game": "MONSTER_HUNTER_RISE",
+    "manufacturer": "H0",
+    "device": "Adreno__TM__730",
+    "timestamp": 1783425551,
+    "filename": "MONSTER_HUNTER_RISE-blackshark-SHARK_KTUS-H0-Adreno__TM__730-1783425551.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1783397295,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1783397295.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1783395035,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A266M-Mali-G68-1783395035.json"
   }
 ]
