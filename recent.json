@@ -1,5 +1,12 @@
 [
   {
+    "game": "NVIDIA_PhysX",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1783443877,
+    "filename": "NVIDIA_PhysX-samsung-SM-S928B-Adreno__TM__750-1783443877.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2______________________________________",
     "manufacturer": "2109119DG",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1783427244,
     "filename": "Injustice-OPPO-CPH2625-Mali-G615_MC2-1783427244.json"
-  },
-  {
-    "game": "Created_with_GameMaker_Studio_2",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1783426943,
-    "filename": "Created_with_GameMaker_Studio_2-samsung-SM-A546E-Mali-G68-1783426943.json"
   }
 ]
