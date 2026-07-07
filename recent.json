@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1783394489,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A266M-Mali-G68-1783394489.json"
+  },
+  {
     "game": "LEGO__Marvel__Super_Heroes",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1783383004,
     "filename": "Lucky_Tower_Ultimate-motorola-moto_g_8__power_lite-PowerVR_Rogue_GE8320-1783383004.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1783382925,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g75_5G-Adreno__TM__710-1783382925.json"
   }
 ]
