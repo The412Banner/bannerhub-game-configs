@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1783392995,
+    "filename": "God_of_War-Xiaomi-2511FPC34G-Mali-G720_MC8-1783392995.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH2727",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1783382611,
     "filename": "GIANTS_Engine-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783382611.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2014",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783381755,
-    "filename": "Pro_Evolution_Soccer_2014-INFINIX-Infinix_X6531B-Mali-G52_MC2-1783381755.json"
   }
 ]
