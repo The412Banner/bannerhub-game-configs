@@ -1,5 +1,12 @@
 [
   {
+    "game": "EasyAntiCheat_Launcher",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1783406525,
+    "filename": "EasyAntiCheat_Launcher-Xiaomi-2511FPC34G-Mali-G720_MC8-1783406525.json"
+  },
+  {
     "game": "eFootball_",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783387858,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-F731B-Adreno__TM__740-1783387858.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1783387716,
-    "filename": "Tomb_Raider-samsung-SM-G780G-Adreno__TM__650-1783387716.json"
   }
 ]
