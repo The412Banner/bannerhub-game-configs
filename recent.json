@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pes2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783438053,
+    "filename": "Pes2013-samsung-SM-A065M-Mali-G52_MC2-1783438053.json"
+  },
+  {
     "game": "Bus_Driving_Sim_22",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783415929,
     "filename": "4gb_patch-TECNO-TECNO_KI5m-Mali-G57-1783415929.json"
-  },
-  {
-    "game": "Trine_5__A_Clockwork_Conspiracy",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1783415055,
-    "filename": "Trine_5__A_Clockwork_Conspiracy-LENOVO-TB321FU-Adreno__TM__750-1783415055.json"
   }
 ]
