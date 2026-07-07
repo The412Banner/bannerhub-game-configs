@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2______________________________________",
+    "manufacturer": "2109119DG",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1783443454,
+    "filename": "Euro_Truck_Simulator_2______________________________________-Xiaomi-2109119DG-Adreno__TM__642L-1783443454.json"
+  },
+  {
     "game": "Pes2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1783426943,
     "filename": "Created_with_GameMaker_Studio_2-samsung-SM-A546E-Mali-G68-1783426943.json"
-  },
-  {
-    "game": "MONSTER_HUNTER_RISE",
-    "manufacturer": "H0",
-    "device": "Adreno__TM__730",
-    "timestamp": 1783425551,
-    "filename": "MONSTER_HUNTER_RISE-blackshark-SHARK_KTUS-H0-Adreno__TM__730-1783425551.json"
   }
 ]
