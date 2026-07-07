@@ -1,5 +1,12 @@
 [
   {
+    "game": "farcray_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1783468550,
+    "filename": "farcray_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1783468550.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013___________________________________",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1783450097,
     "filename": "LOLLIPOP_CHAINSAW_RePOP-ayn-Odin3-Adreno__TM__830-1783450097.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "moto_g85_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1783449967,
-    "filename": "Euro_Truck_Simulator_2-motorola-moto_g85_5G-Adreno__TM__619-1783449967.json"
   }
 ]
