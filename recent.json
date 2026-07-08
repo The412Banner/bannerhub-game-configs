@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783478483,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1783478483.json"
+  },
+  {
     "game": "Ni_no_Kuni__Wrath_of_the_White_Witch__Remastered",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783461652,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2212ARNC4L-Mali-G52_MC2-1783461652.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Revelations",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783461081,
-    "filename": "Assassin_s_Creed__Revelations-realme-RMX3760-Mali-G57-1783461081.json"
   }
 ]
