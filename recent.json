@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2012",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1783504317,
+    "filename": "Pro_Evolution_Soccer_2012-samsung-SM-A145M-Mali-G52-1783504317.json"
+  },
+  {
     "game": "Pes2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783469855,
     "filename": "The_Sims__4-motorola-moto_g06-Mali-G52_MC2-1783469855.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783469342,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1783469342.json"
   }
 ]
