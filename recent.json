@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1783530788,
+    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1783530788.json"
+  },
+  {
     "game": "PES2017_Play_Disini",
     "manufacturer": "NX729J",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783512445,
     "filename": "PlayGTAV-OPPO-CPH2363-Adreno__TM__610-1783512445.json"
-  },
-  {
-    "game": "Ultimate_Spiderman",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783512101,
-    "filename": "Ultimate_Spiderman-vivo-V2420-Mali-G57_MC2-1783512101.json"
   }
 ]
