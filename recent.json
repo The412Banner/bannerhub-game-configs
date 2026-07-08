@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "2201117TL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783551983,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TL-Adreno__TM__610-1783551983.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1783550711,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1783534975,
     "filename": "The_Witcher_3__Wild_Hunt-samsung-SM-S936B-Adreno__TM__830-1783534975.json"
-  },
-  {
-    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1783530788,
-    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1783530788.json"
   }
 ]
