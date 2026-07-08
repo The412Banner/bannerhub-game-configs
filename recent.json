@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1783500225,
+    "filename": "Need_for_Speed_9-Xiaomi-2311DRK48G-Mali-G615_MC6-1783500225.json"
+  },
+  {
     "game": "___________",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__644",
     "timestamp": 1783468951,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M556B-Adreno__TM__644-1783468951.json"
-  },
-  {
-    "game": "farcray_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1783468550,
-    "filename": "farcray_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1783468550.json"
   }
 ]
