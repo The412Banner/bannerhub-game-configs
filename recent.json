@@ -1,5 +1,12 @@
 [
   {
+    "game": "DyingLight",
+    "manufacturer": "LE2121",
+    "device": "Adreno__TM__660",
+    "timestamp": 1783504655,
+    "filename": "DyingLight-OnePlus-LE2121-Adreno__TM__660-1783504655.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2012",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783470594,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2727-Adreno__TM__610-1783470594.json"
-  },
-  {
-    "game": "The_Sims__4",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783469855,
-    "filename": "The_Sims__4-motorola-moto_g06-Mali-G52_MC2-1783469855.json"
   }
 ]
