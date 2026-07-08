@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES2017_Play_Disini",
+    "manufacturer": "NX729J",
+    "device": "Adreno__TM__740",
+    "timestamp": 1783528374,
+    "filename": "PES2017_Play_Disini-nubia-NX729J-Adreno__TM__740-1783528374.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783512101,
     "filename": "Ultimate_Spiderman-vivo-V2420-Mali-G57_MC2-1783512101.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783509220,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1783509220.json"
   }
 ]
