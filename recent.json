@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_Playtime",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783540105,
+    "filename": "Poppy_Playtime-Xiaomi-23106RN0DA-Mali-G52_MC2-1783540105.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "G996U",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1783518936,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-HEY3-W00-Adreno__TM__720-1783518936.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783518825,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_KI5k-Mali-G57-1783518825.json"
   }
 ]
