@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783509220,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1783509220.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G720_MC7",
     "timestamp": 1783508744,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783508744.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1783478977,
     "filename": "Starship_Troopers__Ultimate_Bug_War_-AYANEO-Pocket_FIT-Adreno__TM__750-1783478977.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783478483,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1783478483.json"
   }
 ]
