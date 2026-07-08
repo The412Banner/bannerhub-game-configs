@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783546943,
+    "filename": "DRAGON_BALL_FighterZ-ITEL-itel_S666LN-Mali-G57_MC2-1783546943.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "moto_g_9__play",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1783523961,
     "filename": "Configura__o_do_pes_2013-samsung-SM-A146M-Mali-G68-1783523961.json"
-  },
-  {
-    "game": "PES_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783521340,
-    "filename": "PES_2013-samsung-SM-A065M-Mali-G52_MC2-1783521340.json"
   }
 ]
