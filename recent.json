@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783483422,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23021RAAEG-Adreno__TM__610-1783483422.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783463048,
     "filename": "BootstrapPackagedGame-Xiaomi-220333QAG-Adreno__TM__610-1783463048.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783461670,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2212ARNC4L-Mali-G52_MC2-1783461670.json"
   }
 ]
