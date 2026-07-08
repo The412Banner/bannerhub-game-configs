@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1783471552,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783471552.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH2727",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783457243,
     "filename": "Torque_Game_Builder-OPPO-CPH2631-Adreno__TM__610-1783457243.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1783457063,
-    "filename": "Resident_Evil_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783457063.json"
   }
 ]
