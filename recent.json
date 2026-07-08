@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ni_no_Kuni__Wrath_of_the_White_Witch__Remastered",
+    "manufacturer": "I2405",
+    "device": "Adreno__TM__825",
+    "timestamp": 1783477502,
+    "filename": "Ni_no_Kuni__Wrath_of_the_White_Witch__Remastered-vivo-I2405-Adreno__TM__825-1783477502.json"
+  },
+  {
     "game": "Simpsons_Hit___Run__TM_",
     "manufacturer": "S908E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783461081,
     "filename": "Assassin_s_Creed__Revelations-realme-RMX3760-Mali-G57-1783461081.json"
-  },
-  {
-    "game": "Blasphemous_2",
-    "manufacturer": "A528B",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1783458969,
-    "filename": "Blasphemous_2-samsung-SM-A528B-Adreno__TM__642L-1783458969.json"
   }
 ]
