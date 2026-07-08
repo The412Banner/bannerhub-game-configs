@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_3__Wild_Hunt",
+    "manufacturer": "S936B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1783534975,
+    "filename": "The_Witcher_3__Wild_Hunt-samsung-SM-S936B-Adreno__TM__830-1783534975.json"
+  },
+  {
     "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783512511,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1783512511.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "CPH2363",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783512445,
-    "filename": "PlayGTAV-OPPO-CPH2363-Adreno__TM__610-1783512445.json"
   }
 ]
