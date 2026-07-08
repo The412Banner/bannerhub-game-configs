@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "CPH2363",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783512445,
+    "filename": "PlayGTAV-OPPO-CPH2363-Adreno__TM__610-1783512445.json"
+  },
+  {
     "game": "Ultimate_Spiderman",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783481272,
     "filename": "Resident_Evil_3-samsung-SM-A155M-Mali-G57_MC2-1783481272.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23021RAAEG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783481175,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23021RAAEG-Adreno__TM__610-1783481175.json"
   }
 ]
