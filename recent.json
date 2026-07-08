@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Elder_Scrolls_V__Skyrim",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1783554826,
+    "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2412DPC0AI-Mali-G720_MC7-1783554826.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "motorola_edge_70",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1783537095,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g84_5G-Adreno__TM__619-1783537095.json"
-  },
-  {
-    "game": "Felvidek",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783535820,
-    "filename": "Felvidek-Anbernic-RG_406H-Mali-G57-1783535820.json"
   }
 ]
