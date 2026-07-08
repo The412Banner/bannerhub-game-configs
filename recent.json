@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g_30_",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783535623,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_30_-Adreno__TM__610-1783535623.json"
+  },
+  {
     "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__644",
     "timestamp": 1783514308,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M556B-Adreno__TM__644-1783514308.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1783512876,
-    "filename": "Far_Cry_3-Xiaomi-25053PC47G-Adreno__TM__825-1783512876.json"
   }
 ]
