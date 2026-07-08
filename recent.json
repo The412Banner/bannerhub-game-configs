@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Sims__4",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783469855,
+    "filename": "The_Sims__4-motorola-moto_g06-Mali-G52_MC2-1783469855.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1783454509,
     "filename": "Watch_Dogs__2-samsung-SM-S901E-Adreno__TM__730-1783454509.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783454100,
-    "filename": "TheAmazingSpider-Man-Xiaomi-25078RA3EL-Mali-G52_MC2-1783454100.json"
   }
 ]
