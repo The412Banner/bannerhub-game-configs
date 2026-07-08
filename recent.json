@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Rogue",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783547541,
+    "filename": "Assassin_s_Creed__Rogue-Xiaomi-23117RA68G-Mali-G57_MC2-1783547541.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783524137,
     "filename": "Red_Dead_Redemption-motorola-moto_g15-Mali-G52_MC2-1783524137.json"
-  },
-  {
-    "game": "Configura__o_do_pes_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1783523961,
-    "filename": "Configura__o_do_pes_2013-samsung-SM-A146M-Mali-G68-1783523961.json"
   }
 ]
