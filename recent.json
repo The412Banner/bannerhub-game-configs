@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783554186,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A145R-Mali-G52_MC2-1783554186.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "motorola_edge_70",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1783535659,
     "filename": "The_Witcher_3__Wild_Hunt-samsung-SM-S936B-Adreno__TM__830-1783535659.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g_30_",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783535623,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_30_-Adreno__TM__610-1783535623.json"
   }
 ]
