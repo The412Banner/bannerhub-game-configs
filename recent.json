@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783621779,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A075M-Mali-G57_MC2-1783621779.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Enhanced",
     "manufacturer": "25053PC47I",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1783602403,
     "filename": "Just_Cause_2-Xiaomi-M2012K11AG-Adreno__TM__650-1783602403.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "2510ERA8BG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1783601261,
-    "filename": "Resident_Evil_5-Xiaomi-2510ERA8BG-Adreno__TM__810-1783601261.json"
   }
 ]
