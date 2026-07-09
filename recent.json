@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "M2007J3SY",
+    "device": "Adreno__TM__650",
+    "timestamp": 1783565793,
+    "filename": "Left_4_Dead_2-Xiaomi-M2007J3SY-Adreno__TM__650-1783565793.json"
+  },
+  {
     "game": "SILENT_HILL_3",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783550327,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1783550327.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1783549073,
-    "filename": "Sleeping_Dogs-Xiaomi-23049PCD8G-Adreno__TM__725-1783549073.json"
   }
 ]
