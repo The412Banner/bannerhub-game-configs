@@ -1,5 +1,12 @@
 [
   {
+    "game": "GameHubManager",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783591757,
+    "filename": "GameHubManager-INFINIX-Infinix_X6882-Mali-G57_MC2-1783591757.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1783560848,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1783560848.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "itel_A667LP",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1783558466,
-    "filename": "Grand_Theft_Auto_V_Legacy-ITEL-itel_A667LP-PowerVR_Rogue_GE8322-1783558466.json"
   }
 ]
