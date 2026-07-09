@@ -1,5 +1,12 @@
 [
   {
+    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783564054,
+    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-samsung-SM-A057M-Adreno__TM__610-1783564054.json"
+  },
+  {
     "game": "need_for_speedunderground_2",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783546943,
     "filename": "DRAGON_BALL_FighterZ-ITEL-itel_S666LN-Mali-G57_MC2-1783546943.json"
-  },
-  {
-    "game": "Resident_Evil_4__2005_",
-    "manufacturer": "moto_g_9__play",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783544289,
-    "filename": "Resident_Evil_4__2005_-motorola-moto_g_9__play-Adreno__TM__610-1783544289.json"
   }
 ]
