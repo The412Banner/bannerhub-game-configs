@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_2",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1783602403,
+    "filename": "Just_Cause_2-Xiaomi-M2012K11AG-Adreno__TM__650-1783602403.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "2510ERA8BG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1783564401,
     "filename": "Mortal_Kombat_Komplete_Edition-HONOR-VNE-LX3-PowerVR_Rogue_GE8320-1783564401.json"
-  },
-  {
-    "game": "Spider-Man_3",
-    "manufacturer": "moto_g71_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1783564067,
-    "filename": "Spider-Man_3-motorola-moto_g71_5G-Adreno__TM__619-1783564067.json"
   }
 ]
