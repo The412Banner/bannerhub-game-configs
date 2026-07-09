@@ -1,5 +1,12 @@
 [
   {
+    "game": "Kmotr__II",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1783596909,
+    "filename": "Kmotr__II-ayn-Odin3-Adreno__TM__830-1783596909.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2201117TL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783564026,
     "filename": "Need_for_Speed_most_wanted_black-samsung-SM-A057M-Adreno__TM__610-1783564026.json"
-  },
-  {
-    "game": "MARVEL_Cosmic_Invasion",
-    "manufacturer": "Mali",
-    "device": "G72",
-    "timestamp": 1783563828,
-    "filename": "MARVEL_Cosmic_Invasion-samsung-SM-A515F-Mali-G72-1783563828.json"
   }
 ]
