@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed_________",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1783625936,
+    "filename": "Assassin_s_Creed_________-AYN-Odin2_Portal-Adreno__TM__740-1783625936.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1783610340,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-realme-RMX3840-Adreno__TM__710-1783610340.json"
-  },
-  {
-    "game": "DARK_SOULS__III",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1783606892,
-    "filename": "DARK_SOULS__III-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783606892.json"
   }
 ]
