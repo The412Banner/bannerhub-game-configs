@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Retroid_Pocket_G2",
+    "device": "Adreno__TM__22",
+    "timestamp": 1783635206,
+    "filename": "Grand_Theft_Auto_V_Legacy-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1783635206.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783613595,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g31-Mali-G52_MC2-1783613595.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783613416,
-    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6725-Mali-G57-1783613416.json"
   }
 ]
