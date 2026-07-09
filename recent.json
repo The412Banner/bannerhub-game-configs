@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTAV_Mod_Manager",
+    "manufacturer": "itel_A6610L",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1783602994,
+    "filename": "GTAV_Mod_Manager-ITEL-itel_A6610L-PowerVR_Rogue_GE8322-1783602994.json"
+  },
+  {
     "game": "Just_Cause_2",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1783565224,
     "filename": "SILENT_HILL_3-Xiaomi-2511FPC34G-Mali-G720_MC8-1783565224.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "LX3",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1783564401,
-    "filename": "Mortal_Kombat_Komplete_Edition-HONOR-VNE-LX3-PowerVR_Rogue_GE8320-1783564401.json"
   }
 ]
