@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "RMX3840",
+    "device": "Adreno__TM__710",
+    "timestamp": 1783610560,
+    "filename": "Devil_May_Cry_4_Special_Edition-realme-RMX3840-Adreno__TM__710-1783610560.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "RMX3840",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1783583329,
     "filename": "Tales_of_Berseria_-vivo-I2213-Adreno__TM__642L-1783583329.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1783581215,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G991B-Mali-G78-1783581215.json"
   }
 ]
