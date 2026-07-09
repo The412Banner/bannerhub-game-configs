@@ -1,5 +1,12 @@
 [
   {
+    "game": "TWFC",
+    "manufacturer": "V600",
+    "device": "Adreno__TM__650",
+    "timestamp": 1783572995,
+    "filename": "TWFC-LGE-LM-V600-Adreno__TM__650-1783572995.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783550711,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1783550711.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783550466,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1783550466.json"
   }
 ]
