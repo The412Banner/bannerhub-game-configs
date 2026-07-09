@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1783631509,
+    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-S928B-Adreno__TM__750-1783631509.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition_MULTi8_-_ElAmigos___________",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783613328,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g31-Mali-G52_MC2-1783613328.json"
-  },
-  {
-    "game": "One_Piece_Pirate_Warriors_3",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783610987,
-    "filename": "One_Piece_Pirate_Warriors_3-INFINIX-Infinix_X6853-Mali-G57_MC2-1783610987.json"
   }
 ]
