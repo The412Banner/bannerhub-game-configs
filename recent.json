@@ -1,5 +1,12 @@
 [
   {
+    "game": "____________",
+    "manufacturer": "A057F",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783593131,
+    "filename": "____________-samsung-SM-A057F-Adreno__TM__610-1783593131.json"
+  },
+  {
     "game": "GameHubManager",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783561311,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2010J19SI-Adreno__TM__610-1783561311.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1783560848,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1783560848.json"
   }
 ]
