@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__III",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1783606892,
+    "filename": "DARK_SOULS__III-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783606892.json"
+  },
+  {
     "game": "_____________",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1783574054,
     "filename": "Assassin_s_Creed__Rogue-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783574054.json"
-  },
-  {
-    "game": "TWFC",
-    "manufacturer": "V600",
-    "device": "Adreno__TM__650",
-    "timestamp": 1783572995,
-    "filename": "TWFC-LGE-LM-V600-Adreno__TM__650-1783572995.json"
   }
 ]
