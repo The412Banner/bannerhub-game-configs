@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783622357,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1783622357.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1783602994,
     "filename": "GTAV_Mod_Manager-ITEL-itel_A6610L-PowerVR_Rogue_GE8322-1783602994.json"
-  },
-  {
-    "game": "Just_Cause_2",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1783602403,
-    "filename": "Just_Cause_2-Xiaomi-M2012K11AG-Adreno__TM__650-1783602403.json"
   }
 ]
