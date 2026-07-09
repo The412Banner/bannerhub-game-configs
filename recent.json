@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1783581215,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G991B-Mali-G78-1783581215.json"
+  },
+  {
     "game": "Assassin_s_Creed__Rogue",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__722",
     "timestamp": 1783553039,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_70-Adreno__TM__722-1783553039.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2201117TL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783551983,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TL-Adreno__TM__610-1783551983.json"
   }
 ]
