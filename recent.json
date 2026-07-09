@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783610596,
+    "filename": "Resident_Evil_5-INFINIX-Infinix_X6853-Mali-G57_MC2-1783610596.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "RMX3840",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1783583354,
     "filename": "The_Legend_of_heroes___Trails_from_zero-vivo-I2213-Adreno__TM__642L-1783583354.json"
-  },
-  {
-    "game": "Tales_of_Berseria_",
-    "manufacturer": "I2213",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1783583329,
-    "filename": "Tales_of_Berseria_-vivo-I2213-Adreno__TM__642L-1783583329.json"
   }
 ]
