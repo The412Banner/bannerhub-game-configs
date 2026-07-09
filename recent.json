@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1783586830,
+    "filename": "Left_4_Dead_2-Xiaomi-2511FPC34G-Mali-G720_MC8-1783586830.json"
+  },
+  {
     "game": "The_Legend_of_heroes___Trails_from_zero",
     "manufacturer": "I2213",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__722",
     "timestamp": 1783554273,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_70-Adreno__TM__722-1783554273.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783554186,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A145R-Mali-G52_MC2-1783554186.json"
   }
 ]
