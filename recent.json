@@ -1,5 +1,12 @@
 [
   {
+    "game": "Spider-Man_3",
+    "manufacturer": "moto_g71_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1783564067,
+    "filename": "Spider-Man_3-motorola-moto_g71_5G-Adreno__TM__619-1783564067.json"
+  },
+  {
     "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783547541,
     "filename": "Assassin_s_Creed__Rogue-Xiaomi-23117RA68G-Mali-G57_MC2-1783547541.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783546943,
-    "filename": "DRAGON_BALL_FighterZ-ITEL-itel_S666LN-Mali-G57_MC2-1783546943.json"
   }
 ]
