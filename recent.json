@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783640335,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1783640335.json"
+  },
+  {
     "game": "Assassin_s_Creed___Director_s_Cut_Edition",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783622357,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1783622357.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783621779,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A075M-Mali-G57_MC2-1783621779.json"
   }
 ]
