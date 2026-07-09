@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "RMX3840",
+    "device": "Adreno__TM__710",
+    "timestamp": 1783610340,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-realme-RMX3840-Adreno__TM__710-1783610340.json"
+  },
+  {
     "game": "DARK_SOULS__III",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1783581215,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G991B-Mali-G78-1783581215.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Rogue",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1783574054,
-    "filename": "Assassin_s_Creed__Rogue-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783574054.json"
   }
 ]
