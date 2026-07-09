@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783613328,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g31-Mali-G52_MC2-1783613328.json"
+  },
+  {
     "game": "One_Piece_Pirate_Warriors_3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783591757,
     "filename": "GameHubManager-INFINIX-Infinix_X6882-Mali-G57_MC2-1783591757.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1783591645,
-    "filename": "Need_for_Speed_9-INFINIX-Infinix_X6870-Mali-G615_MC2-1783591645.json"
   }
 ]
