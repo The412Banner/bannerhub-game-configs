@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Enhanced",
+    "manufacturer": "25053PC47I",
+    "device": "Adreno__TM__825",
+    "timestamp": 1783621763,
+    "filename": "Grand_Theft_Auto_V_Enhanced-Xiaomi-25053PC47I-Adreno__TM__825-1783621763.json"
+  },
+  {
     "game": "Resident_Evil_2_____________________________________________",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1783601261,
     "filename": "Resident_Evil_5-Xiaomi-2510ERA8BG-Adreno__TM__810-1783601261.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "2510ERA8BG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1783599151,
-    "filename": "Resident_Evil_5-Xiaomi-2510ERA8BG-Adreno__TM__810-1783599151.json"
   }
 ]
