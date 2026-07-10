@@ -1,5 +1,12 @@
 [
   {
+    "game": "It_Takes_Two",
+    "manufacturer": "S936B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1783716500,
+    "filename": "It_Takes_Two-samsung-SM-S936B-Adreno__TM__830-1783716500.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "S936B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1783698296,
     "filename": "Resident_Evil_2-Xiaomi-M2102J20SG-Adreno__TM__640-1783698296.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_edge_70",
-    "device": "Adreno__TM__722",
-    "timestamp": 1783697611,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_70-Adreno__TM__722-1783697611.json"
   }
 ]
