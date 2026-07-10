@@ -1,5 +1,12 @@
 [
   {
+    "game": "fifa06_demo",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783667751,
+    "filename": "fifa06_demo-TECNO-TECNO_KM5-Mali-G52_MC2-1783667751.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783641791,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S911B-Adreno__TM__740-1783641791.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1783641542,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g75_5G-Adreno__TM__710-1783641542.json"
   }
 ]
