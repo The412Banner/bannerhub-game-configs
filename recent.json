@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1783707496,
+    "filename": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered-Xiaomi-25053RT47C-Adreno__TM__825-1783707496.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783689977,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1783689977.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G77",
-    "timestamp": 1783684907,
-    "filename": "DRAGON_BALL_FighterZ-samsung-SM-N986B-Mali-G77-1783684907.json"
   }
 ]
