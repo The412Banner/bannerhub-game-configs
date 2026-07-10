@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fallout_4",
+    "manufacturer": "NX769J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1783671698,
+    "filename": "Fallout_4-nubia-NX769J-Adreno__TM__750-1783671698.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783641994,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_50__5G-Mali-G57_MC2-1783641994.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1783641982,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g75_5G-Adreno__TM__710-1783641982.json"
   }
 ]
