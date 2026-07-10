@@ -1,5 +1,12 @@
 [
   {
+    "game": "Persona_5_Royal",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1783686577,
+    "filename": "Persona_5_Royal-AYN-AYN_Thor-Adreno__TM__740-1783686577.json"
+  },
+  {
     "game": "LEGO_DC_Super-villains_DX11",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783643010,
     "filename": "Far_Cry_3-TECNO-TECNO_LH7n-Mali-G57_MC2-1783643010.json"
-  },
-  {
-    "game": "Medal_of_Honor_Allied_Assault_tm__by_Electronic_Arts__Inc__and_2015",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783642938,
-    "filename": "Medal_of_Honor_Allied_Assault_tm__by_Electronic_Arts__Inc__and_2015-realme-RMX3938-Mali-G57-1783642938.json"
   }
 ]
