@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "F731B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1783692011,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-F731B-Adreno__TM__740-1783692011.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1783671698,
     "filename": "Fallout_4-nubia-NX769J-Adreno__TM__750-1783671698.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783670557,
-    "filename": "Mafia_II__Classic_-TECNO-TECNO_LH8n-Mali-G57_MC2-1783670557.json"
   }
 ]
