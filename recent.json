@@ -1,5 +1,12 @@
 [
   {
+    "game": "____2016",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1783693884,
+    "filename": "____2016-Xiaomi-2311DRK48G-Mali-G615_MC6-1783693884.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "F731B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GM9446",
     "timestamp": 1783671819,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH1979-PowerVR_Rogue_GM9446-1783671819.json"
-  },
-  {
-    "game": "Fallout_4",
-    "manufacturer": "NX769J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1783671698,
-    "filename": "Fallout_4-nubia-NX769J-Adreno__TM__750-1783671698.json"
   }
 ]
