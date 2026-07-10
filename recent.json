@@ -1,5 +1,12 @@
 [
   {
+    "game": "B___Path_of_the_Teal_Lotus",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783642573,
+    "filename": "B___Path_of_the_Teal_Lotus-Anbernic-RG_406H-Mali-G57-1783642573.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1783629381,
     "filename": "Resident_Evil_Revelations-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783629381.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783628220,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1783628220.json"
   }
 ]
