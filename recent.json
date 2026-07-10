@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013_DEMO_______________________",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783718079,
+    "filename": "Pro_Evolution_Soccer_2013_DEMO_______________________-MEIZU-Mblu_21-Mali-G57-1783718079.json"
+  },
+  {
     "game": "gta-sa",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1783706130,
     "filename": "Shockwave_Flash-INFINIX-Infinix_X6873-Mali-G615_MC6-1783706130.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S721B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1783703992,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1783703992.json"
   }
 ]
