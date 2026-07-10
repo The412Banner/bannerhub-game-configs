@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G610_MC4",
+    "timestamp": 1783681015,
+    "filename": "BootstrapPackagedGame-Xiaomi-23090RA98G-Mali-G610_MC4-1783681015.json"
+  },
+  {
     "game": "ch5_pro",
     "manufacturer": "Mali",
     "device": "G610_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1783650375,
     "filename": "FIFA_22-Xiaomi-25053PC47G-Adreno__TM__825-1783650375.json"
-  },
-  {
-    "game": "Sam2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783646595,
-    "filename": "Sam2-TECNO-TECNO_LH7n-Mali-G57_MC2-1783646595.json"
   }
 ]
