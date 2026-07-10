@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "CPH1979",
+    "device": "PowerVR_Rogue_GM9446",
+    "timestamp": 1783671819,
+    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH1979-PowerVR_Rogue_GM9446-1783671819.json"
+  },
+  {
     "game": "Fallout_4",
     "manufacturer": "NX769J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783642573,
     "filename": "B___Path_of_the_Teal_Lotus-Anbernic-RG_406H-Mali-G57-1783642573.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783641994,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_50__5G-Mali-G57_MC2-1783641994.json"
   }
 ]
