@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1783707688,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-25053PC47G-Adreno__TM__825-1783707688.json"
+  },
+  {
     "game": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783690119,
     "filename": "Crysis_2_-_Maximum_Edition-TECNO-TECNO_LH7n-Mali-G57_MC2-1783690119.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783689977,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1783689977.json"
   }
 ]
