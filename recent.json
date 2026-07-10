@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g75_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1783641982,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g75_5G-Adreno__TM__710-1783641982.json"
+  },
+  {
     "game": "Borderlands_Game_of_the_Year_Enhanced",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783625936,
     "filename": "Assassin_s_Creed_________-AYN-Odin2_Portal-Adreno__TM__740-1783625936.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1783624570,
-    "filename": "Pro_Evolution_Soccer_2017-motorola-moto_g86_5G-Mali-G615_MC2-1783624570.json"
   }
 ]
