@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1783716880,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S901E-Adreno__TM__730-1783716880.json"
+  },
+  {
     "game": "It_Takes_Two",
     "manufacturer": "S936B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1783702529,
     "filename": "Bully-Xiaomi-M2101K6G-Adreno__TM__618-1783702529.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1783698296,
-    "filename": "Resident_Evil_2-Xiaomi-M2102J20SG-Adreno__TM__640-1783698296.json"
   }
 ]
