@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S721B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1783703992,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1783703992.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1783682998,
     "filename": "OpenAL_Installer-samsung-SM-M625F-Mali-G76-1783682998.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G610_MC4",
-    "timestamp": 1783681015,
-    "filename": "BootstrapPackagedGame-Xiaomi-23090RA98G-Mali-G610_MC4-1783681015.json"
   }
 ]
