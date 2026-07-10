@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1783707140,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48I-Mali-G615_MC6-1783707140.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1783684907,
     "filename": "DRAGON_BALL_FighterZ-samsung-SM-N986B-Mali-G77-1783684907.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "S721N",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1783683435,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S721N-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1783683435.json"
   }
 ]
