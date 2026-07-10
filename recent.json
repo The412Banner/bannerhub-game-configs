@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shockwave_Flash",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1783706130,
+    "filename": "Shockwave_Flash-INFINIX-Infinix_X6873-Mali-G615_MC6-1783706130.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S721B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1783683086,
     "filename": "____2016-Xiaomi-2311DRK48G-Mali-G615_MC6-1783683086.json"
-  },
-  {
-    "game": "OpenAL_Installer",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1783682998,
-    "filename": "OpenAL_Installer-samsung-SM-M625F-Mali-G76-1783682998.json"
   }
 ]
