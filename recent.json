@@ -1,5 +1,12 @@
 [
   {
+    "game": "ac_zero_launcher",
+    "manufacturer": "Redmi_Note_9_Pro",
+    "device": "Adreno__TM__618",
+    "timestamp": 1783695262,
+    "filename": "ac_zero_launcher-Xiaomi-Redmi_Note_9_Pro-Adreno__TM__618-1783695262.json"
+  },
+  {
     "game": "____2016",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1783674761,
     "filename": "LEGO_DC_Super-villains_DX11-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783674761.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "CPH1979",
-    "device": "PowerVR_Rogue_GM9446",
-    "timestamp": 1783671819,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH1979-PowerVR_Rogue_GM9446-1783671819.json"
   }
 ]
