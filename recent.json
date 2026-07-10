@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1783668812,
+    "filename": "Pro_Evolution_Soccer_2017-motorola-motorola_edge_60_pro-Mali-G615_MC6-1783668812.json"
+  },
+  {
     "game": "fifa06_demo",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783641855,
     "filename": "Borderlands_Game_of_the_Year_Enhanced-TECNO-TECNO_LH7n-Mali-G57_MC2-1783641855.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1783641791,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S911B-Adreno__TM__740-1783641791.json"
   }
 ]
