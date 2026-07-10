@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783670557,
+    "filename": "Mafia_II__Classic_-TECNO-TECNO_LH8n-Mali-G57_MC2-1783670557.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1783641982,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g75_5G-Adreno__TM__710-1783641982.json"
-  },
-  {
-    "game": "Borderlands_Game_of_the_Year_Enhanced",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783641855,
-    "filename": "Borderlands_Game_of_the_Year_Enhanced-TECNO-TECNO_LH7n-Mali-G57_MC2-1783641855.json"
   }
 ]
