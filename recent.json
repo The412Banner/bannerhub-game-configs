@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "NX3",
+    "device": "Adreno__TM__619",
+    "timestamp": 1783709313,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-HONOR-LGN-NX3-Adreno__TM__619-1783709313.json"
+  },
+  {
     "game": "MONSTER_HUNTER_FRONTIER_ZZ",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783691171,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1783691171.json"
-  },
-  {
-    "game": "Mafia_II__Definitive_Edition",
-    "manufacturer": "V2536A",
-    "device": "Adreno__TM__829",
-    "timestamp": 1783690866,
-    "filename": "Mafia_II__Definitive_Edition-vivo-V2536A-Adreno__TM__829-1783690866.json"
   }
 ]
