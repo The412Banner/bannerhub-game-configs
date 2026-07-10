@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO_DC_Super-villains_DX11",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1783674761,
+    "filename": "LEGO_DC_Super-villains_DX11-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783674761.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH1979",
     "device": "PowerVR_Rogue_GM9446",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783642938,
     "filename": "Medal_of_Honor_Allied_Assault_tm__by_Electronic_Arts__Inc__and_2015-realme-RMX3938-Mali-G57-1783642938.json"
-  },
-  {
-    "game": "B___Path_of_the_Teal_Lotus",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783642573,
-    "filename": "B___Path_of_the_Teal_Lotus-Anbernic-RG_406H-Mali-G57-1783642573.json"
   }
 ]
