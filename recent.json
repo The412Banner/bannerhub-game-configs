@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Definitive_Edition",
+    "manufacturer": "V2536A",
+    "device": "Adreno__TM__829",
+    "timestamp": 1783690866,
+    "filename": "Mafia_II__Definitive_Edition-vivo-V2536A-Adreno__TM__829-1783690866.json"
+  },
+  {
     "game": "Crysis_2_-_Maximum_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1783668812,
     "filename": "Pro_Evolution_Soccer_2017-motorola-motorola_edge_60_pro-Mali-G615_MC6-1783668812.json"
-  },
-  {
-    "game": "fifa06_demo",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783667751,
-    "filename": "fifa06_demo-TECNO-TECNO_KM5-Mali-G52_MC2-1783667751.json"
   }
 ]
