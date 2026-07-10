@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta-sa",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1783717180,
+    "filename": "gta-sa-samsung-SM-M625F-Mali-G76-1783717180.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1783703992,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1783703992.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783703710,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25040RP0AG-Mali-G57_MC2-1783703710.json"
   }
 ]
