@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1783695618,
+    "filename": "Need_for_Speed_9-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783695618.json"
+  },
+  {
     "game": "ac_zero_launcher",
     "manufacturer": "Redmi_Note_9_Pro",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783686577,
     "filename": "Persona_5_Royal-AYN-AYN_Thor-Adreno__TM__740-1783686577.json"
-  },
-  {
-    "game": "LEGO_DC_Super-villains_DX11",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1783674761,
-    "filename": "LEGO_DC_Super-villains_DX11-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783674761.json"
   }
 ]
