@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bully",
+    "manufacturer": "M2101K6G",
+    "device": "Adreno__TM__618",
+    "timestamp": 1783702529,
+    "filename": "Bully-Xiaomi-M2101K6G-Adreno__TM__618-1783702529.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G610_MC4",
     "timestamp": 1783680761,
     "filename": "ch5_pro-Xiaomi-23090RA98G-Mali-G610_MC4-1783680761.json"
-  },
-  {
-    "game": "Cuphead",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783680769,
-    "filename": "Cuphead-INFINIX-Infinix_X6886-Mali-G57_MC2-1783680769.json"
   }
 ]
