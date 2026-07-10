@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783709744,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1783709744.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "NX3",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783692011,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-F731B-Adreno__TM__740-1783692011.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783691171,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1783691171.json"
   }
 ]
