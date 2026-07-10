@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783676864,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LH8n-Mali-G57_MC2-1783676864.json"
+  },
+  {
     "game": "Persona_5_Royal",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783644082,
     "filename": "launcher-TECNO-TECNO_LH7n-Mali-G57_MC2-1783644082.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783643010,
-    "filename": "Far_Cry_3-TECNO-TECNO_LH7n-Mali-G57_MC2-1783643010.json"
   }
 ]
