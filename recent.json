@@ -1,5 +1,12 @@
 [
   {
+    "game": "Borderlands_Game_of_the_Year_Enhanced",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783641855,
+    "filename": "Borderlands_Game_of_the_Year_Enhanced-TECNO-TECNO_LH7n-Mali-G57_MC2-1783641855.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1783624570,
     "filename": "Pro_Evolution_Soccer_2017-motorola-moto_g86_5G-Mali-G615_MC2-1783624570.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1783624534,
-    "filename": "Pro_Evolution_Soccer_2017-motorola-moto_g86_5G-Mali-G615_MC2-1783624534.json"
   }
 ]
