@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1783698296,
+    "filename": "Resident_Evil_2-Xiaomi-M2102J20SG-Adreno__TM__640-1783698296.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "motorola_edge_70",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783680769,
     "filename": "Cuphead-INFINIX-Infinix_X6886-Mali-G57_MC2-1783680769.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783678288,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A055F-Mali-G52_MC2-1783678288.json"
   }
 ]
