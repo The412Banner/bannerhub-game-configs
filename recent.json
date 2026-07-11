@@ -1,5 +1,12 @@
 [
   {
+    "game": "ShovelKnight",
+    "manufacturer": "S908B",
+    "device": "ANGLE__Samsung_Xclipse_920__on_Vulkan_1_3_231",
+    "timestamp": 1783779996,
+    "filename": "ShovelKnight-samsung-SM-S908B-ANGLE__Samsung_Xclipse_920__on_Vulkan_1_3_231-1783779996.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783742803,
     "filename": "AVGame-unknown-GammaOS_Full-Mali-G57-1783742803.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783741296,
-    "filename": "Pro_Evolution_Soccer_2013-MEIZU-Mblu_21-Mali-G57-1783741296.json"
   }
 ]
