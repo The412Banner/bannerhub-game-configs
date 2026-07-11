@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1783794546,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A515F-Mali-G72-1783794546.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "ANGLE__Samsung_Xclipse_920__on_Vulkan_1_3_231",
     "timestamp": 1783780219,
     "filename": "ShovelKnight-samsung-SM-S908B-ANGLE__Samsung_Xclipse_920__on_Vulkan_1_3_231-1783780219.json"
-  },
-  {
-    "game": "The_Ascent",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1783780048,
-    "filename": "The_Ascent-AYANEO-Pocket_FIT-Adreno__TM__750-1783780048.json"
   }
 ]
