@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Ascent",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1783780048,
+    "filename": "The_Ascent-AYANEO-Pocket_FIT-Adreno__TM__750-1783780048.json"
+  },
+  {
     "game": "ShovelKnight",
     "manufacturer": "S908B",
     "device": "ANGLE__Samsung_Xclipse_920__on_Vulkan_1_3_231",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1783743317,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1783743317.json"
-  },
-  {
-    "game": "AVGame",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783742803,
-    "filename": "AVGame-unknown-GammaOS_Full-Mali-G57-1783742803.json"
   }
 ]
