@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1783776888,
+    "filename": "ch5_pro-samsung-SM-A266B-Mali-G68-1783776888.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783735654,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-23100RN82L-Mali-G52_MC2-1783735654.json"
-  },
-  {
-    "game": "Megabonk",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1783733376,
-    "filename": "Megabonk-AYANEO-Pocket_FIT-Adreno__TM__750-1783733376.json"
   }
 ]
