@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Z__KAKAROT",
+    "manufacturer": "V2318",
+    "device": "Adreno__TM__720",
+    "timestamp": 1783746144,
+    "filename": "DRAGON_BALL_Z__KAKAROT-vivo-V2318-Adreno__TM__720-1783746144.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G71",
     "timestamp": 1783718792,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A205G-Mali-G71-1783718792.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G71",
-    "timestamp": 1783718769,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A205G-Mali-G71-1783718769.json"
   }
 ]
