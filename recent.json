@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783796262,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-realme-RMX3910-Mali-G52_MC2-1783796262.json"
+  },
+  {
     "game": "CoDMP",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1783781673,
     "filename": "Red_Dead_Redemption_2-motorola-motorola_edge_30-Adreno__TM__642L-1783781673.json"
-  },
-  {
-    "game": "CALL_OF_DUTY_4_Modern_Warfare",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1783781649,
-    "filename": "CALL_OF_DUTY_4_Modern_Warfare-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783781649.json"
   }
 ]
