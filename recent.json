@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S711B",
+    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
+    "timestamp": 1783728291,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1783728291.json"
+  },
+  {
     "game": "7Launcher_-_GTA_5_1_6_6_____________________________________",
     "manufacturer": "LX1",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1783715934,
     "filename": "Resident_Evil_2-samsung-SM-S936B-Adreno__TM__830-1783715934.json"
-  },
-  {
-    "game": "Mortal_Shell",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783714727,
-    "filename": "Mortal_Shell-samsung-SM-A035M-Mali-G57-1783714727.json"
   }
 ]
