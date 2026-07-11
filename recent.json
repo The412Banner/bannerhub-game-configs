@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Marvel_Super_Heroes_2",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1783755189,
+    "filename": "LEGO__Marvel_Super_Heroes_2-Xiaomi-M2102J20SG-Adreno__TM__640-1783755189.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783724890,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76G-Mali-G57_MC2-1783724890.json"
-  },
-  {
-    "game": "Little_Nightmares_II_Demo",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783722399,
-    "filename": "Little_Nightmares_II_Demo-samsung-SM-A065M-Mali-G52_MC2-1783722399.json"
   }
 ]
