@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs__2",
+    "manufacturer": "M2101K6G",
+    "device": "Adreno__TM__618",
+    "timestamp": 1783806825,
+    "filename": "Watch_Dogs__2-Xiaomi-M2101K6G-Adreno__TM__618-1783806825.json"
+  },
+  {
     "game": "RAGE_Plugin_Hook",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1783794546,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A515F-Mali-G72-1783794546.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1783792754,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1783792754.json"
   }
 ]
