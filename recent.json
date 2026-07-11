@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "motorola_edge_30",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1783781673,
+    "filename": "Red_Dead_Redemption_2-motorola-motorola_edge_30-Adreno__TM__642L-1783781673.json"
+  },
+  {
     "game": "CALL_OF_DUTY_4_Modern_Warfare",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783747127,
     "filename": "Pro_Evolution_Soccer_2013-realme-realme_Note_60-Mali-G57-1783747127.json"
-  },
-  {
-    "game": "DRAGON_BALL_Z__KAKAROT",
-    "manufacturer": "V2318",
-    "device": "Adreno__TM__720",
-    "timestamp": 1783746144,
-    "filename": "DRAGON_BALL_Z__KAKAROT-vivo-V2318-Adreno__TM__720-1783746144.json"
   }
 ]
