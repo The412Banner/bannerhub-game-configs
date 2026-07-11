@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783807867,
+    "filename": "Hollow_Knight__Silksong-Xiaomi-23021RAAEG-Adreno__TM__610-1783807867.json"
+  },
+  {
     "game": "Watch_Dogs__2",
     "manufacturer": "M2101K6G",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783795364,
     "filename": "CoDMP-Xiaomi-23021RAAEG-Adreno__TM__610-1783795364.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G72",
-    "timestamp": 1783794546,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A515F-Mali-G72-1783794546.json"
   }
 ]
