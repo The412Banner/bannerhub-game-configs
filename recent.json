@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sonic_World_Adventure",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783782003,
+    "filename": "Sonic_World_Adventure-samsung-SM-A075M-Mali-G57_MC2-1783782003.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "motorola_edge_30",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1783752551,
     "filename": "BootstrapPackagedGame-Xiaomi-23049PCD8G-Adreno__TM__725-1783752551.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1783747800,
-    "filename": "Need_for_Speed_9-Xiaomi-2311DRK48G-Mali-G615_MC6-1783747800.json"
   }
 ]
