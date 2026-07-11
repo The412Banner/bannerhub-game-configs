@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pes_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783796516,
+    "filename": "Pes_2013-Xiaomi-25028RN03L-Mali-G57-1783796516.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783782003,
     "filename": "Sonic_World_Adventure-samsung-SM-A075M-Mali-G57_MC2-1783782003.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "motorola_edge_30",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1783781845,
-    "filename": "Red_Dead_Redemption_2-motorola-motorola_edge_30-Adreno__TM__642L-1783781845.json"
   }
 ]
