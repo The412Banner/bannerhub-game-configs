@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783783425,
+    "filename": "Pro_Evolution_Soccer_2013-vivo-V2110-Mali-G52_MC2-1783783425.json"
+  },
+  {
     "game": "FNaFIntoThePit",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783761704,
     "filename": "Marvel_s_Spider-Man__Miles_Morales-OPPO-CPH2577-Mali-G52_MC2-1783761704.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1783761152,
-    "filename": "Resident_Evil_2-Xiaomi-25053PC47G-Adreno__TM__825-1783761152.json"
   }
 ]
