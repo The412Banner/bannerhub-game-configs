@@ -1,5 +1,12 @@
 [
   {
+    "game": "MONSTER_HUNTER_RISE",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1783767678,
+    "filename": "MONSTER_HUNTER_RISE-Xiaomi-25053PC47G-Adreno__TM__825-1783767678.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man__Miles_Morales",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1783732094,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-P620-Mali-G68-1783732094.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S711B",
-    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
-    "timestamp": 1783728291,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1783728291.json"
   }
 ]
