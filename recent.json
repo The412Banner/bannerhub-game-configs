@@ -1,5 +1,12 @@
 [
   {
+    "game": "ShovelKnight",
+    "manufacturer": "S908B",
+    "device": "ANGLE__Samsung_Xclipse_920__on_Vulkan_1_3_231",
+    "timestamp": 1783778255,
+    "filename": "ShovelKnight-samsung-SM-S908B-ANGLE__Samsung_Xclipse_920__on_Vulkan_1_3_231-1783778255.json"
+  },
+  {
     "game": "pes_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783740794,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A245M-Mali-G57_MC2-1783740794.json"
-  },
-  {
-    "game": "The_Amazing_Spider-Man__TM_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783739813,
-    "filename": "The_Amazing_Spider-Man__TM_-TECNO-TECNO_KL4-Mali-G57-1783739813.json"
   }
 ]
