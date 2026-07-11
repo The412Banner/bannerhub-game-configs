@@ -3,6 +3,13 @@
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68_MC4",
+    "timestamp": 1783788938,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1783788938.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
     "timestamp": 1783788915,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1783788915.json"
   },
@@ -131,12 +138,5 @@
     "device": "ANGLE__Samsung_Xclipse_920__on_Vulkan_1_3_231",
     "timestamp": 1783778255,
     "filename": "ShovelKnight-samsung-SM-S908B-ANGLE__Samsung_Xclipse_920__on_Vulkan_1_3_231-1783778255.json"
-  },
-  {
-    "game": "pes_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783777859,
-    "filename": "pes_2013-realme-RMX3760-Mali-G57-1783777859.json"
   }
 ]
