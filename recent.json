@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Amazing_Spider-Man__TM_",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783739813,
+    "filename": "The_Amazing_Spider-Man__TM_-TECNO-TECNO_KL4-Mali-G57-1783739813.json"
+  },
+  {
     "game": "_____2019",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783718374,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03L-Mali-G57-1783718374.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783718355,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03L-Mali-G57-1783718355.json"
   }
 ]
