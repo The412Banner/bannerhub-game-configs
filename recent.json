@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1783797710,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783797710.json"
+  },
+  {
     "game": "Pes_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783783124,
     "filename": "FNaFIntoThePit-Xiaomi-24117RN76L-Mali-G57_MC2-1783783124.json"
-  },
-  {
-    "game": "Sonic_World_Adventure",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783782003,
-    "filename": "Sonic_World_Adventure-samsung-SM-A075M-Mali-G57_MC2-1783782003.json"
   }
 ]
