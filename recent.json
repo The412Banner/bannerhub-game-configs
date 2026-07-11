@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783735654,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-23100RN82L-Mali-G52_MC2-1783735654.json"
+  },
+  {
     "game": "Megabonk",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783718079,
     "filename": "Pro_Evolution_Soccer_2013_DEMO_______________________-MEIZU-Mblu_21-Mali-G57-1783718079.json"
-  },
-  {
-    "game": "gta-sa",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1783717180,
-    "filename": "gta-sa-samsung-SM-M625F-Mali-G76-1783717180.json"
   }
 ]
