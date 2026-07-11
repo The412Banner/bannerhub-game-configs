@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_Connected_Server",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783733084,
+    "filename": "Grand_Theft_Auto_Connected_Server-Xiaomi-2312FPCA6G-Mali-G57_MC2-1783733084.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1783716906,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S901E-Adreno__TM__730-1783716906.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1783716880,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S901E-Adreno__TM__730-1783716880.json"
   }
 ]
