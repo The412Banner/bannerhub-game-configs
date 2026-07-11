@@ -1,5 +1,12 @@
 [
   {
+    "game": "CoDMP",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783795364,
+    "filename": "CoDMP-Xiaomi-23021RAAEG-Adreno__TM__610-1783795364.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G72",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1783781649,
     "filename": "CALL_OF_DUTY_4_Modern_Warfare-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783781649.json"
-  },
-  {
-    "game": "ShovelKnight",
-    "manufacturer": "S908B",
-    "device": "ANGLE__Samsung_Xclipse_920__on_Vulkan_1_3_231",
-    "timestamp": 1783780219,
-    "filename": "ShovelKnight-samsung-SM-S908B-ANGLE__Samsung_Xclipse_920__on_Vulkan_1_3_231-1783780219.json"
   }
 ]
