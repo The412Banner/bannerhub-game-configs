@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man__Miles_Morales",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783761704,
+    "filename": "Marvel_s_Spider-Man__Miles_Morales-OPPO-CPH2577-Mali-G52_MC2-1783761704.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
     "timestamp": 1783728291,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1783728291.json"
-  },
-  {
-    "game": "7Launcher_-_GTA_5_1_6_6_____________________________________",
-    "manufacturer": "LX1",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783726181,
-    "filename": "7Launcher_-_GTA_5_1_6_6_____________________________________-HUAWEI-BNE-LX1-Adreno__TM__610-1783726181.json"
   }
 ]
