@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783884955,
+    "filename": "Far_Cry_3-Xiaomi-2409BRN2CA-Mali-G52_MC2-1783884955.json"
+  },
+  {
     "game": "ULTRAKILL",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783866257,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23073RPBFL-Adreno__TM__610-1783866257.json"
-  },
-  {
-    "game": "GTAV_Mod_Manager",
-    "manufacturer": "itel_A6610L",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1783866093,
-    "filename": "GTAV_Mod_Manager-ITEL-itel_A6610L-PowerVR_Rogue_GE8322-1783866093.json"
   }
 ]
