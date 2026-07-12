@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783867722,
+    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A666LN-Mali-G57-1783867722.json"
+  },
+  {
     "game": "MONSTER_HUNTER_FRONTIER",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783860383,
     "filename": "American_Truck_Simulator-Xiaomi-25028RN03L-Mali-G57-1783860383.json"
-  },
-  {
-    "game": "Naruto_",
-    "manufacturer": "23021RAAEG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783859971,
-    "filename": "Naruto_-Xiaomi-23021RAAEG-Adreno__TM__610-1783859971.json"
   }
 ]
