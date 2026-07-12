@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ultimate_Zombie_Defense",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1783897772,
+    "filename": "Ultimate_Zombie_Defense-AYANEO-Pocket_FIT-Adreno__TM__750-1783897772.json"
+  },
+  {
     "game": "SILENT_HILL_3",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783887228,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1783887228.json"
-  },
-  {
-    "game": "LEGOBatman",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783886785,
-    "filename": "LEGOBatman-Anbernic-RG_406H-Mali-G57-1783886785.json"
   }
 ]
