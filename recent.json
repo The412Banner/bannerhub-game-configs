@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTAV_Mod_Manager",
+    "manufacturer": "itel_A6610L",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1783866093,
+    "filename": "GTAV_Mod_Manager-ITEL-itel_A6610L-PowerVR_Rogue_GE8322-1783866093.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783856034,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1783856034.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783854424,
-    "filename": "Resident_Evil_2-TECNO-TECNO_LH7n-Mali-G57_MC2-1783854424.json"
   }
 ]
