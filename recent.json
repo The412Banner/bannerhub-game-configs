@@ -1,5 +1,12 @@
 [
   {
+    "game": "l2grimoria",
+    "manufacturer": "moto_g82_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1783825023,
+    "filename": "l2grimoria-motorola-moto_g82_5G-Adreno__TM__619-1783825023.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1783802350,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1783802350.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1783799963,
-    "filename": "Resident_Evil_4-Xiaomi-25053PC47G-Adreno__TM__825-1783799963.json"
   }
 ]
