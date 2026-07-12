@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "G715",
+    "device": "Immortalis_MC11",
+    "timestamp": 1783900786,
+    "filename": "Far_Cry_3-Xiaomi-23078PND5G-Mali-G715-Immortalis_MC11-1783900786.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1783895141,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1783895141.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1783894602,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6873-Mali-G615_MC6-1783894602.json"
   }
 ]
