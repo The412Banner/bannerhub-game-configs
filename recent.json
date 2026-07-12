@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783860383,
+    "filename": "American_Truck_Simulator-Xiaomi-25028RN03L-Mali-G57-1783860383.json"
+  },
+  {
     "game": "Naruto_",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1783825745,
     "filename": "l2grimoria-motorola-moto_g82_5G-Adreno__TM__619-1783825745.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783825308,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1783825308.json"
   }
 ]
