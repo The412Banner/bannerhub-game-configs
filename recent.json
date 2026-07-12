@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prince_of_Persia",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1783897221,
+    "filename": "Prince_of_Persia-AYN-AYN_Thor-Adreno__TM__740-1783897221.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783885047,
     "filename": "Far_Cry_3-Xiaomi-2409BRN2CA-Mali-G52_MC2-1783885047.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G998U1",
-    "device": "Adreno__TM__660",
-    "timestamp": 1783885040,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G998U1-Adreno__TM__660-1783885040.json"
   }
 ]
