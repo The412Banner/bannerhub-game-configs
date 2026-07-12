@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783816175,
+    "filename": "DRAGON_BALL_FighterZ-Xiaomi-23021RAAEG-Adreno__TM__610-1783816175.json"
+  },
+  {
     "game": "Prince_of_Persia_-_The_Forgotten_Sands",
     "manufacturer": "S948B",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1783796406,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1783796406.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783796262,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-realme-RMX3910-Mali-G52_MC2-1783796262.json"
   }
 ]
