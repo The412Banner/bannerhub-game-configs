@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1783862442,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2312DRA50G-Adreno__TM__710-1783862442.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1783862350,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1783832321,
     "filename": "HaveaNiceDeath-ayn-Odin3-Adreno__TM__830-1783832321.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1783830853,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A546E-Mali-G68-1783830853.json"
   }
 ]
