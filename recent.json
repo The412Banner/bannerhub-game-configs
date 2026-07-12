@@ -1,5 +1,12 @@
 [
   {
+    "game": "DustwindResistance",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783868155,
+    "filename": "DustwindResistance-Xiaomi-23021RAAEG-Adreno__TM__610-1783868155.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1783861140,
     "filename": "Resident_Evil_Village-samsung-SM-S938B-Adreno__TM__830-1783861140.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783860383,
-    "filename": "American_Truck_Simulator-Xiaomi-25028RN03L-Mali-G57-1783860383.json"
   }
 ]
