@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "ZTE_A2023G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1783866458,
+    "filename": "Tomb_Raider-ZTE-ZTE_A2023G-Adreno__TM__650-1783866458.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23073RPBFL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1783857657,
     "filename": "Football_Life_2026_Install_Program__________________________-motorola-motorola_edge_60-Mali-G615_MC2-1783857657.json"
-  },
-  {
-    "game": "citadel",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783856050,
-    "filename": "citadel-Anbernic-RG_406H-Mali-G57-1783856050.json"
   }
 ]
