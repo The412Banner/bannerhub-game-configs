@@ -1,5 +1,12 @@
 [
   {
+    "game": "Naruto_",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783859971,
+    "filename": "Naruto_-Xiaomi-23021RAAEG-Adreno__TM__610-1783859971.json"
+  },
+  {
     "game": "SHIFT_2_UNLEASHED_",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783825308,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1783825308.json"
-  },
-  {
-    "game": "l2grimoria",
-    "manufacturer": "moto_g82_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1783825023,
-    "filename": "l2grimoria-motorola-moto_g82_5G-Adreno__TM__619-1783825023.json"
   }
 ]
