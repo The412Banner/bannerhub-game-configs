@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g_8__power_lite",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1783897533,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__power_lite-PowerVR_Rogue_GE8320-1783897533.json"
+  },
+  {
     "game": "Grounded",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783886748,
     "filename": "NFSC-INFINIX-Infinix_X6833B-Mali-G57_MC2-1783886748.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "S62",
-    "device": "Adreno__TM__512",
-    "timestamp": 1783885720,
-    "filename": "ch5_pro-Cat-S62-Adreno__TM__512-1783885720.json"
   }
 ]
