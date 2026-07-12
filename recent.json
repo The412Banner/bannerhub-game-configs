@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783819010,
+    "filename": "Far_Cry_3-Xiaomi-23021RAAEG-Adreno__TM__610-1783819010.json"
+  },
+  {
     "game": "setup",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1783797710,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783797710.json"
-  },
-  {
-    "game": "Pes_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783796516,
-    "filename": "Pes_2013-Xiaomi-25028RN03L-Mali-G57-1783796516.json"
   }
 ]
