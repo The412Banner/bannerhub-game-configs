@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grounded",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1783897228,
+    "filename": "Grounded-Xiaomi-25053PC47G-Adreno__TM__825-1783897228.json"
+  },
+  {
     "game": "PES2020",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__512",
     "timestamp": 1783885720,
     "filename": "ch5_pro-Cat-S62-Adreno__TM__512-1783885720.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G998U1",
-    "device": "Adreno__TM__660",
-    "timestamp": 1783885480,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G998U1-Adreno__TM__660-1783885480.json"
   }
 ]
