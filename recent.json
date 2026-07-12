@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23073RPBFL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783866257,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23073RPBFL-Adreno__TM__610-1783866257.json"
+  },
+  {
     "game": "GTAV_Mod_Manager",
     "manufacturer": "itel_A6610L",
     "device": "PowerVR_Rogue_GE8322",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783856050,
     "filename": "citadel-Anbernic-RG_406H-Mali-G57-1783856050.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783856034,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1783856034.json"
   }
 ]
