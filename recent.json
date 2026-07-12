@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "G998U1",
+    "device": "Adreno__TM__660",
+    "timestamp": 1783885036,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G998U1-Adreno__TM__660-1783885036.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1783866458,
     "filename": "Tomb_Raider-ZTE-ZTE_A2023G-Adreno__TM__650-1783866458.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23073RPBFL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783866257,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23073RPBFL-Adreno__TM__610-1783866257.json"
   }
 ]
