@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783854424,
+    "filename": "Resident_Evil_2-TECNO-TECNO_LH7n-Mali-G57_MC2-1783854424.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1783820789,
     "filename": "Gold_Mining_Simulator-Xiaomi-2510EPC8BG-Adreno__TM__810-1783820789.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "23021RAAEG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783819010,
-    "filename": "Far_Cry_3-Xiaomi-23021RAAEG-Adreno__TM__610-1783819010.json"
   }
 ]
