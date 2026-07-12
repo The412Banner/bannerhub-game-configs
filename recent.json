@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sonic_Mania",
+    "manufacturer": "Mali",
+    "device": "G76_MC4",
+    "timestamp": 1783869982,
+    "filename": "Sonic_Mania-motorola-moto_g_60_s-Mali-G76_MC4-1783869982.json"
+  },
+  {
     "game": "DmC__Devil_May_Cry",
     "manufacturer": "RMX3840",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783862350,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2303ERA42L-Mali-G57_MC2-1783862350.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1783862133,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2312DRA50G-Adreno__TM__710-1783862133.json"
   }
 ]
