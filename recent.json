@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783892479,
+    "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-23100RN82L-Mali-G52_MC2-1783892479.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "21121210G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783874901,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6880-Mali-G57_MC2-1783874901.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783874888,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6880-Mali-G57_MC2-1783874888.json"
   }
 ]
