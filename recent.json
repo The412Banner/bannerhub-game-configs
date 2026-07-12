@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1783862095,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2312DRA50G-Adreno__TM__710-1783862095.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1783830030,
     "filename": "Pro_Evolution_Soccer_2017-samsung-SM-A546E-Mali-G68-1783830030.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1783829436,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783829436.json"
   }
 ]
