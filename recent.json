@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783885047,
+    "filename": "Far_Cry_3-Xiaomi-2409BRN2CA-Mali-G52_MC2-1783885047.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G998U1",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783867408,
     "filename": "MONSTER_HUNTER_FRONTIER-Xiaomi-2312DRAABG-Mali-G57_MC2-1783867408.json"
-  },
-  {
-    "game": "MONSTER_HUNTER_FRONTIER",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783866862,
-    "filename": "MONSTER_HUNTER_FRONTIER-Xiaomi-2312DRAABG-Mali-G57_MC2-1783866862.json"
   }
 ]
