@@ -1,5 +1,12 @@
 [
   {
+    "game": "citadel",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783856050,
+    "filename": "citadel-Anbernic-RG_406H-Mali-G57-1783856050.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__504",
     "timestamp": 1783822174,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-T290-Adreno__TM__504-1783822174.json"
-  },
-  {
-    "game": "Far_Cry__2",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783821226,
-    "filename": "Far_Cry__2-HONOR-NDL2-W09-Adreno__TM__610-1783821226.json"
   }
 ]
