@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1783816688,
+    "filename": "setup-Xiaomi-2312DRA50G-Adreno__TM__710-1783816688.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783796516,
     "filename": "Pes_2013-Xiaomi-25028RN03L-Mali-G57-1783796516.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1783796406,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1783796406.json"
   }
 ]
