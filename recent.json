@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783862506,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1783862506.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783832578,
     "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KL4-Mali-G57-1783832578.json"
-  },
-  {
-    "game": "HaveaNiceDeath",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1783832321,
-    "filename": "HaveaNiceDeath-ayn-Odin3-Adreno__TM__830-1783832321.json"
   }
 ]
