@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "S62",
+    "device": "Adreno__TM__512",
+    "timestamp": 1783885720,
+    "filename": "ch5_pro-Cat-S62-Adreno__TM__512-1783885720.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G998U1",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783868155,
     "filename": "DustwindResistance-Xiaomi-23021RAAEG-Adreno__TM__610-1783868155.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783867722,
-    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A666LN-Mali-G57-1783867722.json"
   }
 ]
