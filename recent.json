@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1783854399,
+    "filename": "DARK_SOULS___REMASTERED-samsung-SM-A346E-Mali-G68_MC4-1783854399.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783819010,
     "filename": "Far_Cry_3-Xiaomi-23021RAAEG-Adreno__TM__610-1783819010.json"
-  },
-  {
-    "game": "setup",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1783816688,
-    "filename": "setup-Xiaomi-2312DRA50G-Adreno__TM__710-1783816688.json"
   }
 ]
