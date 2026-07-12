@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__2",
+    "manufacturer": "W09",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783821226,
+    "filename": "Far_Cry__2-HONOR-NDL2-W09-Adreno__TM__610-1783821226.json"
+  },
+  {
     "game": "Gold_Mining_Simulator",
     "manufacturer": "2510EPC8BG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1783799326,
     "filename": "Foundation-Xiaomi-2311DRK48G-Mali-G615_MC6-1783799326.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1783797870,
-    "filename": "Resident_Evil_4-Xiaomi-25053PC47G-Adreno__TM__825-1783797870.json"
   }
 ]
