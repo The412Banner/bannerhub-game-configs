@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783830773,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-2404APC5FG-Mali-G52_MC2-1783830773.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783806079,
     "filename": "RAGE_Plugin_Hook-Xiaomi-24116RACCG-Mali-G57_MC2-1783806079.json"
-  },
-  {
-    "game": "RAGE_Plugin_Hook",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783806050,
-    "filename": "RAGE_Plugin_Hook-Xiaomi-24116RACCG-Mali-G57_MC2-1783806050.json"
   }
 ]
