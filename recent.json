@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1783964508,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1783964508.json"
+  },
+  {
     "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1783935355,
     "filename": "FTLGame-Xiaomi-22101316UG-Mali-G68_MC4-1783935355.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1783933988,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_CM8-Mali-G615_MC6-1783933988.json"
   }
 ]
