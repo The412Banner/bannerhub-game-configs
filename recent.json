@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783921902,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1783921902.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1783898517,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__power_lite-PowerVR_Rogue_GE8320-1783898517.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g_8__power_lite",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1783898374,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__power_lite-PowerVR_Rogue_GE8320-1783898374.json"
   }
 ]
