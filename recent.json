@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783919164,
+    "filename": "God_of_War-Xiaomi-23117RA68G-Mali-G57_MC2-1783919164.json"
+  },
+  {
     "game": "POSTAL_-_Classic_and_Uncut__________________________________",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1783898276,
     "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-AYANEO-Pocket_FIT-Adreno__TM__750-1783898276.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1783898016,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1783898016.json"
   }
 ]
