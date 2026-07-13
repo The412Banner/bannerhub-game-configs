@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1783966270,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1783966270.json"
+  },
+  {
     "game": "FS19_ANDROID",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1783937536,
     "filename": "Furi-Xiaomi-2511FPC34G-Mali-G720_MC8-1783937536.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1783936908,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-23049PCD8G-Adreno__TM__725-1783936908.json"
   }
 ]
