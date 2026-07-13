@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783942215,
+    "filename": "PES_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1783942215.json"
+  },
+  {
     "game": "Blur",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783920407,
     "filename": "God_of_War-Xiaomi-23117RA68G-Mali-G57_MC2-1783920407.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783919164,
-    "filename": "God_of_War-Xiaomi-23117RA68G-Mali-G57_MC2-1783919164.json"
   }
 ]
