@@ -1,5 +1,12 @@
 [
   {
+    "game": "Furi",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1783937536,
+    "filename": "Furi-Xiaomi-2511FPC34G-Mali-G720_MC8-1783937536.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783916288,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-samsung-SM-A155M-Mali-G57_MC2-1783916288.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S921B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1783916225,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S921B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1783916225.json"
   }
 ]
