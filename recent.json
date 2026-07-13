@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "25118PC98G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1783987109,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-25118PC98G-Adreno__TM__710-1783987109.json"
+  },
+  {
     "game": "Batman___Arkham_Origins",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783969295,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23028RA60L-Adreno__TM__610-1783969295.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1783968792,
-    "filename": "Resident_Evil_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1783968792.json"
   }
 ]
