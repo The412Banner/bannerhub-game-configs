@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sonic_and_the_Fallen_Star",
+    "manufacturer": "220333QNY",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783951864,
+    "filename": "Sonic_and_the_Fallen_Star-Xiaomi-220333QNY-Adreno__TM__610-1783951864.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "W09",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783930710,
     "filename": "BootstrapPackagedGame-Xiaomi-22120RN86G-Mali-G52_MC2-1783930710.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1783928220,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1783928220.json"
   }
 ]
