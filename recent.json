@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_2013",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1783976041,
+    "filename": "PES_2013-samsung-SM-A346M-Mali-G68_MC4-1783976041.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "motorola_one",
     "device": "Adreno__TM__506",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783951864,
     "filename": "Sonic_and_the_Fallen_Star-Xiaomi-220333QNY-Adreno__TM__610-1783951864.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783950961,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NDL-W09-Adreno__TM__610-1783950961.json"
   }
 ]
