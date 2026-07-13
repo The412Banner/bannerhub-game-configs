@@ -1,5 +1,12 @@
 [
   {
+    "game": "FTLGame",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1783935355,
+    "filename": "FTLGame-Xiaomi-22101316UG-Mali-G68_MC4-1783935355.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1783915464,
     "filename": "PES_2013-Xiaomi-23122PCD1G-Adreno__TM__710-1783915464.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783913216,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1783913216.json"
   }
 ]
