@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783965268,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e13-Mali-G57-1783965268.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g22",
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1783964508,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1783936883,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-23049PCD8G-Adreno__TM__725-1783936883.json"
-  },
-  {
-    "game": "FTLGame",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1783935355,
-    "filename": "FTLGame-Xiaomi-22101316UG-Mali-G68_MC4-1783935355.json"
   }
 ]
