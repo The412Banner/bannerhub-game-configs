@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "W09",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783950961,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NDL-W09-Adreno__TM__610-1783950961.json"
+  },
+  {
     "game": "Sonic_EXE_Remastered",
     "manufacturer": "A566B",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1783928220,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1783928220.json"
-  },
-  {
-    "game": "Battlefield_3_",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1783925000,
-    "filename": "Battlefield_3_-ayn-Odin3-Adreno__TM__830-1783925000.json"
   }
 ]
