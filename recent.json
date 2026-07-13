@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "motorola_one",
+    "device": "Adreno__TM__506",
+    "timestamp": 1783973913,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_one-Adreno__TM__506-1783973913.json"
+  },
+  {
     "game": "LUNATIC_DAWN_Passage_of_The_Book",
     "manufacturer": "G781B",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783950961,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NDL-W09-Adreno__TM__610-1783950961.json"
-  },
-  {
-    "game": "Sonic_EXE_Remastered",
-    "manufacturer": "A566B",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1783950010,
-    "filename": "Sonic_EXE_Remastered-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1783950010.json"
   }
 ]
