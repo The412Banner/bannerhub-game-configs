@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1783928220,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1783928220.json"
+  },
+  {
     "game": "Battlefield_3_",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1783907722,
     "filename": "GIANTS_Engine-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783907722.json"
-  },
-  {
-    "game": "Tales_of_ARISE",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1783901594,
-    "filename": "Tales_of_ARISE-AYANEO-Pocket_FIT-Adreno__TM__750-1783901594.json"
   }
 ]
