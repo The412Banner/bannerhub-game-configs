@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castlevania__Lords_of_Shadow_2",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783944195,
+    "filename": "Castlevania__Lords_of_Shadow_2-Xiaomi-23021RAAEG-Adreno__TM__610-1783944195.json"
+  },
+  {
     "game": "PES_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783921902,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1783921902.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783920407,
-    "filename": "God_of_War-Xiaomi-23117RA68G-Mali-G57_MC2-1783920407.json"
   }
 ]
