@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783913216,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1783913216.json"
+  },
+  {
     "game": "dmc3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1783897533,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__power_lite-PowerVR_Rogue_GE8320-1783897533.json"
-  },
-  {
-    "game": "Grounded",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1783897228,
-    "filename": "Grounded-Xiaomi-25053PC47G-Adreno__TM__825-1783897228.json"
   }
 ]
