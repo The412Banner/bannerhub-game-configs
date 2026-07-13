@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tales_of_ARISE",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1783901594,
+    "filename": "Tales_of_ARISE-AYANEO-Pocket_FIT-Adreno__TM__750-1783901594.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783895541,
     "filename": "Need_For_Speed_The_Run______________________________________-INFINIX-Infinix_X6833B-Mali-G57_MC2-1783895541.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1783895395,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1783895395.json"
   }
 ]
