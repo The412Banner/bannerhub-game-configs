@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783969740,
+    "filename": "PlayGTAV-Xiaomi-2409BRN2CY-Mali-G52_MC2-1783969740.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23028RA60L",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783949638,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1783949638.json"
-  },
-  {
-    "game": "Castlevania__Lords_of_Shadow_2",
-    "manufacturer": "23021RAAEG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1783948285,
-    "filename": "Castlevania__Lords_of_Shadow_2-Xiaomi-23021RAAEG-Adreno__TM__610-1783948285.json"
   }
 ]
