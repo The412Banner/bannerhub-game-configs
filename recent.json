@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blur",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1783940841,
+    "filename": "Blur-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1783940841.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1783919164,
     "filename": "God_of_War-Xiaomi-23117RA68G-Mali-G57_MC2-1783919164.json"
-  },
-  {
-    "game": "POSTAL_-_Classic_and_Uncut__________________________________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783916908,
-    "filename": "POSTAL_-_Classic_and_Uncut__________________________________-Xiaomi-2510DRA23E-Mali-G57_MC2-1783916908.json"
   }
 ]
