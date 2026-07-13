@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23028RA60L",
+    "device": "Adreno__TM__610",
+    "timestamp": 1783967621,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23028RA60L-Adreno__TM__610-1783967621.json"
+  },
+  {
     "game": "Mortal_Kombat_Project_",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783944195,
     "filename": "Castlevania__Lords_of_Shadow_2-Xiaomi-23021RAAEG-Adreno__TM__610-1783944195.json"
-  },
-  {
-    "game": "PES_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783942215,
-    "filename": "PES_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1783942215.json"
   }
 ]
