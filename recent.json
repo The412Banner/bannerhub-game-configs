@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield_3_",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1783925000,
+    "filename": "Battlefield_3_-ayn-Odin3-Adreno__TM__830-1783925000.json"
+  },
+  {
     "game": "F1_2011",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1783901594,
     "filename": "Tales_of_ARISE-AYANEO-Pocket_FIT-Adreno__TM__750-1783901594.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1783901573,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2312DRA50G-Adreno__TM__710-1783901573.json"
   }
 ]
