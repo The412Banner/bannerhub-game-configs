@@ -1,5 +1,12 @@
 [
   {
+    "game": "dmc3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783911507,
+    "filename": "dmc3-samsung-SM-A155M-Mali-G57_MC2-1783911507.json"
+  },
+  {
     "game": "Blacklist_Launcher",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1783897228,
     "filename": "Grounded-Xiaomi-25053PC47G-Adreno__TM__825-1783897228.json"
-  },
-  {
-    "game": "PES2020",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1783897225,
-    "filename": "PES2020-vivo-V2405A-Mali-G925-Immortalis_MC12-1783897225.json"
   }
 ]
