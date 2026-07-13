@@ -1,5 +1,12 @@
 [
   {
+    "game": "FS19_ANDROID",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1783965750,
+    "filename": "FS19_ANDROID-samsung-SM-A156U1-Mali-G57_MC2-1783965750.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1783936908,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-23049PCD8G-Adreno__TM__725-1783936908.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1783936883,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-23049PCD8G-Adreno__TM__725-1783936883.json"
   }
 ]
