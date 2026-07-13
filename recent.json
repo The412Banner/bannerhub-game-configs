@@ -1,5 +1,12 @@
 [
   {
+    "game": "OCTOPATH_TRAVELER_",
+    "manufacturer": "24117RK2CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1783933636,
+    "filename": "OCTOPATH_TRAVELER_-Xiaomi-24117RK2CG-Adreno__TM__750-1783933636.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Redmi_Note_8",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1783910939,
     "filename": "Blacklist_Launcher-INFINIX-Infinix_X6873-Mali-G615_MC6-1783910939.json"
-  },
-  {
-    "game": "sonic2app",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783909245,
-    "filename": "sonic2app-TECNO-TECNO_KI5k-Mali-G57-1783909245.json"
   }
 ]
