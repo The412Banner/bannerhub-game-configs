@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783923085,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409BRN2CA-Mali-G52_MC2-1783923085.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1783899632,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6873-Mali-G615_MC6-1783899632.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__722",
-    "timestamp": 1783899595,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-VKJ-NX9-Adreno__TM__722-1783899595.json"
   }
 ]
