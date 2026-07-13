@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blacklist_Launcher",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1783910939,
+    "filename": "Blacklist_Launcher-INFINIX-Infinix_X6873-Mali-G615_MC6-1783910939.json"
+  },
+  {
     "game": "sonic2app",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1783897225,
     "filename": "PES2020-vivo-V2405A-Mali-G925-Immortalis_MC12-1783897225.json"
-  },
-  {
-    "game": "Prince_of_Persia",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1783897221,
-    "filename": "Prince_of_Persia-AYN-AYN_Thor-Adreno__TM__740-1783897221.json"
   }
 ]
