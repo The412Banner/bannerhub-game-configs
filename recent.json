@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783930710,
+    "filename": "BootstrapPackagedGame-Xiaomi-22120RN86G-Mali-G52_MC2-1783930710.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783908249,
     "filename": "Hollow_Knight-Xiaomi-23021RAAEG-Adreno__TM__610-1783908249.json"
-  },
-  {
-    "game": "GIANTS_Engine",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1783907722,
-    "filename": "GIANTS_Engine-Xiaomi-2412DPC0AG-Mali-G720_MC7-1783907722.json"
   }
 ]
