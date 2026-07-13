@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sonic_EXE_Remastered",
+    "manufacturer": "A566B",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1783950010,
+    "filename": "Sonic_EXE_Remastered-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1783950010.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1783925000,
     "filename": "Battlefield_3_-ayn-Odin3-Adreno__TM__830-1783925000.json"
-  },
-  {
-    "game": "F1_2011",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783924208,
-    "filename": "F1_2011-Xiaomi-23117RA68G-Mali-G57_MC2-1783924208.json"
   }
 ]
