@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783979250,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1783979250.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M2010J19SG",
     "device": "Adreno__TM__610",
     "timestamp": 1783979138,
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1783964508,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1783964508.json"
-  },
-  {
-    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1783964312,
-    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1783964312.json"
   }
 ]
