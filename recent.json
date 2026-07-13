@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_Project_",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783967344,
+    "filename": "Mortal_Kombat_Project_-Anbernic-RG_Slide-Mali-G57-1783967344.json"
+  },
+  {
     "game": "Resident_Evil_7_Biohazard",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1783942215,
     "filename": "PES_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1783942215.json"
-  },
-  {
-    "game": "Blur",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1783940841,
-    "filename": "Blur-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1783940841.json"
   }
 ]
