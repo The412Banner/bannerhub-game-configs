@@ -1,5 +1,12 @@
 [
   {
+    "game": "sonic2app",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1783909245,
+    "filename": "sonic2app-TECNO-TECNO_KI5k-Mali-G57-1783909245.json"
+  },
+  {
     "game": "Hollow_Knight",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1783897221,
     "filename": "Prince_of_Persia-AYN-AYN_Thor-Adreno__TM__740-1783897221.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1783896388,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6873-Mali-G615_MC6-1783896388.json"
   }
 ]
