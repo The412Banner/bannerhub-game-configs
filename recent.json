@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1784044127,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G970F-Mali-G76-1784044127.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A725M",
     "device": "Adreno__TM__618",
     "timestamp": 1784043996,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1784014422,
     "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-OnePlus-CPH2447-Adreno__TM__740-1784014422.json"
-  },
-  {
-    "game": "IAmFish",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1784013673,
-    "filename": "IAmFish-Xiaomi-23043RP34G-Adreno__TM__650-1784013673.json"
   }
 ]
