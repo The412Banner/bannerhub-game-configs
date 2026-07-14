@@ -1,5 +1,12 @@
 [
   {
+    "game": "AlienQuest-EVE",
+    "manufacturer": "motorola_edge_20_pro",
+    "device": "Adreno__TM__650",
+    "timestamp": 1784030596,
+    "filename": "AlienQuest-EVE-motorola-motorola_edge_20_pro-Adreno__TM__650-1784030596.json"
+  },
+  {
     "game": "MK_AGP3_FINAL",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783998939,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX5303-Mali-G57-1783998939.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783998220,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23108RN04Y-Mali-G52_MC2-1783998220.json"
   }
 ]
