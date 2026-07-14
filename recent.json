@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784069282,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1784069282.json"
+  },
+  {
     "game": "Watch_Dogs__2",
     "manufacturer": "CPH2305",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1784051742,
     "filename": "State_of_Decay-nubia-NX809J-Adreno__TM__840-1784051742.json"
-  },
-  {
-    "game": "REANIMAL",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1784046154,
-    "filename": "REANIMAL-nubia-NX809J-Adreno__TM__840-1784046154.json"
   }
 ]
