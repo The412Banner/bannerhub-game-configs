@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784054999,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6525-Mali-G57-1784054999.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH2725",
     "device": "Adreno__TM__610",
     "timestamp": 1784054875,
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784035659,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1784035659.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784034444,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24040RN64Y-Mali-G52_MC2-1784034444.json"
   }
 ]
