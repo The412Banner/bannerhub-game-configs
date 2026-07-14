@@ -1,5 +1,12 @@
 [
   {
+    "game": "MK_AGP3_FINAL",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784025059,
+    "filename": "MK_AGP3_FINAL-samsung-SCG18-Mali-G57_MC2-1784025059.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1783995487,
     "filename": "Euro_Truck_Simulator_2-motorola-moto_g_20_-Mali-G52-1783995487.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1783995449,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1783995449.json"
   }
 ]
