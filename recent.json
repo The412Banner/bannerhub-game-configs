@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tormented_Souls_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1784056670,
+    "filename": "Tormented_Souls_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1784056670.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784035678,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1784035678.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784035659,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1784035659.json"
   }
 ]
