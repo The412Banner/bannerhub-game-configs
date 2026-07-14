@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784025718,
+    "filename": "Pro_Evolution_Soccer_2013-TCL-T517J-Mali-G52_MC2-1784025718.json"
+  },
+  {
     "game": "RAGE_Plugin_Hook",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1783997667,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X669C-PowerVR_Rogue_GE8320-1783997667.json"
-  },
-  {
-    "game": "DARK_SOULS_PREPARE_TO_DIE_EDITION",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1783997423,
-    "filename": "DARK_SOULS_PREPARE_TO_DIE_EDITION-samsung-SM-A165M-Mali-G57_MC2-1783997423.json"
   }
 ]
