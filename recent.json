@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1783995449,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1783995449.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Infinix_X669C",
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1783995281,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783976537,
     "filename": "Castlevania__Lords_of_Shadow_2-Xiaomi-23021RAAEG-Adreno__TM__610-1783976537.json"
-  },
-  {
-    "game": "PES_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1783976041,
-    "filename": "PES_2013-samsung-SM-A346M-Mali-G68_MC4-1783976041.json"
   }
 ]
