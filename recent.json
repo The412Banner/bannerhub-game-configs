@@ -1,5 +1,12 @@
 [
   {
+    "game": "ed8jp",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784067494,
+    "filename": "ed8jp-LENOVO-TB322FC-Adreno__TM__830-1784067494.json"
+  },
+  {
     "game": "_____2019",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784046066,
     "filename": "Pro_Evolution_Soccer_2013-TCL-T517J-Mali-G52_MC2-1784046066.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784046053,
-    "filename": "Pro_Evolution_Soccer_2013-TCL-T517J-Mali-G52_MC2-1784046053.json"
   }
 ]
