@@ -1,5 +1,12 @@
 [
   {
+    "game": "IAmFish",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1784013673,
+    "filename": "IAmFish-Xiaomi-23043RP34G-Adreno__TM__650-1784013673.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1783992146,
     "filename": "Pro_Evolution_Soccer_2013_DEMO_______________________-motorola-moto_g14-Mali-G57-1783992146.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013_DEMO_______________________",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1783992136,
-    "filename": "Pro_Evolution_Soccer_2013_DEMO_______________________-motorola-moto_g14-Mali-G57-1783992136.json"
   }
 ]
