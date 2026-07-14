@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784014506,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1784014506.json"
+  },
+  {
     "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
     "manufacturer": "CPH2447",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1783995449,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1783995449.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Infinix_X669C",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1783995281,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X669C-PowerVR_Rogue_GE8320-1783995281.json"
   }
 ]
