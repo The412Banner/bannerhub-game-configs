@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S711B",
+    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
+    "timestamp": 1784053860,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1784053860.json"
+  },
+  {
     "game": "PES_2013",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1784032667,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1784032667.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1784032477,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S918B-Adreno__TM__740-1784032477.json"
   }
 ]
