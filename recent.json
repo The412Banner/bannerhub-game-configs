@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs__2",
+    "manufacturer": "CPH2305",
+    "device": "Adreno__TM__730",
+    "timestamp": 1784069220,
+    "filename": "Watch_Dogs__2-OPPO-CPH2305-Adreno__TM__730-1784069220.json"
+  },
+  {
     "game": "ed8jp",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1784046154,
     "filename": "REANIMAL-nubia-NX809J-Adreno__TM__840-1784046154.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784046066,
-    "filename": "Pro_Evolution_Soccer_2013-TCL-T517J-Mali-G52_MC2-1784046066.json"
   }
 ]
