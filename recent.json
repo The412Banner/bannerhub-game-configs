@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alan_Wake",
+    "manufacturer": "Mali",
+    "device": "G610_MC4",
+    "timestamp": 1784040307,
+    "filename": "Alan_Wake-Xiaomi-23090RA98G-Mali-G610_MC4-1784040307.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784013090,
     "filename": "DRAGON_BALL_FighterZ-samsung-SM-A055F-Mali-G52_MC2-1784013090.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1784011434,
-    "filename": "_____2019-Xiaomi-M2102J20SG-Adreno__TM__640-1784011434.json"
   }
 ]
