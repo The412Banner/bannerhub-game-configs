@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784045674,
+    "filename": "Pro_Evolution_Soccer_2013-TCL-T517J-Mali-G52_MC2-1784045674.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G76",
     "timestamp": 1784044127,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G970F-Mali-G76-1784044127.json"
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784014506,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1784014506.json"
-  },
-  {
-    "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
-    "manufacturer": "CPH2447",
-    "device": "Adreno__TM__740",
-    "timestamp": 1784014422,
-    "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-OnePlus-CPH2447-Adreno__TM__740-1784014422.json"
   }
 ]
