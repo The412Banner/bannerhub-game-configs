@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1783998220,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23108RN04Y-Mali-G52_MC2-1783998220.json"
+  },
+  {
     "game": "MONSTER_HUNTER_RISE",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1783982040,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1783982040.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1783979250,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1783979250.json"
   }
 ]
