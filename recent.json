@@ -1,5 +1,12 @@
 [
   {
+    "game": "_____2019",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1784011434,
+    "filename": "_____2019-Xiaomi-M2102J20SG-Adreno__TM__640-1784011434.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1783987466,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1783987466.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "25118PC98G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1783987109,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-25118PC98G-Adreno__TM__710-1783987109.json"
   }
 ]
