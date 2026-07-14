@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Infinix_X669C",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1783997667,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X669C-PowerVR_Rogue_GE8320-1783997667.json"
+  },
+  {
     "game": "DARK_SOULS_PREPARE_TO_DIE_EDITION",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1783979138,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2010J19SG-Adreno__TM__610-1783979138.json"
-  },
-  {
-    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1783977324,
-    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1783977324.json"
   }
 ]
