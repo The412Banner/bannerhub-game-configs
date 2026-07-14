@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784046053,
+    "filename": "Pro_Evolution_Soccer_2013-TCL-T517J-Mali-G52_MC2-1784046053.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784025067,
     "filename": "RAGE_Plugin_Hook-Xiaomi-24116RACCG-Mali-G57_MC2-1784025067.json"
-  },
-  {
-    "game": "MK_AGP3_FINAL",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784025059,
-    "filename": "MK_AGP3_FINAL-samsung-SCG18-Mali-G57_MC2-1784025059.json"
   }
 ]
