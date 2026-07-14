@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Infinix_X669C",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1783995281,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X669C-PowerVR_Rogue_GE8320-1783995281.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013_DEMO_______________________",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1783976041,
     "filename": "PES_2013-samsung-SM-A346M-Mali-G68_MC4-1783976041.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_one",
-    "device": "Adreno__TM__506",
-    "timestamp": 1783973913,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_one-Adreno__TM__506-1783973913.json"
   }
 ]
