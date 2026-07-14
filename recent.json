@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A725M",
+    "device": "Adreno__TM__618",
+    "timestamp": 1784043996,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A725M-Adreno__TM__618-1784043996.json"
+  },
+  {
     "game": "Alan_Wake",
     "manufacturer": "Mali",
     "device": "G610_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1784013673,
     "filename": "IAmFish-Xiaomi-23043RP34G-Adreno__TM__650-1784013673.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784013090,
-    "filename": "DRAGON_BALL_FighterZ-samsung-SM-A055F-Mali-G52_MC2-1784013090.json"
   }
 ]
