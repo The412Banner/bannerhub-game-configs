@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hitman__Absolution_",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784134748,
+    "filename": "Hitman__Absolution_-motorola-moto_g45_5G-Adreno__TM__619-1784134748.json"
+  },
+  {
     "game": "Need_for_Speed__Most_Wanted",
     "manufacturer": "25102PCBEG",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784107229,
     "filename": "gta_sa-INFINIX-Infinix_X6880-Mali-G57_MC2-1784107229.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784106129,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1784106129.json"
   }
 ]
