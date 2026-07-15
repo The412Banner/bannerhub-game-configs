@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784127415,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1784127415.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1784127376,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A035M-Mali-G57-1784127376.json"
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1784103596,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784103596.json"
-  },
-  {
-    "game": "DP",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784101763,
-    "filename": "DP-Xiaomi-22120RN86G-Mali-G52_MC2-1784101763.json"
   }
 ]
