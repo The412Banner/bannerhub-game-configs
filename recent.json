@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_18",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1784157704,
+    "filename": "FIFA_18-samsung-SM-S901E-Adreno__TM__730-1784157704.json"
+  },
+  {
     "game": "gunslugs3",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784137557,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1784137557.json"
-  },
-  {
-    "game": "Hollow_Knight",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1784137356,
-    "filename": "Hollow_Knight-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1784137356.json"
   }
 ]
