@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "ASUS_I005DTC",
+    "device": "Adreno__TM__660",
+    "timestamp": 1784140056,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-asus-ASUS_I005DTC-Adreno__TM__660-1784140056.json"
+  },
+  {
     "game": "NINJA_GAIDEN_Ragebound",
     "manufacturer": "TB323FU",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784134788,
     "filename": "Oceanhorn_2-motorola-moto_g45_5G-Adreno__TM__619-1784134788.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784134780,
-    "filename": "DARK_SOULS___REMASTERED-motorola-moto_g45_5G-Adreno__TM__619-1784134780.json"
   }
 ]
