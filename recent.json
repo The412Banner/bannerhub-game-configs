@@ -1,5 +1,12 @@
 [
   {
+    "game": "gunslugs3",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784153062,
+    "filename": "gunslugs3-Xiaomi-23129RA5FL-Adreno__TM__610-1784153062.json"
+  },
+  {
     "game": "DmC__Devil_May_Cry",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1784137356,
     "filename": "Hollow_Knight-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1784137356.json"
-  },
-  {
-    "game": "GRIME",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1784137341,
-    "filename": "GRIME-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1784137341.json"
   }
 ]
