@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty__World_at_War",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1784142922,
+    "filename": "Call_of_Duty__World_at_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784142922.json"
+  },
+  {
     "game": "Battlefield__Bad_Company__2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784135510,
     "filename": "SonicMania-Xiaomi-220333QNY-Adreno__TM__610-1784135510.json"
-  },
-  {
-    "game": "Ninja_Blade",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784134823,
-    "filename": "Ninja_Blade-motorola-moto_g45_5G-Adreno__TM__619-1784134823.json"
   }
 ]
