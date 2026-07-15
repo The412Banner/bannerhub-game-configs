@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFSC",
+    "manufacturer": "Redmi_Note_9S",
+    "device": "SM7125",
+    "timestamp": 1784145097,
+    "filename": "NFSC-Xiaomi-Redmi_Note_9S-SM7125-1784145097.json"
+  },
+  {
     "game": "7Launcher_-_Resident_Evil_4_1_7_0_7_________________________",
     "manufacturer": "Mali",
     "device": "G71",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1784136243,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2312DRA50G-Adreno__TM__710-1784136243.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1784135720,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2312DRA50G-Adreno__TM__710-1784135720.json"
   }
 ]
