@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1784130735,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1784130735.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1784127415,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1784127415.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1784105976,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1784105976.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1784103596,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784103596.json"
   }
 ]
