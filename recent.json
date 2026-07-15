@@ -1,5 +1,12 @@
 [
   {
+    "game": "Star_Wars__The_Force_Unleashed",
+    "manufacturer": "25102PCBEG",
+    "device": "Adreno__TM__840",
+    "timestamp": 1784133069,
+    "filename": "Star_Wars__The_Force_Unleashed-Xiaomi-25102PCBEG-Adreno__TM__840-1784133069.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784106117,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1784106117.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1784105976,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1784105976.json"
   }
 ]
