@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1784105976,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1784105976.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1784076956,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2410CRP4CG-Adreno__TM__732-1784076956.json"
-  },
-  {
-    "game": "The_Evil_Within_2",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1784075324,
-    "filename": "The_Evil_Within_2-ayn-Odin3-Adreno__TM__830-1784075324.json"
   }
 ]
