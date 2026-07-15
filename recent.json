@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC__Devil_May_Cry",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784152290,
+    "filename": "DmC__Devil_May_Cry-Xiaomi-23129RA5FL-Adreno__TM__610-1784152290.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1784137341,
     "filename": "GRIME-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1784137341.json"
-  },
-  {
-    "game": "HunterX",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1784137324,
-    "filename": "HunterX-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1784137324.json"
   }
 ]
