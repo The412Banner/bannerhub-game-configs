@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1784145664,
+    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1784145664.json"
+  },
+  {
     "game": "NFSC",
     "manufacturer": "Redmi_Note_9S",
     "device": "SM7125",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784136409,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A075M-Mali-G57_MC2-1784136409.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1784136243,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2312DRA50G-Adreno__TM__710-1784136243.json"
   }
 ]
