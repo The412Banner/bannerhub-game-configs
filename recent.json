@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784149367,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-samsung-SM-A055M-Mali-G52_MC2-1784149367.json"
+  },
+  {
     "game": "_____2019",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1784137317,
     "filename": "ENDER_LILIES__Quietus_of_the_Knights-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1784137317.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1784137262,
-    "filename": "The_Elder_Scrolls_V__Skyrim-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1784137262.json"
   }
 ]
