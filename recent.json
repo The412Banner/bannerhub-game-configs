@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784087926,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1784087926.json"
+  },
+  {
     "game": "Awaria",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784074546,
     "filename": "SonicMania-Xiaomi-220333QNY-Adreno__TM__610-1784074546.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784073663,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6525-Mali-G57-1784073663.json"
   }
 ]
