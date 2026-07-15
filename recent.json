@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784137557,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1784137557.json"
+  },
+  {
     "game": "Hollow_Knight",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784134765,
     "filename": "NARUTO_STORM_3_FB-motorola-moto_g45_5G-Adreno__TM__619-1784134765.json"
-  },
-  {
-    "game": "WayOfTheSamurai4",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784134759,
-    "filename": "WayOfTheSamurai4-motorola-moto_g45_5G-Adreno__TM__619-1784134759.json"
   }
 ]
