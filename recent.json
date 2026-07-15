@@ -1,5 +1,12 @@
 [
   {
+    "game": "Installer",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784142689,
+    "filename": "Installer-TECNO-TECNO_KL7-Mali-G57_MC2-1784142689.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "23124RA7EO",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784134799,
     "filename": "NFS_Underground_2-motorola-moto_g45_5G-Adreno__TM__619-1784134799.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784134792,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-motorola-moto_g45_5G-Adreno__TM__619-1784134792.json"
   }
 ]
