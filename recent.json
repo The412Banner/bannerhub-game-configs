@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1784124823,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2312DRA50G-Adreno__TM__710-1784124823.json"
+  },
+  {
     "game": "Sifu",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784093639,
     "filename": "Resident_Evil_Revelations_2-INFINIX-Infinix_X6882-Mali-G57_MC2-1784093639.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1784088954,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A336M-Mali-G68-1784088954.json"
   }
 ]
