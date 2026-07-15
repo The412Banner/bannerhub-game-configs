@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "G720",
+    "device": "Immortalis_MC12",
+    "timestamp": 1784138874,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-X920-Mali-G720-Immortalis_MC12-1784138874.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1784137557,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784134769,
     "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-motorola-moto_g45_5G-Adreno__TM__619-1784134769.json"
-  },
-  {
-    "game": "NARUTO_STORM_3_FB",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784134765,
-    "filename": "NARUTO_STORM_3_FB-motorola-moto_g45_5G-Adreno__TM__619-1784134765.json"
   }
 ]
