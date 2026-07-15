@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784077560,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1784077560.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__644",
     "timestamp": 1784061633,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M556B-Adreno__TM__644-1784061633.json"
-  },
-  {
-    "game": "______Newera_Heroes__Chronicle",
-    "manufacturer": "CPH2687",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784059942,
-    "filename": "______Newera_Heroes__Chronicle-OPPO-CPH2687-Adreno__TM__610-1784059942.json"
   }
 ]
