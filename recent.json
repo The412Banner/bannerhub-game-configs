@@ -1,5 +1,12 @@
 [
   {
+    "game": "WayOfTheSamurai4",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784134759,
+    "filename": "WayOfTheSamurai4-motorola-moto_g45_5G-Adreno__TM__619-1784134759.json"
+  },
+  {
     "game": "Hitman__Absolution_",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784109913,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g35_5G-Mali-G57-1784109913.json"
-  },
-  {
-    "game": "gta_sa",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784107229,
-    "filename": "gta_sa-INFINIX-Infinix_X6880-Mali-G57_MC2-1784107229.json"
   }
 ]
