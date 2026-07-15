@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Elder_Scrolls_V__Skyrim",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1784137262,
+    "filename": "The_Elder_Scrolls_V__Skyrim-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1784137262.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Retroid_Pocket_G2",
     "device": "Adreno__TM__22",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1784130735,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1784130735.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784127415,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1784127415.json"
   }
 ]
