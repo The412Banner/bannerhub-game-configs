@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1784135720,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2312DRA50G-Adreno__TM__710-1784135720.json"
+  },
+  {
     "game": "SonicMania",
     "manufacturer": "220333QNY",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1784124823,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2312DRA50G-Adreno__TM__710-1784124823.json"
-  },
-  {
-    "game": "Sifu",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784123479,
-    "filename": "Sifu-samsung-SM-A057M-Adreno__TM__610-1784123479.json"
   }
 ]
