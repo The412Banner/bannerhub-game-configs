@@ -1,5 +1,12 @@
 [
   {
+    "game": "BEYBLADE_X_XONE",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784139117,
+    "filename": "BEYBLADE_X_XONE-motorola-moto_g14-Mali-G57-1784139117.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784134774,
     "filename": "The_Elder_Scrolls_V__Skyrim-motorola-moto_g45_5G-Adreno__TM__619-1784134774.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784134769,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-motorola-moto_g45_5G-Adreno__TM__619-1784134769.json"
   }
 ]
