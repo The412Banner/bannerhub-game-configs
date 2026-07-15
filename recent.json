@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784075163,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5303-Mali-G57-1784075163.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1784074964,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1784074964.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784057477,
     "filename": "Mafia__Definitive_Edition-samsung-SM-S928B-Adreno__TM__750-1784057477.json"
-  },
-  {
-    "game": "Tormented_Souls_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1784056670,
-    "filename": "Tormented_Souls_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1784056670.json"
   }
 ]
