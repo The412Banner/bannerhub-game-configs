@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Evil_Within_2",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784075324,
+    "filename": "The_Evil_Within_2-ayn-Odin3-Adreno__TM__830-1784075324.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1784059605,
     "filename": "Resident_Evil_5-Xiaomi-25053PC47G-Adreno__TM__825-1784059605.json"
-  },
-  {
-    "game": "Mafia__Definitive_Edition",
-    "manufacturer": "S928B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1784057477,
-    "filename": "Mafia__Definitive_Edition-samsung-SM-S928B-Adreno__TM__750-1784057477.json"
   }
 ]
