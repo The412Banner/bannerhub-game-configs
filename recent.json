@@ -1,5 +1,12 @@
 [
   {
+    "game": "SonicMania",
+    "manufacturer": "220333QNY",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784074546,
+    "filename": "SonicMania-Xiaomi-220333QNY-Adreno__TM__610-1784074546.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
     "timestamp": 1784053860,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1784053860.json"
-  },
-  {
-    "game": "PES_2013",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784052978,
-    "filename": "PES_2013-samsung-SM-A057M-Adreno__TM__610-1784052978.json"
   }
 ]
