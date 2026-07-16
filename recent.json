@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "ASUS_I005DTC",
+    "device": "Adreno__TM__660",
+    "timestamp": 1784169956,
+    "filename": "DRAGON_BALL__Sparking__ZERO-asus-ASUS_I005DTC-Adreno__TM__660-1784169956.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784149367,
     "filename": "PRO_EVOLUTION_SOCCER_2018-samsung-SM-A055M-Mali-G52_MC2-1784149367.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784148088,
-    "filename": "_____2019-Xiaomi-25078RA3EL-Mali-G52_MC2-1784148088.json"
   }
 ]
