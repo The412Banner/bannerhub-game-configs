@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "ASUS_I005DTC",
+    "device": "Adreno__TM__660",
+    "timestamp": 1784170758,
+    "filename": "DRAGON_BALL__Sparking__ZERO-asus-ASUS_I005DTC-Adreno__TM__660-1784170758.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1784157704,
     "filename": "FIFA_18-samsung-SM-S901E-Adreno__TM__730-1784157704.json"
-  },
-  {
-    "game": "gunslugs3",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784153062,
-    "filename": "gunslugs3-Xiaomi-23129RA5FL-Adreno__TM__610-1784153062.json"
   }
 ]
