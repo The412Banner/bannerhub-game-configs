@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g82_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784239179,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g82_5G-Adreno__TM__619-1784239179.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1784222668,
     "filename": "Darksiders_II_Deathinitive_Edition-Xiaomi-24069RA21C-Adreno__TM__735-1784222668.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784222633,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1784222633.json"
   }
 ]
