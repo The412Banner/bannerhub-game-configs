@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blasphemous",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784172478,
+    "filename": "Blasphemous-Anbernic-RG556-Mali-G57-1784172478.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "ASUS_I005DTC",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1784162395,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g75_5G-Adreno__TM__710-1784162395.json"
-  },
-  {
-    "game": "FIFA_18",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1784157704,
-    "filename": "FIFA_18-samsung-SM-S901E-Adreno__TM__730-1784157704.json"
   }
 ]
