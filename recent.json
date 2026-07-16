@@ -1,5 +1,12 @@
 [
   {
+    "game": "Language_Selector",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784221451,
+    "filename": "Language_Selector-samsung-SM-S938B-Adreno__TM__830-1784221451.json"
+  },
+  {
     "game": "Prototype_",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784202966,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1784202966.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784202962,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1784202962.json"
   }
 ]
