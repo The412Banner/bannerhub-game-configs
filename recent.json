@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Retroid_Pocket_Flip2",
+    "device": "Adreno__TM__650",
+    "timestamp": 1784166732,
+    "filename": "PlayGTAV-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1784166732.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1784145664,
     "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1784145664.json"
-  },
-  {
-    "game": "NFSC",
-    "manufacturer": "Redmi_Note_9S",
-    "device": "SM7125",
-    "timestamp": 1784145097,
-    "filename": "NFSC-Xiaomi-Redmi_Note_9S-SM7125-1784145097.json"
   }
 ]
