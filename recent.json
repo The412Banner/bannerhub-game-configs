@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1784227007,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1784227007.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
     "timestamp": 1784225711,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1784213815,
     "filename": "Resident_Evil_2-samsung-SM-S938B-Adreno__TM__830-1784213815.json"
-  },
-  {
-    "game": "The_Walking_Dead__The_Final_Season",
-    "manufacturer": "23076PC4BI",
-    "device": "Adreno__TM__613",
-    "timestamp": 1784210603,
-    "filename": "The_Walking_Dead__The_Final_Season-Xiaomi-23076PC4BI-Adreno__TM__613-1784210603.json"
   }
 ]
