@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784164059,
+    "filename": "Sleeping_Dogs-Xiaomi-2510DRA23E-Mali-G57_MC2-1784164059.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784141353,
     "filename": "BootstrapPackagedGame-Xiaomi-23124RA7EO-Adreno__TM__610-1784141353.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "ASUS_I005DTC",
-    "device": "Adreno__TM__660",
-    "timestamp": 1784140056,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-asus-ASUS_I005DTC-Adreno__TM__660-1784140056.json"
   }
 ]
