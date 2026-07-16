@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784170709,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1784170709.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "ASUS_I005DTC",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784153062,
     "filename": "gunslugs3-Xiaomi-23129RA5FL-Adreno__TM__610-1784153062.json"
-  },
-  {
-    "game": "DmC__Devil_May_Cry",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784152290,
-    "filename": "DmC__Devil_May_Cry-Xiaomi-23129RA5FL-Adreno__TM__610-1784152290.json"
   }
 ]
