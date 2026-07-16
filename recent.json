@@ -1,5 +1,12 @@
 [
   {
+    "game": "pes_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784242213,
+    "filename": "pes_2013-samsung-SM-A065M-Mali-G52_MC2-1784242213.json"
+  },
+  {
     "game": "Ultra_Street_Fighter__IV",
     "manufacturer": "motorola_edge_30_pro",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784224025,
     "filename": "Griftlands-unknown-GammaOS_Lite-Mali-G57-1784224025.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784223728,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1784223728.json"
   }
 ]
