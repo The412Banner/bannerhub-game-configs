@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784174611,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1784174611.json"
+  },
+  {
     "game": "Bully",
     "manufacturer": "F731B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784163668,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1784163668.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2_Demo",
-    "manufacturer": "A042F",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1784163397,
-    "filename": "Euro_Truck_Simulator_2_Demo-samsung-SM-A042F-PowerVR_Rogue_GE8320-1784163397.json"
   }
 ]
