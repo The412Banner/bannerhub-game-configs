@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1784230399,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784230399.json"
+  },
+  {
     "game": "pes_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784220778,
     "filename": "Prototype_-SHENQIJIYUAN-Z2571N-Mali-G57-1784220778.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1784220746,
-    "filename": "PlayGTAV-HONOR-ALI-NX1-Adreno__TM__710-1784220746.json"
   }
 ]
