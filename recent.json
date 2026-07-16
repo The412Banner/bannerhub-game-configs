@@ -1,5 +1,12 @@
 [
   {
+    "game": "pes_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784229750,
+    "filename": "pes_2013-samsung-SM-A065M-Mali-G52_MC2-1784229750.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1784220746,
     "filename": "PlayGTAV-HONOR-ALI-NX1-Adreno__TM__710-1784220746.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1784220670,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-Adreno__TM__710-1784220670.json"
   }
 ]
