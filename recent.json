@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Walking_Dead__The_Final_Season",
+    "manufacturer": "23076PC4BI",
+    "device": "Adreno__TM__613",
+    "timestamp": 1784210592,
+    "filename": "The_Walking_Dead__The_Final_Season-Xiaomi-23076PC4BI-Adreno__TM__613-1784210592.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1784174055,
     "filename": "Tempus_Triad_Demo-Xiaomi-23049PCD8G-Adreno__TM__725-1784174055.json"
-  },
-  {
-    "game": "Blasphemous",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784172478,
-    "filename": "Blasphemous-Anbernic-RG556-Mali-G57-1784172478.json"
   }
 ]
