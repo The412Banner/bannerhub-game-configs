@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1784165967,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24095PCADG-Mali-G615_MC2-1784165967.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "SM7125",
     "timestamp": 1784145097,
     "filename": "NFSC-Xiaomi-Redmi_Note_9S-SM7125-1784145097.json"
-  },
-  {
-    "game": "7Launcher_-_Resident_Evil_4_1_7_0_7_________________________",
-    "manufacturer": "Mali",
-    "device": "G71",
-    "timestamp": 1784144570,
-    "filename": "7Launcher_-_Resident_Evil_4_1_7_0_7_________________________-samsung-SM-A205F-Mali-G71-1784144570.json"
   }
 ]
