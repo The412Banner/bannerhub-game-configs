@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tempus_Triad_Demo",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1784174055,
+    "filename": "Tempus_Triad_Demo-Xiaomi-23049PCD8G-Adreno__TM__725-1784174055.json"
+  },
+  {
     "game": "Blasphemous",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784163234,
     "filename": "Tomb_Raider__Underworld-motorola-moto_g84_5G-Adreno__TM__619-1784163234.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1784162395,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g75_5G-Adreno__TM__710-1784162395.json"
   }
 ]
