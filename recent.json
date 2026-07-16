@@ -3,6 +3,13 @@
     "game": "Sleeping_Dogs",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1784164063,
+    "filename": "Sleeping_Dogs-Xiaomi-2510DRA23E-Mali-G57_MC2-1784164063.json"
+  },
+  {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1784164059,
     "filename": "Sleeping_Dogs-Xiaomi-2510DRA23E-Mali-G57_MC2-1784164059.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784142689,
     "filename": "Installer-TECNO-TECNO_KL7-Mali-G57_MC2-1784142689.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "23124RA7EO",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784141353,
-    "filename": "BootstrapPackagedGame-Xiaomi-23124RA7EO-Adreno__TM__610-1784141353.json"
   }
 ]
