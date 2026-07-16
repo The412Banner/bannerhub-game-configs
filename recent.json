@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784163668,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1784163668.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2_Demo",
     "manufacturer": "A042F",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1784140056,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-asus-ASUS_I005DTC-Adreno__TM__660-1784140056.json"
-  },
-  {
-    "game": "NINJA_GAIDEN_Ragebound",
-    "manufacturer": "TB323FU",
-    "device": "Adreno__TM__840",
-    "timestamp": 1784139756,
-    "filename": "NINJA_GAIDEN_Ragebound-LENOVO-TB323FU-Adreno__TM__840-1784139756.json"
   }
 ]
