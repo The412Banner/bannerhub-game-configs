@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1784165140,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1784165140.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1784142874,
     "filename": "Battlefield__Bad_Company__2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784142874.json"
-  },
-  {
-    "game": "Installer",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784142689,
-    "filename": "Installer-TECNO-TECNO_KL7-Mali-G57_MC2-1784142689.json"
   }
 ]
