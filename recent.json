@@ -1,5 +1,12 @@
 [
   {
+    "game": "CrashBandicootNSaneTrilogy",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784221468,
+    "filename": "CrashBandicootNSaneTrilogy-samsung-SM-S938B-Adreno__TM__830-1784221468.json"
+  },
+  {
     "game": "Language_Selector",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784205586,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1784205586.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784202966,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1784202966.json"
   }
 ]
