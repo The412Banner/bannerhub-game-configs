@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "24115RA8EG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1784236697,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-24115RA8EG-Adreno__TM__810-1784236697.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1784221468,
     "filename": "CrashBandicootNSaneTrilogy-samsung-SM-S938B-Adreno__TM__830-1784221468.json"
-  },
-  {
-    "game": "Language_Selector",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1784221451,
-    "filename": "Language_Selector-samsung-SM-S938B-Adreno__TM__830-1784221451.json"
   }
 ]
