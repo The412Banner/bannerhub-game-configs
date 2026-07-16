@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1784181100,
+    "filename": "PlayGTAV-motorola-motorola_edge_50_neo-Mali-G615_MC2-1784181100.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1784165705,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24095PCADG-Mali-G615_MC2-1784165705.json"
-  },
-  {
-    "game": "Ori_and_the_Will_of_the_Wisps",
-    "manufacturer": "2201116PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784165312,
-    "filename": "Ori_and_the_Will_of_the_Wisps-Xiaomi-2201116PG-Adreno__TM__619-1784165312.json"
   }
 ]
