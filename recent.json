@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1784225711,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S911B-Adreno__TM__740-1784225711.json"
+  },
+  {
     "game": "Griftlands",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__613",
     "timestamp": 1784210603,
     "filename": "The_Walking_Dead__The_Final_Season-Xiaomi-23076PC4BI-Adreno__TM__613-1784210603.json"
-  },
-  {
-    "game": "The_Walking_Dead__The_Final_Season",
-    "manufacturer": "23076PC4BI",
-    "device": "Adreno__TM__613",
-    "timestamp": 1784210592,
-    "filename": "The_Walking_Dead__The_Final_Season-Xiaomi-23076PC4BI-Adreno__TM__613-1784210592.json"
   }
 ]
