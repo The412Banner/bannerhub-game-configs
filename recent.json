@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1784165940,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784165940.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G71",
     "timestamp": 1784144570,
     "filename": "7Launcher_-_Resident_Evil_4_1_7_0_7_________________________-samsung-SM-A205F-Mali-G71-1784144570.json"
-  },
-  {
-    "game": "Call_of_Duty__World_at_War",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1784142922,
-    "filename": "Call_of_Duty__World_at_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784142922.json"
   }
 ]
