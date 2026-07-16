@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ori_and_the_Will_of_the_Wisps",
+    "manufacturer": "2201116PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784165312,
+    "filename": "Ori_and_the_Will_of_the_Wisps-Xiaomi-2201116PG-Adreno__TM__619-1784165312.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1784142888,
     "filename": "Battlefield__Bad_Company__2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784142888.json"
-  },
-  {
-    "game": "Battlefield__Bad_Company__2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1784142874,
-    "filename": "Battlefield__Bad_Company__2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784142874.json"
   }
 ]
