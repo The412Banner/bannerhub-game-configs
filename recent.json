@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2_Demo",
+    "manufacturer": "A042F",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1784163397,
+    "filename": "Euro_Truck_Simulator_2_Demo-samsung-SM-A042F-PowerVR_Rogue_GE8320-1784163397.json"
+  },
+  {
     "game": "Tomb_Raider__Underworld",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1784139756,
     "filename": "NINJA_GAIDEN_Ragebound-LENOVO-TB323FU-Adreno__TM__840-1784139756.json"
-  },
-  {
-    "game": "BEYBLADE_X_XONE",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784139117,
-    "filename": "BEYBLADE_X_XONE-motorola-moto_g14-Mali-G57-1784139117.json"
   }
 ]
