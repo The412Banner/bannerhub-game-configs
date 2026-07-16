@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1784208957,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1784208957.json"
+  },
+  {
     "game": "ColdFear",
     "manufacturer": "V2536A",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784172478,
     "filename": "Blasphemous-Anbernic-RG556-Mali-G57-1784172478.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "ASUS_I005DTC",
-    "device": "Adreno__TM__660",
-    "timestamp": 1784170758,
-    "filename": "DRAGON_BALL__Sparking__ZERO-asus-ASUS_I005DTC-Adreno__TM__660-1784170758.json"
   }
 ]
