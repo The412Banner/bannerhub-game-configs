@@ -1,5 +1,12 @@
 [
   {
+    "game": "Darksiders_II_Deathinitive_Edition",
+    "manufacturer": "24069RA21C",
+    "device": "Adreno__TM__735",
+    "timestamp": 1784222668,
+    "filename": "Darksiders_II_Deathinitive_Edition-Xiaomi-24069RA21C-Adreno__TM__735-1784222668.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__829",
     "timestamp": 1784207437,
     "filename": "ColdFear-vivo-V2536A-Adreno__TM__829-1784207437.json"
-  },
-  {
-    "game": "EA_SPORTS__FIFA_21",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1784206066,
-    "filename": "EA_SPORTS__FIFA_21-Xiaomi-25080RABDG-Mali-G615_MC2-1784206066.json"
   }
 ]
