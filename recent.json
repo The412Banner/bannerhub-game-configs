@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ultra_Street_Fighter__IV",
+    "manufacturer": "motorola_edge_30_pro",
+    "device": "Adreno__TM__730",
+    "timestamp": 1784241120,
+    "filename": "Ultra_Street_Fighter__IV-motorola-motorola_edge_30_pro-Adreno__TM__730-1784241120.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g82_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784223728,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1784223728.json"
-  },
-  {
-    "game": "Darksiders_II_Deathinitive_Edition",
-    "manufacturer": "24069RA21C",
-    "device": "Adreno__TM__735",
-    "timestamp": 1784222668,
-    "filename": "Darksiders_II_Deathinitive_Edition-Xiaomi-24069RA21C-Adreno__TM__735-1784222668.json"
   }
 ]
