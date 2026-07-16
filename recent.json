@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784242362,
+    "filename": "eFootball_-motorola-moto_g24-Mali-G52_MC2-1784242362.json"
+  },
+  {
     "game": "pes_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1784225711,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S911B-Adreno__TM__740-1784225711.json"
-  },
-  {
-    "game": "Griftlands",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784224025,
-    "filename": "Griftlands-unknown-GammaOS_Lite-Mali-G57-1784224025.json"
   }
 ]
