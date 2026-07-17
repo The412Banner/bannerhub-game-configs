@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784259899,
+    "filename": "Euro_Truck_Simulator_2-motorola-moto_g24-Mali-G52_MC2-1784259899.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784246975,
     "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-23129RA5FL-Adreno__TM__610-1784246975.json"
-  },
-  {
-    "game": "Epic_Online_Services_Bootstrapper",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784246955,
-    "filename": "Epic_Online_Services_Bootstrapper-realme-RMX3511-Mali-G57-1784246955.json"
   }
 ]
