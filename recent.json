@@ -1,5 +1,12 @@
 [
   {
+    "game": "FARMING_SIMULATOR_13_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784323984,
+    "filename": "FARMING_SIMULATOR_13_-Xiaomi-23100RN82L-Mali-G52_MC2-1784323984.json"
+  },
+  {
     "game": "Just_Cause_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1784297124,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1784297124.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784294659,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_KI5k-Mali-G57-1784294659.json"
   }
 ]
