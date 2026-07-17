@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784246975,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-23129RA5FL-Adreno__TM__610-1784246975.json"
+  },
+  {
     "game": "Epic_Online_Services_Bootstrapper",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1784227699,
     "filename": "BombSquad-samsung-SM-P625-Mali-G68-1784227699.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1784227348,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1784227348.json"
   }
 ]
