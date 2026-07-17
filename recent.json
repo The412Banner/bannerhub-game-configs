@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S711B",
+    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
+    "timestamp": 1784307617,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1784307617.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1784306882,
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1784284696,
     "filename": "BootstrapPackagedGame-Xiaomi-2207117BPG-Mali-G76-1784284696.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784283124,
-    "filename": "PlayGTAV-INFINIX-Infinix_X6831-Mali-G52_MC2-1784283124.json"
   }
 ]
