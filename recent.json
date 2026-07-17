@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1784284696,
+    "filename": "BootstrapPackagedGame-Xiaomi-2207117BPG-Mali-G76-1784284696.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1784256302,
     "filename": "pes_2012-samsung-SM-A125M-PowerVR_Rogue_GE8320-1784256302.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784255693,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1784255693.json"
   }
 ]
