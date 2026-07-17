@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_Launcher",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1784265479,
+    "filename": "FIFA_Launcher-Xiaomi-25080RABDG-Mali-G615_MC2-1784265479.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A042M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1784248384,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1784248384.json"
-  },
-  {
-    "game": "l2",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1784247930,
-    "filename": "l2-samsung-SM-A336M-Mali-G68-1784247930.json"
   }
 ]
