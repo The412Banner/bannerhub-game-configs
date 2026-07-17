@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1784253822,
+    "filename": "Rise_of_the_Tomb_Raider_-Xiaomi-2511FPC34G-Mali-G720_MC8-1784253822.json"
+  },
+  {
     "game": "pes_13_",
     "manufacturer": "2209116AG",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1784236697,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-24115RA8EG-Adreno__TM__810-1784236697.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784236229,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76G-Mali-G57_MC2-1784236229.json"
   }
 ]
