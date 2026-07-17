@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2405CRPFDG",
+    "device": "Adreno__TM__710",
+    "timestamp": 1784282893,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2405CRPFDG-Adreno__TM__710-1784282893.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1784255357,
     "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1784255357.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1784254481,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784254481.json"
   }
 ]
