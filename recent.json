@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784306882,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1784306882.json"
+  },
+  {
     "game": "iw3mp",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784283124,
     "filename": "PlayGTAV-INFINIX-Infinix_X6831-Mali-G52_MC2-1784283124.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2405CRPFDG",
-    "device": "Adreno__TM__710",
-    "timestamp": 1784282893,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2405CRPFDG-Adreno__TM__710-1784282893.json"
   }
 ]
