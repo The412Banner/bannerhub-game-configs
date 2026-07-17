@@ -1,5 +1,12 @@
 [
   {
+    "game": "l2",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1784247930,
+    "filename": "l2-samsung-SM-A336M-Mali-G68-1784247930.json"
+  },
+  {
     "game": "Lesta_Game_Center___________________________________________",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784228564,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76G-Mali-G57_MC2-1784228564.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784228561,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76G-Mali-G57_MC2-1784228561.json"
   }
 ]
