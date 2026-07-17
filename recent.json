@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1784257365,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1784257365.json"
+  },
+  {
     "game": "FIFA_19",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784246715,
     "filename": "launcher_wowzone-samsung-SM-S928B-Adreno__TM__750-1784246715.json"
-  },
-  {
-    "game": "eFootball_",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784242362,
-    "filename": "eFootball_-motorola-moto_g24-Mali-G52_MC2-1784242362.json"
   }
 ]
