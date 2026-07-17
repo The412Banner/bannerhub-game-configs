@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1784270555,
+    "filename": "God_of_War-Xiaomi-24069PC21G-Adreno__TM__735-1784270555.json"
+  },
+  {
     "game": "FIFA_Launcher",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1784249190,
     "filename": "monica-samsung-SM-G990E-Mali-G78-1784249190.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1784248384,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1784248384.json"
   }
 ]
