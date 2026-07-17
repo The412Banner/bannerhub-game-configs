@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A042M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1784264069,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1784264069.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G720_MC7",
     "timestamp": 1784262016,
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1784247930,
     "filename": "l2-samsung-SM-A336M-Mali-G68-1784247930.json"
-  },
-  {
-    "game": "Lesta_Game_Center___________________________________________",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1784247811,
-    "filename": "Lesta_Game_Center___________________________________________-nubia-NX809J-Adreno__TM__840-1784247811.json"
   }
 ]
