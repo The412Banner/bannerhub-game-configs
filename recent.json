@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw3mp",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784306413,
+    "filename": "iw3mp-INFINIX-Infinix_X6817-Mali-G52_MC2-1784306413.json"
+  },
+  {
     "game": "Stranded_Sails_-_Explorers_of_the_Cursed_Islands",
     "manufacturer": "I2213",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1784282893,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2405CRPFDG-Adreno__TM__710-1784282893.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1784280290,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784280290.json"
   }
 ]
