@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hitman__Absolution",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784291677,
+    "filename": "Hitman__Absolution-Xiaomi-24117RN76G-Mali-G57_MC2-1784291677.json"
+  },
+  {
     "game": "The_Last_of_Us__Part_I",
     "manufacturer": "CPH2649",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1784261409,
     "filename": "CODE_VEIN-Xiaomi-24069PC21G-Adreno__TM__735-1784261409.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784259899,
-    "filename": "Euro_Truck_Simulator_2-motorola-moto_g24-Mali-G52_MC2-1784259899.json"
   }
 ]
