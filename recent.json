@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784312312,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-Xiaomi-22120RN86G-Mali-G52_MC2-1784312312.json"
+  },
+  {
     "game": "Confira_o_Grand_Theft_Auto_V__Xbox_One___https___www_xbox_com_m_p_BPJ686W6S0NH",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784289438,
     "filename": "DRAGON_BALL__Sparking__ZERO-nubia-Z2464N-Mali-G57-1784289438.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1784289100,
-    "filename": "Resident_Evil_2-Xiaomi-25053PC47G-Adreno__TM__825-1784289100.json"
   }
 ]
