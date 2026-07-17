@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784247272,
+    "filename": "PlayGTAV-samsung-SM-A165F-Mali-G57_MC2-1784247272.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784228105,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1784228105.json"
-  },
-  {
-    "game": "BombSquad",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1784227699,
-    "filename": "BombSquad-samsung-SM-P625-Mali-G68-1784227699.json"
   }
 ]
