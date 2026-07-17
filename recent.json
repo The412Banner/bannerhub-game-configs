@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1784302197,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M536B-Mali-G68_MC4-1784302197.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1784276936,
     "filename": "Nier_Automata_______________________________________________-OnePlus-CPH2745-Adreno__TM__840-1784276936.json"
-  },
-  {
-    "game": "Nier_Automata_______________________________________________",
-    "manufacturer": "CPH2745",
-    "device": "Adreno__TM__840",
-    "timestamp": 1784276802,
-    "filename": "Nier_Automata_______________________________________________-OnePlus-CPH2745-Adreno__TM__840-1784276802.json"
   }
 ]
