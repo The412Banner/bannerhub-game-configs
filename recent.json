@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784330511,
+    "filename": "Far_Cry_-samsung-SM-A225M-Mali-G52_MC2-1784330511.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1784302197,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M536B-Mali-G68_MC4-1784302197.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1784300405,
-    "filename": "Rise_of_the_Tomb_Raider_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784300405.json"
   }
 ]
