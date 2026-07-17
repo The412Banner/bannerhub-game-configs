@@ -1,5 +1,12 @@
 [
   {
+    "game": "monica",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1784249190,
+    "filename": "monica-samsung-SM-G990E-Mali-G78-1784249190.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784229704,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1784229704.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1784228699,
-    "filename": "Resident_Evil_6-vivo-V2513-Mali-G615_MC2-1784228699.json"
   }
 ]
