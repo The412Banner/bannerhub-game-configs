@@ -1,5 +1,12 @@
 [
   {
+    "game": "BeamNG_drive",
+    "manufacturer": "Mali",
+    "device": "G71",
+    "timestamp": 1784309609,
+    "filename": "BeamNG_drive-samsung-SM-A307FN-Mali-G71-1784309609.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S711B",
     "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1784285482,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1784285482.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1784284696,
-    "filename": "BootstrapPackagedGame-Xiaomi-2207117BPG-Mali-G76-1784284696.json"
   }
 ]
