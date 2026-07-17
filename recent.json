@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "21121210G",
+    "device": "Adreno__TM__730",
+    "timestamp": 1784256963,
+    "filename": "PlayGTAV-Xiaomi-21121210G-Adreno__TM__730-1784256963.json"
+  },
+  {
     "game": "pes_2012",
     "manufacturer": "A125M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784242213,
     "filename": "pes_2013-samsung-SM-A065M-Mali-G52_MC2-1784242213.json"
-  },
-  {
-    "game": "Ultra_Street_Fighter__IV",
-    "manufacturer": "motorola_edge_30_pro",
-    "device": "Adreno__TM__730",
-    "timestamp": 1784241120,
-    "filename": "Ultra_Street_Fighter__IV-motorola-motorola_edge_30_pro-Adreno__TM__730-1784241120.json"
   }
 ]
