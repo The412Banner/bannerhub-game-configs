@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1784248384,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1784248384.json"
+  },
+  {
     "game": "l2",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1784228699,
     "filename": "Resident_Evil_6-vivo-V2513-Mali-G615_MC2-1784228699.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784228564,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76G-Mali-G57_MC2-1784228564.json"
   }
 ]
