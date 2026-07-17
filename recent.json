@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1784321403,
+    "filename": "Just_Cause_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784321403.json"
+  },
+  {
     "game": "AC3SP",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784294659,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_KI5k-Mali-G57-1784294659.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784293011,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X670-Mali-G57_MC2-1784293011.json"
   }
 ]
