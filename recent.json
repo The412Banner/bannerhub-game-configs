@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S731B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1784251199,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1784251199.json"
+  },
+  {
     "game": "monica",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784229750,
     "filename": "pes_2013-samsung-SM-A065M-Mali-G52_MC2-1784229750.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784229704,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1784229704.json"
   }
 ]
