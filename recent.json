@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784283124,
+    "filename": "PlayGTAV-INFINIX-Infinix_X6831-Mali-G52_MC2-1784283124.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2405CRPFDG",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784255693,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1784255693.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1784255357,
-    "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1784255357.json"
   }
 ]
