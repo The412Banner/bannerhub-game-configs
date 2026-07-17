@@ -1,5 +1,12 @@
 [
   {
+    "game": "Zumbi_Blocks_2_Open_Alpha",
+    "manufacturer": "F721B",
+    "device": "Adreno__TM__730",
+    "timestamp": 1784275153,
+    "filename": "Zumbi_Blocks_2_Open_Alpha-samsung-SM-F721B-Adreno__TM__730-1784275153.json"
+  },
+  {
     "game": "DARK_SOULS__III",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1784252975,
     "filename": "pes_13_-Xiaomi-2209116AG-Adreno__TM__618-1784252975.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "S928U",
-    "device": "Adreno__TM__750",
-    "timestamp": 1784251247,
-    "filename": "God_of_War-samsung-SM-S928U-Adreno__TM__750-1784251247.json"
   }
 ]
