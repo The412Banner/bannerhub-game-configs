@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784294659,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_KI5k-Mali-G57-1784294659.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1784265479,
     "filename": "FIFA_Launcher-Xiaomi-25080RABDG-Mali-G615_MC2-1784265479.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A042M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1784264069,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1784264069.json"
   }
 ]
