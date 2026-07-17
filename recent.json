@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S731B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1784285482,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1784285482.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1784256963,
     "filename": "PlayGTAV-Xiaomi-21121210G-Adreno__TM__730-1784256963.json"
-  },
-  {
-    "game": "pes_2012",
-    "manufacturer": "A125M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1784256302,
-    "filename": "pes_2012-samsung-SM-A125M-PowerVR_Rogue_GE8320-1784256302.json"
   }
 ]
