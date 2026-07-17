@@ -1,5 +1,12 @@
 [
   {
+    "game": "Baldur_s_Gate_3",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1784287576,
+    "filename": "Baldur_s_Gate_3-nubia-NX809J-Adreno__TM__840-1784287576.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S731B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1784257130,
     "filename": "FIFA_19-Xiaomi-25080RABDG-Mali-G615_MC2-1784257130.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "21121210G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1784256963,
-    "filename": "PlayGTAV-Xiaomi-21121210G-Adreno__TM__730-1784256963.json"
   }
 ]
