@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_Komplete_Edition",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1784315769,
+    "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-23049PCD8G-Adreno__TM__725-1784315769.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1784289761,
     "filename": "The_Last_of_Us__Part_I-OnePlus-CPH2649-Adreno__TM__830-1784289761.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784289438,
-    "filename": "DRAGON_BALL__Sparking__ZERO-nubia-Z2464N-Mali-G57-1784289438.json"
   }
 ]
