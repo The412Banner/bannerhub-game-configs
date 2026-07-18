@@ -1,5 +1,12 @@
 [
   {
+    "game": "Teardown",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784356531,
+    "filename": "Teardown-realme-RMX3834-Mali-G57-1784356531.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784343193,
     "filename": "Blood_Spear-AYANEO-Pocket_FIT-Adreno__TM__750-1784343193.json"
-  },
-  {
-    "game": "Yet_Another_Zombie_Survivors",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1784343187,
-    "filename": "Yet_Another_Zombie_Survivors-AYANEO-Pocket_FIT-Adreno__TM__750-1784343187.json"
   }
 ]
