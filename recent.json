@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784363775,
+    "filename": "Mafia_II__Classic_-nubia-NX789S_V1B-Adreno__TM__830-1784363775.json"
+  },
+  {
     "game": "l2",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784343267,
     "filename": "ACE_COMBAT_7__SKIES_UNKNOWN-AYANEO-Pocket_FIT-Adreno__TM__750-1784343267.json"
-  },
-  {
-    "game": "Eldest_Souls",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1784343259,
-    "filename": "Eldest_Souls-AYANEO-Pocket_FIT-Adreno__TM__750-1784343259.json"
   }
 ]
