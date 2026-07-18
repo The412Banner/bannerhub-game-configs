@@ -1,5 +1,12 @@
 [
   {
+    "game": "EasyAntiCheat_Launcher",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1784372953,
+    "filename": "EasyAntiCheat_Launcher-INFINIX-Infinix_X6873-Mali-G615_MC6-1784372953.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784344977,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1784344977.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1784343291,
-    "filename": "Hollow_Knight__Silksong-AYANEO-Pocket_FIT-Adreno__TM__750-1784343291.json"
   }
 ]
