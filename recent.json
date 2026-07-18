@@ -1,5 +1,12 @@
 [
   {
+    "game": "l2",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1784363066,
+    "filename": "l2-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1784363066.json"
+  },
+  {
     "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784343259,
     "filename": "Eldest_Souls-AYANEO-Pocket_FIT-Adreno__TM__750-1784343259.json"
-  },
-  {
-    "game": "The_Ascent",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1784343244,
-    "filename": "The_Ascent-AYANEO-Pocket_FIT-Adreno__TM__750-1784343244.json"
   }
 ]
