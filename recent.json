@@ -1,5 +1,12 @@
 [
   {
+    "game": "Burnout_Paradise__The_Ultimate_Box",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1784379424,
+    "filename": "Burnout_Paradise__The_Ultimate_Box-OPPO-CPH2625-Mali-G615_MC2-1784379424.json"
+  },
+  {
     "game": "Saints_Row__The_Third",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784356531,
     "filename": "Teardown-realme-RMX3834-Mali-G57-1784356531.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1784356388,
-    "filename": "PlayGTAV-INFINIX-Infinix_X6873-Mali-G615_MC6-1784356388.json"
   }
 ]
