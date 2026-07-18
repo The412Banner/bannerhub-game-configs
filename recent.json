@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__4",
+    "manufacturer": "S916B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1784401760,
+    "filename": "Far_Cry__4-samsung-SM-S916B-Adreno__TM__740-1784401760.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "2509ARPBDG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1784385355,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2699-Adreno__TM__710-1784385355.json"
-  },
-  {
-    "game": "AC3SP",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784382459,
-    "filename": "AC3SP-samsung-SM-A065M-Mali-G52_MC2-1784382459.json"
   }
 ]
