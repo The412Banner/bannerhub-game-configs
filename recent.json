@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blood_Spear",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1784343193,
+    "filename": "Blood_Spear-AYANEO-Pocket_FIT-Adreno__TM__750-1784343193.json"
+  },
+  {
     "game": "Yet_Another_Zombie_Survivors",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784312312,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-Xiaomi-22120RN86G-Mali-G52_MC2-1784312312.json"
-  },
-  {
-    "game": "Confira_o_Grand_Theft_Auto_V__Xbox_One___https___www_xbox_com_m_p_BPJ686W6S0NH",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784312253,
-    "filename": "Confira_o_Grand_Theft_Auto_V__Xbox_One___https___www_xbox_com_m_p_BPJ686W6S0NH-samsung-SM-A175F-Mali-G57_MC2-1784312253.json"
   }
 ]
