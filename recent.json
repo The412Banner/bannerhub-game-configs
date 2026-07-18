@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Most_Wanted",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1784395644,
+    "filename": "Need_for_Speed__Most_Wanted-samsung-SM-G990E-Mali-G78-1784395644.json"
+  },
+  {
     "game": "Counter-Strike_1_6__________________________________________",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784373523,
     "filename": "Marvel_s_Spider-Man__Miles_Morales-realme-RMX3661-Adreno__TM__619-1784373523.json"
-  },
-  {
-    "game": "EasyAntiCheat_Launcher",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1784372953,
-    "filename": "EasyAntiCheat_Launcher-INFINIX-Infinix_X6873-Mali-G615_MC6-1784372953.json"
   }
 ]
