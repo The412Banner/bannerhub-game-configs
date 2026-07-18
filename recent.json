@@ -3,6 +3,13 @@
     "game": "gts_setup_1_32",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1784415078,
+    "filename": "gts_setup_1_32-INFINIX-Infinix_X1101B-Mali-G57_MC2-1784415078.json"
+  },
+  {
+    "game": "gts_setup_1_32",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1784415074,
     "filename": "gts_setup_1_32-INFINIX-Infinix_X1101B-Mali-G57_MC2-1784415074.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1784400727,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-S901E-Adreno__TM__730-1784400727.json"
-  },
-  {
-    "game": "FishingPlanet",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784400556,
-    "filename": "FishingPlanet-Xiaomi-2410FPCC5G-Mali-G52_MC2-1784400556.json"
   }
 ]
