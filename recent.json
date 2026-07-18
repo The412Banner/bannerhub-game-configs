@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1784355590,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S901E-Adreno__TM__730-1784355590.json"
+  },
+  {
     "game": "mcclauncher",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784343179,
     "filename": "Starship_Troopers__Ultimate_Bug_War_-AYANEO-Pocket_FIT-Adreno__TM__750-1784343179.json"
-  },
-  {
-    "game": "Easy_Red_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1784343068,
-    "filename": "Easy_Red_2-Xiaomi-25080RABDG-Mali-G615_MC2-1784343068.json"
   }
 ]
