@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1784409237,
+    "filename": "BootstrapPackagedGame-samsung-SM-S911B-Adreno__TM__740-1784409237.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "22081212UG",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784398504,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24116RACCG-Mali-G57_MC2-1784398504.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784398502,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24116RACCG-Mali-G57_MC2-1784398502.json"
   }
 ]
