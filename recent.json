@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "CPH2699",
+    "device": "Adreno__TM__710",
+    "timestamp": 1784385355,
+    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2699-Adreno__TM__710-1784385355.json"
+  },
+  {
     "game": "AC3SP",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1784362722,
     "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-Xiaomi-2602BRT18C-Mali-G925-Immortalis_MC12-1784362722.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1784361995,
-    "filename": "Mafia_II__Classic_-nubia-NX789J-Adreno__TM__830-1784361995.json"
   }
 ]
