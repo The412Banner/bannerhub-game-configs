@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1784333501,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1784333501.json"
+  },
+  {
     "game": "Far_Cry_",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1784302566,
     "filename": "Stranded_Sails_-_Explorers_of_the_Cursed_Islands-vivo-I2213-Adreno__TM__642L-1784302566.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1784302197,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M536B-Mali-G68_MC4-1784302197.json"
   }
 ]
