@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1784403051,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23049PCD8G-Adreno__TM__725-1784403051.json"
+  },
+  {
     "game": "STAR_WARS_Jedi__Fallen_Order_",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1784388007,
     "filename": "ACOrigins-vivo-I2401-Adreno__TM__830-1784388007.json"
-  },
-  {
-    "game": "Age_of_Empires_II_Expansion",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784387586,
-    "filename": "Age_of_Empires_II_Expansion-realme-RMX3938-Mali-G57-1784387586.json"
   }
 ]
