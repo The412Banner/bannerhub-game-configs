@@ -1,5 +1,12 @@
 [
   {
+    "game": "STAR_WARS_Jedi__Fallen_Order_",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1784402307,
+    "filename": "STAR_WARS_Jedi__Fallen_Order_-Xiaomi-23113RKC6G-Adreno__TM__740-1784402307.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784387586,
     "filename": "Age_of_Empires_II_Expansion-realme-RMX3938-Mali-G57-1784387586.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1784386791,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1784386791.json"
   }
 ]
