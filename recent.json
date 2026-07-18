@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784360329,
+    "filename": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719-motorola-moto_g84_5G-Adreno__TM__619-1784360329.json"
+  },
+  {
     "game": "Teardown",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784343209,
     "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-AYANEO-Pocket_FIT-Adreno__TM__750-1784343209.json"
-  },
-  {
-    "game": "Blood_Spear",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1784343193,
-    "filename": "Blood_Spear-AYANEO-Pocket_FIT-Adreno__TM__750-1784343193.json"
   }
 ]
