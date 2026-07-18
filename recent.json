@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784361995,
+    "filename": "Mafia_II__Classic_-nubia-NX789J-Adreno__TM__830-1784361995.json"
+  },
+  {
     "game": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784343215,
     "filename": "Tales_of_ARISE-AYANEO-Pocket_FIT-Adreno__TM__750-1784343215.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1784343209,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-AYANEO-Pocket_FIT-Adreno__TM__750-1784343209.json"
   }
 ]
