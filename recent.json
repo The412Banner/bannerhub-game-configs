@@ -1,5 +1,12 @@
 [
   {
+    "game": "Easy_Red_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1784343068,
+    "filename": "Easy_Red_2-Xiaomi-25080RABDG-Mali-G615_MC2-1784343068.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G71",
     "timestamp": 1784309609,
     "filename": "BeamNG_drive-samsung-SM-A307FN-Mali-G71-1784309609.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S711B",
-    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
-    "timestamp": 1784307617,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1784307617.json"
   }
 ]
