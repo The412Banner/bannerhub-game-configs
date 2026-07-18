@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tales_of_ARISE",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1784343215,
+    "filename": "Tales_of_ARISE-AYANEO-Pocket_FIT-Adreno__TM__750-1784343215.json"
+  },
+  {
     "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784316075,
     "filename": "MinecraftInstaller-samsung-SM-A075M-Mali-G57_MC2-1784316075.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1784315769,
-    "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-23049PCD8G-Adreno__TM__725-1784315769.json"
   }
 ]
