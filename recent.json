@@ -3,6 +3,13 @@
     "game": "Resident_Evil_6",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1784375337,
+    "filename": "Resident_Evil_6-samsung-SM-A065M-Mali-G52_MC2-1784375337.json"
+  },
+  {
+    "game": "Resident_Evil_6",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1784375317,
     "filename": "Resident_Evil_6-samsung-SM-A065M-Mali-G52_MC2-1784375317.json"
   },
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1784347469,
     "filename": "TODO_________-INFINIX-Infinix_X6879-Mali-G615_MC2-1784347469.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1784346382,
-    "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784346382.json"
   }
 ]
