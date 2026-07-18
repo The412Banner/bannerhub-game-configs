@@ -1,5 +1,12 @@
 [
   {
+    "game": "mcclauncher",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1784354108,
+    "filename": "mcclauncher-Xiaomi-24069PC21G-Adreno__TM__735-1784354108.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1784343068,
     "filename": "Easy_Red_2-Xiaomi-25080RABDG-Mali-G615_MC2-1784343068.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__810",
-    "timestamp": 1784338190,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-MTN-NX1-Adreno__TM__810-1784338190.json"
   }
 ]
