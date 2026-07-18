@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784375317,
+    "filename": "Resident_Evil_6-samsung-SM-A065M-Mali-G52_MC2-1784375317.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man__Miles_Morales",
     "manufacturer": "RMX3661",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1784346382,
     "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784346382.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784345699,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KI5k-Mali-G57-1784345699.json"
   }
 ]
