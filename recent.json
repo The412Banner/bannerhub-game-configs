@@ -1,5 +1,12 @@
 [
   {
+    "game": "Counter-Strike_1_6__________________________________________",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1784391362,
+    "filename": "Counter-Strike_1_6__________________________________________-samsung-SM-G990E-Mali-G78-1784391362.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "LX1",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1784372953,
     "filename": "EasyAntiCheat_Launcher-INFINIX-Infinix_X6873-Mali-G615_MC6-1784372953.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784370602,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1784370602.json"
   }
 ]
