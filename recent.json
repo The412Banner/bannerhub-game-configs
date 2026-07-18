@@ -1,5 +1,12 @@
 [
   {
+    "game": "Starship_Troopers__Ultimate_Bug_War_",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1784343179,
+    "filename": "Starship_Troopers__Ultimate_Bug_War_-AYANEO-Pocket_FIT-Adreno__TM__750-1784343179.json"
+  },
+  {
     "game": "Easy_Red_2",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1784311054,
     "filename": "Resident_Evil_Village-Xiaomi-24069PC21G-Adreno__TM__735-1784311054.json"
-  },
-  {
-    "game": "BeamNG_drive",
-    "manufacturer": "Mali",
-    "device": "G71",
-    "timestamp": 1784309609,
-    "filename": "BeamNG_drive-samsung-SM-A307FN-Mali-G71-1784309609.json"
   }
 ]
