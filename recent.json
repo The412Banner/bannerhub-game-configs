@@ -1,5 +1,12 @@
 [
   {
+    "game": "gts_setup_1_32",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784415074,
+    "filename": "gts_setup_1_32-INFINIX-Infinix_X1101B-Mali-G57_MC2-1784415074.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "S711B",
     "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784400556,
     "filename": "FishingPlanet-Xiaomi-2410FPCC5G-Mali-G52_MC2-1784400556.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784399426,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1784399426.json"
   }
 ]
