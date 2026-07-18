@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784407157,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23117RA68G-Mali-G57_MC2-1784407157.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "2509ARPBDG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784397570,
     "filename": "FishingPlanet-Xiaomi-2410FPCC5G-Mali-G52_MC2-1784397570.json"
-  },
-  {
-    "game": "NBA_2K18",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1784396026,
-    "filename": "NBA_2K18-Xiaomi-M2102J20SG-Adreno__TM__640-1784396026.json"
   }
 ]
