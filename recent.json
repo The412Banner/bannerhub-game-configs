@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784400995,
+    "filename": "PES_2013-motorola-moto_g05-Mali-G52_MC2-1784400995.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1784379428,
     "filename": "Half-Life-HONOR-DNY-NX9-Adreno__TM__720-1784379428.json"
-  },
-  {
-    "game": "Burnout_Paradise__The_Ultimate_Box",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1784379424,
-    "filename": "Burnout_Paradise__The_Ultimate_Box-OPPO-CPH2625-Mali-G615_MC2-1784379424.json"
   }
 ]
