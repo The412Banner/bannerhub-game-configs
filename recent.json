@@ -1,5 +1,12 @@
 [
   {
+    "game": "ACE_COMBAT_7__SKIES_UNKNOWN",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1784343267,
+    "filename": "ACE_COMBAT_7__SKIES_UNKNOWN-AYANEO-Pocket_FIT-Adreno__TM__750-1784343267.json"
+  },
+  {
     "game": "Eldest_Souls",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1784321403,
     "filename": "Just_Cause_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784321403.json"
-  },
-  {
-    "game": "AC3SP",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784320045,
-    "filename": "AC3SP-samsung-SM-A155M-Mali-G57_MC2-1784320045.json"
   }
 ]
