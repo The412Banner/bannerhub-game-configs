@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1784386791,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1784386791.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH2699",
     "device": "Adreno__TM__710",
     "timestamp": 1784385355,
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1784363066,
     "filename": "l2-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1784363066.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1784362722,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-Xiaomi-2602BRT18C-Mali-G925-Immortalis_MC12-1784362722.json"
   }
 ]
