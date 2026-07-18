@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1784362722,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-Xiaomi-2602BRT18C-Mali-G925-Immortalis_MC12-1784362722.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784343244,
     "filename": "The_Ascent-AYANEO-Pocket_FIT-Adreno__TM__750-1784343244.json"
-  },
-  {
-    "game": "Tales_of_ARISE",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1784343215,
-    "filename": "Tales_of_ARISE-AYANEO-Pocket_FIT-Adreno__TM__750-1784343215.json"
   }
 ]
