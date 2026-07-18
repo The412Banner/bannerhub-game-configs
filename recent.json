@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1784403396,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1784403396.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G76_MC4",
     "timestamp": 1784403084,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX_MOBILITY_LIMITED-Infinix_X695-Mali-G76_MC4-1784403084.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784389589,
     "filename": "BootstrapPackagedGame-HONOR-LGN-LX1-Adreno__TM__610-1784389589.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "LX1",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784389556,
-    "filename": "BootstrapPackagedGame-HONOR-LGN-LX1-Adreno__TM__610-1784389556.json"
   }
 ]
