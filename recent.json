@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRAGMATA",
+    "manufacturer": "I2401",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784466974,
+    "filename": "PRAGMATA-vivo-I2401-Adreno__TM__830-1784466974.json"
+  },
+  {
     "game": "Choo-Choo_Charles",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784433603,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1784433603.json"
-  },
-  {
-    "game": "PES_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784433365,
-    "filename": "PES_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1784433365.json"
   }
 ]
