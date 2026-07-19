@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pes_2017xzxzzzz",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784477251,
+    "filename": "Pes_2017xzxzzzz-Xiaomi-25028RN03A-Mali-G57-1784477251.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1784456036,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1784456036.json"
-  },
-  {
-    "game": "McPixel_3___________________________________________________",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784452084,
-    "filename": "McPixel_3___________________________________________________-realme-RMX5303-Mali-G57-1784452084.json"
   }
 ]
