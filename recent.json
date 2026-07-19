@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_STORM_3_FB",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784473037,
+    "filename": "NARUTO_STORM_3_FB-realme-RMX5303-Mali-G57-1784473037.json"
+  },
+  {
     "game": "Street_Fighter_V__c__Capcom_________________________________",
     "manufacturer": "Mali",
     "device": "G57_MC3",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784445988,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-22111317PG-Adreno__TM__619-1784445988.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784442391,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-samsung-SM-A057M-Adreno__TM__610-1784442391.json"
   }
 ]
