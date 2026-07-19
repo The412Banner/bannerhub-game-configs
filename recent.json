@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1784488773,
+    "filename": "Far_Cry_3-Xiaomi-2511FPC34G-Mali-G720_MC8-1784488773.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784465385,
     "filename": "Choo-Choo_Charles-INFINIX-Infinix_X6886-Mali-G57_MC2-1784465385.json"
-  },
-  {
-    "game": "Mortal_Kombat_X",
-    "manufacturer": "Mali",
-    "device": "G57_MC3",
-    "timestamp": 1784464786,
-    "filename": "Mortal_Kombat_X-samsung-SM-M326B-Mali-G57_MC3-1784464786.json"
   }
 ]
