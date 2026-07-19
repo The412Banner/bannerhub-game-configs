@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "moto_g200_5G",
+    "device": "Adreno__TM__660",
+    "timestamp": 1784432475,
+    "filename": "Resident_Evil_2-motorola-moto_g200_5G-Adreno__TM__660-1784432475.json"
+  },
+  {
     "game": "Crysis_2_-_Maximum_Edition",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784416613,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23108RN04Y-Mali-G52_MC2-1784416613.json"
-  },
-  {
-    "game": "gts_setup_1_32",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784415078,
-    "filename": "gts_setup_1_32-INFINIX-Infinix_X1101B-Mali-G57_MC2-1784415078.json"
   }
 ]
