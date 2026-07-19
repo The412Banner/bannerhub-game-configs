@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784442391,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-samsung-SM-A057M-Adreno__TM__610-1784442391.json"
+  },
+  {
     "game": "Raft",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784421409,
     "filename": "F1_2013-Xiaomi-23117RA68G-Mali-G57_MC2-1784421409.json"
-  },
-  {
-    "game": "F1_2014",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784421392,
-    "filename": "F1_2014-Xiaomi-23117RA68G-Mali-G57_MC2-1784421392.json"
   }
 ]
