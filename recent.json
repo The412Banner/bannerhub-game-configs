@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784477233,
+    "filename": "God_of_War-Xiaomi-23021RAAEG-Adreno__TM__610-1784477233.json"
+  },
+  {
     "game": "Transformers_TM____Revenge_Of_The_Fallen_TM_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784452084,
     "filename": "McPixel_3___________________________________________________-realme-RMX5303-Mali-G57-1784452084.json"
-  },
-  {
-    "game": "Call_of_Duty_",
-    "manufacturer": "F956B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1784451427,
-    "filename": "Call_of_Duty_-samsung-SM-F956B-Adreno__TM__750-1784451427.json"
   }
 ]
