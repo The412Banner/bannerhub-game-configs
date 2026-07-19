@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sifu",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1784481049,
+    "filename": "Sifu-Xiaomi-2412DPC0AI-Mali-G720_MC7-1784481049.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784462880,
     "filename": "PRO_EVOLUTION_SOCCER_2018-samsung-SM-S928U1-Adreno__TM__750-1784462880.json"
-  },
-  {
-    "game": "Cuphead_v1_3_2_Plus_8_Trainer",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1784458827,
-    "filename": "Cuphead_v1_3_2_Plus_8_Trainer-Xiaomi-M2102J20SG-Adreno__TM__640-1784458827.json"
   }
 ]
