@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784421409,
+    "filename": "F1_2013-Xiaomi-23117RA68G-Mali-G57_MC2-1784421409.json"
+  },
+  {
     "game": "F1_2014",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1784403798,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1784403798.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1784403396,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1784403396.json"
   }
 ]
