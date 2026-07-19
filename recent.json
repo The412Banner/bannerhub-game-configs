@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sonic_Generations",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784423378,
+    "filename": "Sonic_Generations-Xiaomi-2410FPCC5G-Mali-G52_MC2-1784423378.json"
+  },
+  {
     "game": "F1_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1784403879,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1784403879.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1784403798,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1784403798.json"
   }
 ]
