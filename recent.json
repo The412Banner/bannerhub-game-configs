@@ -1,5 +1,12 @@
 [
   {
+    "game": "Samson_-_A_Tyndalston_Story",
+    "manufacturer": "F9680",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784435978,
+    "filename": "Samson_-_A_Tyndalston_Story-samsung-SM-F9680-Adreno__TM__830-1784435978.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784420295,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g15-Mali-G52_MC2-1784420295.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1784419947,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G780G-Adreno__TM__650-1784419947.json"
   }
 ]
