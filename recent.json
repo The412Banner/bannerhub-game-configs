@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty_",
+    "manufacturer": "F956B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1784451425,
+    "filename": "Call_of_Duty_-samsung-SM-F956B-Adreno__TM__750-1784451425.json"
+  },
+  {
     "game": "ACOrigins",
     "manufacturer": "I2401",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784424903,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6837-Mali-G57_MC2-1784424903.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A528B",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1784424693,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A528B-Adreno__TM__642L-1784424693.json"
   }
 ]
