@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1784473825,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1784473825.json"
+  },
+  {
     "game": "NARUTO_STORM_3_FB",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784447102,
     "filename": "Hollow_Knight-samsung-SM-S928B-Adreno__TM__750-1784447102.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "22111317PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784445988,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-22111317PG-Adreno__TM__619-1784445988.json"
   }
 ]
