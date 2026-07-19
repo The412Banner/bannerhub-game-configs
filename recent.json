@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "22111317PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784445988,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-22111317PG-Adreno__TM__619-1784445988.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784423378,
     "filename": "Sonic_Generations-Xiaomi-2410FPCC5G-Mali-G52_MC2-1784423378.json"
-  },
-  {
-    "game": "F1_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784421409,
-    "filename": "F1_2013-Xiaomi-23117RA68G-Mali-G57_MC2-1784421409.json"
   }
 ]
