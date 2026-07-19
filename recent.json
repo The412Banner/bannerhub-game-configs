@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1784471392,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1784471392.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
     "timestamp": 1784470451,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784441349,
     "filename": "Raft-realme-RMX3785-Mali-G57_MC2-1784441349.json"
-  },
-  {
-    "game": "TransformersDevastation",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784437043,
-    "filename": "TransformersDevastation-INFINIX-Infinix_X6860-Mali-G57_MC2-1784437043.json"
   }
 ]
