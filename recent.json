@@ -1,5 +1,12 @@
 [
   {
+    "game": "Drive_Beyond_Horizons_Demo",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784479551,
+    "filename": "Drive_Beyond_Horizons_Demo-Xiaomi-23117RA68G-Mali-G57_MC2-1784479551.json"
+  },
+  {
     "game": "Pes_2017xzxzzzz",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1784456376,
     "filename": "unins000-motorola-motorola_edge_50_pro-Adreno__TM__720-1784456376.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1784456036,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1784456036.json"
   }
 ]
