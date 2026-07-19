@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_18",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1784419312,
+    "filename": "FIFA_18-Xiaomi-2412DPC0AI-Mali-G720_MC7-1784419312.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1784401760,
     "filename": "Far_Cry__4-samsung-SM-S916B-Adreno__TM__740-1784401760.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "2509ARPBDG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1784401702,
-    "filename": "Need_for_Speed_9-Xiaomi-2509ARPBDG-Adreno__TM__810-1784401702.json"
   }
 ]
