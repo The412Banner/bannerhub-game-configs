@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "25118PC98G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1784502220,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25118PC98G-Adreno__TM__710-1784502220.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
     "timestamp": 1784499730,
@@ -131,12 +138,5 @@
     "device": "G57_MC3",
     "timestamp": 1784472137,
     "filename": "Street_Fighter_V__c__Capcom_________________________________-samsung-SM-M326B-Mali-G57_MC3-1784472137.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g22",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1784471392,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1784471392.json"
   }
 ]
