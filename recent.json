@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "S928U1",
+    "device": "Adreno__TM__750",
+    "timestamp": 1784462880,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-samsung-SM-S928U1-Adreno__TM__750-1784462880.json"
+  },
+  {
     "game": "Cuphead_v1_3_2_Plus_8_Trainer",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1784431457,
     "filename": "Crysis_2_-_Maximum_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1784431457.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1784431365,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784431365.json"
   }
 ]
