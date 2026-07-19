@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Enhanced",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1784420449,
+    "filename": "Grand_Theft_Auto_V_Enhanced-samsung-SM-S918B-Adreno__TM__740-1784420449.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1784403051,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23049PCD8G-Adreno__TM__725-1784403051.json"
-  },
-  {
-    "game": "STAR_WARS_Jedi__Fallen_Order_",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1784402307,
-    "filename": "STAR_WARS_Jedi__Fallen_Order_-Xiaomi-23113RKC6G-Adreno__TM__740-1784402307.json"
   }
 ]
