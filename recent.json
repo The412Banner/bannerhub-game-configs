@@ -1,5 +1,12 @@
 [
   {
+    "game": "TransformersDevastation",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784437043,
+    "filename": "TransformersDevastation-INFINIX-Infinix_X6860-Mali-G57_MC2-1784437043.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "220333QAG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1784421129,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48I-Mali-G615_MC6-1784421129.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Enhanced",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1784420449,
-    "filename": "Grand_Theft_Auto_V_Enhanced-samsung-SM-S918B-Adreno__TM__740-1784420449.json"
   }
 ]
