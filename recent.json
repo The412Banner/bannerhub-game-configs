@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784470437,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1784470437.json"
+  },
+  {
     "game": "iw3sp",
     "manufacturer": "RMX2061",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784436330,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-220333QAG-Adreno__TM__610-1784436330.json"
-  },
-  {
-    "game": "Samson_-_A_Tyndalston_Story",
-    "manufacturer": "F9680",
-    "device": "Adreno__TM__830",
-    "timestamp": 1784435978,
-    "filename": "Samson_-_A_Tyndalston_Story-samsung-SM-F9680-Adreno__TM__830-1784435978.json"
   }
 ]
