@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES_PRIME_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784423565,
+    "filename": "PES_PRIME_2013-samsung-SM-A156M-Mali-G57_MC2-1784423565.json"
+  },
+  {
     "game": "Sonic_Generations",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1784404348,
     "filename": "Need_for_Speed_9-Xiaomi-2509ARPBDG-Adreno__TM__810-1784404348.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1784403879,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1784403879.json"
   }
 ]
