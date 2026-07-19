@@ -1,5 +1,12 @@
 [
   {
+    "game": "Transformers_TM____Revenge_Of_The_Fallen_TM_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784475952,
+    "filename": "Transformers_TM____Revenge_Of_The_Fallen_TM_-Xiaomi-2201117SG-Mali-G57_MC2-1784475952.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784451425,
     "filename": "Call_of_Duty_-samsung-SM-F956B-Adreno__TM__750-1784451425.json"
-  },
-  {
-    "game": "ACOrigins",
-    "manufacturer": "I2401",
-    "device": "Adreno__TM__830",
-    "timestamp": 1784449688,
-    "filename": "ACOrigins-vivo-I2401-Adreno__TM__830-1784449688.json"
   }
 ]
