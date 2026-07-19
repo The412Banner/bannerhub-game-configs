@@ -1,5 +1,12 @@
 [
   {
+    "game": "Choo-Choo_Charles",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784465385,
+    "filename": "Choo-Choo_Charles-INFINIX-Infinix_X6886-Mali-G57_MC2-1784465385.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "Mali",
     "device": "G57_MC3",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784433365,
     "filename": "PES_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1784433365.json"
-  },
-  {
-    "game": "Mafia_II",
-    "manufacturer": "G981U",
-    "device": "Adreno__TM__650",
-    "timestamp": 1784432928,
-    "filename": "Mafia_II-samsung-SM-G981U-Adreno__TM__650-1784432928.json"
   }
 ]
