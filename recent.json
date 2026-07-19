@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "220333QAG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784436330,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-220333QAG-Adreno__TM__610-1784436330.json"
+  },
+  {
     "game": "Samson_-_A_Tyndalston_Story",
     "manufacturer": "F9680",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1784420449,
     "filename": "Grand_Theft_Auto_V_Enhanced-samsung-SM-S918B-Adreno__TM__740-1784420449.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784420295,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g15-Mali-G52_MC2-1784420295.json"
   }
 ]
