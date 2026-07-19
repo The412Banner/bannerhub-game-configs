@@ -1,5 +1,12 @@
 [
   {
+    "game": "Crysis_2_-_Maximum_Edition",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1784431457,
+    "filename": "Crysis_2_-_Maximum_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1784431457.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784415078,
     "filename": "gts_setup_1_32-INFINIX-Infinix_X1101B-Mali-G57_MC2-1784415078.json"
-  },
-  {
-    "game": "gts_setup_1_32",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784415074,
-    "filename": "gts_setup_1_32-INFINIX-Infinix_X1101B-Mali-G57_MC2-1784415074.json"
   }
 ]
