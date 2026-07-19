@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "2410CRP4CG",
+    "device": "Adreno__TM__732",
+    "timestamp": 1784505000,
+    "filename": "American_Truck_Simulator-Xiaomi-2410CRP4CG-Adreno__TM__732-1784505000.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "25118PC98G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784473037,
     "filename": "NARUTO_STORM_3_FB-realme-RMX5303-Mali-G57-1784473037.json"
-  },
-  {
-    "game": "Street_Fighter_V__c__Capcom_________________________________",
-    "manufacturer": "Mali",
-    "device": "G57_MC3",
-    "timestamp": 1784472137,
-    "filename": "Street_Fighter_V__c__Capcom_________________________________-samsung-SM-M326B-Mali-G57_MC3-1784472137.json"
   }
 ]
