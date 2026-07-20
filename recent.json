@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Island_Definitive_Edition",
+    "manufacturer": "2509ARPBDG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1784554845,
+    "filename": "Dead_Island_Definitive_Edition-Xiaomi-2509ARPBDG-Adreno__TM__810-1784554845.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1784523419,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25080RABDG-Mali-G615_MC2-1784523419.json"
-  },
-  {
-    "game": "nircmd",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1784521619,
-    "filename": "nircmd-motorola-moto_g73_5G-PowerVR_B-Series_BXM-8-256-1784521619.json"
   }
 ]
