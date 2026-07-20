@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dragon_Quest_VIII",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1784562702,
+    "filename": "Dragon_Quest_VIII-motorola-moto_g73_5G-PowerVR_B-Series_BXM-8-256-1784562702.json"
+  },
+  {
     "game": "Battlefield_4_",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784533885,
     "filename": "SAMURAI_WARRIORS_4-II-motorola-moto_g45_5G-Adreno__TM__619-1784533885.json"
-  },
-  {
-    "game": "NARUTO_STORM_3_FB",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784532261,
-    "filename": "NARUTO_STORM_3_FB-Xiaomi-23117RA68G-Mali-G57_MC2-1784532261.json"
   }
 ]
