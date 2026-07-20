@@ -1,5 +1,12 @@
 [
   {
+    "game": "HKShip",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784562722,
+    "filename": "HKShip-ayn-Odin3-Adreno__TM__830-1784562722.json"
+  },
+  {
     "game": "Dragon_Quest_VIII",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784533923,
     "filename": "SAMURAI_WARRIORS_4-II-motorola-moto_g45_5G-Adreno__TM__619-1784533923.json"
-  },
-  {
-    "game": "SAMURAI_WARRIORS_4-II",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784533885,
-    "filename": "SAMURAI_WARRIORS_4-II-motorola-moto_g45_5G-Adreno__TM__619-1784533885.json"
   }
 ]
