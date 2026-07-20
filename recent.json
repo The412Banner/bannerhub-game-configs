@@ -3,6 +3,13 @@
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G78",
+    "timestamp": 1784514303,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G996N-Mali-G78-1784514303.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G78",
     "timestamp": 1784513850,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1784513850.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1784479630,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1784479630.json"
-  },
-  {
-    "game": "Drive_Beyond_Horizons_Demo",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784479551,
-    "filename": "Drive_Beyond_Horizons_Demo-Xiaomi-23117RA68G-Mali-G57_MC2-1784479551.json"
   }
 ]
