@@ -1,5 +1,12 @@
 [
   {
+    "game": "OCTOPATH_TRAVELER_0",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1784527851,
+    "filename": "OCTOPATH_TRAVELER_0-Xiaomi-23049PCD8G-Adreno__TM__725-1784527851.json"
+  },
+  {
     "game": "START-GAME",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784499730,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1784499730.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1784494143,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RK2CG-Adreno__TM__750-1784494143.json"
   }
 ]
