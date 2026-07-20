@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1784579898,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1784579898.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1784562702,
     "filename": "Dragon_Quest_VIII-motorola-moto_g73_5G-PowerVR_B-Series_BXM-8-256-1784562702.json"
-  },
-  {
-    "game": "Battlefield_4_",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1784561237,
-    "filename": "Battlefield_4_-samsung-SM-G780G-Adreno__TM__650-1784561237.json"
   }
 ]
