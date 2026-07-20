@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shrey_ff",
+    "manufacturer": "M2010J19CI",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784550884,
+    "filename": "Shrey_ff-Xiaomi-M2010J19CI-Adreno__TM__610-1784550884.json"
+  },
+  {
     "game": "Assassin_s_Creed__Brotherhood",
     "manufacturer": "2510DRK44C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1784514411,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A176B-Mali-G68-1784514411.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1784514303,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G996N-Mali-G78-1784514303.json"
   }
 ]
