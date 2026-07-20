@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784509436,
+    "filename": "Pro_Evolution_Soccer_2013-LENOVO-TB310FU-Mali-G52_MC2-1784509436.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784475952,
     "filename": "Transformers_TM____Revenge_Of_The_Fallen_TM_-Xiaomi-2201117SG-Mali-G57_MC2-1784475952.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784475809,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_50__5G-Mali-G57_MC2-1784475809.json"
   }
 ]
