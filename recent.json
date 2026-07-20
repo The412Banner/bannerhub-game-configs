@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784530004,
+    "filename": "DRAGON_BALL_FighterZ-ITEL-itel_P671L-Mali-G57-1784530004.json"
+  },
+  {
     "game": "OCTOPATH_TRAVELER_0",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1784502220,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25118PC98G-Adreno__TM__710-1784502220.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784499730,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1784499730.json"
   }
 ]
