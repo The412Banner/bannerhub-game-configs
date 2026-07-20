@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1784536941,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-M075F-Mali-G57_MC2-1784536941.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1784536934,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-M075F-Mali-G57_MC2-1784536934.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784511856,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g14-Mali-G57-1784511856.json"
-  },
-  {
-    "game": "VRChat",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784510701,
-    "filename": "VRChat-Xiaomi-23053RN02L-Mali-G52_MC2-1784510701.json"
   }
 ]
