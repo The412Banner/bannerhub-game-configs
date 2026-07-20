@@ -1,5 +1,12 @@
 [
   {
+    "game": "VRChat",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784510701,
+    "filename": "VRChat-Xiaomi-23053RN02L-Mali-G52_MC2-1784510701.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2014",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784477233,
     "filename": "God_of_War-Xiaomi-23021RAAEG-Adreno__TM__610-1784477233.json"
-  },
-  {
-    "game": "Transformers_TM____Revenge_Of_The_Fallen_TM_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784475956,
-    "filename": "Transformers_TM____Revenge_Of_The_Fallen_TM_-Xiaomi-2201117SG-Mali-G57_MC2-1784475956.json"
   }
 ]
