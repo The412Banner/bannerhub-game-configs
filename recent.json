@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "moto_g96_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1784577115,
+    "filename": "Far_Cry_3-motorola-moto_g96_5G-Adreno__TM__710-1784577115.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1784556212,
     "filename": "BeamNG_drive-samsung-SM-S931B-Adreno__TM__830-1784556212.json"
-  },
-  {
-    "game": "Dead_Island_Definitive_Edition",
-    "manufacturer": "2509ARPBDG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1784554845,
-    "filename": "Dead_Island_Definitive_Edition-Xiaomi-2509ARPBDG-Adreno__TM__810-1784554845.json"
   }
 ]
