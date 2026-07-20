@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1784525700,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A366E-Adreno__TM__710-1784525700.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
     "timestamp": 1784523419,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784493759,
     "filename": "Batman___Arkham_Knight-HONOR-BVL-N49-Adreno__TM__750-1784493759.json"
-  },
-  {
-    "game": "Prototype_",
-    "manufacturer": "Infinix_X6835B",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1784492311,
-    "filename": "Prototype_-INFINIX-Infinix_X6835B-PowerVR_Rogue_GE8320-1784492311.json"
   }
 ]
