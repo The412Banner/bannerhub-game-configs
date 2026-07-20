@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784511856,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g14-Mali-G57-1784511856.json"
+  },
+  {
     "game": "VRChat",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784477251,
     "filename": "Pes_2017xzxzzzz-Xiaomi-25028RN03A-Mali-G57-1784477251.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "23021RAAEG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784477233,
-    "filename": "God_of_War-Xiaomi-23021RAAEG-Adreno__TM__610-1784477233.json"
   }
 ]
