@@ -1,5 +1,12 @@
 [
   {
+    "game": "SAMURAI_WARRIORS_4-II",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784533885,
+    "filename": "SAMURAI_WARRIORS_4-II-motorola-moto_g45_5G-Adreno__TM__619-1784533885.json"
+  },
+  {
     "game": "NARUTO_STORM_3_FB",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1784508679,
     "filename": "Grand_Theft_Auto_V_-Xiaomi-2311DRK48G-Mali-G615_MC6-1784508679.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "2410CRP4CG",
-    "device": "Adreno__TM__732",
-    "timestamp": 1784505000,
-    "filename": "American_Truck_Simulator-Xiaomi-2410CRP4CG-Adreno__TM__732-1784505000.json"
   }
 ]
