@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1784508679,
+    "filename": "Grand_Theft_Auto_V_-Xiaomi-2311DRK48G-Mali-G615_MC6-1784508679.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "2410CRP4CG",
     "device": "Adreno__TM__732",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1784473825,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1784473825.json"
-  },
-  {
-    "game": "NARUTO_STORM_3_FB",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784473037,
-    "filename": "NARUTO_STORM_3_FB-realme-RMX5303-Mali-G57-1784473037.json"
   }
 ]
