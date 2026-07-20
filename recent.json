@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1784553438,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-Xiaomi-25053PC47G-Adreno__TM__825-1784553438.json"
+  },
+  {
     "game": "FIFA_Soccer_11",
     "manufacturer": "T610K",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784516491,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A325M-Mali-G52_MC2-1784516491.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2209116AG",
-    "device": "Adreno__TM__618",
-    "timestamp": 1784516488,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2209116AG-Adreno__TM__618-1784516488.json"
   }
 ]
