@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784516491,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A325M-Mali-G52_MC2-1784516491.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2209116AG",
     "device": "Adreno__TM__618",
     "timestamp": 1784516488,
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784483141,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX5313-Mali-G57-1784483141.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784482977,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1784482977.json"
   }
 ]
