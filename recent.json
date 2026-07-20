@@ -1,5 +1,12 @@
 [
   {
+    "game": "CrashBandicootNSaneTrilogy",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1784588413,
+    "filename": "CrashBandicootNSaneTrilogy-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1784588413.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1784568902,
     "filename": "BeamNG_drive-samsung-SM-S948B-Adreno__TM__840-1784568902.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23073RPBFL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784568743,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23073RPBFL-Adreno__TM__610-1784568743.json"
   }
 ]
