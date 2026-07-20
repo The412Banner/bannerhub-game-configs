@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23113RKC6C",
+    "device": "Adreno__TM__740",
+    "timestamp": 1784535410,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23113RKC6C-Adreno__TM__740-1784535410.json"
+  },
+  {
     "game": "SAMURAI_WARRIORS_4-II",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784509436,
     "filename": "Pro_Evolution_Soccer_2013-LENOVO-TB310FU-Mali-G52_MC2-1784509436.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784509231,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A065M-Mali-G52_MC2-1784509231.json"
   }
 ]
