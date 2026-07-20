@@ -1,5 +1,12 @@
 [
   {
+    "game": "START-GAME",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784525809,
+    "filename": "START-GAME-motorola-moto_g84_5G-Adreno__TM__619-1784525809.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784494143,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RK2CG-Adreno__TM__750-1784494143.json"
-  },
-  {
-    "game": "Batman___Arkham_Knight",
-    "manufacturer": "N49",
-    "device": "Adreno__TM__750",
-    "timestamp": 1784493759,
-    "filename": "Batman___Arkham_Knight-HONOR-BVL-N49-Adreno__TM__750-1784493759.json"
   }
 ]
