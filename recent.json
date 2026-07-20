@@ -1,5 +1,12 @@
 [
   {
+    "game": "BeamNG_drive",
+    "manufacturer": "S931B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784556212,
+    "filename": "BeamNG_drive-samsung-SM-S931B-Adreno__TM__830-1784556212.json"
+  },
+  {
     "game": "Dead_Island_Definitive_Edition",
     "manufacturer": "2509ARPBDG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1784525700,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A366E-Adreno__TM__710-1784525700.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1784523419,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25080RABDG-Mali-G615_MC2-1784523419.json"
   }
 ]
