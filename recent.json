@@ -1,5 +1,12 @@
 [
   {
+    "game": "LF_Launcher",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1784578148,
+    "filename": "LF_Launcher-samsung-SM-A047M-Mali-G52-1784578148.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784557005,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1784557005.json"
-  },
-  {
-    "game": "BeamNG_drive",
-    "manufacturer": "S931B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1784556415,
-    "filename": "BeamNG_drive-samsung-SM-S931B-Adreno__TM__830-1784556415.json"
   }
 ]
