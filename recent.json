@@ -1,5 +1,12 @@
 [
   {
+    "game": "Middle-earth___Shadow_of_Mordor_",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1784594151,
+    "filename": "Middle-earth___Shadow_of_Mordor_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784594151.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784577510,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1784577510.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "moto_g96_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1784577115,
-    "filename": "Far_Cry_3-motorola-moto_g96_5G-Adreno__TM__710-1784577115.json"
   }
 ]
