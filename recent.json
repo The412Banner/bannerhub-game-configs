@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta-sa",
+    "manufacturer": "itel_A665L",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1784660367,
+    "filename": "gta-sa-ITEL-itel_A665L-PowerVR_Rogue_GE8322-1784660367.json"
+  },
+  {
     "game": "fs_19_",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784648086,
     "filename": "Assetto_Corsa-Xiaomi-23117RA68G-Mali-G57_MC2-1784648086.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784646237,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1784646237.json"
   }
 ]
