@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784654918,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1784654918.json"
+  },
+  {
     "game": "SAMURAI_WARRIORS_4-II",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784645605,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1784645605.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Origins",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1784643987,
-    "filename": "Assassin_s_Creed__Origins-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1784643987.json"
   }
 ]
