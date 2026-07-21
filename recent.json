@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784646192,
+    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-INFINIX-Infinix_X6886-Mali-G57_MC2-1784646192.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1784635833,
     "filename": "The_Sims__4-samsung-SM-A346M-Mali-G68_MC4-1784635833.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784624849,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1784624849.json"
   }
 ]
