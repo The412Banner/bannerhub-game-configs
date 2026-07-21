@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_17",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1784652456,
+    "filename": "FIFA_17-Xiaomi-25080RABDG-Mali-G615_MC2-1784652456.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784643379,
     "filename": "Need_for_Speed__Most_Wanted-INFINIX-Infinix_X6817-Mali-G52_MC2-1784643379.json"
-  },
-  {
-    "game": "Far_Cry_Primal",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1784639093,
-    "filename": "Far_Cry_Primal-nubia-NP05J-Adreno__TM__830-1784639093.json"
   }
 ]
