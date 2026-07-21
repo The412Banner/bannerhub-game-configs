@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784672224,
+    "filename": "Need_for_Speed_9-samsung-SM-A057M-Adreno__TM__610-1784672224.json"
+  },
+  {
     "game": "Undertale",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784654675,
     "filename": "SAMURAI_WARRIORS_4-II-motorola-moto_g45_5G-Adreno__TM__619-1784654675.json"
-  },
-  {
-    "game": "NFSC",
-    "manufacturer": "RMX5079",
-    "device": "Adreno__TM__810",
-    "timestamp": 1784653164,
-    "filename": "NFSC-realme-RMX5079-Adreno__TM__810-1784653164.json"
   }
 ]
