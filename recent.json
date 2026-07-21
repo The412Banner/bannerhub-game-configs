@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784595582,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2303CRA44A-Mali-G57_MC2-1784595582.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784578446,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX5020-Mali-G52_MC2-1784578446.json"
-  },
-  {
-    "game": "LF_Launcher",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1784578148,
-    "filename": "LF_Launcher-samsung-SM-A047M-Mali-G52-1784578148.json"
   }
 ]
