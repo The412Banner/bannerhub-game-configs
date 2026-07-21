@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2011",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1784607077,
+    "filename": "Pro_Evolution_Soccer_2011-Xiaomi-2207117BPG-Mali-G76-1784607077.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "S711B",
     "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1784593684,
     "filename": "DRAGON_QUEST_VII_Reimagined_Demo-motorola-moto_g73_5G-PowerVR_B-Series_BXM-8-256-1784593684.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "moto_g22",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1784593387,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g22-PowerVR_Rogue_GE8320-1784593387.json"
   }
 ]
