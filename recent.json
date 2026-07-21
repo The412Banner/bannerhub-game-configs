@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "22111317PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784649026,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-22111317PG-Adreno__TM__619-1784649026.json"
+  },
+  {
     "game": "Assetto_Corsa",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784631738,
     "filename": "Pro_Evolution_Soccer_2016-samsung-SM-A235F-Adreno__TM__610-1784631738.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23076RN4BI",
-    "device": "Adreno__TM__613",
-    "timestamp": 1784630338,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23076RN4BI-Adreno__TM__613-1784630338.json"
   }
 ]
