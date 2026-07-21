@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_Primal",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784639093,
+    "filename": "Far_Cry_Primal-nubia-NP05J-Adreno__TM__830-1784639093.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784611002,
     "filename": "Marvel_s_Spider-Man_Remastered-realme-RMX3661-Adreno__TM__619-1784611002.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1784610601,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S918B-Adreno__TM__740-1784610601.json"
   }
 ]
