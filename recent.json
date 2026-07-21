@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1784675055,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1784675055.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1784656114,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G780G-Adreno__TM__650-1784656114.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_20132",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1784655855,
-    "filename": "Pro_Evolution_Soccer_20132-Xiaomi-M2101K7BG-Mali-G76-1784655855.json"
   }
 ]
