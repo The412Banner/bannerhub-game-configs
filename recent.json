@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784645605,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1784645605.json"
+  },
+  {
     "game": "Assassin_s_Creed__Origins",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784616709,
     "filename": "Red_Dead_Redemption-motorola-moto_g45_5G-Adreno__TM__619-1784616709.json"
-  },
-  {
-    "game": "SAMURAI_WARRIORS_4-II",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784616615,
-    "filename": "SAMURAI_WARRIORS_4-II-motorola-moto_g45_5G-Adreno__TM__619-1784616615.json"
   }
 ]
