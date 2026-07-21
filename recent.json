@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man_Remastered",
+    "manufacturer": "RMX3661",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784611002,
+    "filename": "Marvel_s_Spider-Man_Remastered-realme-RMX3661-Adreno__TM__619-1784611002.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784597548,
     "filename": "Red_Dead_Redemption-motorola-moto_g45_5G-Adreno__TM__619-1784597548.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S908E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1784595999,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S908E-Adreno__TM__730-1784595999.json"
   }
 ]
