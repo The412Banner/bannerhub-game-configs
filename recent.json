@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1784628999,
+    "filename": "Resident_Evil_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784628999.json"
+  },
+  {
     "game": "The_Sims__4",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1784607077,
     "filename": "Pro_Evolution_Soccer_2011-Xiaomi-2207117BPG-Mali-G76-1784607077.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "S711B",
-    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
-    "timestamp": 1784606841,
-    "filename": "Resident_Evil_6-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1784606841.json"
   }
 ]
