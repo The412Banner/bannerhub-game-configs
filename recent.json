@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "RMX3844",
+    "device": "Adreno__TM__710",
+    "timestamp": 1784672825,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3844-Adreno__TM__710-1784672825.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784654918,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1784654918.json"
-  },
-  {
-    "game": "SAMURAI_WARRIORS_4-II",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784654675,
-    "filename": "SAMURAI_WARRIORS_4-II-motorola-moto_g45_5G-Adreno__TM__619-1784654675.json"
   }
 ]
