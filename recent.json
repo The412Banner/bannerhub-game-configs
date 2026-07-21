@@ -1,5 +1,12 @@
 [
   {
+    "game": "fs_19_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784659729,
+    "filename": "fs_19_-Xiaomi-23106RN0DA-Mali-G52_MC2-1784659729.json"
+  },
+  {
     "game": "DreadOut2",
     "manufacturer": "22111317PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784646237,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1784646237.json"
-  },
-  {
-    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784646192,
-    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-INFINIX-Infinix_X6886-Mali-G57_MC2-1784646192.json"
   }
 ]
