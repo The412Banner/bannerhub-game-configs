@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Sims__4",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1784635833,
+    "filename": "The_Sims__4-samsung-SM-A346M-Mali-G68_MC4-1784635833.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
     "timestamp": 1784606841,
     "filename": "Resident_Evil_6-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1784606841.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784606485,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5313-Mali-G57-1784606485.json"
   }
 ]
