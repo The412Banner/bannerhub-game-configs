@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784594836,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A325M-Mali-G52_MC2-1784594836.json"
+  },
+  {
     "game": "Middle-earth___Shadow_of_Mordor_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1784578148,
     "filename": "LF_Launcher-samsung-SM-A047M-Mali-G52-1784578148.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784577510,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1784577510.json"
   }
 ]
