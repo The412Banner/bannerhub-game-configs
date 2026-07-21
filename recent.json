@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Origins",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1784643987,
+    "filename": "Assassin_s_Creed__Origins-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1784643987.json"
+  },
+  {
     "game": "Need_for_Speed__Most_Wanted",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784616615,
     "filename": "SAMURAI_WARRIORS_4-II-motorola-moto_g45_5G-Adreno__TM__619-1784616615.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784614126,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25028PC03G-Mali-G57-1784614126.json"
   }
 ]
