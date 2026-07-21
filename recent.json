@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1784593301,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_20_-Mali-G52-1784593301.json"
+  },
+  {
     "game": "Granblue_Fantasy_Versus__Rising",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784570437,
     "filename": "Poppy_Playtime_Chapter__5-Xiaomi-2510DRA23L-Mali-G57_MC2-1784570437.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "M2102K1G",
-    "device": "Adreno__TM__660",
-    "timestamp": 1784569621,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-M2102K1G-Adreno__TM__660-1784569621.json"
   }
 ]
