@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mount___Blade__Warband",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784669057,
+    "filename": "Mount___Blade__Warband-Xiaomi-23117RA68G-Mali-G57_MC2-1784669057.json"
+  },
+  {
     "game": "sims-4-updater-v1_4_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1784652456,
     "filename": "FIFA_17-Xiaomi-25080RABDG-Mali-G615_MC2-1784652456.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784651027,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1784651027.json"
   }
 ]
