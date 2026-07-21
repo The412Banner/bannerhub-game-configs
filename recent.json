@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784606485,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5313-Mali-G57-1784606485.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2011",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1784593301,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_20_-Mali-G52-1784593301.json"
-  },
-  {
-    "game": "Granblue_Fantasy_Versus__Rising",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1784589917,
-    "filename": "Granblue_Fantasy_Versus__Rising-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784589917.json"
   }
 ]
