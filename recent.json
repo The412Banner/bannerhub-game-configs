@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "S711B",
+    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
+    "timestamp": 1784606841,
+    "filename": "Resident_Evil_6-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1784606841.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1784593387,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g22-PowerVR_Rogue_GE8320-1784593387.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1784593301,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_20_-Mali-G52-1784593301.json"
   }
 ]
