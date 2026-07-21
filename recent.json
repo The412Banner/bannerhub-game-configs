@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1784620509,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A346E-Mali-G68_MC4-1784620509.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1784602938,
     "filename": "SniperEliteV2-samsung-SM-S918B-Adreno__TM__740-1784602938.json"
-  },
-  {
-    "game": "Half-Life_2",
-    "manufacturer": "22101320G",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1784602150,
-    "filename": "Half-Life_2-Xiaomi-22101320G-Adreno__TM__642L-1784602150.json"
   }
 ]
