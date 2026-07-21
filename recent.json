@@ -1,5 +1,12 @@
 [
   {
+    "game": "SAMURAI_WARRIORS_4-II",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784654675,
+    "filename": "SAMURAI_WARRIORS_4-II-motorola-moto_g45_5G-Adreno__TM__619-1784654675.json"
+  },
+  {
     "game": "NFSC",
     "manufacturer": "RMX5079",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1784643987,
     "filename": "Assassin_s_Creed__Origins-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1784643987.json"
-  },
-  {
-    "game": "Need_for_Speed__Most_Wanted",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784643386,
-    "filename": "Need_for_Speed__Most_Wanted-INFINIX-Infinix_X6817-Mali-G52_MC2-1784643386.json"
   }
 ]
