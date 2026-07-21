@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1784594115,
+    "filename": "God_of_War-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1784594115.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1784577115,
     "filename": "Far_Cry_3-motorola-moto_g96_5G-Adreno__TM__710-1784577115.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784575273,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02I-Mali-G52_MC2-1784575273.json"
   }
 ]
