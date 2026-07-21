@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "moto_g_stylus_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784634991,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g_stylus_5G-Adreno__TM__619-1784634991.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23076RN4BI",
     "device": "Adreno__TM__613",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784609146,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-X110-Mali-G57_MC2-1784609146.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784609002,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-X110-Mali-G57_MC2-1784609002.json"
   }
 ]
