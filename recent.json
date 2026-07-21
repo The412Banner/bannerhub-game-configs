@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Advanced_Warfare_-_Gold_Edition",
+    "manufacturer": "25053PC47I",
+    "device": "Adreno__TM__825",
+    "timestamp": 1784659394,
+    "filename": "Call_of_Duty___Advanced_Warfare_-_Gold_Edition-Xiaomi-25053PC47I-Adreno__TM__825-1784659394.json"
+  },
+  {
     "game": "10_Second_Ninja_X",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1784646039,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K7BG-Mali-G76-1784646039.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784645957,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1784645957.json"
   }
 ]
