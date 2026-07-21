@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784646237,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1784646237.json"
+  },
+  {
     "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1784628999,
     "filename": "Resident_Evil_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784628999.json"
-  },
-  {
-    "game": "The_Sims__4",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1784635833,
-    "filename": "The_Sims__4-samsung-SM-A346M-Mali-G68_MC4-1784635833.json"
   }
 ]
