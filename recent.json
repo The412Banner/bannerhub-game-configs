@@ -1,5 +1,12 @@
 [
   {
+    "game": "AC3SP",
+    "manufacturer": "V2530",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784687959,
+    "filename": "AC3SP-vivo-V2530-Adreno__TM__610-1784687959.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1784667942,
     "filename": "ZoneUE4-Xiaomi-24069PC21G-Adreno__TM__735-1784667942.json"
-  },
-  {
-    "game": "art_of_rally",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784665046,
-    "filename": "art_of_rally-INFINIX-Infinix_X6886-Mali-G57_MC2-1784665046.json"
   }
 ]
