@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rappelz_Launcher",
+    "manufacturer": "24069RA21C",
+    "device": "Adreno__TM__735",
+    "timestamp": 1784727774,
+    "filename": "Rappelz_Launcher-Xiaomi-24069RA21C-Adreno__TM__735-1784727774.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "24069RA21C",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784689715,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1784689715.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1784689000,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution-INFINIX-Infinix_X6873-Mali-G615_MC6-1784689000.json"
   }
 ]
