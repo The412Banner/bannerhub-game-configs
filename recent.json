@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784685268,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A035M-Mali-G57-1784685268.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M2101K6G",
     "device": "Adreno__TM__618",
     "timestamp": 1784683430,
@@ -131,12 +138,5 @@
     "device": "MT6878",
     "timestamp": 1784664786,
     "filename": "Farming_Simulator_19-Nothing-A015-MT6878-1784664786.json"
-  },
-  {
-    "game": "GTA_V_Launcher",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784662028,
-    "filename": "GTA_V_Launcher-LENOVO-TB330FU-Mali-G52_MC2-1784662028.json"
   }
 ]
