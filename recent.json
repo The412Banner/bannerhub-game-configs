@@ -3,6 +3,13 @@
     "game": "l2",
     "manufacturer": "moto_e22",
     "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1784758040,
+    "filename": "l2-motorola-moto_e22-PowerVR_Rogue_GE8320-1784758040.json"
+  },
+  {
+    "game": "l2",
+    "manufacturer": "moto_e22",
+    "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1784757980,
     "filename": "l2-motorola-moto_e22-PowerVR_Rogue_GE8320-1784757980.json"
   },
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1784747856,
     "filename": "AC3SP-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1784747856.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1784747785,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1784747785.json"
   }
 ]
