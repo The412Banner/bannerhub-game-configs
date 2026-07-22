@@ -1,5 +1,12 @@
 [
   {
+    "game": "l2",
+    "manufacturer": "moto_e22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1784726812,
+    "filename": "l2-motorola-moto_e22-PowerVR_Rogue_GE8320-1784726812.json"
+  },
+  {
     "game": "eFootball_",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1784688819,
     "filename": "Pro_Evolution_Soccer_2013___________________________________-HONOR-BRP-NX1-Adreno__TM__710-1784688819.json"
-  },
-  {
-    "game": "AC3SP",
-    "manufacturer": "V2530",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784687959,
-    "filename": "AC3SP-vivo-V2530-Adreno__TM__610-1784687959.json"
   }
 ]
