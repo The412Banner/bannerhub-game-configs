@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784750917,
+    "filename": "Hollow_Knight__Silksong-samsung-SM-A075M-Mali-G57_MC2-1784750917.json"
+  },
+  {
     "game": "No__I_m_not_a_Human",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1784735298,
     "filename": "Little_Nightmares_II-samsung-SM-A715F-Adreno__TM__618-1784735298.json"
-  },
-  {
-    "game": "DiRT_4",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1784733730,
-    "filename": "DiRT_4-OPPO-CPH2371-Mali-G68_MC4-1784733730.json"
   }
 ]
