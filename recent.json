@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784754249,
+    "filename": "Resident_Evil_5-samsung-SM-A057M-Adreno__TM__610-1784754249.json"
+  },
+  {
     "game": "Dead_Space__2008_",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1784741118,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1784741118.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1784739776,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-Redmi_Note_8_Pro-Mali-G76_MC4-1784739776.json"
   }
 ]
