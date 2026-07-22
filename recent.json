@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Origins",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784679062,
+    "filename": "Assassin_s_Creed__Origins-Xiaomi-2510DPC44G-Adreno__TM__830-1784679062.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784659729,
     "filename": "fs_19_-Xiaomi-23106RN0DA-Mali-G52_MC2-1784659729.json"
-  },
-  {
-    "game": "DreadOut2",
-    "manufacturer": "22111317PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784659514,
-    "filename": "DreadOut2-Xiaomi-22111317PG-Adreno__TM__619-1784659514.json"
   }
 ]
