@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1784686338,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1784686338.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784665046,
     "filename": "art_of_rally-INFINIX-Infinix_X6886-Mali-G57_MC2-1784665046.json"
-  },
-  {
-    "game": "Farming_Simulator_19",
-    "manufacturer": "A015",
-    "device": "MT6878",
-    "timestamp": 1784664786,
-    "filename": "Farming_Simulator_19-Nothing-A015-MT6878-1784664786.json"
   }
 ]
