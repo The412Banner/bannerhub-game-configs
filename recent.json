@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wolf2",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784755190,
+    "filename": "Wolf2-samsung-SM-S938B-Adreno__TM__830-1784755190.json"
+  },
+  {
     "game": "Need_for_Speed_",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784746315,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02L-Mali-G52_MC2-1784746315.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784746309,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02L-Mali-G52_MC2-1784746309.json"
   }
 ]
