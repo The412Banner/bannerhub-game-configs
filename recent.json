@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1784725895,
+    "filename": "eFootball_-Xiaomi-2311DRK48G-Mali-G615_MC6-1784725895.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784687959,
     "filename": "AC3SP-vivo-V2530-Adreno__TM__610-1784687959.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1784686338,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1784686338.json"
   }
 ]
