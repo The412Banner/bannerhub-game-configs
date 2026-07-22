@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784678782,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23053RN02L-Mali-G52_MC2-1784678782.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784659514,
     "filename": "DreadOut2-Xiaomi-22111317PG-Adreno__TM__619-1784659514.json"
-  },
-  {
-    "game": "Call_of_Duty___Advanced_Warfare_-_Gold_Edition",
-    "manufacturer": "25053PC47I",
-    "device": "Adreno__TM__825",
-    "timestamp": 1784659394,
-    "filename": "Call_of_Duty___Advanced_Warfare_-_Gold_Edition-Xiaomi-25053PC47I-Adreno__TM__825-1784659394.json"
   }
 ]
