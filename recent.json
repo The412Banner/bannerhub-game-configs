@@ -1,5 +1,12 @@
 [
   {
+    "game": "Friday_the_13th__The_Game",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1784731662,
+    "filename": "Friday_the_13th__The_Game-Xiaomi-25080RABDG-Mali-G615_MC2-1784731662.json"
+  },
+  {
     "game": "Cradle_of_Nightmare___Flowers_to_you",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784702598,
     "filename": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719-samsung-SM-A165F-Mali-G57_MC2-1784702598.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784702532,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HONOR-ALT-LX2-Adreno__TM__610-1784702532.json"
   }
 ]
