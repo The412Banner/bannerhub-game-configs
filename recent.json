@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Lord_of_the_Rings__War_in_the_North",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1784759081,
+    "filename": "The_Lord_of_the_Rings__War_in_the_North-samsung-SM-S918B-Adreno__TM__740-1784759081.json"
+  },
+  {
     "game": "l2",
     "manufacturer": "moto_e22",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784749325,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02L-Mali-G52_MC2-1784749325.json"
-  },
-  {
-    "game": "People_Playground",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784748323,
-    "filename": "People_Playground-motorola-moto_g04s-Mali-G57-1784748323.json"
   }
 ]
