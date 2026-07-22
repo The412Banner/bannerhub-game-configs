@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784702598,
+    "filename": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719-samsung-SM-A165F-Mali-G57_MC2-1784702598.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1784676057,
     "filename": "Genrals_Zero_Hour_Reborn_V4_0_Rise_To_Power__www_wifi4games_com_-samsung-SM-S938B-Adreno__TM__830-1784676057.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1784675085,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1784675085.json"
   }
 ]
