@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dynasty_Warriors_6",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784785969,
+    "filename": "Dynasty_Warriors_6-motorola-moto_g45_5G-Adreno__TM__619-1784785969.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1784762576,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1784762576.json"
-  },
-  {
-    "game": "Gears_of_war_2",
-    "manufacturer": "S916U",
-    "device": "Adreno__TM__740",
-    "timestamp": 1784761044,
-    "filename": "Gears_of_war_2-samsung-SM-S916U-Adreno__TM__740-1784761044.json"
   }
 ]
