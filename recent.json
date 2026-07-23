@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "24122RKC7G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784811442,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-24122RKC7G-Adreno__TM__830-1784811442.json"
+  },
+  {
     "game": "Diablo_II",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1784788355,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1784788355.json"
-  },
-  {
-    "game": "Dynasty_Warriors_6",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784786527,
-    "filename": "Dynasty_Warriors_6-motorola-moto_g45_5G-Adreno__TM__619-1784786527.json"
   }
 ]
