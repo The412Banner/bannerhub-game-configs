@@ -1,5 +1,12 @@
 [
   {
+    "game": "ONE_PIECE__PIRATE_WARRIORS_3",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784786001,
+    "filename": "ONE_PIECE__PIRATE_WARRIORS_3-motorola-moto_g45_5G-Adreno__TM__619-1784786001.json"
+  },
+  {
     "game": "SAMURAI_WARRIORS_4-II",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784771899,
     "filename": "GTA_V_Launcher-INFINIX-Infinix_X6885-Mali-G57_MC2-1784771899.json"
-  },
-  {
-    "game": "Dying_Light",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1784771703,
-    "filename": "Dying_Light-Xiaomi-25053PC47G-Adreno__TM__825-1784771703.json"
   }
 ]
