@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1784788355,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1784788355.json"
+  },
+  {
     "game": "Dynasty_Warriors_6",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784774518,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1784774518.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1784774483,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784774483.json"
   }
 ]
