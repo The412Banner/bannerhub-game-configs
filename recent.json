@@ -1,5 +1,12 @@
 [
   {
+    "game": "____2016",
+    "manufacturer": "24091RPADG",
+    "device": "Adreno__TM__735",
+    "timestamp": 1784824040,
+    "filename": "____2016-Xiaomi-24091RPADG-Adreno__TM__735-1784824040.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784801508,
     "filename": "WayOfTheSamurai3-motorola-moto_g45_5G-Adreno__TM__619-1784801508.json"
-  },
-  {
-    "game": "WayOfTheSamurai3",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784801506,
-    "filename": "WayOfTheSamurai3-motorola-moto_g45_5G-Adreno__TM__619-1784801506.json"
   }
 ]
