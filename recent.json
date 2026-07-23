@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784827508,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5313-Mali-G57-1784827508.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1784827402,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1784827402.json"
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1784813345,
     "filename": "EuroTruckSimulator2-TECNO_MOBILE_LIMITED-TECNO_KG6k-PowerVR_Rogue_GE8320-1784813345.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "24122RKC7G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1784811442,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-24122RKC7G-Adreno__TM__830-1784811442.json"
   }
 ]
