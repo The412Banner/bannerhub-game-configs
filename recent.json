@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "2510EPC8BG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1784813991,
+    "filename": "Sleeping_Dogs-Xiaomi-2510EPC8BG-Adreno__TM__810-1784813991.json"
+  },
+  {
     "game": "EuroTruckSimulator2",
     "manufacturer": "TECNO_KG6k",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1784792503,
     "filename": "KanojyoNoImoutoNoKyonyuYuwaku-samsung-SM-S938B-Adreno__TM__830-1784792503.json"
-  },
-  {
-    "game": "Resident_Evil_Village",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1784789686,
-    "filename": "Resident_Evil_Village-LENOVO-TB321FU-Adreno__TM__750-1784789686.json"
   }
 ]
