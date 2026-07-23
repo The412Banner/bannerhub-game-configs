@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1784807156,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2207117BPG-Mali-G76-1784807156.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "25062RN2DA",
     "device": "Adreno__TM__610",
     "timestamp": 1784807129,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784786002,
     "filename": "ONE_PIECE__PIRATE_WARRIORS_3-motorola-moto_g45_5G-Adreno__TM__619-1784786002.json"
-  },
-  {
-    "game": "ONE_PIECE__PIRATE_WARRIORS_3",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784786001,
-    "filename": "ONE_PIECE__PIRATE_WARRIORS_3-motorola-moto_g45_5G-Adreno__TM__619-1784786001.json"
   }
 ]
