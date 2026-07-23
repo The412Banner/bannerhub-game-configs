@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1784831785,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-21061110AG-Mali-G77_MC9-1784831785.json"
+  },
+  {
     "game": "hello_neighbor_alpha_1_5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784818428,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2010J19CG-Adreno__TM__610-1784818428.json"
-  },
-  {
-    "game": "Rocket_League",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1784817536,
-    "filename": "Rocket_League-Xiaomi-25053RT47C-Adreno__TM__825-1784817536.json"
   }
 ]
