@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1784800242,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2207117BPG-Mali-G76-1784800242.json"
+  },
+  {
     "game": "GOAT_OF_DUTY",
     "manufacturer": "G781B",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784785969,
     "filename": "Dynasty_Warriors_6-motorola-moto_g45_5G-Adreno__TM__619-1784785969.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784782654,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1784782654.json"
   }
 ]
