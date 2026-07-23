@@ -1,5 +1,12 @@
 [
   {
+    "game": "ZeroParades",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784837406,
+    "filename": "ZeroParades-ayn-Odin3-Adreno__TM__830-1784837406.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "NX3",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1784824040,
     "filename": "____2016-Xiaomi-24091RPADG-Adreno__TM__735-1784824040.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784821194,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1784821194.json"
   }
 ]
