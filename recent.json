@@ -1,5 +1,12 @@
 [
   {
+    "game": "SAMURAI_WARRIORS_4-II",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784785982,
+    "filename": "SAMURAI_WARRIORS_4-II-motorola-moto_g45_5G-Adreno__TM__619-1784785982.json"
+  },
+  {
     "game": "Dynasty_Warriors_6",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784764582,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S928B-Adreno__TM__750-1784764582.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1784762576,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1784762576.json"
   }
 ]
