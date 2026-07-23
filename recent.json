@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_IV_1_7_0_7______________________________________________",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784815943,
+    "filename": "GTA_IV_1_7_0_7______________________________________________-Xiaomi-25028RN03A-Mali-G57-1784815943.json"
+  },
+  {
     "game": "FIFA_19",
     "manufacturer": "2410CRP4CG",
     "device": "Adreno__TM__732",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784795952,
     "filename": "Farming_Simulator_19-Xiaomi-25028RN03Y-Mali-G57-1784795952.json"
-  },
-  {
-    "game": "SAMURAI_WARRIORS_4-II",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784792990,
-    "filename": "SAMURAI_WARRIORS_4-II-motorola-moto_g45_5G-Adreno__TM__619-1784792990.json"
   }
 ]
