@@ -1,5 +1,12 @@
 [
   {
+    "game": "fs19",
+    "manufacturer": "A037M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1784768484,
+    "filename": "fs19-samsung-SM-A037M-PowerVR_Rogue_GE8320-1784768484.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "moto_g53_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784754234,
     "filename": "Dead_Space__2008_-samsung-SM-A057M-Adreno__TM__610-1784754234.json"
-  },
-  {
-    "game": "Fallout__New_Vegas",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1784752615,
-    "filename": "Fallout__New_Vegas-HONOR-FNE-NX9-Adreno__TM__642L-1784752615.json"
   }
 ]
