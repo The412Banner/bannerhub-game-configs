@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "NX9",
+    "device": "Adreno__TM__720",
+    "timestamp": 1784849516,
+    "filename": "Pro_Evolution_Soccer_2013-HONOR-DNY-NX9-Adreno__TM__720-1784849516.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1784849468,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1784836799,
     "filename": "Pro_Evolution_Soccer_2013-HONOR-MTN-NX3-Adreno__TM__810-1784836799.json"
-  },
-  {
-    "game": "FIFA_19",
-    "manufacturer": "23013PC75G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1784832750,
-    "filename": "FIFA_19-Xiaomi-23013PC75G-Adreno__TM__730-1784832750.json"
   }
 ]
