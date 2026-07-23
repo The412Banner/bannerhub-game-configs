@@ -1,5 +1,12 @@
 [
   {
+    "game": "EuroTruckSimulator2",
+    "manufacturer": "TECNO_KG6k",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1784813345,
+    "filename": "EuroTruckSimulator2-TECNO_MOBILE_LIMITED-TECNO_KG6k-PowerVR_Rogue_GE8320-1784813345.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "24122RKC7G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1784789686,
     "filename": "Resident_Evil_Village-LENOVO-TB321FU-Adreno__TM__750-1784789686.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1784788355,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1784788355.json"
   }
 ]
