@@ -1,5 +1,12 @@
 [
   {
+    "game": "Diablo_II",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784811282,
+    "filename": "Diablo_II-INFINIX-Infinix_X6881-Mali-G57_MC2-1784811282.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784786527,
     "filename": "Dynasty_Warriors_6-motorola-moto_g45_5G-Adreno__TM__619-1784786527.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784786040,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-motorola-moto_g45_5G-Adreno__TM__619-1784786040.json"
   }
 ]
