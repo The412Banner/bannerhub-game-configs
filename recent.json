@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Elder_Scrolls_V__Skyrim",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1784808952,
+    "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-23049PCD8G-Adreno__TM__725-1784808952.json"
+  },
+  {
     "game": "MaxPayne_Application",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784786029,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-motorola-moto_g45_5G-Adreno__TM__619-1784786029.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784786022,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-motorola-moto_g45_5G-Adreno__TM__619-1784786022.json"
   }
 ]
