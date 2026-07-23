@@ -1,5 +1,12 @@
 [
   {
+    "game": "WayOfTheSamurai3",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784801157,
+    "filename": "WayOfTheSamurai3-motorola-moto_g45_5G-Adreno__TM__619-1784801157.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784785982,
     "filename": "SAMURAI_WARRIORS_4-II-motorola-moto_g45_5G-Adreno__TM__619-1784785982.json"
-  },
-  {
-    "game": "Dynasty_Warriors_6",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784785969,
-    "filename": "Dynasty_Warriors_6-motorola-moto_g45_5G-Adreno__TM__619-1784785969.json"
   }
 ]
