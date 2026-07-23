@@ -1,5 +1,12 @@
 [
   {
+    "game": "GOAT_OF_DUTY",
+    "manufacturer": "G781B",
+    "device": "Adreno__TM__650",
+    "timestamp": 1784800069,
+    "filename": "GOAT_OF_DUTY-samsung-SM-G781B-Adreno__TM__650-1784800069.json"
+  },
+  {
     "game": "Farming_Simulator_19",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784782654,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1784782654.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784778493,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1784778493.json"
   }
 ]
