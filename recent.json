@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A236M",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784842321,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A236M-Adreno__TM__619-1784842321.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "LX9N",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784826536,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1784826536.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1784825632,
-    "filename": "Resident_Evil_5-Xiaomi-25053PC47G-Adreno__TM__825-1784825632.json"
   }
 ]
