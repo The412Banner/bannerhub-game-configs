@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_14",
+    "manufacturer": "moto_g85_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784844458,
+    "filename": "FIFA_14-motorola-moto_g85_5G-Adreno__TM__619-1784844458.json"
+  },
+  {
     "game": "Colin_Mcrae__Dirt_2",
     "manufacturer": "2201123G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784830184,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TL-Adreno__TM__610-1784830184.json"
-  },
-  {
-    "game": "The_Legend_of_Heroes__Sen_no_Kiseki_II_KAI_-The_Erebonian_Civil_War-",
-    "manufacturer": "S711B",
-    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
-    "timestamp": 1784829795,
-    "filename": "The_Legend_of_Heroes__Sen_no_Kiseki_II_KAI_-The_Erebonian_Civil_War--samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1784829795.json"
   }
 ]
