@@ -1,5 +1,12 @@
 [
   {
+    "game": "SAMURAI_WARRIORS_4-II",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1784792990,
+    "filename": "SAMURAI_WARRIORS_4-II-motorola-moto_g45_5G-Adreno__TM__619-1784792990.json"
+  },
+  {
     "game": "KanojyoNoImoutoNoKyonyuYuwaku",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784776150,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HONOR-LLY-NX3-Mali-G57_MC2-1784776150.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784774586,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1784774586.json"
   }
 ]
