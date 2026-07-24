@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784863658,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1784863658.json"
+  },
+  {
     "game": "Resident_Evil_4_Chainsaw_Demo",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1784843516,
     "filename": "Colin_Mcrae__Dirt_2-Xiaomi-2201123G-Adreno__TM__730-1784843516.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784843091,
-    "filename": "Pro_Evolution_Soccer_2013-realme-realme_Note_60s-Mali-G57-1784843091.json"
   }
 ]
