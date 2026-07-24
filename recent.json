@@ -1,5 +1,12 @@
 [
   {
+    "game": "Counter-Strike_2",
+    "manufacturer": "2109119DG",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1784912709,
+    "filename": "Counter-Strike_2-Xiaomi-2109119DG-Adreno__TM__642L-1784912709.json"
+  },
+  {
     "game": "NARUTO__Ultimate_Ninja_STORM",
     "manufacturer": "S906E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784882817,
     "filename": "FarmingSimulator2019Game-motorola-moto_g06-Mali-G52_MC2-1784882817.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784875196,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e13-Mali-G57-1784875196.json"
   }
 ]
