@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1784854444,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24095PCADG-Mali-G615_MC2-1784854444.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "G710",
     "device": "Adreno__TM__630",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1784837967,
     "filename": "007_First_Light-Xiaomi-2412DPC0AG-Mali-G720_MC7-1784837967.json"
-  },
-  {
-    "game": "ZeroParades",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1784837406,
-    "filename": "ZeroParades-ayn-Odin3-Adreno__TM__830-1784837406.json"
   }
 ]
