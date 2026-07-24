@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784934236,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2303CRA44A-Mali-G57_MC2-1784934236.json"
+  },
+  {
     "game": "The_Elder_Scrolls_V__Skyrim",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1784924852,
     "filename": "Mortal_Kombat_1-nubia-NP05J-Adreno__TM__830-1784924852.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784923803,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1784923803.json"
   }
 ]
