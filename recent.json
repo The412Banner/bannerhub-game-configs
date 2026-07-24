@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A235F",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784874310,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A235F-Adreno__TM__610-1784874310.json"
+  },
+  {
     "game": "GraalOnline_Era",
     "manufacturer": "F711W",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784854836,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-INFINIX-Infinix_X6711-Mali-G57_MC2-1784854836.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1784854444,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24095PCADG-Mali-G615_MC2-1784854444.json"
   }
 ]
