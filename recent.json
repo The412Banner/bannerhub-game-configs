@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1784928986,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-X230-Mali-G615_MC2-1784928986.json"
+  },
+  {
     "game": "Virtual_Driving_School_Demo",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1784917604,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2312DRA50G-Adreno__TM__710-1784917604.json"
-  },
-  {
-    "game": "TBH__Task_Bar_Hero",
-    "manufacturer": "A556E",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1784917171,
-    "filename": "TBH__Task_Bar_Hero-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1784917171.json"
   }
 ]
