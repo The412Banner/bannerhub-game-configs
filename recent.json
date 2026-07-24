@@ -1,5 +1,12 @@
 [
   {
+    "game": "SONIC_X_SHADOW_GENERATIONS",
+    "manufacturer": "X306F",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1784916858,
+    "filename": "SONIC_X_SHADOW_GENERATIONS-LENOVO-Lenovo_TB-X306F-PowerVR_Rogue_GE8320-1784916858.json"
+  },
+  {
     "game": "fs19",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784896739,
     "filename": "Pro_Evolution_Soccer_2017-OPPO-CPH2727-Adreno__TM__610-1784896739.json"
-  },
-  {
-    "game": "GUILTY_GEAR_-STRIVE-",
-    "manufacturer": "ASUSAI2501AP",
-    "device": "Adreno__TM__830",
-    "timestamp": 1784896207,
-    "filename": "GUILTY_GEAR_-STRIVE--asus-ASUSAI2501AP-Adreno__TM__830-1784896207.json"
   }
 ]
