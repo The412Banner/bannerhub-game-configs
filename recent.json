@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784925206,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1784925206.json"
+  },
+  {
     "game": "Outlast_2",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784915643,
     "filename": "fs19-motorola-moto_g06-Mali-G52_MC2-1784915643.json"
-  },
-  {
-    "game": "Digimon_Story_Time_Stranger",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1784914101,
-    "filename": "Digimon_Story_Time_Stranger-Xiaomi-25053PC47G-Adreno__TM__825-1784914101.json"
   }
 ]
