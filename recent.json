@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "CPH2727",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784906974,
+    "filename": "Pro_Evolution_Soccer_2017-OPPO-CPH2727-Adreno__TM__610-1784906974.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1784867320,
     "filename": "Need_for_Speed_9-Xiaomi-24069RA21C-Adreno__TM__735-1784867320.json"
-  },
-  {
-    "game": "Rappelz_Launcher",
-    "manufacturer": "24069RA21C",
-    "device": "Adreno__TM__735",
-    "timestamp": 1784867312,
-    "filename": "Rappelz_Launcher-Xiaomi-24069RA21C-Adreno__TM__735-1784867312.json"
   }
 ]
