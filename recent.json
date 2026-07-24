@@ -1,5 +1,12 @@
 [
   {
+    "game": "Outlast_2",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1784924991,
+    "filename": "Outlast_2-Xiaomi-23043RP34G-Adreno__TM__650-1784924991.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1784914101,
     "filename": "Digimon_Story_Time_Stranger-Xiaomi-25053PC47G-Adreno__TM__825-1784914101.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1784913062,
-    "filename": "God_of_War-samsung-SM-G990E-Mali-G78-1784913062.json"
   }
 ]
