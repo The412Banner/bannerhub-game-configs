@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4_Chainsaw_Demo",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1784862863,
+    "filename": "Resident_Evil_4_Chainsaw_Demo-Xiaomi-24069PC21G-Adreno__TM__735-1784862863.json"
+  },
+  {
     "game": "DRAG_N_BALL_XENOVERSE_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784843091,
     "filename": "Pro_Evolution_Soccer_2013-realme-realme_Note_60s-Mali-G57-1784843091.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23122PCD1G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1784842947,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23122PCD1G-Adreno__TM__710-1784842947.json"
   }
 ]
