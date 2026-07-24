@@ -1,5 +1,12 @@
 [
   {
+    "game": "TBH__Task_Bar_Hero",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1784917171,
+    "filename": "TBH__Task_Bar_Hero-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1784917171.json"
+  },
+  {
     "game": "SONIC_X_SHADOW_GENERATIONS",
     "manufacturer": "X306F",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784900735,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201116PG-Adreno__TM__619-1784900735.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "CPH2727",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784896739,
-    "filename": "Pro_Evolution_Soccer_2017-OPPO-CPH2727-Adreno__TM__610-1784896739.json"
   }
 ]
