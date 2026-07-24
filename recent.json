@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784924869,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6885-Mali-G57_MC2-1784924869.json"
+  },
+  {
     "game": "Mortal_Kombat_1",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1784913062,
     "filename": "God_of_War-samsung-SM-G990E-Mali-G78-1784913062.json"
-  },
-  {
-    "game": "Counter-Strike_2",
-    "manufacturer": "2109119DG",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1784912709,
-    "filename": "Counter-Strike_2-Xiaomi-2109119DG-Adreno__TM__642L-1784912709.json"
   }
 ]
