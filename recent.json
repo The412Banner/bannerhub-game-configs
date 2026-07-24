@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alan_Wake",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1784930216,
+    "filename": "Alan_Wake-Xiaomi-M2012K11AG-Adreno__TM__650-1784930216.json"
+  },
+  {
     "game": "My_Summer_Car",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784917938,
     "filename": "steamclient_loader-realme-RMX3938-Mali-G57-1784917938.json"
-  },
-  {
-    "game": "mx_grau_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784917799,
-    "filename": "mx_grau_-realme-RMX3938-Mali-G57-1784917799.json"
   }
 ]
