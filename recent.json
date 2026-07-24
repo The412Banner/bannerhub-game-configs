@@ -1,5 +1,12 @@
 [
   {
+    "game": "My_Summer_Car",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784929543,
+    "filename": "My_Summer_Car-samsung-SM-A156M-Mali-G57_MC2-1784929543.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784917799,
     "filename": "mx_grau_-realme-RMX3938-Mali-G57-1784917799.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1784917608,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2312DRA50G-Adreno__TM__710-1784917608.json"
   }
 ]
