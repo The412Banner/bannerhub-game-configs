@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lewd_Remedy_Demo",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1784859148,
+    "filename": "Lewd_Remedy_Demo-Xiaomi-23049PCD8G-Adreno__TM__725-1784859148.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1784842321,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A236M-Adreno__TM__619-1784842321.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "LX9N",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784839865,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-MAO-LX9N-Adreno__TM__610-1784839865.json"
   }
 ]
