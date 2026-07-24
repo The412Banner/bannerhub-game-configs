@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784932290,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6831-Mali-G52_MC2-1784932290.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A576B",
     "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1784922649,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-220333QPG-Mali-G52-1784922649.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784922565,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1784922565.json"
   }
 ]
