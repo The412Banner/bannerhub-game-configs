@@ -1,5 +1,12 @@
 [
   {
+    "game": "FarmingSimulator2019Game",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784882817,
+    "filename": "FarmingSimulator2019Game-motorola-moto_g06-Mali-G52_MC2-1784882817.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1784856962,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1784856962.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "S906E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1784855310,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-samsung-SM-S906E-Adreno__TM__730-1784855310.json"
   }
 ]
