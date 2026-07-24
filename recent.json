@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784923803,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1784923803.json"
+  },
+  {
     "game": "Microsoft__Windows__Operating_System",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1784910646,
     "filename": "NARUTO__Ultimate_Ninja_STORM-samsung-SM-S906E-Adreno__TM__730-1784910646.json"
-  },
-  {
-    "game": "false_",
-    "manufacturer": "W00",
-    "device": "Adreno__TM__720",
-    "timestamp": 1784910376,
-    "filename": "false_-HONOR-HEY3-W00-Adreno__TM__720-1784910376.json"
   }
 ]
