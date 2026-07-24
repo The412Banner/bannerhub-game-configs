@@ -1,5 +1,12 @@
 [
   {
+    "game": "GUILTY_GEAR_-STRIVE-",
+    "manufacturer": "ASUSAI2501AP",
+    "device": "Adreno__TM__830",
+    "timestamp": 1784896207,
+    "filename": "GUILTY_GEAR_-STRIVE--asus-ASUSAI2501AP-Adreno__TM__830-1784896207.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1784860011,
     "filename": "BlackOps-motorola-moto_g75_5G-Adreno__TM__710-1784860011.json"
-  },
-  {
-    "game": "Lewd_Remedy_Demo",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1784859148,
-    "filename": "Lewd_Remedy_Demo-Xiaomi-23049PCD8G-Adreno__TM__725-1784859148.json"
   }
 ]
