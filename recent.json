@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_IV_1_7_0_7______________________________________________",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784889261,
+    "filename": "GTA_IV_1_7_0_7______________________________________________-Xiaomi-25028RN03A-Mali-G57-1784889261.json"
+  },
+  {
     "game": "FarmingSimulator2019Game",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1784856981,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1784856981.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1784856962,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1784856962.json"
   }
 ]
