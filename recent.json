@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784892448,
+    "filename": "Resident_Evil_5-INFINIX-Infinix_X669D-Mali-G57-1784892448.json"
+  },
+  {
     "game": "GTA_IV_1_7_0_7______________________________________________",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1784859148,
     "filename": "Lewd_Remedy_Demo-Xiaomi-23049PCD8G-Adreno__TM__725-1784859148.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1784856981,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1784856981.json"
   }
 ]
