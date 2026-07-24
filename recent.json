@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784906189,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1784906189.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2______________________________________",
     "manufacturer": "2109119DG",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1784867312,
     "filename": "Rappelz_Launcher-Xiaomi-24069RA21C-Adreno__TM__735-1784867312.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "G781B",
-    "device": "Adreno__TM__650",
-    "timestamp": 1784865695,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G781B-Adreno__TM__650-1784865695.json"
   }
 ]
