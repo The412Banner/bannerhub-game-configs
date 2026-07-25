@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S942B",
+    "device": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
+    "timestamp": 1785005144,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S942B-ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_-1785005144.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1784991167,
     "filename": "Need_for_Speed__Rivals-Xiaomi-2511FPC34G-Mali-G720_MC8-1784991167.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1784990969,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g84_5G-Adreno__TM__619-1784990969.json"
   }
 ]
