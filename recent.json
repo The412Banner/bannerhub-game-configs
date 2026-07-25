@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Rivals",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1784991167,
+    "filename": "Need_for_Speed__Rivals-Xiaomi-2511FPC34G-Mali-G720_MC8-1784991167.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1784970225,
     "filename": "ch5_pro-Xiaomi-2207117BPG-Mali-G76-1784970225.json"
-  },
-  {
-    "game": "Wobbly_Life",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__650",
-    "timestamp": 1784969664,
-    "filename": "Wobbly_Life-HUAWEI-DBY-W09-Adreno__TM__650-1784969664.json"
   }
 ]
