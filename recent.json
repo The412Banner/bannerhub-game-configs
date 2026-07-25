@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1784957047,
+    "filename": "BootstrapPackagedGame-samsung-SM-A035M-Mali-G57-1784957047.json"
+  },
+  {
     "game": "Colin_Mcrae__Dirt_2",
     "manufacturer": "Pocket_FIT_Elite",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1784933349,
     "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1784933349.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1784933326,
-    "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1784933326.json"
   }
 ]
