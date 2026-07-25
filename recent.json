@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1784992313,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-samsung-SM-M346B-Mali-G68-1784992313.json"
+  },
+  {
     "game": "SPEED2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1784970243,
     "filename": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719-Xiaomi-2207117BPG-Mali-G76-1784970243.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1784970235,
-    "filename": "ch5_pro-Xiaomi-2207117BPG-Mali-G76-1784970235.json"
   }
 ]
