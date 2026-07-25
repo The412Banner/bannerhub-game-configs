@@ -1,5 +1,12 @@
 [
   {
+    "game": "SPEED2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1784991640,
+    "filename": "SPEED2-Xiaomi-2311DRK48G-Mali-G615_MC6-1784991640.json"
+  },
+  {
     "game": "Need_for_Speed__Rivals",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1784970235,
     "filename": "ch5_pro-Xiaomi-2207117BPG-Mali-G76-1784970235.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1784970225,
-    "filename": "ch5_pro-Xiaomi-2207117BPG-Mali-G76-1784970225.json"
   }
 ]
