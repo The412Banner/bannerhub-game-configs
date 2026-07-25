@@ -1,5 +1,12 @@
 [
   {
+    "game": "State_of_Decay_2__Juggernaut_Edition",
+    "manufacturer": "PJZ110",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785019250,
+    "filename": "State_of_Decay_2__Juggernaut_Edition-OnePlus-PJZ110-Adreno__TM__830-1785019250.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2201116PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1785000271,
     "filename": "DARK_SOULS___REMASTERED-nubia-NX809J-Adreno__TM__840-1785000271.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1785000264,
-    "filename": "DARK_SOULS___REMASTERED-nubia-NX809J-Adreno__TM__840-1785000264.json"
   }
 ]
