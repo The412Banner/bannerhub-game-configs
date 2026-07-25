@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1784990132,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2579-Mali-G52_MC2-1784990132.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "8",
     "device": "256",
     "timestamp": 1784986704,
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1784969382,
     "filename": "BootstrapPackagedGame-Xiaomi-2207117BPG-Mali-G76-1784969382.json"
-  },
-  {
-    "game": "MiSide",
-    "manufacturer": "A528B",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1784969008,
-    "filename": "MiSide-samsung-SM-A528B-Adreno__TM__642L-1784969008.json"
   }
 ]
