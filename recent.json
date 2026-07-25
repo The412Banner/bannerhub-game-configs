@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "NX729J",
+    "device": "Adreno__TM__740",
+    "timestamp": 1785000041,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-nubia-NX729J-Adreno__TM__740-1785000041.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1784970921,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-21051182G-Adreno__TM__640-1784970921.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1784970253,
-    "filename": "ch5_pro-Xiaomi-2207117BPG-Mali-G76-1784970253.json"
   }
 ]
