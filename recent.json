@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785023192,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2510DRA23E-Mali-G57_MC2-1785023192.json"
+  },
+  {
     "game": "Hollow_Knight",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1785001680,
     "filename": "Pro_Evolution_Soccer_2013-HONOR-ABR-NX1-PowerVR_B-Series_BXM-8-256-1785001680.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g71_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1785001286,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g71_5G-Adreno__TM__619-1785001286.json"
   }
 ]
