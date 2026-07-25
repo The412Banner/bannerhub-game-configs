@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "22021211RG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1784942880,
+    "filename": "Red_Dead_Redemption-Xiaomi-22021211RG-Adreno__TM__650-1784942880.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "CPH2847",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784929543,
     "filename": "My_Summer_Car-samsung-SM-A156M-Mali-G57_MC2-1784929543.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784929280,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6885-Mali-G57_MC2-1784929280.json"
   }
 ]
