@@ -3,6 +3,13 @@
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G76",
+    "timestamp": 1784969392,
+    "filename": "BootstrapPackagedGame-Xiaomi-2207117BPG-Mali-G76-1784969392.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G76",
     "timestamp": 1784969382,
     "filename": "BootstrapPackagedGame-Xiaomi-2207117BPG-Mali-G76-1784969382.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784934790,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1784934790.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784934240,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2303CRA44A-Mali-G57_MC2-1784934240.json"
   }
 ]
