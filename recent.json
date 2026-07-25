@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "2201117TY",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784945002,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TY-Adreno__TM__610-1784945002.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1784931290,
     "filename": "Backrooms__Escape_Together-Xiaomi-23113RKC6G-Adreno__TM__740-1784931290.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1784930960,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2303CRA44A-Mali-G57_MC2-1784930960.json"
   }
 ]
