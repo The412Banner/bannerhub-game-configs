@@ -1,5 +1,12 @@
 [
   {
+    "game": "CVPES_2016",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785012549,
+    "filename": "CVPES_2016-nubia-NX799J-Adreno__TM__830-1785012549.json"
+  },
+  {
     "game": "eFootball_",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1784995090,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1784995090.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1784992313,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-samsung-SM-M346B-Mali-G68-1784992313.json"
   }
 ]
