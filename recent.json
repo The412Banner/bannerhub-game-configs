@@ -3,6 +3,13 @@
     "game": "Hollow_Knight",
     "manufacturer": "Mali",
     "device": "G615_MC6",
+    "timestamp": 1785021835,
+    "filename": "Hollow_Knight-INFINIX-Infinix_X6873-Mali-G615_MC6-1785021835.json"
+  },
+  {
+    "game": "Hollow_Knight",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
     "timestamp": 1785021650,
     "filename": "Hollow_Knight-INFINIX-Infinix_X6873-Mali-G615_MC6-1785021650.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1785001286,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g71_5G-Adreno__TM__619-1785001286.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1785000762,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1785000762.json"
   }
 ]
