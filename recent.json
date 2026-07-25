@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1785000264,
+    "filename": "DARK_SOULS___REMASTERED-nubia-NX809J-Adreno__TM__840-1785000264.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "NX729J",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784972102,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1784972102.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "21051182G",
-    "device": "Adreno__TM__640",
-    "timestamp": 1784970921,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-21051182G-Adreno__TM__640-1784970921.json"
   }
 ]
