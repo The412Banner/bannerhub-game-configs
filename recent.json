@@ -1,5 +1,12 @@
 [
   {
+    "game": "pes_13_supremo",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1784947942,
+    "filename": "pes_13_supremo-samsung-SM-A155M-Mali-G57_MC2-1784947942.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "2201116PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1784932290,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6831-Mali-G52_MC2-1784932290.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A576B",
-    "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
-    "timestamp": 1784932157,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A576B-ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_-1784932157.json"
   }
 ]
