@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1784970253,
+    "filename": "ch5_pro-Xiaomi-2207117BPG-Mali-G76-1784970253.json"
+  },
+  {
     "game": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1784941804,
     "filename": "Euro_Truck_Simulator_2-OPPO-CPH2847-Adreno__TM__610-1784941804.json"
-  },
-  {
-    "game": "Far_Cry__2",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1784941592,
-    "filename": "Far_Cry__2-AYN-Odin2_Portal-Adreno__TM__740-1784941592.json"
   }
 ]
