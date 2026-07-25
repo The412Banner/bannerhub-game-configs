@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2410CRP4CG",
+    "device": "Adreno__TM__732",
+    "timestamp": 1784976368,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2410CRP4CG-Adreno__TM__732-1784976368.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "8",
     "device": "256",
     "timestamp": 1784975746,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1784946499,
     "filename": "BootstrapPackagedGame-HONOR-ALI-NX1-Adreno__TM__710-1784946499.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2201117TY",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784945002,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TY-Adreno__TM__610-1784945002.json"
   }
 ]
