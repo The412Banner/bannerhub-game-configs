@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "2201117TY",
+    "device": "Adreno__TM__610",
+    "timestamp": 1784939419,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TY-Adreno__TM__610-1784939419.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
     "timestamp": 1784934790,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784925206,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1784925206.json"
-  },
-  {
-    "game": "Outlast_2",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1784924991,
-    "filename": "Outlast_2-Xiaomi-23043RP34G-Adreno__TM__650-1784924991.json"
   }
 ]
