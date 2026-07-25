@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "A528B",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1784969008,
+    "filename": "MiSide-samsung-SM-A528B-Adreno__TM__642L-1784969008.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784934236,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2303CRA44A-Mali-G57_MC2-1784934236.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1784933349,
-    "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1784933349.json"
   }
 ]
