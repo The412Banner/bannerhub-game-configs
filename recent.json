@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1784985778,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-24069PC21G-Adreno__TM__735-1784985778.json"
+  },
+  {
     "game": "NARUTO__Ultimate_Ninja_STORM",
     "manufacturer": "M2007J20CG",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1784957047,
     "filename": "BootstrapPackagedGame-samsung-SM-A035M-Mali-G57-1784957047.json"
-  },
-  {
-    "game": "Colin_Mcrae__Dirt_2",
-    "manufacturer": "Pocket_FIT_Elite",
-    "device": "Adreno__TM__830",
-    "timestamp": 1784956662,
-    "filename": "Colin_Mcrae__Dirt_2-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1784956662.json"
   }
 ]
