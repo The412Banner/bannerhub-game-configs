@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1785021650,
+    "filename": "Hollow_Knight-INFINIX-Infinix_X6873-Mali-G615_MC6-1785021650.json"
+  },
+  {
     "game": "Need_For_Speed_Most_Wanted_Black_Edition_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1785000762,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1785000762.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013_DEMO_______________________",
-    "manufacturer": "Redmi_Note_8",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785000410,
-    "filename": "Pro_Evolution_Soccer_2013_DEMO_______________________-Xiaomi-Redmi_Note_8-Adreno__TM__610-1785000410.json"
   }
 ]
