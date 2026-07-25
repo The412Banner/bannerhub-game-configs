@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1785004145,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1785004145.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S721B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1784990252,
     "filename": "Outlast-Xiaomi-M2003J15SC-Mali-G52-1784990252.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1784990132,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2579-Mali-G52_MC2-1784990132.json"
   }
 ]
