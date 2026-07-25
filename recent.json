@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1785007305,
+    "filename": "eFootball_-Xiaomi-25053PC47G-Adreno__TM__825-1785007305.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S942B",
     "device": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1784992313,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-samsung-SM-M346B-Mali-G68-1784992313.json"
-  },
-  {
-    "game": "SPEED2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1784991640,
-    "filename": "SPEED2-Xiaomi-2311DRK48G-Mali-G615_MC6-1784991640.json"
   }
 ]
