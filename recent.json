@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1784986704,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1784986704.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1784969008,
     "filename": "MiSide-samsung-SM-A528B-Adreno__TM__642L-1784969008.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1784957047,
-    "filename": "BootstrapPackagedGame-samsung-SM-A035M-Mali-G57-1784957047.json"
   }
 ]
