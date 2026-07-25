@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g71_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1785001286,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g71_5G-Adreno__TM__619-1785001286.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
     "timestamp": 1785000762,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1784976368,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2410CRP4CG-Adreno__TM__732-1784976368.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1784975746,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1784975746.json"
   }
 ]
