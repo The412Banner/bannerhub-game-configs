@@ -1,5 +1,12 @@
 [
   {
+    "game": "Foretales",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1785002282,
+    "filename": "Foretales-samsung-SM-G973F-Mali-G76-1785002282.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1784977602,
     "filename": "Need_for_Speed_Most_Wanted-samsung-SM-S911B-Adreno__TM__740-1784977602.json"
-  },
-  {
-    "game": "Yellow_Taxi_Goes_Vroom",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1784977077,
-    "filename": "Yellow_Taxi_Goes_Vroom-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1784977077.json"
   }
 ]
