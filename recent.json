@@ -1,5 +1,12 @@
 [
   {
+    "game": "Minecraft_Client",
+    "manufacturer": "motorola_edge_20_pro",
+    "device": "Adreno__TM__650",
+    "timestamp": 1784944317,
+    "filename": "Minecraft_Client-motorola-motorola_edge_20_pro-Adreno__TM__650-1784944317.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1784930895,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1784930895.json"
-  },
-  {
-    "game": "Alan_Wake",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1784930216,
-    "filename": "Alan_Wake-Xiaomi-M2012K11AG-Adreno__TM__650-1784930216.json"
   }
 ]
