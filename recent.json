@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "21051182G",
+    "device": "Adreno__TM__640",
+    "timestamp": 1784970921,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-21051182G-Adreno__TM__640-1784970921.json"
+  },
+  {
     "game": "ch5_pro",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1784942880,
     "filename": "Red_Dead_Redemption-Xiaomi-22021211RG-Adreno__TM__650-1784942880.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "CPH2847",
-    "device": "Adreno__TM__610",
-    "timestamp": 1784941804,
-    "filename": "Euro_Truck_Simulator_2-OPPO-CPH2847-Adreno__TM__610-1784941804.json"
   }
 ]
