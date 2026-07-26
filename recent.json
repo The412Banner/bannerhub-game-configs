@@ -1,5 +1,12 @@
 [
   {
+    "game": "Autopatch",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785024246,
+    "filename": "Autopatch-TECNO-TECNO_LI9-Mali-G57_MC2-1785024246.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1785002282,
     "filename": "Foretales-samsung-SM-G973F-Mali-G76-1785002282.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1785001680,
-    "filename": "Pro_Evolution_Soccer_2013-HONOR-ABR-NX1-PowerVR_B-Series_BXM-8-256-1785001680.json"
   }
 ]
