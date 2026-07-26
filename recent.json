@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wolf2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785024386,
+    "filename": "Wolf2-TECNO-TECNO_LI9-Mali-G57_MC2-1785024386.json"
+  },
+  {
     "game": "Autopatch",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1785002343,
     "filename": "PES_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785002343.json"
-  },
-  {
-    "game": "Foretales",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1785002282,
-    "filename": "Foretales-samsung-SM-G973F-Mali-G76-1785002282.json"
   }
 ]
