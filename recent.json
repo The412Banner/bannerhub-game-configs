@@ -1,5 +1,12 @@
 [
   {
+    "game": "game",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785040726,
+    "filename": "game-samsung-SM-A165F-Mali-G57_MC2-1785040726.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2203129G",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1785026207,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1785026207.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1785025264,
-    "filename": "Hollow_Knight__Silksong-samsung-SM-G990E-Mali-G78-1785025264.json"
   }
 ]
