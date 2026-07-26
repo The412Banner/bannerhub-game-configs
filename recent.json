@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1785074613,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1785074613.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
     "timestamp": 1785071548,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1785040623,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2203129G-Adreno__TM__642L-1785040623.json"
-  },
-  {
-    "game": "fifa",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785040002,
-    "filename": "fifa-INFINIX-Infinix_X6837-Mali-G57_MC2-1785040002.json"
   }
 ]
