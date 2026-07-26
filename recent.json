@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw3sp",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785024406,
+    "filename": "iw3sp-TECNO-TECNO_LI9-Mali-G57_MC2-1785024406.json"
+  },
+  {
     "game": "KARAKARA",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1785003423,
     "filename": "Assassin_s_Creed__Origins-Xiaomi-23013PC75G-Adreno__TM__730-1785003423.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1785003261,
-    "filename": "DARK_SOULS___REMASTERED-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785003261.json"
   }
 ]
