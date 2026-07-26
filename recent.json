@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A042M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1785097202,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1785097202.json"
+  },
+  {
     "game": "METAL_SLUG_DEFENSE",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1785092851,
     "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-AYN-AYN_Thor-Adreno__TM__740-1785092851.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S926B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1785080877,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1785080877.json"
   }
 ]
