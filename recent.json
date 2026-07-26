@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785038071,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1785038071.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785024402,
     "filename": "KARAKARA-TECNO-TECNO_LI9-Mali-G57_MC2-1785024402.json"
-  },
-  {
-    "game": "ResDogs",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785024397,
-    "filename": "ResDogs-TECNO-TECNO_LI9-Mali-G57_MC2-1785024397.json"
   }
 ]
