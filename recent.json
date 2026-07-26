@@ -1,5 +1,12 @@
 [
   {
+    "game": "Path_of_Exile",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785061396,
+    "filename": "Path_of_Exile-Xiaomi-2510DPC44G-Adreno__TM__830-1785061396.json"
+  },
+  {
     "game": "Dead_Space__2008_",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1785031801,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1785031801.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1785031845,
-    "filename": "_____2019-Xiaomi-2511FPC34G-Mali-G720_MC8-1785031845.json"
   }
 ]
