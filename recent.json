@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1785087571,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1785087571.json"
+  },
+  {
     "game": "MOUSE",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1785062231,
     "filename": "Sleeping_Dogs_Pack__________________________________________-OPPO-CPH2625-Mali-G615_MC2-1785062231.json"
-  },
-  {
-    "game": "State_of_Decay_2__Juggernaut_Edition",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1785061942,
-    "filename": "State_of_Decay_2__Juggernaut_Edition-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1785061942.json"
   }
 ]
