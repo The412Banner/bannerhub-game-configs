@@ -1,5 +1,12 @@
 [
   {
+    "game": "MOUSE",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1785083997,
+    "filename": "MOUSE-INFINIX-Infinix_X6857-Mali-G615_MC2-1785083997.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Enhanced",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1785061942,
     "filename": "State_of_Decay_2__Juggernaut_Edition-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1785061942.json"
-  },
-  {
-    "game": "Path_of_Exile",
-    "manufacturer": "2510DPC44G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1785061396,
-    "filename": "Path_of_Exile-Xiaomi-2510DPC44G-Adreno__TM__830-1785061396.json"
   }
 ]
