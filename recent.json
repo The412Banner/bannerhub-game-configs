@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_SLUG_DEFENSE",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785096227,
+    "filename": "METAL_SLUG_DEFENSE-Xiaomi-24116RACCG-Mali-G57_MC2-1785096227.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1785080877,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1785080877.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S926B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1785080875,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1785080875.json"
   }
 ]
