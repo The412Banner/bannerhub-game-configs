@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Legend_of_Heroes__Trails_in_the_Sky",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1785092851,
+    "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-AYN-AYN_Thor-Adreno__TM__740-1785092851.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S926B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1785057817,
     "filename": "The_Witcher_3__Wild_Hunt-LGE-LM-V600-Adreno__TM__650-1785057817.json"
-  },
-  {
-    "game": "FIFA_17",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785052731,
-    "filename": "FIFA_17-samsung-SM-A075M-Mali-G57_MC2-1785052731.json"
   }
 ]
