@@ -1,5 +1,12 @@
 [
   {
+    "game": "SAMP",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785044591,
+    "filename": "SAMP-motorola-moto_g35_5G-Mali-G57-1785044591.json"
+  },
+  {
     "game": "game",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1785027370,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K6G-Adreno__TM__618-1785027370.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1785026207,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1785026207.json"
   }
 ]
