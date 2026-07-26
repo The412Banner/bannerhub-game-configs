@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "I2220",
+    "device": "Adreno__TM__750",
+    "timestamp": 1785030736,
+    "filename": "DRAGON_BALL_FighterZ-vivo-I2220-Adreno__TM__750-1785030736.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1785019250,
     "filename": "State_of_Decay_2__Juggernaut_Edition-OnePlus-PJZ110-Adreno__TM__830-1785019250.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2201116PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1785014396,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201116PG-Adreno__TM__619-1785014396.json"
   }
 ]
