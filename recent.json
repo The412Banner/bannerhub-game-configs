@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785099528,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1785099528.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A042M",
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1785097202,
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1785082477,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M536B-Mali-G68_MC4-1785082477.json"
-  },
-  {
-    "game": "The_Legend_of_Heroes__Trails_in_the_Sky",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1785092851,
-    "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-AYN-AYN_Thor-Adreno__TM__740-1785092851.json"
   }
 ]
