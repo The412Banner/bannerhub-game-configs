@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1785078512,
+    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6873-Mali-G615_MC6-1785078512.json"
+  },
+  {
     "game": "INSIDE_Demo",
     "manufacturer": "S938U1",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785046325,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1785046325.json"
-  },
-  {
-    "game": "SAMP",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785044591,
-    "filename": "SAMP-motorola-moto_g35_5G-Mali-G57-1785044591.json"
   }
 ]
