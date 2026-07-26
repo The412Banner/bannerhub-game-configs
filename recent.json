@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785024411,
+    "filename": "Devil_May_Cry_4_Special_Edition-TECNO-TECNO_LI9-Mali-G57_MC2-1785024411.json"
+  },
+  {
     "game": "iw3sp",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1785003611,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1785003611.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Origins",
-    "manufacturer": "23013PC75G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1785003423,
-    "filename": "Assassin_s_Creed__Origins-Xiaomi-23013PC75G-Adreno__TM__730-1785003423.json"
   }
 ]
