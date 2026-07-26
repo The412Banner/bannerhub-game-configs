@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1785025264,
+    "filename": "Hollow_Knight__Silksong-samsung-SM-G990E-Mali-G78-1785025264.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
     "timestamp": 1785005144,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S942B-ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_-1785005144.json"
-  },
-  {
-    "game": "Resident_Evil_4__2005_",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1785004972,
-    "filename": "Resident_Evil_4__2005_-Xiaomi-25053PC47G-Adreno__TM__825-1785004972.json"
   }
 ]
