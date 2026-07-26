@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA08",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1785092674,
+    "filename": "FIFA08-Xiaomi-25053PC47G-Adreno__TM__825-1785092674.json"
+  },
+  {
     "game": "Tennis_Elbow_4",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1785075027,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M1908C3JGG-Mali-G52-1785075027.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1785074613,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1785074613.json"
   }
 ]
