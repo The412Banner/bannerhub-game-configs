@@ -1,5 +1,12 @@
 [
   {
+    "game": "PoppyPlaytime_Outra_Linha",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1785078906,
+    "filename": "PoppyPlaytime_Outra_Linha-motorola-moto_g84_5G-Adreno__TM__619-1785078906.json"
+  },
+  {
     "game": "Call_of_Duty_R___Black_Ops_II",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785047337,
     "filename": "007_First_Light-INFINIX-Infinix_X6833B-Mali-G57_MC2-1785047337.json"
-  },
-  {
-    "game": "DRAG_N_BALL_XENOVERSE_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785046385,
-    "filename": "DRAG_N_BALL_XENOVERSE_-Xiaomi-2303CRA44A-Mali-G57_MC2-1785046385.json"
   }
 ]
