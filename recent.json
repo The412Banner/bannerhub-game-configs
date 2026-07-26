@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1785026207,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1785026207.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
     "timestamp": 1785006886,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S942B-ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_-1785006886.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S942B",
-    "device": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
-    "timestamp": 1785005144,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S942B-ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_-1785005144.json"
   }
 ]
