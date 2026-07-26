@@ -1,5 +1,12 @@
 [
   {
+    "game": "KARAKARA",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785024402,
+    "filename": "KARAKARA-TECNO-TECNO_LI9-Mali-G57_MC2-1785024402.json"
+  },
+  {
     "game": "ResDogs",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1785003261,
     "filename": "DARK_SOULS___REMASTERED-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785003261.json"
-  },
-  {
-    "game": "Microsoft__Windows__Operating_System",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1785002485,
-    "filename": "Microsoft__Windows__Operating_System-samsung-SM-S901E-Adreno__TM__730-1785002485.json"
   }
 ]
