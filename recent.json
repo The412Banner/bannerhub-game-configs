@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAG_N_BALL_XENOVERSE_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785046385,
+    "filename": "DRAG_N_BALL_XENOVERSE_-Xiaomi-2303CRA44A-Mali-G57_MC2-1785046385.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1785029714,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-21121119SG-Mali-G52-1785029714.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "M2101K6G",
-    "device": "Adreno__TM__618",
-    "timestamp": 1785027373,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K6G-Adreno__TM__618-1785027373.json"
   }
 ]
