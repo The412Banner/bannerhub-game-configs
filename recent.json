@@ -1,5 +1,12 @@
 [
   {
+    "game": "Newera_Heroes__Chronicle",
+    "manufacturer": "H0",
+    "device": "Adreno__TM__650",
+    "timestamp": 1785079462,
+    "filename": "Newera_Heroes__Chronicle-blackshark-SHARK_PRS-H0-Adreno__TM__650-1785079462.json"
+  },
+  {
     "game": "PoppyPlaytime_Outra_Linha",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785047960,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1785047960.json"
-  },
-  {
-    "game": "007_First_Light",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785047337,
-    "filename": "007_First_Light-INFINIX-Infinix_X6833B-Mali-G57_MC2-1785047337.json"
   }
 ]
