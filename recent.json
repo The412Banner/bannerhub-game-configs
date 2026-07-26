@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Enhanced",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785083200,
+    "filename": "Grand_Theft_Auto_V_Enhanced-realme-RMX3760-Mali-G57-1785083200.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1785061396,
     "filename": "Path_of_Exile-Xiaomi-2510DPC44G-Adreno__TM__830-1785061396.json"
-  },
-  {
-    "game": "Dead_Space__2008_",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1785055859,
-    "filename": "Dead_Space__2008_-Xiaomi-2311DRK48G-Mali-G615_MC6-1785055859.json"
   }
 ]
