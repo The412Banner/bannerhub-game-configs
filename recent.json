@@ -1,5 +1,12 @@
 [
   {
+    "game": "INSIDE_Demo",
+    "manufacturer": "S938U1",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785078382,
+    "filename": "INSIDE_Demo-samsung-SM-S938U1-Adreno__TM__830-1785078382.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785044591,
     "filename": "SAMP-motorola-moto_g35_5G-Mali-G57-1785044591.json"
-  },
-  {
-    "game": "game",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785040726,
-    "filename": "game-samsung-SM-A165F-Mali-G57_MC2-1785040726.json"
   }
 ]
