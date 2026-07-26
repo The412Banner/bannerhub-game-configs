@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785036073,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6837-Mali-G57_MC2-1785036073.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785024397,
     "filename": "ResDogs-TECNO-TECNO_LI9-Mali-G57_MC2-1785024397.json"
-  },
-  {
-    "game": "Wolf2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785024386,
-    "filename": "Wolf2-TECNO-TECNO_LI9-Mali-G57_MC2-1785024386.json"
   }
 ]
