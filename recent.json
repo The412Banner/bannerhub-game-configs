@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stellar_Blade_",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785039936,
+    "filename": "Stellar_Blade_-nubia-NX789S_V1B-Adreno__TM__830-1785039936.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1785025101,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2602BRT18C-Mali-G925-Immortalis_MC12-1785025101.json"
-  },
-  {
-    "game": "Devil_May_Cry_4_Special_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785024411,
-    "filename": "Devil_May_Cry_4_Special_Edition-TECNO-TECNO_LI9-Mali-G57_MC2-1785024411.json"
   }
 ]
