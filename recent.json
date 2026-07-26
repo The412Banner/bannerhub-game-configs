@@ -1,5 +1,12 @@
 [
   {
+    "game": "mxbikes",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785106510,
+    "filename": "mxbikes-Xiaomi-23129RA5FL-Adreno__TM__610-1785106510.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1785083997,
     "filename": "MOUSE-INFINIX-Infinix_X6857-Mali-G615_MC2-1785083997.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Enhanced",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785083200,
-    "filename": "Grand_Theft_Auto_V_Enhanced-realme-RMX3760-Mali-G57-1785083200.json"
   }
 ]
