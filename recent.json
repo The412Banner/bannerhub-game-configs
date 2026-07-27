@@ -1,5 +1,12 @@
 [
   {
+    "game": "_____",
+    "manufacturer": "V2154A",
+    "device": "Adreno__TM__660",
+    "timestamp": 1785163533,
+    "filename": "_____-vivo-V2154A-Adreno__TM__660-1785163533.json"
+  },
+  {
     "game": "Atla",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785117231,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1785117231.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S711B",
-    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
-    "timestamp": 1785116944,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1785116944.json"
   }
 ]
