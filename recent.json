@@ -1,5 +1,12 @@
 [
   {
+    "game": "Atla",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1785162807,
+    "filename": "Atla-INFINIX-Infinix_X6873-Mali-G615_MC6-1785162807.json"
+  },
+  {
     "game": "Gears_of_War",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
     "timestamp": 1785116944,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1785116944.json"
-  },
-  {
-    "game": "The_Sims__4",
-    "manufacturer": "A235M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785116468,
-    "filename": "The_Sims__4-samsung-SM-A235M-Adreno__TM__610-1785116468.json"
   }
 ]
