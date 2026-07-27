@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785166654,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-2409BRN2CL-Mali-G52_MC2-1785166654.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1785123779,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785123779.json"
-  },
-  {
-    "game": "A_Plague_Tale__Requiem",
-    "manufacturer": "23013PC75G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1785117271,
-    "filename": "A_Plague_Tale__Requiem-Xiaomi-23013PC75G-Adreno__TM__730-1785117271.json"
   }
 ]
