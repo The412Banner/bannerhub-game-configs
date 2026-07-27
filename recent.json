@@ -1,5 +1,12 @@
 [
   {
+    "game": "Gears_of_War",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1785161653,
+    "filename": "Gears_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785161653.json"
+  },
+  {
     "game": "WARRIORS_ALL-STARS",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
     "timestamp": 1785116137,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1785116137.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785115029,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A325M-Mali-G52_MC2-1785115029.json"
   }
 ]
