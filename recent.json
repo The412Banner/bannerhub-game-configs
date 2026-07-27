@@ -1,5 +1,12 @@
 [
   {
+    "game": "Silent_Hill_4__The_Room",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785130062,
+    "filename": "Silent_Hill_4__The_Room-samsung-SM-S938B-Adreno__TM__830-1785130062.json"
+  },
+  {
     "game": "reanimals",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1785093895,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-samsung-SM-A266B-Mali-G68-1785093895.json"
-  },
-  {
-    "game": "eFootball_PES_2021_SEASON_UPDATE",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1785093399,
-    "filename": "eFootball_PES_2021_SEASON_UPDATE-samsung-SM-A266B-Mali-G68-1785093399.json"
   }
 ]
