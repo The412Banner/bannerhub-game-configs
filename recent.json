@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blur",
+    "manufacturer": "RMX3370",
+    "device": "Adreno__TM__650",
+    "timestamp": 1785137908,
+    "filename": "Blur-realme-RMX3370-Adreno__TM__650-1785137908.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1785097202,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1785097202.json"
-  },
-  {
-    "game": "METAL_SLUG_DEFENSE",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785096227,
-    "filename": "METAL_SLUG_DEFENSE-Xiaomi-24116RACCG-Mali-G57_MC2-1785096227.json"
   }
 ]
