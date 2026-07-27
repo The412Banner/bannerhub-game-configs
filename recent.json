@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1785195817,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1785195817.json"
+  },
+  {
     "game": "pes_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1785173349,
     "filename": "Resident_Evil_4-vivo-I2501-Adreno__TM__840-1785173349.json"
-  },
-  {
-    "game": "Avatar_legends",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785172060,
-    "filename": "Avatar_legends-Xiaomi-2212ARNC4L-Mali-G52_MC2-1785172060.json"
   }
 ]
