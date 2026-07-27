@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_STORM_3_FB",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1785112229,
+    "filename": "NARUTO_STORM_3_FB-Xiaomi-2311DRK48G-Mali-G615_MC6-1785112229.json"
+  },
+  {
     "game": "The_Evil_Within",
     "manufacturer": "24018RPACG",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785088401,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6531-Mali-G52_MC2-1785088401.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1785087571,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1785087571.json"
   }
 ]
