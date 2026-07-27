@@ -1,5 +1,12 @@
 [
   {
+    "game": "speed2",
+    "manufacturer": "G9650",
+    "device": "Adreno__TM__630",
+    "timestamp": 1785177252,
+    "filename": "speed2-samsung-SM-G9650-Adreno__TM__630-1785177252.json"
+  },
+  {
     "game": "Days_Gone",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785152554,
     "filename": "Tradu__o_PT-BR_Styx_Shards_of_Darkness-motorola-moto_g17-Mali-G52_MC2-1785152554.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785152069,
-    "filename": "_____2019-INFINIX_MOBILITY_LIMITED-Infinix_X697-Mali-G57_MC2-1785152069.json"
   }
 ]
