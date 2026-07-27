@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S711B",
+    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
+    "timestamp": 1785116944,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1785116944.json"
+  },
+  {
     "game": "The_Sims__4",
     "manufacturer": "A235M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1785092674,
     "filename": "FIFA08-Xiaomi-25053PC47G-Adreno__TM__825-1785092674.json"
-  },
-  {
-    "game": "Tennis_Elbow_4",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1785092653,
-    "filename": "Tennis_Elbow_4-AYANEO-Pocket_FIT-Adreno__TM__750-1785092653.json"
   }
 ]
