@@ -1,5 +1,12 @@
 [
   {
+    "game": "WARRIORS_ALL-STARS",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1785160564,
+    "filename": "WARRIORS_ALL-STARS-motorola-moto_g45_5G-Adreno__TM__619-1785160564.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH2725",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785115029,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A325M-Mali-G52_MC2-1785115029.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1785113662,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_40-Mali-G77_MC9-1785113662.json"
   }
 ]
