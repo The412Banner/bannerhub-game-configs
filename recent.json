@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tradu__o_PT-BR_Styx_Shards_of_Darkness",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785152554,
+    "filename": "Tradu__o_PT-BR_Styx_Shards_of_Darkness-motorola-moto_g17-Mali-G52_MC2-1785152554.json"
+  },
+  {
     "game": "_____2019",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1785113141,
     "filename": "Street_Fighter__6-samsung-SM-A045F-PowerVR_Rogue_GE8320-1785113141.json"
-  },
-  {
-    "game": "NARUTO_STORM_3_FB",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1785112229,
-    "filename": "NARUTO_STORM_3_FB-Xiaomi-2311DRK48G-Mali-G615_MC6-1785112229.json"
   }
 ]
