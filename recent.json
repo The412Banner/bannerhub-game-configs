@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Evil_Within",
+    "manufacturer": "24018RPACG",
+    "device": "Adreno__TM__740",
+    "timestamp": 1785112157,
+    "filename": "The_Evil_Within-Xiaomi-24018RPACG-Adreno__TM__740-1785112157.json"
+  },
+  {
     "game": "mxbikes",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1785087571,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1785087571.json"
-  },
-  {
-    "game": "MOUSE",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1785083997,
-    "filename": "MOUSE-INFINIX-Infinix_X6857-Mali-G615_MC2-1785083997.json"
   }
 ]
