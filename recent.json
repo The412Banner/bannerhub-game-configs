@@ -1,5 +1,12 @@
 [
   {
+    "game": "Days_Gone",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1785177171,
+    "filename": "Days_Gone-Xiaomi-2311DRK48G-Mali-G615_MC6-1785177171.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "24122RKC7G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785152069,
     "filename": "_____2019-INFINIX_MOBILITY_LIMITED-Infinix_X697-Mali-G57_MC2-1785152069.json"
-  },
-  {
-    "game": "gta",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785150650,
-    "filename": "gta-Xiaomi-2212ARNC4L-Mali-G52_MC2-1785150650.json"
   }
 ]
