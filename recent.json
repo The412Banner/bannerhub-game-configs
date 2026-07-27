@@ -1,5 +1,12 @@
 [
   {
+    "game": "_____2019",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785152069,
+    "filename": "_____2019-INFINIX_MOBILITY_LIMITED-Infinix_X697-Mali-G57_MC2-1785152069.json"
+  },
+  {
     "game": "gta",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1785112229,
     "filename": "NARUTO_STORM_3_FB-Xiaomi-2311DRK48G-Mali-G615_MC6-1785112229.json"
-  },
-  {
-    "game": "The_Evil_Within",
-    "manufacturer": "24018RPACG",
-    "device": "Adreno__TM__740",
-    "timestamp": 1785112157,
-    "filename": "The_Evil_Within-Xiaomi-24018RPACG-Adreno__TM__740-1785112157.json"
   }
 ]
