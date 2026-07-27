@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785177437,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1785177437.json"
+  },
+  {
     "game": "speed2",
     "manufacturer": "G9650",
     "device": "Adreno__TM__630",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785159291,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2725-Adreno__TM__610-1785159291.json"
-  },
-  {
-    "game": "Tradu__o_PT-BR_Styx_Shards_of_Darkness",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785152554,
-    "filename": "Tradu__o_PT-BR_Styx_Shards_of_Darkness-motorola-moto_g17-Mali-G52_MC2-1785152554.json"
   }
 ]
