@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785163707,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2310FPCA4G-Mali-G52_MC2-1785163707.json"
+  },
+  {
     "game": "_____",
     "manufacturer": "V2154A",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1785117271,
     "filename": "A_Plague_Tale__Requiem-Xiaomi-23013PC75G-Adreno__TM__730-1785117271.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785117231,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1785117231.json"
   }
 ]
