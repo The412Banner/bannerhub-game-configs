@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Redmi_Note_8",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785193277,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-Redmi_Note_8-Adreno__TM__610-1785193277.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G720_MC7",
     "timestamp": 1785192647,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__612",
     "timestamp": 1785169441,
     "filename": "Assassin_s_Creed__Rogue-samsung-SM-A705FN-Adreno__TM__612-1785169441.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785168613,
-    "filename": "Euro_Truck_Simulator_2-motorola-moto_e13-Mali-G57-1785168613.json"
   }
 ]
