@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "24122RKC7G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785176903,
+    "filename": "Sleeping_Dogs-Xiaomi-24122RKC7G-Adreno__TM__830-1785176903.json"
+  },
+  {
     "game": "speed2",
     "manufacturer": "G9650",
     "device": "Adreno__TM__630",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785150650,
     "filename": "gta-Xiaomi-2212ARNC4L-Mali-G52_MC2-1785150650.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785150275,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LGN-LX2-Adreno__TM__610-1785150275.json"
   }
 ]
