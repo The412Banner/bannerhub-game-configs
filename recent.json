@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785150650,
+    "filename": "gta-Xiaomi-2212ARNC4L-Mali-G52_MC2-1785150650.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1785112157,
     "filename": "The_Evil_Within-Xiaomi-24018RPACG-Adreno__TM__740-1785112157.json"
-  },
-  {
-    "game": "mxbikes",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785106510,
-    "filename": "mxbikes-Xiaomi-23129RA5FL-Adreno__TM__610-1785106510.json"
   }
 ]
