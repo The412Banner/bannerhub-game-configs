@@ -1,5 +1,12 @@
 [
   {
+    "game": "A_Plague_Tale__Requiem",
+    "manufacturer": "23013PC75G",
+    "device": "Adreno__TM__730",
+    "timestamp": 1785117271,
+    "filename": "A_Plague_Tale__Requiem-Xiaomi-23013PC75G-Adreno__TM__730-1785117271.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1785092973,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-samsung-SM-A266B-Mali-G68-1785092973.json"
-  },
-  {
-    "game": "Tennis_Elbow_4",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1785092925,
-    "filename": "Tennis_Elbow_4-AYANEO-Pocket_FIT-Adreno__TM__750-1785092925.json"
   }
 ]
