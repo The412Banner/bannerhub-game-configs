@@ -1,5 +1,12 @@
 [
   {
+    "game": "____",
+    "manufacturer": "V2154A",
+    "device": "Adreno__TM__660",
+    "timestamp": 1785247045,
+    "filename": "____-vivo-V2154A-Adreno__TM__660-1785247045.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785209128,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A225M-Mali-G52_MC2-1785209128.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785207477,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1785207477.json"
   }
 ]
