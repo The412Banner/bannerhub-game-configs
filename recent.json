@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "CPH2731",
+    "device": "Adreno__TM__825",
+    "timestamp": 1785217614,
+    "filename": "God_of_War-OPPO-CPH2731-Adreno__TM__825-1785217614.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__506",
     "timestamp": 1785157935,
     "filename": "WPS_Office-samsung-SM-A207M-Adreno__TM__506-1785157935.json"
-  },
-  {
-    "game": "WPS_Office",
-    "manufacturer": "A207M",
-    "device": "Adreno__TM__506",
-    "timestamp": 1785157847,
-    "filename": "WPS_Office-samsung-SM-A207M-Adreno__TM__506-1785157847.json"
   }
 ]
