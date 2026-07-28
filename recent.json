@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1785216979,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A166M-Mali-G68-1785216979.json"
+  },
+  {
     "game": "Need_for_Speed_Most_Wanted_",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1785197510,
     "filename": "Counter-Strike_2-samsung-SM-A366E-Adreno__TM__710-1785197510.json"
-  },
-  {
-    "game": "Step_Lightly",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1785197242,
-    "filename": "Step_Lightly-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785197242.json"
   }
 ]
