@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "2201117TG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785255924,
+    "filename": "BootstrapPackagedGame-Xiaomi-2201117TG-Adreno__TM__610-1785255924.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "moto_g85_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785216189,
     "filename": "Need_for_Speed_Most_Wanted_-Anbernic-RG_Slide-Mali-G57-1785216189.json"
-  },
-  {
-    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1785214644,
-    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-ayn-Odin3-Adreno__TM__830-1785214644.json"
   }
 ]
