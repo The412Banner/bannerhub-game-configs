@@ -1,5 +1,12 @@
 [
   {
+    "game": "Step_Lightly",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1785197073,
+    "filename": "Step_Lightly-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785197073.json"
+  },
+  {
     "game": "Resident_Evil_3_____________________________________________",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__630",
     "timestamp": 1785176747,
     "filename": "speed2-samsung-SM-G9650-Adreno__TM__630-1785176747.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1785174942,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785174942.json"
   }
 ]
