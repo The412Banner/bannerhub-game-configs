@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785214220,
+    "filename": "Euro_Truck_Simulator_2-motorola-moto_g23-Mali-G52_MC2-1785214220.json"
+  },
+  {
     "game": "need_for_speed_",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1785195817,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1785195817.json"
-  },
-  {
-    "game": "pes_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785195177,
-    "filename": "pes_2013-TECNO-TECNO_KL4-Mali-G57-1785195177.json"
   }
 ]
