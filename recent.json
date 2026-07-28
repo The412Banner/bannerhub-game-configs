@@ -1,5 +1,12 @@
 [
   {
+    "game": "WPS_Office",
+    "manufacturer": "A207M",
+    "device": "Adreno__TM__506",
+    "timestamp": 1785157847,
+    "filename": "WPS_Office-samsung-SM-A207M-Adreno__TM__506-1785157847.json"
+  },
+  {
     "game": "Counter-Strike_2",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__630",
     "timestamp": 1785177252,
     "filename": "speed2-samsung-SM-G9650-Adreno__TM__630-1785177252.json"
-  },
-  {
-    "game": "Days_Gone",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1785177171,
-    "filename": "Days_Gone-Xiaomi-2311DRK48G-Mali-G615_MC6-1785177171.json"
   }
 ]
