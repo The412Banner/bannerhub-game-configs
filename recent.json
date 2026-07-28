@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1785254693,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785254693.json"
+  },
+  {
     "game": "PES_6_The_Den_World_Cup_2026________________________________",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1785214617,
     "filename": "The_Elder_Scrolls_V__Skyrim-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785214617.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785214220,
-    "filename": "Euro_Truck_Simulator_2-motorola-moto_g23-Mali-G52_MC2-1785214220.json"
   }
 ]
