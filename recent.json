@@ -3,6 +3,13 @@
     "game": "Step_Lightly",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1785197242,
+    "filename": "Step_Lightly-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785197242.json"
+  },
+  {
+    "game": "Step_Lightly",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1785197073,
     "filename": "Step_Lightly-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785197073.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1785176903,
     "filename": "Sleeping_Dogs-Xiaomi-24122RKC7G-Adreno__TM__830-1785176903.json"
-  },
-  {
-    "game": "speed2",
-    "manufacturer": "G9650",
-    "device": "Adreno__TM__630",
-    "timestamp": 1785176747,
-    "filename": "speed2-samsung-SM-G9650-Adreno__TM__630-1785176747.json"
   }
 ]
