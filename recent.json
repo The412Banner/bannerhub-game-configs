@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_Launcher",
+    "manufacturer": "24115RA8EG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1785274325,
+    "filename": "FIFA_Launcher-Xiaomi-24115RA8EG-Adreno__TM__810-1785274325.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1785247401,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G715FN-Mali-G72-1785247401.json"
-  },
-  {
-    "game": "____",
-    "manufacturer": "V2154A",
-    "device": "Adreno__TM__660",
-    "timestamp": 1785247045,
-    "filename": "____-vivo-V2154A-Adreno__TM__660-1785247045.json"
   }
 ]
