@@ -1,5 +1,12 @@
 [
   {
+    "game": "IGI",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785255969,
+    "filename": "IGI-OPPO-CPH2591-Mali-G52_MC2-1785255969.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "2201117TG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1785216979,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A166M-Mali-G68-1785216979.json"
-  },
-  {
-    "game": "Need_for_Speed_Most_Wanted_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785216189,
-    "filename": "Need_for_Speed_Most_Wanted_-Anbernic-RG_Slide-Mali-G57-1785216189.json"
   }
 ]
