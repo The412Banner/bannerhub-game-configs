@@ -3,6 +3,13 @@
     "game": "WPS_Office",
     "manufacturer": "A207M",
     "device": "Adreno__TM__506",
+    "timestamp": 1785157935,
+    "filename": "WPS_Office-samsung-SM-A207M-Adreno__TM__506-1785157935.json"
+  },
+  {
+    "game": "WPS_Office",
+    "manufacturer": "A207M",
+    "device": "Adreno__TM__506",
     "timestamp": 1785157847,
     "filename": "WPS_Office-samsung-SM-A207M-Adreno__TM__506-1785157847.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785177437,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1785177437.json"
-  },
-  {
-    "game": "speed2",
-    "manufacturer": "G9650",
-    "device": "Adreno__TM__630",
-    "timestamp": 1785177252,
-    "filename": "speed2-samsung-SM-G9650-Adreno__TM__630-1785177252.json"
   }
 ]
