@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1785247401,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G715FN-Mali-G72-1785247401.json"
+  },
+  {
     "game": "____",
     "manufacturer": "V2154A",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785209531,
     "filename": "ARK__Survival_Evolved-samsung-SM-A065M-Mali-G52_MC2-1785209531.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785209128,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A225M-Mali-G52_MC2-1785209128.json"
   }
 ]
