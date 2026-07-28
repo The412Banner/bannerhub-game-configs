@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1785210485,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_40-Mali-G77_MC9-1785210485.json"
+  },
+  {
     "game": "My_Sexy_Neighbor___Prologue",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1785194150,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785194150.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Redmi_Note_8",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785193277,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-Redmi_Note_8-Adreno__TM__610-1785193277.json"
   }
 ]
