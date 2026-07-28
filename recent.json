@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1785198893,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-INFINIX-Infinix_X6873-Mali-G615_MC6-1785198893.json"
+  },
+  {
     "game": "WPS_Office",
     "manufacturer": "A207M",
     "device": "Adreno__TM__506",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1785178435,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1785178435.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785177437,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1785177437.json"
   }
 ]
