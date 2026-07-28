@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wuthering_Waves",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1785235877,
+    "filename": "Wuthering_Waves-Xiaomi-2511FPC34G-Mali-G720_MC8-1785235877.json"
+  },
+  {
     "game": "Assassin_s_Creed__Origins",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785201864,
     "filename": "Atla-samsung-SM-A155M-Mali-G57_MC2-1785201864.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1785201701,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785201701.json"
   }
 ]
