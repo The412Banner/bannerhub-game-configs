@@ -1,5 +1,12 @@
 [
   {
+    "game": "TODO_________",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1785269852,
+    "filename": "TODO_________-samsung-SM-G998B-Mali-G78-1785269852.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1785235877,
     "filename": "Wuthering_Waves-Xiaomi-2511FPC34G-Mali-G720_MC8-1785235877.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Origins",
-    "manufacturer": "2510DPC44G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1785233737,
-    "filename": "Assassin_s_Creed__Origins-Xiaomi-2510DPC44G-Adreno__TM__830-1785233737.json"
   }
 ]
