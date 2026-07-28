@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785250602,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1785250602.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G72",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785209621,
     "filename": "My_Sexy_Neighbor___Prologue-samsung-SM-A065M-Mali-G52_MC2-1785209621.json"
-  },
-  {
-    "game": "ARK__Survival_Evolved",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785209531,
-    "filename": "ARK__Survival_Evolved-samsung-SM-A065M-Mali-G52_MC2-1785209531.json"
   }
 ]
