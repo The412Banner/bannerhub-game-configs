@@ -1,5 +1,12 @@
 [
   {
+    "game": "Granny_2_Enhanced",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785244426,
+    "filename": "Granny_2_Enhanced-Casper-VIA_S50-Mali-G52_MC2-1785244426.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785207469,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1785207469.json"
-  },
-  {
-    "game": "The_Sims__4",
-    "manufacturer": "OP12",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1785204956,
-    "filename": "The_Sims__4-Welcome-OP12-PowerVR_Rogue_GE8320-1785204956.json"
   }
 ]
