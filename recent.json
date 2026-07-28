@@ -1,5 +1,12 @@
 [
   {
+    "game": "ARK__Survival_Evolved",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785209531,
+    "filename": "ARK__Survival_Evolved-samsung-SM-A065M-Mali-G52_MC2-1785209531.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1785192647,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785192647.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785190771,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24_power-Mali-G52_MC2-1785190771.json"
   }
 ]
