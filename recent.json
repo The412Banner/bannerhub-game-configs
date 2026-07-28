@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "LX2",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785238930,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LGN-LX2-Adreno__TM__610-1785238930.json"
+  },
+  {
     "game": "Wuthering_Waves",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1785204956,
     "filename": "The_Sims__4-Welcome-OP12-PowerVR_Rogue_GE8320-1785204956.json"
-  },
-  {
-    "game": "Atla",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785201864,
-    "filename": "Atla-samsung-SM-A155M-Mali-G57_MC2-1785201864.json"
   }
 ]
