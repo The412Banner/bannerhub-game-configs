@@ -3,6 +3,13 @@
     "game": "TODO_________",
     "manufacturer": "Mali",
     "device": "G78",
+    "timestamp": 1785269944,
+    "filename": "TODO_________-samsung-SM-G998B-Mali-G78-1785269944.json"
+  },
+  {
+    "game": "TODO_________",
+    "manufacturer": "Mali",
+    "device": "G78",
     "timestamp": 1785269852,
     "filename": "TODO_________-samsung-SM-G998B-Mali-G78-1785269852.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785238930,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LGN-LX2-Adreno__TM__610-1785238930.json"
-  },
-  {
-    "game": "Wuthering_Waves",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1785235877,
-    "filename": "Wuthering_Waves-Xiaomi-2511FPC34G-Mali-G720_MC8-1785235877.json"
   }
 ]
