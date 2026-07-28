@@ -1,5 +1,12 @@
 [
   {
+    "game": "GOALS",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785258648,
+    "filename": "GOALS-Xiaomi-23129RA5FL-Adreno__TM__610-1785258648.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1785217614,
     "filename": "God_of_War-OPPO-CPH2731-Adreno__TM__825-1785217614.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1785216986,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A166M-Mali-G68-1785216986.json"
   }
 ]
