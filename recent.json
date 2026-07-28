@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1785257187,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785257187.json"
+  },
+  {
     "game": "IGI",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1785216986,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A166M-Mali-G68-1785216986.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1785216979,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A166M-Mali-G68-1785216979.json"
   }
 ]
