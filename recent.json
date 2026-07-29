@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__710",
+    "timestamp": 1785337861,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-Adreno__TM__710-1785337861.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1785337467,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1785308467,
     "filename": "Rise_of_the_Tomb_Raider_-Xiaomi-25097RP43I-Adreno__TM__825-1785308467.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S928B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1785307536,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S928B-Adreno__TM__750-1785307536.json"
   }
 ]
