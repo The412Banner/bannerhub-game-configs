@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__III",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1785302554,
+    "filename": "Call_of_Duty___Modern_Warfare__III-samsung-SM-A166B-Mali-G68-1785302554.json"
+  },
+  {
     "game": "BlackOps",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1785278456,
     "filename": "No__I_m_not_a_Human-samsung-SM-F721B-Adreno__TM__730-1785278456.json"
-  },
-  {
-    "game": "Castle_Crashers_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785275872,
-    "filename": "Castle_Crashers_-samsung-SM-A075M-Mali-G57_MC2-1785275872.json"
   }
 ]
