@@ -1,5 +1,12 @@
 [
   {
+    "game": "FUEL_",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1785297247,
+    "filename": "FUEL_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785297247.json"
+  },
+  {
     "game": "FIFA_22",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785267130,
     "filename": "PROJECT__PLAYTIME-TECNO-TECNO_KL7-Mali-G57_MC2-1785267130.json"
-  },
-  {
-    "game": "FIFA_Launcher",
-    "manufacturer": "24115RA8EG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1785274325,
-    "filename": "FIFA_Launcher-Xiaomi-24115RA8EG-Adreno__TM__810-1785274325.json"
   }
 ]
