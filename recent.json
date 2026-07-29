@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "motorola_edge_70_fusion",
+    "device": "Adreno__TM__810",
+    "timestamp": 1785368343,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_70_fusion-Adreno__TM__810-1785368343.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
     "timestamp": 1785367859,
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1785355176,
     "filename": "BlackOps-Xiaomi-2511FPC34G-Mali-G720_MC8-1785355176.json"
-  },
-  {
-    "game": "BlackOps",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1785354896,
-    "filename": "BlackOps-Xiaomi-2511FPC34G-Mali-G720_MC8-1785354896.json"
   }
 ]
