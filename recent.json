@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785354286,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6528B-Mali-G57-1785354286.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A725M",
     "device": "Adreno__TM__618",
     "timestamp": 1785353280,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1785327752,
     "filename": "Lost_Ruins-motorola-motorola_edge_30_fusion-Adreno__TM__660-1785327752.json"
-  },
-  {
-    "game": "Moonlighter",
-    "manufacturer": "motorola_edge_30_fusion",
-    "device": "Adreno__TM__660",
-    "timestamp": 1785327742,
-    "filename": "Moonlighter-motorola-motorola_edge_30_fusion-Adreno__TM__660-1785327742.json"
   }
 ]
