@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1785366929,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-Xiaomi-2511FPC34G-Mali-G720_MC8-1785366929.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1785351104,
     "filename": "PaliaLauncher-samsung-SM-S911B-Adreno__TM__740-1785351104.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1785349217,
-    "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785349217.json"
   }
 ]
