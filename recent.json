@@ -1,5 +1,12 @@
 [
   {
+    "game": "fifaFS",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785287510,
+    "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785287510.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785268222,
     "filename": "DRAGON_BALL_FighterZ-samsung-SM-X133-Mali-G57_MC2-1785268222.json"
-  },
-  {
-    "game": "MotoGP13",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785267210,
-    "filename": "MotoGP13-Xiaomi-23053RN02A-Mali-G52_MC2-1785267210.json"
   }
 ]
