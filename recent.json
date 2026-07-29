@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1785367853,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24095PCADG-Mali-G615_MC2-1785367853.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__3__2011_",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785354286,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6528B-Mali-G57-1785354286.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A725M",
-    "device": "Adreno__TM__618",
-    "timestamp": 1785353280,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A725M-Adreno__TM__618-1785353280.json"
   }
 ]
