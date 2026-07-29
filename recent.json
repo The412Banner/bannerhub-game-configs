@@ -3,6 +3,13 @@
     "game": "FIFA_19",
     "manufacturer": "24115RA8EG",
     "device": "Adreno__TM__810",
+    "timestamp": 1785318405,
+    "filename": "FIFA_19-Xiaomi-24115RA8EG-Adreno__TM__810-1785318405.json"
+  },
+  {
+    "game": "FIFA_19",
+    "manufacturer": "24115RA8EG",
+    "device": "Adreno__TM__810",
     "timestamp": 1785318371,
     "filename": "FIFA_19-Xiaomi-24115RA8EG-Adreno__TM__810-1785318371.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785287510,
     "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785287510.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785287046,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1785287046.json"
   }
 ]
