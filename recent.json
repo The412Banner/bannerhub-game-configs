@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "moto_g85_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1785290665,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g85_5G-Adreno__TM__619-1785290665.json"
+  },
+  {
     "game": "fifaFS",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1785269852,
     "filename": "TODO_________-samsung-SM-G998B-Mali-G78-1785269852.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785268222,
-    "filename": "DRAGON_BALL_FighterZ-samsung-SM-X133-Mali-G57_MC2-1785268222.json"
   }
 ]
