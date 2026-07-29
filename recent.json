@@ -3,6 +3,13 @@
     "game": "BlackOps",
     "manufacturer": "Mali",
     "device": "G720_MC8",
+    "timestamp": 1785355176,
+    "filename": "BlackOps-Xiaomi-2511FPC34G-Mali-G720_MC8-1785355176.json"
+  },
+  {
+    "game": "BlackOps",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
     "timestamp": 1785354896,
     "filename": "BlackOps-Xiaomi-2511FPC34G-Mali-G720_MC8-1785354896.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1785331496,
     "filename": "MadMax-OnePlus-PJD110-Adreno__TM__750-1785331496.json"
-  },
-  {
-    "game": "Withering_Rooms",
-    "manufacturer": "motorola_edge_30_fusion",
-    "device": "Adreno__TM__660",
-    "timestamp": 1785327765,
-    "filename": "Withering_Rooms-motorola-motorola_edge_30_fusion-Adreno__TM__660-1785327765.json"
   }
 ]
