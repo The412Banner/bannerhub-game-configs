@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1785283818,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1785283818.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1785257187,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785257187.json"
-  },
-  {
-    "game": "IGI",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785255969,
-    "filename": "IGI-OPPO-CPH2591-Mali-G52_MC2-1785255969.json"
   }
 ]
