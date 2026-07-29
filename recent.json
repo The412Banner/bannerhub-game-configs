@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_19",
+    "manufacturer": "24115RA8EG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1785318371,
+    "filename": "FIFA_19-Xiaomi-24115RA8EG-Adreno__TM__810-1785318371.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "25097RP43I",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785287046,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1785287046.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785285233,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1785285233.json"
   }
 ]
