@@ -3,6 +3,13 @@
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G51",
+    "timestamp": 1785357329,
+    "filename": "Pro_Evolution_Soccer_2013-HUAWEI-STK-LX1-Mali-G51-1785357329.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G51",
     "timestamp": 1785357325,
     "filename": "Pro_Evolution_Soccer_2013-HUAWEI-STK-LX1-Mali-G51-1785357325.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785336200,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6531-Mali-G52_MC2-1785336200.json"
-  },
-  {
-    "game": "AC3SP",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785334723,
-    "filename": "AC3SP-HONOR-NLA-NX1-Mali-G57_MC2-1785334723.json"
   }
 ]
