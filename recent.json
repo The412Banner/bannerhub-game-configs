@@ -1,5 +1,12 @@
 [
   {
+    "game": "Evil_West",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1785292901,
+    "filename": "Evil_West-nubia-NX809J-Adreno__TM__840-1785292901.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g52",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1785269964,
     "filename": "Hentai_Tales__The_Cat_s_Return-realme-RMX3709-Adreno__TM__730-1785269964.json"
-  },
-  {
-    "game": "TODO_________",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1785269944,
-    "filename": "TODO_________-samsung-SM-G998B-Mali-G78-1785269944.json"
   }
 ]
