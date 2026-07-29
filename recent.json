@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G51",
+    "timestamp": 1785357325,
+    "filename": "Pro_Evolution_Soccer_2013-HUAWEI-STK-LX1-Mali-G51-1785357325.json"
+  },
+  {
     "game": "BlackOps",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785334723,
     "filename": "AC3SP-HONOR-NLA-NX1-Mali-G57_MC2-1785334723.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "S928U",
-    "device": "Adreno__TM__750",
-    "timestamp": 1785332190,
-    "filename": "God_of_War-samsung-SM-S928U-Adreno__TM__750-1785332190.json"
   }
 ]
