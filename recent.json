@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1785354896,
+    "filename": "BlackOps-Xiaomi-2511FPC34G-Mali-G720_MC8-1785354896.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1785327765,
     "filename": "Withering_Rooms-motorola-motorola_edge_30_fusion-Adreno__TM__660-1785327765.json"
-  },
-  {
-    "game": "Lost_Ruins",
-    "manufacturer": "motorola_edge_30_fusion",
-    "device": "Adreno__TM__660",
-    "timestamp": 1785327752,
-    "filename": "Lost_Ruins-motorola-motorola_edge_30_fusion-Adreno__TM__660-1785327752.json"
   }
 ]
