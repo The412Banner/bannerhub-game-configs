@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785359209,
+    "filename": "Left_4_Dead_2-nubia-Z2464N-Mali-G57-1785359209.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G51",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1785336259,
     "filename": "Assassin_s_Creed_II-Nothing-A001-Mali-G615_MC2-1785336259.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785336200,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6531-Mali-G52_MC2-1785336200.json"
   }
 ]
