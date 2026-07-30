@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2015",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1785433517,
+    "filename": "F1_2015-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785433517.json"
+  },
+  {
     "game": "EA_SPORTS__FIFA_23",
     "manufacturer": "NX1",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1785405111,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M1908C3JGG-Mali-G52-1785405111.json"
-  },
-  {
-    "game": "Dragon_s_Dogma__Dark_Arisen",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1785402019,
-    "filename": "Dragon_s_Dogma__Dark_Arisen-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1785402019.json"
   }
 ]
