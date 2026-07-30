@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1785441318,
+    "filename": "Far_Cry_3-Xiaomi-2511FPC34G-Mali-G720_MC8-1785441318.json"
+  },
+  {
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "PLR110",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1785420465,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23122PCD1G-Adreno__TM__710-1785420465.json"
-  },
-  {
-    "game": "bla",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785419363,
-    "filename": "bla-ZTE-25010PN30G-Mali-G57-1785419363.json"
   }
 ]
