@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1785441616,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-INFINIX-Infinix_X6873-Mali-G615_MC6-1785441616.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1785420612,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-25053PC47I-Adreno__TM__825-1785420612.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23122PCD1G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1785420465,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23122PCD1G-Adreno__TM__710-1785420465.json"
   }
 ]
