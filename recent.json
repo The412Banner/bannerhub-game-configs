@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs__2",
+    "manufacturer": "V2429A",
+    "device": "Adreno__TM__720",
+    "timestamp": 1785381655,
+    "filename": "Watch_Dogs__2-vivo-V2429A-Adreno__TM__720-1785381655.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785366406,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1785366406.json"
-  },
-  {
-    "game": "MafiaInstallShield_Application",
-    "manufacturer": "2509ARPBDG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1785365169,
-    "filename": "MafiaInstallShield_Application-Xiaomi-2509ARPBDG-Adreno__TM__810-1785365169.json"
   }
 ]
