@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785377852,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1785377852.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
     "timestamp": 1785376775,
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
     "timestamp": 1785365023,
     "filename": "PlayGTAV-samsung-SM-A576B-ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_-1785365023.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "A576B",
-    "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
-    "timestamp": 1785364963,
-    "filename": "PlayGTAV-samsung-SM-A576B-ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_-1785364963.json"
   }
 ]
