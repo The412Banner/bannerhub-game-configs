@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_22",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785416055,
+    "filename": "FIFA_22-samsung-SM-A165F-Mali-G57_MC2-1785416055.json"
+  },
+  {
     "game": "BeamNG_drive",
     "manufacturer": "NP03J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1785385350,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1785385350.json"
-  },
-  {
-    "game": "l2_euphoria",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1785383018,
-    "filename": "l2_euphoria-Xiaomi-M2102J20SG-Adreno__TM__640-1785383018.json"
   }
 ]
