@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785380322,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23021RAAEG-Adreno__TM__610-1785380322.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1785377852,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1785365169,
     "filename": "MafiaInstallShield_Application-Xiaomi-2509ARPBDG-Adreno__TM__810-1785365169.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "A576B",
-    "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
-    "timestamp": 1785365023,
-    "filename": "PlayGTAV-samsung-SM-A576B-ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_-1785365023.json"
   }
 ]
