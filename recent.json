@@ -1,5 +1,12 @@
 [
   {
+    "game": "bla",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785419363,
+    "filename": "bla-ZTE-25010PN30G-Mali-G57-1785419363.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1785392009,
     "filename": "METAL_GEAR_SOLID____SNAKE_EATER-nubia-NP05J-Adreno__TM__830-1785392009.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1785387792,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1785387792.json"
   }
 ]
