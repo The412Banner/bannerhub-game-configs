@@ -1,5 +1,12 @@
 [
   {
+    "game": "l2_euphoria",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1785383018,
+    "filename": "l2_euphoria-Xiaomi-M2102J20SG-Adreno__TM__640-1785383018.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1785367098,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-Xiaomi-2511FPC34G-Mali-G720_MC8-1785367098.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1785366929,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-Xiaomi-2511FPC34G-Mali-G720_MC8-1785366929.json"
   }
 ]
