@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "PLR110",
+    "device": "Adreno__TM__829",
+    "timestamp": 1785441024,
+    "filename": "God_of_War_Ragnar_k-OnePlus-PLR110-Adreno__TM__829-1785441024.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785419363,
     "filename": "bla-ZTE-25010PN30G-Mali-G57-1785419363.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1785418912,
-    "filename": "Sleeping_Dogs-LENOVO-TB321FU-Adreno__TM__750-1785418912.json"
   }
 ]
