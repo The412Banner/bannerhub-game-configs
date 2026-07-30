@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1785418912,
+    "filename": "Sleeping_Dogs-LENOVO-TB321FU-Adreno__TM__750-1785418912.json"
+  },
+  {
     "game": "PlayGTAVOptiJuegos7Z",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1785387792,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1785387792.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1785386295,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1785386295.json"
   }
 ]
