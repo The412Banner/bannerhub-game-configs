@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785381787,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1785381787.json"
+  },
+  {
     "game": "Watch_Dogs__2",
     "manufacturer": "V2429A",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1785366929,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-Xiaomi-2511FPC34G-Mali-G720_MC8-1785366929.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785366406,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02A-Mali-G52_MC2-1785366406.json"
   }
 ]
