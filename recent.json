@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1785374472,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_50_neo-Mali-G615_MC2-1785374472.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785359814,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A225M-Mali-G52_MC2-1785359814.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785359209,
-    "filename": "Left_4_Dead_2-nubia-Z2464N-Mali-G57-1785359209.json"
   }
 ]
