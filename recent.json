@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785442773,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2212ARNC4L-Mali-G52_MC2-1785442773.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1785421448,
     "filename": "Assassin_s_Creed__Brotherhood-OPPO-CPH2159-Adreno__TM__618-1785421448.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "25053PC47I",
-    "device": "Adreno__TM__825",
-    "timestamp": 1785420612,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-25053PC47I-Adreno__TM__825-1785420612.json"
   }
 ]
