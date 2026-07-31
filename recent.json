@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785516961,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1785516961.json"
+  },
+  {
     "game": "Avatar_Legends__The_Fighting_Game",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785494410,
     "filename": "Marvel_Rivals-samsung-SM-A175F-Mali-G57_MC2-1785494410.json"
-  },
-  {
-    "game": "cuckoocastle",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1785493494,
-    "filename": "cuckoocastle-Xiaomi-23049PCD8G-Adreno__TM__725-1785493494.json"
   }
 ]
