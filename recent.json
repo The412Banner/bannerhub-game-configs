@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_Rivals",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785494410,
+    "filename": "Marvel_Rivals-samsung-SM-A175F-Mali-G57_MC2-1785494410.json"
+  },
+  {
     "game": "cuckoocastle",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785456575,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-23021RAAEG-Adreno__TM__610-1785456575.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785456559,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1785456559.json"
   }
 ]
