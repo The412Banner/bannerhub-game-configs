@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1785514947,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A505G-Mali-G72-1785514947.json"
+  },
+  {
     "game": "Steam",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1785488097,
     "filename": "Kusan__City_of_Wolves-AYANEO-Pocket_FIT-Adreno__TM__750-1785488097.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "N49",
-    "device": "Adreno__TM__750",
-    "timestamp": 1785486965,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-BVL-N49-Adreno__TM__750-1785486965.json"
   }
 ]
