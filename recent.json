@@ -1,5 +1,12 @@
 [
   {
+    "game": "Acro_FS",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785492435,
+    "filename": "Acro_FS-INFINIX-Infinix_X6531-Mali-G52_MC2-1785492435.json"
+  },
+  {
     "game": "PUBG__BATTLEGROUNDS",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785456527,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-23021RAAEG-Adreno__TM__610-1785456527.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785455606,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1785455606.json"
   }
 ]
