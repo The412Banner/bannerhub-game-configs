@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785456575,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-23021RAAEG-Adreno__TM__610-1785456575.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785442773,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2212ARNC4L-Mali-G52_MC2-1785442773.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1785441616,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-INFINIX-Infinix_X6873-Mali-G615_MC6-1785441616.json"
   }
 ]
