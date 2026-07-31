@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785532818,
+    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-ayn-Odin3-Adreno__TM__830-1785532818.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2201117TL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1785517121,
     "filename": "Kusan__City_of_Wolves-AYN-Odin2-Adreno__TM__740-1785517121.json"
-  },
-  {
-    "game": "Avatar_Legends__The_Fighting_Game",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1785517113,
-    "filename": "Avatar_Legends__The_Fighting_Game-AYN-Odin2-Adreno__TM__740-1785517113.json"
   }
 ]
