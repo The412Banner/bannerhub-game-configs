@@ -1,5 +1,12 @@
 [
   {
+    "game": "60SecondsReatomized",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1785519472,
+    "filename": "60SecondsReatomized-Xiaomi-2511FPC34G-Mali-G720_MC8-1785519472.json"
+  },
+  {
     "game": "Kusan__City_of_Wolves",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785499490,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-23021RAAEG-Adreno__TM__610-1785499490.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1785497251,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1785497251.json"
   }
 ]
