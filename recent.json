@@ -1,5 +1,12 @@
 [
   {
+    "game": "Steam",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785514348,
+    "filename": "Steam-INFINIX-Infinix_X6837-Mali-G57_MC2-1785514348.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1785486965,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-BVL-N49-Adreno__TM__750-1785486965.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1785483670,
-    "filename": "Red_Dead_Redemption_2-Xiaomi-25053PC47G-Adreno__TM__825-1785483670.json"
   }
 ]
