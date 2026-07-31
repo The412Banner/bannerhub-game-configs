@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S926B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1785506622,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1785506622.json"
+  },
+  {
     "game": "Sonic",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G76_MC4",
     "timestamp": 1785466661,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-realme-RMX3085-Mali-G76_MC4-1785466661.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G970U",
-    "device": "Adreno__TM__640",
-    "timestamp": 1785466115,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G970U-Adreno__TM__640-1785466115.json"
   }
 ]
