@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sniper_3",
+    "manufacturer": "24069PC21I",
+    "device": "Adreno__TM__735",
+    "timestamp": 1785523652,
+    "filename": "Sniper_3-Xiaomi-24069PC21I-Adreno__TM__735-1785523652.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1785515579,
     "filename": "The_Elder_Scrolls_V__Skyrim-samsung-SM-F731B-Adreno__TM__740-1785515579.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G72",
-    "timestamp": 1785514947,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A505G-Mali-G72-1785514947.json"
   }
 ]
