@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "LX3",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785522816,
+    "filename": "Pro_Evolution_Soccer_2013-HONOR-CLK-LX3-Adreno__TM__610-1785522816.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g_8__power",
     "device": "Adreno__TM__610",
     "timestamp": 1785522410,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785514348,
     "filename": "Steam-INFINIX-Infinix_X6837-Mali-G57_MC2-1785514348.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785512833,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02L-Mali-G52_MC2-1785512833.json"
   }
 ]
