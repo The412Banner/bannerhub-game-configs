@@ -1,5 +1,12 @@
 [
   {
+    "game": "16100-german-truck-simulator-1-32-en-win",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785521119,
+    "filename": "16100-german-truck-simulator-1-32-en-win-samsung-SM-S938B-Adreno__TM__830-1785521119.json"
+  },
+  {
     "game": "Rain_World",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1785511470,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-2311DRK48G-Mali-G615_MC6-1785511470.json"
-  },
-  {
-    "game": "LEGO__Marvel__Super_Heroes",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1785508929,
-    "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-25053PC47G-Adreno__TM__825-1785508929.json"
   }
 ]
