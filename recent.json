@@ -1,5 +1,12 @@
 [
   {
+    "game": "cuckoocastle",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1785493494,
+    "filename": "cuckoocastle-Xiaomi-23049PCD8G-Adreno__TM__725-1785493494.json"
+  },
+  {
     "game": "Acro_FS",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785456559,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1785456559.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "23021RAAEG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785456527,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-23021RAAEG-Adreno__TM__610-1785456527.json"
   }
 ]
