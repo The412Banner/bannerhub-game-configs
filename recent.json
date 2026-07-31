@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "2201117TL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785531640,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TL-Adreno__TM__610-1785531640.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1785517113,
     "filename": "Avatar_Legends__The_Fighting_Game-AYN-Odin2-Adreno__TM__740-1785517113.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785516961,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1785516961.json"
   }
 ]
