@@ -1,5 +1,12 @@
 [
   {
+    "game": "p_s_13",
+    "manufacturer": "moto_g42",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785524092,
+    "filename": "p_s_13-motorola-moto_g42-Adreno__TM__610-1785524092.json"
+  },
+  {
     "game": "Sniper_3",
     "manufacturer": "24069PC21I",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1785516173,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1785516173.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "F731B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1785515579,
-    "filename": "The_Elder_Scrolls_V__Skyrim-samsung-SM-F731B-Adreno__TM__740-1785515579.json"
   }
 ]
