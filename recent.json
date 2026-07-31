@@ -1,5 +1,12 @@
 [
   {
+    "game": "Steam",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785512400,
+    "filename": "Steam-INFINIX-Infinix_X6837-Mali-G57_MC2-1785512400.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "G715",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785477521,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1785477521.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Origins",
-    "manufacturer": "I2401",
-    "device": "Adreno__TM__830",
-    "timestamp": 1785476572,
-    "filename": "Assassin_s_Creed__Origins-vivo-I2401-Adreno__TM__830-1785476572.json"
   }
 ]
