@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pes_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785533351,
+    "filename": "Pes_2013-realme-RMX3760-Mali-G57-1785533351.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1785520144,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A366E-Adreno__TM__710-1785520144.json"
-  },
-  {
-    "game": "60SecondsReatomized",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1785519472,
-    "filename": "60SecondsReatomized-Xiaomi-2511FPC34G-Mali-G720_MC8-1785519472.json"
   }
 ]
