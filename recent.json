@@ -1,5 +1,12 @@
 [
   {
+    "game": "Avatar_Legends__The_Fighting_Game",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1785516845,
+    "filename": "Avatar_Legends__The_Fighting_Game-AYANEO-Pocket_FIT-Adreno__TM__750-1785516845.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1785493494,
     "filename": "cuckoocastle-Xiaomi-23049PCD8G-Adreno__TM__725-1785493494.json"
-  },
-  {
-    "game": "Acro_FS",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785492435,
-    "filename": "Acro_FS-INFINIX-Infinix_X6531-Mali-G52_MC2-1785492435.json"
   }
 ]
