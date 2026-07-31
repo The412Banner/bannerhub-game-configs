@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Marvel__Super_Heroes",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1785508929,
+    "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-25053PC47G-Adreno__TM__825-1785508929.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S926B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1785469792,
     "filename": "pes_2013-Xiaomi-M2101K6G-Adreno__TM__618-1785469792.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1785466661,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-realme-RMX3085-Mali-G76_MC4-1785466661.json"
   }
 ]
