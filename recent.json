@@ -1,5 +1,12 @@
 [
   {
+    "game": "Kusan__City_of_Wolves",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1785517121,
+    "filename": "Kusan__City_of_Wolves-AYN-Odin2-Adreno__TM__740-1785517121.json"
+  },
+  {
     "game": "Avatar_Legends__The_Fighting_Game",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1785497251,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1785497251.json"
-  },
-  {
-    "game": "Marvel_Rivals",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785495490,
-    "filename": "Marvel_Rivals-samsung-SM-A175F-Mali-G57_MC2-1785495490.json"
   }
 ]
