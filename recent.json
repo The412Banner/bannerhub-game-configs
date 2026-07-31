@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785456527,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-23021RAAEG-Adreno__TM__610-1785456527.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1785441318,
     "filename": "Far_Cry_3-Xiaomi-2511FPC34G-Mali-G720_MC8-1785441318.json"
-  },
-  {
-    "game": "God_of_War_Ragnar_k",
-    "manufacturer": "PLR110",
-    "device": "Adreno__TM__829",
-    "timestamp": 1785441024,
-    "filename": "God_of_War_Ragnar_k-OnePlus-PLR110-Adreno__TM__829-1785441024.json"
   }
 ]
