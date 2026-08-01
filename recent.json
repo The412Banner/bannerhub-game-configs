@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785550548,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g31-Mali-G52_MC2-1785550548.json"
+  },
+  {
     "game": "Epic_Games",
     "manufacturer": "Mali",
     "device": "G72",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785531640,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TL-Adreno__TM__610-1785531640.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785528974,
-    "filename": "Marvel_s_Spider-Man_2-motorola-moto_g13-Mali-G52_MC2-1785528974.json"
   }
 ]
