@@ -1,5 +1,12 @@
 [
   {
+    "game": "pes_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785551205,
+    "filename": "pes_2013-motorola-moto_g15-Mali-G52_MC2-1785551205.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1785532818,
     "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-ayn-Odin3-Adreno__TM__830-1785532818.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2201117TL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785531640,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TL-Adreno__TM__610-1785531640.json"
   }
 ]
