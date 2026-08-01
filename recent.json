@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1785599559,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g84_5G-Adreno__TM__619-1785599559.json"
+  },
+  {
     "game": "Batman___Arkham_Origins",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1785585360,
     "filename": "Travellers_Rest-samsung-SM-F946B-Adreno__TM__740-1785585360.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1785584328,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785584328.json"
   }
 ]
