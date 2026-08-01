@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785612723,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1785612723.json"
+  },
+  {
     "game": "Ben_10__Power_Trip",
     "manufacturer": "Redmi_Note_7",
     "device": "Adreno__TM__512",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1785600537,
     "filename": "Batman___Arkham_Origins-nubia-NX809J-Adreno__TM__840-1785600537.json"
-  },
-  {
-    "game": "Batman___Arkham_Origins",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1785600510,
-    "filename": "Batman___Arkham_Origins-nubia-NX809J-Adreno__TM__840-1785600510.json"
   }
 ]
