@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785588839,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X669D-Mali-G57-1785588839.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785554579,
     "filename": "_p_s2013-Xiaomi-2311DRN14I-Mali-G52_MC2-1785554579.json"
-  },
-  {
-    "game": "pes_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785551205,
-    "filename": "pes_2013-motorola-moto_g15-Mali-G52_MC2-1785551205.json"
   }
 ]
