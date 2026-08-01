@@ -3,6 +3,13 @@
     "game": "_p_s2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1785554590,
+    "filename": "_p_s2013-Xiaomi-2311DRN14I-Mali-G52_MC2-1785554590.json"
+  },
+  {
+    "game": "_p_s2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1785554579,
     "filename": "_p_s2013-Xiaomi-2311DRN14I-Mali-G52_MC2-1785554579.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785533351,
     "filename": "Pes_2013-realme-RMX3760-Mali-G57-1785533351.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1785532823,
-    "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1785532823.json"
   }
 ]
