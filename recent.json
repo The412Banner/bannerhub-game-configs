@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sonic_Mania_Lite",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785621863,
+    "filename": "Sonic_Mania_Lite-realme-RMX5313-Mali-G57-1785621863.json"
+  },
+  {
     "game": "Hollow_Knight",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785604677,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1785604677.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785604665,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1785604665.json"
   }
 ]
