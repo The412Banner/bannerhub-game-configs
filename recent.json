@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785603932,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1785603932.json"
+  },
+  {
     "game": "NARUTO_STORM_3_FB",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1785593399,
     "filename": "Pro_Evolution_Soccer_2014-Xiaomi-22041216G-Mali-G610_MC6-1785593399.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2014",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1785593386,
-    "filename": "Pro_Evolution_Soccer_2014-Xiaomi-22041216G-Mali-G610_MC6-1785593386.json"
   }
 ]
