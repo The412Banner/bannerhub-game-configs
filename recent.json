@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1785584265,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1785584265.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
     "timestamp": 1785583714,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1785542759,
     "filename": "TheForest-nubia-NX769J-Adreno__TM__750-1785542759.json"
-  },
-  {
-    "game": "Sniper_Ghost_Warrior_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785542728,
-    "filename": "Sniper_Ghost_Warrior_2-INFINIX-Infinix_X6881-Mali-G57_MC2-1785542728.json"
   }
 ]
