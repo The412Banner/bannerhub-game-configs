@@ -1,5 +1,12 @@
 [
   {
+    "game": "DeerAndBoy",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1785567855,
+    "filename": "DeerAndBoy-AYANEO-Pocket_FIT-Adreno__TM__750-1785567855.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1785535101,
     "filename": "mushi-motorola-motorola_edge_50_fusion-Adreno__TM__710-1785535101.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785533570,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1785533570.json"
   }
 ]
