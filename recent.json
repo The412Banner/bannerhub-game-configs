@@ -3,6 +3,13 @@
     "game": "American_Truck_Simulator",
     "manufacturer": "Mali",
     "device": "G76",
+    "timestamp": 1785624689,
+    "filename": "American_Truck_Simulator-Xiaomi-2207117BPG-Mali-G76-1785624689.json"
+  },
+  {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "Mali",
+    "device": "G76",
     "timestamp": 1785624685,
     "filename": "American_Truck_Simulator-Xiaomi-2207117BPG-Mali-G76-1785624685.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785612723,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1785612723.json"
-  },
-  {
-    "game": "Ben_10__Power_Trip",
-    "manufacturer": "Redmi_Note_7",
-    "device": "Adreno__TM__512",
-    "timestamp": 1785611685,
-    "filename": "Ben_10__Power_Trip-Xiaomi-Redmi_Note_7-Adreno__TM__512-1785611685.json"
   }
 ]
