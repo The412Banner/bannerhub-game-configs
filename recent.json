@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sniper_Ghost_Warrior_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785542728,
+    "filename": "Sniper_Ghost_Warrior_2-INFINIX-Infinix_X6881-Mali-G57_MC2-1785542728.json"
+  },
+  {
     "game": "VERS_O_DEMO_DE_DRAGON_BALL_Z__KAKAROT",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1785523130,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22041216G-Mali-G610_MC6-1785523130.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "LX3",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785522816,
-    "filename": "Pro_Evolution_Soccer_2013-HONOR-CLK-LX3-Adreno__TM__610-1785522816.json"
   }
 ]
