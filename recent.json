@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013___________________________________",
+    "manufacturer": "A556B",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1785590427,
+    "filename": "Pro_Evolution_Soccer_2013___________________________________-samsung-SM-A556B-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1785590427.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785554590,
     "filename": "_p_s2013-Xiaomi-2311DRN14I-Mali-G52_MC2-1785554590.json"
-  },
-  {
-    "game": "_p_s2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785554579,
-    "filename": "_p_s2013-Xiaomi-2311DRN14I-Mali-G52_MC2-1785554579.json"
   }
 ]
