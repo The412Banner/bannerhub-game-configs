@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman___Arkham_Origins",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1785599328,
+    "filename": "Batman___Arkham_Origins-nubia-NX809J-Adreno__TM__840-1785599328.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1785584328,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785584328.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1785584265,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1785584265.json"
   }
 ]
