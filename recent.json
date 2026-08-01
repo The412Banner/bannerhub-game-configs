@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785591068,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6831-Mali-G52_MC2-1785591068.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013___________________________________",
     "manufacturer": "A556B",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785567610,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-23021RAAEG-Adreno__TM__610-1785567610.json"
-  },
-  {
-    "game": "_p_s2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785554590,
-    "filename": "_p_s2013-Xiaomi-2311DRN14I-Mali-G52_MC2-1785554590.json"
   }
 ]
