@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ni_no_Kuni__Wrath_of_the_White_Witch__Remastered",
+    "manufacturer": "Mali",
+    "device": "G610_MC4",
+    "timestamp": 1785575958,
+    "filename": "Ni_no_Kuni__Wrath_of_the_White_Witch__Remastered-Xiaomi-23090RA98G-Mali-G610_MC4-1785575958.json"
+  },
+  {
     "game": "My_Friend_Pedro_-_Blood_Bullets_Bananas",
     "manufacturer": "TB320FC",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1785536721,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785536721.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1785536705,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785536705.json"
   }
 ]
