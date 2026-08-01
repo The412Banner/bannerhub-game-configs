@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1785584328,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785584328.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785542805,
     "filename": "PlayGTAV-Xiaomi-220333QL-Adreno__TM__610-1785542805.json"
-  },
-  {
-    "game": "TheForest",
-    "manufacturer": "NX769J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1785542759,
-    "filename": "TheForest-nubia-NX769J-Adreno__TM__750-1785542759.json"
   }
 ]
