@@ -1,5 +1,12 @@
 [
   {
+    "game": "setup",
+    "manufacturer": "CPH2727",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785624212,
+    "filename": "setup-OPPO-CPH2727-Adreno__TM__610-1785624212.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785611437,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1785611437.json"
-  },
-  {
-    "game": "Mortal_Kombat__1_Launcher",
-    "manufacturer": "23122PCD1G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1785611362,
-    "filename": "Mortal_Kombat__1_Launcher-Xiaomi-23122PCD1G-Adreno__TM__710-1785611362.json"
   }
 ]
