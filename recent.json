@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1785622397,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22101316UP-Mali-G68_MC4-1785622397.json"
+  },
+  {
     "game": "Sonic_Mania_Lite",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1785605044,
     "filename": "Battlefield__1-nubia-NX789J_V1B-Adreno__TM__830-1785605044.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785604677,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1785604677.json"
   }
 ]
