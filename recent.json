@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785602057,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X669D-Mali-G57-1785602057.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785591013,
     "filename": "Grand_Theft_Auto_V-HONOR-NIC-LX1-Mali-G52_MC2-1785591013.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785591068,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6831-Mali-G52_MC2-1785591068.json"
   }
 ]
