@@ -1,5 +1,12 @@
 [
   {
+    "game": "Epic_Games",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1785545462,
+    "filename": "Epic_Games-samsung-SM-M315F-Mali-G72-1785545462.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785528974,
     "filename": "Marvel_s_Spider-Man_2-motorola-moto_g13-Mali-G52_MC2-1785528974.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785528971,
-    "filename": "Marvel_s_Spider-Man_2-motorola-moto_g13-Mali-G52_MC2-1785528971.json"
   }
 ]
