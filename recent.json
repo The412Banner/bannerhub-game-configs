@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785591013,
+    "filename": "Grand_Theft_Auto_V-HONOR-NIC-LX1-Mali-G52_MC2-1785591013.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1785567855,
     "filename": "DeerAndBoy-AYANEO-Pocket_FIT-Adreno__TM__750-1785567855.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "23021RAAEG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785567610,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-23021RAAEG-Adreno__TM__610-1785567610.json"
   }
 ]
