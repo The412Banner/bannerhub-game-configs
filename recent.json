@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785612789,
+    "filename": "Far_Cry__2-realme-RMX3938-Mali-G57-1785612789.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785601216,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1785601216.json"
-  },
-  {
-    "game": "Batman___Arkham_Origins",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1785600537,
-    "filename": "Batman___Arkham_Origins-nubia-NX809J-Adreno__TM__840-1785600537.json"
   }
 ]
