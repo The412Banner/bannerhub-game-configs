@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1785624685,
+    "filename": "American_Truck_Simulator-Xiaomi-2207117BPG-Mali-G76-1785624685.json"
+  },
+  {
     "game": "setup",
     "manufacturer": "CPH2727",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__512",
     "timestamp": 1785611685,
     "filename": "Ben_10__Power_Trip-Xiaomi-Redmi_Note_7-Adreno__TM__512-1785611685.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785611437,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1785611437.json"
   }
 ]
