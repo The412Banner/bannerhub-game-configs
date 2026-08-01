@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Amazing_Spider_Man_2_Bundle_____________________________",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785626760,
+    "filename": "The_Amazing_Spider_Man_2_Bundle_____________________________-realme-RMX3938-Mali-G57-1785626760.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785613224,
     "filename": "unins000-LENOVO-TB310XU-Mali-G52_MC2-1785613224.json"
-  },
-  {
-    "game": "Simpsons_Hit___Run__TM_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785612958,
-    "filename": "Simpsons_Hit___Run__TM_-realme-RMX3938-Mali-G57-1785612958.json"
   }
 ]
