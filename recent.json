@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2014",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1785593386,
+    "filename": "Pro_Evolution_Soccer_2014-Xiaomi-22041216G-Mali-G610_MC6-1785593386.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC4",
     "timestamp": 1785575958,
     "filename": "Ni_no_Kuni__Wrath_of_the_White_Witch__Remastered-Xiaomi-23090RA98G-Mali-G610_MC4-1785575958.json"
-  },
-  {
-    "game": "My_Friend_Pedro_-_Blood_Bullets_Bananas",
-    "manufacturer": "TB320FC",
-    "device": "Adreno__TM__730",
-    "timestamp": 1785571684,
-    "filename": "My_Friend_Pedro_-_Blood_Bullets_Bananas-Lenovo-TB320FC-Adreno__TM__730-1785571684.json"
   }
 ]
