@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g34_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1785625283,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g34_5G-Adreno__TM__619-1785625283.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785612789,
     "filename": "Far_Cry__2-realme-RMX3938-Mali-G57-1785612789.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785612723,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1785612723.json"
   }
 ]
