@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed_II",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1785617218,
+    "filename": "Assassin_s_Creed_II-Nothing-A001-Mali-G615_MC2-1785617218.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785603638,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1785603638.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1785603210,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1785603210.json"
   }
 ]
