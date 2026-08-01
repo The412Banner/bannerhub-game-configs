@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "V2434",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785579271,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2434-Adreno__TM__610-1785579271.json"
+  },
+  {
     "game": "Ni_no_Kuni__Wrath_of_the_White_Witch__Remastered",
     "manufacturer": "Mali",
     "device": "G610_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1785540024,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G781B-Adreno__TM__650-1785540024.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1785536721,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785536721.json"
   }
 ]
