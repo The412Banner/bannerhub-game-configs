@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "220333QL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785542805,
+    "filename": "PlayGTAV-Xiaomi-220333QL-Adreno__TM__610-1785542805.json"
+  },
+  {
     "game": "TheForest",
     "manufacturer": "NX769J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785524092,
     "filename": "p_s_13-motorola-moto_g42-Adreno__TM__610-1785524092.json"
-  },
-  {
-    "game": "Sniper_3",
-    "manufacturer": "24069PC21I",
-    "device": "Adreno__TM__735",
-    "timestamp": 1785523652,
-    "filename": "Sniper_3-Xiaomi-24069PC21I-Adreno__TM__735-1785523652.json"
   }
 ]
