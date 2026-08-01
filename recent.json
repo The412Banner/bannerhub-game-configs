@@ -1,5 +1,12 @@
 [
   {
+    "game": "Chef_RPG",
+    "manufacturer": "F946B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1785585700,
+    "filename": "Chef_RPG-samsung-SM-F946B-Adreno__TM__740-1785585700.json"
+  },
+  {
     "game": "Travellers_Rest",
     "manufacturer": "F946B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1785545462,
     "filename": "Epic_Games-samsung-SM-M315F-Mali-G72-1785545462.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785545270,
-    "filename": "DRAGON_BALL_FighterZ-INFINIX-Infinix_X6885-Mali-G57_MC2-1785545270.json"
   }
 ]
