@@ -1,5 +1,12 @@
 [
   {
+    "game": "ahahaaaa",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785580487,
+    "filename": "ahahaaaa-HONOR-NIC-LX1-Mali-G52_MC2-1785580487.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "V2434",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1785540142,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S901E-Adreno__TM__730-1785540142.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "G781B",
-    "device": "Adreno__TM__650",
-    "timestamp": 1785540024,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G781B-Adreno__TM__650-1785540024.json"
   }
 ]
