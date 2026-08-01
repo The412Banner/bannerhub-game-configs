@@ -1,5 +1,12 @@
 [
   {
+    "game": "_p_s2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785554579,
+    "filename": "_p_s2013-Xiaomi-2311DRN14I-Mali-G52_MC2-1785554579.json"
+  },
+  {
     "game": "pes_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1785532823,
     "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1785532823.json"
-  },
-  {
-    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1785532818,
-    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-ayn-Odin3-Adreno__TM__830-1785532818.json"
   }
 ]
