@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1785603210,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1785603210.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1785591690,
     "filename": "FIFA13-ayn-Odin3-Adreno__TM__830-1785591690.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785591013,
-    "filename": "Grand_Theft_Auto_V-HONOR-NIC-LX1-Mali-G52_MC2-1785591013.json"
   }
 ]
