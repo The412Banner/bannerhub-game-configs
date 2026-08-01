@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785593293,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRN14I-Mali-G52_MC2-1785593293.json"
+  },
+  {
     "game": "FIFA13",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1785571684,
     "filename": "My_Friend_Pedro_-_Blood_Bullets_Bananas-Lenovo-TB320FC-Adreno__TM__730-1785571684.json"
-  },
-  {
-    "game": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719",
-    "manufacturer": "2209116AG",
-    "device": "Adreno__TM__618",
-    "timestamp": 1785568918,
-    "filename": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719-Xiaomi-2209116AG-Adreno__TM__618-1785568918.json"
   }
 ]
