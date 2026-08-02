@@ -1,5 +1,12 @@
 [
   {
+    "game": "TEKKEN_7",
+    "manufacturer": "S948B",
+    "device": "Adreno__TM__840",
+    "timestamp": 1785644967,
+    "filename": "TEKKEN_7-samsung-SM-S948B-Adreno__TM__840-1785644967.json"
+  },
+  {
     "game": "Ryse__Son_of_Rome",
     "manufacturer": "S948B",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785632902,
     "filename": "PXG-INFINIX-Infinix_X6885-Mali-G57_MC2-1785632902.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785632381,
-    "filename": "Marvel_s_Spider-Man_2-motorola-moto_g13-Mali-G52_MC2-1785632381.json"
   }
 ]
