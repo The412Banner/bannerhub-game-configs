@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1785703400,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S911B-Adreno__TM__740-1785703400.json"
+  },
+  {
     "game": "Left_4_Dead",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785688635,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1785688635.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785687049,
-    "filename": "Grand_Theft_Auto_V-motorola-moto_g06-Mali-G52_MC2-1785687049.json"
   }
 ]
