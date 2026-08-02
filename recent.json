@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785691223,
+    "filename": "Pro_Evolution_Soccer_2013-Positivo-Vision_Tab_10-Mali-G57-1785691223.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
     "timestamp": 1785691067,
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1785672457,
     "filename": "Nfsu-Xiaomi-2511FPC34G-Mali-G720_MC8-1785672457.json"
-  },
-  {
-    "game": "WWE_2K19",
-    "manufacturer": "W00",
-    "device": "Adreno__TM__720",
-    "timestamp": 1785672237,
-    "filename": "WWE_2K19-HONOR-HEY3-W00-Adreno__TM__720-1785672237.json"
   }
 ]
