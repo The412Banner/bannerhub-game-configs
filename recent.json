@@ -1,5 +1,12 @@
 [
   {
+    "game": "PXG",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785632902,
+    "filename": "PXG-INFINIX-Infinix_X6885-Mali-G57_MC2-1785632902.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1785620764,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1785620764.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785618291,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1785618291.json"
   }
 ]
