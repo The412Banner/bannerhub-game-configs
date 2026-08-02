@@ -1,5 +1,12 @@
 [
   {
+    "game": "Atla",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1785663380,
+    "filename": "Atla-INFINIX-Infinix_X6873-Mali-G615_MC6-1785663380.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785649313,
     "filename": "BootstrapPackagedGame-HONOR-LGN-LX1-Adreno__TM__610-1785649313.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1785647252,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1785647252.json"
   }
 ]
