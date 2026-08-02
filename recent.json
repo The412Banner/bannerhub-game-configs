@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ryse__Son_of_Rome",
+    "manufacturer": "S948B",
+    "device": "Adreno__TM__840",
+    "timestamp": 1785644952,
+    "filename": "Ryse__Son_of_Rome-samsung-SM-S948B-Adreno__TM__840-1785644952.json"
+  },
+  {
     "game": "Cult_of_the_Lamb",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785632381,
     "filename": "Marvel_s_Spider-Man_2-motorola-moto_g13-Mali-G52_MC2-1785632381.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1785631479,
-    "filename": "Resident_Evil_4-Xiaomi-24069PC21G-Adreno__TM__735-1785631479.json"
   }
 ]
