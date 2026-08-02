@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1785663898,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1785663898.json"
+  },
+  {
     "game": "Atla",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1785651175,
     "filename": "DEAD_OR_ALIVE_5_Last_Round__Core_Fighters-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785651175.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "LX1",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785649313,
-    "filename": "BootstrapPackagedGame-HONOR-LGN-LX1-Adreno__TM__610-1785649313.json"
   }
 ]
