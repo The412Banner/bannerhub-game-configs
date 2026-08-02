@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cult_of_the_Lamb",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785644236,
+    "filename": "Cult_of_the_Lamb-motorola-moto_g05-Mali-G52_MC2-1785644236.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1785631479,
     "filename": "Resident_Evil_4-Xiaomi-24069PC21G-Adreno__TM__735-1785631479.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785627998,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03L-Mali-G57-1785627998.json"
   }
 ]
