@@ -1,5 +1,12 @@
 [
   {
+    "game": "Nfsu2",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1785672472,
+    "filename": "Nfsu2-Xiaomi-2511FPC34G-Mali-G720_MC8-1785672472.json"
+  },
+  {
     "game": "Nfsu",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785656949,
     "filename": "Left_4_Dead_2-vivo-vivo_1920-Adreno__TM__610-1785656949.json"
-  },
-  {
-    "game": "IGI",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785654428,
-    "filename": "IGI-OPPO-CPH2591-Mali-G52_MC2-1785654428.json"
   }
 ]
