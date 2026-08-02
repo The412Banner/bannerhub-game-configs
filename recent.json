@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1785673893,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785673893.json"
+  },
+  {
     "game": "Nfsu2",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785656955,
     "filename": "Left_4_Dead_2-vivo-vivo_1920-Adreno__TM__610-1785656955.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "vivo_1920",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785656949,
-    "filename": "Left_4_Dead_2-vivo-vivo_1920-Adreno__TM__610-1785656949.json"
   }
 ]
