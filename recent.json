@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785678963,
+    "filename": "Euro_Truck_Simulator_2-motorola-moto_g04s-Mali-G57-1785678963.json"
+  },
+  {
     "game": "Magical_Girl_Witch_Trials",
     "manufacturer": "X900",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785659880,
     "filename": "GIANTS_Engine-INFINIX-Infinix_X6837-Mali-G57_MC2-1785659880.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1785659642,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1785659642.json"
   }
 ]
