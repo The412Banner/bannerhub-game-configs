@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785690834,
+    "filename": "Pro_Evolution_Soccer_2013-Positivo-Vision_Tab_10-Mali-G57-1785690834.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
     "timestamp": 1785689471,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1785666881,
     "filename": "Brick_Rigs-motorola-motorola_edge_70_fusion-Adreno__TM__810-1785666881.json"
-  },
-  {
-    "game": "Simpsons_Hit___Run__TM_",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1785664064,
-    "filename": "Simpsons_Hit___Run__TM_-Xiaomi-M2101K7BI-Mali-G76-1785664064.json"
   }
 ]
