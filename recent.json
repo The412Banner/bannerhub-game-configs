@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Village",
+    "manufacturer": "22101320G",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1785711788,
+    "filename": "Resident_Evil_Village-Xiaomi-22101320G-Adreno__TM__642L-1785711788.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1785691616,
     "filename": "FIFA_18-samsung-SM-S938B-Adreno__TM__830-1785691616.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785691223,
-    "filename": "Pro_Evolution_Soccer_2013-Positivo-Vision_Tab_10-Mali-G57-1785691223.json"
   }
 ]
