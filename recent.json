@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "LX1",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785649313,
+    "filename": "BootstrapPackagedGame-HONOR-LGN-LX1-Adreno__TM__610-1785649313.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__644",
     "timestamp": 1785634665,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M556B-Adreno__TM__644-1785634665.json"
-  },
-  {
-    "game": "GVIX",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785632909,
-    "filename": "GVIX-INFINIX-Infinix_X6885-Mali-G57_MC2-1785632909.json"
   }
 ]
