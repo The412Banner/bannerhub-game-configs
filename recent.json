@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_18",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785691616,
+    "filename": "FIFA_18-samsung-SM-S938B-Adreno__TM__830-1785691616.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1785672472,
     "filename": "Nfsu2-Xiaomi-2511FPC34G-Mali-G720_MC8-1785672472.json"
-  },
-  {
-    "game": "Nfsu",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1785672457,
-    "filename": "Nfsu-Xiaomi-2511FPC34G-Mali-G720_MC8-1785672457.json"
   }
 ]
