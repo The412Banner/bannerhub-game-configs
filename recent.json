@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Enhanced",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1785636485,
+    "filename": "Grand_Theft_Auto_V_Enhanced-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785636485.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785623094,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1785623094.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1785622397,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22101316UP-Mali-G68_MC4-1785622397.json"
   }
 ]
