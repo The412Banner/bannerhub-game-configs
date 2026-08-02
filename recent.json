@@ -1,5 +1,12 @@
 [
   {
+    "game": "Brick_Rigs",
+    "manufacturer": "motorola_edge_70_fusion",
+    "device": "Adreno__TM__810",
+    "timestamp": 1785666881,
+    "filename": "Brick_Rigs-motorola-motorola_edge_70_fusion-Adreno__TM__810-1785666881.json"
+  },
+  {
     "game": "Simpsons_Hit___Run__TM_",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1785651190,
     "filename": "Halo_-_Spartan_Strike_______________________________________-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785651190.json"
-  },
-  {
-    "game": "Wolf2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1785651184,
-    "filename": "Wolf2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785651184.json"
   }
 ]
