@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785634936,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1785634936.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M556B",
     "device": "Adreno__TM__644",
     "timestamp": 1785634665,
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785621863,
     "filename": "Sonic_Mania_Lite-realme-RMX5313-Mali-G57-1785621863.json"
-  },
-  {
-    "game": "Hollow_Knight",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1785621208,
-    "filename": "Hollow_Knight-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1785621208.json"
   }
 ]
