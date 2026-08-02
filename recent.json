@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_Of_War_II",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1785640443,
+    "filename": "God_Of_War_II-Xiaomi-2311DRK48G-Mali-G615_MC6-1785640443.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1785624685,
     "filename": "American_Truck_Simulator-Xiaomi-2207117BPG-Mali-G76-1785624685.json"
-  },
-  {
-    "game": "setup",
-    "manufacturer": "CPH2727",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785624212,
-    "filename": "setup-OPPO-CPH2727-Adreno__TM__610-1785624212.json"
   }
 ]
