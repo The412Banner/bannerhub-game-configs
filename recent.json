@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785687049,
+    "filename": "Grand_Theft_Auto_V-motorola-moto_g06-Mali-G52_MC2-1785687049.json"
+  },
+  {
     "game": "Assassin_s_Creed__Rogue",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1785660606,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1785660606.json"
-  },
-  {
-    "game": "OuterWilds",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1785660373,
-    "filename": "OuterWilds-ayn-Odin3-Adreno__TM__830-1785660373.json"
   }
 ]
