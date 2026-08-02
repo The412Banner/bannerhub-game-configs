@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S731B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1785698026,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1785698026.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "moto_g42",
     "device": "Adreno__TM__610",
     "timestamp": 1785696483,
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785678963,
     "filename": "Euro_Truck_Simulator_2-motorola-moto_g04s-Mali-G57-1785678963.json"
-  },
-  {
-    "game": "Magical_Girl_Witch_Trials",
-    "manufacturer": "X900",
-    "device": "Adreno__TM__730",
-    "timestamp": 1785678643,
-    "filename": "Magical_Girl_Witch_Trials-samsung-SM-X900-Adreno__TM__730-1785678643.json"
   }
 ]
