@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_SPORTS__FIFA_23",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785711976,
+    "filename": "EA_SPORTS__FIFA_23-nubia-NX799J-Adreno__TM__830-1785711976.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "22101320G",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785692367,
     "filename": "Undertale-motorola-moto_g05-Mali-G52_MC2-1785692367.json"
-  },
-  {
-    "game": "FIFA_18",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1785691616,
-    "filename": "FIFA_18-samsung-SM-S938B-Adreno__TM__830-1785691616.json"
   }
 ]
