@@ -1,5 +1,12 @@
 [
   {
+    "game": "Simpsons_Hit___Run__TM_",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1785664064,
+    "filename": "Simpsons_Hit___Run__TM_-Xiaomi-M2101K7BI-Mali-G76-1785664064.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1785651184,
     "filename": "Wolf2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785651184.json"
-  },
-  {
-    "game": "DEAD_OR_ALIVE_5_Last_Round__Core_Fighters",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1785651175,
-    "filename": "DEAD_OR_ALIVE_5_Last_Round__Core_Fighters-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785651175.json"
   }
 ]
