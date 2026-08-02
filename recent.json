@@ -1,5 +1,12 @@
 [
   {
+    "game": "Len_s_Island",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785652908,
+    "filename": "Len_s_Island-motorola-moto_g24-Mali-G52_MC2-1785652908.json"
+  },
+  {
     "game": "Halo_-_Spartan_Strike_______________________________________",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1785637808,
     "filename": "Resident_Evil_2-HONOR-DNY-NX9-Adreno__TM__720-1785637808.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Enhanced",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1785636485,
-    "filename": "Grand_Theft_Auto_V_Enhanced-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785636485.json"
   }
 ]
