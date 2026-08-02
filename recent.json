@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1785702299,
+    "filename": "Left_4_Dead-motorola-motorola_edge_60_fusion-Mali-G615_MC2-1785702299.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785687049,
     "filename": "Grand_Theft_Auto_V-motorola-moto_g06-Mali-G52_MC2-1785687049.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Rogue",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785683984,
-    "filename": "Assassin_s_Creed__Rogue-realme-RMX3930-Mali-G57-1785683984.json"
   }
 ]
