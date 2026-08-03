@@ -1,5 +1,12 @@
 [
   {
+    "game": "SuperMario64HD",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1785771463,
+    "filename": "SuperMario64HD-samsung-SM-G990E-Mali-G78-1785771463.json"
+  },
+  {
     "game": "setup_hitman2_2_0_0_13",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785750030,
     "filename": "CoD2SP_s-OPPO-CPH3669-Adreno__TM__610-1785750030.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1785748203,
-    "filename": "Sleeping_Dogs-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1785748203.json"
   }
 ]
