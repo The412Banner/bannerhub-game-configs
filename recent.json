@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1785726920,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A266M-Mali-G68-1785726920.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G72",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785707773,
     "filename": "Counter_Strike_1_6__________________________________________-samsung-SM-A226BR-Mali-G57_MC2-1785707773.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785707488,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6725-Mali-G57-1785707488.json"
   }
 ]
