@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1785796190,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1785796190.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1785772102,
     "filename": "Resident_Evil_Requiem-AYANEO-Pocket_FIT-Adreno__TM__750-1785772102.json"
-  },
-  {
-    "game": "SuperMario64HD",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1785771463,
-    "filename": "SuperMario64HD-samsung-SM-G990E-Mali-G78-1785771463.json"
   }
 ]
