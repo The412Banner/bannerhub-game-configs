@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "22111317PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1785798216,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22111317PG-Adreno__TM__619-1785798216.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "22101320G",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1785778620,
     "filename": "The_Binding_of_Isaac-vivo-I2405-Adreno__TM__825-1785778620.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785777647,
-    "filename": "Pro_Evolution_Soccer_2013-ZTE-Z2359-Mali-G57-1785777647.json"
   }
 ]
