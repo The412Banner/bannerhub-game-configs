@@ -1,5 +1,12 @@
 [
   {
+    "game": "MONSTER_HUNTER_RISE",
+    "manufacturer": "23127PN0CC",
+    "device": "Adreno__TM__750",
+    "timestamp": 1785767446,
+    "filename": "MONSTER_HUNTER_RISE-Xiaomi-23127PN0CC-Adreno__TM__750-1785767446.json"
+  },
+  {
     "game": "Path_of_Exile",
     "manufacturer": "2304FPN6DG",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1785734252,
     "filename": "Fallout__New_Vegas-nubia-NX809J-Adreno__TM__840-1785734252.json"
-  },
-  {
-    "game": "____2016",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785733497,
-    "filename": "____2016-Xiaomi-M2103K19PG-Mali-G57_MC2-1785733497.json"
   }
 ]
