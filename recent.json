@@ -1,5 +1,12 @@
 [
   {
+    "game": "CoD2SP_s",
+    "manufacturer": "CPH3669",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785719644,
+    "filename": "CoD2SP_s-OPPO-CPH3669-Adreno__TM__610-1785719644.json"
+  },
+  {
     "game": "Need_for_Speed__The_Run",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1785700405,
     "filename": "Farming_Simulator_19-HONOR-BRP-NX1-Adreno__TM__710-1785700405.json"
-  },
-  {
-    "game": "Assassin_s_Creed_II",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1785699693,
-    "filename": "Assassin_s_Creed_II-Nothing-A001-Mali-G615_MC2-1785699693.json"
   }
 ]
