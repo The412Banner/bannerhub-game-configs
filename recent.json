@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785789752,
+    "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-ayn-Odin3-Adreno__TM__830-1785789752.json"
+  },
+  {
     "game": "game",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1785767446,
     "filename": "MONSTER_HUNTER_RISE-Xiaomi-23127PN0CC-Adreno__TM__750-1785767446.json"
-  },
-  {
-    "game": "Path_of_Exile",
-    "manufacturer": "2304FPN6DG",
-    "device": "Adreno__TM__740",
-    "timestamp": 1785767248,
-    "filename": "Path_of_Exile-Xiaomi-2304FPN6DG-Adreno__TM__740-1785767248.json"
   }
 ]
