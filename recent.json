@@ -1,5 +1,12 @@
 [
   {
+    "game": "Path_of_Exile",
+    "manufacturer": "2304FPN6DG",
+    "device": "Adreno__TM__740",
+    "timestamp": 1785767248,
+    "filename": "Path_of_Exile-Xiaomi-2304FPN6DG-Adreno__TM__740-1785767248.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785733497,
     "filename": "____2016-Xiaomi-M2103K19PG-Mali-G57_MC2-1785733497.json"
-  },
-  {
-    "game": "Bulletstorm__Full_Clip_Edition",
-    "manufacturer": "25098RA98G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1785732343,
-    "filename": "Bulletstorm__Full_Clip_Edition-Xiaomi-25098RA98G-Adreno__TM__710-1785732343.json"
   }
 ]
