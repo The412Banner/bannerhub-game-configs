@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cyberpunk_2077",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1785793806,
+    "filename": "Cyberpunk_2077-samsung-SM-A145M-Mali-G52-1785793806.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1785770383,
     "filename": "FIFA_18-samsung-SM-S928B-Adreno__TM__750-1785770383.json"
-  },
-  {
-    "game": "NBA_2K18",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1785768870,
-    "filename": "NBA_2K18-nubia-NP05J-Adreno__TM__830-1785768870.json"
   }
 ]
