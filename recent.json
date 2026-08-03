@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1785779505,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1785779505.json"
+  },
+  {
     "game": "The_Binding_of_Isaac",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__613",
     "timestamp": 1785760291,
     "filename": "Battlefield_3_-Xiaomi-XIG03-Adreno__TM__613-1785760291.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1785756358,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RK2CG-Adreno__TM__750-1785756358.json"
   }
 ]
