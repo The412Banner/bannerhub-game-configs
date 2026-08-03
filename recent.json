@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Requiem",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1785772102,
+    "filename": "Resident_Evil_Requiem-AYANEO-Pocket_FIT-Adreno__TM__750-1785772102.json"
+  },
+  {
     "game": "SuperMario64HD",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785750134,
     "filename": "CoD2SP_s-OPPO-CPH3669-Adreno__TM__610-1785750134.json"
-  },
-  {
-    "game": "CoD2SP_s",
-    "manufacturer": "CPH3669",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785750030,
-    "filename": "CoD2SP_s-OPPO-CPH3669-Adreno__TM__610-1785750030.json"
   }
 ]
