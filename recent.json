@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield_3_",
+    "manufacturer": "XIG03",
+    "device": "Adreno__TM__613",
+    "timestamp": 1785760291,
+    "filename": "Battlefield_3_-Xiaomi-XIG03-Adreno__TM__613-1785760291.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "24117RK2CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1785726392,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G715FN-Mali-G72-1785726392.json"
-  },
-  {
-    "game": "minusb",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1785725210,
-    "filename": "minusb-motorola-motorola_edge_60_fusion-Mali-G615_MC2-1785725210.json"
   }
 ]
