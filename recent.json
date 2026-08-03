@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1785748203,
+    "filename": "Sleeping_Dogs-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1785748203.json"
+  },
+  {
     "game": "Resident_Evil_4_Chainsaw_Demo",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1785713339,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1785713339.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1785713337,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1785713337.json"
   }
 ]
