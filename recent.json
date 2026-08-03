@@ -1,5 +1,12 @@
 [
   {
+    "game": "game",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785789229,
+    "filename": "game-samsung-SM-A325F-Mali-G52_MC2-1785789229.json"
+  },
+  {
     "game": "Assassin_s_creed_brotherhood",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1785767248,
     "filename": "Path_of_Exile-Xiaomi-2304FPN6DG-Adreno__TM__740-1785767248.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1785766057,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-INFINIX-Infinix_X6873-Mali-G615_MC6-1785766057.json"
   }
 ]
