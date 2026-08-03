@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1785719869,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785719869.json"
+  },
+  {
     "game": "CoD2SP_s",
     "manufacturer": "CPH3669",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785701452,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A225M-Mali-G52_MC2-1785701452.json"
-  },
-  {
-    "game": "Farming_Simulator_19",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1785700405,
-    "filename": "Farming_Simulator_19-HONOR-BRP-NX1-Adreno__TM__710-1785700405.json"
   }
 ]
