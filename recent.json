@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bulletstorm__Full_Clip_Edition",
+    "manufacturer": "25098RA98G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1785732343,
+    "filename": "Bulletstorm__Full_Clip_Edition-Xiaomi-25098RA98G-Adreno__TM__710-1785732343.json"
+  },
+  {
     "game": "CelSector_TRIAL",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1785708961,
     "filename": "Psalm_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1785708961.json"
-  },
-  {
-    "game": "Black_Myth__Wukong",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1785708653,
-    "filename": "Black_Myth__Wukong-INFINIX-Infinix_X6873-Mali-G615_MC6-1785708653.json"
   }
 ]
