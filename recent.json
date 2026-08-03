@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1785793030,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M146B-Mali-G68-1785793030.json"
+  },
+  {
     "game": "Plants_vs__Zombies",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1785768870,
     "filename": "NBA_2K18-nubia-NP05J-Adreno__TM__830-1785768870.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man2",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1785768856,
-    "filename": "TheAmazingSpider-Man2-nubia-NP05J-Adreno__TM__830-1785768856.json"
   }
 ]
