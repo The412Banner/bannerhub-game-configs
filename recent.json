@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_creed_brotherhood",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1785788036,
+    "filename": "Assassin_s_creed_brotherhood-TECNO-TECNO_LJ7-Mali-G615_MC2-1785788036.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1785766057,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-INFINIX-Infinix_X6873-Mali-G615_MC6-1785766057.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1785766051,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-INFINIX-Infinix_X6873-Mali-G615_MC6-1785766051.json"
   }
 ]
