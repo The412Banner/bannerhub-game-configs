@@ -1,5 +1,12 @@
 [
   {
+    "game": "NBA_2K18",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785768870,
+    "filename": "NBA_2K18-nubia-NP05J-Adreno__TM__830-1785768870.json"
+  },
+  {
     "game": "TheAmazingSpider-Man2",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1785746185,
     "filename": "Resident_Evil_Requiem-samsung-SM-S938B-Adreno__TM__830-1785746185.json"
-  },
-  {
-    "game": "____________",
-    "manufacturer": "2509FPN0BC",
-    "device": "Adreno__TM__840",
-    "timestamp": 1785741110,
-    "filename": "____________-Xiaomi-2509FPN0BC-Adreno__TM__840-1785741110.json"
   }
 ]
