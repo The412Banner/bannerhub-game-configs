@@ -1,5 +1,12 @@
 [
   {
+    "game": "CelSector_TRIAL",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785730083,
+    "filename": "CelSector_TRIAL-Xiaomi-2212ARNC4L-Mali-G52_MC2-1785730083.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1785708653,
     "filename": "Black_Myth__Wukong-INFINIX-Infinix_X6873-Mali-G615_MC6-1785708653.json"
-  },
-  {
-    "game": "gta-sa",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785708159,
-    "filename": "gta-sa-TECNO-TECNO_KN4-Mali-G52_MC2-1785708159.json"
   }
 ]
