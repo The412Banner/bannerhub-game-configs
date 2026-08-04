@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785881567,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1785881567.json"
+  },
+  {
     "game": "MONSTER_HUNTER_RISE",
     "manufacturer": "motorola_edge_30_ultra",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785842099,
     "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_KJ6-Mali-G57_MC2-1785842099.json"
-  },
-  {
-    "game": "NBA_2K18",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1785836821,
-    "filename": "NBA_2K18-nubia-NP05J-Adreno__TM__830-1785836821.json"
   }
 ]
