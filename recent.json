@@ -3,6 +3,13 @@
     "game": "MaxPayne_Application",
     "manufacturer": "Mali",
     "device": "G68_MC4",
+    "timestamp": 1785833432,
+    "filename": "MaxPayne_Application-OnePlus-IV2201-Mali-G68_MC4-1785833432.json"
+  },
+  {
+    "game": "MaxPayne_Application",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
     "timestamp": 1785830329,
     "filename": "MaxPayne_Application-OnePlus-IV2201-Mali-G68_MC4-1785830329.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1785801036,
     "filename": "____2016-Xiaomi-22101320G-Adreno__TM__642L-1785801036.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785800939,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2310FPCA4G-Mali-G52_MC2-1785800939.json"
   }
 ]
