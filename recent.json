@@ -1,5 +1,12 @@
 [
   {
+    "game": "Titanfall__2",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1785825538,
+    "filename": "Titanfall__2-Xiaomi-25053RT47C-Adreno__TM__825-1785825538.json"
+  },
+  {
     "game": "Call_of_Duty___Ghosts",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1785800634,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785800634.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "22111317PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1785798876,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22111317PG-Adreno__TM__619-1785798876.json"
   }
 ]
