@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1785825569,
+    "filename": "DRAGON_BALL_FighterZ-Xiaomi-25053RT47C-Adreno__TM__825-1785825569.json"
+  },
+  {
     "game": "Titanfall__2",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1785800758,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785800758.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1785800634,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1785800634.json"
   }
 ]
