@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785882300,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1785882300.json"
+  },
+  {
     "game": "Need_for_Speed__Heat",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785846916,
     "filename": "No__I_m_not_a_Human-samsung-SM-A055F-Mali-G52_MC2-1785846916.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2______________________________________",
-    "manufacturer": "2109119DG",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1785843509,
-    "filename": "Euro_Truck_Simulator_2______________________________________-Xiaomi-2109119DG-Adreno__TM__642L-1785843509.json"
   }
 ]
