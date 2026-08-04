@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "S926U",
+    "device": "Adreno__TM__750",
+    "timestamp": 1785877865,
+    "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-S926U-Adreno__TM__750-1785877865.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1785833815,
     "filename": "Pro_Evolution_Soccer_2014_DEMO-samsung-SM-S938B-Adreno__TM__830-1785833815.json"
-  },
-  {
-    "game": "MaxPayne_Application",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1785833432,
-    "filename": "MaxPayne_Application-OnePlus-IV2201-Mali-G68_MC4-1785833432.json"
   }
 ]
