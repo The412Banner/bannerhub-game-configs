@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785842099,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_KJ6-Mali-G57_MC2-1785842099.json"
+  },
+  {
     "game": "NBA_2K18",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785804737,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A175F-Mali-G57_MC2-1785804737.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785804726,
-    "filename": "Grand_Theft_Auto_V-samsung-SM-A175F-Mali-G57_MC2-1785804726.json"
   }
 ]
