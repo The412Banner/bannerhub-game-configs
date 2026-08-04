@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4__2005_",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1785887594,
+    "filename": "Resident_Evil_4__2005_-samsung-SM-A256E-Mali-G68-1785887594.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785857493,
     "filename": "MotoGP_24-vivo-V2110-Mali-G52_MC2-1785857493.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785852677,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1785852677.json"
   }
 ]
