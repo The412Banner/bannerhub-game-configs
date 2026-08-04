@@ -1,5 +1,12 @@
 [
   {
+    "game": "Autorun",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1785881599,
+    "filename": "Autorun-samsung-SM-M146B-Mali-G68-1785881599.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__829",
     "timestamp": 1785842665,
     "filename": "BootstrapPackagedGame-vivo-V2536A-Adreno__TM__829-1785842665.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785842099,
-    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_KJ6-Mali-G57_MC2-1785842099.json"
   }
 ]
