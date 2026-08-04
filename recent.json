@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2______________________________________",
+    "manufacturer": "2109119DG",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1785843509,
+    "filename": "Euro_Truck_Simulator_2______________________________________-Xiaomi-2109119DG-Adreno__TM__642L-1785843509.json"
+  },
+  {
     "game": "Sniper_Elite_3",
     "manufacturer": "Infinix_X6878",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785807893,
     "filename": "Euro_Truck_Simulator_2_Demo-Xiaomi-2409BRN2CA-Mali-G52_MC2-1785807893.json"
-  },
-  {
-    "game": "FIFA_14",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1785807871,
-    "filename": "FIFA_14-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1785807871.json"
   }
 ]
