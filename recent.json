@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1785877854,
+    "filename": "Pro_Evolution_Soccer_2013-LENOVO-TB310FU-Mali-G52_MC2-1785877854.json"
+  },
+  {
     "game": "Farming_Simulator_19",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1785833432,
     "filename": "MaxPayne_Application-OnePlus-IV2201-Mali-G68_MC4-1785833432.json"
-  },
-  {
-    "game": "MaxPayne_Application",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1785830329,
-    "filename": "MaxPayne_Application-OnePlus-IV2201-Mali-G68_MC4-1785830329.json"
   }
 ]
