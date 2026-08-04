@@ -1,5 +1,12 @@
 [
   {
+    "game": "NBA_2K18",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785836821,
+    "filename": "NBA_2K18-nubia-NP05J-Adreno__TM__830-1785836821.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785804726,
     "filename": "Grand_Theft_Auto_V-samsung-SM-A175F-Mali-G57_MC2-1785804726.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785804714,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-A175F-Mali-G57_MC2-1785804714.json"
   }
 ]
