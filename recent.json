@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785903100,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A155M-Mali-G57_MC2-1785903100.json"
+  },
+  {
     "game": "Valiant_Hearts__The_Great_War____Soldats_Inconnus___M_moires_de_la_Grande_Guerre_",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785881567,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1785881567.json"
-  },
-  {
-    "game": "MONSTER_HUNTER_RISE",
-    "manufacturer": "motorola_edge_30_ultra",
-    "device": "Adreno__TM__730",
-    "timestamp": 1785878994,
-    "filename": "MONSTER_HUNTER_RISE-motorola-motorola_edge_30_ultra-Adreno__TM__730-1785878994.json"
   }
 ]
