@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blacklist_Launcher",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785943049,
+    "filename": "Blacklist_Launcher-ayn-Odin3-Adreno__TM__830-1785943049.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1785903168,
     "filename": "POSTAL_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1785903168.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785903100,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A155M-Mali-G57_MC2-1785903100.json"
   }
 ]
