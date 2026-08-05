@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man",
+    "manufacturer": "NX729J",
+    "device": "Adreno__TM__740",
+    "timestamp": 1785939089,
+    "filename": "TheAmazingSpider-Man-nubia-NX729J-Adreno__TM__740-1785939089.json"
+  },
+  {
     "game": "NARAKA__BLADEPOINT",
     "manufacturer": "LX1",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785901390,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1785901390.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "23129RAA4G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785900630,
-    "filename": "BootstrapPackagedGame-Xiaomi-23129RAA4G-Adreno__TM__610-1785900630.json"
   }
 ]
