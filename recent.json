@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield_4_",
+    "manufacturer": "S931B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785962429,
+    "filename": "Battlefield_4_-samsung-SM-S931B-Adreno__TM__830-1785962429.json"
+  },
+  {
     "game": "Voxel_Project",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1785943049,
     "filename": "Blacklist_Launcher-ayn-Odin3-Adreno__TM__830-1785943049.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1785940386,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25053PC47G-Adreno__TM__825-1785940386.json"
   }
 ]
