@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTAV_Mod_Manager",
+    "manufacturer": "V2031",
+    "device": "Adreno__TM__610",
+    "timestamp": 1785948525,
+    "filename": "GTAV_Mod_Manager-vivo-V2031-Adreno__TM__610-1785948525.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "2509FPN0BC",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1785917824,
     "filename": "REANIMAL-Xiaomi-25053PC47G-Adreno__TM__825-1785917824.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1785911468,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1785911468.json"
   }
 ]
