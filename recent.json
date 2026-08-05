@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "I2401",
+    "device": "Adreno__TM__830",
+    "timestamp": 1785945343,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-I2401-Adreno__TM__830-1785945343.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1785908570,
     "filename": "BlackOps-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1785908570.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider",
-    "manufacturer": "M2012K11AC",
-    "device": "Adreno__TM__650",
-    "timestamp": 1785904693,
-    "filename": "Rise_of_the_Tomb_Raider-Xiaomi-M2012K11AC-Adreno__TM__650-1785904693.json"
   }
 ]
