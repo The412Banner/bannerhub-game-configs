@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stellar_Blade_",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1785961372,
+    "filename": "Stellar_Blade_-nubia-NX809J-Adreno__TM__840-1785961372.json"
+  },
+  {
     "game": "F_E_A_R_",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1785938510,
     "filename": "NARAKA__BLADEPOINT-HUAWEI-NCO-LX1-Adreno__TM__642L-1785938510.json"
-  },
-  {
-    "game": "The_Killing_Antidote",
-    "manufacturer": "moto_g53_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1785938430,
-    "filename": "The_Killing_Antidote-motorola-moto_g53_5G-Adreno__TM__619-1785938430.json"
   }
 ]
