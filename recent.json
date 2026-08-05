@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "NX769J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1785927719,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-nubia-NX769J-Adreno__TM__750-1785927719.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1785894090,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX5070-Adreno__TM__810-1785894090.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "RMX5070",
-    "device": "Adreno__TM__810",
-    "timestamp": 1785894040,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5070-Adreno__TM__810-1785894040.json"
   }
 ]
