@@ -3,6 +3,13 @@
     "game": "NARAKA__BLADEPOINT",
     "manufacturer": "LX1",
     "device": "Adreno__TM__642L",
+    "timestamp": 1785938642,
+    "filename": "NARAKA__BLADEPOINT-HUAWEI-NCO-LX1-Adreno__TM__642L-1785938642.json"
+  },
+  {
+    "game": "NARAKA__BLADEPOINT",
+    "manufacturer": "LX1",
+    "device": "Adreno__TM__642L",
     "timestamp": 1785938510,
     "filename": "NARAKA__BLADEPOINT-HUAWEI-NCO-LX1-Adreno__TM__642L-1785938510.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785900630,
     "filename": "BootstrapPackagedGame-Xiaomi-23129RAA4G-Adreno__TM__610-1785900630.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785900601,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1785900601.json"
   }
 ]
