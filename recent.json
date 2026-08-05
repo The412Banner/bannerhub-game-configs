@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_STORM_3_FB",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1785967803,
+    "filename": "NARUTO_STORM_3_FB-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1785967803.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1785945343,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-I2401-Adreno__TM__830-1785945343.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1785944299,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A346E-Mali-G68_MC4-1785944299.json"
   }
 ]
