@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1785911468,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1785911468.json"
+  },
+  {
     "game": "The_Binding_of_Isaac",
     "manufacturer": "_2024",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1785885719,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1785885719.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785882300,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1785882300.json"
   }
 ]
