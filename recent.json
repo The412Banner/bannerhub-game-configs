@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1785972327,
+    "filename": "Tomb_Raider-motorola-moto_g86_5G-Mali-G615_MC2-1785972327.json"
+  },
+  {
     "game": "HoYoPlay",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1785947103,
     "filename": "Resident_Evil_Village-Xiaomi-2509FPN0BC-Adreno__TM__840-1785947103.json"
-  },
-  {
-    "game": "Fields_of_Mistria",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1785946679,
-    "filename": "Fields_of_Mistria-samsung-SM-A075M-Mali-G57_MC2-1785946679.json"
   }
 ]
