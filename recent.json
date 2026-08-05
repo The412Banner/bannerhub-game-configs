@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider",
+    "manufacturer": "M2012K11AC",
+    "device": "Adreno__TM__650",
+    "timestamp": 1785904693,
+    "filename": "Rise_of_the_Tomb_Raider-Xiaomi-M2012K11AC-Adreno__TM__650-1785904693.json"
+  },
+  {
     "game": "POSTAL_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1785881812,
     "filename": "Assassin_s_Creed__Unity-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1785881812.json"
-  },
-  {
-    "game": "Autorun",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1785881599,
-    "filename": "Autorun-samsung-SM-M146B-Mali-G68-1785881599.json"
   }
 ]
