@@ -1,5 +1,12 @@
 [
   {
+    "game": "HoYoPlay",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785970342,
+    "filename": "HoYoPlay-samsung-SM-A155M-Mali-G57_MC2-1785970342.json"
+  },
+  {
     "game": "NARUTO_STORM_3_FB",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785946679,
     "filename": "Fields_of_Mistria-samsung-SM-A075M-Mali-G57_MC2-1785946679.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "I2401",
-    "device": "Adreno__TM__830",
-    "timestamp": 1785945343,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-I2401-Adreno__TM__830-1785945343.json"
   }
 ]
