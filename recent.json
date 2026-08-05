@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_creed_III",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1785932172,
+    "filename": "Assassin_s_creed_III-TECNO-TECNO_LJ7-Mali-G615_MC2-1785932172.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "NX769J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1785894398,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX5070-Adreno__TM__810-1785894398.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "RMX5070",
-    "device": "Adreno__TM__810",
-    "timestamp": 1785894090,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5070-Adreno__TM__810-1785894090.json"
   }
 ]
