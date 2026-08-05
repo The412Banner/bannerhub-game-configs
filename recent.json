@@ -1,5 +1,12 @@
 [
   {
+    "game": "POSTAL_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1785903168,
+    "filename": "POSTAL_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1785903168.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1785881599,
     "filename": "Autorun-samsung-SM-M146B-Mali-G68-1785881599.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785881567,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1785881567.json"
   }
 ]
