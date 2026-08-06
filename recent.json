@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786047081,
+    "filename": "BootstrapPackagedGame-INFINIX-Infinix_X6855-Mali-G57_MC2-1786047081.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1786031482,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-A301XM-Mali-G715-Immortalis_MC11-1786031482.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1786031036,
-    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1786031036.json"
   }
 ]
