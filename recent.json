@@ -1,5 +1,12 @@
 [
   {
+    "game": "Deep_Rock_Galactic",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1786049712,
+    "filename": "Deep_Rock_Galactic-nubia-NX809J-Adreno__TM__840-1786049712.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1786033965,
     "filename": "PRAGMATA-OnePlus-OPD2415-Adreno__TM__830-1786033965.json"
-  },
-  {
-    "game": "SpiritVale",
-    "manufacturer": "2405CRPFDG",
-    "device": "Adreno__TM__710",
-    "timestamp": 1786033750,
-    "filename": "SpiritVale-Xiaomi-2405CRPFDG-Adreno__TM__710-1786033750.json"
   }
 ]
