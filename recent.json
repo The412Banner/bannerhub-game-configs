@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fallout_4",
+    "manufacturer": "F936B",
+    "device": "Adreno__TM__730",
+    "timestamp": 1786008349,
+    "filename": "Fallout_4-samsung-SM-F936B-Adreno__TM__730-1786008349.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "2410CRP4CG",
     "device": "Adreno__TM__732",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785979848,
     "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979848.json"
-  },
-  {
-    "game": "fifaFS",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785979840,
-    "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979840.json"
   }
 ]
