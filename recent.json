@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wolverine",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1786044781,
+    "filename": "Wolverine-Xiaomi-22041216G-Mali-G610_MC6-1786044781.json"
+  },
+  {
     "game": "EA_SPORTS_FC__26",
     "manufacturer": "Infinix_X6816",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1786024199,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1786024199.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G715",
-    "device": "Immortalis_MC11",
-    "timestamp": 1786022474,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-A301XM-Mali-G715-Immortalis_MC11-1786022474.json"
   }
 ]
