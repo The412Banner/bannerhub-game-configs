@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "2410CRP4CG",
+    "device": "Adreno__TM__732",
+    "timestamp": 1786007965,
+    "filename": "Red_Dead_Redemption-Xiaomi-2410CRP4CG-Adreno__TM__732-1786007965.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785979840,
     "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979840.json"
-  },
-  {
-    "game": "fifaFS",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785979835,
-    "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979835.json"
   }
 ]
