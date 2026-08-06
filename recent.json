@@ -3,6 +3,13 @@
     "game": "fifaFS",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1785979763,
+    "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979763.json"
+  },
+  {
+    "game": "fifaFS",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1785979670,
     "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979670.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1785954074,
     "filename": "Pro_Evolution_Soccer_2013_mobile_-INFINIX-Infinix_X6728-Mali-G52_MC2-1785954074.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S731B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1785950472,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1785950472.json"
   }
 ]
