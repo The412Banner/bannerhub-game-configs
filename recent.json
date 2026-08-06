@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__Primal",
+    "manufacturer": "CPH2653",
+    "device": "Adreno__TM__830",
+    "timestamp": 1786059921,
+    "filename": "Far_Cry__Primal-OnePlus-CPH2653-Adreno__TM__830-1786059921.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786035750,
     "filename": "Pro_Evolution_Soccer_2013_pes-motorola-moto_g24-Mali-G52_MC2-1786035750.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786035410,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1786035410.json"
   }
 ]
