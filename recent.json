@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sniper_x86",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1785976281,
+    "filename": "Sniper_x86-Xiaomi-2511FPC34G-Mali-G720_MC8-1785976281.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1785948525,
     "filename": "GTAV_Mod_Manager-vivo-V2031-Adreno__TM__610-1785948525.json"
-  },
-  {
-    "game": "Resident_Evil_Village",
-    "manufacturer": "2509FPN0BC",
-    "device": "Adreno__TM__840",
-    "timestamp": 1785947103,
-    "filename": "Resident_Evil_Village-Xiaomi-2509FPN0BC-Adreno__TM__840-1785947103.json"
   }
 ]
