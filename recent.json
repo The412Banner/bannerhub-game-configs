@@ -1,5 +1,12 @@
 [
   {
+    "game": "CAI_Install_Recode",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1786060516,
+    "filename": "CAI_Install_Recode-LENOVO-TB321FU-Adreno__TM__750-1786060516.json"
+  },
+  {
     "game": "Far_Cry__Primal",
     "manufacturer": "CPH2653",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786036153,
     "filename": "Dispatch-unknown-GammaOS_Lite-Mali-G57-1786036153.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013_pes",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786035750,
-    "filename": "Pro_Evolution_Soccer_2013_pes-motorola-moto_g24-Mali-G52_MC2-1786035750.json"
   }
 ]
