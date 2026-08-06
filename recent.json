@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_SPORTS_FC__26",
+    "manufacturer": "Infinix_X6816",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1786043843,
+    "filename": "EA_SPORTS_FC__26-INFINIX_MOBILITY_LIMITED-Infinix_X6816-PowerVR_Rogue_GE8320-1786043843.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1786022474,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-A301XM-Mali-G715-Immortalis_MC11-1786022474.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G715",
-    "device": "Immortalis_MC11",
-    "timestamp": 1786022463,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-A301XM-Mali-G715-Immortalis_MC11-1786022463.json"
   }
 ]
