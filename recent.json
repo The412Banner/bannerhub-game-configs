@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1786039506,
+    "filename": "TheAmazingSpider-Man-samsung-SM-S938B-Adreno__TM__830-1786039506.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1786014562,
     "filename": "Rise_of_the_Tomb_Raider_-INFINIX-Infinix_X6873-Mali-G615_MC6-1786014562.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1786012574,
-    "filename": "Pro_Evolution_Soccer_2017-TECNO-TECNO_LJ7-Mali-G615_MC2-1786012574.json"
   }
 ]
