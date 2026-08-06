@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786049372,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A075M-Mali-G57_MC2-1786049372.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1786033750,
     "filename": "SpiritVale-Xiaomi-2405CRPFDG-Adreno__TM__710-1786033750.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "G715",
-    "device": "Immortalis_MC11",
-    "timestamp": 1786032729,
-    "filename": "Grand_Theft_Auto_V-Xiaomi-A301XM-Mali-G715-Immortalis_MC11-1786032729.json"
   }
 ]
