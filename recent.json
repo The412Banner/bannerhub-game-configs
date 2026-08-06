@@ -3,6 +3,13 @@
     "game": "fifaFS",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1785979840,
+    "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979840.json"
+  },
+  {
+    "game": "fifaFS",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1785979835,
     "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979835.json"
   },
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1785956582,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6873-Mali-G615_MC6-1785956582.json"
-  },
-  {
-    "game": "Blasphemous_2",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1785955954,
-    "filename": "Blasphemous_2-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1785955954.json"
   }
 ]
