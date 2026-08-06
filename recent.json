@@ -3,6 +3,13 @@
     "game": "fifaFS",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1785979670,
+    "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979670.json"
+  },
+  {
+    "game": "fifaFS",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1785979659,
     "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979659.json"
   },
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1785950472,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1785950472.json"
-  },
-  {
-    "game": "Battlefield_4_",
-    "manufacturer": "S931B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1785949042,
-    "filename": "Battlefield_4_-samsung-SM-S931B-Adreno__TM__830-1785949042.json"
   }
 ]
