@@ -3,6 +3,13 @@
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1786047112,
+    "filename": "BootstrapPackagedGame-INFINIX-Infinix_X6855-Mali-G57_MC2-1786047112.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1786047081,
     "filename": "BootstrapPackagedGame-INFINIX-Infinix_X6855-Mali-G57_MC2-1786047081.json"
   },
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1786032729,
     "filename": "Grand_Theft_Auto_V-Xiaomi-A301XM-Mali-G715-Immortalis_MC11-1786032729.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G715",
-    "device": "Immortalis_MC11",
-    "timestamp": 1786031482,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-A301XM-Mali-G715-Immortalis_MC11-1786031482.json"
   }
 ]
