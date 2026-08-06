@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785985424,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_LH7n-Mali-G57_MC2-1785985424.json"
+  },
+  {
     "game": "Conscript_-_Director_s_Cut",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785962418,
     "filename": "Voxel_Project-Xiaomi-24117RN76G-Mali-G57_MC2-1785962418.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1785962413,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1785962413.json"
   }
 ]
