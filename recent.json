@@ -1,5 +1,12 @@
 [
   {
+    "game": "Farming_Simulator_19________________________________________",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__710",
+    "timestamp": 1785995842,
+    "filename": "Farming_Simulator_19________________________________________-HONOR-BRP-NX1-Adreno__TM__710-1785995842.json"
+  },
+  {
     "game": "Farming_Simulator_22_-_Year_1_Bundle________________________",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785979659,
     "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979659.json"
-  },
-  {
-    "game": "Sniper_x86",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1785976281,
-    "filename": "Sniper_x86-Xiaomi-2511FPC34G-Mali-G720_MC8-1785976281.json"
   }
 ]
