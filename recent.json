@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ridge_Racer_Unbounded",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1785982337,
+    "filename": "Ridge_Racer_Unbounded-TECNO-TECNO_LJ9-Mali-G615_MC6-1785982337.json"
+  },
+  {
     "game": "Tomb_Raider_-_Definitive_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1785961372,
     "filename": "Stellar_Blade_-nubia-NX809J-Adreno__TM__840-1785961372.json"
-  },
-  {
-    "game": "F_E_A_R_",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1785961312,
-    "filename": "F_E_A_R_-samsung-SM-S901E-Adreno__TM__730-1785961312.json"
   }
 ]
