@@ -1,5 +1,12 @@
 [
   {
+    "game": "Metro_2033_Redux",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1785982346,
+    "filename": "Metro_2033_Redux-TECNO-TECNO_LJ9-Mali-G615_MC6-1785982346.json"
+  },
+  {
     "game": "Ridge_Racer_Unbounded",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785962224,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1785962224.json"
-  },
-  {
-    "game": "Stellar_Blade_",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1785961372,
-    "filename": "Stellar_Blade_-nubia-NX809J-Adreno__TM__840-1785961372.json"
   }
 ]
