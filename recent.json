@@ -1,5 +1,12 @@
 [
   {
+    "game": "fifaFS",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1785979659,
+    "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979659.json"
+  },
+  {
     "game": "Sniper_x86",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1785949042,
     "filename": "Battlefield_4_-samsung-SM-S931B-Adreno__TM__830-1785949042.json"
-  },
-  {
-    "game": "GTAV_Mod_Manager",
-    "manufacturer": "V2031",
-    "device": "Adreno__TM__610",
-    "timestamp": 1785948525,
-    "filename": "GTAV_Mod_Manager-vivo-V2031-Adreno__TM__610-1785948525.json"
   }
 ]
