@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider_-_Definitive_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1785982331,
+    "filename": "Tomb_Raider_-_Definitive_Edition-TECNO-TECNO_LJ9-Mali-G615_MC6-1785982331.json"
+  },
+  {
     "game": "Skyrim_-_Special_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1785961312,
     "filename": "F_E_A_R_-samsung-SM-S901E-Adreno__TM__730-1785961312.json"
-  },
-  {
-    "game": "F_E_A_R_",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1785961134,
-    "filename": "F_E_A_R_-samsung-SM-S901E-Adreno__TM__730-1785961134.json"
   }
 ]
