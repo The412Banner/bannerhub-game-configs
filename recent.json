@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1785996881,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2420-Mali-G57_MC2-1785996881.json"
+  },
+  {
     "game": "Farming_Simulator_19________________________________________",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785979670,
     "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979670.json"
-  },
-  {
-    "game": "fifaFS",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785979659,
-    "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979659.json"
   }
 ]
