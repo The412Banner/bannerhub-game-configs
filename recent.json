@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1785992448,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1785992448.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1785970342,
     "filename": "HoYoPlay-samsung-SM-A155M-Mali-G57_MC2-1785970342.json"
-  },
-  {
-    "game": "NARUTO_STORM_3_FB",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1785967803,
-    "filename": "NARUTO_STORM_3_FB-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1785967803.json"
   }
 ]
