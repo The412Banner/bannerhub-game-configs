@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1786001558,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5303-Mali-G57-1786001558.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1785979835,
     "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979835.json"
-  },
-  {
-    "game": "fifaFS",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1785979763,
-    "filename": "fifaFS-INFINIX-Infinix_X6725-Mali-G57-1785979763.json"
   }
 ]
