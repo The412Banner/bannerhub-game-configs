@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1786031034,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1786031034.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "LX1",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1785986298,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1785986298.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1785985674,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M536B-Mali-G68_MC4-1785985674.json"
   }
 ]
