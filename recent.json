@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786122886,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1786122886.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "24018RPACG",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786094660,
     "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_CL6-Mali-G57_MC2-1786094660.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "Odin2EX",
-    "device": "Adreno__TM__740",
-    "timestamp": 1786091897,
-    "filename": "Resident_Evil_3-AYN-Odin2EX-Adreno__TM__740-1786091897.json"
   }
 ]
