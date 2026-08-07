@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sifu",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1786107468,
+    "filename": "Sifu-Xiaomi-2602BPC18I-Mali-G925-Immortalis_MC11-1786107468.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786073349,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1786073349.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1786072882,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S901E-Adreno__TM__730-1786072882.json"
   }
 ]
