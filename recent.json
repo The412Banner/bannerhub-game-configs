@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1786064282,
+    "filename": "Far_Cry_3-Xiaomi-2511FPC34G-Mali-G720_MC8-1786064282.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1786044781,
     "filename": "Wolverine-Xiaomi-22041216G-Mali-G610_MC6-1786044781.json"
-  },
-  {
-    "game": "EA_SPORTS_FC__26",
-    "manufacturer": "Infinix_X6816",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1786043843,
-    "filename": "EA_SPORTS_FC__26-INFINIX_MOBILITY_LIMITED-Infinix_X6816-PowerVR_Rogue_GE8320-1786043843.json"
   }
 ]
