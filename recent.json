@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1786110725,
+    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_C671L-Mali-G57-1786110725.json"
+  },
+  {
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1786075832,
     "filename": "Tomb_Raider-Xiaomi-2311DRK48G-Mali-G615_MC6-1786075832.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1786073795,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_50_fusion-Adreno__TM__710-1786073795.json"
   }
 ]
