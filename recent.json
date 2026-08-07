@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1786063855,
+    "filename": "God_of_War-motorola-motorola_edge_50_neo-Mali-G615_MC2-1786063855.json"
+  },
+  {
     "game": "SILENT_HILL_f",
     "manufacturer": "23127PN0CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786042733,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1786042733.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1786042206,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-realme-RMX3870-Mali-G68_MC4-1786042206.json"
   }
 ]
