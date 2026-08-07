@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1786076621,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1786076621.json"
+  },
+  {
     "game": "METAL_GEAR_RISING_REVENGEANCE",
     "manufacturer": "V2505A",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786051688,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1786051688.json"
-  },
-  {
-    "game": "Halo__The_Master_Chief_Collection",
-    "manufacturer": "NT01",
-    "device": "Adreno__TM__750",
-    "timestamp": 1786051289,
-    "filename": "Halo__The_Master_Chief_Collection-nubia-NT01-Adreno__TM__750-1786051289.json"
   }
 ]
