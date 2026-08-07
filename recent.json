@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1786072632,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1786072632.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1786046455,
     "filename": "DP-HUAWEI-MAR-LX1M-Mali-G51-1786046455.json"
-  },
-  {
-    "game": "DP",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1786046460,
-    "filename": "DP-HUAWEI-MAR-LX1M-Mali-G51-1786046460.json"
   }
 ]
