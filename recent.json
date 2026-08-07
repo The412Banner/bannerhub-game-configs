@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Launcher",
+    "manufacturer": "Mali",
+    "device": "G72_MP3",
+    "timestamp": 1786105434,
+    "filename": "GTA_V_Launcher-OPPO-CPH1819-Mali-G72_MP3-1786105434.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786072632,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1786072632.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1786069025,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-realme-RMX3870-Mali-G68_MC4-1786069025.json"
   }
 ]
