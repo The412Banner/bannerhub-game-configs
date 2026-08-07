@@ -1,5 +1,12 @@
 [
   {
+    "game": "Monster_Train_2",
+    "manufacturer": "N975W",
+    "device": "Adreno__TM__640",
+    "timestamp": 1786141818,
+    "filename": "Monster_Train_2-samsung-SM-N975W-Adreno__TM__640-1786141818.json"
+  },
+  {
     "game": "Chained_Echoes",
     "manufacturer": "N975W",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786117384,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1786117384.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786110918,
-    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_C671L-Mali-G57-1786110918.json"
   }
 ]
