@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "S908E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1786107911,
+    "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-S908E-Adreno__TM__730-1786107911.json"
+  },
+  {
     "game": "Sifu",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786073468,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1786073468.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786073349,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1786073349.json"
   }
 ]
