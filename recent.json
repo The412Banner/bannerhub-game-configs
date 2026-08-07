@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__4",
+    "manufacturer": "2201116PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1786091534,
+    "filename": "Far_Cry__4-Xiaomi-2201116PG-Adreno__TM__619-1786091534.json"
+  },
+  {
     "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1786062953,
     "filename": "SILENT_HILL_f-Xiaomi-23127PN0CG-Adreno__TM__750-1786062953.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786060835,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1786060835.json"
   }
 ]
