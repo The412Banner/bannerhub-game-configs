@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1786072882,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S901E-Adreno__TM__730-1786072882.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1786046684,
     "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1786046684.json"
-  },
-  {
-    "game": "DP",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1786046455,
-    "filename": "DP-HUAWEI-MAR-LX1M-Mali-G51-1786046455.json"
   }
 ]
