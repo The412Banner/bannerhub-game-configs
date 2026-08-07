@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786085336,
+    "filename": "BlackOps-motorola-moto_g15-Mali-G52_MC2-1786085336.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1786060516,
     "filename": "CAI_Install_Recode-LENOVO-TB321FU-Adreno__TM__750-1786060516.json"
-  },
-  {
-    "game": "Far_Cry__Primal",
-    "manufacturer": "CPH2653",
-    "device": "Adreno__TM__830",
-    "timestamp": 1786059921,
-    "filename": "Far_Cry__Primal-OnePlus-CPH2653-Adreno__TM__830-1786059921.json"
   }
 ]
