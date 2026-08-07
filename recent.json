@@ -1,5 +1,12 @@
 [
   {
+    "game": "Chained_Echoes",
+    "manufacturer": "N975W",
+    "device": "Adreno__TM__640",
+    "timestamp": 1786141770,
+    "filename": "Chained_Echoes-samsung-SM-N975W-Adreno__TM__640-1786141770.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23028RA60L",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786110918,
     "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_C671L-Mali-G57-1786110918.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786110725,
-    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_C671L-Mali-G57-1786110725.json"
   }
 ]
