@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "Odin2EX",
+    "device": "Adreno__TM__740",
+    "timestamp": 1786091897,
+    "filename": "Resident_Evil_3-AYN-Odin2EX-Adreno__TM__740-1786091897.json"
+  },
+  {
     "game": "Far_Cry__4",
     "manufacturer": "2201116PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1786063855,
     "filename": "God_of_War-motorola-motorola_edge_50_neo-Mali-G615_MC2-1786063855.json"
-  },
-  {
-    "game": "SILENT_HILL_f",
-    "manufacturer": "23127PN0CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1786062953,
-    "filename": "SILENT_HILL_f-Xiaomi-23127PN0CG-Adreno__TM__750-1786062953.json"
   }
 ]
