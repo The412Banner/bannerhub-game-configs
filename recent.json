@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1786069025,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-realme-RMX3870-Mali-G68_MC4-1786069025.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1786046460,
     "filename": "DP-HUAWEI-MAR-LX1M-Mali-G51-1786046460.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786046136,
-    "filename": "BootstrapPackagedGame-INFINIX-Infinix_X6855-Mali-G57_MC2-1786046136.json"
   }
 ]
