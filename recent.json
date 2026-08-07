@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1786133035,
+    "filename": "God_of_War_Ragnar_k-motorola-moto_g35_5G-Mali-G57-1786133035.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1786107437,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2602BPC18I-Mali-G925-Immortalis_MC11-1786107437.json"
-  },
-  {
-    "game": "GTA_V_Launcher",
-    "manufacturer": "Mali",
-    "device": "G72_MP3",
-    "timestamp": 1786105434,
-    "filename": "GTA_V_Launcher-OPPO-CPH1819-Mali-G72_MP3-1786105434.json"
   }
 ]
