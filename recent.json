@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786087132,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-motorola-moto_g15-Mali-G52_MC2-1786087132.json"
+  },
+  {
     "game": "BlackOps",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1786060626,
     "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1786060626.json"
-  },
-  {
-    "game": "CAI_Install_Recode",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1786060516,
-    "filename": "CAI_Install_Recode-LENOVO-TB321FU-Adreno__TM__750-1786060516.json"
   }
 ]
