@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1786064555,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1786064555.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786046136,
     "filename": "BootstrapPackagedGame-INFINIX-Infinix_X6855-Mali-G57_MC2-1786046136.json"
-  },
-  {
-    "game": "Wolverine",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1786044781,
-    "filename": "Wolverine-Xiaomi-22041216G-Mali-G610_MC6-1786044781.json"
   }
 ]
