@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786094660,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_CL6-Mali-G57_MC2-1786094660.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "Odin2EX",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786063972,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1786063972.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1786063855,
-    "filename": "God_of_War-motorola-motorola_edge_50_neo-Mali-G615_MC2-1786063855.json"
   }
 ]
