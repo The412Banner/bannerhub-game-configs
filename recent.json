@@ -1,5 +1,12 @@
 [
   {
+    "game": "World_War_Z",
+    "manufacturer": "Odin2EX",
+    "device": "Adreno__TM__740",
+    "timestamp": 1786200205,
+    "filename": "World_War_Z-AYN-Odin2EX-Adreno__TM__740-1786200205.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786158289,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1786158289.json"
-  },
-  {
-    "game": "The_Amazing_Spider-Man__TM_",
-    "manufacturer": "A366E",
-    "device": "Adreno__TM__710",
-    "timestamp": 1786155543,
-    "filename": "The_Amazing_Spider-Man__TM_-samsung-SM-A366E-Adreno__TM__710-1786155543.json"
   }
 ]
