@@ -1,5 +1,12 @@
 [
   {
+    "game": "Nazi_Zombies__Portable",
+    "manufacturer": "_2024",
+    "device": "Adreno__TM__710",
+    "timestamp": 1786205610,
+    "filename": "Nazi_Zombies__Portable-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1786205610.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1786166946,
     "filename": "NTR_Soccer-vivo-I2407-Adreno__TM__810-1786166946.json"
-  },
-  {
-    "game": "MARVEL_Cosmic_Invasion",
-    "manufacturer": "A566B",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1786165721,
-    "filename": "MARVEL_Cosmic_Invasion-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1786165721.json"
   }
 ]
