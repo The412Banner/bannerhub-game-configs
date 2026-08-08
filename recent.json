@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786205779,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1786205779.json"
+  },
+  {
     "game": "BlackOps",
     "manufacturer": "_2024",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1786184019,
     "filename": "Death_s_Door-samsung-SM-S928B-Adreno__TM__750-1786184019.json"
-  },
-  {
-    "game": "DP",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1786183565,
-    "filename": "DP-Xiaomi-25053PC47G-Adreno__TM__825-1786183565.json"
   }
 ]
