@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_San_Andreas_Retextured_____________________",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786193188,
+    "filename": "Grand_Theft_Auto_San_Andreas_Retextured_____________________-samsung-SM-A055F-Mali-G52_MC2-1786193188.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1786154371,
     "filename": "Caravan_Sandwitch-vivo-I2405-Adreno__TM__825-1786154371.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786153373,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1786153373.json"
   }
 ]
