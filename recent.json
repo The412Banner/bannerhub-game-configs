@@ -1,5 +1,12 @@
 [
   {
+    "game": "MARVEL_Cosmic_Invasion",
+    "manufacturer": "A566B",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1786165721,
+    "filename": "MARVEL_Cosmic_Invasion-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1786165721.json"
+  },
+  {
     "game": "TheAmazingSpider-Man2",
     "manufacturer": "G57",
     "device": "49_1_0_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1786142264,
     "filename": "Metro_2033_Redux-samsung-SM-S948B-Adreno__TM__840-1786142264.json"
-  },
-  {
-    "game": "SkullHorde",
-    "manufacturer": "N975W",
-    "device": "Adreno__TM__640",
-    "timestamp": 1786141830,
-    "filename": "SkullHorde-samsung-SM-N975W-Adreno__TM__640-1786141830.json"
   }
 ]
