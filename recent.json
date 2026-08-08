@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Ghosts",
+    "manufacturer": "25102PCBEG",
+    "device": "Adreno__TM__840",
+    "timestamp": 1786226606,
+    "filename": "Call_of_Duty___Ghosts-Xiaomi-25102PCBEG-Adreno__TM__840-1786226606.json"
+  },
+  {
     "game": "FIFA_18",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1786205644,
     "filename": "BootstrapPackagedGame-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1786205644.json"
-  },
-  {
-    "game": "Borderlands_Game_of_the_Year_Enhanced",
-    "manufacturer": "_2024",
-    "device": "Adreno__TM__710",
-    "timestamp": 1786205631,
-    "filename": "Borderlands_Game_of_the_Year_Enhanced-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1786205631.json"
   }
 ]
