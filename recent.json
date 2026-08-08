@@ -1,5 +1,12 @@
 [
   {
+    "game": "DP",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1786183565,
+    "filename": "DP-Xiaomi-25053PC47G-Adreno__TM__825-1786183565.json"
+  },
+  {
     "game": "Solateria",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786150678,
     "filename": "Resident_Evil_2__R_P_D__Demo_-samsung-SM-A145P-Mali-G52_MC2-1786150678.json"
-  },
-  {
-    "game": "l2",
-    "manufacturer": "moto_e22",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1786150682,
-    "filename": "l2-motorola-moto_e22-PowerVR_Rogue_GE8320-1786150682.json"
   }
 ]
