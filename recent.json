@@ -1,5 +1,12 @@
 [
   {
+    "game": "SLES_556_76_PES_Galaxy_Edition_World_Cup_2026_FINAL_demo",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1786211183,
+    "filename": "SLES_556_76_PES_Galaxy_Edition_World_Cup_2026_FINAL_demo-samsung-SM-A035M-Mali-G57-1786211183.json"
+  },
+  {
     "game": "Call_of_Duty__World_at_War",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786195119,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g17-Mali-G52_MC2-1786195119.json"
-  },
-  {
-    "game": "Fable_Anniversary",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1786194220,
-    "filename": "Fable_Anniversary-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1786194220.json"
   }
 ]
