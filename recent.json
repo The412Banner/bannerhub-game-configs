@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g32",
+    "device": "Adreno__TM__610",
+    "timestamp": 1786221594,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g32-Adreno__TM__610-1786221594.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
     "timestamp": 1786219416,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1786205617,
     "filename": "Exit_the_Gungeon-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1786205617.json"
-  },
-  {
-    "game": "Nazi_Zombies__Portable",
-    "manufacturer": "_2024",
-    "device": "Adreno__TM__710",
-    "timestamp": 1786205610,
-    "filename": "Nazi_Zombies__Portable-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1786205610.json"
   }
 ]
