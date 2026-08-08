@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1786232447,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g84_5G-Adreno__TM__619-1786232447.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
     "timestamp": 1786231716,
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1786210885,
     "filename": "Call_of_Duty__World_at_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1786210885.json"
-  },
-  {
-    "game": "Call_of_Duty__World_at_War",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1786210540,
-    "filename": "Call_of_Duty__World_at_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1786210540.json"
   }
 ]
