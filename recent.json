@@ -1,5 +1,12 @@
 [
   {
+    "game": "GIANTS_Engine",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786200980,
+    "filename": "GIANTS_Engine-INFINIX-Infinix_X6837-Mali-G57_MC2-1786200980.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1786160234,
     "filename": "setup-samsung-SM-A346M-Mali-G68_MC4-1786160234.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g_30_",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786158476,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_30_-Adreno__TM__610-1786158476.json"
   }
 ]
