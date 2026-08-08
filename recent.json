@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786204283,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1786204283.json"
+  },
+  {
     "game": "Sonic_and_the_Fallen_Star",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "49_1_0_",
     "timestamp": 1786164247,
     "filename": "TheAmazingSpider-Man2-Xiaomi-25028RN03A-ANGLE__ARM__Vulkan_1_3_278__Mali-G57__0x90910010____Mali-G57-49_1_0_-1786164247.json"
-  },
-  {
-    "game": "____2016",
-    "manufacturer": "A366E",
-    "device": "Adreno__TM__710",
-    "timestamp": 1786162142,
-    "filename": "____2016-samsung-SM-A366E-Adreno__TM__710-1786162142.json"
   }
 ]
