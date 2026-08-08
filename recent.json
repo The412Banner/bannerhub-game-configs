@@ -1,5 +1,12 @@
 [
   {
+    "game": "l2",
+    "manufacturer": "moto_e22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1786150682,
+    "filename": "l2-motorola-moto_e22-PowerVR_Rogue_GE8320-1786150682.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786122886,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1786122886.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "24018RPACG",
-    "device": "Adreno__TM__740",
-    "timestamp": 1786122851,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-24018RPACG-Adreno__TM__740-1786122851.json"
   }
 ]
