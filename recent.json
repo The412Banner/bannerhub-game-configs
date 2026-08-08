@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786200645,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g17-Mali-G52_MC2-1786200645.json"
+  },
+  {
     "game": "World_War_Z",
     "manufacturer": "Odin2EX",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1786158476,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_30_-Adreno__TM__610-1786158476.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786158289,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1786158289.json"
   }
 ]
