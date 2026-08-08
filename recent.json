@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "_2024",
+    "device": "Adreno__TM__710",
+    "timestamp": 1786205649,
+    "filename": "BlackOps-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1786205649.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "_2024",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1786183565,
     "filename": "DP-Xiaomi-25053PC47G-Adreno__TM__825-1786183565.json"
-  },
-  {
-    "game": "Solateria",
-    "manufacturer": "S928B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1786182219,
-    "filename": "Solateria-samsung-SM-S928B-Adreno__TM__750-1786182219.json"
   }
 ]
