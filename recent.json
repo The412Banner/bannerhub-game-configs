@@ -1,5 +1,12 @@
 [
   {
+    "game": "Atla",
+    "manufacturer": "S928U",
+    "device": "Adreno__TM__750",
+    "timestamp": 1786152152,
+    "filename": "Atla-samsung-SM-S928U-Adreno__TM__750-1786152152.json"
+  },
+  {
     "game": "Resident_Evil_2__R_P_D__Demo_",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1786123238,
     "filename": "The_Sims__-samsung-SM-S938B-Adreno__TM__830-1786123238.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786123058,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1786123058.json"
   }
 ]
