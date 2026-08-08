@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786218209,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155F-Mali-G57_MC2-1786218209.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786204283,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1786204283.json"
-  },
-  {
-    "game": "Sonic_and_the_Fallen_Star",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786201984,
-    "filename": "Sonic_and_the_Fallen_Star-samsung-SM-A065M-Mali-G52_MC2-1786201984.json"
   }
 ]
