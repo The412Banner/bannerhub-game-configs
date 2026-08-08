@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "_2024",
+    "device": "Adreno__TM__710",
+    "timestamp": 1786205644,
+    "filename": "BootstrapPackagedGame-motorola-moto_g_stylus_5G_-_2024-Adreno__TM__710-1786205644.json"
+  },
+  {
     "game": "Borderlands_Game_of_the_Year_Enhanced",
     "manufacturer": "_2024",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1786182219,
     "filename": "Solateria-samsung-SM-S928B-Adreno__TM__750-1786182219.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786180570,
-    "filename": "Resident_Evil_6-TECNO-TECNO_LJ6-Mali-G57_MC2-1786180570.json"
   }
 ]
