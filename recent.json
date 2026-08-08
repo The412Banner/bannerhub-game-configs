@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786199283,
+    "filename": "Tomb_Raider-samsung-SM-A155M-Mali-G57_MC2-1786199283.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1786155543,
     "filename": "The_Amazing_Spider-Man__TM_-samsung-SM-A366E-Adreno__TM__710-1786155543.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1786155413,
-    "filename": "Resident_Evil_5-Xiaomi-2412DPC0AG-Mali-G720_MC7-1786155413.json"
   }
 ]
