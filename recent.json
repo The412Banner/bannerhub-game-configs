@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786216259,
+    "filename": "MiSide-samsung-SM-A075M-Mali-G57_MC2-1786216259.json"
+  },
+  {
     "game": "Agony_______________________________________________________",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786200645,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g17-Mali-G52_MC2-1786200645.json"
-  },
-  {
-    "game": "World_War_Z",
-    "manufacturer": "Odin2EX",
-    "device": "Adreno__TM__740",
-    "timestamp": 1786200205,
-    "filename": "World_War_Z-AYN-Odin2EX-Adreno__TM__740-1786200205.json"
   }
 ]
