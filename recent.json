@@ -1,5 +1,12 @@
 [
   {
+    "game": "____2016",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1786162142,
+    "filename": "____2016-samsung-SM-A366E-Adreno__TM__710-1786162142.json"
+  },
+  {
     "game": "setup",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1786141818,
     "filename": "Monster_Train_2-samsung-SM-N975W-Adreno__TM__640-1786141818.json"
-  },
-  {
-    "game": "Chained_Echoes",
-    "manufacturer": "N975W",
-    "device": "Adreno__TM__640",
-    "timestamp": 1786141770,
-    "filename": "Chained_Echoes-samsung-SM-N975W-Adreno__TM__640-1786141770.json"
   }
 ]
