@@ -1,5 +1,12 @@
 [
   {
+    "game": "NTR_Soccer",
+    "manufacturer": "I2407",
+    "device": "Adreno__TM__810",
+    "timestamp": 1786166946,
+    "filename": "NTR_Soccer-vivo-I2407-Adreno__TM__810-1786166946.json"
+  },
+  {
     "game": "MARVEL_Cosmic_Invasion",
     "manufacturer": "A566B",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786145083,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1786145083.json"
-  },
-  {
-    "game": "Metro_2033_Redux",
-    "manufacturer": "S948B",
-    "device": "Adreno__TM__840",
-    "timestamp": 1786142264,
-    "filename": "Metro_2033_Redux-samsung-SM-S948B-Adreno__TM__840-1786142264.json"
   }
 ]
