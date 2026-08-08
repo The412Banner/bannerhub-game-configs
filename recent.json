@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta-5-kurulum-tamindir",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1786216396,
+    "filename": "gta-5-kurulum-tamindir-Xiaomi-2511FPC34G-Mali-G720_MC8-1786216396.json"
+  },
+  {
     "game": "MiSide",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786200980,
     "filename": "GIANTS_Engine-INFINIX-Infinix_X6837-Mali-G57_MC2-1786200980.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786200645,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g17-Mali-G52_MC2-1786200645.json"
   }
 ]
