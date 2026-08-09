@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__III",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1786311397,
+    "filename": "DARK_SOULS__III-Xiaomi-2510DPC44G-Adreno__TM__830-1786311397.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "S908E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1786282072,
     "filename": "Assassin_s_Creed__Rogue-realme-RMX2170-Adreno__TM__618-1786282072.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786281502,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1786281502.json"
   }
 ]
