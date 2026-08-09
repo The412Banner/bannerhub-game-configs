@@ -1,5 +1,12 @@
 [
   {
+    "game": "BeamNG_drive",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786288685,
+    "filename": "BeamNG_drive-motorola-moto_g24-Mali-G52_MC2-1786288685.json"
+  },
+  {
     "game": "Moonlighter",
     "manufacturer": "25091RP04G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1786275978,
     "filename": "setup-motorola-motorola_edge_30-Adreno__TM__642L-1786275978.json"
-  },
-  {
-    "game": "No__I_m_not_a_Human",
-    "manufacturer": "F721B",
-    "device": "Adreno__TM__730",
-    "timestamp": 1786271250,
-    "filename": "No__I_m_not_a_Human-samsung-SM-F721B-Adreno__TM__730-1786271250.json"
   }
 ]
