@@ -1,5 +1,12 @@
 [
   {
+    "game": "2016",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786234952,
+    "filename": "2016-Xiaomi-2201117PG-Mali-G57_MC2-1786234952.json"
+  },
+  {
     "game": "MONSTER_HUNTER__WORLD",
     "manufacturer": "TB710FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786219884,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-M066B-Mali-G57_MC2-1786219884.json"
-  },
-  {
-    "game": "SLES_556_76_PES_Galaxy_Edition_World_Cup_2026_FINAL_demo",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786211183,
-    "filename": "SLES_556_76_PES_Galaxy_Edition_World_Cup_2026_FINAL_demo-samsung-SM-A035M-Mali-G57-1786211183.json"
   }
 ]
