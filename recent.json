@@ -3,6 +3,13 @@
     "game": "__Stronghold_Crusader",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1786316534,
+    "filename": "__Stronghold_Crusader-Xiaomi-2409BRN2CL-Mali-G52_MC2-1786316534.json"
+  },
+  {
+    "game": "__Stronghold_Crusader",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1786316511,
     "filename": "__Stronghold_Crusader-Xiaomi-2409BRN2CL-Mali-G52_MC2-1786316511.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786287738,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1786287738.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786286157,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1786286157.json"
   }
 ]
