@@ -1,5 +1,12 @@
 [
   {
+    "game": "mcclauncher",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1786300279,
+    "filename": "mcclauncher-Anbernic-RG_406H-Mali-G57-1786300279.json"
+  },
+  {
     "game": "Farming_Simulator_22_-_Platinum_Edition_____________________",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1786281235,
     "filename": "Activision_Spider-Man_3-nubia-NX659J-Adreno__TM__650-1786281235.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786279760,
-    "filename": "BootstrapPackagedGame-INFINIX-Infinix_X6528-Mali-G57-1786279760.json"
   }
 ]
