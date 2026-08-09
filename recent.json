@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dying_Light_2_Stay_Human__Reloaded_Edition",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1786283788,
+    "filename": "Dying_Light_2_Stay_Human__Reloaded_Edition-INFINIX-Infinix_X6528-Mali-G57-1786283788.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1786265852,
     "filename": "Pro_Evolution_Soccer_2017-samsung-SM-G998U-Adreno__TM__660-1786265852.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "G998U",
-    "device": "Adreno__TM__660",
-    "timestamp": 1786265693,
-    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-G998U-Adreno__TM__660-1786265693.json"
   }
 ]
