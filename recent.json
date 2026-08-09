@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "G998U",
+    "device": "Adreno__TM__660",
+    "timestamp": 1786265693,
+    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-G998U-Adreno__TM__660-1786265693.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "CPH2573",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1786237241,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25053PC47G-Adreno__TM__825-1786237241.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786236935,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A075M-Mali-G57_MC2-1786236935.json"
   }
 ]
