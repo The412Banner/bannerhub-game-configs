@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1786290233,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24090RA29G-Mali-G615_MC2-1786290233.json"
+  },
+  {
     "game": "BeamNG_drive",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__A32",
     "timestamp": 1786278728,
     "filename": "Mafia_II__Classic_-samsung-SM-S928B-Adreno__TM__A32-1786278728.json"
-  },
-  {
-    "game": "setup",
-    "manufacturer": "motorola_edge_30",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1786275978,
-    "filename": "setup-motorola-motorola_edge_30-Adreno__TM__642L-1786275978.json"
   }
 ]
