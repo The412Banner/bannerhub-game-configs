@@ -3,6 +3,13 @@
     "game": "SharpEmu",
     "manufacturer": "V2427",
     "device": "Adreno__TM__720",
+    "timestamp": 1786253960,
+    "filename": "SharpEmu-vivo-V2427-Adreno__TM__720-1786253960.json"
+  },
+  {
+    "game": "SharpEmu",
+    "manufacturer": "V2427",
+    "device": "Adreno__TM__720",
     "timestamp": 1786253957,
     "filename": "SharpEmu-vivo-V2427-Adreno__TM__720-1786253957.json"
   },
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1786202136,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-T225-PowerVR_Rogue_GE8320-1786202136.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1786230843,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24090RA29G-Mali-G615_MC2-1786230843.json"
   }
 ]
