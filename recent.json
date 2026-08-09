@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786287738,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1786287738.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1786286157,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1786286157.json"
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786270479,
     "filename": "Elin67-TECNO-TECNO_KJ6-Mali-G57_MC2-1786270479.json"
-  },
-  {
-    "game": "Car_Mechanic_Simulator_2021",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__735",
-    "timestamp": 1786269379,
-    "filename": "Car_Mechanic_Simulator_2021-HONOR-ROD2-W09-Adreno__TM__735-1786269379.json"
   }
 ]
