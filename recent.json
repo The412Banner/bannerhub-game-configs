@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "G1",
+    "device": "Ultra_MC12",
+    "timestamp": 1786316585,
+    "filename": "Hollow_Knight__Silksong-OPPO-CPH2791-Mali-G1-Ultra_MC12-1786316585.json"
+  },
+  {
     "game": "__Stronghold_Crusader",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786288153,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1786288153.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786287738,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1786287738.json"
   }
 ]
