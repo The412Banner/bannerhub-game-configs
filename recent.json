@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1786239496,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g84_5G-Adreno__TM__619-1786239496.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
     "timestamp": 1786237241,
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786218048,
     "filename": "Pro_Evolution_Soccer_2013-realme-realme_Note_60-Mali-G57-1786218048.json"
-  },
-  {
-    "game": "gta-5-kurulum-tamindir",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1786216396,
-    "filename": "gta-5-kurulum-tamindir-Xiaomi-2511FPC34G-Mali-G720_MC8-1786216396.json"
   }
 ]
