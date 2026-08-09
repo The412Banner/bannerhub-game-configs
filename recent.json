@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "CPH2573",
+    "device": "Adreno__TM__750",
+    "timestamp": 1786263260,
+    "filename": "Mortal_Kombat_X-OnePlus-CPH2573-Adreno__TM__750-1786263260.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "CPH2691",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786236935,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A075M-Mali-G57_MC2-1786236935.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1786236756,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-Redmi_Note_8_Pro-Mali-G76_MC4-1786236756.json"
   }
 ]
