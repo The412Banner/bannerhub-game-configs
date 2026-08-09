@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786313535,
+    "filename": "Red_Dead_Redemption_2-realme-RMX3710-Mali-G52_MC2-1786313535.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786283788,
     "filename": "Dying_Light_2_Stay_Human__Reloaded_Edition-INFINIX-Infinix_X6528-Mali-G57-1786283788.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1786282432,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A176B-Mali-G68-1786282432.json"
   }
 ]
