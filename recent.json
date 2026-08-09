@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1786257830,
+    "filename": "Devil_May_Cry_5-Xiaomi-2311DRK48G-Mali-G615_MC6-1786257830.json"
+  },
+  {
     "game": "SharpEmu",
     "manufacturer": "V2427",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1786231716,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1786231716.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "T225",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1786202136,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-T225-PowerVR_Rogue_GE8320-1786202136.json"
   }
 ]
