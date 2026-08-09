@@ -1,5 +1,12 @@
 [
   {
+    "game": "GIANTS_Engine",
+    "manufacturer": "2410CRP4CG",
+    "device": "Adreno__TM__732",
+    "timestamp": 1786281358,
+    "filename": "GIANTS_Engine-Xiaomi-2410CRP4CG-Adreno__TM__732-1786281358.json"
+  },
+  {
     "game": "Activision_Spider-Man_3",
     "manufacturer": "NX659J",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1786260555,
     "filename": "Marvel_s_Spider-Man_2-Xiaomi-22101316G-Mali-G68_MC4-1786260555.json"
-  },
-  {
-    "game": "Devil_May_Cry_5",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1786258342,
-    "filename": "Devil_May_Cry_5-Xiaomi-2311DRK48G-Mali-G615_MC6-1786258342.json"
   }
 ]
