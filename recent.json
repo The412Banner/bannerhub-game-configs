@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man_2",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1786260555,
+    "filename": "Marvel_s_Spider-Man_2-Xiaomi-22101316G-Mali-G68_MC4-1786260555.json"
+  },
+  {
     "game": "Devil_May_Cry_5",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786234952,
     "filename": "2016-Xiaomi-2201117PG-Mali-G57_MC2-1786234952.json"
-  },
-  {
-    "game": "MONSTER_HUNTER__WORLD",
-    "manufacturer": "TB710FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1786234286,
-    "filename": "MONSTER_HUNTER__WORLD-LENOVO-TB710FU-Adreno__TM__750-1786234286.json"
   }
 ]
