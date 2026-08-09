@@ -1,5 +1,12 @@
 [
   {
+    "game": "Farming_Simulator_22_-_Platinum_Edition_____________________",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1786301546,
+    "filename": "Farming_Simulator_22_-_Platinum_Edition_____________________-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1786301546.json"
+  },
+  {
     "game": "mcclauncher",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1786281358,
     "filename": "GIANTS_Engine-Xiaomi-2410CRP4CG-Adreno__TM__732-1786281358.json"
-  },
-  {
-    "game": "Activision_Spider-Man_3",
-    "manufacturer": "NX659J",
-    "device": "Adreno__TM__650",
-    "timestamp": 1786281235,
-    "filename": "Activision_Spider-Man_3-nubia-NX659J-Adreno__TM__650-1786281235.json"
   }
 ]
