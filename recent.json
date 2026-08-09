@@ -1,5 +1,12 @@
 [
   {
+    "game": "Elin67",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786270479,
+    "filename": "Elin67-TECNO-TECNO_KJ6-Mali-G57_MC2-1786270479.json"
+  },
+  {
     "game": "Car_Mechanic_Simulator_2021",
     "manufacturer": "W09",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786248529,
     "filename": "Hitman__Absolution_-INFINIX-Infinix_X6855-Mali-G57_MC2-1786248529.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1786243067,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1786243067.json"
   }
 ]
