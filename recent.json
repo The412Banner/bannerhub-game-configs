@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1786279583,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1786279583.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
     "timestamp": 1786279177,
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1786257830,
     "filename": "Devil_May_Cry_5-Xiaomi-2311DRK48G-Mali-G615_MC6-1786257830.json"
-  },
-  {
-    "game": "SharpEmu",
-    "manufacturer": "V2427",
-    "device": "Adreno__TM__720",
-    "timestamp": 1786253960,
-    "filename": "SharpEmu-vivo-V2427-Adreno__TM__720-1786253960.json"
   }
 ]
