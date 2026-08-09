@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1786281502,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1786281502.json"
+  },
+  {
     "game": "GIANTS_Engine",
     "manufacturer": "2410CRP4CG",
     "device": "Adreno__TM__732",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1786261427,
     "filename": "DRAGON_BALL__Sparking__ZERO-OnePlus-CPH2691-Adreno__TM__750-1786261427.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man_2",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1786260555,
-    "filename": "Marvel_s_Spider-Man_2-Xiaomi-22101316G-Mali-G68_MC4-1786260555.json"
   }
 ]
