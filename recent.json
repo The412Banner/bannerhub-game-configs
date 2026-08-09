@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "23077RABDC",
+    "device": "Adreno__TM__613",
+    "timestamp": 1786314664,
+    "filename": "God_of_War_Ragnar_k-Xiaomi-23077RABDC-Adreno__TM__613-1786314664.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1786284621,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1786284621.json"
-  },
-  {
-    "game": "Dying_Light_2_Stay_Human__Reloaded_Edition",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786283788,
-    "filename": "Dying_Light_2_Stay_Human__Reloaded_Edition-INFINIX-Infinix_X6528-Mali-G57-1786283788.json"
   }
 ]
