@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hitman__Absolution_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786248529,
+    "filename": "Hitman__Absolution_-INFINIX-Infinix_X6855-Mali-G57_MC2-1786248529.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786226590,
     "filename": "FIFA_18-samsung-SM-A155M-Mali-G57_MC2-1786226590.json"
-  },
-  {
-    "game": "Raft",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1786225214,
-    "filename": "Raft-motorola-moto_g75_5G-Adreno__TM__710-1786225214.json"
   }
 ]
