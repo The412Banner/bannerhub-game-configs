@@ -3,6 +3,13 @@
     "game": "prototype2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
+    "timestamp": 1786338010,
+    "filename": "prototype2-INFINIX-Infinix_X6873-Mali-G615_MC6-1786338010.json"
+  },
+  {
+    "game": "prototype2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
     "timestamp": 1786337961,
     "filename": "prototype2-INFINIX-Infinix_X6873-Mali-G615_MC6-1786337961.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786316534,
     "filename": "__Stronghold_Crusader-Xiaomi-2409BRN2CL-Mali-G52_MC2-1786316534.json"
-  },
-  {
-    "game": "__Stronghold_Crusader",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786316511,
-    "filename": "__Stronghold_Crusader-Xiaomi-2409BRN2CL-Mali-G52_MC2-1786316511.json"
   }
 ]
