@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grim_Dawn",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1786401342,
+    "filename": "Grim_Dawn-nubia-NX809J-Adreno__TM__840-1786401342.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2201117TL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786374752,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A175F-Mali-G57_MC2-1786374752.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786371200,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1786371200.json"
   }
 ]
