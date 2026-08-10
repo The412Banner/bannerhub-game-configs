@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mad_Max",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1786324711,
+    "filename": "Mad_Max-Xiaomi-2412DPC0AG-Mali-G720_MC7-1786324711.json"
+  },
+  {
     "game": "Hatred",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__613",
     "timestamp": 1786314664,
     "filename": "God_of_War_Ragnar_k-Xiaomi-23077RABDC-Adreno__TM__613-1786314664.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786313535,
-    "filename": "Red_Dead_Redemption_2-realme-RMX3710-Mali-G52_MC2-1786313535.json"
   }
 ]
