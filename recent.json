@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786386917,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KM9-Mali-G57_MC2-1786386917.json"
+  },
+  {
     "game": "AC3SP",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786357874,
     "filename": "The_Last_of_Us__Part_I-INFINIX-Infinix_X6833B-Mali-G57_MC2-1786357874.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1786356862,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1786356862.json"
   }
 ]
