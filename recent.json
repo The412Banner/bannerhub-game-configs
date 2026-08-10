@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia__Definitive_Edition",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1786349491,
+    "filename": "Mafia__Definitive_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1786349491.json"
+  },
+  {
     "game": "Watch_Dogs_",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786322396,
     "filename": "F1_2014-motorola-moto_g06-Mali-G52_MC2-1786322396.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "A235F",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786322107,
-    "filename": "DARK_SOULS___REMASTERED-samsung-SM-A235F-Adreno__TM__610-1786322107.json"
   }
 ]
