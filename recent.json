@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alan_Wake",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786381542,
+    "filename": "Alan_Wake-TECNO-TECNO_LJ6-Mali-G57_MC2-1786381542.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013_Yure",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1786351519,
     "filename": "Final_Fantasy_XI_-Xiaomi-25053PC47G-Adreno__TM__825-1786351519.json"
-  },
-  {
-    "game": "Tormented_Souls_2",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1786351499,
-    "filename": "Tormented_Souls_2-Xiaomi-25053PC47G-Adreno__TM__825-1786351499.json"
   }
 ]
