@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2014",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786322396,
+    "filename": "F1_2014-motorola-moto_g06-Mali-G52_MC2-1786322396.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "A235F",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1786311397,
     "filename": "DARK_SOULS__III-Xiaomi-2510DPC44G-Adreno__TM__830-1786311397.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "S908E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1786309932,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S908E-Adreno__TM__730-1786309932.json"
   }
 ]
