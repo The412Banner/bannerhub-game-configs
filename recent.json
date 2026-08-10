@@ -1,5 +1,12 @@
 [
   {
+    "game": "Final_Fantasy_XI_",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1786353522,
+    "filename": "Final_Fantasy_XI_-Xiaomi-25053PC47G-Adreno__TM__825-1786353522.json"
+  },
+  {
     "game": "Super_Power_Racing_Demo_exe",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1786345842,
     "filename": "Final_Fantasy_XI_-Xiaomi-25053PC47G-Adreno__TM__825-1786345842.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "G1",
-    "device": "Ultra_MC12",
-    "timestamp": 1786345842,
-    "filename": "Hollow_Knight__Silksong-OPPO-CPH2791-Mali-G1-Ultra_MC12-1786345842.json"
   }
 ]
