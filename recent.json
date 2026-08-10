@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "S938U1",
+    "device": "Adreno__TM__830",
+    "timestamp": 1786359131,
+    "filename": "Resident_Evil_2-samsung-SM-S938U1-Adreno__TM__830-1786359131.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1786349491,
     "filename": "Mafia__Definitive_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1786349491.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1786349155,
-    "filename": "Watch_Dogs_-Xiaomi-25053PC47G-Adreno__TM__825-1786349155.json"
   }
 ]
