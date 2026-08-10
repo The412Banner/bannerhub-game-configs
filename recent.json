@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786402122,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2303ERA42L-Mali-G57_MC2-1786402122.json"
+  },
+  {
     "game": "Grim_Dawn",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1786375137,
     "filename": "HaveaNiceDeath-Xiaomi-2511FPC34G-Mali-G720_MC8-1786375137.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786374752,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A175F-Mali-G57_MC2-1786374752.json"
   }
 ]
