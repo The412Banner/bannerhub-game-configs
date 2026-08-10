@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786381562,
+    "filename": "Devil_May_Cry_4_Special_Edition-TECNO-TECNO_LJ6-Mali-G57_MC2-1786381562.json"
+  },
+  {
     "game": "Alan_Wake",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786352001,
     "filename": "Super_Power_Racing_Demo_exe-motorola-moto_g05-Mali-G52_MC2-1786352001.json"
-  },
-  {
-    "game": "Final_Fantasy_XI_",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1786351519,
-    "filename": "Final_Fantasy_XI_-Xiaomi-25053PC47G-Adreno__TM__825-1786351519.json"
   }
 ]
