@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786403114,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1786403114.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1786402477,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1786402477.json"
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1786378913,
     "filename": "Rocket_League-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1786378913.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1786378264,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25079RPDCG-Mali-G925-Immortalis_MC12-1786378264.json"
   }
 ]
