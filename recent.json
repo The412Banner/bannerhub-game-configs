@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1786356862,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1786356862.json"
+  },
+  {
     "game": "Mortal_Kombat_11",
     "manufacturer": "NX9",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1786346643,
     "filename": "FINAL_FANTASY_X_X-2_HD_Remaster-Xiaomi-25053PC47G-Adreno__TM__825-1786346643.json"
-  },
-  {
-    "game": "Celeste",
-    "manufacturer": "G1",
-    "device": "Ultra_MC12",
-    "timestamp": 1786346057,
-    "filename": "Celeste-OPPO-CPH2791-Mali-G1-Ultra_MC12-1786346057.json"
   }
 ]
