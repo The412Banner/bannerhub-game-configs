@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "A235F",
+    "device": "Adreno__TM__610",
+    "timestamp": 1786322107,
+    "filename": "DARK_SOULS___REMASTERED-samsung-SM-A235F-Adreno__TM__610-1786322107.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1786309932,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S908E-Adreno__TM__730-1786309932.json"
-  },
-  {
-    "game": "Farming_Simulator_22_-_Platinum_Edition_____________________",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1786301546,
-    "filename": "Farming_Simulator_22_-_Platinum_Edition_____________________-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1786301546.json"
   }
 ]
