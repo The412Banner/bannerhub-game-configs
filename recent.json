@@ -1,5 +1,12 @@
 [
   {
+    "game": "Insurgency",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786344488,
+    "filename": "Insurgency-INFINIX-Infinix_X6881-Mali-G57_MC2-1786344488.json"
+  },
+  {
     "game": "Gang_Beasts",
     "manufacturer": "A566B",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1786318404,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g34_5G-Adreno__TM__619-1786318404.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "G1",
-    "device": "Ultra_MC12",
-    "timestamp": 1786316585,
-    "filename": "Hollow_Knight__Silksong-OPPO-CPH2791-Mali-G1-Ultra_MC12-1786316585.json"
   }
 ]
