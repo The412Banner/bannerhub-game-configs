@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Revelations",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1786320250,
+    "filename": "Resident_Evil_Revelations-Xiaomi-25053PC47G-Adreno__TM__825-1786320250.json"
+  },
+  {
     "game": "60_Seconds__Reatomized",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786300279,
     "filename": "mcclauncher-Anbernic-RG_406H-Mali-G57-1786300279.json"
-  },
-  {
-    "game": "Farming_Simulator_22_-_Platinum_Edition_____________________",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1786300095,
-    "filename": "Farming_Simulator_22_-_Platinum_Edition_____________________-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1786300095.json"
   }
 ]
