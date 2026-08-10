@@ -1,5 +1,12 @@
 [
   {
+    "game": "AI_The_Somnium_Files",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1786351461,
+    "filename": "AI_The_Somnium_Files-Xiaomi-25053PC47G-Adreno__TM__825-1786351461.json"
+  },
+  {
     "game": "Avatar",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1786337961,
     "filename": "prototype2-INFINIX-Infinix_X6873-Mali-G615_MC6-1786337961.json"
-  },
-  {
-    "game": "Metaphor__ReFantazio",
-    "manufacturer": "Pocket_FIT_Elite",
-    "device": "Adreno__TM__830",
-    "timestamp": 1786335282,
-    "filename": "Metaphor__ReFantazio-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1786335282.json"
   }
 ]
