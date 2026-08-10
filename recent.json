@@ -1,5 +1,12 @@
 [
   {
+    "game": "Gang_Beasts",
+    "manufacturer": "A566B",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1786343142,
+    "filename": "Gang_Beasts-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1786343142.json"
+  },
+  {
     "game": "prototype2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Ultra_MC12",
     "timestamp": 1786316585,
     "filename": "Hollow_Knight__Silksong-OPPO-CPH2791-Mali-G1-Ultra_MC12-1786316585.json"
-  },
-  {
-    "game": "__Stronghold_Crusader",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786316534,
-    "filename": "__Stronghold_Crusader-Xiaomi-2409BRN2CL-Mali-G52_MC2-1786316534.json"
   }
 ]
