@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tormented_Souls_2",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1786347593,
+    "filename": "Tormented_Souls_2-Xiaomi-25053PC47G-Adreno__TM__825-1786347593.json"
+  },
+  {
     "game": "FINAL_FANTASY_X_X-2_HD_Remaster",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1786320250,
     "filename": "Resident_Evil_Revelations-Xiaomi-25053PC47G-Adreno__TM__825-1786320250.json"
-  },
-  {
-    "game": "60_Seconds__Reatomized",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786319767,
-    "filename": "60_Seconds__Reatomized-Xiaomi-2310FPCA4G-Mali-G52_MC2-1786319767.json"
   }
 ]
