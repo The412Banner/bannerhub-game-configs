@@ -1,5 +1,12 @@
 [
   {
+    "game": "_NINJA_GAIDEN__Master_Collection__NINJA_GAIDEN__",
+    "manufacturer": "ASUSAI2501C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1786381771,
+    "filename": "_NINJA_GAIDEN__Master_Collection__NINJA_GAIDEN__-asus-ASUSAI2501C-Adreno__TM__830-1786381771.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1786353522,
     "filename": "Final_Fantasy_XI_-Xiaomi-25053PC47G-Adreno__TM__825-1786353522.json"
-  },
-  {
-    "game": "Super_Power_Racing_Demo_exe",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786352001,
-    "filename": "Super_Power_Racing_Demo_exe-motorola-moto_g05-Mali-G52_MC2-1786352001.json"
   }
 ]
