@@ -1,5 +1,12 @@
 [
   {
+    "game": "Metaphor__ReFantazio",
+    "manufacturer": "Pocket_FIT_Elite",
+    "device": "Adreno__TM__830",
+    "timestamp": 1786335282,
+    "filename": "Metaphor__ReFantazio-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1786335282.json"
+  },
+  {
     "game": "fifa14-3dm",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786315934,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1786315934.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786315868,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1786315868.json"
   }
 ]
