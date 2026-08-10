@@ -1,5 +1,12 @@
 [
   {
+    "game": "prototype2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1786337961,
+    "filename": "prototype2-INFINIX-Infinix_X6873-Mali-G615_MC6-1786337961.json"
+  },
+  {
     "game": "Metaphor__ReFantazio",
     "manufacturer": "Pocket_FIT_Elite",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786316511,
     "filename": "__Stronghold_Crusader-Xiaomi-2409BRN2CL-Mali-G52_MC2-1786316511.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786315934,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1786315934.json"
   }
 ]
