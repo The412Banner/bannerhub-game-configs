@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1786386983,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KM9-Mali-G57_MC2-1786386983.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1786386976,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KM9-Mali-G57_MC2-1786386976.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1786359131,
     "filename": "Resident_Evil_2-samsung-SM-S938U1-Adreno__TM__830-1786359131.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786358919,
-    "filename": "BootstrapPackagedGame-TCL-9185W-Mali-G57_MC2-1786358919.json"
   }
 ]
