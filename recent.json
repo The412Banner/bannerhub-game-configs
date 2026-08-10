@@ -1,5 +1,12 @@
 [
   {
+    "game": "Avatar",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1786351428,
+    "filename": "Avatar-Xiaomi-25053PC47G-Adreno__TM__825-1786351428.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1786335282,
     "filename": "Metaphor__ReFantazio-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1786335282.json"
-  },
-  {
-    "game": "fifa14-3dm",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1786332754,
-    "filename": "fifa14-3dm-Xiaomi-24090RA29G-Mali-G615_MC2-1786332754.json"
   }
 ]
