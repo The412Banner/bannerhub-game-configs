@@ -1,5 +1,12 @@
 [
   {
+    "game": "SupraMayro64FM",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1786459697,
+    "filename": "SupraMayro64FM-Xiaomi-M2004J19C-Mali-G52-1786459697.json"
+  },
+  {
     "game": "_____2019",
     "manufacturer": "motorola_edge_70_fusion",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1786411719,
     "filename": "Red_Dead_Redemption-realme-RMX5566-Adreno__TM__610-1786411719.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1786410936,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1786410936.json"
   }
 ]
