@@ -1,5 +1,12 @@
 [
   {
+    "game": "Unpacking",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1786463904,
+    "filename": "Unpacking-Xiaomi-M2004J19C-Mali-G52-1786463904.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1786417405,
     "filename": "Aliens_vs__Predator_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1786417405.json"
-  },
-  {
-    "game": "Cuphead",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786415486,
-    "filename": "Cuphead-motorola-moto_g06-Mali-G52_MC2-1786415486.json"
   }
 ]
