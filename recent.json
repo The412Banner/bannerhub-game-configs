@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1786467165,
+    "filename": "Left_4_Dead-Xiaomi-25053PC47G-Adreno__TM__825-1786467165.json"
+  },
+  {
     "game": "KAHRETSIN",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1786440637,
     "filename": "NBA_2K23-INFINIX-Infinix_X1301-Adreno__TM__660-1786440637.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A235F",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786436996,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A235F-Adreno__TM__610-1786436996.json"
   }
 ]
