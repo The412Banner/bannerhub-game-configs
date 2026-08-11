@@ -1,5 +1,12 @@
 [
   {
+    "game": "_____2019",
+    "manufacturer": "motorola_edge_70_fusion",
+    "device": "Adreno__TM__810",
+    "timestamp": 1786458616,
+    "filename": "_____2019-motorola-motorola_edge_70_fusion-Adreno__TM__810-1786458616.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g53_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1786410936,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1786410936.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider_",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__810",
-    "timestamp": 1786410439,
-    "filename": "Rise_of_the_Tomb_Raider_-HONOR-MTN-NX1-Adreno__TM__810-1786410439.json"
   }
 ]
