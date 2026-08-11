@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1786407671,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A256E-Mali-G68-1786407671.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786386966,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KM9-Mali-G57_MC2-1786386966.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786386917,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KM9-Mali-G57_MC2-1786386917.json"
   }
 ]
