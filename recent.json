@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G715",
+    "timestamp": 1786420503,
+    "filename": "Pro_Evolution_Soccer_2013-Google-Pixel_9a-Mali-G715-1786420503.json"
+  },
+  {
     "game": "Aliens_vs__Predator_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786402477,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1786402477.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786402122,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2303ERA42L-Mali-G57_MC2-1786402122.json"
   }
 ]
