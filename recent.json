@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786461231,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2303CRA44A-Mali-G57_MC2-1786461231.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1786412980,
     "filename": "Left_4_Dead_2-Xiaomi-23113RKC6G-Adreno__TM__740-1786412980.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1786412972,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-23113RKC6G-Adreno__TM__740-1786412972.json"
   }
 ]
