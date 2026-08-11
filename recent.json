@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1786477463,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e32-Mali-G57-1786477463.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1786459697,
     "filename": "SupraMayro64FM-Xiaomi-M2004J19C-Mali-G52-1786459697.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "motorola_edge_70_fusion",
-    "device": "Adreno__TM__810",
-    "timestamp": 1786458616,
-    "filename": "_____2019-motorola-motorola_edge_70_fusion-Adreno__TM__810-1786458616.json"
   }
 ]
