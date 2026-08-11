@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Origins",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1786467913,
+    "filename": "Assassin_s_Creed__Origins-AYN-Odin2-Adreno__TM__740-1786467913.json"
+  },
+  {
     "game": "WWE_2K19",
     "manufacturer": "V2427",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786455405,
     "filename": "Red_Dead_Redemption-Xiaomi-22120RN86G-Mali-G52_MC2-1786455405.json"
-  },
-  {
-    "game": "Ninja_Blade",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786454918,
-    "filename": "Ninja_Blade-TECNO-TECNO_LJ6-Mali-G57_MC2-1786454918.json"
   }
 ]
