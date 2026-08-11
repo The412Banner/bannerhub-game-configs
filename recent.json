@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g53_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1786457325,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g53_5G-Adreno__TM__619-1786457325.json"
+  },
+  {
     "game": "Street_Fighter_X_Tekken",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1786410439,
     "filename": "Rise_of_the_Tomb_Raider_-HONOR-MTN-NX1-Adreno__TM__810-1786410439.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1786407843,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A256E-Mali-G68-1786407843.json"
   }
 ]
