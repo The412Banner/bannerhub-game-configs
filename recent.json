@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786455405,
+    "filename": "Red_Dead_Redemption-Xiaomi-22120RN86G-Mali-G52_MC2-1786455405.json"
+  },
+  {
     "game": "Ninja_Blade",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1786407671,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A256E-Mali-G68-1786407671.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786407615,
-    "filename": "Grand_Theft_Auto_V_Legacy-Blackview-BV9300_Pro-Mali-G57_MC2-1786407615.json"
   }
 ]
