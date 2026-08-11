@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786415486,
+    "filename": "Cuphead-motorola-moto_g06-Mali-G52_MC2-1786415486.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1786401342,
     "filename": "Grim_Dawn-nubia-NX809J-Adreno__TM__840-1786401342.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2201117TL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786398723,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TL-Adreno__TM__610-1786398723.json"
   }
 ]
