@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1786412972,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-23113RKC6G-Adreno__TM__740-1786412972.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1786398714,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TL-Adreno__TM__610-1786398714.json"
-  },
-  {
-    "game": "FINAL_FANTASY_VII_REMAKE_INTERGRADE",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1786393647,
-    "filename": "FINAL_FANTASY_VII_REMAKE_INTERGRADE-Xiaomi-25053PC47G-Adreno__TM__825-1786393647.json"
   }
 ]
