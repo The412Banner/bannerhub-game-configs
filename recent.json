@@ -1,5 +1,12 @@
 [
   {
+    "game": "ELDEN_RING",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1786464764,
+    "filename": "ELDEN_RING-Xiaomi-25053PC47G-Adreno__TM__825-1786464764.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2707",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786422058,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1786422058.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G715",
-    "timestamp": 1786420526,
-    "filename": "Pro_Evolution_Soccer_2013-Google-Pixel_9a-Mali-G715-1786420526.json"
   }
 ]
