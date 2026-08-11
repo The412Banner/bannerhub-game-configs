@@ -1,5 +1,12 @@
 [
   {
+    "game": "KAHRETSIN",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1786466608,
+    "filename": "KAHRETSIN-Xiaomi-M2004J19C-Mali-G52-1786466608.json"
+  },
+  {
     "game": "KARAKARA",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1786436996,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A235F-Adreno__TM__610-1786436996.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Syndicate",
-    "manufacturer": "S948B",
-    "device": "Adreno__TM__840",
-    "timestamp": 1786429526,
-    "filename": "Assassin_s_Creed__Syndicate-samsung-SM-S948B-Adreno__TM__840-1786429526.json"
   }
 ]
