@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "RMX5566",
+    "device": "Adreno__TM__610",
+    "timestamp": 1786411719,
+    "filename": "Red_Dead_Redemption-realme-RMX5566-Adreno__TM__610-1786411719.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1786393197,
     "filename": "CRISIS_CORE__FINAL_FANTASY_VII__REUNION-samsung-SM-S948B-Adreno__TM__840-1786393197.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786391817,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1786391817.json"
   }
 ]
