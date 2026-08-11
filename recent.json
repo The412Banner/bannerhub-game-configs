@@ -1,5 +1,12 @@
 [
   {
+    "game": "Aliens_vs__Predator_",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1786417405,
+    "filename": "Aliens_vs__Predator_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1786417405.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786402122,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2303ERA42L-Mali-G57_MC2-1786402122.json"
-  },
-  {
-    "game": "Grim_Dawn",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1786401342,
-    "filename": "Grim_Dawn-nubia-NX809J-Adreno__TM__840-1786401342.json"
   }
 ]
