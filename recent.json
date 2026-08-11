@@ -1,5 +1,12 @@
 [
   {
+    "game": "Street_Fighter_X_Tekken",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786455500,
+    "filename": "Street_Fighter_X_Tekken-Xiaomi-21091116AG-Mali-G57_MC2-1786455500.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1786407843,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A256E-Mali-G68-1786407843.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1786407671,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A256E-Mali-G68-1786407671.json"
   }
 ]
