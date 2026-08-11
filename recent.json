@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ninja_Blade",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786454918,
+    "filename": "Ninja_Blade-TECNO-TECNO_LJ6-Mali-G57_MC2-1786454918.json"
+  },
+  {
     "game": "NBA_2K23",
     "manufacturer": "Infinix_X1301",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786407615,
     "filename": "Grand_Theft_Auto_V_Legacy-Blackview-BV9300_Pro-Mali-G57_MC2-1786407615.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1786407524,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A256E-Mali-G68-1786407524.json"
   }
 ]
