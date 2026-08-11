@@ -1,5 +1,12 @@
 [
   {
+    "game": "KARAKARA",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1786466602,
+    "filename": "KARAKARA-Xiaomi-M2004J19C-Mali-G52-1786466602.json"
+  },
+  {
     "game": "Angry_Birds_Tales",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1786429526,
     "filename": "Assassin_s_Creed__Syndicate-samsung-SM-S948B-Adreno__TM__840-1786429526.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__Remastered__2017_",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1786428483,
-    "filename": "Call_of_Duty___Modern_Warfare__Remastered__2017_-Xiaomi-25053RT47C-Adreno__TM__825-1786428483.json"
   }
 ]
