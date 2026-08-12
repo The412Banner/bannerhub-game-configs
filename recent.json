@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786559231,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LH7n-Mali-G57_MC2-1786559231.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1786543679,
     "filename": "Undisputed-nubia-NP05J-Adreno__TM__830-1786543679.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1786543462,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1786543462.json"
   }
 ]
