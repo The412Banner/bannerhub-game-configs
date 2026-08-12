@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786533816,
+    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KI7-Mali-G52_MC2-1786533816.json"
+  },
+  {
     "game": "Stellar_Blade_",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__722",
     "timestamp": 1786495998,
     "filename": "Romestead-motorola-motorola_edge_70-Adreno__TM__722-1786495998.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1786493196,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1786493196.json"
   }
 ]
