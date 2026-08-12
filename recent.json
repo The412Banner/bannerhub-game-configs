@@ -1,5 +1,12 @@
 [
   {
+    "game": "Brawlhalla",
+    "manufacturer": "motorola_edge_30_pro",
+    "device": "Adreno__TM__730",
+    "timestamp": 1786561887,
+    "filename": "Brawlhalla-motorola-motorola_edge_30_pro-Adreno__TM__730-1786561887.json"
+  },
+  {
     "game": "Portrait_of_a_Torn_-_Demo",
     "manufacturer": "motorola_edge_30_pro",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1786546071,
     "filename": "FIFA_14-AYN-Odin2-Adreno__TM__740-1786546071.json"
-  },
-  {
-    "game": "Undisputed",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1786544261,
-    "filename": "Undisputed-nubia-NP05J-Adreno__TM__830-1786544261.json"
   }
 ]
