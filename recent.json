@@ -1,5 +1,12 @@
 [
   {
+    "game": "RooftopsandAlleys",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1786543760,
+    "filename": "RooftopsandAlleys-motorola-motorola_edge_50_fusion-Adreno__TM__710-1786543760.json"
+  },
+  {
     "game": "Undisputed",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786525092,
     "filename": "The_Sims__4-samsung-SM-A175F-Mali-G57_MC2-1786525092.json"
-  },
-  {
-    "game": "Stray",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1786523098,
-    "filename": "Stray-motorola-motorola_edge_60_pro-Mali-G615_MC6-1786523098.json"
   }
 ]
