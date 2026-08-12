@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "2509ARPBDG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1786505230,
+    "filename": "God_of_War-Xiaomi-2509ARPBDG-Adreno__TM__810-1786505230.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_6_DEMO__________________________________________",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1786483279,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e22-PowerVR_Rogue_GE8320-1786483279.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786479171,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e32-Mali-G57-1786479171.json"
   }
 ]
