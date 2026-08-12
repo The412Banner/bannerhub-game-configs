@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stellar_Blade_",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1786532358,
+    "filename": "Stellar_Blade_-vivo-V2507A-Mali-G925-Immortalis_MC12-1786532358.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "SCV42",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1786493196,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1786493196.json"
-  },
-  {
-    "game": "Days_Gone",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1786492954,
-    "filename": "Days_Gone-Xiaomi-23113RKC6G-Adreno__TM__740-1786492954.json"
   }
 ]
