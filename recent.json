@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Village",
+    "manufacturer": "22101320G",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1786539469,
+    "filename": "Resident_Evil_Village-Xiaomi-22101320G-Adreno__TM__642L-1786539469.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1786505230,
     "filename": "God_of_War-Xiaomi-2509ARPBDG-Adreno__TM__810-1786505230.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_6_DEMO__________________________________________",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1786501938,
-    "filename": "Pro_Evolution_Soccer_6_DEMO__________________________________________-samsung-SM-G990E-Mali-G78-1786501938.json"
   }
 ]
