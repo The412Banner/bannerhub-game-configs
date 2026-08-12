@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Hour_Of_Joy_Demo",
+    "manufacturer": "CPH2467",
+    "device": "Adreno__TM__619",
+    "timestamp": 1786551235,
+    "filename": "The_Hour_Of_Joy_Demo-OnePlus-CPH2467-Adreno__TM__619-1786551235.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1786535740,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1786535740.json"
-  },
-  {
-    "game": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1786534693,
-    "filename": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719-Xiaomi-2311DRK48G-Mali-G615_MC6-1786534693.json"
   }
 ]
