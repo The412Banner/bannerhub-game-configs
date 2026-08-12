@@ -1,5 +1,12 @@
 [
   {
+    "game": "HiFi_Rush",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1786497514,
+    "filename": "HiFi_Rush-Xiaomi-25053PC47G-Adreno__TM__825-1786497514.json"
+  },
+  {
     "game": "Romestead",
     "manufacturer": "motorola_edge_70",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1786467751,
     "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2707-Adreno__TM__735-1786467751.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Origins",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1786467913,
-    "filename": "Assassin_s_Creed__Origins-AYN-Odin2-Adreno__TM__740-1786467913.json"
   }
 ]
