@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4_Chainsaw_Demo",
+    "manufacturer": "motorola_edge_30_pro",
+    "device": "Adreno__TM__730",
+    "timestamp": 1786557039,
+    "filename": "Resident_Evil_4_Chainsaw_Demo-motorola-motorola_edge_30_pro-Adreno__TM__730-1786557039.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1786541961,
     "filename": "God_of_War-INFINIX-Infinix_X6873-Mali-G615_MC6-1786541961.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786540872,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6725-Mali-G57-1786540872.json"
   }
 ]
