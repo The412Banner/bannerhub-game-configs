@@ -1,5 +1,12 @@
 [
   {
+    "game": "Undisputed",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1786543679,
+    "filename": "Undisputed-nubia-NP05J-Adreno__TM__830-1786543679.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1786523098,
     "filename": "Stray-motorola-motorola_edge_60_pro-Mali-G615_MC6-1786523098.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A556B",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1786519516,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A556B-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1786519516.json"
   }
 ]
