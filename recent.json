@@ -1,5 +1,12 @@
 [
   {
+    "game": "Valheim",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1786576112,
+    "filename": "Valheim-motorola-moto_g86_5G-Mali-G615_MC2-1786576112.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "motorola_edge_20_pro",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1786554391,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1786554391.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786554382,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e32-Mali-G57-1786554382.json"
   }
 ]
