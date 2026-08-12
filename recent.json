@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "SCV42",
+    "device": "Adreno__TM__640",
+    "timestamp": 1786532305,
+    "filename": "Pro_Evolution_Soccer_2017-samsung-SCV42-Adreno__TM__640-1786532305.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1786492954,
     "filename": "Days_Gone-Xiaomi-23113RKC6G-Adreno__TM__740-1786492954.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786492833,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1786492833.json"
   }
 ]
