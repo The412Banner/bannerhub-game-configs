@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1786570737,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2003J15SC-Mali-G52-1786570737.json"
+  },
+  {
     "game": "Farming_Simulator_15",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1786552271,
     "filename": "PlayGTAV-Xiaomi-2510EPC8BG-Adreno__TM__810-1786552271.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "2510EPC8BG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1786552261,
-    "filename": "PlayGTAV-Xiaomi-2510EPC8BG-Adreno__TM__810-1786552261.json"
   }
 ]
