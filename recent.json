@@ -1,5 +1,12 @@
 [
   {
+    "game": "Days_Gone",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1786492954,
+    "filename": "Days_Gone-Xiaomi-23113RKC6G-Adreno__TM__740-1786492954.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1786466608,
     "filename": "KAHRETSIN-Xiaomi-M2004J19C-Mali-G52-1786466608.json"
-  },
-  {
-    "game": "KARAKARA",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1786466602,
-    "filename": "KARAKARA-Xiaomi-M2004J19C-Mali-G52-1786466602.json"
   }
 ]
