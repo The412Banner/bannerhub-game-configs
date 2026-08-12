@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1786540527,
+    "filename": "God_of_War-INFINIX-Infinix_X6873-Mali-G615_MC6-1786540527.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "22101320G",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786506808,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1786506808.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "2509ARPBDG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1786505230,
-    "filename": "God_of_War-Xiaomi-2509ARPBDG-Adreno__TM__810-1786505230.json"
   }
 ]
