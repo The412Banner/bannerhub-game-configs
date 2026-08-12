@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2_Demo",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786564401,
+    "filename": "Euro_Truck_Simulator_2_Demo-TECNO-TECNO_KJ6-Mali-G57_MC2-1786564401.json"
+  },
+  {
     "game": "Brawlhalla",
     "manufacturer": "motorola_edge_30_pro",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1786546093,
     "filename": "NBA_2K14-AYN-Odin2-Adreno__TM__740-1786546093.json"
-  },
-  {
-    "game": "FIFA_14",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1786546071,
-    "filename": "FIFA_14-AYN-Odin2-Adreno__TM__740-1786546071.json"
   }
 ]
