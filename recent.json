@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "RMX5555",
+    "device": "Adreno__TM__610",
+    "timestamp": 1786573474,
+    "filename": "Cuphead-realme-RMX5555-Adreno__TM__610-1786573474.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786553810,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1786553810.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "2510EPC8BG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1786552271,
-    "filename": "PlayGTAV-Xiaomi-2510EPC8BG-Adreno__TM__810-1786552271.json"
   }
 ]
