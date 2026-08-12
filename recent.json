@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man__Miles_Morales",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786497950,
+    "filename": "Marvel_s_Spider-Man__Miles_Morales-motorola-moto_g05-Mali-G52_MC2-1786497950.json"
+  },
+  {
     "game": "HiFi_Rush",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1786468376,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A217M-Mali-G52-1786468376.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2707",
-    "device": "Adreno__TM__735",
-    "timestamp": 1786467751,
-    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2707-Adreno__TM__735-1786467751.json"
   }
 ]
