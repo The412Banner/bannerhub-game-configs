@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "motorola_edge_20_pro",
+    "device": "Adreno__TM__650",
+    "timestamp": 1786575780,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_20_pro-Adreno__TM__650-1786575780.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "RMX5555",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786554382,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e32-Mali-G57-1786554382.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786553810,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1786553810.json"
   }
 ]
