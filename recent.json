@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1786547235,
+    "filename": "God_of_War-INFINIX-Infinix_X6873-Mali-G615_MC6-1786547235.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1786534693,
     "filename": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719-Xiaomi-2311DRK48G-Mali-G615_MC6-1786534693.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786533816,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KI7-Mali-G52_MC2-1786533816.json"
   }
 ]
