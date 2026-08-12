@@ -1,5 +1,12 @@
 [
   {
+    "game": "Romestead",
+    "manufacturer": "motorola_edge_70",
+    "device": "Adreno__TM__722",
+    "timestamp": 1786495998,
+    "filename": "Romestead-motorola-motorola_edge_70-Adreno__TM__722-1786495998.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1786467324,
     "filename": "WWE_2K19-vivo-V2427-Adreno__TM__720-1786467324.json"
-  },
-  {
-    "game": "Left_4_Dead",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1786467165,
-    "filename": "Left_4_Dead-Xiaomi-25053PC47G-Adreno__TM__825-1786467165.json"
   }
 ]
