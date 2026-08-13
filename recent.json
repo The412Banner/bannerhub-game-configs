@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1786589224,
+    "filename": "Red_Dead_Redemption_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1786589224.json"
+  },
+  {
     "game": "Age_of_Mythology__Retold",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786564401,
     "filename": "Euro_Truck_Simulator_2_Demo-TECNO-TECNO_KJ6-Mali-G57_MC2-1786564401.json"
-  },
-  {
-    "game": "Brawlhalla",
-    "manufacturer": "motorola_edge_30_pro",
-    "device": "Adreno__TM__730",
-    "timestamp": 1786561887,
-    "filename": "Brawlhalla-motorola-motorola_edge_30_pro-Adreno__TM__730-1786561887.json"
   }
 ]
