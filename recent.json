@@ -1,5 +1,12 @@
 [
   {
+    "game": "________2nd_",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1786597610,
+    "filename": "________2nd_-Xiaomi-24069PC21G-Adreno__TM__735-1786597610.json"
+  },
+  {
     "game": "Darksiders_II_Deathinitive_Edition",
     "manufacturer": "V2404",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1786576112,
     "filename": "Valheim-motorola-moto_g86_5G-Mali-G615_MC2-1786576112.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_edge_20_pro",
-    "device": "Adreno__TM__650",
-    "timestamp": 1786575780,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_20_pro-Adreno__TM__650-1786575780.json"
   }
 ]
