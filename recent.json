@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1786664670,
+    "filename": "TheAmazingSpider-Man-Xiaomi-24069PC21G-Adreno__TM__735-1786664670.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH3669",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1786649155,
     "filename": "Hades_II-Xiaomi-Redmi_K20_Pro-Adreno__TM__640-1786649155.json"
-  },
-  {
-    "game": "Hades",
-    "manufacturer": "Redmi_K20_Pro",
-    "device": "Adreno__TM__640",
-    "timestamp": 1786648688,
-    "filename": "Hades-Xiaomi-Redmi_K20_Pro-Adreno__TM__640-1786648688.json"
   }
 ]
