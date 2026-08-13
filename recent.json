@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786590737,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1786590737.json"
+  },
+  {
     "game": "Horizon_Zero_Dawn__Remastered",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1786569491,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A146M-Mali-G68-1786569491.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "2509ARPBDG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1786568456,
-    "filename": "God_of_War-Xiaomi-2509ARPBDG-Adreno__TM__810-1786568456.json"
   }
 ]
