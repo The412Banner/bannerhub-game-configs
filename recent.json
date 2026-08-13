@@ -1,5 +1,12 @@
 [
   {
+    "game": "Horizon_Zero_Dawn__Remastered",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1786590347,
+    "filename": "Horizon_Zero_Dawn__Remastered-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1786590347.json"
+  },
+  {
     "game": "Graveyard_Keeper",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1786568456,
     "filename": "God_of_War-Xiaomi-2509ARPBDG-Adreno__TM__810-1786568456.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786567856,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1786567856.json"
   }
 ]
