@@ -1,5 +1,12 @@
 [
   {
+    "game": "Counter-Strike_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786635985,
+    "filename": "Counter-Strike_2-Xiaomi-23106RN0DA-Mali-G52_MC2-1786635985.json"
+  },
+  {
     "game": "Atla",
     "manufacturer": "24122RKC7G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1786590328,
     "filename": "Graveyard_Keeper-Xiaomi-24069PC21G-Adreno__TM__735-1786590328.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1786589280,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2412DPC0AG-Mali-G720_MC7-1786589280.json"
   }
 ]
