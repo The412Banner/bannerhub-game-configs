@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades_II",
+    "manufacturer": "Redmi_K20_Pro",
+    "device": "Adreno__TM__640",
+    "timestamp": 1786649155,
+    "filename": "Hades_II-Xiaomi-Redmi_K20_Pro-Adreno__TM__640-1786649155.json"
+  },
+  {
     "game": "Hades",
     "manufacturer": "Redmi_K20_Pro",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1786618511,
     "filename": "Injustice__2-Xiaomi-24122RKC7G-Adreno__TM__830-1786618511.json"
-  },
-  {
-    "game": "SSSS",
-    "manufacturer": "24122RKC7G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1786618500,
-    "filename": "SSSS-Xiaomi-24122RKC7G-Adreno__TM__830-1786618500.json"
   }
 ]
