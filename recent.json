@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1786582051,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1786582051.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "NX9",
     "device": "Adreno__TM__735",
     "timestamp": 1786580396,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786558849,
     "filename": "Pro_Evolution_Soccer_2013-TECNO_MOBILE_LIMITED-TECNO_CH7n-Mali-G57_MC2-1786558849.json"
-  },
-  {
-    "game": "Resident_Evil_4_Chainsaw_Demo",
-    "manufacturer": "motorola_edge_30_pro",
-    "device": "Adreno__TM__730",
-    "timestamp": 1786557039,
-    "filename": "Resident_Evil_4_Chainsaw_Demo-motorola-motorola_edge_30_pro-Adreno__TM__730-1786557039.json"
   }
 ]
