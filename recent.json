@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786650064,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078PC3EG-Mali-G52_MC2-1786650064.json"
+  },
+  {
     "game": "MiSide",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1786630877,
     "filename": "hollow_knight-realme-RMX3890-Adreno__TM__610-1786630877.json"
-  },
-  {
-    "game": "hollow_knight",
-    "manufacturer": "RMX3890",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786630819,
-    "filename": "hollow_knight-realme-RMX3890-Adreno__TM__610-1786630819.json"
   }
 ]
