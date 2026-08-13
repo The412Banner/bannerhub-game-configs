@@ -1,5 +1,12 @@
 [
   {
+    "game": "Gwent",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1786594276,
+    "filename": "Gwent-LENOVO-TB322FC-Adreno__TM__830-1786594276.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1786570737,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2003J15SC-Mali-G52-1786570737.json"
-  },
-  {
-    "game": "Farming_Simulator_15",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786569721,
-    "filename": "Farming_Simulator_15-TECNO-TECNO_KJ6-Mali-G57_MC2-1786569721.json"
   }
 ]
