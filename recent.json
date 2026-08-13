@@ -1,5 +1,12 @@
 [
   {
+    "game": "Roblox",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786649082,
+    "filename": "Roblox-samsung-SM-A075M-Mali-G57_MC2-1786649082.json"
+  },
+  {
     "game": "Hades_II",
     "manufacturer": "Redmi_K20_Pro",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1786624793,
     "filename": "BootstrapPackagedGame-Xiaomi-2207117BPG-Mali-G76-1786624793.json"
-  },
-  {
-    "game": "Injustice__2",
-    "manufacturer": "24122RKC7G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1786618511,
-    "filename": "Injustice__2-Xiaomi-24122RKC7G-Adreno__TM__830-1786618511.json"
   }
 ]
