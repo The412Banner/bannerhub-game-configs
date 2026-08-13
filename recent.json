@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "RMX3890",
+    "device": "Adreno__TM__610",
+    "timestamp": 1786661498,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3890-Adreno__TM__610-1786661498.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH3669",
     "device": "Adreno__TM__610",
     "timestamp": 1786661380,
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1786645784,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G780F-Mali-G77-1786645784.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1786644241,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1786644241.json"
   }
 ]
