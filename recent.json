@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786722352,
+    "filename": "BootstrapPackagedGame-LENOVO-TB311FU-Mali-G52_MC2-1786722352.json"
+  },
+  {
     "game": "Black_Myth__Wukong",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1786701878,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2406APNFAG-Mali-G615_MC6-1786701878.json"
-  },
-  {
-    "game": "1954_Alcatraz",
-    "manufacturer": "2304FPN6DG",
-    "device": "Adreno__TM__740",
-    "timestamp": 1786701186,
-    "filename": "1954_Alcatraz-Xiaomi-2304FPN6DG-Adreno__TM__740-1786701186.json"
   }
 ]
