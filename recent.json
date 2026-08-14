@@ -1,5 +1,12 @@
 [
   {
+    "game": "Schedule_I",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1786713726,
+    "filename": "Schedule_I-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1786713726.json"
+  },
+  {
     "game": "ArmA_2__Combined_Operations",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1786674248,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A366E-Adreno__TM__710-1786674248.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G77",
-    "timestamp": 1786674008,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G988B-Mali-G77-1786674008.json"
   }
 ]
