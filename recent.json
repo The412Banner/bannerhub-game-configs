@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G77",
+    "timestamp": 1786674008,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G988B-Mali-G77-1786674008.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1786650178,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-24069PC21G-Adreno__TM__735-1786650178.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786650064,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078PC3EG-Mali-G52_MC2-1786650064.json"
   }
 ]
