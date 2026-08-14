@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1786730333,
+    "filename": "Need_for_Speed_9-LENOVO-TB321FU-Adreno__TM__750-1786730333.json"
+  },
+  {
     "game": "F1_2015",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786705836,
     "filename": "Portal_2-samsung-SM-A175F-Mali-G57_MC2-1786705836.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1786705142,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1786705142.json"
   }
 ]
