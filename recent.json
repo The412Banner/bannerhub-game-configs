@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1786713228,
+    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6873-Mali-G615_MC6-1786713228.json"
+  },
+  {
     "game": "Call_of_Duty__4__Modern_Warfare___2007_",
     "manufacturer": "M2010J19SY",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1786673681,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-25053PC47G-Adreno__TM__825-1786673681.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A042M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1786669289,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1786669289.json"
   }
 ]
