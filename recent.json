@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786751427,
+    "filename": "Pro_Evolution_Soccer_2017-ITEL-itel_S666LN-Mali-G57_MC2-1786751427.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1786714509,
     "filename": "Euro_Truck_Simulator_2______________________________________-Xiaomi-2109119DG-Adreno__TM__642L-1786714509.json"
-  },
-  {
-    "game": "Schedule_I",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1786713726,
-    "filename": "Schedule_I-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1786713726.json"
   }
 ]
