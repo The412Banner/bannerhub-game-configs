@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786747761,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_KJ5n-Mali-G52_MC2-1786747761.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1786713726,
     "filename": "Schedule_I-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1786713726.json"
-  },
-  {
-    "game": "ArmA_2__Combined_Operations",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786713603,
-    "filename": "ArmA_2__Combined_Operations-INFINIX-Infinix_X6855-Mali-G57_MC2-1786713603.json"
   }
 ]
