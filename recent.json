@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786747687,
+    "filename": "Far_Cry_3-TECNO-TECNO_KJ5n-Mali-G52_MC2-1786747687.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1786713228,
     "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6873-Mali-G615_MC6-1786713228.json"
-  },
-  {
-    "game": "Call_of_Duty__4__Modern_Warfare___2007_",
-    "manufacturer": "M2010J19SY",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786713105,
-    "filename": "Call_of_Duty__4__Modern_Warfare___2007_-Xiaomi-M2010J19SY-Adreno__TM__610-1786713105.json"
   }
 ]
