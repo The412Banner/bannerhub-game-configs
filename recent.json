@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2014",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1786665837,
+    "filename": "F1_2014-Xiaomi-2412DPC0AG-Mali-G720_MC7-1786665837.json"
+  },
+  {
     "game": "TheAmazingSpider-Man",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786649082,
     "filename": "Roblox-samsung-SM-A075M-Mali-G57_MC2-1786649082.json"
-  },
-  {
-    "game": "Hades_II",
-    "manufacturer": "Redmi_K20_Pro",
-    "device": "Adreno__TM__640",
-    "timestamp": 1786649155,
-    "filename": "Hades_II-Xiaomi-Redmi_K20_Pro-Adreno__TM__640-1786649155.json"
   }
 ]
