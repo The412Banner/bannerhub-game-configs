@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2______________________________________",
+    "manufacturer": "2109119DG",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1786714509,
+    "filename": "Euro_Truck_Simulator_2______________________________________-Xiaomi-2109119DG-Adreno__TM__642L-1786714509.json"
+  },
+  {
     "game": "Schedule_I",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G76_MC4",
     "timestamp": 1786675370,
     "filename": "M_U_G_E_N-Xiaomi-Redmi_Note_8_Pro-Mali-G76_MC4-1786675370.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A366E",
-    "device": "Adreno__TM__710",
-    "timestamp": 1786674248,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A366E-Adreno__TM__710-1786674248.json"
   }
 ]
