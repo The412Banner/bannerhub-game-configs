@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786733761,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1786733761.json"
+  },
+  {
     "game": "Assassin_s_Creed__Origins",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1786707503,
     "filename": "Turok_______________________________________________________-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1786707503.json"
-  },
-  {
-    "game": "Portal__Revolution",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786707515,
-    "filename": "Portal__Revolution-samsung-SM-A175F-Mali-G57_MC2-1786707515.json"
   }
 ]
