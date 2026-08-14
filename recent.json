@@ -1,5 +1,12 @@
 [
   {
+    "game": "Turok_______________________________________________________",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1786707503,
+    "filename": "Turok_______________________________________________________-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1786707503.json"
+  },
+  {
     "game": "Portal__Revolution",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1786664670,
     "filename": "TheAmazingSpider-Man-Xiaomi-24069PC21G-Adreno__TM__735-1786664670.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "CPH3669",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786661776,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH3669-Adreno__TM__610-1786661776.json"
   }
 ]
