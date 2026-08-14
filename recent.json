@@ -1,5 +1,12 @@
 [
   {
+    "game": "Clair_Obscur__Expedition_33",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786689763,
+    "filename": "Clair_Obscur__Expedition_33-TECNO-TECNO_KJ6-Mali-G57_MC2-1786689763.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "22021211RG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1786659640,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH3669-Adreno__TM__610-1786659640.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "CPH3669",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786659526,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH3669-Adreno__TM__610-1786659526.json"
   }
 ]
