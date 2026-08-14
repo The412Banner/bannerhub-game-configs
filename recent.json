@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Origins",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1786731896,
+    "filename": "Assassin_s_Creed__Origins-nubia-NX809J-Adreno__TM__840-1786731896.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786707515,
     "filename": "Portal__Revolution-samsung-SM-A175F-Mali-G57_MC2-1786707515.json"
-  },
-  {
-    "game": "Portal_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786705836,
-    "filename": "Portal_2-samsung-SM-A175F-Mali-G57_MC2-1786705836.json"
   }
 ]
