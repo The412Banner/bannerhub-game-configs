@@ -1,5 +1,12 @@
 [
   {
+    "game": "Portal_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786705836,
+    "filename": "Portal_2-samsung-SM-A175F-Mali-G57_MC2-1786705836.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1786661498,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3890-Adreno__TM__610-1786661498.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "CPH3669",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786661380,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH3669-Adreno__TM__610-1786661380.json"
   }
 ]
