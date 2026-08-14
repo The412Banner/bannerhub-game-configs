@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP_26",
+    "manufacturer": "25091RP04G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1786717577,
+    "filename": "MotoGP_26-Xiaomi-25091RP04G-Adreno__TM__830-1786717577.json"
+  },
+  {
     "game": "PEAK",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786689763,
     "filename": "Clair_Obscur__Expedition_33-TECNO-TECNO_KJ6-Mali-G57_MC2-1786689763.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "22021211RG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1786689023,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22021211RG-Adreno__TM__650-1786689023.json"
   }
 ]
