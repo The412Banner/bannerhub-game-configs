@@ -3,6 +3,13 @@
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1786820275,
+    "filename": "BootstrapPackagedGame-LENOVO-TB311FU-Mali-G52_MC2-1786820275.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1786820268,
     "filename": "BootstrapPackagedGame-LENOVO-TB311FU-Mali-G52_MC2-1786820268.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1786798955,
     "filename": "Mafia_II__Classic_-Xiaomi-24129PN74G-Adreno__TM__830-1786798955.json"
-  },
-  {
-    "game": "Police_Simulator__Patrol_Officers",
-    "manufacturer": "moto_g42",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786798500,
-    "filename": "Police_Simulator__Patrol_Officers-motorola-moto_g42-Adreno__TM__610-1786798500.json"
   }
 ]
