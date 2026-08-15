@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1786801742,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1786801742.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "24129PN74G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786756518,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1786756518.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786755710,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1786755710.json"
   }
 ]
