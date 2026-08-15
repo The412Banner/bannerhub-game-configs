@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1786763538,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1786763538.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786722352,
     "filename": "BootstrapPackagedGame-LENOVO-TB311FU-Mali-G52_MC2-1786722352.json"
-  },
-  {
-    "game": "Black_Myth__Wukong",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1786718784,
-    "filename": "Black_Myth__Wukong-nubia-NX809J-Adreno__TM__840-1786718784.json"
   }
 ]
