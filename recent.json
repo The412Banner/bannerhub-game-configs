@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_XENOVERSE",
+    "manufacturer": "V2427",
+    "device": "Adreno__TM__720",
+    "timestamp": 1786769797,
+    "filename": "DRAGON_BALL_XENOVERSE-vivo-V2427-Adreno__TM__720-1786769797.json"
+  },
+  {
     "game": "FINAL_FANTASY_VII_REMAKE_INTERGRADE",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1786731896,
     "filename": "Assassin_s_Creed__Origins-nubia-NX809J-Adreno__TM__840-1786731896.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1786730333,
-    "filename": "Need_for_Speed_9-LENOVO-TB321FU-Adreno__TM__750-1786730333.json"
   }
 ]
