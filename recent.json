@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786806955,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A065F-Mali-G52_MC2-1786806955.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1786780045,
     "filename": "Resident_Evil_2-samsung-SM-S928B-Adreno__TM__750-1786780045.json"
-  },
-  {
-    "game": "DRAGON_BALL_XENOVERSE",
-    "manufacturer": "V2427",
-    "device": "Adreno__TM__720",
-    "timestamp": 1786769797,
-    "filename": "DRAGON_BALL_XENOVERSE-vivo-V2427-Adreno__TM__720-1786769797.json"
   }
 ]
