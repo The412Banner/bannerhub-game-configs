@@ -1,5 +1,12 @@
 [
   {
+    "game": "Police_Simulator__Patrol_Officers",
+    "manufacturer": "moto_g42",
+    "device": "Adreno__TM__610",
+    "timestamp": 1786798500,
+    "filename": "Police_Simulator__Patrol_Officers-motorola-moto_g42-Adreno__TM__610-1786798500.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1786755652,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1786755652.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1786754654,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1786754654.json"
   }
 ]
