@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786831671,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1786831671.json"
+  },
+  {
     "game": "KINGDOM_HEARTS_-_Final_Mix_HD",
     "manufacturer": "CPH2655",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1786816901,
     "filename": "House_of_Necrosis-OnePlus-PLU110-Adreno__TM__825-1786816901.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786813507,
-    "filename": "Euro_Truck_Simulator_2-HONOR-ELN-W09-Adreno__TM__610-1786813507.json"
   }
 ]
