@@ -1,5 +1,12 @@
 [
   {
+    "game": "KINGDOM_HEARTS_-_BBS_HD",
+    "manufacturer": "CPH2655",
+    "device": "Adreno__TM__830",
+    "timestamp": 1786831080,
+    "filename": "KINGDOM_HEARTS_-_BBS_HD-OnePlus-CPH2655-Adreno__TM__830-1786831080.json"
+  },
+  {
     "game": "Tales_of_Zestiria",
     "manufacturer": "Retroid_Pocket_Nova",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1786807947,
     "filename": "DARK_SOULS__III-samsung-SM-S918U1-Adreno__TM__740-1786807947.json"
-  },
-  {
-    "game": "EA_SPORTS_FC__26_SHOWCASE",
-    "manufacturer": "23028RA60L",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786807310,
-    "filename": "EA_SPORTS_FC__26_SHOWCASE-Xiaomi-23028RA60L-Adreno__TM__610-1786807310.json"
   }
 ]
