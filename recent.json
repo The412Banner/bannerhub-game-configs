@@ -1,5 +1,12 @@
 [
   {
+    "game": "updater",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1786788468,
+    "filename": "updater-samsung-SM-S928B-Adreno__TM__750-1786788468.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786747687,
     "filename": "Far_Cry_3-TECNO-TECNO_KJ5n-Mali-G52_MC2-1786747687.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1786745850,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1786745850.json"
   }
 ]
