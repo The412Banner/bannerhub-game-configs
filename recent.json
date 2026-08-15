@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1786755710,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1786755710.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G68_MC4",
     "timestamp": 1786755652,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1786755652.json"
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786715584,
     "filename": "BootstrapPackagedGame-LENOVO-TB311FU-Mali-G52_MC2-1786715584.json"
-  },
-  {
-    "game": "The_Witcher_2__Assassins_of_Kings_Enhanced_Edition",
-    "manufacturer": "I2407",
-    "device": "Adreno__TM__810",
-    "timestamp": 1786715419,
-    "filename": "The_Witcher_2__Assassins_of_Kings_Enhanced_Edition-vivo-I2407-Adreno__TM__810-1786715419.json"
   }
 ]
