@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "24129PN74G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1786798955,
+    "filename": "Mafia_II__Classic_-Xiaomi-24129PN74G-Adreno__TM__830-1786798955.json"
+  },
+  {
     "game": "Police_Simulator__Patrol_Officers",
     "manufacturer": "moto_g42",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786755710,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1786755710.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1786755652,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1786755652.json"
   }
 ]
