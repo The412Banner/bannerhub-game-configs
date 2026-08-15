@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1786820745,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A346M-Mali-G68_MC4-1786820745.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1786801742,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1786801742.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "24129PN74G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1786798955,
-    "filename": "Mafia_II__Classic_-Xiaomi-24129PN74G-Adreno__TM__830-1786798955.json"
   }
 ]
