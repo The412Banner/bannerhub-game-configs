@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__III",
+    "manufacturer": "S918U1",
+    "device": "Adreno__TM__740",
+    "timestamp": 1786807947,
+    "filename": "DARK_SOULS__III-samsung-SM-S918U1-Adreno__TM__740-1786807947.json"
+  },
+  {
     "game": "EA_SPORTS_FC__26_SHOWCASE",
     "manufacturer": "23028RA60L",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786780245,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g35_5G-Mali-G57-1786780245.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786780158,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g35_5G-Mali-G57-1786780158.json"
   }
 ]
