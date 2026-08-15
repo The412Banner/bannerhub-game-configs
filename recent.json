@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tales_of_Zestiria",
+    "manufacturer": "Retroid_Pocket_Nova",
+    "device": "Adreno__TM__740",
+    "timestamp": 1786830979,
+    "filename": "Tales_of_Zestiria-Moorechip-Retroid_Pocket_Nova-Adreno__TM__740-1786830979.json"
+  },
+  {
     "game": "Launcher",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1786807310,
     "filename": "EA_SPORTS_FC__26_SHOWCASE-Xiaomi-23028RA60L-Adreno__TM__610-1786807310.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786806955,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A065F-Mali-G52_MC2-1786806955.json"
   }
 ]
