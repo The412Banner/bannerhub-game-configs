@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786791925,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1786791925.json"
+  },
+  {
     "game": "Sniper_Ghost_Warrior_2",
     "manufacturer": "V1965A",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786747761,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_KJ5n-Mali-G52_MC2-1786747761.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786747694,
-    "filename": "Far_Cry_3-TECNO-TECNO_KJ5n-Mali-G52_MC2-1786747694.json"
   }
 ]
