@@ -1,5 +1,12 @@
 [
   {
+    "game": "UE4Game",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1786888490,
+    "filename": "UE4Game-Xiaomi-25053PC47G-Adreno__TM__825-1786888490.json"
+  },
+  {
     "game": "Pes_13",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1786867420,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-vivo-V2040-Adreno__TM__618-1786867420.json"
-  },
-  {
-    "game": "SSSS",
-    "manufacturer": "22111317PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1786866081,
-    "filename": "SSSS-Xiaomi-22111317PG-Adreno__TM__619-1786866081.json"
   }
 ]
