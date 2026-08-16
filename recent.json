@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "motorola_edge_30_neo",
+    "device": "Adreno__TM__619",
+    "timestamp": 1786914271,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_30_neo-Adreno__TM__619-1786914271.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1786887455,
     "filename": "Pes_13-samsung-SM-A127M-Mali-G52-1786887455.json"
-  },
-  {
-    "game": "Call_of_Duty__World_at_War",
-    "manufacturer": "V2361A",
-    "device": "Adreno__TM__720",
-    "timestamp": 1786884731,
-    "filename": "Call_of_Duty__World_at_War-vivo-V2361A-Adreno__TM__720-1786884731.json"
   }
 ]
