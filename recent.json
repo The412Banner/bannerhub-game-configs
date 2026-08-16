@@ -1,5 +1,12 @@
 [
   {
+    "game": "Burnout_Paradise__The_Ultimate_Box",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1786881238,
+    "filename": "Burnout_Paradise__The_Ultimate_Box-Xiaomi-M2012K11AG-Adreno__TM__650-1786881238.json"
+  },
+  {
     "game": "Solo_Leveling_ARISE_OVERDRIVE",
     "manufacturer": "NX9",
     "device": "Adreno__TM__644",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1786859475,
     "filename": "Burnout_Paradise__The_Ultimate_Box-Xiaomi-M2101K7BG-Mali-G76-1786859475.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1786859273,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1786859273.json"
   }
 ]
