@@ -1,5 +1,12 @@
 [
   {
+    "game": "Burnout_Paradise__The_Ultimate_Box",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1786859475,
+    "filename": "Burnout_Paradise__The_Ultimate_Box-Xiaomi-M2101K7BG-Mali-G76-1786859475.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786839185,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1786839185.json"
-  },
-  {
-    "game": "Shank_2",
-    "manufacturer": "25102PCBEG",
-    "device": "Adreno__TM__840",
-    "timestamp": 1786837820,
-    "filename": "Shank_2-Xiaomi-25102PCBEG-Adreno__TM__840-1786837820.json"
   }
 ]
