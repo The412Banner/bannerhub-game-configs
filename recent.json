@@ -1,5 +1,12 @@
 [
   {
+    "game": "forza3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786894071,
+    "filename": "forza3-Xiaomi-2312FPCA6G-Mali-G57_MC2-1786894071.json"
+  },
+  {
     "game": "NBA_2K23",
     "manufacturer": "Infinix_X1301",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786878112,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2591-Mali-G52_MC2-1786878112.json"
-  },
-  {
-    "game": "The_Sims__4",
-    "manufacturer": "24122RKC7G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1786874662,
-    "filename": "The_Sims__4-Xiaomi-24122RKC7G-Adreno__TM__830-1786874662.json"
   }
 ]
