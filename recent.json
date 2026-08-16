@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Brotherhood",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786845000,
+    "filename": "Assassin_s_Creed__Brotherhood-TECNO-TECNO_LI9-Mali-G57_MC2-1786845000.json"
+  },
+  {
     "game": "iw3sp",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1786825691,
     "filename": "GTA_IV__San_Andreas_Setup-Xiaomi-21121119SG-Mali-G52-1786825691.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1786824436,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g75_5G-Adreno__TM__710-1786824436.json"
   }
 ]
