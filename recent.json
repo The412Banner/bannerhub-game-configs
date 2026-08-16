@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "M2101K6I",
+    "device": "Adreno__TM__618",
+    "timestamp": 1786850198,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-M2101K6I-Adreno__TM__618-1786850198.json"
+  },
+  {
     "game": "The_Walking_Dead__The_Final_Season",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1786835238,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-F946B-Adreno__TM__740-1786835238.json"
-  },
-  {
-    "game": "Batman___Arkham_Knight",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1786833122,
-    "filename": "Batman___Arkham_Knight-nubia-NP05J-Adreno__TM__830-1786833122.json"
   }
 ]
