@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1786905630,
+    "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-23049PCD8G-Adreno__TM__725-1786905630.json"
+  },
+  {
     "game": "Prototype",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1786881294,
     "filename": "Burnout_Paradise__The_Ultimate_Box-Xiaomi-M2012K11AG-Adreno__TM__650-1786881294.json"
-  },
-  {
-    "game": "Burnout_Paradise__The_Ultimate_Box",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1786881254,
-    "filename": "Burnout_Paradise__The_Ultimate_Box-Xiaomi-M2012K11AG-Adreno__TM__650-1786881254.json"
   }
 ]
