@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "V2040",
+    "device": "Adreno__TM__618",
+    "timestamp": 1786867420,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-vivo-V2040-Adreno__TM__618-1786867420.json"
+  },
+  {
     "game": "SSSS",
     "manufacturer": "22111317PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786845026,
     "filename": "snaepr-TECNO-TECNO_LI9-Mali-G57_MC2-1786845026.json"
-  },
-  {
-    "game": "ResDogs",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786845011,
-    "filename": "ResDogs-TECNO-TECNO_LI9-Mali-G57_MC2-1786845011.json"
   }
 ]
