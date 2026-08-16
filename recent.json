@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Walking_Dead__The_Final_Season",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786849648,
+    "filename": "The_Walking_Dead__The_Final_Season-Xiaomi-2409BRN2CY-Mali-G52_MC2-1786849648.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1786833122,
     "filename": "Batman___Arkham_Knight-nubia-NP05J-Adreno__TM__830-1786833122.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786831671,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1786831671.json"
   }
 ]
