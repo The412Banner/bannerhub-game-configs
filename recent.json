@@ -1,5 +1,12 @@
 [
   {
+    "game": "kaneandlynch",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786845036,
+    "filename": "kaneandlynch-TECNO-TECNO_LI9-Mali-G57_MC2-1786845036.json"
+  },
+  {
     "game": "Devil_May_Cry_3_Special_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786830407,
     "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-A075M-Mali-G57_MC2-1786830407.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1786830321,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-25080RABDG-Mali-G615_MC2-1786830321.json"
   }
 ]
