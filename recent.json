@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grim_Dawn",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1786922701,
+    "filename": "Grim_Dawn-ayn-Odin3-Adreno__TM__830-1786922701.json"
+  },
+  {
     "game": "Assassin_s_Creed__Origins",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786894071,
     "filename": "forza3-Xiaomi-2312FPCA6G-Mali-G57_MC2-1786894071.json"
-  },
-  {
-    "game": "NBA_2K23",
-    "manufacturer": "Infinix_X1301",
-    "device": "Adreno__TM__660",
-    "timestamp": 1786891897,
-    "filename": "NBA_2K23-INFINIX-Infinix_X1301-Adreno__TM__660-1786891897.json"
   }
 ]
