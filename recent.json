@@ -1,5 +1,12 @@
 [
   {
+    "game": "Digimon_Story_Time_Stranger",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1786869401,
+    "filename": "Digimon_Story_Time_Stranger-Xiaomi-25053PC47G-Adreno__TM__825-1786869401.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "V2040",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786845031,
     "filename": "Devil_May_Cry_3_Special_Edition-TECNO-TECNO_LI9-Mali-G57_MC2-1786845031.json"
-  },
-  {
-    "game": "snaepr",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786845026,
-    "filename": "snaepr-TECNO-TECNO_LI9-Mali-G57_MC2-1786845026.json"
   }
 ]
