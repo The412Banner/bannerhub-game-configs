@@ -1,5 +1,12 @@
 [
   {
+    "game": "SSSS",
+    "manufacturer": "22111317PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1786866081,
+    "filename": "SSSS-Xiaomi-22111317PG-Adreno__TM__619-1786866081.json"
+  },
+  {
     "game": "Burnout_Paradise__The_Ultimate_Box",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786845011,
     "filename": "ResDogs-TECNO-TECNO_LI9-Mali-G57_MC2-1786845011.json"
-  },
-  {
-    "game": "Wolf2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786845007,
-    "filename": "Wolf2-TECNO-TECNO_LI9-Mali-G57_MC2-1786845007.json"
   }
 ]
