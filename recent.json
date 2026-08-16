@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g_8__plus",
+    "device": "Adreno__TM__610",
+    "timestamp": 1786890070,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__plus-Adreno__TM__610-1786890070.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "G1",
     "device": "Ultra_MC12",
     "timestamp": 1786889637,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786871705,
     "filename": "Megabonk-INFINIX_MOBILITY_LIMITED-Infinix_X697-Mali-G57_MC2-1786871705.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786870391,
-    "filename": "Resident_Evil_5-samsung-SM-A165F-Mali-G57_MC2-1786870391.json"
   }
 ]
