@@ -1,5 +1,12 @@
 [
   {
+    "game": "GRID",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786902107,
+    "filename": "GRID-Xiaomi-24117RN76O-Mali-G57_MC2-1786902107.json"
+  },
+  {
     "game": "forza_x64_release_final",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__644",
     "timestamp": 1786879404,
     "filename": "Solo_Leveling_ARISE_OVERDRIVE-HONOR-REA-NX9-Adreno__TM__644-1786879404.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2______________________________________",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1786879325,
-    "filename": "Euro_Truck_Simulator_2______________________________________-Xiaomi-25080RABDG-Mali-G615_MC2-1786879325.json"
   }
 ]
