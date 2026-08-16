@@ -1,5 +1,12 @@
 [
   {
+    "game": "Megabonk",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786871705,
+    "filename": "Megabonk-INFINIX_MOBILITY_LIMITED-Infinix_X697-Mali-G57_MC2-1786871705.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1786845239,
     "filename": "Need_for_Speed__Heat-samsung-SM-S911B-Adreno__TM__740-1786845239.json"
-  },
-  {
-    "game": "kaneandlynch",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786845036,
-    "filename": "kaneandlynch-TECNO-TECNO_LI9-Mali-G57_MC2-1786845036.json"
   }
 ]
