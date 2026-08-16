@@ -1,5 +1,12 @@
 [
   {
+    "game": "NBA_2K23",
+    "manufacturer": "Infinix_X1301",
+    "device": "Adreno__TM__660",
+    "timestamp": 1786891897,
+    "filename": "NBA_2K23-INFINIX-Infinix_X1301-Adreno__TM__660-1786891897.json"
+  },
+  {
     "game": "HotlineLauncher",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1786874662,
     "filename": "The_Sims__4-Xiaomi-24122RKC7G-Adreno__TM__830-1786874662.json"
-  },
-  {
-    "game": "2K_Sports_NBA_2K14",
-    "manufacturer": "25099RP13G",
-    "device": "Adreno__TM__810",
-    "timestamp": 1786872075,
-    "filename": "2K_Sports_NBA_2K14-Xiaomi-25099RP13G-Adreno__TM__810-1786872075.json"
   }
 ]
