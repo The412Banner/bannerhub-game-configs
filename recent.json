@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786878112,
+    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2591-Mali-G52_MC2-1786878112.json"
+  },
+  {
     "game": "The_Sims__4",
     "manufacturer": "24122RKC7G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1786847940,
     "filename": "Battlefield__V-Xiaomi-25053RT47C-Adreno__TM__825-1786847940.json"
-  },
-  {
-    "game": "Resident_Evil_7_Biohazard",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1786846116,
-    "filename": "Resident_Evil_7_Biohazard-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1786846116.json"
   }
 ]
