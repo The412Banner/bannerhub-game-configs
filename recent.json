@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1786878321,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e13-Mali-G57-1786878321.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1786878134,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2591-Mali-G52_MC2-1786878134.json"
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786849648,
     "filename": "The_Walking_Dead__The_Final_Season-Xiaomi-2409BRN2CY-Mali-G52_MC2-1786849648.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786847908,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_BG6-Mali-G57-1786847908.json"
   }
 ]
