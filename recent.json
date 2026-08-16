@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786916314,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2409BRN2CL-Mali-G52_MC2-1786916314.json"
+  },
+  {
     "game": "Shank_2",
     "manufacturer": "25102PCBEG",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Ultra_MC12",
     "timestamp": 1786889637,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2602EPTC0G-Mali-G1-Ultra_MC12-1786889637.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g_8__plus",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786888903,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__plus-Adreno__TM__610-1786888903.json"
   }
 ]
