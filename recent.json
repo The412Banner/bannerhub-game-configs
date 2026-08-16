@@ -1,5 +1,12 @@
 [
   {
+    "game": "snaepr",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786845026,
+    "filename": "snaepr-TECNO-TECNO_LI9-Mali-G57_MC2-1786845026.json"
+  },
+  {
     "game": "ResDogs",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1786829043,
     "filename": "Launcher-Xiaomi-25080RABDG-Mali-G615_MC2-1786829043.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786828840,
-    "filename": "PlayGTAV-samsung-SM-A165F-Mali-G57_MC2-1786828840.json"
   }
 ]
