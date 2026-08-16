@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man__Miles_Morales",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1786906930,
+    "filename": "Marvel_s_Spider-Man__Miles_Morales-AYN-AYN_Thor-Adreno__TM__740-1786906930.json"
+  },
+  {
     "game": "Devil_May_Cry_4_Special_Edition",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__22",
     "timestamp": 1786884504,
     "filename": "Dead_as_Disco-Moorechip-Retroid_Pocket_G2-Adreno__TM__22-1786884504.json"
-  },
-  {
-    "game": "Burnout_Paradise__The_Ultimate_Box",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1786881294,
-    "filename": "Burnout_Paradise__The_Ultimate_Box-Xiaomi-M2012K11AG-Adreno__TM__650-1786881294.json"
   }
 ]
