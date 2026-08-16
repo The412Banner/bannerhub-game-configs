@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1786918482,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1786918482.json"
+  },
+  {
     "game": "Heroine_Rumble_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1786890141,
     "filename": "HotlineLauncher-TECNO-TECNO_LJ7-Mali-G615_MC2-1786890141.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g_8__plus",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786890070,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8__plus-Adreno__TM__610-1786890070.json"
   }
 ]
