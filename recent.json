@@ -1,5 +1,12 @@
 [
   {
+    "game": "HotlineLauncher",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1786890141,
+    "filename": "HotlineLauncher-TECNO-TECNO_LJ7-Mali-G615_MC2-1786890141.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g_8__plus",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1786872075,
     "filename": "2K_Sports_NBA_2K14-Xiaomi-25099RP13G-Adreno__TM__810-1786872075.json"
-  },
-  {
-    "game": "Megabonk",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786871705,
-    "filename": "Megabonk-INFINIX_MOBILITY_LIMITED-Infinix_X697-Mali-G57_MC2-1786871705.json"
   }
 ]
