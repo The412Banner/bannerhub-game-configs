@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Origins",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1786922092,
+    "filename": "Assassin_s_Creed__Origins-nubia-NX809J-Adreno__TM__840-1786922092.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1786891897,
     "filename": "NBA_2K23-INFINIX-Infinix_X1301-Adreno__TM__660-1786891897.json"
-  },
-  {
-    "game": "HotlineLauncher",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1786890141,
-    "filename": "HotlineLauncher-TECNO-TECNO_LJ7-Mali-G615_MC2-1786890141.json"
   }
 ]
