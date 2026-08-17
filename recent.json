@@ -1,5 +1,12 @@
 [
   {
+    "game": "TVP_KIRIKIRI__Z_core___Scripting_Platform_for_Win32",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1786944713,
+    "filename": "TVP_KIRIKIRI__Z_core___Scripting_Platform_for_Win32-ayn-Odin3-Adreno__TM__830-1786944713.json"
+  },
+  {
     "game": "Borderlands_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1786922701,
     "filename": "Grim_Dawn-ayn-Odin3-Adreno__TM__830-1786922701.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Origins",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1786922092,
-    "filename": "Assassin_s_Creed__Origins-nubia-NX809J-Adreno__TM__840-1786922092.json"
   }
 ]
