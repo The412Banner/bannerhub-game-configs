@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1786940325,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1786940325.json"
+  },
+  {
     "game": "Blizzard_North_Diablo_II",
     "manufacturer": "N49",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1786913846,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-24069PC21G-Adreno__TM__735-1786913846.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man__Miles_Morales",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1786906930,
-    "filename": "Marvel_s_Spider-Man__Miles_Morales-AYN-AYN_Thor-Adreno__TM__740-1786906930.json"
   }
 ]
