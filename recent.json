@@ -1,5 +1,12 @@
 [
   {
+    "game": "Doloc_Town",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1786957402,
+    "filename": "Doloc_Town-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1786957402.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1786923334,
     "filename": "RidgeRacerUnbound-AYN-Odin2_Portal-Adreno__TM__740-1786923334.json"
-  },
-  {
-    "game": "Uncharted___Legacy_of_Thieves_Collection",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1786922842,
-    "filename": "Uncharted___Legacy_of_Thieves_Collection-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1786922842.json"
   }
 ]
