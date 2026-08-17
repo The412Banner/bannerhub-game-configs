@@ -1,5 +1,12 @@
 [
   {
+    "game": "Electronic_Arts_AutoRun",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1786937821,
+    "filename": "Electronic_Arts_AutoRun-samsung-SM-M536B-Mali-G68_MC4-1786937821.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1786905630,
     "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-23049PCD8G-Adreno__TM__725-1786905630.json"
-  },
-  {
-    "game": "Prototype",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1786904327,
-    "filename": "Prototype-Xiaomi-M2102J20SG-Adreno__TM__640-1786904327.json"
   }
 ]
