@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man2",
+    "manufacturer": "26022PCACI",
+    "device": "Adreno__TM__710",
+    "timestamp": 1786969054,
+    "filename": "TheAmazingSpider-Man2-Xiaomi-26022PCACI-Adreno__TM__710-1786969054.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1786937821,
     "filename": "Electronic_Arts_AutoRun-samsung-SM-M536B-Mali-G68_MC4-1786937821.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786932137,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1786932137.json"
   }
 ]
