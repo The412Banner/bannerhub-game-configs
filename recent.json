@@ -1,5 +1,12 @@
 [
   {
+    "game": "Metro_2033_Redux",
+    "manufacturer": "26022PCACI",
+    "device": "Adreno__TM__710",
+    "timestamp": 1786969070,
+    "filename": "Metro_2033_Redux-Xiaomi-26022PCACI-Adreno__TM__710-1786969070.json"
+  },
+  {
     "game": "TheAmazingSpider-Man2",
     "manufacturer": "26022PCACI",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1786940091,
     "filename": "Blizzard_North_Diablo_II-HONOR-BKQ-N49-Adreno__TM__840-1786940091.json"
-  },
-  {
-    "game": "Electronic_Arts_AutoRun",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1786937821,
-    "filename": "Electronic_Arts_AutoRun-samsung-SM-M536B-Mali-G68_MC4-1786937821.json"
   }
 ]
