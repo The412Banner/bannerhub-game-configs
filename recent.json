@@ -1,5 +1,12 @@
 [
   {
+    "game": "DELTARUNE",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1786995386,
+    "filename": "DELTARUNE-samsung-SM-G973F-Mali-G76-1786995386.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786958682,
     "filename": "TheLongDrive-samsung-SM-A165F-Mali-G57_MC2-1786958682.json"
-  },
-  {
-    "game": "Doloc_Town",
-    "manufacturer": "Retroid_Pocket_6",
-    "device": "Adreno__TM__740",
-    "timestamp": 1786957402,
-    "filename": "Doloc_Town-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1786957402.json"
   }
 ]
