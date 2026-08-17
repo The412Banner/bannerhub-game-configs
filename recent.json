@@ -1,5 +1,12 @@
 [
   {
+    "game": "Borderlands_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1786943178,
+    "filename": "Borderlands_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1786943178.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1786922092,
     "filename": "Assassin_s_Creed__Origins-nubia-NX809J-Adreno__TM__840-1786922092.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1786918482,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1786918482.json"
   }
 ]
