@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheLongDrive",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1786958682,
+    "filename": "TheLongDrive-samsung-SM-A165F-Mali-G57_MC2-1786958682.json"
+  },
+  {
     "game": "Doloc_Town",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1786923343,
     "filename": "RidgeRacerUnbound-AYN-Odin2_Portal-Adreno__TM__740-1786923343.json"
-  },
-  {
-    "game": "RidgeRacerUnbound",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1786923334,
-    "filename": "RidgeRacerUnbound-AYN-Odin2_Portal-Adreno__TM__740-1786923334.json"
   }
 ]
