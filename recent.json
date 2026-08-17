@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1787003132,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2004J19C-Mali-G52-1787003132.json"
+  },
+  {
     "game": "Batman___Arkham_Knight",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1786988357,
     "filename": "ELDEN_RING-AYN-Odin2-Adreno__TM__740-1786988357.json"
-  },
-  {
-    "game": "Dishonored_2________________________________________________",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1786985832,
-    "filename": "Dishonored_2________________________________________________-nubia-NX809J-Adreno__TM__840-1786985832.json"
   }
 ]
