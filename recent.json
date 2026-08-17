@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mega_Man_X_Regenesis",
+    "manufacturer": "NX779J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1786997337,
+    "filename": "Mega_Man_X_Regenesis-nubia-NX779J-Adreno__TM__750-1786997337.json"
+  },
+  {
     "game": "kw",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1786962091,
     "filename": "Prototype_-samsung-SM-A725F-Adreno__TM__618-1786962091.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1786961108,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-25053PC47G-Adreno__TM__825-1786961108.json"
   }
 ]
