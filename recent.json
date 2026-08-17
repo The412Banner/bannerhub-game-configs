@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty_R___Black_Ops_II",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1786985593,
+    "filename": "Call_of_Duty_R___Black_Ops_II-samsung-SM-S911B-Adreno__TM__740-1786985593.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1786943021,
     "filename": "Pro_Evolution_Soccer_2013-realme-realme_Note_60-Mali-G57-1786943021.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1786941698,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1786941698.json"
   }
 ]
