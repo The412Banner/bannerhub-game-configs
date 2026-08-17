@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1786940340,
+    "filename": "Rise_of_the_Tomb_Raider_-INFINIX-Infinix_X6891-Mali-G720_MC7-1786940340.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1786914271,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_30_neo-Adreno__TM__619-1786914271.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1786913846,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-24069PC21G-Adreno__TM__735-1786913846.json"
   }
 ]
