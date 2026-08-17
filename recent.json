@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blizzard_North_Diablo_II",
+    "manufacturer": "N49",
+    "device": "Adreno__TM__840",
+    "timestamp": 1786940091,
+    "filename": "Blizzard_North_Diablo_II-HONOR-BKQ-N49-Adreno__TM__840-1786940091.json"
+  },
+  {
     "game": "Electronic_Arts_AutoRun",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1786906930,
     "filename": "Marvel_s_Spider-Man__Miles_Morales-AYN-AYN_Thor-Adreno__TM__740-1786906930.json"
-  },
-  {
-    "game": "Devil_May_Cry_4_Special_Edition",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1786905630,
-    "filename": "Devil_May_Cry_4_Special_Edition-Xiaomi-23049PCD8G-Adreno__TM__725-1786905630.json"
   }
 ]
