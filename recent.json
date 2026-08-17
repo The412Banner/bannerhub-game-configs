@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1786927333,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_20_-Mali-G52-1786927333.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1786924111,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1786924111.json"
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786897713,
     "filename": "forza_x64_release_final-Xiaomi-2312FPCA6G-Mali-G57_MC2-1786897713.json"
-  },
-  {
-    "game": "Brawls",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1786897280,
-    "filename": "Brawls-Anbernic-RG_406H-Mali-G57-1786897280.json"
   }
 ]
