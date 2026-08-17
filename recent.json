@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dishonored",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1786927609,
+    "filename": "Dishonored-Xiaomi-25053PC47G-Adreno__TM__825-1786927609.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1786902107,
     "filename": "GRID-Xiaomi-24117RN76O-Mali-G57_MC2-1786902107.json"
-  },
-  {
-    "game": "forza_x64_release_final",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786897713,
-    "filename": "forza_x64_release_final-Xiaomi-2312FPCA6G-Mali-G57_MC2-1786897713.json"
   }
 ]
