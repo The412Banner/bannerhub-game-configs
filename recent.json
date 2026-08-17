@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787006662,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1787006662.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013_DEMO",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1786997791,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-Adreno__TM__710-1786997791.json"
-  },
-  {
-    "game": "Mega_Man_X_Regenesis",
-    "manufacturer": "NX779J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1786997337,
-    "filename": "Mega_Man_X_Regenesis-nubia-NX779J-Adreno__TM__750-1786997337.json"
   }
 ]
