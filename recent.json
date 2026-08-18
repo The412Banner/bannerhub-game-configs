@@ -1,5 +1,12 @@
 [
   {
+    "game": "Halo__The_Master_Chief_Collection",
+    "manufacturer": "MEIZU_21",
+    "device": "Adreno__TM__750",
+    "timestamp": 1787043678,
+    "filename": "Halo__The_Master_Chief_Collection-meizu-MEIZU_21-Adreno__TM__750-1787043678.json"
+  },
+  {
     "game": "OCTOPATH_TRAVELER_",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787013211,
     "filename": "PES_13-realme-RMX3930-Mali-G57-1787013211.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787013176,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A075M-Mali-G57_MC2-1787013176.json"
   }
 ]
