@@ -1,5 +1,12 @@
 [
   {
+    "game": "Little_Nightmares_III",
+    "manufacturer": "Lenovo_L71091",
+    "device": "Adreno__TM__730",
+    "timestamp": 1787030069,
+    "filename": "Little_Nightmares_III-Lenovo-Lenovo_L71091-Adreno__TM__730-1787030069.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1787006562,
     "filename": "Pro_Evolution_Soccer_2013_DEMO-samsung-SM-S938B-Adreno__TM__830-1787006562.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1787006456,
-    "filename": "PlayGTAV-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1787006456.json"
   }
 ]
