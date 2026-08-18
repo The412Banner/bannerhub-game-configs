@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1787079233,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1787079233.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1787061498,
     "filename": "Farming_Simulator_22-Xiaomi-23122PCD1G-Adreno__TM__710-1787061498.json"
-  },
-  {
-    "game": "Megabonk",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787057897,
-    "filename": "Megabonk-INFINIX_MOBILITY_LIMITED-Infinix_X697-Mali-G57_MC2-1787057897.json"
   }
 ]
