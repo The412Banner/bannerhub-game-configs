@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g52",
+    "device": "Adreno__TM__610",
+    "timestamp": 1787054556,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g52-Adreno__TM__610-1787054556.json"
+  },
+  {
     "game": "KINGDOM_HEARTS_-_HD_1_5_2_5",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1787026811,
     "filename": "American_Truck_Simulator-samsung-SM-A546E-Mali-G68-1787026811.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1787026403,
-    "filename": "BootstrapPackagedGame-samsung-SM-A256E-Mali-G68-1787026403.json"
   }
 ]
