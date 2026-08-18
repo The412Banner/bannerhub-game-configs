@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1787070559,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2101K7BG-Mali-G76-1787070559.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1787040392,
     "filename": "OCTOPATH_TRAVELER_-ayn-Odin3-Adreno__TM__830-1787040392.json"
-  },
-  {
-    "game": "OCTOPATH_TRAVELER_II",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1787040371,
-    "filename": "OCTOPATH_TRAVELER_II-ayn-Odin3-Adreno__TM__830-1787040371.json"
   }
 ]
