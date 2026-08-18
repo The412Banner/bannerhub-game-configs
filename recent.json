@@ -1,5 +1,12 @@
 [
   {
+    "game": "Metaphor__ReFantazio",
+    "manufacturer": "F731B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787037894,
+    "filename": "Metaphor__ReFantazio-samsung-SM-F731B-Adreno__TM__740-1787037894.json"
+  },
+  {
     "game": "Dragon_Age__Inquisition",
     "manufacturer": "F731B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787010269,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1787010269.json"
-  },
-  {
-    "game": "p_s_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1787008284,
-    "filename": "p_s_2013-motorola-motorola_edge_50_neo-Mali-G615_MC2-1787008284.json"
   }
 ]
