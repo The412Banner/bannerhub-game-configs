@@ -1,5 +1,12 @@
 [
   {
+    "game": "TBH__Task_Bar_Hero",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787025039,
+    "filename": "TBH__Task_Bar_Hero-Xiaomi-23053RN02Y-Mali-G52_MC2-1787025039.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1787003132,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2004J19C-Mali-G52-1787003132.json"
-  },
-  {
-    "game": "Batman___Arkham_Knight",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1787001930,
-    "filename": "Batman___Arkham_Knight-nubia-NP05J-Adreno__TM__830-1787001930.json"
   }
 ]
