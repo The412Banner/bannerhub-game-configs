@@ -1,5 +1,12 @@
 [
   {
+    "game": "KINGDOM_HEARTS_-_HD_1_5_2_5",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787054467,
+    "filename": "KINGDOM_HEARTS_-_HD_1_5_2_5-AYN-AYN_Thor-Adreno__TM__740-1787054467.json"
+  },
+  {
     "game": "Vista_Engine",
     "manufacturer": "moto_g200_5G",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1787026403,
     "filename": "BootstrapPackagedGame-samsung-SM-A256E-Mali-G68-1787026403.json"
-  },
-  {
-    "game": "TBH__Task_Bar_Hero",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787025039,
-    "filename": "TBH__Task_Bar_Hero-Xiaomi-23053RN02Y-Mali-G52_MC2-1787025039.json"
   }
 ]
