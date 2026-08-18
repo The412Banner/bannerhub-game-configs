@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cyberpunk_2077______________________________________________",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1787055481,
+    "filename": "Cyberpunk_2077______________________________________________-INFINIX-Infinix_X6873-Mali-G615_MC6-1787055481.json"
+  },
+  {
     "game": "KINGDOM_HEARTS_-_HD_1_5_2_5",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1787036633,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787036633.json"
-  },
-  {
-    "game": "DmC__Devil_May_Cry",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1787030528,
-    "filename": "DmC__Devil_May_Cry-Xiaomi-25069PTEBG-Mali-G720_MC7-1787030528.json"
   }
 ]
