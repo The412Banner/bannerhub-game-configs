@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__III",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787020909,
+    "filename": "DARK_SOULS__III-AYN-Odin2-Adreno__TM__740-1787020909.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1787000930,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AI-Mali-G720_MC7-1787000930.json"
-  },
-  {
-    "game": "Driver",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1787000111,
-    "filename": "Driver-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1787000111.json"
   }
 ]
