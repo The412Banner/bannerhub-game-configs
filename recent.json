@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1787026403,
+    "filename": "BootstrapPackagedGame-samsung-SM-A256E-Mali-G68-1787026403.json"
+  },
+  {
     "game": "TBH__Task_Bar_Hero",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1787006063,
     "filename": "Pro_Evolution_Soccer_2013_DEMO-samsung-SM-S938B-Adreno__TM__830-1787006063.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1787003132,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2004J19C-Mali-G52-1787003132.json"
   }
 ]
