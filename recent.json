@@ -3,6 +3,13 @@
     "game": "PES_13",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1787013275,
+    "filename": "PES_13-realme-RMX3930-Mali-G57-1787013275.json"
+  },
+  {
+    "game": "PES_13",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1787013223,
     "filename": "PES_13-realme-RMX3930-Mali-G57-1787013223.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1786999568,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2310FPCA4G-Mali-G52_MC2-1786999568.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1786999310,
-    "filename": "Red_Dead_Redemption-Xiaomi-2303CRA44A-Mali-G57_MC2-1786999310.json"
   }
 ]
