@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g52",
+    "device": "Adreno__TM__610",
+    "timestamp": 1787052178,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g52-Adreno__TM__610-1787052178.json"
+  },
+  {
     "game": "Avowed",
     "manufacturer": "NX779J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787022482,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1787022482.json"
-  },
-  {
-    "game": "DARK_SOULS__III",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1787020909,
-    "filename": "DARK_SOULS__III-AYN-Odin2-Adreno__TM__740-1787020909.json"
   }
 ]
