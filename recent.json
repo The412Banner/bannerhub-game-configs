@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "F731B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787037874,
+    "filename": "Resident_Evil_2-samsung-SM-F731B-Adreno__TM__740-1787037874.json"
+  },
+  {
     "game": "Resident_Evil_7_Biohazard",
     "manufacturer": "F731B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787006765,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1787006765.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013_DEMO",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1787006722,
-    "filename": "Pro_Evolution_Soccer_2013_DEMO-samsung-SM-S938B-Adreno__TM__830-1787006722.json"
   }
 ]
