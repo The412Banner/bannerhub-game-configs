@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cloudpunk",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787077919,
+    "filename": "Cloudpunk-Anbernic-RG_406H-Mali-G57-1787077919.json"
+  },
+  {
     "game": "MARVEL_vs__CAPCOM_Fighting_Collection__Arcade_Classics",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1787053384,
     "filename": "Vista_Engine-motorola-moto_g200_5G-Adreno__TM__660-1787053384.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g52",
-    "device": "Adreno__TM__610",
-    "timestamp": 1787052178,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g52-Adreno__TM__610-1787052178.json"
   }
 ]
