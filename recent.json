@@ -1,5 +1,12 @@
 [
   {
+    "game": "Portal_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787044469,
+    "filename": "Portal_2-samsung-SM-A175F-Mali-G57_MC2-1787044469.json"
+  },
+  {
     "game": "Halo__The_Master_Chief_Collection",
     "manufacturer": "MEIZU_21",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787013223,
     "filename": "PES_13-realme-RMX3930-Mali-G57-1787013223.json"
-  },
-  {
-    "game": "PES_13",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787013211,
-    "filename": "PES_13-realme-RMX3930-Mali-G57-1787013211.json"
   }
 ]
