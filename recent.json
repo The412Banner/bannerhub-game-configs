@@ -1,5 +1,12 @@
 [
   {
+    "game": "MARVEL_vs__CAPCOM_Fighting_Collection__Arcade_Classics",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787077430,
+    "filename": "MARVEL_vs__CAPCOM_Fighting_Collection__Arcade_Classics-AYN-AYN_Thor-Adreno__TM__740-1787077430.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g22",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787052178,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g52-Adreno__TM__610-1787052178.json"
-  },
-  {
-    "game": "Avowed",
-    "manufacturer": "NX779J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1787050314,
-    "filename": "Avowed-nubia-NX779J-Adreno__TM__750-1787050314.json"
   }
 ]
