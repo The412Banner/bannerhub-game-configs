@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "22081212UG",
+    "device": "Adreno__TM__730",
+    "timestamp": 1787160641,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-22081212UG-Adreno__TM__730-1787160641.json"
+  },
+  {
     "game": "FlatOut2",
     "manufacturer": "22081212UG",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1787137104,
     "filename": "Far_Cry__2-Xiaomi-21051182G-Adreno__TM__640-1787137104.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "itel_A665L",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1787135831,
-    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A665L-PowerVR_Rogue_GE8322-1787135831.json"
   }
 ]
