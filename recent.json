@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787167914,
+    "filename": "Hollow_Knight-samsung-SM-X110-Mali-G57_MC2-1787167914.json"
+  },
+  {
     "game": "OpenAL_Installer",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1787160606,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22081212UG-Adreno__TM__730-1787160606.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1787160294,
-    "filename": "God_of_War-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1787160294.json"
   }
 ]
