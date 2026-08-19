@@ -1,5 +1,12 @@
 [
   {
+    "game": "aniyome",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1787128597,
+    "filename": "aniyome-Xiaomi-2311DRK48G-Mali-G615_MC6-1787128597.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1787095393,
     "filename": "The_First_Berserker__Khazan-Xiaomi-2308CPXD0C-Adreno__TM__740-1787095393.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Enhanced",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1787094233,
-    "filename": "Grand_Theft_Auto_V_Enhanced-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787094233.json"
   }
 ]
