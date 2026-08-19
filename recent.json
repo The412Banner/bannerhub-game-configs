@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1787123686,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_50_fusion-Adreno__TM__710-1787123686.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "moto_e22",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1787093462,
     "filename": "Assassin_s_Creed_II_________________________________________-samsung-SM-A266B-Mali-G68-1787093462.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g22",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1787087839,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1787087839.json"
   }
 ]
