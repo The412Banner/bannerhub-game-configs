@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1787140201,
+    "filename": "Resident_Evil_2-Xiaomi-24069PC21G-Adreno__TM__735-1787140201.json"
+  },
+  {
     "game": "KAHRETS_N",
     "manufacturer": "W29",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787117467,
     "filename": "Marvel_s_Spider-Man_Remastered-TECNO-TECNO_KJ7-Mali-G57_MC2-1787117467.json"
-  },
-  {
-    "game": "Hitman__Absolution_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787115740,
-    "filename": "Hitman__Absolution_-nubia-Z2577-Mali-G57-1787115740.json"
   }
 ]
