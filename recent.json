@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1787160294,
+    "filename": "God_of_War-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1787160294.json"
+  },
+  {
     "game": "DRAGON_QUEST_VII_Reimagined",
     "manufacturer": "Pocket_S",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1787133409,
     "filename": "UnityCrashHandler64-Xiaomi-21051182G-Adreno__TM__640-1787133409.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "ASUS_I005DA",
-    "device": "Adreno__TM__660",
-    "timestamp": 1787131413,
-    "filename": "Far_Cry_3-asus-ASUS_I005DA-Adreno__TM__660-1787131413.json"
   }
 ]
