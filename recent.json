@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1787099661,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_20_-Mali-G52-1787099661.json"
+  },
+  {
     "game": "Assassin_s_Creed__Rogue",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787077919,
     "filename": "Cloudpunk-Anbernic-RG_406H-Mali-G57-1787077919.json"
-  },
-  {
-    "game": "MARVEL_vs__CAPCOM_Fighting_Collection__Arcade_Classics",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1787077430,
-    "filename": "MARVEL_vs__CAPCOM_Fighting_Collection__Arcade_Classics-AYN-AYN_Thor-Adreno__TM__740-1787077430.json"
   }
 ]
