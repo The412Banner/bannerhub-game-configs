@@ -1,5 +1,12 @@
 [
   {
+    "game": "OpenAL_Installer",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787164814,
+    "filename": "OpenAL_Installer-TECNO-TECNO_CL6-Mali-G57_MC2-1787164814.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1787160294,
     "filename": "God_of_War-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1787160294.json"
-  },
-  {
-    "game": "DRAGON_QUEST_VII_Reimagined",
-    "manufacturer": "Pocket_S",
-    "device": "Adreno__TM__740",
-    "timestamp": 1787158848,
-    "filename": "DRAGON_QUEST_VII_Reimagined-AYANEO-Pocket_S-Adreno__TM__740-1787158848.json"
   }
 ]
