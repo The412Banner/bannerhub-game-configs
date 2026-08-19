@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "22081212UG",
+    "device": "Adreno__TM__730",
+    "timestamp": 1787160652,
+    "filename": "Sleeping_Dogs-Xiaomi-22081212UG-Adreno__TM__730-1787160652.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "22081212UG",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787137411,
     "filename": "KAHRETS_N-HONOR-ELN2-W29-Adreno__TM__610-1787137411.json"
-  },
-  {
-    "game": "Far_Cry__2",
-    "manufacturer": "21051182G",
-    "device": "Adreno__TM__640",
-    "timestamp": 1787137104,
-    "filename": "Far_Cry__2-Xiaomi-21051182G-Adreno__TM__640-1787137104.json"
   }
 ]
