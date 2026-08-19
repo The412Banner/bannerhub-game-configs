@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1787170892,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1787170892.json"
+  },
+  {
     "game": "MidnightFightExpress",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1787160633,
     "filename": "FlatOut2-Xiaomi-22081212UG-Adreno__TM__730-1787160633.json"
-  },
-  {
-    "game": "IW4x",
-    "manufacturer": "22081212UG",
-    "device": "Adreno__TM__730",
-    "timestamp": 1787160626,
-    "filename": "IW4x-Xiaomi-22081212UG-Adreno__TM__730-1787160626.json"
   }
 ]
