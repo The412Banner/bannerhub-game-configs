@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "ASUS_I005DA",
+    "device": "Adreno__TM__660",
+    "timestamp": 1787131413,
+    "filename": "Far_Cry_3-asus-ASUS_I005DA-Adreno__TM__660-1787131413.json"
+  },
+  {
     "game": "WARRIORS_OROCHI_4",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787100957,
     "filename": "Dead_Space__-Xiaomi-24117RN76L-Mali-G57_MC2-1787100957.json"
-  },
-  {
-    "game": "Battlefield__Bad_Company_2_Vietnam",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787100913,
-    "filename": "Battlefield__Bad_Company_2_Vietnam-nubia-Z2577-Mali-G57-1787100913.json"
   }
 ]
