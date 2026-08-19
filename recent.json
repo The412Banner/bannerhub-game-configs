@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1787163277,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1787163277.json"
+  },
+  {
     "game": "GTAIV",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1787146687,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A166M-Mali-G68-1787146687.json"
-  },
-  {
-    "game": "DreamEcho___________________________________________________",
-    "manufacturer": "25062RN2DL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1787144832,
-    "filename": "DreamEcho___________________________________________________-Xiaomi-25062RN2DL-Adreno__TM__610-1787144832.json"
   }
 ]
