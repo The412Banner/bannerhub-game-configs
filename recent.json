@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs__2",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787129061,
+    "filename": "Watch_Dogs__2-motorola-moto_g45_5G-Adreno__TM__619-1787129061.json"
+  },
+  {
     "game": "Batman___Arkham_Knight",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787100050,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X669-Mali-G57-1787100050.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1787099661,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_20_-Mali-G52-1787099661.json"
   }
 ]
