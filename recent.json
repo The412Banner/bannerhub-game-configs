@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_QUEST_VII_Reimagined",
+    "manufacturer": "Pocket_S",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787158848,
+    "filename": "DRAGON_QUEST_VII_Reimagined-AYANEO-Pocket_S-Adreno__TM__740-1787158848.json"
+  },
+  {
     "game": "FINAL_FANTASY_IX",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1787131413,
     "filename": "Far_Cry_3-asus-ASUS_I005DA-Adreno__TM__660-1787131413.json"
-  },
-  {
-    "game": "WARRIORS_OROCHI_4",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787129079,
-    "filename": "WARRIORS_OROCHI_4-motorola-moto_g45_5G-Adreno__TM__619-1787129079.json"
   }
 ]
