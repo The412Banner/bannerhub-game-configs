@@ -1,5 +1,12 @@
 [
   {
+    "game": "Warcraft___Frozen_Throne",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787154110,
+    "filename": "Warcraft___Frozen_Throne-Blackview-MEGA_2-Mali-G57-1787154110.json"
+  },
+  {
     "game": "FS_17",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787129055,
     "filename": "Batman___Arkham_Knight-motorola-moto_g45_5G-Adreno__TM__619-1787129055.json"
-  },
-  {
-    "game": "AC3SP",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787129047,
-    "filename": "AC3SP-motorola-moto_g45_5G-Adreno__TM__619-1787129047.json"
   }
 ]
