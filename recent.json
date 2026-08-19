@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "itel_A665L",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1787135831,
+    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A665L-PowerVR_Rogue_GE8322-1787135831.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "S948B",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1787114650,
     "filename": "Fears_to_Fathom_-_Ironbark_Lookout-Xiaomi-22101316G-Mali-G68_MC4-1787114650.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1787113040,
-    "filename": "Resident_Evil_6-samsung-SM-S938B-Adreno__TM__830-1787113040.json"
   }
 ]
