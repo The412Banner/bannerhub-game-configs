@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hitman__Absolution_",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787114762,
+    "filename": "Hitman__Absolution_-nubia-Z2577-Mali-G57-1787114762.json"
+  },
+  {
     "game": "Fears_to_Fathom_-_Ironbark_Lookout",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1787084144,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1787084144.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2016",
-    "manufacturer": "A057F",
-    "device": "Adreno__TM__610",
-    "timestamp": 1787080175,
-    "filename": "Pro_Evolution_Soccer_2016-samsung-SM-A057F-Adreno__TM__610-1787080175.json"
   }
 ]
