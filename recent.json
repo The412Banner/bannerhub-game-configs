@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man_Remastered",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787117467,
+    "filename": "Marvel_s_Spider-Man_Remastered-TECNO-TECNO_KJ7-Mali-G57_MC2-1787117467.json"
+  },
+  {
     "game": "Hitman__Absolution_",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1787085737,
     "filename": "Grandma_Left_Me_A_Building_Demo-AYANEO-Pocket_FIT-Adreno__TM__750-1787085737.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1787085618,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787085618.json"
   }
 ]
