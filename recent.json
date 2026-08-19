@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1787175616,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787175616.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1787160671,
     "filename": "Sleeping_Dogs-Xiaomi-22081212UG-Adreno__TM__730-1787160671.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "22081212UG",
-    "device": "Adreno__TM__730",
-    "timestamp": 1787160652,
-    "filename": "Sleeping_Dogs-Xiaomi-22081212UG-Adreno__TM__730-1787160652.json"
   }
 ]
