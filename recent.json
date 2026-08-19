@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__Bad_Company_2_Vietnam",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787100913,
+    "filename": "Battlefield__Bad_Company_2_Vietnam-nubia-Z2577-Mali-G57-1787100913.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1787078189,
     "filename": "Mortal_Kombat_Komplete_Edition-samsung-SM-S928B-Adreno__TM__750-1787078189.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g22",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1787078035,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1787078035.json"
   }
 ]
