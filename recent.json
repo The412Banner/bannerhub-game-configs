@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1787113040,
+    "filename": "Resident_Evil_6-samsung-SM-S938B-Adreno__TM__830-1787113040.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1787079233,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1787079233.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1787078766,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2511FPC34G-Mali-G720_MC8-1787078766.json"
   }
 ]
