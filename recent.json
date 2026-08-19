@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__2",
+    "manufacturer": "21051182G",
+    "device": "Adreno__TM__640",
+    "timestamp": 1787137104,
+    "filename": "Far_Cry__2-Xiaomi-21051182G-Adreno__TM__640-1787137104.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "itel_A665L",
     "device": "PowerVR_Rogue_GE8322",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787114762,
     "filename": "Hitman__Absolution_-nubia-Z2577-Mali-G57-1787114762.json"
-  },
-  {
-    "game": "Fears_to_Fathom_-_Ironbark_Lookout",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1787114650,
-    "filename": "Fears_to_Fathom_-_Ironbark_Lookout-Xiaomi-22101316G-Mali-G68_MC4-1787114650.json"
   }
 ]
