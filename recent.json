@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787178862,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A035M-Mali-G57-1787178862.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787161761,
     "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-motorola-moto_g24-Mali-G52_MC2-1787161761.json"
-  },
-  {
-    "game": "Outlast",
-    "manufacturer": "22081212UG",
-    "device": "Adreno__TM__730",
-    "timestamp": 1787160680,
-    "filename": "Outlast-Xiaomi-22081212UG-Adreno__TM__730-1787160680.json"
   }
 ]
