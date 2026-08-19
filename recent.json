@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1787103743,
+    "filename": "BootstrapPackagedGame-Xiaomi-22101316G-Mali-G68_MC4-1787103743.json"
+  },
+  {
     "game": "Dead_Space__",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787078702,
     "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-motorola-moto_g24-Mali-G52_MC2-1787078702.json"
-  },
-  {
-    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787078334,
-    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-motorola-moto_g24-Mali-G52_MC2-1787078334.json"
   }
 ]
