@@ -1,5 +1,12 @@
 [
   {
+    "game": "MidnightFightExpress",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787168686,
+    "filename": "MidnightFightExpress-Anbernic-RG_406H-Mali-G57-1787168686.json"
+  },
+  {
     "game": "Hollow_Knight",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1787160626,
     "filename": "IW4x-Xiaomi-22081212UG-Adreno__TM__730-1787160626.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "22081212UG",
-    "device": "Adreno__TM__730",
-    "timestamp": 1787160606,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22081212UG-Adreno__TM__730-1787160606.json"
   }
 ]
