@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN",
+    "manufacturer": "S928N",
+    "device": "Adreno__TM__750",
+    "timestamp": 1787140278,
+    "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-samsung-SM-S928N-Adreno__TM__750-1787140278.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1787118343,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-moto_e22-PowerVR_Rogue_GE8320-1787118343.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man_Remastered",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787117467,
-    "filename": "Marvel_s_Spider-Man_Remastered-TECNO-TECNO_KJ7-Mali-G57_MC2-1787117467.json"
   }
 ]
