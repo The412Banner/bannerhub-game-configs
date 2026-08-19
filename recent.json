@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "NX779J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1787181018,
+    "filename": "BlackOps-nubia-NX779J-Adreno__TM__750-1787181018.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1787162272,
     "filename": "GTAIV-Xiaomi-25053PC47G-Adreno__TM__825-1787162272.json"
-  },
-  {
-    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787161761,
-    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-motorola-moto_g24-Mali-G52_MC2-1787161761.json"
   }
 ]
