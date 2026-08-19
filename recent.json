@@ -1,5 +1,12 @@
 [
   {
+    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787161761,
+    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-motorola-moto_g24-Mali-G52_MC2-1787161761.json"
+  },
+  {
     "game": "Outlast",
     "manufacturer": "22081212UG",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787144799,
     "filename": "DreamEcho___________________________________________________-Xiaomi-25062RN2DL-Adreno__TM__610-1787144799.json"
-  },
-  {
-    "game": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN",
-    "manufacturer": "S928N",
-    "device": "Adreno__TM__750",
-    "timestamp": 1787140278,
-    "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-samsung-SM-S928N-Adreno__TM__750-1787140278.json"
   }
 ]
