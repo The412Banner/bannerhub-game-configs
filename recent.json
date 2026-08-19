@@ -1,5 +1,12 @@
 [
   {
+    "game": "Warcraft___Frozen_Throne",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787146724,
+    "filename": "Warcraft___Frozen_Throne-Blackview-MEGA_2-Mali-G57-1787146724.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787129040,
     "filename": "Need_for_Speed__Heat-motorola-moto_g45_5G-Adreno__TM__619-1787129040.json"
-  },
-  {
-    "game": "aniyome",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1787128597,
-    "filename": "aniyome-Xiaomi-2311DRK48G-Mali-G615_MC6-1787128597.json"
   }
 ]
