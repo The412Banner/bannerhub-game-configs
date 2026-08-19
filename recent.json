@@ -1,5 +1,12 @@
 [
   {
+    "game": "Outlast",
+    "manufacturer": "22081212UG",
+    "device": "Adreno__TM__730",
+    "timestamp": 1787160680,
+    "filename": "Outlast-Xiaomi-22081212UG-Adreno__TM__730-1787160680.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "22081212UG",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1787140278,
     "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-samsung-SM-S928N-Adreno__TM__750-1787140278.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1787140201,
-    "filename": "Resident_Evil_2-Xiaomi-24069PC21G-Adreno__TM__735-1787140201.json"
   }
 ]
