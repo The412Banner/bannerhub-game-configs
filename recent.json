@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman___Arkham_Knight",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787129055,
+    "filename": "Batman___Arkham_Knight-motorola-moto_g45_5G-Adreno__TM__619-1787129055.json"
+  },
+  {
     "game": "AC3SP",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1787099661,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_20_-Mali-G52-1787099661.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Rogue",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1787098872,
-    "filename": "Assassin_s_Creed__Rogue-samsung-SM-A057M-Adreno__TM__610-1787098872.json"
   }
 ]
