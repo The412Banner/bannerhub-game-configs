@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTAIV",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1787162272,
+    "filename": "GTAIV-Xiaomi-25053PC47G-Adreno__TM__825-1787162272.json"
+  },
+  {
     "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787144832,
     "filename": "DreamEcho___________________________________________________-Xiaomi-25062RN2DL-Adreno__TM__610-1787144832.json"
-  },
-  {
-    "game": "DreamEcho___________________________________________________",
-    "manufacturer": "25062RN2DL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1787144799,
-    "filename": "DreamEcho___________________________________________________-Xiaomi-25062RN2DL-Adreno__TM__610-1787144799.json"
   }
 ]
