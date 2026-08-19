@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787129063,
+    "filename": "Resident_Evil_2-motorola-moto_g45_5G-Adreno__TM__619-1787129063.json"
+  },
+  {
     "game": "Watch_Dogs__2",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787100534,
     "filename": "SPEED2-samsung-SM-A057M-Adreno__TM__610-1787100534.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787100050,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X669-Mali-G57-1787100050.json"
   }
 ]
