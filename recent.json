@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__New_Dawn",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787186176,
+    "filename": "Far_Cry__New_Dawn-motorola-moto_g45_5G-Adreno__TM__619-1787186176.json"
+  },
+  {
     "game": "Far_Cry__Primal",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787164087,
     "filename": "Pro_Evolution_Soccer_2013-realme-realme_Note_60-Mali-G57-1787164087.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1787164165,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1787164165.json"
   }
 ]
