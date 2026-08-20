@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787227541,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5313-Mali-G57-1787227541.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1787227085,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A065F-Mali-G52_MC2-1787227085.json"
@@ -131,12 +138,5 @@
     "device": "ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231",
     "timestamp": 1787194785,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231-1787194785.json"
-  },
-  {
-    "game": "Need_for_Speed__Most_Wanted",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1787194362,
-    "filename": "Need_for_Speed__Most_Wanted-Xiaomi-24117RK2CG-Adreno__TM__750-1787194362.json"
   }
 ]
