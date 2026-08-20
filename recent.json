@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__Primal",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787186170,
+    "filename": "Far_Cry__Primal-motorola-moto_g45_5G-Adreno__TM__619-1787186170.json"
+  },
+  {
     "game": "Battlefield__Bad_Company_2_Vietnam",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1787164165,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1787164165.json"
-  },
-  {
-    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787163700,
-    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-motorola-moto_g45_5G-Adreno__TM__619-1787163700.json"
   }
 ]
