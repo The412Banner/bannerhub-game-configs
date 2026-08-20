@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A556E",
+    "device": "ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231",
+    "timestamp": 1787194785,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231-1787194785.json"
+  },
+  {
     "game": "Need_for_Speed__Most_Wanted",
     "manufacturer": "24117RK2CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787168686,
     "filename": "MidnightFightExpress-Anbernic-RG_406H-Mali-G57-1787168686.json"
-  },
-  {
-    "game": "Hollow_Knight",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787167914,
-    "filename": "Hollow_Knight-samsung-SM-X110-Mali-G57_MC2-1787167914.json"
   }
 ]
