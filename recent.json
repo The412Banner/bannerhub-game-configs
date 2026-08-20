@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta_sa",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787264245,
+    "filename": "gta_sa-samsung-SM-A075M-Mali-G57_MC2-1787264245.json"
+  },
+  {
     "game": "Montabi",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1787236138,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1787236138.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1787236085,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-INFINIX-Infinix_X6731-Mali-G77_MC9-1787236085.json"
   }
 ]
