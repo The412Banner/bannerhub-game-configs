@@ -3,6 +3,13 @@
     "game": "Resident_Evil_6",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
+    "timestamp": 1787202512,
+    "filename": "Resident_Evil_6-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1787202512.json"
+  },
+  {
+    "game": "Resident_Evil_6",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
     "timestamp": 1787202496,
     "filename": "Resident_Evil_6-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1787202496.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787186170,
     "filename": "Far_Cry__Primal-motorola-moto_g45_5G-Adreno__TM__619-1787186170.json"
-  },
-  {
-    "game": "Battlefield__Bad_Company_2_Vietnam",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787185048,
-    "filename": "Battlefield__Bad_Company_2_Vietnam-nubia-Z2577-Mali-G57-1787185048.json"
   }
 ]
