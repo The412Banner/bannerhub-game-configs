@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dying_Light_2_Stay_Human__Reloaded_Edition",
+    "manufacturer": "Pocket_S2_Pro",
+    "device": "Adreno__TM__750",
+    "timestamp": 1787246688,
+    "filename": "Dying_Light_2_Stay_Human__Reloaded_Edition-AYANEO-Pocket_S2_Pro-Adreno__TM__750-1787246688.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787228061,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-24117RN76G-Mali-G57_MC2-1787228061.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787227575,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5313-Mali-G57-1787227575.json"
   }
 ]
