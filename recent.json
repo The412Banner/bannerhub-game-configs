@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1787220305,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X230-Mali-G615_MC2-1787220305.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "V2318",
     "device": "Adreno__TM__720",
     "timestamp": 1787220107,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1787191305,
     "filename": "Grand_Theft_Auto_V_Legacy-blackshark-SHARK_PRS-A0-Adreno__TM__650-1787191305.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A556E",
-    "device": "ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231",
-    "timestamp": 1787188513,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231-1787188513.json"
   }
 ]
