@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_3_Special_Edition",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1787202984,
+    "filename": "Devil_May_Cry_3_Special_Edition-Xiaomi-23049PCD8G-Adreno__TM__725-1787202984.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787186176,
     "filename": "Far_Cry__New_Dawn-motorola-moto_g45_5G-Adreno__TM__619-1787186176.json"
-  },
-  {
-    "game": "Far_Cry__Primal",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787186170,
-    "filename": "Far_Cry__Primal-motorola-moto_g45_5G-Adreno__TM__619-1787186170.json"
   }
 ]
