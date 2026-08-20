@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__V",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1787195751,
+    "filename": "Battlefield__V-LENOVO-TB321FU-Adreno__TM__750-1787195751.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A556E",
     "device": "ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1787172190,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A356E-Mali-G68-1787172190.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1787170892,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1787170892.json"
   }
 ]
