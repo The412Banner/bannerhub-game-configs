@@ -1,5 +1,12 @@
 [
   {
+    "game": "Death_Coming____",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1787243344,
+    "filename": "Death_Coming____-Xiaomi-2311DRK48G-Mali-G615_MC6-1787243344.json"
+  },
+  {
     "game": "FATAL_FURY__City_of_the_Wolves",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787227085,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A065F-Mali-G52_MC2-1787227085.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1787224388,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A047F-Mali-G52-1787224388.json"
   }
 ]
