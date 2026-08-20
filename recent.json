@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1787237941,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1787237941.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1787203384,
     "filename": "Resident_Evil_6-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1787203384.json"
-  },
-  {
-    "game": "Devil_May_Cry_3_Special_Edition",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1787202984,
-    "filename": "Devil_May_Cry_3_Special_Edition-Xiaomi-23049PCD8G-Adreno__TM__725-1787202984.json"
   }
 ]
