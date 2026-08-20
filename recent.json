@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__Bad_Company_2_Vietnam",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787185048,
+    "filename": "Battlefield__Bad_Company_2_Vietnam-nubia-Z2577-Mali-G57-1787185048.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787163700,
     "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-motorola-moto_g45_5G-Adreno__TM__619-1787163700.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1787163277,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1787163277.json"
   }
 ]
