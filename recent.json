@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_7_Biohazard",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787186180,
+    "filename": "Resident_Evil_7_Biohazard-motorola-moto_g45_5G-Adreno__TM__619-1787186180.json"
+  },
+  {
     "game": "Far_Cry__New_Dawn",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1787164602,
     "filename": "GTAIV-Xiaomi-25053PC47G-Adreno__TM__825-1787164602.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787164087,
-    "filename": "Pro_Evolution_Soccer_2013-realme-realme_Note_60-Mali-G57-1787164087.json"
   }
 ]
