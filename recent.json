@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty_4_Modern_Warfare",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787196265,
+    "filename": "Call_of_Duty_4_Modern_Warfare-TECNO-TECNO_LI9-Mali-G57_MC2-1787196265.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1787175616,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787175616.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1787174439,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A356E-Mali-G68-1787174439.json"
   }
 ]
