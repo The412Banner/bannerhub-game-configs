@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1787214304,
+    "filename": "Euro_Truck_Simulator_2-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1787214304.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787187112,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1787187112.json"
-  },
-  {
-    "game": "Resident_Evil_7_Biohazard",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787186180,
-    "filename": "Resident_Evil_7_Biohazard-motorola-moto_g45_5G-Adreno__TM__619-1787186180.json"
   }
 ]
