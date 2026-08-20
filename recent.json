@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1787236138,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1787236138.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1787197335,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-HEY3-W00-Adreno__TM__720-1787197335.json"
-  },
-  {
-    "game": "mxbikes",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787196894,
-    "filename": "mxbikes-realme-RMX3938-Mali-G57-1787196894.json"
   }
 ]
