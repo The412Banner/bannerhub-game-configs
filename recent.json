@@ -1,5 +1,12 @@
 [
   {
+    "game": "Black_Myth__Wukong",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787187700,
+    "filename": "Black_Myth__Wukong-realme-RMX3938-Mali-G57-1787187700.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "SM8735",
     "timestamp": 1787164659,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-25053PC47G-SM8735-1787164659.json"
-  },
-  {
-    "game": "____",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1787164713,
-    "filename": "____-Xiaomi-25053PC47G-Adreno__TM__825-1787164713.json"
   }
 ]
