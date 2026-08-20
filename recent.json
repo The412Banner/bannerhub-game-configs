@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "V2318",
+    "device": "Adreno__TM__720",
+    "timestamp": 1787220107,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2318-Adreno__TM__720-1787220107.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man__Miles_Morales",
     "manufacturer": "PLQ110",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231",
     "timestamp": 1787188513,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231-1787188513.json"
-  },
-  {
-    "game": "Black_Myth__Wukong",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787187700,
-    "filename": "Black_Myth__Wukong-realme-RMX3938-Mali-G57-1787187700.json"
   }
 ]
