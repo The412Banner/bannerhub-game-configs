@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "S918N",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787244411,
+    "filename": "Devil_May_Cry_4_Special_Edition-samsung-SM-S918N-Adreno__TM__740-1787244411.json"
+  },
+  {
     "game": "Death_Coming____",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787227541,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5313-Mali-G57-1787227541.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787227085,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A065F-Mali-G52_MC2-1787227085.json"
   }
 ]
