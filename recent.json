@@ -1,5 +1,12 @@
 [
   {
+    "game": "FATAL_FURY__City_of_the_Wolves",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1787242916,
+    "filename": "FATAL_FURY__City_of_the_Wolves-ayn-Odin3-Adreno__TM__830-1787242916.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1787224388,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A047F-Mali-G52-1787224388.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1787220305,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X230-Mali-G615_MC2-1787220305.json"
   }
 ]
