@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1787236085,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-INFINIX-Infinix_X6731-Mali-G77_MC9-1787236085.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787196894,
     "filename": "mxbikes-realme-RMX3938-Mali-G57-1787196894.json"
-  },
-  {
-    "game": "Resident_Evil_Village",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787196888,
-    "filename": "Resident_Evil_Village-motorola-moto_g45_5G-Adreno__TM__619-1787196888.json"
   }
 ]
