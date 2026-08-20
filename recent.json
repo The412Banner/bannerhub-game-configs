@@ -1,5 +1,12 @@
 [
   {
+    "game": "GrandChase",
+    "manufacturer": "X620",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1787236690,
+    "filename": "GrandChase-samsung-SM-X620-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1787236690.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1787202512,
     "filename": "Resident_Evil_6-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1787202512.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1787202496,
-    "filename": "Resident_Evil_6-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1787202496.json"
   }
 ]
