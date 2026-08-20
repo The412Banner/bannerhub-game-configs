@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2______________________________________",
+    "manufacturer": "A125F",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1787258317,
+    "filename": "Euro_Truck_Simulator_2______________________________________-samsung-SM-A125F-PowerVR_Rogue_GE8320-1787258317.json"
+  },
+  {
     "game": "Garry_s_Mod",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787234516,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g14-Mali-G57-1787234516.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Enhanced",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1787230085,
-    "filename": "Grand_Theft_Auto_V_Enhanced-samsung-SM-A047F-Mali-G52-1787230085.json"
   }
 ]
