@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787228061,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-24117RN76G-Mali-G57_MC2-1787228061.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1787195751,
     "filename": "Battlefield__V-LENOVO-TB321FU-Adreno__TM__750-1787195751.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A556E",
-    "device": "ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231",
-    "timestamp": 1787195656,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231-1787195656.json"
   }
 ]
