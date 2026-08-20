@@ -1,5 +1,12 @@
 [
   {
+    "game": "OpenIV",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1787228760,
+    "filename": "OpenIV-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787228760.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787196237,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2312FPCA6G-Mali-G57_MC2-1787196237.json"
-  },
-  {
-    "game": "Battlefield__V",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1787195751,
-    "filename": "Battlefield__V-LENOVO-TB321FU-Adreno__TM__750-1787195751.json"
   }
 ]
