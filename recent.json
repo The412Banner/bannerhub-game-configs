@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1787202496,
+    "filename": "Resident_Evil_6-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1787202496.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "W00",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787185048,
     "filename": "Battlefield__Bad_Company_2_Vietnam-nubia-Z2577-Mali-G57-1787185048.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787183580,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6833B-Mali-G57_MC2-1787183580.json"
   }
 ]
