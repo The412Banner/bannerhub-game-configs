@@ -1,5 +1,12 @@
 [
   {
+    "game": "HITMAN_",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1787264501,
+    "filename": "HITMAN_-TECNO-TECNO_CM7-Mali-G615_MC2-1787264501.json"
+  },
+  {
     "game": "gta_sa",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787236402,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-23129RA5FL-Adreno__TM__610-1787236402.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1787236138,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1787236138.json"
   }
 ]
