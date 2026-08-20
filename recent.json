@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Village",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787196888,
+    "filename": "Resident_Evil_Village-motorola-moto_g45_5G-Adreno__TM__619-1787196888.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "G975W",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787178862,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A035M-Mali-G57-1787178862.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787175775,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_e13-Mali-G57-1787175775.json"
   }
 ]
