@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "2201117TY",
+    "device": "Adreno__TM__610",
+    "timestamp": 1787258637,
+    "filename": "God_of_War_Ragnar_k-Xiaomi-2201117TY-Adreno__TM__610-1787258637.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2______________________________________",
     "manufacturer": "A125F",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1787236033,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1787236033.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787234516,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g14-Mali-G57-1787234516.json"
   }
 ]
