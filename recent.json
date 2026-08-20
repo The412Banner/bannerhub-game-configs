@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1787203384,
+    "filename": "Resident_Evil_6-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1787203384.json"
+  },
+  {
     "game": "Devil_May_Cry_3_Special_Edition",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787186180,
     "filename": "Resident_Evil_7_Biohazard-motorola-moto_g45_5G-Adreno__TM__619-1787186180.json"
-  },
-  {
-    "game": "Far_Cry__New_Dawn",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787186176,
-    "filename": "Far_Cry__New_Dawn-motorola-moto_g45_5G-Adreno__TM__619-1787186176.json"
   }
 ]
