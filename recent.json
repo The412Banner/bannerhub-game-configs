@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1787236033,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1787236033.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787196888,
     "filename": "Resident_Evil_Village-motorola-moto_g45_5G-Adreno__TM__619-1787196888.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "G975W",
-    "device": "Adreno__TM__640",
-    "timestamp": 1787196275,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G975W-Adreno__TM__640-1787196275.json"
   }
 ]
