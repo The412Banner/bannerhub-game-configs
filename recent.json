@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787308982,
+    "filename": "Red_Dead_Redemption_2-Xiaomi-2312FPCA6G-Mali-G57_MC2-1787308982.json"
+  },
+  {
     "game": "Prototype_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787268844,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1787268844.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787268835,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1787268835.json"
   }
 ]
