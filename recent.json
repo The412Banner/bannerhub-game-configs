@@ -3,6 +3,13 @@
     "game": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1787336402,
+    "filename": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719-samsung-SM-A155F-Mali-G57_MC2-1787336402.json"
+  },
+  {
+    "game": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1787336299,
     "filename": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719-samsung-SM-A155F-Mali-G57_MC2-1787336299.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1787316808,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S928B-Adreno__TM__750-1787316808.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787316548,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NLA-LX2P-Mali-G52_MC2-1787316548.json"
   }
 ]
