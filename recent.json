@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prototype_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787305419,
+    "filename": "Prototype_2-Xiaomi-23108RN04Y-Mali-G52_MC2-1787305419.json"
+  },
+  {
     "game": "Dying_Light",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787268835,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1787268835.json"
-  },
-  {
-    "game": "Cars_2",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1787267903,
-    "filename": "Cars_2-INFINIX-Infinix_X6815D-Mali-G68_MC4-1787267903.json"
   }
 ]
