@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1787336094,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1787336094.json"
+  },
+  {
     "game": "ch5_pro",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787309212,
     "filename": "Resident_Evil_5-motorola-moto_g45_5G-Adreno__TM__619-1787309212.json"
-  },
-  {
-    "game": "Need_for_Speed__The_Run",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787309208,
-    "filename": "Need_for_Speed__The_Run-motorola-moto_g45_5G-Adreno__TM__619-1787309208.json"
   }
 ]
