@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "LX9",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1787321333,
+    "filename": "DRAGON_BALL__Sparking__ZERO-HUAWEI-NAM-LX9-Adreno__TM__642L-1787321333.json"
+  },
+  {
     "game": "Need_for_Speed__The_Run",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1787289109,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-INFINIX-Infinix_X6731-Mali-G77_MC9-1787289109.json"
-  },
-  {
-    "game": "Dying_Light",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787287408,
-    "filename": "Dying_Light-motorola-moto_g45_5G-Adreno__TM__619-1787287408.json"
   }
 ]
