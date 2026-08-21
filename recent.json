@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Unity",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787287369,
+    "filename": "Assassin_s_Creed__Unity-motorola-moto_g45_5G-Adreno__TM__619-1787287369.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787254728,
     "filename": "Garry_s_Mod-Xiaomi-25028RN03A-Mali-G57-1787254728.json"
-  },
-  {
-    "game": "____",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1787249495,
-    "filename": "____-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1787249495.json"
   }
 ]
