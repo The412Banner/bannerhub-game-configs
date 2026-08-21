@@ -1,5 +1,12 @@
 [
   {
+    "game": "GSE____________________",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1787354189,
+    "filename": "GSE____________________-nubia-NX809J-Adreno__TM__840-1787354189.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2201117TG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787328153,
     "filename": "OpenAL_Installer-samsung-SM-X115-Mali-G57_MC2-1787328153.json"
-  },
-  {
-    "game": "fifa14-3dm",
-    "manufacturer": "RMX3890",
-    "device": "Adreno__TM__610",
-    "timestamp": 1787326164,
-    "filename": "fifa14-3dm-realme-RMX3890-Adreno__TM__610-1787326164.json"
   }
 ]
