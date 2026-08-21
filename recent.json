@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "Series_Vulkan_Driver",
+    "device": "1_662_3024_",
+    "timestamp": 1787345977,
+    "filename": "Red_Dead_Redemption_2-Google-Pixel_11_Pro_XL-ANGLE__Imagination_Technologies__Vulkan_1_4_317__PowerVR_C-Series_CXTP-48-1536_MC1__0x70061042____PowerVR_C-Series_Vulkan_Driver-1_662_3024_-1787345977.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787319873,
     "filename": "Need_for_Speed__The_Run-motorola-moto_g45_5G-Adreno__TM__619-1787319873.json"
-  },
-  {
-    "game": "Need_for_Speed__Rivals",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787319864,
-    "filename": "Need_for_Speed__Rivals-motorola-moto_g45_5G-Adreno__TM__619-1787319864.json"
   }
 ]
