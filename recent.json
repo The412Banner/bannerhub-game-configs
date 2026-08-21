@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition_",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787346604,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition_-realme-RMX3834-Mali-G57-1787346604.json"
+  },
+  {
     "game": "Samsung_USB_Driver_for_Mobile_Phones",
     "manufacturer": "A528B",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787321909,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e32-Mali-G57-1787321909.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "LX9",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1787321333,
-    "filename": "DRAGON_BALL__Sparking__ZERO-HUAWEI-NAM-LX9-Adreno__TM__642L-1787321333.json"
   }
 ]
