@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Sparking__ZERO",
+    "manufacturer": "S916B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787276305,
+    "filename": "DRAGON_BALL_Sparking__ZERO-samsung-SM-S916B-Adreno__TM__740-1787276305.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1787244411,
     "filename": "Devil_May_Cry_4_Special_Edition-samsung-SM-S918N-Adreno__TM__740-1787244411.json"
-  },
-  {
-    "game": "Death_Coming____",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1787243344,
-    "filename": "Death_Coming____-Xiaomi-2311DRK48G-Mali-G615_MC6-1787243344.json"
   }
 ]
