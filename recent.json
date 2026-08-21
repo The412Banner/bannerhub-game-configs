@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1787294153,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A266M-Mali-G68-1787294153.json"
+  },
+  {
     "game": "Need_for_Speed__The_Run",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787264245,
     "filename": "gta_sa-samsung-SM-A075M-Mali-G57_MC2-1787264245.json"
-  },
-  {
-    "game": "Montabi",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1787260265,
-    "filename": "Montabi-Xiaomi-25053PC47G-Adreno__TM__825-1787260265.json"
   }
 ]
