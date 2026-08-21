@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787316548,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NLA-LX2P-Mali-G52_MC2-1787316548.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787274529,
     "filename": "Grand_Theft_Auto_V-motorola-moto_g14-Mali-G57-1787274529.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787274413,
-    "filename": "Grand_Theft_Auto_V-motorola-moto_g14-Mali-G57-1787274413.json"
   }
 ]
