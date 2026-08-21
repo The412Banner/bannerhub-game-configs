@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1787334277,
+    "filename": "ch5_pro-Xiaomi-23129RA5FL-Adreno__TM__610-1787334277.json"
+  },
+  {
     "game": "Chapter1_",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787309208,
     "filename": "Need_for_Speed__The_Run-motorola-moto_g45_5G-Adreno__TM__619-1787309208.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787308982,
-    "filename": "Red_Dead_Redemption_2-Xiaomi-2312FPCA6G-Mali-G57_MC2-1787308982.json"
   }
 ]
