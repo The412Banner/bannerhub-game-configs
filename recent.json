@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787336299,
+    "filename": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719-samsung-SM-A155F-Mali-G57_MC2-1787336299.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787316548,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NLA-LX2P-Mali-G52_MC2-1787316548.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787309212,
-    "filename": "Resident_Evil_5-motorola-moto_g45_5G-Adreno__TM__619-1787309212.json"
   }
 ]
