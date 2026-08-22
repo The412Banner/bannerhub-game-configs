@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Launcher_Done",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1787425439,
+    "filename": "GTA_V_Launcher_Done-samsung-SM-A356E-Mali-G68-1787425439.json"
+  },
+  {
     "game": "Battlefield__1",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787401714,
     "filename": "WUCHANG__Fallen_Feathers-motorola-moto_g45_5G-Adreno__TM__619-1787401714.json"
-  },
-  {
-    "game": "WUCHANG__Fallen_Feathers",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787400768,
-    "filename": "WUCHANG__Fallen_Feathers-motorola-moto_g45_5G-Adreno__TM__619-1787400768.json"
   }
 ]
