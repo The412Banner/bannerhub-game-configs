@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1787435691,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1787435691.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "2107113SR",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787409823,
     "filename": "GUNDAM_BREAKER_4-motorola-moto_g45_5G-Adreno__TM__619-1787409823.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787409455,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-samsung-SM-A075M-Mali-G57_MC2-1787409455.json"
   }
 ]
