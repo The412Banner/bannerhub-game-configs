@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause__3",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787370265,
+    "filename": "Just_Cause__3-motorola-moto_g45_5G-Adreno__TM__619-1787370265.json"
+  },
+  {
     "game": "Need_for_Speed__The_Run",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787348597,
     "filename": "CRISTIANO_NEYMAR_PRIME-motorola-moto_g15-Mali-G52_MC2-1787348597.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787346604,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition_-realme-RMX3834-Mali-G57-1787346604.json"
   }
 ]
