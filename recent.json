@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787399143,
+    "filename": "Devil_May_Cry_4_Special_Edition-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1787399143.json"
+  },
+  {
     "game": "Yellow_Taxi_Goes_Vroom",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1787363073,
     "filename": "Red_Dead_Redemption_2-AYN-Odin2_Portal-Adreno__TM__740-1787363073.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G610_MC4",
-    "timestamp": 1787362276,
-    "filename": "God_of_War-Nothing-A142-Mali-G610_MC4-1787362276.json"
   }
 ]
