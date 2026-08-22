@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A576B",
+    "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
+    "timestamp": 1787412091,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A576B-ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_-1787412091.json"
+  },
+  {
     "game": "GUNDAM_BREAKER_4",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1787386763,
     "filename": "FINAL_FANTASY_IX-samsung-SM-S938B-Adreno__TM__830-1787386763.json"
-  },
-  {
-    "game": "Car_For_Sale_Simulator_2023",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1787381911,
-    "filename": "Car_For_Sale_Simulator_2023-samsung-SM-G973F-Mali-G76-1787381911.json"
   }
 ]
