@@ -1,5 +1,12 @@
 [
   {
+    "game": "Asphalt9_epic_x64_rtl",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787414736,
+    "filename": "Asphalt9_epic_x64_rtl-vivo-V2351-Mali-G57_MC2-1787414736.json"
+  },
+  {
     "game": "Ex-Zodiac",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1787394105,
     "filename": "Sleeping_Dogs-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1787394105.json"
-  },
-  {
-    "game": "Paralives",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787392684,
-    "filename": "Paralives-samsung-SM-S146VL-Mali-G57_MC2-1787392684.json"
   }
 ]
