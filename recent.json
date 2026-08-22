@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "2107113SR",
+    "device": "Adreno__TM__660",
+    "timestamp": 1787434757,
+    "filename": "Mortal_Kombat_X-Xiaomi-2107113SR-Adreno__TM__660-1787434757.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "V2040",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787409455,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-samsung-SM-A075M-Mali-G57_MC2-1787409455.json"
-  },
-  {
-    "game": "NBA2K17",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1787409386,
-    "filename": "NBA2K17-nubia-NP05J-Adreno__TM__830-1787409386.json"
   }
 ]
