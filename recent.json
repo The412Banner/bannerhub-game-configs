@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__4",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787398620,
+    "filename": "Far_Cry__4-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1787398620.json"
+  },
+  {
     "game": "TheAmazingSpider-Man",
     "manufacturer": "2509BRP2DI",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787359314,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6720B-Mali-G57_MC2-1787359314.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Revelations",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787357469,
-    "filename": "Assassin_s_Creed__Revelations-motorola-moto_g45_5G-Adreno__TM__619-1787357469.json"
   }
 ]
