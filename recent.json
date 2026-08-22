@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "G720",
+    "device": "Immortalis_MC12",
+    "timestamp": 1787394105,
+    "filename": "Sleeping_Dogs-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1787394105.json"
+  },
+  {
     "game": "Paralives",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1787354521,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48I-Mali-G615_MC6-1787354521.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1787354480,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48I-Mali-G615_MC6-1787354480.json"
   }
 ]
