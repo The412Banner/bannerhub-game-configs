@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Launcher",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1787442862,
+    "filename": "GTA_V_Launcher-Xiaomi-22101316I-Mali-G68_MC4-1787442862.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1787415431,
     "filename": "sgre_steam-samsung-SM-X900-Adreno__TM__730-1787415431.json"
-  },
-  {
-    "game": "Asphalt9_epic_x64_rtl",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787415343,
-    "filename": "Asphalt9_epic_x64_rtl-vivo-V2351-Mali-G57_MC2-1787415343.json"
   }
 ]
