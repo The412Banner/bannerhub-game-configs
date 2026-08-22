@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_Playtime_5_T_rk_e_Yama",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787430028,
+    "filename": "Poppy_Playtime_5_T_rk_e_Yama-LENOVO-TB311FU-Mali-G52_MC2-1787430028.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787405373,
     "filename": "Need_for_Speed__Rivals-motorola-moto_g45_5G-Adreno__TM__619-1787405373.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "F946B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1787402353,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-F946B-Adreno__TM__740-1787402353.json"
   }
 ]
