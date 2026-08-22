@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787425835,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1787425835.json"
+  },
+  {
     "game": "GTA_V_Launcher_Done",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1787402343,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-F946B-Adreno__TM__740-1787402343.json"
-  },
-  {
-    "game": "WUCHANG__Fallen_Feathers",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787401714,
-    "filename": "WUCHANG__Fallen_Feathers-motorola-moto_g45_5G-Adreno__TM__619-1787401714.json"
   }
 ]
