@@ -1,5 +1,12 @@
 [
   {
+    "game": "sgre_steam",
+    "manufacturer": "X900",
+    "device": "Adreno__TM__730",
+    "timestamp": 1787415431,
+    "filename": "sgre_steam-samsung-SM-X900-Adreno__TM__730-1787415431.json"
+  },
+  {
     "game": "Asphalt9_epic_x64_rtl",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1787398620,
     "filename": "Far_Cry__4-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1787398620.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man",
-    "manufacturer": "2509BRP2DI",
-    "device": "Adreno__TM__810",
-    "timestamp": 1787397850,
-    "filename": "TheAmazingSpider-Man-Xiaomi-2509BRP2DI-Adreno__TM__810-1787397850.json"
   }
 ]
