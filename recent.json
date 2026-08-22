@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Revelations",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787367419,
+    "filename": "Assassin_s_Creed__Revelations-motorola-moto_g45_5G-Adreno__TM__619-1787367419.json"
+  },
+  {
     "game": "Assassin_s_Creed__Syndicate",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1787343952,
     "filename": "Tomb_Raider-Xiaomi-25053PC47G-Adreno__TM__825-1787343952.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1787341844,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1787341844.json"
   }
 ]
