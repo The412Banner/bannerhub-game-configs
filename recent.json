@@ -1,5 +1,12 @@
 [
   {
+    "game": "Asphalt9_epic_x64_rtl",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787415343,
+    "filename": "Asphalt9_epic_x64_rtl-vivo-V2351-Mali-G57_MC2-1787415343.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1787397850,
     "filename": "TheAmazingSpider-Man-Xiaomi-2509BRP2DI-Adreno__TM__810-1787397850.json"
-  },
-  {
-    "game": "____",
-    "manufacturer": "V2505A",
-    "device": "Adreno__TM__840",
-    "timestamp": 1787397179,
-    "filename": "____-vivo-V2505A-Adreno__TM__840-1787397179.json"
   }
 ]
