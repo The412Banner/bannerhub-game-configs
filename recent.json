@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlazBlue_Entropy_Effect",
+    "manufacturer": "Pocket_S2_Pro",
+    "device": "Adreno__TM__750",
+    "timestamp": 1787371032,
+    "filename": "BlazBlue_Entropy_Effect-AYANEO-Pocket_S2_Pro-Adreno__TM__750-1787371032.json"
+  },
+  {
     "game": "Just_Cause__3",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787349186,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TG-Adreno__TM__610-1787349186.json"
-  },
-  {
-    "game": "CRISTIANO_NEYMAR_PRIME",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787348597,
-    "filename": "CRISTIANO_NEYMAR_PRIME-motorola-moto_g15-Mali-G52_MC2-1787348597.json"
   }
 ]
