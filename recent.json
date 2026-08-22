@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Sparking__ZERO",
+    "manufacturer": "motorola_edge_70_fusion_plus",
+    "device": "Adreno__TM__810",
+    "timestamp": 1787436756,
+    "filename": "DRAGON_BALL_Sparking__ZERO-motorola-motorola_edge_70_fusion_plus-Adreno__TM__810-1787436756.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787414736,
     "filename": "Asphalt9_epic_x64_rtl-vivo-V2351-Mali-G57_MC2-1787414736.json"
-  },
-  {
-    "game": "Ex-Zodiac",
-    "manufacturer": "Retroid_Pocket_6",
-    "device": "Adreno__TM__740",
-    "timestamp": 1787414358,
-    "filename": "Ex-Zodiac-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1787414358.json"
   }
 ]
