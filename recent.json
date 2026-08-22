@@ -1,5 +1,12 @@
 [
   {
+    "game": "____________ULTRA_RUMBLE",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787363360,
+    "filename": "____________ULTRA_RUMBLE-AYN-AYN_Thor-Adreno__TM__740-1787363360.json"
+  },
+  {
     "game": "________",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787340919,
     "filename": "Battlefield__Bad_Company_2_Vietnam-nubia-Z2577-Mali-G57-1787340919.json"
-  },
-  {
-    "game": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1787339825,
-    "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787339825.json"
   }
 ]
