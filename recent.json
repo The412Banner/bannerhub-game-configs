@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787409455,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-samsung-SM-A075M-Mali-G57_MC2-1787409455.json"
+  },
+  {
     "game": "NBA2K17",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1787371032,
     "filename": "BlazBlue_Entropy_Effect-AYANEO-Pocket_S2_Pro-Adreno__TM__750-1787371032.json"
-  },
-  {
-    "game": "Just_Cause__3",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787370265,
-    "filename": "Just_Cause__3-motorola-moto_g45_5G-Adreno__TM__619-1787370265.json"
   }
 ]
