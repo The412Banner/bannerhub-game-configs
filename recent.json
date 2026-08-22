@@ -1,5 +1,12 @@
 [
   {
+    "game": "GUNDAM_BREAKER_4",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787409823,
+    "filename": "GUNDAM_BREAKER_4-motorola-moto_g45_5G-Adreno__TM__619-1787409823.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1787381911,
     "filename": "Car_For_Sale_Simulator_2023-samsung-SM-G973F-Mali-G76-1787381911.json"
-  },
-  {
-    "game": "BlazBlue_Entropy_Effect",
-    "manufacturer": "Pocket_S2_Pro",
-    "device": "Adreno__TM__750",
-    "timestamp": 1787371032,
-    "filename": "BlazBlue_Entropy_Effect-AYANEO-Pocket_S2_Pro-Adreno__TM__750-1787371032.json"
   }
 ]
