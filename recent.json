@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Syndicate",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787367414,
+    "filename": "Assassin_s_Creed__Syndicate-motorola-moto_g45_5G-Adreno__TM__619-1787367414.json"
+  },
+  {
     "game": "____________ULTRA_RUMBLE",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1787341844,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1787341844.json"
-  },
-  {
-    "game": "Battlefield__Bad_Company_2_Vietnam",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787340919,
-    "filename": "Battlefield__Bad_Company_2_Vietnam-nubia-Z2577-Mali-G57-1787340919.json"
   }
 ]
