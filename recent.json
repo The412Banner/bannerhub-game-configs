@@ -1,5 +1,12 @@
 [
   {
+    "game": "____",
+    "manufacturer": "V2505A",
+    "device": "Adreno__TM__840",
+    "timestamp": 1787397179,
+    "filename": "____-vivo-V2505A-Adreno__TM__840-1787397179.json"
+  },
+  {
     "game": "No__I_m_not_a_Human",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1787354865,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48I-Mali-G615_MC6-1787354865.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787354752,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6840-Mali-G52_MC2-1787354752.json"
   }
 ]
