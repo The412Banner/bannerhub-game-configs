@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ex-Zodiac",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787414358,
+    "filename": "Ex-Zodiac-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1787414358.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A576B",
     "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787392684,
     "filename": "Paralives-samsung-SM-S146VL-Mali-G57_MC2-1787392684.json"
-  },
-  {
-    "game": "FINAL_FANTASY_IX",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1787386763,
-    "filename": "FINAL_FANTASY_IX-samsung-SM-S938B-Adreno__TM__830-1787386763.json"
   }
 ]
