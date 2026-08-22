@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Revelations",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787357469,
+    "filename": "Assassin_s_Creed__Revelations-motorola-moto_g45_5G-Adreno__TM__619-1787357469.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1787336094,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1787336094.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1787334277,
-    "filename": "ch5_pro-Xiaomi-23129RA5FL-Adreno__TM__610-1787334277.json"
   }
 ]
