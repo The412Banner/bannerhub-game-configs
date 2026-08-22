@@ -1,5 +1,12 @@
 [
   {
+    "game": "FINAL_FANTASY_IX",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1787386763,
+    "filename": "FINAL_FANTASY_IX-samsung-SM-S938B-Adreno__TM__830-1787386763.json"
+  },
+  {
     "game": "Car_For_Sale_Simulator_2023",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1787354189,
     "filename": "GSE____________________-nubia-NX809J-Adreno__TM__840-1787354189.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2201117TG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1787349197,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TG-Adreno__TM__610-1787349197.json"
   }
 ]
