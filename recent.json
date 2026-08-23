@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ultra_Street_Fighter__IV",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1787511948,
+    "filename": "Ultra_Street_Fighter__IV-ayn-Odin3-Adreno__TM__830-1787511948.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A556E",
     "device": "ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1787491232,
     "filename": "2K_Sports_NBA_2K14-TECNO-TECNO_LJ9-Mali-G615_MC6-1787491232.json"
-  },
-  {
-    "game": "Mad_Max",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787490842,
-    "filename": "Mad_Max-motorola-moto_g45_5G-Adreno__TM__619-1787490842.json"
   }
 ]
