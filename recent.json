@@ -1,5 +1,12 @@
 [
   {
+    "game": "_trashed-1790037367-Universe_Sandbox_x64",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787504051,
+    "filename": "_trashed-1790037367-Universe_Sandbox_x64-realme-RMX5313-Mali-G57-1787504051.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787476587,
     "filename": "DYNASTY_WARRIORS_9-motorola-moto_g45_5G-Adreno__TM__619-1787476587.json"
-  },
-  {
-    "game": "Need_for_Speed__Rivals",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787476581,
-    "filename": "Need_for_Speed__Rivals-motorola-moto_g45_5G-Adreno__TM__619-1787476581.json"
   }
 ]
