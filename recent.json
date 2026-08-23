@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mad_Max",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787490842,
+    "filename": "Mad_Max-motorola-moto_g45_5G-Adreno__TM__619-1787490842.json"
+  },
+  {
     "game": "HeavenDust2",
     "manufacturer": "V2250",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787456243,
     "filename": "Days_Gone-motorola-moto_g45_5G-Adreno__TM__619-1787456243.json"
-  },
-  {
-    "game": "Just_Cause__3",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787456235,
-    "filename": "Just_Cause__3-motorola-moto_g45_5G-Adreno__TM__619-1787456235.json"
   }
 ]
