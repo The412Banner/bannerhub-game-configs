@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "M2101K6G",
+    "device": "Adreno__TM__618",
+    "timestamp": 1787444682,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K6G-Adreno__TM__618-1787444682.json"
+  },
+  {
     "game": "GTA_V_Launcher",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1787416293,
     "filename": "NODE-ayn-Odin3-Adreno__TM__830-1787416293.json"
-  },
-  {
-    "game": "sgre_steam",
-    "manufacturer": "X900",
-    "device": "Adreno__TM__730",
-    "timestamp": 1787415431,
-    "filename": "sgre_steam-samsung-SM-X900-Adreno__TM__730-1787415431.json"
   }
 ]
