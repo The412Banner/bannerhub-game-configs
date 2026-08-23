@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1787493861,
+    "filename": "PlayGTAV-Xiaomi-25053PC47G-Adreno__TM__825-1787493861.json"
+  },
+  {
     "game": "2K_Sports_NBA_2K14",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787456251,
     "filename": "Need_for_Speed__The_Run-motorola-moto_g45_5G-Adreno__TM__619-1787456251.json"
-  },
-  {
-    "game": "Watch_Dogs__2",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787456249,
-    "filename": "Watch_Dogs__2-motorola-moto_g45_5G-Adreno__TM__619-1787456249.json"
   }
 ]
