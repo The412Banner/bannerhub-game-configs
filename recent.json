@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787470215,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-OPPO-CPH2701-Mali-G57_MC2-1787470215.json"
+  },
+  {
     "game": "Trails_in_the_Sky_2nd_Chapter_Demo",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787450067,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1787450067.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__644",
-    "timestamp": 1787447230,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-REA-NX9-Adreno__TM__644-1787447230.json"
   }
 ]
