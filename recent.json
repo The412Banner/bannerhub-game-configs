@@ -1,5 +1,12 @@
 [
   {
+    "game": "Minecraft_Dungeons",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1787526904,
+    "filename": "Minecraft_Dungeons-Xiaomi-2511FPC34G-Mali-G720_MC8-1787526904.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787504051,
     "filename": "_trashed-1790037367-Universe_Sandbox_x64-realme-RMX5313-Mali-G57-1787504051.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787504048,
-    "filename": "Mafia_II__Classic_-Xiaomi-23053RN02Y-Mali-G52_MC2-1787504048.json"
   }
 ]
