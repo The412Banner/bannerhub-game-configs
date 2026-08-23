@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause__3",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787456235,
+    "filename": "Just_Cause__3-motorola-moto_g45_5G-Adreno__TM__619-1787456235.json"
+  },
+  {
     "game": "_Stronghold_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1787434757,
     "filename": "Mortal_Kombat_X-Xiaomi-2107113SR-Adreno__TM__660-1787434757.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "V2040",
-    "device": "Adreno__TM__618",
-    "timestamp": 1787433925,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-vivo-V2040-Adreno__TM__618-1787433925.json"
   }
 ]
