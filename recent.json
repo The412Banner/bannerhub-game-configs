@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A556E",
+    "device": "ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231",
+    "timestamp": 1787510508,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231-1787510508.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787490842,
     "filename": "Mad_Max-motorola-moto_g45_5G-Adreno__TM__619-1787490842.json"
-  },
-  {
-    "game": "HeavenDust2",
-    "manufacturer": "V2250",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1787489227,
-    "filename": "HeavenDust2-vivo-V2250-Adreno__TM__642L-1787489227.json"
   }
 ]
