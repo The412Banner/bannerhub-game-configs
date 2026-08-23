@@ -3,6 +3,13 @@
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1787453501,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3151-Mali-G57_MC2-1787453501.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1787450067,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1787450067.json"
   },
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1787425439,
     "filename": "GTA_V_Launcher_Done-samsung-SM-A356E-Mali-G68-1787425439.json"
-  },
-  {
-    "game": "Battlefield__1",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1787424529,
-    "filename": "Battlefield__1-nubia-NX809J-Adreno__TM__840-1787424529.json"
   }
 ]
