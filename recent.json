@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787457679,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23108RN04Y-Mali-G52_MC2-1787457679.json"
+  },
+  {
     "game": "Assassin_s_Creed___Director_s_Cut_Edition",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1787440202,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K7BNY-Mali-G76-1787440202.json"
-  },
-  {
-    "game": "Pes_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787439557,
-    "filename": "Pes_2013-TECNO-TECNO_KI5k-Mali-G57-1787439557.json"
   }
 ]
