@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "25019PNF3C",
+    "device": "Adreno__TM__830",
+    "timestamp": 1787528075,
+    "filename": "Tomb_Raider-Xiaomi-25019PNF3C-Adreno__TM__830-1787528075.json"
+  },
+  {
     "game": "Minecraft_Dungeons",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1787505658,
     "filename": "Euro_Truck_Simulator_2______________________________________-Xiaomi-25053PC47G-Adreno__TM__825-1787505658.json"
-  },
-  {
-    "game": "_trashed-1790037367-Universe_Sandbox_x64",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787504051,
-    "filename": "_trashed-1790037367-Universe_Sandbox_x64-realme-RMX5313-Mali-G57-1787504051.json"
   }
 ]
