@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_Playtime",
+    "manufacturer": "Mali",
+    "device": "G610_MC4",
+    "timestamp": 1787515264,
+    "filename": "Poppy_Playtime-Xiaomi-23090RA98G-Mali-G610_MC4-1787515264.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1787497725,
     "filename": "game-Xiaomi-21121210G-Adreno__TM__730-1787497725.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1787496651,
-    "filename": "BootstrapPackagedGame-AYN-Odin2-Adreno__TM__740-1787496651.json"
   }
 ]
