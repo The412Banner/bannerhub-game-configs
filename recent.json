@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_III________________________________________",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1787514610,
+    "filename": "Grand_Theft_Auto_III________________________________________-samsung-SM-G998B-Mali-G78-1787514610.json"
+  },
+  {
     "game": "GTA_V_Launcher",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1787494733,
     "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-HONOR-BRP-NX3-Adreno__TM__710-1787494733.json"
-  },
-  {
-    "game": "Buckshot_Roulette",
-    "manufacturer": "V2250",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1787494421,
-    "filename": "Buckshot_Roulette-vivo-V2250-Adreno__TM__642L-1787494421.json"
   }
 ]
