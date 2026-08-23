@@ -1,5 +1,12 @@
 [
   {
+    "game": "GUNDAM_BREAKER_4",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787456261,
+    "filename": "GUNDAM_BREAKER_4-motorola-moto_g45_5G-Adreno__TM__619-1787456261.json"
+  },
+  {
     "game": "Need_for_Speed__The_Run",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1787437889,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1787437889.json"
-  },
-  {
-    "game": "DRAGON_BALL_Sparking__ZERO",
-    "manufacturer": "motorola_edge_70_fusion_plus",
-    "device": "Adreno__TM__810",
-    "timestamp": 1787436756,
-    "filename": "DRAGON_BALL_Sparking__ZERO-motorola-motorola_edge_70_fusion_plus-Adreno__TM__810-1787436756.json"
   }
 ]
