@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sifu",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787500252,
+    "filename": "Sifu-motorola-moto_g45_5G-Adreno__TM__619-1787500252.json"
+  },
+  {
     "game": "game",
     "manufacturer": "21121210G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1787468334,
     "filename": "Trails_in_the_Sky_2nd_Chapter_Demo-AYN-AYN_Thor-Adreno__TM__740-1787468334.json"
-  },
-  {
-    "game": "Need_for_Speed__Rivals",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787460881,
-    "filename": "Need_for_Speed__Rivals-motorola-moto_g45_5G-Adreno__TM__619-1787460881.json"
   }
 ]
