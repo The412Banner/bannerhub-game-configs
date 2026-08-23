@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed___Director_s_Cut_Edition",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787456290,
+    "filename": "Assassin_s_Creed___Director_s_Cut_Edition-motorola-moto_g45_5G-Adreno__TM__619-1787456290.json"
+  },
+  {
     "game": "GUNDAM_BREAKER_4",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787439557,
     "filename": "Pes_2013-TECNO-TECNO_KI5k-Mali-G57-1787439557.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1787437889,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1787437889.json"
   }
 ]
