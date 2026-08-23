@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1787515144,
+    "filename": "Tomb_Raider-ayn-Odin3-Adreno__TM__830-1787515144.json"
+  },
+  {
     "game": "NARUTO_STORM_3_FB",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1787496651,
     "filename": "BootstrapPackagedGame-AYN-Odin2-Adreno__TM__740-1787496651.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1787496497,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1787496497.json"
   }
 ]
