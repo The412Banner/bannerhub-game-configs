@@ -1,5 +1,12 @@
 [
   {
+    "game": "New_Super_Lucky_s_Tale",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1787513964,
+    "filename": "New_Super_Lucky_s_Tale-nubia-NX809J-Adreno__TM__840-1787513964.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1787493861,
     "filename": "PlayGTAV-Xiaomi-25053PC47G-Adreno__TM__825-1787493861.json"
-  },
-  {
-    "game": "2K_Sports_NBA_2K14",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1787491269,
-    "filename": "2K_Sports_NBA_2K14-TECNO-TECNO_LJ9-Mali-G615_MC6-1787491269.json"
   }
 ]
