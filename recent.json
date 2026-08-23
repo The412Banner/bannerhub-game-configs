@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Launcher",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787514097,
+    "filename": "GTA_V_Launcher-TECNO-TECNO_KJ7-Mali-G57_MC2-1787514097.json"
+  },
+  {
     "game": "New_Super_Lucky_s_Tale",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1787494357,
     "filename": "Bayonetta-vivo-V2352A-Adreno__TM__735-1787494357.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1787493861,
-    "filename": "PlayGTAV-Xiaomi-25053PC47G-Adreno__TM__825-1787493861.json"
   }
 ]
