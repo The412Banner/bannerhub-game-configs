@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1787520338,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1787520338.json"
+  },
+  {
     "game": "OpenAL_Installer",
     "manufacturer": "W00",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1787500814,
     "filename": "Need_for_Speed_9-Xiaomi-2201122G-Adreno__TM__730-1787500814.json"
-  },
-  {
-    "game": "Sifu",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787500252,
-    "filename": "Sifu-motorola-moto_g45_5G-Adreno__TM__619-1787500252.json"
   }
 ]
