@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed___Director_s_Cut_Edition",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787455604,
+    "filename": "Assassin_s_Creed___Director_s_Cut_Edition-motorola-moto_g45_5G-Adreno__TM__619-1787455604.json"
+  },
+  {
     "game": "WUCHANG__Fallen_Feathers",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1787431425,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S911B-Adreno__TM__740-1787431425.json"
-  },
-  {
-    "game": "Poppy_Playtime_5_T_rk_e_Yama",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787430028,
-    "filename": "Poppy_Playtime_5_T_rk_e_Yama-LENOVO-TB311FU-Mali-G52_MC2-1787430028.json"
   }
 ]
