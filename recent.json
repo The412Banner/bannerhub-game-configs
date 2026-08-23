@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_STORM_3_FB",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1787514654,
+    "filename": "NARUTO_STORM_3_FB-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787514654.json"
+  },
+  {
     "game": "Grand_Theft_Auto_III________________________________________",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1787496497,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1787496497.json"
-  },
-  {
-    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
-    "manufacturer": "NX3",
-    "device": "Adreno__TM__710",
-    "timestamp": 1787494733,
-    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-HONOR-BRP-NX3-Adreno__TM__710-1787494733.json"
   }
 ]
