@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G51",
+    "timestamp": 1787509374,
+    "filename": "Euro_Truck_Simulator_2-HUAWEI-AGS6-L09-Mali-G51-1787509374.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787488056,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2819-Adreno__TM__610-1787488056.json"
-  },
-  {
-    "game": "Mad_Max",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787487760,
-    "filename": "Mad_Max-motorola-moto_g45_5G-Adreno__TM__619-1787487760.json"
   }
 ]
