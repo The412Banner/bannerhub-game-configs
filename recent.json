@@ -1,5 +1,12 @@
 [
   {
+    "game": "Trails_in_the_Sky_2nd_Chapter_Demo",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787468334,
+    "filename": "Trails_in_the_Sky_2nd_Chapter_Demo-AYN-AYN_Thor-Adreno__TM__740-1787468334.json"
+  },
+  {
     "game": "Need_for_Speed__Rivals",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__644",
     "timestamp": 1787447230,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-REA-NX9-Adreno__TM__644-1787447230.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "M2101K6G",
-    "device": "Adreno__TM__618",
-    "timestamp": 1787444703,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K6G-Adreno__TM__618-1787444703.json"
   }
 ]
