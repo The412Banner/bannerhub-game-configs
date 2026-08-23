@@ -1,5 +1,12 @@
 [
   {
+    "game": "GUNDAM_BREAKER_4",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787460843,
+    "filename": "GUNDAM_BREAKER_4-motorola-moto_g45_5G-Adreno__TM__619-1787460843.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1787444682,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K6G-Adreno__TM__618-1787444682.json"
-  },
-  {
-    "game": "GTA_V_Launcher",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1787442862,
-    "filename": "GTA_V_Launcher-Xiaomi-22101316I-Mali-G68_MC4-1787442862.json"
   }
 ]
