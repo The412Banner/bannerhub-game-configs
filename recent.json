@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1787506185,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2529-Mali-G615_MC2-1787506185.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2______________________________________",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787487760,
     "filename": "Mad_Max-motorola-moto_g45_5G-Adreno__TM__619-1787487760.json"
-  },
-  {
-    "game": "TheLongDrive",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1787478142,
-    "filename": "TheLongDrive-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1787478142.json"
   }
 ]
