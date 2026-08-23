@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "Infinix_X6835B",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1787529074,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-INFINIX-Infinix_X6835B-PowerVR_Rogue_GE8320-1787529074.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "25019PNF3C",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1787506185,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2529-Mali-G615_MC2-1787506185.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2______________________________________",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1787505658,
-    "filename": "Euro_Truck_Simulator_2______________________________________-Xiaomi-25053PC47G-Adreno__TM__825-1787505658.json"
   }
 ]
