@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bayonetta",
+    "manufacturer": "V2352A",
+    "device": "Adreno__TM__735",
+    "timestamp": 1787494357,
+    "filename": "Bayonetta-vivo-V2352A-Adreno__TM__735-1787494357.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787456261,
     "filename": "GUNDAM_BREAKER_4-motorola-moto_g45_5G-Adreno__TM__619-1787456261.json"
-  },
-  {
-    "game": "Need_for_Speed__The_Run",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787456251,
-    "filename": "Need_for_Speed__The_Run-motorola-moto_g45_5G-Adreno__TM__619-1787456251.json"
   }
 ]
