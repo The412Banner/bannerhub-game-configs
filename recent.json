@@ -1,5 +1,12 @@
 [
   {
+    "game": "_____v1_0",
+    "manufacturer": "21121210G",
+    "device": "Adreno__TM__730",
+    "timestamp": 1787500942,
+    "filename": "_____v1_0-Xiaomi-21121210G-Adreno__TM__730-1787500942.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "2201122G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787472959,
     "filename": "PEAK-INFINIX-Infinix_X6826-Mali-G52_MC2-1787472959.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787470215,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-OPPO-CPH2701-Mali-G57_MC2-1787470215.json"
   }
 ]
