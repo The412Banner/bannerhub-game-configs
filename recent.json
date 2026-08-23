@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX9",
+    "device": "Adreno__TM__644",
+    "timestamp": 1787447230,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-REA-NX9-Adreno__TM__644-1787447230.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M2101K6G",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787418318,
     "filename": "AlekhinesGun-Anbernic-RG_406H-Mali-G57-1787418318.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787417410,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1787417410.json"
   }
 ]
