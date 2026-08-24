@@ -1,5 +1,12 @@
 [
   {
+    "game": "Colin_Mcrae__Dirt_3",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1787531600,
+    "filename": "Colin_Mcrae__Dirt_3-nubia-NX809J-Adreno__TM__840-1787531600.json"
+  },
+  {
     "game": "SpongeBob_SquarePants__Battle_for_Bikini_Bottom_-_Rehydrated",
     "manufacturer": "Mali",
     "device": "G51",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1787511948,
     "filename": "Ultra_Street_Fighter__IV-ayn-Odin3-Adreno__TM__830-1787511948.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A556E",
-    "device": "ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231",
-    "timestamp": 1787510508,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE__Samsung_Xclipse_530__on_Vulkan_1_3_231-1787510508.json"
   }
 ]
