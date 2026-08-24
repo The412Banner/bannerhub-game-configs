@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Sparking__ZERO",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787582302,
+    "filename": "DRAGON_BALL_Sparking__ZERO-motorola-moto_g45_5G-Adreno__TM__619-1787582302.json"
+  },
+  {
     "game": "People_Playground",
     "manufacturer": "M236L",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787549316,
     "filename": "Crash_Bandicoot_4-motorola-moto_g45_5G-Adreno__TM__619-1787549316.json"
-  },
-  {
-    "game": "Dead_Island_Definitive_Edition",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1787548899,
-    "filename": "Dead_Island_Definitive_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787548899.json"
   }
 ]
