@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1787591435,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24090RA29G-Mali-G615_MC2-1787591435.json"
+  },
+  {
     "game": "FATAL_FRAME___PROJECT_ZERO__Mask_of_the_Lunar_Eclipse",
     "manufacturer": "V2427",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787568230,
     "filename": "Far_Cry__4-motorola-moto_g45_5G-Adreno__TM__619-1787568230.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787567144,
-    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6525-Mali-G57-1787567144.json"
   }
 ]
