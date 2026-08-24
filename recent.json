@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator_Demo",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787599581,
+    "filename": "American_Truck_Simulator_Demo-motorola-moto_g06-Mali-G52_MC2-1787599581.json"
+  },
+  {
     "game": "_____2019",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787579816,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1787579816.json"
-  },
-  {
-    "game": "FIFA_19",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1787578311,
-    "filename": "FIFA_19-nubia-NP05J-Adreno__TM__830-1787578311.json"
   }
 ]
