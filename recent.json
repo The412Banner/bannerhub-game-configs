@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__4",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787568230,
+    "filename": "Far_Cry__4-motorola-moto_g45_5G-Adreno__TM__619-1787568230.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1787537874,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1787537874.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787535288,
-    "filename": "Sleeping_Dogs-motorola-moto_g45_5G-Adreno__TM__619-1787535288.json"
   }
 ]
