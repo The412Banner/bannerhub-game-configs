@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sniper_Elite_V2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787533561,
+    "filename": "Sniper_Elite_V2-TECNO-TECNO_LI9-Mali-G57_MC2-1787533561.json"
+  },
+  {
     "game": "Colin_Mcrae__Dirt_3",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1787511966,
     "filename": "Rise_of_the_Tomb_Raider_-ayn-Odin3-Adreno__TM__830-1787511966.json"
-  },
-  {
-    "game": "Ultra_Street_Fighter__IV",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1787511948,
-    "filename": "Ultra_Street_Fighter__IV-ayn-Odin3-Adreno__TM__830-1787511948.json"
   }
 ]
