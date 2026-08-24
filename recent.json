@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787540484,
+    "filename": "Sleeping_Dogs-motorola-moto_g45_5G-Adreno__TM__619-1787540484.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "S942B",
     "device": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1787515144,
     "filename": "Tomb_Raider-ayn-Odin3-Adreno__TM__830-1787515144.json"
-  },
-  {
-    "game": "NARUTO_STORM_3_FB",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1787514654,
-    "filename": "NARUTO_STORM_3_FB-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787514654.json"
   }
 ]
