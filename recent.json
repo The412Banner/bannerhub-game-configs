@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_7_Biohazard",
+    "manufacturer": "PLE110",
+    "device": "Adreno__TM__825",
+    "timestamp": 1787529863,
+    "filename": "Resident_Evil_7_Biohazard-OPPO-PLE110-Adreno__TM__825-1787529863.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1787510256,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1787510256.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1787509374,
-    "filename": "Euro_Truck_Simulator_2-HUAWEI-AGS6-L09-Mali-G51-1787509374.json"
   }
 ]
