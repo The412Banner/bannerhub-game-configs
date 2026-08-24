@@ -1,5 +1,12 @@
 [
   {
+    "game": "People_Playground",
+    "manufacturer": "M236L",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787581177,
+    "filename": "People_Playground-samsung-SM-M236L-Adreno__TM__619-1787581177.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1787548899,
     "filename": "Dead_Island_Definitive_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787548899.json"
-  },
-  {
-    "game": "Dead_Island_Definitive_Edition",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1787548887,
-    "filename": "Dead_Island_Definitive_Edition-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787548887.json"
   }
 ]
