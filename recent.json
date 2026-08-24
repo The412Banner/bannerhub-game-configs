@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787535288,
+    "filename": "Sleeping_Dogs-motorola-moto_g45_5G-Adreno__TM__619-1787535288.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787514097,
     "filename": "GTA_V_Launcher-TECNO-TECNO_KJ7-Mali-G57_MC2-1787514097.json"
-  },
-  {
-    "game": "New_Super_Lucky_s_Tale",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1787513964,
-    "filename": "New_Super_Lucky_s_Tale-nubia-NX809J-Adreno__TM__840-1787513964.json"
   }
 ]
