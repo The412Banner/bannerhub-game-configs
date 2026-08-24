@@ -1,5 +1,12 @@
 [
   {
+    "game": "Undertale",
+    "manufacturer": "Mali",
+    "device": "G71",
+    "timestamp": 1787568896,
+    "filename": "Undertale-samsung-SM-M205F-Mali-G71-1787568896.json"
+  },
+  {
     "game": "Far_Cry__4",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1787539058,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1787539058.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1787537874,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1787537874.json"
   }
 ]
