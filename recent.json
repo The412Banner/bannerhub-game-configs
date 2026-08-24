@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787544292,
+    "filename": "Grand_Theft_Auto_V_Legacy-AYN-AYN_Thor-Adreno__TM__740-1787544292.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1787526904,
     "filename": "Minecraft_Dungeons-Xiaomi-2511FPC34G-Mali-G720_MC8-1787526904.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1787523436,
-    "filename": "Euro_Truck_Simulator_2-HONOR-BRP-NX1-Adreno__TM__710-1787523436.json"
   }
 ]
