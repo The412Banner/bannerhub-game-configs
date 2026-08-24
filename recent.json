@@ -1,5 +1,12 @@
 [
   {
+    "game": "_____2019",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1787598602,
+    "filename": "_____2019-Xiaomi-2511FPC34G-Mali-G720_MC8-1787598602.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1787577579,
     "filename": "StarVaders-Xiaomi-25053PC47G-Adreno__TM__825-1787577579.json"
-  },
-  {
-    "game": "Age_of_Mythology__Retold",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787576435,
-    "filename": "Age_of_Mythology__Retold-Xiaomi-2409BRN2CL-Mali-G52_MC2-1787576435.json"
   }
 ]
