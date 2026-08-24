@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1787594425,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S938B-Adreno__TM__830-1787594425.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1787592336,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787569906,
     "filename": "Marvel_s_Spider-Man_Remastered-Xiaomi-23129RAA4G-Adreno__TM__610-1787569906.json"
-  },
-  {
-    "game": "Undertale",
-    "manufacturer": "Mali",
-    "device": "G71",
-    "timestamp": 1787568896,
-    "filename": "Undertale-samsung-SM-M205F-Mali-G71-1787568896.json"
   }
 ]
