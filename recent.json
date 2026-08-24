@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787534816,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23100RN82L-Mali-G52_MC2-1787534816.json"
+  },
+  {
     "game": "Sniper_Elite_V2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1787513964,
     "filename": "New_Super_Lucky_s_Tale-nubia-NX809J-Adreno__TM__840-1787513964.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider_",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1787511966,
-    "filename": "Rise_of_the_Tomb_Raider_-ayn-Odin3-Adreno__TM__830-1787511966.json"
   }
 ]
