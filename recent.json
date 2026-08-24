@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787541405,
+    "filename": "Devil_May_Cry_5-motorola-moto_g45_5G-Adreno__TM__619-1787541405.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G72",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1787523173,
     "filename": "skate_-samsung-SM-S938U1-Adreno__TM__830-1787523173.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1787520338,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1787520338.json"
   }
 ]
