@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787592336,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1787592336.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G71",
     "timestamp": 1787568896,
     "filename": "Undertale-samsung-SM-M205F-Mali-G71-1787568896.json"
-  },
-  {
-    "game": "Far_Cry__4",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787568230,
-    "filename": "Far_Cry__4-motorola-moto_g45_5G-Adreno__TM__619-1787568230.json"
   }
 ]
