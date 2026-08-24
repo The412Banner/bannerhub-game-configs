@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1787540732,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A515F-Mali-G72-1787540732.json"
+  },
+  {
     "game": "Devil_May_Cry_5",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1787519199,
     "filename": "OpenAL_Installer-HONOR-HEY3-W00-Adreno__TM__720-1787519199.json"
-  },
-  {
-    "game": "Poppy_Playtime",
-    "manufacturer": "Mali",
-    "device": "G610_MC4",
-    "timestamp": 1787515264,
-    "filename": "Poppy_Playtime-Xiaomi-23090RA98G-Mali-G610_MC4-1787515264.json"
   }
 ]
