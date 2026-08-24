@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787567144,
+    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6525-Mali-G57-1787567144.json"
+  },
+  {
     "game": "TEKKEN_8",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787535288,
     "filename": "Sleeping_Dogs-motorola-moto_g45_5G-Adreno__TM__619-1787535288.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787534816,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23100RN82L-Mali-G52_MC2-1787534816.json"
   }
 ]
