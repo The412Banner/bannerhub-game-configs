@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1787590525,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A515F-Mali-G72-1787590525.json"
+  },
+  {
     "game": "Among_Us",
     "manufacturer": "Quest",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1787566232,
     "filename": "TEKKEN_8-nubia-NP05J-Adreno__TM__830-1787566232.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1787556402,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-25053PC47G-Adreno__TM__825-1787556402.json"
   }
 ]
