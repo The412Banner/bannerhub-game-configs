@@ -1,5 +1,12 @@
 [
   {
+    "game": "StarVaders",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1787577579,
+    "filename": "StarVaders-Xiaomi-25053PC47G-Adreno__TM__825-1787577579.json"
+  },
+  {
     "game": "Age_of_Mythology__Retold",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1787546594,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e22-PowerVR_Rogue_GE8320-1787546594.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1787544292,
-    "filename": "Grand_Theft_Auto_V_Legacy-AYN-AYN_Thor-Adreno__TM__740-1787544292.json"
   }
 ]
