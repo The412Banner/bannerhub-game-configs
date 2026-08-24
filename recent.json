@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1787537874,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1787537874.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787514101,
     "filename": "GTA_V_Launcher-TECNO-TECNO_KJ7-Mali-G57_MC2-1787514101.json"
-  },
-  {
-    "game": "GTA_V_Launcher",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787514097,
-    "filename": "GTA_V_Launcher-TECNO-TECNO_KJ7-Mali-G57_MC2-1787514097.json"
   }
 ]
