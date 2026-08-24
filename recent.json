@@ -1,5 +1,12 @@
 [
   {
+    "game": "Undisputed",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1787572461,
+    "filename": "Undisputed-nubia-NP05J-Adreno__TM__830-1787572461.json"
+  },
+  {
     "game": "mad_max",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1787540743,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A515F-Mali-G72-1787540743.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G72",
-    "timestamp": 1787540732,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A515F-Mali-G72-1787540732.json"
   }
 ]
