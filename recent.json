@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787540489,
+    "filename": "Devil_May_Cry_5-motorola-moto_g45_5G-Adreno__TM__619-1787540489.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G610_MC4",
     "timestamp": 1787515264,
     "filename": "Poppy_Playtime-Xiaomi-23090RA98G-Mali-G610_MC4-1787515264.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1787515144,
-    "filename": "Tomb_Raider-ayn-Odin3-Adreno__TM__830-1787515144.json"
   }
 ]
