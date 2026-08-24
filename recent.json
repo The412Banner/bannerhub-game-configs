@@ -1,5 +1,12 @@
 [
   {
+    "game": "mad_max",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1787572349,
+    "filename": "mad_max-Xiaomi-25053PC47G-Adreno__TM__825-1787572349.json"
+  },
+  {
     "game": "LEGOMARVEL2_DX11",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1787540732,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A515F-Mali-G72-1787540732.json"
-  },
-  {
-    "game": "Devil_May_Cry_5",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787540489,
-    "filename": "Devil_May_Cry_5-motorola-moto_g45_5G-Adreno__TM__619-1787540489.json"
   }
 ]
