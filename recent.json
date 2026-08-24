@@ -1,5 +1,12 @@
 [
   {
+    "game": "Age_of_Mythology__Retold",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787576435,
+    "filename": "Age_of_Mythology__Retold-Xiaomi-2409BRN2CL-Mali-G52_MC2-1787576435.json"
+  },
+  {
     "game": "Len_s_Island",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1787544292,
     "filename": "Grand_Theft_Auto_V_Legacy-AYN-AYN_Thor-Adreno__TM__740-1787544292.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787543680,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1787543680.json"
   }
 ]
