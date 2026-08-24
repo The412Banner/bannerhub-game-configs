@@ -3,6 +3,13 @@
     "game": "LEGOMARVEL2_DX11",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1787570582,
+    "filename": "LEGOMARVEL2_DX11-nubia-Z2464N-Mali-G57-1787570582.json"
+  },
+  {
+    "game": "LEGOMARVEL2_DX11",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1787570576,
     "filename": "LEGOMARVEL2_DX11-nubia-Z2464N-Mali-G57-1787570576.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787540489,
     "filename": "Devil_May_Cry_5-motorola-moto_g45_5G-Adreno__TM__619-1787540489.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787540484,
-    "filename": "Sleeping_Dogs-motorola-moto_g45_5G-Adreno__TM__619-1787540484.json"
   }
 ]
