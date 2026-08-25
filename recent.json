@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787677971,
+    "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-motorola-moto_g45_5G-Adreno__TM__619-1787677971.json"
+  },
+  {
     "game": "Dragon_Age__Inquisition",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1787653828,
     "filename": "Resident_Evil_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1787653828.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787649442,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165F-Mali-G57_MC2-1787649442.json"
   }
 ]
