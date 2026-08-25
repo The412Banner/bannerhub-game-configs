@@ -1,5 +1,12 @@
 [
   {
+    "game": "NBA_2K23",
+    "manufacturer": "23117RK66C",
+    "device": "Adreno__TM__750",
+    "timestamp": 1787658746,
+    "filename": "NBA_2K23-Xiaomi-23117RK66C-Adreno__TM__750-1787658746.json"
+  },
+  {
     "game": "Watch_Dogs_",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787634622,
     "filename": "Left_4_Dead-motorola-moto_g24-Mali-G52_MC2-1787634622.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "PLE110",
-    "device": "Adreno__TM__825",
-    "timestamp": 1787633263,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-OPPO-PLE110-Adreno__TM__825-1787633263.json"
   }
 ]
