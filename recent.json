@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dragon_Age__Inquisition",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787677944,
+    "filename": "Dragon_Age__Inquisition-motorola-moto_g45_5G-Adreno__TM__619-1787677944.json"
+  },
+  {
     "game": "Stellar_Blade_",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787649442,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165F-Mali-G57_MC2-1787649442.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787648853,
-    "filename": "Resident_Evil_4-motorola-moto_g45_5G-Adreno__TM__619-1787648853.json"
   }
 ]
