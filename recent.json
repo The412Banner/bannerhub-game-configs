@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787634622,
+    "filename": "Left_4_Dead-motorola-moto_g24-Mali-G52_MC2-1787634622.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "PLE110",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787612507,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165F-Mali-G57_MC2-1787612507.json"
-  },
-  {
-    "game": "TEKKEN_7",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1787611697,
-    "filename": "TEKKEN_7-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787611697.json"
   }
 ]
