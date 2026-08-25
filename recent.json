@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man_Remastered",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787683450,
+    "filename": "Marvel_s_Spider-Man_Remastered-motorola-moto_g45_5G-Adreno__TM__619-1787683450.json"
+  },
+  {
     "game": "STORY_OF_SEASONS__Friends_of_Mineral_Town",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1787663644,
     "filename": "Resident_Evil_3-samsung-SM-G781B-Adreno__TM__650-1787663644.json"
-  },
-  {
-    "game": "NBA_2K23",
-    "manufacturer": "23117RK66C",
-    "device": "Adreno__TM__750",
-    "timestamp": 1787658746,
-    "filename": "NBA_2K23-Xiaomi-23117RK66C-Adreno__TM__750-1787658746.json"
   }
 ]
