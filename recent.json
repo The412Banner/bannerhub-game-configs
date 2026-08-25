@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1787678857,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22101316UP-Mali-G68_MC4-1787678857.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787654356,
     "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-motorola-moto_g45_5G-Adreno__TM__619-1787654356.json"
-  },
-  {
-    "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787654339,
-    "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-motorola-moto_g45_5G-Adreno__TM__619-1787654339.json"
   }
 ]
