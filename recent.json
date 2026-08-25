@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "S936B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1787680463,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S936B-Adreno__TM__830-1787680463.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1787654566,
     "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-24117RK2CG-Adreno__TM__750-1787654566.json"
-  },
-  {
-    "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787654356,
-    "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-motorola-moto_g45_5G-Adreno__TM__619-1787654356.json"
   }
 ]
