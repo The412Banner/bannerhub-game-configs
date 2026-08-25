@@ -1,6 +1,13 @@
 [
   {
     "game": "DRAGON_BALL_Sparking__ZERO",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787646579,
+    "filename": "DRAGON_BALL_Sparking__ZERO-motorola-moto_g45_5G-Adreno__TM__619-1787646579.json"
+  },
+  {
+    "game": "DRAGON_BALL_Sparking__ZERO",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1787643920,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787617043,
     "filename": "Pro_Evolution_Soccer_2018___________________________________-Xiaomi-Redmi_Note_8-Adreno__TM__610-1787617043.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787616808,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165F-Mali-G57_MC2-1787616808.json"
   }
 ]
