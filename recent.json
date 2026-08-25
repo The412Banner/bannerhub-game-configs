@@ -1,5 +1,12 @@
 [
   {
+    "game": "STORY_OF_SEASONS__Friends_of_Mineral_Town",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1787682032,
+    "filename": "STORY_OF_SEASONS__Friends_of_Mineral_Town-INFINIX-Infinix_X6873-Mali-G615_MC6-1787682032.json"
+  },
+  {
     "game": "Need_for_Speed_Underground",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1787658746,
     "filename": "NBA_2K23-Xiaomi-23117RK66C-Adreno__TM__750-1787658746.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1787655411,
-    "filename": "Watch_Dogs_-Xiaomi-24069PC21G-Adreno__TM__735-1787655411.json"
   }
 ]
