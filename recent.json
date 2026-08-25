@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1787687908,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6861-Mali-G610_MC6-1787687908.json"
+  },
+  {
     "game": "MotoGP15",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787677971,
     "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-motorola-moto_g45_5G-Adreno__TM__619-1787677971.json"
-  },
-  {
-    "game": "Dragon_Age__Inquisition",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787677944,
-    "filename": "Dragon_Age__Inquisition-motorola-moto_g45_5G-Adreno__TM__619-1787677944.json"
   }
 ]
