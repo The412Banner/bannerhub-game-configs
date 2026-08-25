@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787688300,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g14-Mali-G57-1787688300.json"
+  },
+  {
     "game": "Mega_Man_-_Legacy_Collection________________________________",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1787680463,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S936B-Adreno__TM__830-1787680463.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1787678857,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22101316UP-Mali-G68_MC4-1787678857.json"
   }
 ]
