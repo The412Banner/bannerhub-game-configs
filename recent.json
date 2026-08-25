@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "S938U",
+    "device": "Adreno__TM__830",
+    "timestamp": 1787626742,
+    "filename": "MiSide-samsung-SM-S938U-Adreno__TM__830-1787626742.json"
+  },
+  {
     "game": "Far_Cry__2",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787599581,
     "filename": "American_Truck_Simulator_Demo-motorola-moto_g06-Mali-G52_MC2-1787599581.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1787599012,
-    "filename": "_____2019-Xiaomi-2511FPC34G-Mali-G720_MC8-1787599012.json"
   }
 ]
