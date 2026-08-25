@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787677977,
+    "filename": "Resident_Evil_4-motorola-moto_g45_5G-Adreno__TM__619-1787677977.json"
+  },
+  {
     "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787654339,
     "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-motorola-moto_g45_5G-Adreno__TM__619-1787654339.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1787653828,
-    "filename": "Resident_Evil_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1787653828.json"
   }
 ]
