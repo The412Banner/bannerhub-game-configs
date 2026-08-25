@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sifu",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787646595,
+    "filename": "Sifu-motorola-moto_g45_5G-Adreno__TM__619-1787646595.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1787622099,
     "filename": "MW3-samsung-SM-M536B-Mali-G68_MC4-1787622099.json"
-  },
-  {
-    "game": "Universe_Sandbox_x64",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787622002,
-    "filename": "Universe_Sandbox_x64-realme-RMX5313-Mali-G57-1787622002.json"
   }
 ]
