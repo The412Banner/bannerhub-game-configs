@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "CPH2727",
+    "device": "Adreno__TM__610",
+    "timestamp": 1787693236,
+    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2727-Adreno__TM__610-1787693236.json"
+  },
+  {
     "game": "mysummercar",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__612",
     "timestamp": 1787684715,
     "filename": "Need_for_Speed_9-Xiaomi-M2101K7AG-Adreno__TM__612-1787684715.json"
-  },
-  {
-    "game": "FIFA_17",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1787683675,
-    "filename": "FIFA_17-Xiaomi-23043RP34G-Adreno__TM__650-1787683675.json"
   }
 ]
