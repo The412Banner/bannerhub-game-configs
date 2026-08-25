@@ -1,5 +1,12 @@
 [
   {
+    "game": "Riders_Republic",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787685455,
+    "filename": "Riders_Republic-motorola-moto_g45_5G-Adreno__TM__619-1787685455.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "M2101K7AG",
     "device": "Adreno__TM__612",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1787669172,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_fusion-Adreno__TM__710-1787669172.json"
-  },
-  {
-    "game": "Mafia_III__Definitive_Edition",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1787668158,
-    "filename": "Mafia_III__Definitive_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1787668158.json"
   }
 ]
