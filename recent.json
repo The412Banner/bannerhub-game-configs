@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mega_Man_-_Legacy_Collection________________________________",
+    "manufacturer": "moto_g34_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787688218,
+    "filename": "Mega_Man_-_Legacy_Collection________________________________-motorola-moto_g34_5G-Adreno__TM__619-1787688218.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S921B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1787678857,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22101316UP-Mali-G68_MC4-1787678857.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787677977,
-    "filename": "Resident_Evil_4-motorola-moto_g45_5G-Adreno__TM__619-1787677977.json"
   }
 ]
