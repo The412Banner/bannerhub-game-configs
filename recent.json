@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dragon_Age__Inquisition",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787667902,
+    "filename": "Dragon_Age__Inquisition-motorola-moto_g45_5G-Adreno__TM__619-1787667902.json"
+  },
+  {
     "game": "Watch_Dogs_",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787638334,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1787638334.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "V2348",
-    "device": "Adreno__TM__720",
-    "timestamp": 1787638199,
-    "filename": "God_of_War-vivo-V2348-Adreno__TM__720-1787638199.json"
   }
 ]
