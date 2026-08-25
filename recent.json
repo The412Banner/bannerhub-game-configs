@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1787701658,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787701658.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1787687908,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6861-Mali-G610_MC6-1787687908.json"
-  },
-  {
-    "game": "MotoGP15",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787687400,
-    "filename": "MotoGP15-motorola-moto_g45_5G-Adreno__TM__619-1787687400.json"
   }
 ]
