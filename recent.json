@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787649442,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165F-Mali-G57_MC2-1787649442.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1787626712,
     "filename": "Far_Cry__2-samsung-SM-X920-Mali-G720-Immortalis_MC12-1787626712.json"
-  },
-  {
-    "game": "Signal",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1787626667,
-    "filename": "Signal-Xiaomi-2511FPC34G-Mali-G720_MC8-1787626667.json"
   }
 ]
