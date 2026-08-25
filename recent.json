@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1787653828,
+    "filename": "Resident_Evil_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1787653828.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1787626742,
     "filename": "MiSide-samsung-SM-S938U-Adreno__TM__830-1787626742.json"
-  },
-  {
-    "game": "Far_Cry__2",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1787626712,
-    "filename": "Far_Cry__2-samsung-SM-X920-Mali-G720-Immortalis_MC12-1787626712.json"
   }
 ]
