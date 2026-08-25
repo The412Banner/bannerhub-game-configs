@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787654339,
+    "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-motorola-moto_g45_5G-Adreno__TM__619-1787654339.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1787628453,
     "filename": "Dragon_Ball_Sparking_ZERO_MULTi16_-_ElAmigos________________-samsung-SM-S908U-Adreno__TM__730-1787628453.json"
-  },
-  {
-    "game": "MiSide",
-    "manufacturer": "S938U",
-    "device": "Adreno__TM__830",
-    "timestamp": 1787626742,
-    "filename": "MiSide-samsung-SM-S938U-Adreno__TM__830-1787626742.json"
   }
 ]
