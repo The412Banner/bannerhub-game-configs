@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dragon_Ball_Sparking_ZERO_MULTi16_-_ElAmigos________________",
+    "manufacturer": "S908U",
+    "device": "Adreno__TM__730",
+    "timestamp": 1787628453,
+    "filename": "Dragon_Ball_Sparking_ZERO_MULTi16_-_ElAmigos________________-samsung-SM-S908U-Adreno__TM__730-1787628453.json"
+  },
+  {
     "game": "MiSide",
     "manufacturer": "S938U",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1787605200,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-25053PC47G-Adreno__TM__825-1787605200.json"
-  },
-  {
-    "game": "American_Truck_Simulator_Demo",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787599581,
-    "filename": "American_Truck_Simulator_Demo-motorola-moto_g06-Mali-G52_MC2-1787599581.json"
   }
 ]
