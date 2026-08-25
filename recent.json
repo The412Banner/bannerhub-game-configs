@@ -1,5 +1,12 @@
 [
   {
+    "game": "DEAD_OR_ALIVE_5_Last_Round__Core_Fighters",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1787691325,
+    "filename": "DEAD_OR_ALIVE_5_Last_Round__Core_Fighters-OPPO-PJY110-Mali-G68_MC4-1787691325.json"
+  },
+  {
     "game": "Bulletstorm__Full_Clip_Edition",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1787682032,
     "filename": "STORY_OF_SEASONS__Friends_of_Mineral_Town-INFINIX-Infinix_X6873-Mali-G615_MC6-1787682032.json"
-  },
-  {
-    "game": "Need_for_Speed_Underground",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787682029,
-    "filename": "Need_for_Speed_Underground-Anbernic-RG_406H-Mali-G57-1787682029.json"
   }
 ]
