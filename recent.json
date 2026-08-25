@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__2",
+    "manufacturer": "G720",
+    "device": "Immortalis_MC12",
+    "timestamp": 1787626712,
+    "filename": "Far_Cry__2-samsung-SM-X920-Mali-G720-Immortalis_MC12-1787626712.json"
+  },
+  {
     "game": "Signal",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1787599012,
     "filename": "_____2019-Xiaomi-2511FPC34G-Mali-G720_MC8-1787599012.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1787598602,
-    "filename": "_____2019-Xiaomi-2511FPC34G-Mali-G720_MC8-1787598602.json"
   }
 ]
