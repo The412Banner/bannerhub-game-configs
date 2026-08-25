@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "V2348",
+    "device": "Adreno__TM__720",
+    "timestamp": 1787638199,
+    "filename": "God_of_War-vivo-V2348-Adreno__TM__720-1787638199.json"
+  },
+  {
     "game": "TheAmazingSpider-Man2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G610_MC3",
     "timestamp": 1787613250,
     "filename": "Resident_Evil_Revelations-motorola-motorola_edge_40_neo-Mali-G610_MC3-1787613250.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787612718,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165F-Mali-G57_MC2-1787612718.json"
   }
 ]
