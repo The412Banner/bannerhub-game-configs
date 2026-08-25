@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1787687126,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1787687126.json"
+  },
+  {
     "game": "MotoGP14",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787677941,
     "filename": "Stellar_Blade_-motorola-moto_g45_5G-Adreno__TM__619-1787677941.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787676078,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KL4-Mali-G57-1787676078.json"
   }
 ]
