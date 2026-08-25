@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S921B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1787688021,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S921B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1787688021.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G610_MC6",
     "timestamp": 1787687908,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787677977,
     "filename": "Resident_Evil_4-motorola-moto_g45_5G-Adreno__TM__619-1787677977.json"
-  },
-  {
-    "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787677971,
-    "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-motorola-moto_g45_5G-Adreno__TM__619-1787677971.json"
   }
 ]
