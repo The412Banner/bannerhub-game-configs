@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787673844,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1787673844.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1787671846,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1787671846.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787646589,
     "filename": "Crash_Bandicoot_4-motorola-moto_g45_5G-Adreno__TM__619-1787646589.json"
-  },
-  {
-    "game": "Need_for_Speed__Rivals",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787646584,
-    "filename": "Need_for_Speed__Rivals-motorola-moto_g45_5G-Adreno__TM__619-1787646584.json"
   }
 ]
