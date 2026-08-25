@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "F946B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787697931,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-F946B-Adreno__TM__740-1787697931.json"
+  },
+  {
     "game": "Stray",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787685483,
     "filename": "The_Crew_Motorfest-motorola-moto_g45_5G-Adreno__TM__619-1787685483.json"
-  },
-  {
-    "game": "The_Crew_Motorfest",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787685472,
-    "filename": "The_Crew_Motorfest-motorola-moto_g45_5G-Adreno__TM__619-1787685472.json"
   }
 ]
