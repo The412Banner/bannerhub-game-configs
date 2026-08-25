@@ -1,5 +1,12 @@
 [
   {
+    "game": "Riders_Republic",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787685498,
+    "filename": "Riders_Republic-motorola-moto_g45_5G-Adreno__TM__619-1787685498.json"
+  },
+  {
     "game": "The_Crew_Motorfest",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787671846,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1787671846.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1787670159,
-    "filename": "God_of_War-Xiaomi-24095PCADG-Mali-G615_MC2-1787670159.json"
   }
 ]
