@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787676078,
+    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KL4-Mali-G57-1787676078.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1787673852,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1787673852.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787646595,
     "filename": "Sifu-motorola-moto_g45_5G-Adreno__TM__619-1787646595.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787646593,
-    "filename": "Tomb_Raider-motorola-moto_g45_5G-Adreno__TM__619-1787646593.json"
   }
 ]
