@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1787670159,
+    "filename": "God_of_War-Xiaomi-24095PCADG-Mali-G615_MC2-1787670159.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787646579,
     "filename": "DRAGON_BALL_Sparking__ZERO-motorola-moto_g45_5G-Adreno__TM__619-1787646579.json"
-  },
-  {
-    "game": "DRAGON_BALL_Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787643920,
-    "filename": "DRAGON_BALL_Sparking__ZERO-INFINIX-Infinix_X6837-Mali-G57_MC2-1787643920.json"
   }
 ]
