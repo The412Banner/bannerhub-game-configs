@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_III__Definitive_Edition",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1787668158,
+    "filename": "Mafia_III__Definitive_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1787668158.json"
+  },
+  {
     "game": "Dragon_Age__Inquisition",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787638349,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1787638349.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787638334,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1787638334.json"
   }
 ]
