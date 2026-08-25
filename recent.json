@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787638334,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1787638334.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "V2348",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787614140,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165F-Mali-G57_MC2-1787614140.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations",
-    "manufacturer": "Mali",
-    "device": "G610_MC3",
-    "timestamp": 1787613250,
-    "filename": "Resident_Evil_Revelations-motorola-motorola_edge_40_neo-Mali-G610_MC3-1787613250.json"
   }
 ]
