@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787738664,
+    "filename": "Grand_Theft_Auto_V_Legacy-ITEL-itel_S666LN-Mali-G57_MC2-1787738664.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2______________________________________",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1787704641,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25053PC47G-Adreno__TM__825-1787704641.json"
-  },
-  {
-    "game": "NieR_Automata_",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787704492,
-    "filename": "NieR_Automata_-motorola-moto_g45_5G-Adreno__TM__619-1787704492.json"
   }
 ]
