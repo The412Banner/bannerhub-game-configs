@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__III",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1787785024,
+    "filename": "DARK_SOULS__III-Xiaomi-2602DPT53G-Mali-G720_MC8-1787785024.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1787759978,
     "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-samsung-SM-F956B-Adreno__TM__750-1787759978.json"
-  },
-  {
-    "game": "FIFA_19",
-    "manufacturer": "2211133C",
-    "device": "Adreno__TM__740",
-    "timestamp": 1787758861,
-    "filename": "FIFA_19-Xiaomi-2211133C-Adreno__TM__740-1787758861.json"
   }
 ]
