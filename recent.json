@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1787704641,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25053PC47G-Adreno__TM__825-1787704641.json"
+  },
+  {
     "game": "NieR_Automata_",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1787688351,
     "filename": "Bulletstorm__Full_Clip_Edition-LENOVO-TB321FU-Adreno__TM__750-1787688351.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787688300,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g14-Mali-G57-1787688300.json"
   }
 ]
