@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787776313,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A065M-Mali-G52_MC2-1787776313.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787746468,
     "filename": "Pro_Evolution_Soccer_2014-Xiaomi-25062RN2DL-Adreno__TM__610-1787746468.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787739492,
-    "filename": "Euro_Truck_Simulator_2-motorola-moto_g35_5G-Mali-G57-1787739492.json"
   }
 ]
