@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787755913,
+    "filename": "Euro_Truck_Simulator_2-motorola-moto_g35_5G-Mali-G57-1787755913.json"
+  },
+  {
     "game": "The_Elder_Scrolls_V__Skyrim",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1787729224,
     "filename": "Formula_Legends-OnePlus-CPH2747-Adreno__TM__840-1787729224.json"
-  },
-  {
-    "game": "Project_CARS_3",
-    "manufacturer": "CPH2747",
-    "device": "Adreno__TM__840",
-    "timestamp": 1787728824,
-    "filename": "Project_CARS_3-OnePlus-CPH2747-Adreno__TM__840-1787728824.json"
   }
 ]
