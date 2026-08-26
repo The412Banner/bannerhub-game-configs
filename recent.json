@@ -1,5 +1,12 @@
 [
   {
+    "game": "Universe_Sandbox_x64",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787767651,
+    "filename": "Universe_Sandbox_x64-realme-RMX5313-Mali-G57-1787767651.json"
+  },
+  {
     "game": "Monster_Hunter__World",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1787736942,
     "filename": "Far_Cry_3-HONOR-BRC-NX1-PowerVR_B-Series_BXM-8-256-1787736942.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider_",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787733744,
-    "filename": "Rise_of_the_Tomb_Raider_-motorola-moto_g45_5G-Adreno__TM__619-1787733744.json"
   }
 ]
