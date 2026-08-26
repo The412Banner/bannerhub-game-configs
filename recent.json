@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "22101320G",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1787785497,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22101320G-Adreno__TM__642L-1787785497.json"
+  },
+  {
     "game": "METAL_GEAR_RISING__REVENGEANCE",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1787762980,
     "filename": "River_Tails_-_Stronger_Together-LENOVO-TB321FU-Adreno__TM__750-1787762980.json"
-  },
-  {
-    "game": "Little_Nightmares_II",
-    "manufacturer": "V2339",
-    "device": "Adreno__TM__710",
-    "timestamp": 1787761460,
-    "filename": "Little_Nightmares_II-vivo-V2339-Adreno__TM__710-1787761460.json"
   }
 ]
