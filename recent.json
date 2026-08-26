@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1787736942,
+    "filename": "Far_Cry_3-HONOR-BRC-NX1-PowerVR_B-Series_BXM-8-256-1787736942.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787700896,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRN14I-Mali-G52_MC2-1787700896.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787700886,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRN14I-Mali-G52_MC2-1787700886.json"
   }
 ]
