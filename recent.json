@@ -1,5 +1,12 @@
 [
   {
+    "game": "Formula_Legends",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1787729224,
+    "filename": "Formula_Legends-OnePlus-CPH2747-Adreno__TM__840-1787729224.json"
+  },
+  {
     "game": "Project_CARS_3",
     "manufacturer": "CPH2747",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787693236,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2727-Adreno__TM__610-1787693236.json"
-  },
-  {
-    "game": "mysummercar",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787693189,
-    "filename": "mysummercar-TECNO-TECNO_LH7n-Mali-G57_MC2-1787693189.json"
   }
 ]
