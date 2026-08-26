@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787784196,
+    "filename": "Red_Dead_Redemption_2-motorola-moto_g24-Mali-G52_MC2-1787784196.json"
+  },
+  {
     "game": "Need_for_Speed__Payback",
     "manufacturer": "2509ARPBDG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1787758861,
     "filename": "FIFA_19-Xiaomi-2211133C-Adreno__TM__740-1787758861.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787755913,
-    "filename": "Euro_Truck_Simulator_2-motorola-moto_g35_5G-Mali-G57-1787755913.json"
   }
 ]
