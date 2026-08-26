@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Visual_C___2013_Redistributable__x64__-_12_0_30501",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787726661,
+    "filename": "Microsoft_Visual_C___2013_Redistributable__x64__-_12_0_30501-samsung-SM-A245F-Mali-G57_MC2-1787726661.json"
+  },
+  {
     "game": "Resident_Evil_Requiem",
     "manufacturer": "V2408A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1787691337,
     "filename": "DEAD_OR_ALIVE_5_Last_Round__Core_Fighters-OPPO-PJY110-Mali-G68_MC4-1787691337.json"
-  },
-  {
-    "game": "DEAD_OR_ALIVE_5_Last_Round__Core_Fighters",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1787691325,
-    "filename": "DEAD_OR_ALIVE_5_Last_Round__Core_Fighters-OPPO-PJY110-Mali-G68_MC4-1787691325.json"
   }
 ]
