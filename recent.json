@@ -1,5 +1,12 @@
 [
   {
+    "game": "River_Tails_-_Stronger_Together",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1787762980,
+    "filename": "River_Tails_-_Stronger_Together-LENOVO-TB321FU-Adreno__TM__750-1787762980.json"
+  },
+  {
     "game": "Little_Nightmares_II",
     "manufacturer": "V2339",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1787732136,
     "filename": "Suikoden_I_II_HD_Remaster_Gate_Rune_and_Dunan_Unification_Wars-samsung-SM-S918B-Adreno__TM__740-1787732136.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787729893,
-    "filename": "Rise_of_the_Tomb_Raider-motorola-moto_g45_5G-Adreno__TM__619-1787729893.json"
   }
 ]
