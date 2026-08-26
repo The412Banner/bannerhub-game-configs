@@ -1,5 +1,12 @@
 [
   {
+    "game": "Daisenka",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787771213,
+    "filename": "Daisenka-motorola-moto_g15-Mali-G52_MC2-1787771213.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1787737280,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-F956B-Adreno__TM__750-1787737280.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "F956B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1787737234,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-F956B-Adreno__TM__750-1787737234.json"
   }
 ]
