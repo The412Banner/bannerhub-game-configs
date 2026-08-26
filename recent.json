@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787729893,
+    "filename": "Rise_of_the_Tomb_Raider-motorola-moto_g45_5G-Adreno__TM__619-1787729893.json"
+  },
+  {
     "game": "Ori_and_the_Will_of_the_Wisps",
     "manufacturer": "CPH2747",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1787697931,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-samsung-SM-F946B-Adreno__TM__740-1787697931.json"
-  },
-  {
-    "game": "Stray",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1787695068,
-    "filename": "Stray-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1787695068.json"
   }
 ]
