@@ -1,5 +1,12 @@
 [
   {
+    "game": "Project_CARS_3",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1787728824,
+    "filename": "Project_CARS_3-OnePlus-CPH2747-Adreno__TM__840-1787728824.json"
+  },
+  {
     "game": "Torque_Drift",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787693189,
     "filename": "mysummercar-TECNO-TECNO_LH7n-Mali-G57_MC2-1787693189.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1787692672,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787692672.json"
   }
 ]
