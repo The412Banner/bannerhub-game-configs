@@ -1,5 +1,12 @@
 [
   {
+    "game": "Monster_Hunter__World",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1787767367,
+    "filename": "Monster_Hunter__World-ayn-Odin3-Adreno__TM__830-1787767367.json"
+  },
+  {
     "game": "Cover_Fire",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787733744,
     "filename": "Rise_of_the_Tomb_Raider_-motorola-moto_g45_5G-Adreno__TM__619-1787733744.json"
-  },
-  {
-    "game": "OCTOPATH_TRAVELER_II",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1787732430,
-    "filename": "OCTOPATH_TRAVELER_II-samsung-SM-S918B-Adreno__TM__740-1787732430.json"
   }
 ]
