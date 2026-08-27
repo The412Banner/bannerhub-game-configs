@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787841582,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_KJ7-Mali-G57_MC2-1787841582.json"
+  },
+  {
     "game": "SnowRunner",
     "manufacturer": "CPH2747",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1787817268,
     "filename": "Biomutant-LENOVO-TB321FU-Adreno__TM__750-1787817268.json"
-  },
-  {
-    "game": "Saints_Row__The_Third",
-    "manufacturer": "LX3",
-    "device": "Adreno__TM__610",
-    "timestamp": 1787813462,
-    "filename": "Saints_Row__The_Third-HONOR-CMA-LX3-Adreno__TM__610-1787813462.json"
   }
 ]
