@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1787794239,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1787794239.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1787793861,
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787767651,
     "filename": "Universe_Sandbox_x64-realme-RMX5313-Mali-G57-1787767651.json"
-  },
-  {
-    "game": "Monster_Hunter__World",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1787767367,
-    "filename": "Monster_Hunter__World-ayn-Odin3-Adreno__TM__830-1787767367.json"
   }
 ]
