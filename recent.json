@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1787861464,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2312DRA50G-Adreno__TM__710-1787861464.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A07",
     "device": "PowerVR_Rogue_GE8322",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787833352,
     "filename": "Tomb_Raider-vivo-V2419-Mali-G57-1787833352.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787833333,
-    "filename": "Tomb_Raider-vivo-V2419-Mali-G57-1787833333.json"
   }
 ]
