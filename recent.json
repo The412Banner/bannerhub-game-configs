@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787871234,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1787871234.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1787843224,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787843224.json"
-  },
-  {
-    "game": "Replaced",
-    "manufacturer": "CPH2747",
-    "device": "Adreno__TM__840",
-    "timestamp": 1787843067,
-    "filename": "Replaced-OnePlus-CPH2747-Adreno__TM__840-1787843067.json"
   }
 ]
