@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1787811211,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2312DRA50G-Adreno__TM__710-1787811211.json"
+  },
+  {
     "game": "My_Summer_Car",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1787785104,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-samsung-SM-G780G-Adreno__TM__650-1787785104.json"
-  },
-  {
-    "game": "DARK_SOULS__III",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1787785024,
-    "filename": "DARK_SOULS__III-Xiaomi-2602DPT53G-Mali-G720_MC8-1787785024.json"
   }
 ]
