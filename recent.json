@@ -1,5 +1,12 @@
 [
   {
+    "game": "cuphead-downloadcomputergames_net",
+    "manufacturer": "Redmi_Note_9_Pro",
+    "device": "Adreno__TM__618",
+    "timestamp": 1787845282,
+    "filename": "cuphead-downloadcomputergames_net-Xiaomi-Redmi_Note_9_Pro-Adreno__TM__618-1787845282.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "LX3",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1787824429,
     "filename": "FIFA_19-Xiaomi-2511FPC34G-Mali-G720_MC8-1787824429.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1787823937,
-    "filename": "PlayGTAV-samsung-SM-A176B-Mali-G68-1787823937.json"
   }
 ]
