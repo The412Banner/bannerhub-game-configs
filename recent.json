@@ -1,5 +1,12 @@
 [
   {
+    "game": "Attack_on_Titan_2_-_A_O_T_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1787857740,
+    "filename": "Attack_on_Titan_2_-_A_O_T_2-Xiaomi-24095PCADG-Mali-G615_MC2-1787857740.json"
+  },
+  {
     "game": "Fable_-_The_Lost_Chapters",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1787827785,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-25053RT47C-Adreno__TM__825-1787827785.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1787827400,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-25053RT47C-Adreno__TM__825-1787827400.json"
   }
 ]
