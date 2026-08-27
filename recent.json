@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1787865229,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M146B-Mali-G68-1787865229.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "CPH2477",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787841582,
     "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_KJ7-Mali-G57_MC2-1787841582.json"
-  },
-  {
-    "game": "SnowRunner",
-    "manufacturer": "CPH2747",
-    "device": "Adreno__TM__840",
-    "timestamp": 1787841411,
-    "filename": "SnowRunner-OnePlus-CPH2747-Adreno__TM__840-1787841411.json"
   }
 ]
