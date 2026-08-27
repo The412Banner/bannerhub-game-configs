@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_Komplete_Edition",
+    "manufacturer": "moto_g96_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1787811441,
+    "filename": "Mortal_Kombat_Komplete_Edition-motorola-moto_g96_5G-Adreno__TM__710-1787811441.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1787785497,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22101320G-Adreno__TM__642L-1787785497.json"
-  },
-  {
-    "game": "METAL_GEAR_RISING__REVENGEANCE",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1787785104,
-    "filename": "METAL_GEAR_RISING__REVENGEANCE-samsung-SM-G780G-Adreno__TM__650-1787785104.json"
   }
 ]
