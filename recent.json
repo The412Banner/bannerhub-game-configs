@@ -1,5 +1,12 @@
 [
   {
+    "game": "My_Summer_Car",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787810068,
+    "filename": "My_Summer_Car-samsung-SM-A075M-Mali-G57_MC2-1787810068.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1787785024,
     "filename": "DARK_SOULS__III-Xiaomi-2602DPT53G-Mali-G720_MC8-1787785024.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787784196,
-    "filename": "Red_Dead_Redemption_2-motorola-moto_g24-Mali-G52_MC2-1787784196.json"
   }
 ]
