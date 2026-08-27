@@ -1,5 +1,12 @@
 [
   {
+    "game": "Saints_Row__The_Third",
+    "manufacturer": "LX3",
+    "device": "Adreno__TM__610",
+    "timestamp": 1787813462,
+    "filename": "Saints_Row__The_Third-HONOR-CMA-LX3-Adreno__TM__610-1787813462.json"
+  },
+  {
     "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787794239,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1787794239.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787793861,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g15-Mali-G52_MC2-1787793861.json"
   }
 ]
