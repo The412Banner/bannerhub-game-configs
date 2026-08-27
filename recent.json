@@ -1,5 +1,12 @@
 [
   {
+    "game": "OCTOPATH_TRAVELER_II",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1787820714,
+    "filename": "OCTOPATH_TRAVELER_II-samsung-SM-S918B-Adreno__TM__740-1787820714.json"
+  },
+  {
     "game": "Suikoden_I_II_HD_Remaster_Gate_Rune_and_Dunan_Unification_Wars",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1787795941,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1787795941.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1787795015,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M146B-Mali-G68-1787795015.json"
   }
 ]
