@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bulletstorm__Full_Clip_Edition",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1787796191,
+    "filename": "Bulletstorm__Full_Clip_Edition-Xiaomi-25053RT47C-Adreno__TM__825-1787796191.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1787773016,
     "filename": "FlatOut2-Xiaomi-22081212UG-Adreno__TM__730-1787773016.json"
-  },
-  {
-    "game": "Daisenka",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787771213,
-    "filename": "Daisenka-motorola-moto_g15-Mali-G52_MC2-1787771213.json"
   }
 ]
