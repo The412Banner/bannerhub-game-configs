@@ -1,5 +1,12 @@
 [
   {
+    "game": "Replaced",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1787843067,
+    "filename": "Replaced-OnePlus-CPH2747-Adreno__TM__840-1787843067.json"
+  },
+  {
     "game": "Roblox_Bootstrapper",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G71",
     "timestamp": 1787822409,
     "filename": "7Launcher_-_Half-Life_2_1_7_0_7_____________________________-samsung-SM-A307FN-Mali-G71-1787822409.json"
-  },
-  {
-    "game": "Biomutant",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1787817948,
-    "filename": "Biomutant-LENOVO-TB321FU-Adreno__TM__750-1787817948.json"
   }
 ]
