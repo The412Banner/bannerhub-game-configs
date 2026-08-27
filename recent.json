@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1787796809,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1787796809.json"
+  },
+  {
     "game": "Bulletstorm__Full_Clip_Edition",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787775404,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3710-Mali-G52_MC2-1787775404.json"
-  },
-  {
-    "game": "FlatOut2",
-    "manufacturer": "22081212UG",
-    "device": "Adreno__TM__730",
-    "timestamp": 1787773016,
-    "filename": "FlatOut2-Xiaomi-22081212UG-Adreno__TM__730-1787773016.json"
   }
 ]
