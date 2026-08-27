@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1787794750,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1787794750.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1787770418,
     "filename": "Hollow_Knight__Silksong-samsung-SM-G975F-Mali-G76-1787770418.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787768617,
-    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_KJ7-Mali-G57_MC2-1787768617.json"
   }
 ]
