@@ -1,5 +1,12 @@
 [
   {
+    "game": "Persona_3_Reload",
+    "manufacturer": "PKJ110",
+    "device": "Adreno__TM__830",
+    "timestamp": 1787834408,
+    "filename": "Persona_3_Reload-OPPO-PKJ110-Adreno__TM__830-1787834408.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_e_7__plus",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1787811211,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2312DRA50G-Adreno__TM__710-1787811211.json"
-  },
-  {
-    "game": "My_Summer_Car",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787810068,
-    "filename": "My_Summer_Car-samsung-SM-A075M-Mali-G57_MC2-1787810068.json"
   }
 ]
