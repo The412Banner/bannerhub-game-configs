@@ -1,5 +1,12 @@
 [
   {
+    "game": "Attack_on_Titan_2_-_A_O_T_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1787863080,
+    "filename": "Attack_on_Titan_2_-_A_O_T_2-Xiaomi-24095PCADG-Mali-G615_MC2-1787863080.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1787839633,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2312DRA50G-Adreno__TM__710-1787839633.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_e_7__plus",
-    "device": "Adreno__TM__610",
-    "timestamp": 1787834480,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e_7__plus-Adreno__TM__610-1787834480.json"
   }
 ]
