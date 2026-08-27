@@ -1,5 +1,12 @@
 [
   {
+    "game": "revLoader",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787796828,
+    "filename": "revLoader-Xiaomi-2510DRA23L-Mali-G57_MC2-1787796828.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1787775520,
     "filename": "Pro_Evolution_Soccer_2017-nubia-NX799J-Adreno__TM__830-1787775520.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787775404,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3710-Mali-G52_MC2-1787775404.json"
   }
 ]
