@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1787805186,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A366E-Adreno__TM__710-1787805186.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787784196,
     "filename": "Red_Dead_Redemption_2-motorola-moto_g24-Mali-G52_MC2-1787784196.json"
-  },
-  {
-    "game": "Need_for_Speed__Payback",
-    "manufacturer": "2509ARPBDG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1787780535,
-    "filename": "Need_for_Speed__Payback-Xiaomi-2509ARPBDG-Adreno__TM__810-1787780535.json"
   }
 ]
