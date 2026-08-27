@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_PES_2021_SEASON_UPDATE",
+    "manufacturer": "CPH2477",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1787863450,
+    "filename": "eFootball_PES_2021_SEASON_UPDATE-OPPO-CPH2477-PowerVR_Rogue_GE8320-1787863450.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "CPH2477",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1787841411,
     "filename": "SnowRunner-OnePlus-CPH2747-Adreno__TM__840-1787841411.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "NX779J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1787840989,
-    "filename": "Resident_Evil_3-nubia-NX779J-Adreno__TM__750-1787840989.json"
   }
 ]
