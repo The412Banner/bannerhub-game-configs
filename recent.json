@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1787827400,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-25053RT47C-Adreno__TM__825-1787827400.json"
+  },
+  {
     "game": "FIFA_19",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787800956,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRN14I-Mali-G52_MC2-1787800956.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1787796835,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1787796835.json"
   }
 ]
