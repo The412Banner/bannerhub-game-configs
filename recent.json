@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1787870630,
+    "filename": "Euro_Truck_Simulator_2-motorola-moto_g35_5G-Mali-G57-1787870630.json"
+  },
+  {
     "game": "Assassin_s_Creed__Liberation_HD",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1787843067,
     "filename": "Replaced-OnePlus-CPH2747-Adreno__TM__840-1787843067.json"
-  },
-  {
-    "game": "Roblox_Bootstrapper",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787842213,
-    "filename": "Roblox_Bootstrapper-INFINIX-Infinix_X6833B-Mali-G57_MC2-1787842213.json"
   }
 ]
