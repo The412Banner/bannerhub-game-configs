@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "CPH2477",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1787863352,
+    "filename": "Red_Dead_Redemption_2-OPPO-CPH2477-PowerVR_Rogue_GE8320-1787863352.json"
+  },
+  {
     "game": "Attack_on_Titan_2_-_A_O_T_2",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1787840989,
     "filename": "Resident_Evil_3-nubia-NX779J-Adreno__TM__750-1787840989.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1787839633,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2312DRA50G-Adreno__TM__710-1787839633.json"
   }
 ]
