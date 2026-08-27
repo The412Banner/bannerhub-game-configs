@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Liberation_HD",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1787868433,
+    "filename": "Assassin_s_Creed__Liberation_HD-INFINIX-Infinix_X6873-Mali-G615_MC6-1787868433.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787842213,
     "filename": "Roblox_Bootstrapper-INFINIX-Infinix_X6833B-Mali-G57_MC2-1787842213.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787841582,
-    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_KJ7-Mali-G57_MC2-1787841582.json"
   }
 ]
