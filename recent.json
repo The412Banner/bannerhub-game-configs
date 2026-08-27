@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1787795015,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M146B-Mali-G68-1787795015.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787770948,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1787770948.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1787770424,
-    "filename": "Hollow_Knight__Silksong-samsung-SM-G975F-Mali-G76-1787770424.json"
   }
 ]
