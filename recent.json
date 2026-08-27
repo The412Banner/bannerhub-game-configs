@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1787823937,
+    "filename": "PlayGTAV-samsung-SM-A176B-Mali-G68-1787823937.json"
+  },
+  {
     "game": "OCTOPATH_TRAVELER_II",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1787796191,
     "filename": "Bulletstorm__Full_Clip_Edition-Xiaomi-25053RT47C-Adreno__TM__825-1787796191.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A556E",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1787795941,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1787795941.json"
   }
 ]
