@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1787793655,
+    "filename": "BlackOps-Xiaomi-25053PC47G-Adreno__TM__825-1787793655.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "22101320G",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787766238,
     "filename": "Cover_Fire-vivo-V2356-Mali-G57_MC2-1787766238.json"
-  },
-  {
-    "game": "River_Tails_-_Stronger_Together",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1787762980,
-    "filename": "River_Tails_-_Stronger_Together-LENOVO-TB321FU-Adreno__TM__750-1787762980.json"
   }
 ]
