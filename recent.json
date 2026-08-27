@@ -1,5 +1,12 @@
 [
   {
+    "game": "SnowRunner",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1787841411,
+    "filename": "SnowRunner-OnePlus-CPH2747-Adreno__TM__840-1787841411.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "NX779J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787813462,
     "filename": "Saints_Row__The_Third-HONOR-CMA-LX3-Adreno__TM__610-1787813462.json"
-  },
-  {
-    "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1787813453,
-    "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-vivo-I2405-Adreno__TM__825-1787813453.json"
   }
 ]
