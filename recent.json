@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787954584,
+    "filename": "TheAmazingSpider-Man2-Xiaomi-24117RN76L-Mali-G57_MC2-1787954584.json"
+  },
+  {
     "game": "LEGO__Marvel__Super_Heroes",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787928092,
     "filename": "Onikura_Demo-Xiaomi-23106RN0DA-Mali-G52_MC2-1787928092.json"
-  },
-  {
-    "game": "Call_of_Duty__World_at_War",
-    "manufacturer": "2107113SG",
-    "device": "Adreno__TM__660",
-    "timestamp": 1787921283,
-    "filename": "Call_of_Duty__World_at_War-Xiaomi-2107113SG-Adreno__TM__660-1787921283.json"
   }
 ]
