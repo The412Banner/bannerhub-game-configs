@@ -1,5 +1,12 @@
 [
   {
+    "game": "Volkolak",
+    "manufacturer": "L22",
+    "device": "Adreno__TM__610",
+    "timestamp": 1787929802,
+    "filename": "Volkolak-HUAWEI-NEN-L22-Adreno__TM__610-1787929802.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1787895406,
     "filename": "german-truck-simulator-1-32-samsung-SM-A356E-Mali-G68-1787895406.json"
-  },
-  {
-    "game": "MotoGP_23___________________________________________________",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1787892445,
-    "filename": "MotoGP_23___________________________________________________-INFINIX-Infinix_X6871-Mali-G610_MC6-1787892445.json"
   }
 ]
