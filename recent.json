@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787884823,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1787884823.json"
+  },
+  {
     "game": "Alan_Wake",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1787865229,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M146B-Mali-G68-1787865229.json"
-  },
-  {
-    "game": "eFootball_PES_2021_SEASON_UPDATE",
-    "manufacturer": "CPH2477",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1787863450,
-    "filename": "eFootball_PES_2021_SEASON_UPDATE-OPPO-CPH2477-PowerVR_Rogue_GE8320-1787863450.json"
   }
 ]
