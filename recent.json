@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1787875640,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A057M-Adreno__TM__610-1787875640.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1787854780,
     "filename": "Fable_-_The_Lost_Chapters-Xiaomi-M2012K11AG-Adreno__TM__650-1787854780.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "25091RP04G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1787847598,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25091RP04G-Adreno__TM__830-1787847598.json"
   }
 ]
