@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787928259,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_KJ7-Mali-G57_MC2-1787928259.json"
+  },
+  {
     "game": "Onikura_Demo",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1787892445,
     "filename": "MotoGP_23___________________________________________________-INFINIX-Infinix_X6871-Mali-G610_MC6-1787892445.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1787886089,
-    "filename": "Resident_Evil_4-Xiaomi-24117RK2CG-Adreno__TM__750-1787886089.json"
   }
 ]
