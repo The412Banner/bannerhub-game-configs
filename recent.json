@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__II",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787921112,
+    "filename": "DARK_SOULS__II-motorola-moto_g45_5G-Adreno__TM__619-1787921112.json"
+  },
+  {
     "game": "The_Witcher_3__Wild_Hunt",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1787881108,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M625F-Mali-G76-1787881108.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_edge_30_neo",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787879335,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_30_neo-Adreno__TM__619-1787879335.json"
   }
 ]
