@@ -1,6 +1,13 @@
 [
   {
     "game": "LEGO__Marvel__Super_Heroes",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787953926,
+    "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-24117RN76L-Mali-G57_MC2-1787953926.json"
+  },
+  {
+    "game": "LEGO__Marvel__Super_Heroes",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
     "timestamp": 1787946093,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1787921283,
     "filename": "Call_of_Duty__World_at_War-Xiaomi-2107113SG-Adreno__TM__660-1787921283.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787921128,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g45_5G-Adreno__TM__619-1787921128.json"
   }
 ]
