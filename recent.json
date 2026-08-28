@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dying_Light",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1787944805,
+    "filename": "Dying_Light-Xiaomi-2412DPC0AG-Mali-G720_MC7-1787944805.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787921116,
     "filename": "Dragon_Age__Inquisition-motorola-moto_g45_5G-Adreno__TM__619-1787921116.json"
-  },
-  {
-    "game": "DARK_SOULS__II",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787921112,
-    "filename": "DARK_SOULS__II-motorola-moto_g45_5G-Adreno__TM__619-1787921112.json"
   }
 ]
