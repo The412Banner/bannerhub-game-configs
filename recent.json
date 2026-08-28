@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "24117RK2CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1787886089,
+    "filename": "Resident_Evil_4-Xiaomi-24117RK2CG-Adreno__TM__750-1787886089.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1787870630,
     "filename": "Euro_Truck_Simulator_2-motorola-moto_g35_5G-Mali-G57-1787870630.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Liberation_HD",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1787868433,
-    "filename": "Assassin_s_Creed__Liberation_HD-INFINIX-Infinix_X6873-Mali-G615_MC6-1787868433.json"
   }
 ]
