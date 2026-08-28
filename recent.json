@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dragon_Age__Inquisition",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787921116,
+    "filename": "Dragon_Age__Inquisition-motorola-moto_g45_5G-Adreno__TM__619-1787921116.json"
+  },
+  {
     "game": "DARK_SOULS__II",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1787881888,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M625F-Mali-G76-1787881888.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1787881108,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M625F-Mali-G76-1787881108.json"
   }
 ]
