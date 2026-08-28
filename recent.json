@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787921122,
+    "filename": "Sleeping_Dogs-motorola-moto_g45_5G-Adreno__TM__619-1787921122.json"
+  },
+  {
     "game": "Dragon_Age__Inquisition",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787882625,
     "filename": "Alan_Wake-HONOR-CRT-NX3-Mali-G57_MC2-1787882625.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1787881888,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M625F-Mali-G76-1787881888.json"
   }
 ]
