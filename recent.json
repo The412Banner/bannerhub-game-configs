@@ -1,5 +1,12 @@
 [
   {
+    "game": "South_Park___The_Stick_of_Truth_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787920361,
+    "filename": "South_Park___The_Stick_of_Truth_-samsung-SM-A055M-Mali-G52_MC2-1787920361.json"
+  },
+  {
     "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
     "manufacturer": "23013PC75G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787879257,
     "filename": "Roblox_Bootstrapper-Xiaomi-24117RN76L-Mali-G57_MC2-1787879257.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2510DPC44G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1787878894,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2510DPC44G-Adreno__TM__830-1787878894.json"
   }
 ]
