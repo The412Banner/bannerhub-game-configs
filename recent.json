@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_18",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1787958089,
+    "filename": "FIFA_18-samsung-SM-G780G-Adreno__TM__650-1787958089.json"
+  },
+  {
     "game": "TheAmazingSpider-Man2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787928259,
     "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_KJ7-Mali-G57_MC2-1787928259.json"
-  },
-  {
-    "game": "Onikura_Demo",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787928092,
-    "filename": "Onikura_Demo-Xiaomi-23106RN0DA-Mali-G52_MC2-1787928092.json"
   }
 ]
