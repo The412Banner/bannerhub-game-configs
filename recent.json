@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787921128,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g45_5G-Adreno__TM__619-1787921128.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787884823,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1787884823.json"
-  },
-  {
-    "game": "Alan_Wake",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787882625,
-    "filename": "Alan_Wake-HONOR-CRT-NX3-Mali-G57_MC2-1787882625.json"
   }
 ]
