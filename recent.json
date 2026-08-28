@@ -1,5 +1,12 @@
 [
   {
+    "game": "german-truck-simulator-1-32",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1787895406,
+    "filename": "german-truck-simulator-1-32-samsung-SM-A356E-Mali-G68-1787895406.json"
+  },
+  {
     "game": "MotoGP_23___________________________________________________",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787871242,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1787871242.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787871234,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1787871234.json"
   }
 ]
