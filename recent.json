@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787876891,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1787876891.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1787857740,
     "filename": "Attack_on_Titan_2_-_A_O_T_2-Xiaomi-24095PCADG-Mali-G615_MC2-1787857740.json"
-  },
-  {
-    "game": "Fable_-_The_Lost_Chapters",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1787854780,
-    "filename": "Fable_-_The_Lost_Chapters-Xiaomi-M2012K11AG-Adreno__TM__650-1787854780.json"
   }
 ]
