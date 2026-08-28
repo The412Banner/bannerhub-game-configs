@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787877637,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1787877637.json"
+  },
+  {
     "game": "Another_Crab_s_Treasure",
     "manufacturer": "CPH2025",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1787861464,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2312DRA50G-Adreno__TM__710-1787861464.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A07",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1787860772,
-    "filename": "Grand_Theft_Auto_V_Legacy-KXD-A07-PowerVR_Rogue_GE8322-1787860772.json"
   }
 ]
