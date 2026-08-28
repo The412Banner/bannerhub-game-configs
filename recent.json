@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty__World_at_War",
+    "manufacturer": "2107113SG",
+    "device": "Adreno__TM__660",
+    "timestamp": 1787921283,
+    "filename": "Call_of_Duty__World_at_War-Xiaomi-2107113SG-Adreno__TM__660-1787921283.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787885674,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1787885674.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1787884823,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1787884823.json"
   }
 ]
