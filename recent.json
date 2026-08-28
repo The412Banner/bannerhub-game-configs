@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alan_Wake",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787882625,
+    "filename": "Alan_Wake-HONOR-CRT-NX3-Mali-G57_MC2-1787882625.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1787863450,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-OPPO-CPH2477-PowerVR_Rogue_GE8320-1787863450.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "CPH2477",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1787863352,
-    "filename": "Red_Dead_Redemption_2-OPPO-CPH2477-PowerVR_Rogue_GE8320-1787863352.json"
   }
 ]
