@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1787878894,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2510DPC44G-Adreno__TM__830-1787878894.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1787861690,
     "filename": "Fable_-_The_Lost_Chapters-Xiaomi-M2012K11AG-Adreno__TM__650-1787861690.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1787861464,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2312DRA50G-Adreno__TM__710-1787861464.json"
   }
 ]
