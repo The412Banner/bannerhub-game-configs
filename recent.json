@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1788040362,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409BRN2CA-Mali-G52_MC2-1788040362.json"
+  },
+  {
     "game": "Valheim",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1788010153,
     "filename": "DRAGON_BALL_FighterZ-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788010153.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2009",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1788010114,
-    "filename": "Pro_Evolution_Soccer_2009-motorola-moto_g24-Mali-G52_MC2-1788010114.json"
   }
 ]
