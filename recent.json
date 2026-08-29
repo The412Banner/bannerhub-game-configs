@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "S908E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1787989194,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-samsung-SM-S908E-Adreno__TM__730-1787989194.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2363",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787953926,
     "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-24117RN76L-Mali-G57_MC2-1787953926.json"
-  },
-  {
-    "game": "LEGO__Marvel__Super_Heroes",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787946093,
-    "filename": "LEGO__Marvel__Super_Heroes-motorola-moto_g34_5G-Adreno__TM__619-1787946093.json"
   }
 ]
