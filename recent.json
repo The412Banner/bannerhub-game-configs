@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC__Devil_May_Cry",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1787979847,
+    "filename": "DmC__Devil_May_Cry-TECNO-TECNO_CM8-Mali-G615_MC6-1787979847.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1787943827,
     "filename": "DP-motorola-moto_g34_5G-Adreno__TM__619-1787943827.json"
-  },
-  {
-    "game": "DP",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1787942742,
-    "filename": "DP-motorola-moto_g34_5G-Adreno__TM__619-1787942742.json"
   }
 ]
