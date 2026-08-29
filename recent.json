@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1787998237,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-21091116UG-Mali-G68_MC4-1787998237.json"
+  },
+  {
     "game": "EuroTruckSimulator2_1_31_2_1_to_1_32_3_14_patch",
     "manufacturer": "2201116PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1787965165,
     "filename": "PES2017_Play_Disini-Xiaomi-25053PC47G-Adreno__TM__825-1787965165.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787964788,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23117RA68G-Mali-G57_MC2-1787964788.json"
   }
 ]
