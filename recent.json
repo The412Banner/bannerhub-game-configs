@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788022244,
+    "filename": "Hollow_Knight__Silksong-incar-Pad12pro-Mali-G57-1788022244.json"
+  },
+  {
     "game": "NARUTO_STORM_3_FB",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787988094,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2363-Adreno__TM__610-1787988094.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2363",
-    "device": "Adreno__TM__610",
-    "timestamp": 1787987810,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2363-Adreno__TM__610-1787987810.json"
   }
 ]
