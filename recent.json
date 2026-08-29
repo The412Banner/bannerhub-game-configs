@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1788047760,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-samsung-SM-A546E-Mali-G68-1788047760.json"
+  },
+  {
     "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1788022244,
     "filename": "Hollow_Knight__Silksong-incar-Pad12pro-Mali-G57-1788022244.json"
-  },
-  {
-    "game": "NARUTO_STORM_3_FB",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1788021845,
-    "filename": "NARUTO_STORM_3_FB-Xiaomi-2409BRN2CY-Mali-G52_MC2-1788021845.json"
   }
 ]
