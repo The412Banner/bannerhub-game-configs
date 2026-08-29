@@ -1,5 +1,12 @@
 [
   {
+    "game": "Christmas_Massacre",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1787963385,
+    "filename": "Christmas_Massacre-INFINIX-Infinix_X6837-Mali-G57_MC2-1787963385.json"
+  },
+  {
     "game": "gta_sa",
     "manufacturer": "LX3",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787936331,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2312FPCA6G-Mali-G57_MC2-1787936331.json"
-  },
-  {
-    "game": "Volkolak",
-    "manufacturer": "L22",
-    "device": "Adreno__TM__610",
-    "timestamp": 1787929802,
-    "filename": "Volkolak-HUAWEI-NEN-L22-Adreno__TM__610-1787929802.json"
   }
 ]
