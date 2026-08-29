@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Language_Changer",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1788023332,
+    "filename": "GTA_V_Language_Changer-Xiaomi-2510DPC44G-Adreno__TM__830-1788023332.json"
+  },
+  {
     "game": "Cities__Skylines",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1787993024,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-S908N-Adreno__TM__730-1787993024.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "S908E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1787989627,
-    "filename": "Sleeping_Dogs-samsung-SM-S908E-Adreno__TM__730-1787989627.json"
   }
 ]
