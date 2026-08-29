@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1788045808,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-Xiaomi-25080RABDG-Mali-G615_MC2-1788045808.json"
+  },
+  {
     "game": "007_First_Light",
     "manufacturer": "F946B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1788021845,
     "filename": "NARUTO_STORM_3_FB-Xiaomi-2409BRN2CY-Mali-G52_MC2-1788021845.json"
-  },
-  {
-    "game": "F1_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1788018960,
-    "filename": "F1_2013-OPPO-CPH2625-Mali-G615_MC2-1788018960.json"
   }
 ]
