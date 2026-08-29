@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cities__Skylines",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1788022290,
+    "filename": "Cities__Skylines-INFINIX-Infinix_X6819-Mali-G52_MC2-1788022290.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1787989194,
     "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-samsung-SM-S908E-Adreno__TM__730-1787989194.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2363",
-    "device": "Adreno__TM__610",
-    "timestamp": 1787988094,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2363-Adreno__TM__610-1787988094.json"
   }
 ]
