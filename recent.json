@@ -1,5 +1,12 @@
 [
   {
+    "game": "EuroTruckSimulator2_1_31_2_1_to_1_32_3_14_patch",
+    "manufacturer": "2201116PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1787996929,
+    "filename": "EuroTruckSimulator2_1_31_2_1_to_1_32_3_14_patch-Xiaomi-2201116PG-Adreno__TM__619-1787996929.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787964788,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23117RA68G-Mali-G57_MC2-1787964788.json"
-  },
-  {
-    "game": "Christmas_Massacre",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787963385,
-    "filename": "Christmas_Massacre-INFINIX-Infinix_X6837-Mali-G57_MC2-1787963385.json"
   }
 ]
