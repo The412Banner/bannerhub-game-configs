@@ -1,5 +1,12 @@
 [
   {
+    "game": "DAVE_THE_DIVER",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1788031124,
+    "filename": "DAVE_THE_DIVER-Xiaomi-24095PCADG-Mali-G615_MC2-1788031124.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1788005225,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2363-Adreno__TM__610-1788005225.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2363",
-    "device": "Adreno__TM__610",
-    "timestamp": 1788004576,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2363-Adreno__TM__610-1788004576.json"
   }
 ]
