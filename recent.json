@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1787995849,
+    "filename": "Left_4_Dead_2-Xiaomi-23053RN02A-Mali-G52_MC2-1787995849.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "S908N",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787961045,
     "filename": "gta_sa-HONOR-CMA-LX3-Adreno__TM__610-1787961045.json"
-  },
-  {
-    "game": "FIFA_18",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1787958089,
-    "filename": "FIFA_18-samsung-SM-G780G-Adreno__TM__650-1787958089.json"
   }
 ]
