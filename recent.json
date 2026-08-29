@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "S908E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1787989627,
+    "filename": "Sleeping_Dogs-samsung-SM-S908E-Adreno__TM__730-1787989627.json"
+  },
+  {
     "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
     "manufacturer": "S908E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1787954584,
     "filename": "TheAmazingSpider-Man2-Xiaomi-24117RN76L-Mali-G57_MC2-1787954584.json"
-  },
-  {
-    "game": "LEGO__Marvel__Super_Heroes",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787953926,
-    "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-24117RN76L-Mali-G57_MC2-1787953926.json"
   }
 ]
