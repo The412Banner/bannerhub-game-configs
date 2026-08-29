@@ -1,5 +1,12 @@
 [
   {
+    "game": "xenia",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788006083,
+    "filename": "xenia-motorola-moto_g14-Mali-G57-1788006083.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2363",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1787976699,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2312DRA50G-Adreno__TM__710-1787976699.json"
-  },
-  {
-    "game": "PES13_",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1787971340,
-    "filename": "PES13_-samsung-SM-A356E-Mali-G68-1787971340.json"
   }
 ]
