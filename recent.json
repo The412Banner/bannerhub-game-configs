@@ -1,5 +1,12 @@
 [
   {
+    "game": "Brawlhalla",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1788036031,
+    "filename": "Brawlhalla-Xiaomi-2311DRK48G-Mali-G615_MC6-1788036031.json"
+  },
+  {
     "game": "The_Killing_Antidote",
     "manufacturer": "M2011K2G",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1788008116,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_20-Adreno__TM__642L-1788008116.json"
-  },
-  {
-    "game": "FAIRY_TAIL",
-    "manufacturer": "S948B",
-    "device": "Adreno__TM__840",
-    "timestamp": 1788007049,
-    "filename": "FAIRY_TAIL-samsung-SM-S948B-Adreno__TM__840-1788007049.json"
   }
 ]
