@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788025457,
+    "filename": "Resident_Evil_5-samsung-SM-A035M-Mali-G57-1788025457.json"
+  },
+  {
     "game": "GTA_V_Language_Changer",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1787995849,
     "filename": "Left_4_Dead_2-Xiaomi-23053RN02A-Mali-G52_MC2-1787995849.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "S908N",
-    "device": "Adreno__TM__730",
-    "timestamp": 1787993024,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-S908N-Adreno__TM__730-1787993024.json"
   }
 ]
