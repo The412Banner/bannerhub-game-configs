@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_STORM_3_FB",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1788021845,
+    "filename": "NARUTO_STORM_3_FB-Xiaomi-2409BRN2CY-Mali-G52_MC2-1788021845.json"
+  },
+  {
     "game": "F1_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1787987810,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2363-Adreno__TM__610-1787987810.json"
-  },
-  {
-    "game": "Helvetii",
-    "manufacturer": "Pocket_DS",
-    "device": "Adreno__TM__740",
-    "timestamp": 1787985143,
-    "filename": "Helvetii-AYANEO-Pocket_DS-Adreno__TM__740-1787985143.json"
   }
 ]
