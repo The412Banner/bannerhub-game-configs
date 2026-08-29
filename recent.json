@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1788033189,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788033189.json"
+  },
+  {
     "game": "DAVE_THE_DIVER",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1788006083,
     "filename": "xenia-motorola-moto_g14-Mali-G57-1788006083.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2363",
-    "device": "Adreno__TM__610",
-    "timestamp": 1788005225,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2363-Adreno__TM__610-1788005225.json"
   }
 ]
