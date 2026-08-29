@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "S908N",
+    "device": "Adreno__TM__730",
+    "timestamp": 1787993024,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-S908N-Adreno__TM__730-1787993024.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "S908E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1787958089,
     "filename": "FIFA_18-samsung-SM-G780G-Adreno__TM__650-1787958089.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1787954584,
-    "filename": "TheAmazingSpider-Man2-Xiaomi-24117RN76L-Mali-G57_MC2-1787954584.json"
   }
 ]
