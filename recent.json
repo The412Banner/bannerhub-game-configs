@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1788018960,
+    "filename": "F1_2013-OPPO-CPH2625-Mali-G615_MC2-1788018960.json"
+  },
+  {
     "game": "Far_Cry__2",
     "manufacturer": "22111317PI",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1787985143,
     "filename": "Helvetii-AYANEO-Pocket_DS-Adreno__TM__740-1787985143.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1787983355,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6525-Mali-G57-1787983355.json"
   }
 ]
