@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1788116999,
+    "filename": "BootstrapPackagedGame-Xiaomi-23053RN02A-Mali-G52_MC2-1788116999.json"
+  },
+  {
     "game": "ONE_PIECE__PIRATE_WARRIORS_4",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1788103311,
     "filename": "Stellar_Blade_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788103311.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1788101992,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1788101992.json"
   }
 ]
