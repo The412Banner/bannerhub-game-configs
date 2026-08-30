@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1788124017,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1788124017.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "RMX5070",
     "device": "Adreno__TM__810",
     "timestamp": 1788121245,
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1788104398,
     "filename": "Forza_Fix_by_Eugene_Sunrise-Xiaomi-25078PC3EG-Mali-G52_MC2-1788104398.json"
-  },
-  {
-    "game": "BootstrapPackagedGamg",
-    "manufacturer": "OPPO_F21_Pro",
-    "device": "Adreno__TM__610",
-    "timestamp": 1788103599,
-    "filename": "BootstrapPackagedGamg-OPPO-OPPO_F21_Pro-Adreno__TM__610-1788103599.json"
   }
 ]
