@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788057086,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1788057086.json"
+  },
+  {
     "game": "TheForest",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1788023332,
     "filename": "GTA_V_Language_Changer-Xiaomi-2510DPC44G-Adreno__TM__830-1788023332.json"
-  },
-  {
-    "game": "Cities__Skylines",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1788022400,
-    "filename": "Cities__Skylines-INFINIX-Infinix_X6819-Mali-G52_MC2-1788022400.json"
   }
 ]
