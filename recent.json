@@ -1,5 +1,12 @@
 [
   {
+    "game": "RiotClient",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1788091240,
+    "filename": "RiotClient-INFINIX-Infinix_X6826C-Mali-G52_MC2-1788091240.json"
+  },
+  {
     "game": "Forza_Horizon_5",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1788053575,
     "filename": "TheForest-Xiaomi-2311DRK48G-Mali-G615_MC6-1788053575.json"
-  },
-  {
-    "game": "ELDEN_RING",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788052015,
-    "filename": "ELDEN_RING-Xiaomi-2510DRA23G-Mali-G57_MC2-1788052015.json"
   }
 ]
