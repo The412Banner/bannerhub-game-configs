@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheForest",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1788053575,
+    "filename": "TheForest-Xiaomi-2311DRK48G-Mali-G615_MC6-1788053575.json"
+  },
+  {
     "game": "ELDEN_RING",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1788022400,
     "filename": "Cities__Skylines-INFINIX-Infinix_X6819-Mali-G52_MC2-1788022400.json"
-  },
-  {
-    "game": "Cities__Skylines",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1788022290,
-    "filename": "Cities__Skylines-INFINIX-Infinix_X6819-Mali-G52_MC2-1788022290.json"
   }
 ]
