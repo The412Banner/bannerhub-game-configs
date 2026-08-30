@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1788129198,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1788129198.json"
+  },
+  {
     "game": "DmC__Devil_May_Cry",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1788110269,
     "filename": "Assetto_Corsa_Competizione-samsung-SM-S928B-Adreno__TM__750-1788110269.json"
-  },
-  {
-    "game": "Cuphead",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1788110135,
-    "filename": "Cuphead-TECNO-TECNO_CM7-Mali-G615_MC2-1788110135.json"
   }
 ]
