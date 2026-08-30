@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1788094458,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23106RN0DA-Mali-G52_MC2-1788094458.json"
+  },
+  {
     "game": "RiotClient",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1788057086,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1788057086.json"
-  },
-  {
-    "game": "TheForest",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1788053575,
-    "filename": "TheForest-Xiaomi-2311DRK48G-Mali-G615_MC6-1788053575.json"
   }
 ]
