@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC__Devil_May_Cry",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1788111184,
+    "filename": "DmC__Devil_May_Cry-ayn-Odin3-Adreno__TM__830-1788111184.json"
+  },
+  {
     "game": "Trailmakers",
     "manufacturer": "Mali",
     "device": "G610_MC3",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1788086965,
     "filename": "Forza_Horizon_5-samsung-SM-S928B-Adreno__TM__750-1788086965.json"
-  },
-  {
-    "game": "LEGOPirates",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788086771,
-    "filename": "LEGOPirates-INFINIX-Infinix_X6853-Mali-G57_MC2-1788086771.json"
   }
 ]
