@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "23076RN4BI",
+    "device": "Adreno__TM__613",
+    "timestamp": 1788114864,
+    "filename": "Sleeping_Dogs-Xiaomi-23076RN4BI-Adreno__TM__613-1788114864.json"
+  },
+  {
     "game": "The_Seven_Deadly_Sins__Origin",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1788094458,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23106RN0DA-Mali-G52_MC2-1788094458.json"
-  },
-  {
-    "game": "RiotClient",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1788091240,
-    "filename": "RiotClient-INFINIX-Infinix_X6826C-Mali-G52_MC2-1788091240.json"
   }
 ]
