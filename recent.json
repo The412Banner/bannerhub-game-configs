@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTR2",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1788068851,
+    "filename": "GTR2-motorola-moto_g45_5G-Adreno__TM__619-1788068851.json"
+  },
+  {
     "game": "Assassin_s_Creed_Mirage",
     "manufacturer": "2109119DG",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1788033189,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788033189.json"
-  },
-  {
-    "game": "DAVE_THE_DIVER",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1788031124,
-    "filename": "DAVE_THE_DIVER-Xiaomi-24095PCADG-Mali-G615_MC2-1788031124.json"
   }
 ]
