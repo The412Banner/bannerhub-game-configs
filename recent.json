@@ -1,5 +1,12 @@
 [
   {
+    "game": "Forza_Horizon_5",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1788080501,
+    "filename": "Forza_Horizon_5-nubia-NX789J-Adreno__TM__830-1788080501.json"
+  },
+  {
     "game": "Naruto_storm_",
     "manufacturer": "CPH2641",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1788038454,
     "filename": "Valheim-motorola-moto_g86_5G-Mali-G615_MC2-1788038454.json"
-  },
-  {
-    "game": "Anomaly_President",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1788038383,
-    "filename": "Anomaly_President-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788038383.json"
   }
 ]
