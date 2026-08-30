@@ -1,5 +1,12 @@
 [
   {
+    "game": "MARVELCosmicInvasion",
+    "manufacturer": "G715",
+    "device": "Immortalis_MC11",
+    "timestamp": 1788130971,
+    "filename": "MARVELCosmicInvasion-Xiaomi-23078PND5G-Mali-G715-Immortalis_MC11-1788130971.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "22111317PI",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1788111184,
     "filename": "DmC__Devil_May_Cry-ayn-Odin3-Adreno__TM__830-1788111184.json"
-  },
-  {
-    "game": "Trailmakers",
-    "manufacturer": "Mali",
-    "device": "G610_MC3",
-    "timestamp": 1788110639,
-    "filename": "Trailmakers-motorola-motorola_edge_40_neo-Mali-G610_MC3-1788110639.json"
   }
 ]
