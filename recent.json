@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788084909,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6858-Mali-G57_MC2-1788084909.json"
+  },
+  {
     "game": "Forza_Horizon_5",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1788040362,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409BRN2CA-Mali-G52_MC2-1788040362.json"
-  },
-  {
-    "game": "Valheim",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1788038454,
-    "filename": "Valheim-motorola-moto_g86_5G-Mali-G615_MC2-1788038454.json"
   }
 ]
