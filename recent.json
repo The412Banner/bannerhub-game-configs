@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1788137251,
+    "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-25078RA3EL-Mali-G52_MC2-1788137251.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1788115576,
     "filename": "ONE_PIECE__PIRATE_WARRIORS_4-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1788115576.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "23076RN4BI",
-    "device": "Adreno__TM__613",
-    "timestamp": 1788114890,
-    "filename": "Sleeping_Dogs-Xiaomi-23076RN4BI-Adreno__TM__613-1788114890.json"
   }
 ]
