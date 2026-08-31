@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1788135982,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A166M-Mali-G68-1788135982.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1788135925,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g35_5G-Mali-G57-1788135925.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__613",
     "timestamp": 1788114864,
     "filename": "Sleeping_Dogs-Xiaomi-23076RN4BI-Adreno__TM__613-1788114864.json"
-  },
-  {
-    "game": "The_Seven_Deadly_Sins__Origin",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1788113035,
-    "filename": "The_Seven_Deadly_Sins__Origin-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1788113035.json"
   }
 ]
