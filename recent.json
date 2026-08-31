@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Odyssey",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1788180954,
+    "filename": "Assassin_s_Creed__Odyssey-nubia-NX809J-Adreno__TM__840-1788180954.json"
+  },
+  {
     "game": "iw3sp",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1788130971,
     "filename": "MARVELCosmicInvasion-Xiaomi-23078PND5G-Mali-G715-Immortalis_MC11-1788130971.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "22111317PI",
-    "device": "Adreno__TM__619",
-    "timestamp": 1788130798,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22111317PI-Adreno__TM__619-1788130798.json"
   }
 ]
