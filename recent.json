@@ -1,5 +1,12 @@
 [
   {
+    "game": "PSE_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788201087,
+    "filename": "PSE_2013-realme-RMX3834-Mali-G57-1788201087.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1788136016,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A166M-Mali-G68-1788136016.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1788135982,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A166M-Mali-G68-1788135982.json"
   }
 ]
