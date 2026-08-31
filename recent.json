@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788135925,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g35_5G-Mali-G57-1788135925.json"
+  },
+  {
     "game": "MARVELCosmicInvasion",
     "manufacturer": "G715",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1788113035,
     "filename": "The_Seven_Deadly_Sins__Origin-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1788113035.json"
-  },
-  {
-    "game": "DmC__Devil_May_Cry",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1788111184,
-    "filename": "DmC__Devil_May_Cry-ayn-Odin3-Adreno__TM__830-1788111184.json"
   }
 ]
