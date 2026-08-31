@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788183209,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1788183209.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1788135982,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A166M-Mali-G68-1788135982.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1788135925,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g35_5G-Mali-G57-1788135925.json"
   }
 ]
