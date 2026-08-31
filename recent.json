@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_3",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1788150478,
+    "filename": "Resident_Evil_3-Xiaomi-2511FPC34G-Mali-G720_MC8-1788150478.json"
+  },
+  {
     "game": "GTR2",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1788121245,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX5070-Adreno__TM__810-1788121245.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "S948B",
-    "device": "Adreno__TM__840",
-    "timestamp": 1788119725,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S948B-Adreno__TM__840-1788119725.json"
   }
 ]
