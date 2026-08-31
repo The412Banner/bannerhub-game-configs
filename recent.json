@@ -1,5 +1,12 @@
 [
   {
+    "game": "HKShip",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1788210431,
+    "filename": "HKShip-Xiaomi-24090RA29G-Mali-G615_MC2-1788210431.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__616",
     "timestamp": 1788165096,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX1971-Adreno__TM__616-1788165096.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A125M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1788164884,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A125M-PowerVR_Rogue_GE8320-1788164884.json"
   }
 ]
