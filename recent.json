@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_Komplete_Edition",
+    "manufacturer": "NX3",
+    "device": "Adreno__TM__810",
+    "timestamp": 1788205581,
+    "filename": "Mortal_Kombat_Komplete_Edition-HONOR-MTN-NX3-Adreno__TM__810-1788205581.json"
+  },
+  {
     "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
     "manufacturer": "NX3",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1788150478,
     "filename": "Resident_Evil_3-Xiaomi-2511FPC34G-Mali-G720_MC8-1788150478.json"
-  },
-  {
-    "game": "GTR2",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1788148220,
-    "filename": "GTR2-motorola-moto_g45_5G-Adreno__TM__619-1788148220.json"
   }
 ]
