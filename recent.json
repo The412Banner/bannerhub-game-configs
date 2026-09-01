@@ -1,5 +1,12 @@
 [
   {
+    "game": "GIANTS_Engine",
+    "manufacturer": "V2408A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1788240441,
+    "filename": "GIANTS_Engine-vivo-V2408A-Adreno__TM__830-1788240441.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "RMX5070",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1788205450,
     "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-HONOR-MTN-NX3-Adreno__TM__810-1788205450.json"
-  },
-  {
-    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
-    "manufacturer": "NX3",
-    "device": "Adreno__TM__810",
-    "timestamp": 1788205315,
-    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-HONOR-MTN-NX3-Adreno__TM__810-1788205315.json"
   }
 ]
