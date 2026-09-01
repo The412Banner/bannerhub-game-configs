@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed___Director_s_Cut_Edition",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1788294174,
+    "filename": "Assassin_s_Creed___Director_s_Cut_Edition-AYN-AYN_Thor-Adreno__TM__740-1788294174.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1788253067,
     "filename": "Red_Dead_Redemption_2-Xiaomi-2312FPCA6G-Mali-G57_MC2-1788253067.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788251626,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-REDTONE-RTSP-A258HM-Mali-G57_MC2-1788251626.json"
   }
 ]
