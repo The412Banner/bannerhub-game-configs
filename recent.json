@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hitman__Absolution_",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1788301900,
+    "filename": "Hitman__Absolution_-Xiaomi-M2012K11AG-Adreno__TM__650-1788301900.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2_Demo",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1788278126,
     "filename": "shadPS4-HONOR-ABR-LX2-Adreno__TM__610-1788278126.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Enhanced_________________________________",
-    "manufacturer": "A366E",
-    "device": "Adreno__TM__710",
-    "timestamp": 1788276537,
-    "filename": "Grand_Theft_Auto_V_Enhanced_________________________________-samsung-SM-A366E-Adreno__TM__710-1788276537.json"
   }
 ]
