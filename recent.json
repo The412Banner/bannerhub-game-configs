@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "S721B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1788279732,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1788279732.json"
+  },
+  {
     "game": "shadPS4",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1788235773,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1788235773.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "NX713J",
-    "device": "Adreno__TM__740",
-    "timestamp": 1788229400,
-    "filename": "Pro_Evolution_Soccer_2017-nubia-NX713J-Adreno__TM__740-1788229400.json"
   }
 ]
