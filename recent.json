@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G77",
+    "timestamp": 1788296025,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G985F-Mali-G77-1788296025.json"
+  },
+  {
     "game": "Assassin_s_Creed___Director_s_Cut_Edition",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1788258858,
     "filename": "Dota_2-samsung-SM-F9710-Adreno__TM__840-1788258858.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788253067,
-    "filename": "Red_Dead_Redemption_2-Xiaomi-2312FPCA6G-Mali-G57_MC2-1788253067.json"
   }
 ]
