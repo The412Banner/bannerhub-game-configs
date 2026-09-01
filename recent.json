@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1788292872,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g45_5G-Adreno__TM__619-1788292872.json"
+  },
+  {
     "game": "Warcraft___Frozen_Throne",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1788251626,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-REDTONE-RTSP-A258HM-Mali-G57_MC2-1788251626.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1788247844,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1788247844.json"
   }
 ]
