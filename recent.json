@@ -1,5 +1,12 @@
 [
   {
+    "game": "Forza_Horizon_5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788299060,
+    "filename": "Forza_Horizon_5-TECNO-TECNO_CM5-Mali-G57_MC2-1788299060.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2014_DEMO",
     "manufacturer": "Mali",
     "device": "G77",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1788273618,
     "filename": "LEGOCloneWars-INFINIX-Infinix_X6882-Mali-G57_MC2-1788273618.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "S721B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1788273318,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1788273318.json"
   }
 ]
