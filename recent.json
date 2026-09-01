@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "NX713J",
+    "device": "Adreno__TM__740",
+    "timestamp": 1788229400,
+    "filename": "Pro_Evolution_Soccer_2017-nubia-NX713J-Adreno__TM__740-1788229400.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1788182508,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-realme-RMX3834-Mali-G57-1788182508.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Odyssey",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1788180954,
-    "filename": "Assassin_s_Creed__Odyssey-nubia-NX809J-Adreno__TM__840-1788180954.json"
   }
 ]
