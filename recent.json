@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cyberpunk_2077",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1788305999,
+    "filename": "Cyberpunk_2077-realme-RMX3269-Mali-G52-1788305999.json"
+  },
+  {
     "game": "Assassin_s_Creed__Odyssey",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1788247790,
     "filename": "____2016-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1788247790.json"
-  },
-  {
-    "game": "tf",
-    "manufacturer": "Retroid_Pocket_Nova",
-    "device": "Adreno__TM__740",
-    "timestamp": 1788242305,
-    "filename": "tf-Moorechip-Retroid_Pocket_Nova-Adreno__TM__740-1788242305.json"
   }
 ]
