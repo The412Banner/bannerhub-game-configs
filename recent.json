@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Enhanced_________________________________",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1788276537,
+    "filename": "Grand_Theft_Auto_V_Enhanced_________________________________-samsung-SM-A366E-Adreno__TM__710-1788276537.json"
+  },
+  {
     "game": "LEGOCloneWars",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1788227335,
     "filename": "SWZeroCompany-Xiaomi-24117RN76L-Mali-G57_MC2-1788227335.json"
-  },
-  {
-    "game": "Farming_Simulator_25",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1788221569,
-    "filename": "Farming_Simulator_25-realme-RMX3269-Mali-G52-1788221569.json"
   }
 ]
