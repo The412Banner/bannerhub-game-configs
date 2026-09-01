@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "S721B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1788273318,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1788273318.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g_7__power",
     "device": "Adreno__TM__506",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1788219743,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S948B-Adreno__TM__840-1788219743.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1788219147,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1788219147.json"
   }
 ]
