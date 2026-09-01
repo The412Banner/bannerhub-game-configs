@@ -1,5 +1,12 @@
 [
   {
+    "game": "tf",
+    "manufacturer": "Retroid_Pocket_Nova",
+    "device": "Adreno__TM__740",
+    "timestamp": 1788242305,
+    "filename": "tf-Moorechip-Retroid_Pocket_Nova-Adreno__TM__740-1788242305.json"
+  },
+  {
     "game": "GIANTS_Engine",
     "manufacturer": "V2408A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1788205454,
     "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-HONOR-MTN-NX3-Adreno__TM__810-1788205454.json"
-  },
-  {
-    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
-    "manufacturer": "NX3",
-    "device": "Adreno__TM__810",
-    "timestamp": 1788205450,
-    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-HONOR-MTN-NX3-Adreno__TM__810-1788205450.json"
   }
 ]
