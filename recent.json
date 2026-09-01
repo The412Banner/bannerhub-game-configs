@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1788283493,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23129RA5FL-Adreno__TM__610-1788283493.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "S721B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1788279732,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1788236886,
     "filename": "unins000-samsung-SM-S918B-Adreno__TM__740-1788236886.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1788235773,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1788235773.json"
   }
 ]
