@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2_Demo",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1788301560,
+    "filename": "Euro_Truck_Simulator_2_Demo-realme-RMX3710-Mali-G52_MC2-1788301560.json"
+  },
+  {
     "game": "Forza_Horizon_5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1788276537,
     "filename": "Grand_Theft_Auto_V_Enhanced_________________________________-samsung-SM-A366E-Adreno__TM__710-1788276537.json"
-  },
-  {
-    "game": "LEGOCloneWars",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788273618,
-    "filename": "LEGOCloneWars-INFINIX-Infinix_X6882-Mali-G57_MC2-1788273618.json"
   }
 ]
