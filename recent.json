@@ -1,5 +1,12 @@
 [
   {
+    "game": "Warcraft___Frozen_Throne",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788292568,
+    "filename": "Warcraft___Frozen_Throne-Anbernic-RG_406H-Mali-G57-1788292568.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1788247844,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1788247844.json"
-  },
-  {
-    "game": "____2016",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1788247825,
-    "filename": "____2016-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1788247825.json"
   }
 ]
