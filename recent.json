@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1788247844,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1788247844.json"
+  },
+  {
     "game": "____2016",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1788205593,
     "filename": "Mortal_Kombat_Komplete_Edition-HONOR-MTN-NX3-Adreno__TM__810-1788205593.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "NX3",
-    "device": "Adreno__TM__810",
-    "timestamp": 1788205581,
-    "filename": "Mortal_Kombat_Komplete_Edition-HONOR-MTN-NX3-Adreno__TM__810-1788205581.json"
   }
 ]
