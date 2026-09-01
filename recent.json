@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788253067,
+    "filename": "Red_Dead_Redemption_2-Xiaomi-2312FPCA6G-Mali-G57_MC2-1788253067.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1788207263,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1788207263.json"
-  },
-  {
-    "game": "Resident_Evil_7_Biohazard",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1788207026,
-    "filename": "Resident_Evil_7_Biohazard-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1788207026.json"
   }
 ]
