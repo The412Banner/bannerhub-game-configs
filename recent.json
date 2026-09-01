@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788296061,
+    "filename": "PlayGTAV-samsung-SM-A156M-Mali-G57_MC2-1788296061.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G77",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__506",
     "timestamp": 1788263083,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_7__power-Adreno__TM__506-1788263083.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1788262214,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1788262214.json"
   }
 ]
