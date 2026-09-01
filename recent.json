@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2014_DEMO",
+    "manufacturer": "Mali",
+    "device": "G77",
+    "timestamp": 1788297346,
+    "filename": "Pro_Evolution_Soccer_2014_DEMO-samsung-SM-G985F-Mali-G77-1788297346.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1788273318,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1788273318.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g_7__power",
-    "device": "Adreno__TM__506",
-    "timestamp": 1788263083,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_7__power-Adreno__TM__506-1788263083.json"
   }
 ]
