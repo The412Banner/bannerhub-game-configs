@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1788320481,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g17-Mali-G52_MC2-1788320481.json"
+  },
+  {
     "game": "MONSTER_HUNTER_RISE",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1788287477,
     "filename": "Assassin_s_Creed__Odyssey-nubia-NX809J-Adreno__TM__840-1788287477.json"
-  },
-  {
-    "game": "noimnotahuman-",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788286491,
-    "filename": "noimnotahuman--samsung-SM-A155F-Mali-G57_MC2-1788286491.json"
   }
 ]
