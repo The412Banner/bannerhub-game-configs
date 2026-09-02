@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1788308443,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A366E-Adreno__TM__710-1788308443.json"
+  },
+  {
     "game": "Hitman__Absolution_",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1788278159,
     "filename": "shadPS4-HONOR-ABR-LX2-Adreno__TM__610-1788278159.json"
-  },
-  {
-    "game": "shadPS4",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1788278126,
-    "filename": "shadPS4-HONOR-ABR-LX2-Adreno__TM__610-1788278126.json"
   }
 ]
