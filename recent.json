@@ -1,5 +1,12 @@
 [
   {
+    "game": "Street_Fighter_V",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1788362734,
+    "filename": "Street_Fighter_V-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1788362734.json"
+  },
+  {
     "game": "Assassin_s_Creed__Origins",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1788313439,
     "filename": "Assassin_s_Creed__Syndicate-vivo-V2270A-Adreno__TM__642L-1788313439.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1788312444,
-    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_LJ9-Mali-G615_MC6-1788312444.json"
   }
 ]
