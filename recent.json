@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "LX2",
+    "device": "Adreno__TM__610",
+    "timestamp": 1788367743,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LGN-LX2-Adreno__TM__610-1788367743.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A042M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1788320481,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g17-Mali-G52_MC2-1788320481.json"
-  },
-  {
-    "game": "MONSTER_HUNTER_RISE",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1788320450,
-    "filename": "MONSTER_HUNTER_RISE-LENOVO-TB321FU-Adreno__TM__750-1788320450.json"
   }
 ]
