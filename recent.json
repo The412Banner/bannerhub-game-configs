@@ -1,5 +1,12 @@
 [
   {
+    "game": "MONSTER_HUNTER_RISE",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1788320450,
+    "filename": "MONSTER_HUNTER_RISE-LENOVO-TB321FU-Adreno__TM__750-1788320450.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1788286491,
     "filename": "noimnotahuman--samsung-SM-A155F-Mali-G57_MC2-1788286491.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1788285317,
-    "filename": "Far_Cry_3-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1788285317.json"
   }
 ]
