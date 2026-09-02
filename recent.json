@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man__Miles_Morales",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1788319331,
+    "filename": "Marvel_s_Spider-Man__Miles_Morales-Xiaomi-2511FPC34G-Mali-G720_MC8-1788319331.json"
+  },
+  {
     "game": "Assassin_s_Creed__Syndicate",
     "manufacturer": "V2270A",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1788284965,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1788284965.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1788283493,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23129RA5FL-Adreno__TM__610-1788283493.json"
   }
 ]
