@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1788323716,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788323716.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1788305999,
     "filename": "Cyberpunk_2077-realme-RMX3269-Mali-G52-1788305999.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Odyssey",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1788287477,
-    "filename": "Assassin_s_Creed__Odyssey-nubia-NX809J-Adreno__TM__840-1788287477.json"
   }
 ]
