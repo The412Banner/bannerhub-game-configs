@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788355810,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3997-Mali-G57_MC2-1788355810.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1788297346,
     "filename": "Pro_Evolution_Soccer_2014_DEMO-samsung-SM-G985F-Mali-G77-1788297346.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788296061,
-    "filename": "PlayGTAV-samsung-SM-A156M-Mali-G57_MC2-1788296061.json"
   }
 ]
