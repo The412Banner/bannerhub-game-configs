@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1788343509,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23129RA5FL-Adreno__TM__610-1788343509.json"
+  },
+  {
     "game": "Deadpool",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1788296025,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G985F-Mali-G77-1788296025.json"
-  },
-  {
-    "game": "Assassin_s_Creed___Director_s_Cut_Edition",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1788294174,
-    "filename": "Assassin_s_Creed___Director_s_Cut_Edition-AYN-AYN_Thor-Adreno__TM__740-1788294174.json"
   }
 ]
