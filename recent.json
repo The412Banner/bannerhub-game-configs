@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1788327979,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-25053PC47G-Adreno__TM__825-1788327979.json"
+  },
+  {
     "game": "DARK_SOULS__II",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1788292872,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g45_5G-Adreno__TM__619-1788292872.json"
-  },
-  {
-    "game": "Warcraft___Frozen_Throne",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1788292568,
-    "filename": "Warcraft___Frozen_Throne-Anbernic-RG_406H-Mali-G57-1788292568.json"
   }
 ]
