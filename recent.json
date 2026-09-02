@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
+    "manufacturer": "Redmi_Note_7",
+    "device": "Adreno__TM__512",
+    "timestamp": 1788383018,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-Xiaomi-Redmi_Note_7-Adreno__TM__512-1788383018.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1788327722,
     "filename": "DARK_SOULS__II-samsung-SM-A366E-Adreno__TM__710-1788327722.json"
-  },
-  {
-    "game": "Shuffle_Me_v0_4_2_Public",
-    "manufacturer": "G57_MC2",
-    "device": "49_1_0_",
-    "timestamp": 1788325846,
-    "filename": "Shuffle_Me_v0_4_2_Public-Xiaomi-2312DRAABG-ANGLE__ARM__Vulkan_1_3_278__Mali-G57_MC2__0x90930010____Mali-G57_MC2-49_1_0_-1788325846.json"
   }
 ]
