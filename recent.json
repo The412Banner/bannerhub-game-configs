@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "A736B",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1788364326,
+    "filename": "Resident_Evil_5-samsung-SM-A736B-Adreno__TM__642L-1788364326.json"
+  },
+  {
     "game": "Street_Fighter_V",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1788319331,
     "filename": "Marvel_s_Spider-Man__Miles_Morales-Xiaomi-2511FPC34G-Mali-G720_MC8-1788319331.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Syndicate",
-    "manufacturer": "V2270A",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1788313439,
-    "filename": "Assassin_s_Creed__Syndicate-vivo-V2270A-Adreno__TM__642L-1788313439.json"
   }
 ]
