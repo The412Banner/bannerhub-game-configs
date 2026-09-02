@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Syndicate",
+    "manufacturer": "V2270A",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1788313439,
+    "filename": "Assassin_s_Creed__Syndicate-vivo-V2270A-Adreno__TM__642L-1788313439.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1788283493,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23129RA5FL-Adreno__TM__610-1788283493.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "S721B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1788279732,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1788279732.json"
   }
 ]
