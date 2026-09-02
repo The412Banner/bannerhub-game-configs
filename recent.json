@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1788379573,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1788379573.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "49_1_0_",
     "timestamp": 1788325846,
     "filename": "Shuffle_Me_v0_4_2_Public-Xiaomi-2312DRAABG-ANGLE__ARM__Vulkan_1_3_278__Mali-G57_MC2__0x90930010____Mali-G57_MC2-49_1_0_-1788325846.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1788323716,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788323716.json"
   }
 ]
