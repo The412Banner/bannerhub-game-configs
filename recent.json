@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__II",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1788327722,
+    "filename": "DARK_SOULS__II-samsung-SM-A366E-Adreno__TM__710-1788327722.json"
+  },
+  {
     "game": "Shuffle_Me_v0_4_2_Public",
     "manufacturer": "G57_MC2",
     "device": "49_1_0_",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1788292568,
     "filename": "Warcraft___Frozen_Throne-Anbernic-RG_406H-Mali-G57-1788292568.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1788291974,
-    "filename": "Need_for_Speed_9-Xiaomi-M2012K11AG-Adreno__TM__650-1788291974.json"
   }
 ]
