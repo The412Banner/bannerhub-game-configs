@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A042M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1788366606,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1788366606.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1788320450,
     "filename": "MONSTER_HUNTER_RISE-LENOVO-TB321FU-Adreno__TM__750-1788320450.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "A366E",
-    "device": "Adreno__TM__710",
-    "timestamp": 1788319424,
-    "filename": "PlayGTAV-samsung-SM-A366E-Adreno__TM__710-1788319424.json"
   }
 ]
