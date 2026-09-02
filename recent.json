@@ -1,5 +1,12 @@
 [
   {
+    "game": "FINAL_FANTASY_XV_WINDOWS_EDITION",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1788383278,
+    "filename": "FINAL_FANTASY_XV_WINDOWS_EDITION-Xiaomi-24069PC21G-Adreno__TM__735-1788383278.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
     "manufacturer": "Redmi_Note_7",
     "device": "Adreno__TM__512",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1788327979,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-25053PC47G-Adreno__TM__825-1788327979.json"
-  },
-  {
-    "game": "DARK_SOULS__II",
-    "manufacturer": "A366E",
-    "device": "Adreno__TM__710",
-    "timestamp": 1788327722,
-    "filename": "DARK_SOULS__II-samsung-SM-A366E-Adreno__TM__710-1788327722.json"
   }
 ]
