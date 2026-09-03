@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "motorola_edge_50_pro",
+    "device": "Adreno__TM__720",
+    "timestamp": 1788474470,
+    "filename": "Resident_Evil_5-motorola-motorola_edge_50_pro-Adreno__TM__720-1788474470.json"
+  },
+  {
     "game": "Hitman__Absolution_",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__A12",
     "timestamp": 1788439746,
     "filename": "Hades-QUALCOMM-RG_55G1-Adreno__TM__A12-1788439746.json"
-  },
-  {
-    "game": "Hades",
-    "manufacturer": "RG_55G1",
-    "device": "Adreno__TM__A12",
-    "timestamp": 1788439742,
-    "filename": "Hades-QUALCOMM-RG_55G1-Adreno__TM__A12-1788439742.json"
   }
 ]
