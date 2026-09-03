@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1788445420,
+    "filename": "American_Truck_Simulator-motorola-motorola_edge_60_pro-Mali-G615_MC6-1788445420.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1788397321,
     "filename": "Angelic_Chaos_RE-BOOT_-LENOVO-TB322FC-Adreno__TM__830-1788397321.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1788391832,
-    "filename": "Left_4_Dead_2-Xiaomi-2511FPC34G-Mali-G720_MC8-1788391832.json"
   }
 ]
