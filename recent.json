@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788446918,
+    "filename": "Mafia_2-samsung-SM-A155M-Mali-G57_MC2-1788446918.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1788407658,
     "filename": "American_Truck_Simulator-Xiaomi-25053PC47G-Adreno__TM__825-1788407658.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788401978,
-    "filename": "Left_4_Dead_2-samsung-SM-A155M-Mali-G57_MC2-1788401978.json"
   }
 ]
