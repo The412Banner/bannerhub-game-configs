@@ -1,5 +1,12 @@
 [
   {
+    "game": "no_im_not_a_human",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1788440120,
+    "filename": "no_im_not_a_human-samsung-SM-A256E-Mali-G68-1788440120.json"
+  },
+  {
     "game": "Hades",
     "manufacturer": "RG_55G1",
     "device": "Adreno__TM__A12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1788385120,
     "filename": "Pro_Evolution_Soccer_2013___________________________________-nubia-NX659J-Adreno__TM__650-1788385120.json"
-  },
-  {
-    "game": "FINAL_FANTASY_XV_WINDOWS_EDITION",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1788383278,
-    "filename": "FINAL_FANTASY_XV_WINDOWS_EDITION-Xiaomi-24069PC21G-Adreno__TM__735-1788383278.json"
   }
 ]
