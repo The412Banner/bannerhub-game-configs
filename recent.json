@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A366B",
+    "device": "Adreno__TM__710",
+    "timestamp": 1788438508,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A366B-Adreno__TM__710-1788438508.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "CPH2819",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1788379573,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1788379573.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1788371368,
-    "filename": "BootstrapPackagedGame-LENOVO-TB321FU-Adreno__TM__750-1788371368.json"
   }
 ]
