@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta3",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1788453922,
+    "filename": "gta3-INFINIX-Infinix_X6873-Mali-G615_MC6-1788453922.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1788419055,
     "filename": "Homefront-Xiaomi-25053RT47C-Adreno__TM__825-1788419055.json"
-  },
-  {
-    "game": "Roblox_Bootstrapper",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1788414178,
-    "filename": "Roblox_Bootstrapper-motorola-motorola_edge_50_neo-Mali-G615_MC2-1788414178.json"
   }
 ]
