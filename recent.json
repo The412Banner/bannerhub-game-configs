@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "motorola_edge_50_pro",
+    "device": "Adreno__TM__720",
+    "timestamp": 1788474555,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-motorola-motorola_edge_50_pro-Adreno__TM__720-1788474555.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "motorola_edge_50_pro",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1788440363,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S931B-Adreno__TM__830-1788440363.json"
-  },
-  {
-    "game": "no_im_not_a_human",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1788440120,
-    "filename": "no_im_not_a_human-samsung-SM-A256E-Mali-G68-1788440120.json"
   }
 ]
