@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788429969,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2430-Mali-G57-1788429969.json"
+  },
+  {
     "game": "MONSTER_HUNTER_RISE",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1788366606,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1788366606.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1788365816,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A266M-Mali-G68-1788365816.json"
   }
 ]
