@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1788454445,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A366E-Adreno__TM__710-1788454445.json"
+  },
+  {
     "game": "HUNTDOWN",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1788429969,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2430-Mali-G57-1788429969.json"
-  },
-  {
-    "game": "MONSTER_HUNTER_RISE",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1788425628,
-    "filename": "MONSTER_HUNTER_RISE-Xiaomi-24069PC21G-Adreno__TM__735-1788425628.json"
   }
 ]
