@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1788419546,
+    "filename": "Rise_of_the_Tomb_Raider_-INFINIX-Infinix_X6870-Mali-G615_MC2-1788419546.json"
+  },
+  {
     "game": "Homefront",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1788362734,
     "filename": "Street_Fighter_V-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1788362734.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Origins",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1788361872,
-    "filename": "Assassin_s_Creed__Origins-Xiaomi-24069PC21G-Adreno__TM__735-1788361872.json"
   }
 ]
