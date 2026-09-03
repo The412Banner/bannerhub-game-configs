@@ -1,5 +1,12 @@
 [
   {
+    "game": "Roblox_Bootstrapper",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1788414178,
+    "filename": "Roblox_Bootstrapper-motorola-motorola_edge_50_neo-Mali-G615_MC2-1788414178.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1788361534,
     "filename": "Depravity_Level_Alpha-INFINIX-Infinix_X6880-Mali-G57_MC2-1788361534.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788360807,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RN76G-Mali-G57_MC2-1788360807.json"
   }
 ]
