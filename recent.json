@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "LX2",
+    "device": "Adreno__TM__610",
+    "timestamp": 1788430869,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LNA-LX2-Adreno__TM__610-1788430869.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1788429969,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1788367743,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LGN-LX2-Adreno__TM__610-1788367743.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A042M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1788366606,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A042M-PowerVR_Rogue_GE8320-1788366606.json"
   }
 ]
