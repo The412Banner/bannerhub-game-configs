@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788446680,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution-nubia-Z2472-Mali-G57-1788446680.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1788401978,
     "filename": "Left_4_Dead_2-samsung-SM-A155M-Mali-G57_MC2-1788401978.json"
-  },
-  {
-    "game": "Angelic_Chaos_RE-BOOT_",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1788397321,
-    "filename": "Angelic_Chaos_RE-BOOT_-LENOVO-TB322FC-Adreno__TM__830-1788397321.json"
   }
 ]
