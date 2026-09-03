@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hitman__Absolution_",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1788473258,
+    "filename": "Hitman__Absolution_-ayn-Odin3-Adreno__TM__830-1788473258.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "itel_A6610L",
     "device": "PowerVR_Rogue_GE8322",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__A12",
     "timestamp": 1788439742,
     "filename": "Hades-QUALCOMM-RG_55G1-Adreno__TM__A12-1788439742.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A366B",
-    "device": "Adreno__TM__710",
-    "timestamp": 1788438508,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A366B-Adreno__TM__710-1788438508.json"
   }
 ]
