@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fuel",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1788452370,
+    "filename": "Fuel-AYANEO-Pocket_FIT-Adreno__TM__750-1788452370.json"
+  },
+  {
     "game": "Mafia_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1788412992,
     "filename": "Resident_Evil_2-motorola-moto_g45_5G-Adreno__TM__619-1788412992.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1788407658,
-    "filename": "American_Truck_Simulator-Xiaomi-25053PC47G-Adreno__TM__825-1788407658.json"
   }
 ]
