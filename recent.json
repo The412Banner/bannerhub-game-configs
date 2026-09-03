@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1788453084,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A366E-Adreno__TM__710-1788453084.json"
+  },
+  {
     "game": "Fuel",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1788414178,
     "filename": "Roblox_Bootstrapper-motorola-motorola_edge_50_neo-Mali-G615_MC2-1788414178.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1788412992,
-    "filename": "Resident_Evil_2-motorola-moto_g45_5G-Adreno__TM__619-1788412992.json"
   }
 ]
