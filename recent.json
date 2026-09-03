@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788401978,
+    "filename": "Left_4_Dead_2-samsung-SM-A155M-Mali-G57_MC2-1788401978.json"
+  },
+  {
     "game": "Angelic_Chaos_RE-BOOT_",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1788358851,
     "filename": "gta-5-kurulum-tamindir-HUAWEI-SNE-LX1-Mali-G51-1788358851.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788355810,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3997-Mali-G57_MC2-1788355810.json"
   }
 ]
