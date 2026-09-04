@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1788564222,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145MB-Mali-G52-1788564222.json"
+  },
+  {
     "game": "Call_of_Duty___Ghosts",
     "manufacturer": "AN00",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1788517670,
     "filename": "Ys_VI_-_The_Ark_of_Napishtim-TECNO-TECNO_LJ9-Mali-G615_MC6-1788517670.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1788517576,
-    "filename": "Euro_Truck_Simulator_2-HONOR-BRP-NX1-Adreno__TM__710-1788517576.json"
   }
 ]
