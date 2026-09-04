@@ -1,5 +1,12 @@
 [
   {
+    "game": "Trails_in_the_Sky",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1788526525,
+    "filename": "Trails_in_the_Sky-TECNO-TECNO_LJ9-Mali-G615_MC6-1788526525.json"
+  },
+  {
     "game": "Danganronpa_V3__Killing_Harmony",
     "manufacturer": "X210R",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1788474588,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-motorola-motorola_edge_50_pro-Adreno__TM__720-1788474588.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "motorola_edge_50_pro",
-    "device": "Adreno__TM__720",
-    "timestamp": 1788474555,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-motorola-motorola_edge_50_pro-Adreno__TM__720-1788474555.json"
   }
 ]
