@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1788548634,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-vivo-V2130-Mali-G68_MC4-1788548634.json"
+  },
+  {
     "game": "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
     "manufacturer": "PJZ110",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1788480835,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25102PCBEG-Adreno__TM__840-1788480835.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1788479058,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1788479058.json"
   }
 ]
