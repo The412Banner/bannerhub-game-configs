@@ -1,5 +1,12 @@
 [
   {
+    "game": "Halo_2_for_Windows_Vista",
+    "manufacturer": "moto_g75_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1788490425,
+    "filename": "Halo_2_for_Windows_Vista-motorola-moto_g75_5G-Adreno__TM__710-1788490425.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1788454120,
     "filename": "HUNTDOWN-AYANEO-Pocket_FIT-Adreno__TM__750-1788454120.json"
-  },
-  {
-    "game": "Lifted",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1788454100,
-    "filename": "Lifted-AYANEO-Pocket_FIT-Adreno__TM__750-1788454100.json"
   }
 ]
