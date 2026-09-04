@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1788488591,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788488591.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "motorola_one_fusion",
     "device": "Adreno__TM__616",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1788454100,
     "filename": "Lifted-AYANEO-Pocket_FIT-Adreno__TM__750-1788454100.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "23113RKC6C",
-    "device": "Adreno__TM__740",
-    "timestamp": 1788454000,
-    "filename": "Resident_Evil_5-Xiaomi-23113RKC6C-Adreno__TM__740-1788454000.json"
   }
 ]
