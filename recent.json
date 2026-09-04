@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1788552580,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g06-Mali-G52_MC2-1788552580.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1788551075,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2577-Mali-G52_MC2-1788551075.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1788495164,
     "filename": "Back_4_Blood-nubia-NX809J-Adreno__TM__840-1788495164.json"
-  },
-  {
-    "game": "Halo_2_for_Windows_Vista",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1788490425,
-    "filename": "Halo_2_for_Windows_Vista-motorola-moto_g75_5G-Adreno__TM__710-1788490425.json"
   }
 ]
