@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1788501950,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1788501950.json"
+  },
+  {
     "game": "Resonance__A_Plague_Tale_Legacy",
     "manufacturer": "F946B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1788461841,
     "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A6610L-PowerVR_Rogue_GE8322-1788461841.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788457105,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A226B-Mali-G57_MC2-1788457105.json"
   }
 ]
