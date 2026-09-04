@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1788550561,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-motorola-motorola_edge_60_pro-Mali-G615_MC6-1788550561.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__3__2011_",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1788488591,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788488591.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_one_fusion",
-    "device": "Adreno__TM__616",
-    "timestamp": 1788484386,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_one_fusion-Adreno__TM__616-1788484386.json"
   }
 ]
