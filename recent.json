@@ -1,5 +1,12 @@
 [
   {
+    "game": "Burnout_Paradise__The_Ultimate_Box",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1788545359,
+    "filename": "Burnout_Paradise__The_Ultimate_Box-Xiaomi-M2101K7BI-Mali-G76-1788545359.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1788476548,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_50_pro-Adreno__TM__720-1788476548.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "motorola_edge_50_pro",
-    "device": "Adreno__TM__720",
-    "timestamp": 1788474659,
-    "filename": "Resident_Evil_5-motorola-motorola_edge_50_pro-Adreno__TM__720-1788474659.json"
   }
 ]
