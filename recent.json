@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25102PCBEG",
+    "device": "Adreno__TM__840",
+    "timestamp": 1788480835,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25102PCBEG-Adreno__TM__840-1788480835.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1788453084,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A366E-Adreno__TM__710-1788453084.json"
-  },
-  {
-    "game": "Fuel",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1788452370,
-    "filename": "Fuel-AYANEO-Pocket_FIT-Adreno__TM__750-1788452370.json"
   }
 ]
