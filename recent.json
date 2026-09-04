@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wolverine",
+    "manufacturer": "2405CPCFBG",
+    "device": "Adreno__TM__710",
+    "timestamp": 1788546410,
+    "filename": "Wolverine-Xiaomi-2405CPCFBG-Adreno__TM__710-1788546410.json"
+  },
+  {
     "game": "Burnout_Paradise__The_Ultimate_Box",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1788476604,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_50_pro-Adreno__TM__720-1788476604.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_edge_50_pro",
-    "device": "Adreno__TM__720",
-    "timestamp": 1788476548,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_50_pro-Adreno__TM__720-1788476548.json"
   }
 ]
