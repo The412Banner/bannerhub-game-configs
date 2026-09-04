@@ -1,5 +1,12 @@
 [
   {
+    "game": "ONE_PIECE_World_Seeker",
+    "manufacturer": "G720",
+    "device": "Immortalis_MC12",
+    "timestamp": 1788536633,
+    "filename": "ONE_PIECE_World_Seeker-vivo-V2503-Mali-G720-Immortalis_MC12-1788536633.json"
+  },
+  {
     "game": "Trails_in_the_Sky",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1788474652,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-motorola-motorola_edge_50_pro-Adreno__TM__720-1788474652.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "motorola_edge_50_pro",
-    "device": "Adreno__TM__720",
-    "timestamp": 1788474588,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-motorola-motorola_edge_50_pro-Adreno__TM__720-1788474588.json"
   }
 ]
