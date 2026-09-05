@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788636386,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A175F-Mali-G57_MC2-1788636386.json"
+  },
+  {
     "game": "Assassin_s_Creed__Rogue",
     "manufacturer": "V2040",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1788611424,
     "filename": "Prince_of_Persia-TECNO-TECNO_LJ9-Mali-G615_MC6-1788611424.json"
-  },
-  {
-    "game": "Cyberpunk_2077",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1788610936,
-    "filename": "Cyberpunk_2077-nubia-NX809J-Adreno__TM__840-1788610936.json"
   }
 ]
