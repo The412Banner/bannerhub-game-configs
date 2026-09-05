@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1788611436,
+    "filename": "Devil_May_Cry_4-TECNO-TECNO_LJ9-Mali-G615_MC6-1788611436.json"
+  },
+  {
     "game": "Prince_of_Persia",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1788576770,
     "filename": "Mortal_Kombat_X-samsung-SM-A165M-Mali-G57_MC2-1788576770.json"
-  },
-  {
-    "game": "Cars_2_Arcade",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1788571480,
-    "filename": "Cars_2_Arcade-AYN-Odin2_Portal-Adreno__TM__740-1788571480.json"
   }
 ]
