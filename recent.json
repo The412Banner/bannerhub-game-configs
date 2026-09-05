@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S731B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1788639589,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1788639589.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "motorola_edge_50_pro",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1788618816,
     "filename": "Battlefield__1-OnePlus-CPH2653-Adreno__TM__830-1788618816.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A125M",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1788616092,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A125M-PowerVR_Rogue_GE8320-1788616092.json"
   }
 ]
