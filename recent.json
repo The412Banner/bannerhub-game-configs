@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "motorola_edge_50_pro",
+    "device": "Adreno__TM__720",
+    "timestamp": 1788646515,
+    "filename": "Resident_Evil_5-motorola-motorola_edge_50_pro-Adreno__TM__720-1788646515.json"
+  },
+  {
     "game": "Resident_Evil_4__2005_",
     "manufacturer": "motorola_edge_50_pro",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1788627534,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1788627534.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1788627133,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1788627133.json"
   }
 ]
