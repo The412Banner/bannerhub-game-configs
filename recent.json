@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1788627534,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1788627534.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1788595632,
     "filename": "PRAGMATA-vivo-I2401-Adreno__TM__830-1788595632.json"
-  },
-  {
-    "game": "World_War_Z",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1788594393,
-    "filename": "World_War_Z-ayn-Odin3-Adreno__TM__830-1788594393.json"
   }
 ]
