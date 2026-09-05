@@ -1,5 +1,12 @@
 [
   {
+    "game": "DOOM64",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1788584866,
+    "filename": "DOOM64-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1788584866.json"
+  },
+  {
     "game": "Need_for_Speed_MW",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1788552580,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g06-Mali-G52_MC2-1788552580.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1788551075,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2577-Mali-G52_MC2-1788551075.json"
   }
 ]
