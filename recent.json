@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1788649770,
+    "filename": "Tomb_Raider-Xiaomi-M2101K7BNY-Mali-G76-1788649770.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1788629772,
     "filename": "Far_Cry_3-Xiaomi-2311DRK48G-Mali-G615_MC6-1788629772.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1788627857,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1788627857.json"
   }
 ]
