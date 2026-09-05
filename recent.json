@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Rogue",
+    "manufacturer": "V2040",
+    "device": "Adreno__TM__618",
+    "timestamp": 1788636226,
+    "filename": "Assassin_s_Creed__Rogue-vivo-V2040-Adreno__TM__618-1788636226.json"
+  },
+  {
     "game": "Lethal_Company",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1788610936,
     "filename": "Cyberpunk_2077-nubia-NX809J-Adreno__TM__840-1788610936.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man",
-    "manufacturer": "AN00",
-    "device": "Adreno__TM__710",
-    "timestamp": 1788610902,
-    "filename": "TheAmazingSpider-Man-HONOR-ALI-AN00-Adreno__TM__710-1788610902.json"
   }
 ]
