@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1788578635,
+    "filename": "Sleeping_Dogs-Xiaomi-23021RAAEG-Adreno__TM__610-1788578635.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1788550561,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-motorola-motorola_edge_60_pro-Mali-G615_MC6-1788550561.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1788549418,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-vivo-V2130-Mali-G68_MC4-1788549418.json"
   }
 ]
