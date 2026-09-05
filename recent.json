@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cars_2_Arcade",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1788571480,
+    "filename": "Cars_2_Arcade-AYN-Odin2_Portal-Adreno__TM__740-1788571480.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1788548634,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-vivo-V2130-Mali-G68_MC4-1788548634.json"
-  },
-  {
-    "game": "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version",
-    "manufacturer": "PJZ110",
-    "device": "Adreno__TM__830",
-    "timestamp": 1788546881,
-    "filename": "METAL_GEAR_SOLID_4__Guns_of_the_Patriots_-_Master_Collection_Version-OnePlus-PJZ110-Adreno__TM__830-1788546881.json"
   }
 ]
