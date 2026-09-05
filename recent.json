@@ -1,5 +1,12 @@
 [
   {
+    "game": "SILENT_HILL_2",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1788587318,
+    "filename": "SILENT_HILL_2-LENOVO-TB322FC-Adreno__TM__830-1788587318.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1788553609,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A366E-Adreno__TM__710-1788553609.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1788552606,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g06-Mali-G52_MC2-1788552606.json"
   }
 ]
