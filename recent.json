@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__1",
+    "manufacturer": "CPH2653",
+    "device": "Adreno__TM__830",
+    "timestamp": 1788618816,
+    "filename": "Battlefield__1-OnePlus-CPH2653-Adreno__TM__830-1788618816.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A125M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1788578635,
     "filename": "Sleeping_Dogs-Xiaomi-23021RAAEG-Adreno__TM__610-1788578635.json"
-  },
-  {
-    "game": "Mortal_Kombat_X",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788577372,
-    "filename": "Mortal_Kombat_X-samsung-SM-A165M-Mali-G57_MC2-1788577372.json"
   }
 ]
