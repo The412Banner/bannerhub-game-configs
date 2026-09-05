@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prince_of_Persia",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1788611424,
+    "filename": "Prince_of_Persia-TECNO-TECNO_LJ9-Mali-G615_MC6-1788611424.json"
+  },
+  {
     "game": "Cyberpunk_2077",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1788571480,
     "filename": "Cars_2_Arcade-AYN-Odin2_Portal-Adreno__TM__740-1788571480.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1788571220,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788571220.json"
   }
 ]
