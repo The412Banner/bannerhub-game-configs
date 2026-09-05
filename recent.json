@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "motorola_edge_50_pro",
+    "device": "Adreno__TM__720",
+    "timestamp": 1788638857,
+    "filename": "Resident_Evil_5-motorola-motorola_edge_50_pro-Adreno__TM__720-1788638857.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "motorola_one_fusion",
     "device": "Adreno__TM__616",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1788616092,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A125M-PowerVR_Rogue_GE8320-1788616092.json"
-  },
-  {
-    "game": "Devil_May_Cry_4",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1788611436,
-    "filename": "Devil_May_Cry_4-TECNO-TECNO_LJ9-Mali-G615_MC6-1788611436.json"
   }
 ]
