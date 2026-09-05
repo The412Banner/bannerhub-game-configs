@@ -1,5 +1,12 @@
 [
   {
+    "game": "FlipWitch",
+    "manufacturer": "S931B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1788634604,
+    "filename": "FlipWitch-samsung-SM-S931B-Adreno__TM__830-1788634604.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "V2040",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1788609790,
     "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788609790.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "I2218",
-    "device": "Adreno__TM__720",
-    "timestamp": 1788609710,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-vivo-I2218-Adreno__TM__720-1788609710.json"
   }
 ]
