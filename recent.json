@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1788645250,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_60_neo-Mali-G615_MC2-1788645250.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S908E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1788626260,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1788626260.json"
-  },
-  {
-    "game": "Road_96",
-    "manufacturer": "Retroid_Pocket_Flip2",
-    "device": "Adreno__TM__650",
-    "timestamp": 1788623918,
-    "filename": "Road_96-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1788623918.json"
   }
 ]
