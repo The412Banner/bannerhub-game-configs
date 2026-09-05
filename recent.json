@@ -1,5 +1,12 @@
 [
   {
+    "game": "VRChat",
+    "manufacturer": "OPPO_A3",
+    "device": "Adreno__TM__610",
+    "timestamp": 1788621793,
+    "filename": "VRChat-OPPO-OPPO_A3-Adreno__TM__610-1788621793.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M2101K6P",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1788584866,
     "filename": "DOOM64-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1788584866.json"
-  },
-  {
-    "game": "Need_for_Speed_MW",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1788584699,
-    "filename": "Need_for_Speed_MW-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1788584699.json"
   }
 ]
