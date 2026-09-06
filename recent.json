@@ -1,5 +1,12 @@
 [
   {
+    "game": "vlc-3_0_23-win32",
+    "manufacturer": "itel_A665L",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1788703842,
+    "filename": "vlc-3_0_23-win32-ITEL-itel_A665L-PowerVR_Rogue_GE8322-1788703842.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1788667596,
     "filename": "Mafia_II__Classic_-realme-RMX3771-Mali-G68_MC4-1788667596.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1788667532,
-    "filename": "Mafia_II__Classic_-realme-RMX3771-Mali-G68_MC4-1788667532.json"
   }
 ]
