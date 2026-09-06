@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788693593,
+    "filename": "Euro_Truck_Simulator_2-Blackview-MEGA_8-Mali-G57-1788693593.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2825",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1788656607,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-nubia-NX799J-Adreno__TM__830-1788656607.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1788654449,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23108RN04Y-Mali-G52_MC2-1788654449.json"
   }
 ]
