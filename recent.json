@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1788716638,
+    "filename": "Sleeping_Dogs-Xiaomi-25053PC47G-Adreno__TM__825-1788716638.json"
+  },
+  {
     "game": "eFootball_",
     "manufacturer": "Mali",
     "device": "G710_MC10",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1788699383,
     "filename": "Dead_Space__-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788699383.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1788699060,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1788699060.json"
   }
 ]
