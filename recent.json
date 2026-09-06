@@ -1,5 +1,12 @@
 [
   {
+    "game": "Terraria",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1788737946,
+    "filename": "Terraria-OnePlus-CPH2747-Adreno__TM__840-1788737946.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1788712580,
     "filename": "UNCHARTED___Legacy_of_Thieves_Collection-Xiaomi-2511FPC34G-Mali-G720_MC8-1788712580.json"
-  },
-  {
-    "game": "Left_4_Dead",
-    "manufacturer": "23013PC75G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1788711762,
-    "filename": "Left_4_Dead-Xiaomi-23013PC75G-Adreno__TM__730-1788711762.json"
   }
 ]
