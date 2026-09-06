@@ -1,5 +1,12 @@
 [
   {
+    "game": "Days_Gone",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1788675914,
+    "filename": "Days_Gone-nubia-NX809J-Adreno__TM__840-1788675914.json"
+  },
+  {
     "game": "ELDEN_RING",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1788646480,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-motorola-motorola_edge_50_pro-Adreno__TM__720-1788646480.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1788645250,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_60_neo-Mali-G615_MC2-1788645250.json"
   }
 ]
