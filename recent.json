@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead",
+    "manufacturer": "23013PC75G",
+    "device": "Adreno__TM__730",
+    "timestamp": 1788711762,
+    "filename": "Left_4_Dead-Xiaomi-23013PC75G-Adreno__TM__730-1788711762.json"
+  },
+  {
     "game": "Wolverine",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1788689970,
     "filename": "STAR_WARS_Jedi__Fallen_Order_-nubia-NX809J-Adreno__TM__840-1788689970.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A715F",
-    "device": "Adreno__TM__618",
-    "timestamp": 1788689674,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A715F-Adreno__TM__618-1788689674.json"
   }
 ]
