@@ -1,5 +1,12 @@
 [
   {
+    "game": "Horizon_Zero_Dawn__Complete_Edition",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1788675935,
+    "filename": "Horizon_Zero_Dawn__Complete_Edition-nubia-NX809J-Adreno__TM__840-1788675935.json"
+  },
+  {
     "game": "Need_for_Speed__Heat",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1788646503,
     "filename": "Resident_Evil_4__2005_-motorola-motorola_edge_50_pro-Adreno__TM__720-1788646503.json"
-  },
-  {
-    "game": "Resident_Evil_Revelations",
-    "manufacturer": "motorola_edge_50_pro",
-    "device": "Adreno__TM__720",
-    "timestamp": 1788646491,
-    "filename": "Resident_Evil_Revelations-motorola-motorola_edge_50_pro-Adreno__TM__720-1788646491.json"
   }
 ]
