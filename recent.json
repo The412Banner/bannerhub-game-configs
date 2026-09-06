@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1788699383,
+    "filename": "Dead_Space__-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788699383.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1788660503,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1788660503.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23122PCD1G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1788659210,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23122PCD1G-Adreno__TM__710-1788659210.json"
   }
 ]
