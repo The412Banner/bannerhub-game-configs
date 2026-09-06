@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "motorola_edge_70_fusion",
+    "device": "Adreno__TM__810",
+    "timestamp": 1788718322,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_70_fusion-Adreno__TM__810-1788718322.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1788717326,
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1788701171,
     "filename": "Grand_Theft_Auto_V_Legacy-HMD_Global-Nokia_G20-PowerVR_Rogue_GE8320-1788701171.json"
-  },
-  {
-    "game": "KAHRETS_N_V4",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1788700782,
-    "filename": "KAHRETS_N_V4-samsung-SM-X200-Mali-G52-1788700782.json"
   }
 ]
