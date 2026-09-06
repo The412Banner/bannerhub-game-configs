@@ -1,5 +1,12 @@
 [
   {
+    "game": "SPEED2",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1788684247,
+    "filename": "SPEED2-Xiaomi-M2102J20SG-Adreno__TM__640-1788684247.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S731B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1788649506,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A315G-Mali-G52_MC2-1788649506.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "motorola_edge_50_pro",
-    "device": "Adreno__TM__720",
-    "timestamp": 1788646515,
-    "filename": "Resident_Evil_5-motorola-motorola_edge_50_pro-Adreno__TM__720-1788646515.json"
   }
 ]
