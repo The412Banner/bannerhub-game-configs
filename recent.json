@@ -1,5 +1,12 @@
 [
   {
+    "game": "TL_Minecraft_",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788732342,
+    "filename": "TL_Minecraft_-INFINIX-Infinix_X6525-Mali-G57-1788732342.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1788709609,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1788709609.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1788708854,
-    "filename": "Watch_Dogs_-Xiaomi-23049PCD8G-Adreno__TM__725-1788708854.json"
   }
 ]
