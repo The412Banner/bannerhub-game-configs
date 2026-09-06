@@ -1,5 +1,12 @@
 [
   {
+    "game": "STAR_WARS_Jedi__Fallen_Order_",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1788689970,
+    "filename": "STAR_WARS_Jedi__Fallen_Order_-nubia-NX809J-Adreno__TM__840-1788689970.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A715F",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1788652869,
     "filename": "Pro_Evolution_Soccer_2012-samsung-SM-A146M-Mali-G68-1788652869.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1788649770,
-    "filename": "Tomb_Raider-Xiaomi-M2101K7BNY-Mali-G76-1788649770.json"
   }
 ]
