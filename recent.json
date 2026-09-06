@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1788707565,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6728-Mali-G52_MC2-1788707565.json"
+  },
+  {
     "game": "StillLife",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1788675935,
     "filename": "Horizon_Zero_Dawn__Complete_Edition-nubia-NX809J-Adreno__TM__840-1788675935.json"
-  },
-  {
-    "game": "Need_for_Speed__Heat",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1788675925,
-    "filename": "Need_for_Speed__Heat-nubia-NX809J-Adreno__TM__840-1788675925.json"
   }
 ]
