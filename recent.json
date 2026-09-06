@@ -1,5 +1,12 @@
 [
   {
+    "game": "ELDEN_RING",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1788675820,
+    "filename": "ELDEN_RING-nubia-NX809J-Adreno__TM__840-1788675820.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "V2511",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1788645250,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_60_neo-Mali-G615_MC2-1788645250.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S908E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1788644562,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S908E-Adreno__TM__730-1788644562.json"
   }
 ]
