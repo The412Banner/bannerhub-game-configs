@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_",
+    "manufacturer": "Mali",
+    "device": "G710_MC10",
+    "timestamp": 1788715912,
+    "filename": "eFootball_-asus-ASUS_AI2203_C-Mali-G710_MC10-1788715912.json"
+  },
+  {
     "game": "Rage_Tool_Kit",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1788699060,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1788699060.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1788693593,
-    "filename": "Euro_Truck_Simulator_2-Blackview-MEGA_8-Mali-G57-1788693593.json"
   }
 ]
