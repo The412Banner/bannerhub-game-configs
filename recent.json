@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "22101320G",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1788730654,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22101320G-Adreno__TM__642L-1788730654.json"
+  },
+  {
     "game": "VRChat",
     "manufacturer": "moto_g_6__plus",
     "device": "Adreno__TM__508",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1788705092,
     "filename": "StillLife-Anbernic-RG_406H-Mali-G57-1788705092.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788704790,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24116RACCG-Mali-G57_MC2-1788704790.json"
   }
 ]
