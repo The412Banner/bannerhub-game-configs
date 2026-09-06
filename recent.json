@@ -1,5 +1,12 @@
 [
   {
+    "game": "UNCHARTED___Legacy_of_Thieves_Collection",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1788712580,
+    "filename": "UNCHARTED___Legacy_of_Thieves_Collection-Xiaomi-2511FPC34G-Mali-G720_MC8-1788712580.json"
+  },
+  {
     "game": "Left_4_Dead",
     "manufacturer": "23013PC75G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__722",
     "timestamp": 1788691087,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2825-Adreno__TM__722-1788691087.json"
-  },
-  {
-    "game": "STAR_WARS_Jedi__Fallen_Order_",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1788689970,
-    "filename": "STAR_WARS_Jedi__Fallen_Order_-nubia-NX809J-Adreno__TM__840-1788689970.json"
   }
 ]
