@@ -1,5 +1,12 @@
 [
   {
+    "game": "StillLife",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788705092,
+    "filename": "StillLife-Anbernic-RG_406H-Mali-G57-1788705092.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1788675925,
     "filename": "Need_for_Speed__Heat-nubia-NX809J-Adreno__TM__840-1788675925.json"
-  },
-  {
-    "game": "Days_Gone",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1788675914,
-    "filename": "Days_Gone-nubia-NX809J-Adreno__TM__840-1788675914.json"
   }
 ]
