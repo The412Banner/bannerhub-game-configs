@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_19",
+    "manufacturer": "RMX3370",
+    "device": "Adreno__TM__650",
+    "timestamp": 1788704045,
+    "filename": "FIFA_19-realme-RMX3370-Adreno__TM__650-1788704045.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1788675820,
     "filename": "ELDEN_RING-nubia-NX809J-Adreno__TM__840-1788675820.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "V2511",
-    "device": "Adreno__TM__722",
-    "timestamp": 1788673361,
-    "filename": "Red_Dead_Redemption-vivo-V2511-Adreno__TM__722-1788673361.json"
   }
 ]
