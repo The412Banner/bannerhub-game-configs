@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "V2511",
+    "device": "Adreno__TM__722",
+    "timestamp": 1788673361,
+    "filename": "Red_Dead_Redemption-vivo-V2511-Adreno__TM__722-1788673361.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1788644562,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S908E-Adreno__TM__730-1788644562.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "2410CRP4CG",
-    "device": "Adreno__TM__732",
-    "timestamp": 1788643548,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2410CRP4CG-Adreno__TM__732-1788643548.json"
   }
 ]
