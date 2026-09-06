@@ -1,5 +1,12 @@
 [
   {
+    "game": "VRChat",
+    "manufacturer": "moto_g_6__plus",
+    "device": "Adreno__TM__508",
+    "timestamp": 1788723936,
+    "filename": "VRChat-motorola-moto_g_6__plus-Adreno__TM__508-1788723936.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A235M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1788704045,
     "filename": "FIFA_19-realme-RMX3370-Adreno__TM__650-1788704045.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1788703932,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO_MOBILE_LIMITED-TECNO_KG5k-Mali-G57-1788703932.json"
   }
 ]
