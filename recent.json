@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788704790,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24116RACCG-Mali-G57_MC2-1788704790.json"
+  },
+  {
     "game": "FIFA_19",
     "manufacturer": "RMX3370",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1788675914,
     "filename": "Days_Gone-nubia-NX809J-Adreno__TM__840-1788675914.json"
-  },
-  {
-    "game": "ELDEN_RING",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1788675820,
-    "filename": "ELDEN_RING-nubia-NX809J-Adreno__TM__840-1788675820.json"
   }
 ]
