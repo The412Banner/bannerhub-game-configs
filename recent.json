@@ -1,5 +1,12 @@
 [
   {
+    "game": "SPEED2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788664597,
+    "filename": "SPEED2-samsung-SM-A175F-Mali-G57_MC2-1788664597.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1788638857,
     "filename": "Resident_Evil_5-motorola-motorola_edge_50_pro-Adreno__TM__720-1788638857.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_one_fusion",
-    "device": "Adreno__TM__616",
-    "timestamp": 1788636549,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_one_fusion-Adreno__TM__616-1788636549.json"
   }
 ]
