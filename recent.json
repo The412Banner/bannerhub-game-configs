@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "NX9",
+    "device": "Adreno__TM__720",
+    "timestamp": 1788790356,
+    "filename": "Tomb_Raider-HONOR-ELI-NX9-Adreno__TM__720-1788790356.json"
+  },
+  {
     "game": "Crash_Bandicoot__4__It_s_About_Time",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1788745430,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6531-Mali-G52_MC2-1788745430.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1788744051,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1788744051.json"
   }
 ]
