@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_Requiem",
+    "manufacturer": "S948B",
+    "device": "Adreno__TM__840",
+    "timestamp": 1788785165,
+    "filename": "Resident_Evil_Requiem-samsung-SM-S948B-Adreno__TM__840-1788785165.json"
+  },
+  {
     "game": "My_Sexy_Neighbour_2___Prologue",
     "manufacturer": "G986U",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1788733296,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1788733296.json"
-  },
-  {
-    "game": "TL_Minecraft_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1788732342,
-    "filename": "TL_Minecraft_-INFINIX-Infinix_X6525-Mali-G57-1788732342.json"
   }
 ]
