@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1788810007,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788810007.json"
+  },
+  {
     "game": "Tormented_Souls_Release",
     "manufacturer": "RMX5131",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1788793146,
     "filename": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered-Xiaomi-2510DPC44G-Adreno__TM__830-1788793146.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1788792627,
-    "filename": "DRAGON_BALL__Sparking__ZERO-nubia-NX809J-Adreno__TM__840-1788792627.json"
   }
 ]
