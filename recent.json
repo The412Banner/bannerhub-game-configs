@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wolverine",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1788743113,
+    "filename": "Wolverine-samsung-SM-A515F-Mali-G72-1788743113.json"
+  },
+  {
     "game": "Terraria",
     "manufacturer": "CPH2747",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1788713493,
     "filename": "FFXiiiLauncher-nubia-NX789S_V1B-Adreno__TM__830-1788713493.json"
-  },
-  {
-    "game": "UNCHARTED___Legacy_of_Thieves_Collection",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1788712580,
-    "filename": "UNCHARTED___Legacy_of_Thieves_Collection-Xiaomi-2511FPC34G-Mali-G720_MC8-1788712580.json"
   }
 ]
