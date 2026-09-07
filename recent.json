@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S731B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1788756366,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1788756366.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "2510EPC8BG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1788723666,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A235M-Adreno__TM__610-1788723666.json"
-  },
-  {
-    "game": "Brawlhalla",
-    "manufacturer": "moto_g_6__plus",
-    "device": "Adreno__TM__508",
-    "timestamp": 1788723561,
-    "filename": "Brawlhalla-motorola-moto_g_6__plus-Adreno__TM__508-1788723561.json"
   }
 ]
