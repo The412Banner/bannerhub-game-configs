@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2010",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1788788046,
+    "filename": "F1_2010-samsung-SM-A346M-Mali-G68_MC4-1788788046.json"
+  },
+  {
     "game": "BioShock__2",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1788737946,
     "filename": "Terraria-OnePlus-CPH2747-Adreno__TM__840-1788737946.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1788736592,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788736592.json"
   }
 ]
