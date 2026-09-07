@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "2510EPC8BG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1788753850,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2510EPC8BG-Adreno__TM__810-1788753850.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__508",
     "timestamp": 1788723561,
     "filename": "Brawlhalla-motorola-moto_g_6__plus-Adreno__TM__508-1788723561.json"
-  },
-  {
-    "game": "Wolfenstein_II__The_New_Colossus",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1788719635,
-    "filename": "Wolfenstein_II__The_New_Colossus-ayn-Odin3-Adreno__TM__830-1788719635.json"
   }
 ]
