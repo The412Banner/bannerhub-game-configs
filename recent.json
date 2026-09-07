@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788797733,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A075M-Mali-G57_MC2-1788797733.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "motorola_edge_20_pro",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1788756366,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1788756366.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "2510EPC8BG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1788753850,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2510EPC8BG-Adreno__TM__810-1788753850.json"
   }
 ]
