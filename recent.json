@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Odyssey",
+    "manufacturer": "X910",
+    "device": "Adreno__TM__740",
+    "timestamp": 1788799697,
+    "filename": "Assassin_s_Creed__Odyssey-samsung-SM-X910-Adreno__TM__740-1788799697.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1788786564,
     "filename": "BioShock__2-Xiaomi-25053PC47G-Adreno__TM__825-1788786564.json"
-  },
-  {
-    "game": "Resident_Evil_Requiem",
-    "manufacturer": "S948B",
-    "device": "Adreno__TM__840",
-    "timestamp": 1788785165,
-    "filename": "Resident_Evil_Requiem-samsung-SM-S948B-Adreno__TM__840-1788785165.json"
   }
 ]
