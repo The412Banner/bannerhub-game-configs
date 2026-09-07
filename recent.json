@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Smiling_Man",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1788789932,
+    "filename": "The_Smiling_Man-motorola-moto_g31-Mali-G52_MC2-1788789932.json"
+  },
+  {
     "game": "____________________________",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1788743612,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1788743612.json"
-  },
-  {
-    "game": "Wolverine",
-    "manufacturer": "Mali",
-    "device": "G72",
-    "timestamp": 1788743113,
-    "filename": "Wolverine-samsung-SM-A515F-Mali-G72-1788743113.json"
   }
 ]
