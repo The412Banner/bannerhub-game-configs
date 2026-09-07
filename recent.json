@@ -1,5 +1,12 @@
 [
   {
+    "game": "ReTHAWed",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1788770863,
+    "filename": "ReTHAWed-AYN-Odin2_Portal-Adreno__TM__740-1788770863.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__508",
     "timestamp": 1788724004,
     "filename": "VRChat-motorola-moto_g_6__plus-Adreno__TM__508-1788724004.json"
-  },
-  {
-    "game": "VRChat",
-    "manufacturer": "moto_g_6__plus",
-    "device": "Adreno__TM__508",
-    "timestamp": 1788723936,
-    "filename": "VRChat-motorola-moto_g_6__plus-Adreno__TM__508-1788723936.json"
   }
 ]
