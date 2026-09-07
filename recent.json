@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788752593,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1788752593.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G71",
     "timestamp": 1788746134,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A307GT-Mali-G71-1788746134.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1788719635,
     "filename": "Wolfenstein_II__The_New_Colossus-ayn-Odin3-Adreno__TM__830-1788719635.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "motorola_edge_70_fusion",
-    "device": "Adreno__TM__810",
-    "timestamp": 1788718322,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_70_fusion-Adreno__TM__810-1788718322.json"
   }
 ]
