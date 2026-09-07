@@ -1,5 +1,12 @@
 [
   {
+    "game": "____________________________",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1788788199,
+    "filename": "____________________________-LENOVO-TB321FU-Adreno__TM__750-1788788199.json"
+  },
+  {
     "game": "F1_2010",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1788743113,
     "filename": "Wolverine-samsung-SM-A515F-Mali-G72-1788743113.json"
-  },
-  {
-    "game": "Terraria",
-    "manufacturer": "CPH2747",
-    "device": "Adreno__TM__840",
-    "timestamp": 1788737946,
-    "filename": "Terraria-OnePlus-CPH2747-Adreno__TM__840-1788737946.json"
   }
 ]
