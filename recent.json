@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man__Miles_Morales",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1788815495,
+    "filename": "Marvel_s_Spider-Man__Miles_Morales-ayn-Odin3-Adreno__TM__830-1788815495.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2015___________________________________",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1788796045,
     "filename": "Red_Dead_Redemption_2-motorola-motorola_edge_20_pro-Adreno__TM__650-1788796045.json"
-  },
-  {
-    "game": "REDlauncher",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1788795810,
-    "filename": "REDlauncher-Xiaomi-2312DRA50G-Adreno__TM__710-1788795810.json"
   }
 ]
