@@ -1,5 +1,12 @@
 [
   {
+    "game": "Green_Hell",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1788800733,
+    "filename": "Green_Hell-Xiaomi-25053PC47G-Adreno__TM__825-1788800733.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH2669",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1788788199,
     "filename": "____________________________-LENOVO-TB321FU-Adreno__TM__750-1788788199.json"
-  },
-  {
-    "game": "F1_2010",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1788788046,
-    "filename": "F1_2010-samsung-SM-A346M-Mali-G68_MC4-1788788046.json"
   }
 ]
