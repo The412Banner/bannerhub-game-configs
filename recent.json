@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1788793146,
+    "filename": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered-Xiaomi-2510DPC44G-Adreno__TM__830-1788793146.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1788745543,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6531-Mali-G52_MC2-1788745543.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1788745441,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6531-Mali-G52_MC2-1788745441.json"
   }
 ]
