@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pizza_Tower",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788823526,
+    "filename": "Pizza_Tower-Xiaomi-24117RN76L-Mali-G57_MC2-1788823526.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1788798551,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A217M-Mali-G52-1788798551.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1788798459,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A217M-Mali-G52-1788798459.json"
   }
 ]
