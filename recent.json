@@ -1,5 +1,12 @@
 [
   {
+    "game": "REDlauncher",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1788795810,
+    "filename": "REDlauncher-Xiaomi-2312DRA50G-Adreno__TM__710-1788795810.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1788752593,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1788752593.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G71",
-    "timestamp": 1788746134,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A307GT-Mali-G71-1788746134.json"
   }
 ]
