@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lifted",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1788867355,
+    "filename": "Lifted-AYANEO-Pocket_FIT-Adreno__TM__750-1788867355.json"
+  },
+  {
     "game": "Far_Cry__New_Dawn",
     "manufacturer": "V2352A",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1788841947,
     "filename": "XR_3DA-OnePlus-PLC110-Mali-G925-Immortalis_MC12-1788841947.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1788840542,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A266M-Mali-G68-1788840542.json"
   }
 ]
