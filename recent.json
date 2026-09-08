@@ -1,5 +1,12 @@
 [
   {
+    "game": "RichardBurnsRally",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1788867396,
+    "filename": "RichardBurnsRally-AYANEO-Pocket_FIT-Adreno__TM__750-1788867396.json"
+  },
+  {
     "game": "Crystal_Caves_HD",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1788846542,
     "filename": "Granblue_Fantasy__Relink-nubia-NX809J-Adreno__TM__840-1788846542.json"
-  },
-  {
-    "game": "Prototype_",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1788846228,
-    "filename": "Prototype_-TECNO-TECNO_CK6-Mali-G52_MC2-1788846228.json"
   }
 ]
