@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1788840542,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A266M-Mali-G68-1788840542.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1788823583,
     "filename": "BootstrapPackagedGame-Xiaomi-24117RN76L-Mali-G57_MC2-1788823583.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788823579,
-    "filename": "BootstrapPackagedGame-Xiaomi-24117RN76L-Mali-G57_MC2-1788823579.json"
   }
 ]
