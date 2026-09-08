@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dishonored",
+    "manufacturer": "G986U",
+    "device": "Adreno__TM__650",
+    "timestamp": 1788868842,
+    "filename": "Dishonored-samsung-SM-G986U-Adreno__TM__650-1788868842.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "HTC_U24_pro",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1788867436,
     "filename": "HUNTDOWN-AYANEO-Pocket_FIT-Adreno__TM__750-1788867436.json"
-  },
-  {
-    "game": "ExtremeGRecompiled",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1788867431,
-    "filename": "ExtremeGRecompiled-AYANEO-Pocket_FIT-Adreno__TM__750-1788867431.json"
   }
 ]
