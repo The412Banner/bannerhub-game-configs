@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prototype_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1788846228,
+    "filename": "Prototype_-TECNO-TECNO_CK6-Mali-G52_MC2-1788846228.json"
+  },
+  {
     "game": "DreadOut_2",
     "manufacturer": "RMX5131",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1788832014,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24090RA29C-Mali-G615_MC2-1788832014.json"
-  },
-  {
-    "game": "Yanpai_Simulator",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1788830620,
-    "filename": "Yanpai_Simulator-samsung-SM-A176B-Mali-G68-1788830620.json"
   }
 ]
