@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "G720",
+    "device": "Immortalis_MC12",
+    "timestamp": 1788865694,
+    "filename": "Far_Cry_3-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1788865694.json"
+  },
+  {
     "game": "Far_Cry__New_Dawn",
     "manufacturer": "V2352A",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1788840374,
     "filename": "Hollow_Knight__Silksong-samsung-SM-A266M-Mali-G68-1788840374.json"
-  },
-  {
-    "game": "Trails_in_the_Sky",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1788839972,
-    "filename": "Trails_in_the_Sky-TECNO-TECNO_LJ9-Mali-G615_MC6-1788839972.json"
   }
 ]
