@@ -1,5 +1,12 @@
 [
   {
+    "game": "XR_3DA",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1788841947,
+    "filename": "XR_3DA-OnePlus-PLC110-Mali-G925-Immortalis_MC12-1788841947.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1788824956,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1788824956.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788823583,
-    "filename": "BootstrapPackagedGame-Xiaomi-24117RN76L-Mali-G57_MC2-1788823583.json"
   }
 ]
