@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__New_Dawn",
+    "manufacturer": "V2352A",
+    "device": "Adreno__TM__735",
+    "timestamp": 1788865763,
+    "filename": "Far_Cry__New_Dawn-vivo-V2352A-Adreno__TM__735-1788865763.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1788840542,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A266M-Mali-G68-1788840542.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1788840374,
-    "filename": "Hollow_Knight__Silksong-samsung-SM-A266M-Mali-G68-1788840374.json"
   }
 ]
