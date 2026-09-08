@@ -1,5 +1,12 @@
 [
   {
+    "game": "DOOM",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1788867499,
+    "filename": "DOOM-AYANEO-Pocket_FIT-Adreno__TM__750-1788867499.json"
+  },
+  {
     "game": "Lonely_Mountains__Downhill",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1788867355,
     "filename": "Lifted-AYANEO-Pocket_FIT-Adreno__TM__750-1788867355.json"
-  },
-  {
-    "game": "Far_Cry__New_Dawn",
-    "manufacturer": "V2352A",
-    "device": "Adreno__TM__735",
-    "timestamp": 1788865763,
-    "filename": "Far_Cry__New_Dawn-vivo-V2352A-Adreno__TM__735-1788865763.json"
   }
 ]
