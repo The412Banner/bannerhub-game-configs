@@ -1,5 +1,12 @@
 [
   {
+    "game": "WorldBox_-_God_Simulator",
+    "manufacturer": "moto_g75_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1788895326,
+    "filename": "WorldBox_-_God_Simulator-motorola-moto_g75_5G-Adreno__TM__710-1788895326.json"
+  },
+  {
     "game": "The_Witcher_2_-_Assassins_of_Kings_Enhanced_Edition_________",
     "manufacturer": "Mali",
     "device": "G77",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1788875785,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1788875785.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1788874785,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1788874785.json"
   }
 ]
