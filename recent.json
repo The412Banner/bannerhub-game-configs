@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788864489,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KL8-Mali-G57_MC2-1788864489.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G615_MC6",
     "timestamp": 1788864480,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1788864480.json"
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1788839961,
     "filename": "Trails_in_the_Sky_the_3rd-TECNO-TECNO_LJ9-Mali-G615_MC6-1788839961.json"
-  },
-  {
-    "game": "Devil_May_Cry_4",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1788839949,
-    "filename": "Devil_May_Cry_4-TECNO-TECNO_LJ9-Mali-G615_MC6-1788839949.json"
   }
 ]
