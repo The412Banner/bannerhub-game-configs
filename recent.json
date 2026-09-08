@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Brotherhood",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788879268,
+    "filename": "Assassin_s_Creed__Brotherhood-realme-RMX5313-Mali-G57-1788879268.json"
+  },
+  {
     "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
     "manufacturer": "NX3",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1788868168,
     "filename": "Shift_At_Midnight_Demo-OPPO-OPPO_A3-Adreno__TM__610-1788868168.json"
-  },
-  {
-    "game": "A_Short_Hike",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1788867591,
-    "filename": "A_Short_Hike-AYANEO-Pocket_FIT-Adreno__TM__750-1788867591.json"
   }
 ]
