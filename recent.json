@@ -1,5 +1,12 @@
 [
   {
+    "game": "Asphalt_Legends_",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1788855138,
+    "filename": "Asphalt_Legends_-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1788855138.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1788838480,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A035M-Mali-G57-1788838480.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1788838439,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3938-Mali-G57-1788838439.json"
   }
 ]
