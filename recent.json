@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_22",
+    "manufacturer": "S948B",
+    "device": "Adreno__TM__840",
+    "timestamp": 1788872464,
+    "filename": "FIFA_22-samsung-SM-S948B-Adreno__TM__840-1788872464.json"
+  },
+  {
     "game": "Age_of_Empires__the_Rise_of_Rome",
     "manufacturer": "AN00",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1788867459,
     "filename": "Ori_and_the_Blind_Forest__Definitive_Edition-AYANEO-Pocket_FIT-Adreno__TM__750-1788867459.json"
-  },
-  {
-    "game": "Hyper_Echelon",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1788867444,
-    "filename": "Hyper_Echelon-AYANEO-Pocket_FIT-Adreno__TM__750-1788867444.json"
   }
 ]
