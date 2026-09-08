@@ -1,5 +1,12 @@
 [
   {
+    "game": "Halo__The_Master_Chief_Collection",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1788897175,
+    "filename": "Halo__The_Master_Chief_Collection-Xiaomi-24069PC21G-Adreno__TM__735-1788897175.json"
+  },
+  {
     "game": "WorldBox_-_God_Simulator",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1788875962,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1788875962.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1788875785,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RA5FL-Adreno__TM__610-1788875785.json"
   }
 ]
