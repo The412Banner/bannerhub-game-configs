@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788826373,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g14-Mali-G57-1788826373.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S731B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1788799697,
     "filename": "Assassin_s_Creed__Odyssey-samsung-SM-X910-Adreno__TM__740-1788799697.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1788798689,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A217M-Mali-G52-1788798689.json"
   }
 ]
