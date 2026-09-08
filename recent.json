@@ -1,5 +1,12 @@
 [
   {
+    "game": "Chained_Echoes",
+    "manufacturer": "M2101K9G",
+    "device": "Adreno__TM__642",
+    "timestamp": 1788868363,
+    "filename": "Chained_Echoes-Xiaomi-M2101K9G-Adreno__TM__642-1788868363.json"
+  },
+  {
     "game": "Shift_At_Midnight_Demo",
     "manufacturer": "OPPO_A3",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1788867418,
     "filename": "Kena__Bridge_of_Spirits-AYANEO-Pocket_FIT-Adreno__TM__750-1788867418.json"
-  },
-  {
-    "game": "RushRallyOrigins",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1788867414,
-    "filename": "RushRallyOrigins-AYANEO-Pocket_FIT-Adreno__TM__750-1788867414.json"
   }
 ]
