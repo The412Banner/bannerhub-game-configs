@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "I2401",
+    "device": "Adreno__TM__830",
+    "timestamp": 1788843001,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-I2401-Adreno__TM__830-1788843001.json"
+  },
+  {
     "game": "XR_3DA",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1788826373,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g14-Mali-G57-1788826373.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S731B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1788824956,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1788824956.json"
   }
 ]
