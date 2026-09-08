@@ -1,5 +1,12 @@
 [
   {
+    "game": "Granblue_Fantasy__Relink",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1788846542,
+    "filename": "Granblue_Fantasy__Relink-nubia-NX809J-Adreno__TM__840-1788846542.json"
+  },
+  {
     "game": "Prototype_",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1788834872,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-X710-Adreno__TM__740-1788834872.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1788832014,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24090RA29C-Mali-G615_MC2-1788832014.json"
   }
 ]
