@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ori_and_the_Blind_Forest__Definitive_Edition",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1788867459,
+    "filename": "Ori_and_the_Blind_Forest__Definitive_Edition-AYANEO-Pocket_FIT-Adreno__TM__750-1788867459.json"
+  },
+  {
     "game": "Hyper_Echelon",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1788862855,
     "filename": "Resident_Evil_Revelations-motorola-motorola_edge_50_pro-Adreno__TM__720-1788862855.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1788862365,
-    "filename": "Grand_Theft_Auto_V-Xiaomi-2511FPC34G-Mali-G720_MC8-1788862365.json"
   }
 ]
