@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1788880182,
+    "filename": "Grand_Theft_Auto_IV-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788880182.json"
+  },
+  {
     "game": "Resident_Evil_Revelations",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1788868809,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-HTC-HTC_U24_pro-Adreno__TM__720-1788868809.json"
-  },
-  {
-    "game": "Chained_Echoes",
-    "manufacturer": "M2101K9G",
-    "device": "Adreno__TM__642",
-    "timestamp": 1788868363,
-    "filename": "Chained_Echoes-Xiaomi-M2101K9G-Adreno__TM__642-1788868363.json"
   }
 ]
