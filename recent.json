@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1788838180,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1788838180.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G76",
     "timestamp": 1788837025,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__722",
     "timestamp": 1788809029,
     "filename": "Tormented_Souls_Release-realme-RMX5131-Adreno__TM__722-1788809029.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1788803817,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788803817.json"
   }
 ]
