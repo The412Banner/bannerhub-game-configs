@@ -1,5 +1,12 @@
 [
   {
+    "game": "LGTS",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1788851986,
+    "filename": "LGTS-AYN-AYN_Thor-Adreno__TM__740-1788851986.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1788838180,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1788838180.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1788837025,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G973F-Mali-G76-1788837025.json"
   }
 ]
