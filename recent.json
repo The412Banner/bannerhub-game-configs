@@ -1,5 +1,12 @@
 [
   {
+    "game": "NBA_2K23",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1788881085,
+    "filename": "NBA_2K23-Xiaomi-24090RA29G-Mali-G615_MC2-1788881085.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1788868842,
     "filename": "Dishonored-samsung-SM-G986U-Adreno__TM__650-1788868842.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "HTC_U24_pro",
-    "device": "Adreno__TM__720",
-    "timestamp": 1788868809,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-HTC-HTC_U24_pro-Adreno__TM__720-1788868809.json"
   }
 ]
