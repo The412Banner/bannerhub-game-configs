@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1788874774,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1788874774.json"
+  },
+  {
     "game": "FINAL_FANTASY_XV_WINDOWS_EDITION",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1788867479,
     "filename": "CARRION-AYANEO-Pocket_FIT-Adreno__TM__750-1788867479.json"
-  },
-  {
-    "game": "Lonely_Mountains__Snow_Riders",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1788867473,
-    "filename": "Lonely_Mountains__Snow_Riders-AYANEO-Pocket_FIT-Adreno__TM__750-1788867473.json"
   }
 ]
