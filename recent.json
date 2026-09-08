@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1788878826,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A035M-Mali-G57-1788878826.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "moto_g53_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1788867582,
     "filename": "Gears_of_War_Reloaded-AYANEO-Pocket_FIT-Adreno__TM__750-1788867582.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1788867558,
-    "filename": "God_of_War-AYANEO-Pocket_FIT-Adreno__TM__750-1788867558.json"
   }
 ]
