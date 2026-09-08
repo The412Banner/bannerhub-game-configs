@@ -1,5 +1,12 @@
 [
   {
+    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
+    "manufacturer": "NX3",
+    "device": "Adreno__TM__710",
+    "timestamp": 1788878848,
+    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-HONOR-BRP-NX3-Adreno__TM__710-1788878848.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1788867591,
     "filename": "A_Short_Hike-AYANEO-Pocket_FIT-Adreno__TM__750-1788867591.json"
-  },
-  {
-    "game": "Gears_of_War_Reloaded",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1788867582,
-    "filename": "Gears_of_War_Reloaded-AYANEO-Pocket_FIT-Adreno__TM__750-1788867582.json"
   }
 ]
