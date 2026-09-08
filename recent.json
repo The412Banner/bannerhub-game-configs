@@ -1,5 +1,12 @@
 [
   {
+    "game": "Colin_McRae_Rally_2005",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1788867361,
+    "filename": "Colin_McRae_Rally_2005-AYANEO-Pocket_FIT-Adreno__TM__750-1788867361.json"
+  },
+  {
     "game": "Lifted",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1788843001,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-I2401-Adreno__TM__830-1788843001.json"
-  },
-  {
-    "game": "XR_3DA",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1788841947,
-    "filename": "XR_3DA-OnePlus-PLC110-Mali-G925-Immortalis_MC12-1788841947.json"
   }
 ]
