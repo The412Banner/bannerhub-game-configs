@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "RMX5051",
+    "device": "Adreno__TM__810",
+    "timestamp": 1788826840,
+    "filename": "God_of_War-realme-RMX5051-Adreno__TM__810-1788826840.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1788800370,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2669-Adreno__TM__610-1788800370.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Odyssey",
-    "manufacturer": "X910",
-    "device": "Adreno__TM__740",
-    "timestamp": 1788799697,
-    "filename": "Assassin_s_Creed__Odyssey-samsung-SM-X910-Adreno__TM__740-1788799697.json"
   }
 ]
