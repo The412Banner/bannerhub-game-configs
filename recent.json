@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lonely_Mountains__Snow_Riders",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1788867473,
+    "filename": "Lonely_Mountains__Snow_Riders-AYANEO-Pocket_FIT-Adreno__TM__750-1788867473.json"
+  },
+  {
     "game": "Hob",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1788864489,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KL8-Mali-G57_MC2-1788864489.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1788864480,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1788864480.json"
   }
 ]
