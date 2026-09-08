@@ -1,5 +1,12 @@
 [
   {
+    "game": "RushRallyOrigins",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1788867414,
+    "filename": "RushRallyOrigins-AYANEO-Pocket_FIT-Adreno__TM__750-1788867414.json"
+  },
+  {
     "game": "Fuel",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1788853024,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1788853024.json"
-  },
-  {
-    "game": "LGTS",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1788851986,
-    "filename": "LGTS-AYN-AYN_Thor-Adreno__TM__740-1788851986.json"
   }
 ]
