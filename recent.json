@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "X710",
+    "device": "Adreno__TM__740",
+    "timestamp": 1788834872,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-X710-Adreno__TM__740-1788834872.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1788801933,
     "filename": "Battlefield_3_______________________________________________-realme-RMX5566-Adreno__TM__610-1788801933.json"
-  },
-  {
-    "game": "Green_Hell",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1788800740,
-    "filename": "Green_Hell-Xiaomi-25053PC47G-Adreno__TM__825-1788800740.json"
   }
 ]
