@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1788887126,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23122PCD1G-Adreno__TM__710-1788887126.json"
+  },
+  {
     "game": "Sifu",
     "manufacturer": "MEIZU_21",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1788872796,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-INFINIX-Infinix_X6525-Mali-G57-1788872796.json"
-  },
-  {
-    "game": "FIFA_22",
-    "manufacturer": "S948B",
-    "device": "Adreno__TM__840",
-    "timestamp": 1788872464,
-    "filename": "FIFA_22-samsung-SM-S948B-Adreno__TM__840-1788872464.json"
   }
 ]
