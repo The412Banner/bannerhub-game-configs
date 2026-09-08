@@ -1,5 +1,12 @@
 [
   {
+    "game": "Yanpai_Simulator",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1788830620,
+    "filename": "Yanpai_Simulator-samsung-SM-A176B-Mali-G68-1788830620.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "RMX5051",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1788800733,
     "filename": "Green_Hell-Xiaomi-25053PC47G-Adreno__TM__825-1788800733.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "CPH2669",
-    "device": "Adreno__TM__610",
-    "timestamp": 1788800370,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2669-Adreno__TM__610-1788800370.json"
   }
 ]
