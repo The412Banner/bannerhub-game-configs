@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1788846788,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1788846788.json"
+  },
+  {
     "game": "Granblue_Fantasy__Relink",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1788837025,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G973F-Mali-G76-1788837025.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "X710",
-    "device": "Adreno__TM__740",
-    "timestamp": 1788834872,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-X710-Adreno__TM__740-1788834872.json"
   }
 ]
