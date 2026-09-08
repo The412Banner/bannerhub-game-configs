@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shift_At_Midnight_Demo",
+    "manufacturer": "OPPO_A3",
+    "device": "Adreno__TM__610",
+    "timestamp": 1788868168,
+    "filename": "Shift_At_Midnight_Demo-OPPO-OPPO_A3-Adreno__TM__610-1788868168.json"
+  },
+  {
     "game": "A_Short_Hike",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1788867414,
     "filename": "RushRallyOrigins-AYANEO-Pocket_FIT-Adreno__TM__750-1788867414.json"
-  },
-  {
-    "game": "Fuel",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1788867406,
-    "filename": "Fuel-AYANEO-Pocket_FIT-Adreno__TM__750-1788867406.json"
   }
 ]
