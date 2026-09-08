@@ -1,5 +1,12 @@
 [
   {
+    "game": "CARRION",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1788867479,
+    "filename": "CARRION-AYANEO-Pocket_FIT-Adreno__TM__750-1788867479.json"
+  },
+  {
     "game": "Lonely_Mountains__Snow_Riders",
     "manufacturer": "Pocket_FIT",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1788865516,
     "filename": "Far_Cry__New_Dawn-vivo-V2352A-Adreno__TM__735-1788865516.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788864489,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KL8-Mali-G57_MC2-1788864489.json"
   }
 ]
