@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47I",
+    "device": "Adreno__TM__825",
+    "timestamp": 1788857855,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47I-Adreno__TM__825-1788857855.json"
+  },
+  {
     "game": "Asphalt_Legends_",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1788838703,
     "filename": "Incendium_Installer-Xiaomi-25053PC47G-Adreno__TM__825-1788838703.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1788838480,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A035M-Mali-G57-1788838480.json"
   }
 ]
