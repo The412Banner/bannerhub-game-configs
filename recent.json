@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1788832014,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24090RA29C-Mali-G615_MC2-1788832014.json"
+  },
+  {
     "game": "Yanpai_Simulator",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1788800740,
     "filename": "Green_Hell-Xiaomi-25053PC47G-Adreno__TM__825-1788800740.json"
-  },
-  {
-    "game": "Green_Hell",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1788800733,
-    "filename": "Green_Hell-Xiaomi-25053PC47G-Adreno__TM__825-1788800733.json"
   }
 ]
