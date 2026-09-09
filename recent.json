@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES2017_Play_Disini",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1788937545,
+    "filename": "PES2017_Play_Disini-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788937545.json"
+  },
+  {
     "game": "TheCensor",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1788907520,
     "filename": "PlayGTAV-Xiaomi-25028PC03G-Mali-G57-1788907520.json"
-  },
-  {
-    "game": "F_E_A_R_",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1788907121,
-    "filename": "F_E_A_R_-ayn-Odin3-Adreno__TM__830-1788907121.json"
   }
 ]
