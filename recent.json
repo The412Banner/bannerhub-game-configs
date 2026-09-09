@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "23124RA7EO",
+    "device": "Adreno__TM__610",
+    "timestamp": 1788954401,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-23124RA7EO-Adreno__TM__610-1788954401.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1788918021,
     "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-A057M-Adreno__TM__610-1788918021.json"
-  },
-  {
-    "game": "Dying_Light",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788917582,
-    "filename": "Dying_Light-Xiaomi-24117RN76L-Mali-G57_MC2-1788917582.json"
   }
 ]
