@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1788987952,
+    "filename": "Hollow_Knight__Silksong-TECNO-TECNO_LJ9-Mali-G615_MC6-1788987952.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1788967990,
     "filename": "Marsupilami_2_-_Salsa_Palombia-AYANEO-Pocket_FIT-Adreno__TM__750-1788967990.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__650",
-    "timestamp": 1788967070,
-    "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-DBY-W09-Adreno__TM__650-1788967070.json"
   }
 ]
