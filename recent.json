@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1788997571,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788997571.json"
+  },
+  {
     "game": "GIANTS_Engine",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1788980017,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A165M-Mali-G57_MC2-1788980017.json"
-  },
-  {
-    "game": "Resident_Evil_4__2005_",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1788977036,
-    "filename": "Resident_Evil_4__2005_-Xiaomi-23049PCD8G-Adreno__TM__725-1788977036.json"
   }
 ]
