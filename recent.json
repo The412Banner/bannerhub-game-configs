@@ -1,5 +1,12 @@
 [
   {
+    "game": "GIANTS_Engine",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1788996903,
+    "filename": "GIANTS_Engine-Xiaomi-25053PC47G-Adreno__TM__825-1788996903.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1788977036,
     "filename": "Resident_Evil_4__2005_-Xiaomi-23049PCD8G-Adreno__TM__725-1788977036.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1788975673,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Daria-DM-B70104-Mali-G615_MC6-1788975673.json"
   }
 ]
