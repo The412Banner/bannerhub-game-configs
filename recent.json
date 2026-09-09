@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheCensor",
+    "manufacturer": "OPD2415",
+    "device": "Adreno__TM__830",
+    "timestamp": 1788935531,
+    "filename": "TheCensor-OnePlus-OPD2415-Adreno__TM__830-1788935531.json"
+  },
+  {
     "game": "ARMORED_CORE__VI_FIRES_OF_RUBICON_",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1788907121,
     "filename": "F_E_A_R_-ayn-Odin3-Adreno__TM__830-1788907121.json"
-  },
-  {
-    "game": "PES2017_Play_Disini",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1788907060,
-    "filename": "PES2017_Play_Disini-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788907060.json"
   }
 ]
