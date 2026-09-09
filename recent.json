@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wandering_Sword",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1788981351,
+    "filename": "Wandering_Sword-INFINIX-Infinix_X6873-Mali-G615_MC6-1788981351.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1788960150,
     "filename": "unins000-Xiaomi-25053PC47G-Adreno__TM__825-1788960150.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1788958646,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1788958646.json"
   }
 ]
