@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_app",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1788949764,
+    "filename": "EA_app-Xiaomi-23106RN0DA-Mali-G52_MC2-1788949764.json"
+  },
+  {
     "game": "Little_Nightmares_II",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1788916059,
     "filename": "Resident_Evil_4-samsung-SM-S918U1-Adreno__TM__740-1788916059.json"
-  },
-  {
-    "game": "Mortal_Shell",
-    "manufacturer": "N49",
-    "device": "Adreno__TM__750",
-    "timestamp": 1788912797,
-    "filename": "Mortal_Shell-HONOR-BVL-N49-Adreno__TM__750-1788912797.json"
   }
 ]
