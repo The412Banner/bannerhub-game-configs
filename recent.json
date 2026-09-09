@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "CPH2059",
+    "device": "Adreno__TM__610",
+    "timestamp": 1788931686,
+    "filename": "Pro_Evolution_Soccer_2017-OPPO-CPH2059-Adreno__TM__610-1788931686.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1788907044,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788907044.json"
-  },
-  {
-    "game": "Toontown_Rewritten",
-    "manufacturer": "Retroid_Pocket_6",
-    "device": "Adreno__TM__740",
-    "timestamp": 1788906803,
-    "filename": "Toontown_Rewritten-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1788906803.json"
   }
 ]
