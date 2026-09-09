@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "24122RKC7G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1788974751,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24122RKC7G-Adreno__TM__830-1788974751.json"
+  },
+  {
     "game": "Ryse__TM_",
     "manufacturer": "N986U",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1788956792,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1788956792.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider_",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1788955484,
-    "filename": "Rise_of_the_Tomb_Raider_-motorola-motorola_edge_60_fusion-Mali-G615_MC2-1788955484.json"
   }
 ]
