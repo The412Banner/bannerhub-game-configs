@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788962610,
+    "filename": "Mafia_II__Classic_-INFINIX-Infinix_X6886-Mali-G57_MC2-1788962610.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1788935531,
     "filename": "TheCensor-OnePlus-OPD2415-Adreno__TM__830-1788935531.json"
-  },
-  {
-    "game": "ARMORED_CORE__VI_FIRES_OF_RUBICON_",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1788934770,
-    "filename": "ARMORED_CORE__VI_FIRES_OF_RUBICON_-ayn-Odin3-Adreno__TM__830-1788934770.json"
   }
 ]
