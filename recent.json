@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1788997798,
+    "filename": "PlayGTAV-Xiaomi-23117RA68G-Mali-G57_MC2-1788997798.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1788981351,
     "filename": "Wandering_Sword-INFINIX-Infinix_X6873-Mali-G615_MC6-1788981351.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788980017,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A165M-Mali-G57_MC2-1788980017.json"
   }
 ]
