@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ryse__TM_",
+    "manufacturer": "N986U",
+    "device": "Adreno__TM__650",
+    "timestamp": 1788974685,
+    "filename": "Ryse__TM_-samsung-SM-N986U-Adreno__TM__650-1788974685.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1788955484,
     "filename": "Rise_of_the_Tomb_Raider_-motorola-motorola_edge_60_fusion-Mali-G615_MC2-1788955484.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "23124RA7EO",
-    "device": "Adreno__TM__610",
-    "timestamp": 1788954401,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-23124RA7EO-Adreno__TM__610-1788954401.json"
   }
 ]
