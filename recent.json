@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1788918021,
+    "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-A057M-Adreno__TM__610-1788918021.json"
+  },
+  {
     "game": "Dying_Light",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1788895326,
     "filename": "WorldBox_-_God_Simulator-motorola-moto_g75_5G-Adreno__TM__710-1788895326.json"
-  },
-  {
-    "game": "The_Witcher_2_-_Assassins_of_Kings_Enhanced_Edition_________",
-    "manufacturer": "Mali",
-    "device": "G77",
-    "timestamp": 1788893056,
-    "filename": "The_Witcher_2_-_Assassins_of_Kings_Enhanced_Edition_________-samsung-SM-G985F-Mali-G77-1788893056.json"
   }
 ]
