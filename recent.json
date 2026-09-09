@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1788955484,
+    "filename": "Rise_of_the_Tomb_Raider_-motorola-motorola_edge_60_fusion-Mali-G615_MC2-1788955484.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "23124RA7EO",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1788918604,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g75_5G-Adreno__TM__710-1788918604.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1788918021,
-    "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-A057M-Adreno__TM__610-1788918021.json"
   }
 ]
