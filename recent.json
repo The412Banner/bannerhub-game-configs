@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "LX2P",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1789068289,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-GFY-LX2P-PowerVR_Rogue_GE8320-1789068289.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G610_MC6",
     "timestamp": 1789066442,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1789038632,
     "filename": "___3____________-LENOVO-TB321FU-Adreno__TM__750-1789038632.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1789036347,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G998B-Mali-G78-1789036347.json"
   }
 ]
