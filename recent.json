@@ -1,5 +1,12 @@
 [
   {
+    "game": "sgre_steam",
+    "manufacturer": "X900",
+    "device": "Adreno__TM__730",
+    "timestamp": 1789057520,
+    "filename": "sgre_steam-samsung-SM-X900-Adreno__TM__730-1789057520.json"
+  },
+  {
     "game": "NFS_MW_Redux_V3",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1789034661,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2510ERA8BG-Adreno__TM__810-1789034661.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "S711B",
-    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
-    "timestamp": 1789031129,
-    "filename": "Left_4_Dead_2-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1789031129.json"
   }
 ]
