@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1789017522,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-24095PCADG-Mali-G615_MC2-1789017522.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1788994672,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1788994672.json"
-  },
-  {
-    "game": "GRID_2",
-    "manufacturer": "S926B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1788991837,
-    "filename": "GRID_2-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1788991837.json"
   }
 ]
