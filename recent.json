@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1789002918,
+    "filename": "Euro_Truck_Simulator_2-HONOR-ABR-NX1-PowerVR_B-Series_BXM-8-256-1789002918.json"
+  },
+  {
     "game": "RESIDENT_EVIL_5",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1788984470,
     "filename": "The_Elder_Scrolls_V__Skyrim-AYN-AYN_Thor-Adreno__TM__740-1788984470.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "I2501",
-    "device": "Adreno__TM__650",
-    "timestamp": 1788983724,
-    "filename": "BootstrapPackagedGame-vivo-I2501-Adreno__TM__650-1788983724.json"
   }
 ]
