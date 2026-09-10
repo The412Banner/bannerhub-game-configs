@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dying_Light",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1789026645,
+    "filename": "Dying_Light-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789026645.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1788995767,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2410FPCC5G-Mali-G52_MC2-1788995767.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1788994672,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1788994672.json"
   }
 ]
