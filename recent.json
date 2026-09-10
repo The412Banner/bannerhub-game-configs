@@ -1,5 +1,12 @@
 [
   {
+    "game": "WITCH_ON_THE_HOLY_NIGHT",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789060307,
+    "filename": "WITCH_ON_THE_HOLY_NIGHT-TECNO-TECNO_LH7n-Mali-G57_MC2-1789060307.json"
+  },
+  {
     "game": "sgre_steam",
     "manufacturer": "X900",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789035059,
     "filename": "Resident_Evil_6-samsung-SM-A165M-Mali-G57_MC2-1789035059.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2510ERA8BG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1789034661,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2510ERA8BG-Adreno__TM__810-1789034661.json"
   }
 ]
