@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1789052317,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g55_5G-PowerVR_B-Series_BXM-8-256-1789052317.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
     "timestamp": 1789051923,
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
     "timestamp": 1789030595,
     "filename": "Left_4_Dead_2-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1789030595.json"
-  },
-  {
-    "game": "Boxman",
-    "manufacturer": "23129RAA4G",
-    "device": "SM6225",
-    "timestamp": 1789029960,
-    "filename": "Boxman-Xiaomi-23129RAA4G-SM6225-1789029960.json"
   }
 ]
