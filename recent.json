@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2510ERA8BG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1789034661,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2510ERA8BG-Adreno__TM__810-1789034661.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "S711B",
     "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1788999681,
     "filename": "BootstrapPackagedGame-nubia-NX741J-Adreno__TM__840-1788999681.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1788997798,
-    "filename": "PlayGTAV-Xiaomi-23117RA68G-Mali-G57_MC2-1788997798.json"
   }
 ]
