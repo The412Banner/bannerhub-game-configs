@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFS_MW_Redux_V3",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1789055824,
+    "filename": "NFS_MW_Redux_V3-Xiaomi-24069PC21G-Adreno__TM__735-1789055824.json"
+  },
+  {
     "game": "PRAGMATA",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
     "timestamp": 1789031129,
     "filename": "Left_4_Dead_2-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1789031129.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "S711B",
-    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
-    "timestamp": 1789030822,
-    "filename": "Left_4_Dead_2-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1789030822.json"
   }
 ]
