@@ -1,5 +1,12 @@
 [
   {
+    "game": "LustsCupid",
+    "manufacturer": "motorola_edge_20_pro",
+    "device": "Adreno__TM__650",
+    "timestamp": 1789008826,
+    "filename": "LustsCupid-motorola-motorola_edge_20_pro-Adreno__TM__650-1789008826.json"
+  },
+  {
     "game": "AlienQuest-EVE",
     "manufacturer": "motorola_edge_20_pro",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1788987952,
     "filename": "Hollow_Knight__Silksong-TECNO-TECNO_LJ9-Mali-G615_MC6-1788987952.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1788987409,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1788987409.json"
   }
 ]
