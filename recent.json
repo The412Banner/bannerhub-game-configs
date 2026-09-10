@@ -1,5 +1,12 @@
 [
   {
+    "game": "___3____________",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1789038632,
+    "filename": "___3____________-LENOVO-TB321FU-Adreno__TM__750-1789038632.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789006377,
     "filename": "Euro_Truck_Simulator_2-Blackview-MEGA_8-Mali-G57-1789006377.json"
-  },
-  {
-    "game": "LEGO__Batman__2__DC_Super_Heroes",
-    "manufacturer": "25118PC98G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1789003291,
-    "filename": "LEGO__Batman__2__DC_Super_Heroes-Xiaomi-25118PC98G-Adreno__TM__710-1789003291.json"
   }
 ]
