@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1789043132,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G998B-Mali-G78-1789043132.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1789008722,
     "filename": "AlienQuest-EVE-motorola-motorola_edge_20_pro-Adreno__TM__650-1789008722.json"
-  },
-  {
-    "game": "AlienQuest-EVE",
-    "manufacturer": "motorola_edge_20_pro",
-    "device": "Adreno__TM__650",
-    "timestamp": 1789008715,
-    "filename": "AlienQuest-EVE-motorola-motorola_edge_20_pro-Adreno__TM__650-1789008715.json"
   }
 ]
