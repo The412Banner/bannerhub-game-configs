@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1789046712,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e13-Mali-G57-1789046712.json"
+  },
+  {
     "game": "The_Witcher_3__Wild_Hunt",
     "manufacturer": "24091RPADG",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1789008846,
     "filename": "pprincess_reconquist-motorola-motorola_edge_20_pro-Adreno__TM__650-1789008846.json"
-  },
-  {
-    "game": "LustsCupid",
-    "manufacturer": "motorola_edge_20_pro",
-    "device": "Adreno__TM__650",
-    "timestamp": 1789008826,
-    "filename": "LustsCupid-motorola-motorola_edge_20_pro-Adreno__TM__650-1789008826.json"
   }
 ]
