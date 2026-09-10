@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Rogue_Prince_of_Persia",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1789069644,
+    "filename": "The_Rogue_Prince_of_Persia-samsung-SM-A346E-Mali-G68_MC4-1789069644.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "LX2P",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1789040636,
     "filename": "Far_Cry__5-Xiaomi-25053PC47I-Adreno__TM__825-1789040636.json"
-  },
-  {
-    "game": "___3____________",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1789038632,
-    "filename": "___3____________-LENOVO-TB321FU-Adreno__TM__750-1789038632.json"
   }
 ]
