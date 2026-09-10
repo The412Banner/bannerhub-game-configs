@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1789079757,
+    "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-nubia-NX799J-Adreno__TM__830-1789079757.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789049368,
     "filename": "_____2019-realme-RMX3834-Mali-G57-1789049368.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1789049323,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789049323.json"
   }
 ]
