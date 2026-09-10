@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "NX741J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1788999681,
+    "filename": "BootstrapPackagedGame-nubia-NX741J-Adreno__TM__840-1788999681.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1788982384,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1788982384.json"
-  },
-  {
-    "game": "Wandering_Sword",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1788981351,
-    "filename": "Wandering_Sword-INFINIX-Infinix_X6873-Mali-G615_MC6-1788981351.json"
   }
 ]
