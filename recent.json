@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bully",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1789028686,
+    "filename": "Bully-Anbernic-RG557-Mali-G615_MC6-1789028686.json"
+  },
+  {
     "game": "Dying_Light",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1788995826,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2410FPCC5G-Mali-G52_MC2-1788995826.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1788995767,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2410FPCC5G-Mali-G52_MC2-1788995767.json"
   }
 ]
