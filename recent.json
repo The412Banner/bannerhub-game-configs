@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1789051923,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24095PCADG-Mali-G615_MC2-1789051923.json"
+  },
+  {
     "game": "iw3sp",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "SM6225",
     "timestamp": 1789029960,
     "filename": "Boxman-Xiaomi-23129RAA4G-SM6225-1789029960.json"
-  },
-  {
-    "game": "Bully",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1789028686,
-    "filename": "Bully-Anbernic-RG557-Mali-G615_MC6-1789028686.json"
   }
 ]
