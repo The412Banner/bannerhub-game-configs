@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Adventures_of_Elliot_The_Millennium_Tales",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1789105749,
+    "filename": "The_Adventures_of_Elliot_The_Millennium_Tales-Xiaomi-25079RPDCG-Mali-G925-Immortalis_MC12-1789105749.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1789085312,
     "filename": "Metro_2033_Redux-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789085312.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789085163,
-    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6881-Mali-G57_MC2-1789085163.json"
   }
 ]
