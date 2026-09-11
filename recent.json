@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1789101010,
+    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_BG6-Mali-G57-1789101010.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789082300,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3930-Mali-G57-1789082300.json"
-  },
-  {
-    "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1789079757,
-    "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-nubia-NX799J-Adreno__TM__830-1789079757.json"
   }
 ]
