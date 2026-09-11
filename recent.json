@@ -1,5 +1,12 @@
 [
   {
+    "game": "BattlEye_Launcher",
+    "manufacturer": "NX769J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1789138093,
+    "filename": "BattlEye_Launcher-nubia-NX769J-Adreno__TM__750-1789138093.json"
+  },
+  {
     "game": "LEGEND_NEVER_DIE_2020-2021___",
     "manufacturer": "M145F",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789101017,
     "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_BG6-Mali-G57-1789101017.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789101010,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_BG6-Mali-G57-1789101010.json"
   }
 ]
