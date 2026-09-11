@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1789159132,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1789159132.json"
+  },
+  {
     "game": "Project_Lightning___________________________________________",
     "manufacturer": "Infinix_X6816",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789139924,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2502FRA65G-Mali-G57_MC2-1789139924.json"
-  },
-  {
-    "game": "BattlEye_Launcher",
-    "manufacturer": "NX769J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1789138093,
-    "filename": "BattlEye_Launcher-nubia-NX769J-Adreno__TM__750-1789138093.json"
   }
 ]
