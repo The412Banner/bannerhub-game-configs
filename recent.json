@@ -1,5 +1,12 @@
 [
   {
+    "game": "Decktamer_Demo",
+    "manufacturer": "SOG09",
+    "device": "Adreno__TM__730",
+    "timestamp": 1789131846,
+    "filename": "Decktamer_Demo-Sony-SOG09-Adreno__TM__730-1789131846.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1789093381,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g86_5G-Mali-G615_MC2-1789093381.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX729J",
-    "device": "Adreno__TM__740",
-    "timestamp": 1789092621,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX729J-Adreno__TM__740-1789092621.json"
   }
 ]
