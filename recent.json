@@ -3,6 +3,13 @@
     "game": "MotoGP17",
     "manufacturer": "Mali",
     "device": "G610_MC6",
+    "timestamp": 1789162081,
+    "filename": "MotoGP17-INFINIX-Infinix_X6871-Mali-G610_MC6-1789162081.json"
+  },
+  {
+    "game": "MotoGP17",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
     "timestamp": 1789162049,
     "filename": "MotoGP17-INFINIX-Infinix_X6871-Mali-G610_MC6-1789162049.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789143489,
     "filename": "Pro_Evolution_Soccer_2013-HMD_Global-Nokia_G11_Plus-Mali-G57-1789143489.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "S908E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1789142146,
-    "filename": "_____2019-samsung-SM-S908E-Adreno__TM__730-1789142146.json"
   }
 ]
