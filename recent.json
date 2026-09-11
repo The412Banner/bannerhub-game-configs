@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1789091493,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_neo-Mali-G615_MC2-1789091493.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1789069644,
     "filename": "The_Rogue_Prince_of_Persia-samsung-SM-A346E-Mali-G68_MC4-1789069644.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "LX2P",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1789068289,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-GFY-LX2P-PowerVR_Rogue_GE8320-1789068289.json"
   }
 ]
