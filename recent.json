@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGEND_NEVER_DIE_2020-2021___",
+    "manufacturer": "M145F",
+    "device": "Adreno__TM__610",
+    "timestamp": 1789137893,
+    "filename": "LEGEND_NEVER_DIE_2020-2021___-samsung-SM-M145F-Adreno__TM__610-1789137893.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789101010,
     "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_BG6-Mali-G57-1789101010.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1789100838,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789100838.json"
   }
 ]
