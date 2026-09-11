@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castle_Crashers",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1789167445,
+    "filename": "Castle_Crashers-Xiaomi-2311DRK48G-Mali-G615_MC6-1789167445.json"
+  },
+  {
     "game": "___2",
     "manufacturer": "V2141A",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789143678,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1789143678.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789143515,
-    "filename": "Pro_Evolution_Soccer_2013-HMD_Global-Nokia_G11_Plus-Mali-G57-1789143515.json"
   }
 ]
