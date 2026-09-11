@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Pocket_FIT",
+    "device": "Adreno__TM__750",
+    "timestamp": 1789161482,
+    "filename": "BootstrapPackagedGame-AYANEO-Pocket_FIT-Adreno__TM__750-1789161482.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1789141414,
     "filename": "The_Binding_of_Isaac-Xiaomi-25053RT47C-Adreno__TM__825-1789141414.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789139924,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2502FRA65G-Mali-G57_MC2-1789139924.json"
   }
 ]
