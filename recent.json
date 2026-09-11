@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789085163,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6881-Mali-G57_MC2-1789085163.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1789050348,
     "filename": "iw3sp-Xiaomi-2306EPN60G-Mali-G610_MC6-1789050348.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789049476,
-    "filename": "_____2019-realme-RMX3834-Mali-G57-1789049476.json"
   }
 ]
