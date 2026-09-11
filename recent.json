@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1789126843,
+    "filename": "BootstrapPackagedGame-Xiaomi-23106RN0DA-Mali-G52_MC2-1789126843.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1789091765,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2010J19SG-Adreno__TM__610-1789091765.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1789091493,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_neo-Mali-G615_MC2-1789091493.json"
   }
 ]
