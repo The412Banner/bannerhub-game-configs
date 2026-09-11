@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1789134213,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1789134213.json"
+  },
+  {
     "game": "Just_Cause_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1789096206,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789096206.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "V2338A",
-    "device": "Adreno__TM__740",
-    "timestamp": 1789093798,
-    "filename": "BootstrapPackagedGame-vivo-V2338A-Adreno__TM__740-1789093798.json"
   }
 ]
