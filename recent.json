@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1789093381,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g86_5G-Mali-G615_MC2-1789093381.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX729J",
     "device": "Adreno__TM__740",
     "timestamp": 1789092621,
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1789077292,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2409BRN2CL-Mali-G52_MC2-1789077292.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1789077047,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-2409BRN2CL-Mali-G52_MC2-1789077047.json"
   }
 ]
