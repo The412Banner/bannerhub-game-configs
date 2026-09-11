@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1789120967,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1789120967.json"
+  },
+  {
     "game": "BeamNG_drive",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1789087524,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1789087524.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "ANGLE__Qualcomm__Vulkan_1_3_284__Adreno__TM__830__0x44050001____Qualcomm_Technologies_Inc__Adreno_Vulkan_Driver",
-    "device": "512_800_71_",
-    "timestamp": 1789086078,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2510DPC44G-ANGLE__Qualcomm__Vulkan_1_3_284__Adreno__TM__830__0x44050001____Qualcomm_Technologies_Inc__Adreno_Vulkan_Driver-512_800_71_-1789086078.json"
   }
 ]
