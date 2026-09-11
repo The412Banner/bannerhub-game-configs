@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1789087524,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1789087524.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "ANGLE__Qualcomm__Vulkan_1_3_284__Adreno__TM__830__0x44050001____Qualcomm_Technologies_Inc__Adreno_Vulkan_Driver",
     "device": "512_800_71_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1789055824,
     "filename": "NFS_MW_Redux_V3-Xiaomi-24069PC21G-Adreno__TM__735-1789055824.json"
-  },
-  {
-    "game": "PRAGMATA",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1789052685,
-    "filename": "PRAGMATA-nubia-NX809J-Adreno__TM__840-1789052685.json"
   }
 ]
