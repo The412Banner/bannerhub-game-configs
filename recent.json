@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1789089695,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1789089695.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1789064623,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-25078RA3EA-Mali-G52_MC2-1789064623.json"
-  },
-  {
-    "game": "WITCH_ON_THE_HOLY_NIGHT",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789060307,
-    "filename": "WITCH_ON_THE_HOLY_NIGHT-TECNO-TECNO_LH7n-Mali-G57_MC2-1789060307.json"
   }
 ]
