@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789139924,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2502FRA65G-Mali-G57_MC2-1789139924.json"
+  },
+  {
     "game": "BattlEye_Launcher",
     "manufacturer": "NX769J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1789105749,
     "filename": "The_Adventures_of_Elliot_The_Millennium_Tales-Xiaomi-25079RPDCG-Mali-G925-Immortalis_MC12-1789105749.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789101017,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_BG6-Mali-G57-1789101017.json"
   }
 ]
