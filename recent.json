@@ -1,5 +1,12 @@
 [
   {
+    "game": "S_T_A_L_K_E_R__________________v1_0006______________________",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1789155520,
+    "filename": "S_T_A_L_K_E_R__________________v1_0006______________________-Xiaomi-M2102J20SG-Adreno__TM__640-1789155520.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "NX3",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1789133426,
     "filename": "Just_Cause_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789133426.json"
-  },
-  {
-    "game": "Decktamer_Demo",
-    "manufacturer": "SOG09",
-    "device": "Adreno__TM__730",
-    "timestamp": 1789131846,
-    "filename": "Decktamer_Demo-Sony-SOG09-Adreno__TM__730-1789131846.json"
   }
 ]
