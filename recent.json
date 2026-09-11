@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "N970U",
+    "device": "Adreno__TM__640",
+    "timestamp": 1789147258,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-samsung-SM-N970U-Adreno__TM__640-1789147258.json"
+  },
+  {
     "game": "_____2019",
     "manufacturer": "S908E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1789124934,
     "filename": "unins000-TECNO-TECNO_LJ7-Mali-G615_MC2-1789124934.json"
-  },
-  {
-    "game": "unins000",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1789124652,
-    "filename": "unins000-TECNO-TECNO_LJ7-Mali-G615_MC2-1789124652.json"
   }
 ]
