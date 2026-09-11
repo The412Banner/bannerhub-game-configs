@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "NX3",
+    "device": "Adreno__TM__710",
+    "timestamp": 1789154065,
+    "filename": "Resident_Evil_5-HONOR-BRP-NX3-Adreno__TM__710-1789154065.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S926B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1789131846,
     "filename": "Decktamer_Demo-Sony-SOG09-Adreno__TM__730-1789131846.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1789126848,
-    "filename": "BootstrapPackagedGame-Xiaomi-23106RN0DA-Mali-G52_MC2-1789126848.json"
   }
 ]
