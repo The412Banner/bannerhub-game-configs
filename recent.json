@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A566B",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1789205258,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1789205258.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2410CRP4CG",
     "device": "Adreno__TM__732",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1789168159,
     "filename": "Need_for_Speed__Most_Wanted-motorola-moto_g45_5G-Adreno__TM__619-1789168159.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Pocket_FIT",
-    "device": "Adreno__TM__750",
-    "timestamp": 1789168079,
-    "filename": "BootstrapPackagedGame-AYANEO-Pocket_FIT-Adreno__TM__750-1789168079.json"
   }
 ]
