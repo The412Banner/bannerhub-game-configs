@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789216635,
+    "filename": "Need_for_Speed_9-samsung-SM-A075M-Mali-G57_MC2-1789216635.json"
+  },
+  {
     "game": "_____",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1789187177,
     "filename": "My_Summer_Car_______________________________________________-TECNO-TECNO_KL6-Mali-G52_MC2-1789187177.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1789183659,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_KI7-Mali-G52_MC2-1789183659.json"
   }
 ]
