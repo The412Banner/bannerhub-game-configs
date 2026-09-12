@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1789250639,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1789250639.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G615_MC6",
     "timestamp": 1789248076,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1789248076.json"
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789224776,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1789224776.json"
-  },
-  {
-    "game": "Mortal_Kombat_X",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789221737,
-    "filename": "Mortal_Kombat_X-Xiaomi-23117RA68G-Mali-G57_MC2-1789221737.json"
   }
 ]
