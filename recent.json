@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23122PCD1I",
+    "device": "Adreno__TM__710",
+    "timestamp": 1789171380,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23122PCD1I-Adreno__TM__710-1789171380.json"
+  },
+  {
     "game": "Need_for_Speed__Most_Wanted",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1789145085,
     "filename": "_____2019-samsung-SM-S908E-Adreno__TM__730-1789145085.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789143970,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1789143970.json"
   }
 ]
