@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hod2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789235923,
+    "filename": "Hod2-CUBOT-KINGKONG_9-Mali-G57_MC2-1789235923.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789215616,
     "filename": "PRO_EVOLUTION_SOCCER_2018-ELEVIA-EL-E110-Mali-G57_MC2-1789215616.json"
-  },
-  {
-    "game": "How_to__",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789215584,
-    "filename": "How_to__-ITEL-itel_C671L-Mali-G57-1789215584.json"
   }
 ]
