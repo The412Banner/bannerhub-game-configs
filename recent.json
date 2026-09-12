@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1789230021,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-INFINIX-Infinix_X6873-Mali-G615_MC6-1789230021.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1789209461,
     "filename": "Megabonk-Xiaomi-23049PCD8G-Adreno__TM__725-1789209461.json"
-  },
-  {
-    "game": "Supermarket_Simulator__Prologue",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789209165,
-    "filename": "Supermarket_Simulator__Prologue-INFINIX-Infinix_X6833B-Mali-G57_MC2-1789209165.json"
   }
 ]
