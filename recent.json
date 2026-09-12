@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789229378,
+    "filename": "Need_for_Speed_9-samsung-SM-A075M-Mali-G57_MC2-1789229378.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A376B",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789209165,
     "filename": "Supermarket_Simulator__Prologue-INFINIX-Infinix_X6833B-Mali-G57_MC2-1789209165.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "23021RAAEG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1789208617,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23021RAAEG-Adreno__TM__610-1789208617.json"
   }
 ]
