@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789215616,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-ELEVIA-EL-E110-Mali-G57_MC2-1789215616.json"
+  },
+  {
     "game": "How_to__",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1789183303,
     "filename": "umvc3-LENOVO-TB321FU-Adreno__TM__750-1789183303.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789180835,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A075M-Mali-G57_MC2-1789180835.json"
   }
 ]
