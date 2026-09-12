@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ori_and_the_Will_of_the_Wisps",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789176376,
+    "filename": "Ori_and_the_Will_of_the_Wisps-INFINIX-Infinix_X6895B-Mali-G57_MC2-1789176376.json"
+  },
+  {
     "game": "tra",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789155672,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-realme-RMX5078-Mali-G57_MC2-1789155672.json"
-  },
-  {
-    "game": "S_T_A_L_K_E_R__________________v1_0006______________________",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1789155520,
-    "filename": "S_T_A_L_K_E_R__________________v1_0006______________________-Xiaomi-M2102J20SG-Adreno__TM__640-1789155520.json"
   }
 ]
