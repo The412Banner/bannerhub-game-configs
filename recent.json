@@ -1,5 +1,12 @@
 [
   {
+    "game": "IGI",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789236158,
+    "filename": "IGI-CUBOT-KINGKONG_9-Mali-G57_MC2-1789236158.json"
+  },
+  {
     "game": "Hod2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1789215646,
     "filename": "_____-ayn-Odin3-Adreno__TM__830-1789215646.json"
-  },
-  {
-    "game": "PRO_EVOLUTION_SOCCER_2018",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789215616,
-    "filename": "PRO_EVOLUTION_SOCCER_2018-ELEVIA-EL-E110-Mali-G57_MC2-1789215616.json"
   }
 ]
