@@ -1,5 +1,12 @@
 [
   {
+    "game": "Megabonk",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1789209461,
+    "filename": "Megabonk-Xiaomi-23049PCD8G-Adreno__TM__725-1789209461.json"
+  },
+  {
     "game": "Supermarket_Simulator__Prologue",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789175051,
     "filename": "tra-vivo-V2450-Mali-G57_MC2-1789175051.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1789172474,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g45_5G-Adreno__TM__619-1789172474.json"
   }
 ]
