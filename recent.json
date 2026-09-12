@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789235881,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23117RA68G-Mali-G57_MC2-1789235881.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789215584,
     "filename": "How_to__-ITEL-itel_C671L-Mali-G57-1789215584.json"
-  },
-  {
-    "game": "PRO_EVOLUTION_SOCCER_2018",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789215563,
-    "filename": "PRO_EVOLUTION_SOCCER_2018-ELEVIA-EL-E110-Mali-G57_MC2-1789215563.json"
   }
 ]
