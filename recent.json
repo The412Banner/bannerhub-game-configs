@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789198935,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6837-Mali-G57_MC2-1789198935.json"
+  },
+  {
     "game": "Need_For_Speed_TM__Most_Wanted______________________________",
     "manufacturer": "Mali",
     "device": "G610_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1789167445,
     "filename": "Castle_Crashers-Xiaomi-2311DRK48G-Mali-G615_MC6-1789167445.json"
-  },
-  {
-    "game": "___2",
-    "manufacturer": "V2141A",
-    "device": "Adreno__TM__660",
-    "timestamp": 1789162365,
-    "filename": "___2-vivo-V2141A-Adreno__TM__660-1789162365.json"
   }
 ]
