@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_Z__KAKAROT",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1789226646,
+    "filename": "DRAGON_BALL_Z__KAKAROT-ayn-Odin3-Adreno__TM__830-1789226646.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1789206873,
     "filename": "Granny_2_Enhanced-Xiaomi-2311DRK48G-Mali-G615_MC6-1789206873.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A566B",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1789205258,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1789205258.json"
   }
 ]
