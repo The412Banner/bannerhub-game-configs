@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789171798,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A075F-Mali-G57_MC2-1789171798.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23122PCD1I",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1789147258,
     "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-samsung-SM-N970U-Adreno__TM__640-1789147258.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "S908E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1789145085,
-    "filename": "_____2019-samsung-SM-S908E-Adreno__TM__730-1789145085.json"
   }
 ]
