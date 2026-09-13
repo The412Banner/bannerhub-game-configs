@@ -1,5 +1,12 @@
 [
   {
+    "game": "Will_Rock_REVOLUTION",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1789279372,
+    "filename": "Will_Rock_REVOLUTION-realme-RMX3930-Mali-G57-1789279372.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1789242726,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1789242726.json"
-  },
-  {
-    "game": "alan_wakes_american_nightmare",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1789242029,
-    "filename": "alan_wakes_american_nightmare-samsung-SM-S938B-Adreno__TM__830-1789242029.json"
   }
 ]
