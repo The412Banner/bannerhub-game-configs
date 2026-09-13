@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "V2408A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1789267464,
+    "filename": "God_of_War-vivo-V2408A-Adreno__TM__830-1789267464.json"
+  },
+  {
     "game": "Yu-Gi-Oh__Legacy_of_the_Duelist",
     "manufacturer": "V2352A",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789235923,
     "filename": "Hod2-CUBOT-KINGKONG_9-Mali-G57_MC2-1789235923.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789235881,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23117RA68G-Mali-G57_MC2-1789235881.json"
   }
 ]
