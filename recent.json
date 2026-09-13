@@ -1,5 +1,12 @@
 [
   {
+    "game": "Yu-Gi-Oh__Legacy_of_the_Duelist",
+    "manufacturer": "V2352A",
+    "device": "Adreno__TM__735",
+    "timestamp": 1789265889,
+    "filename": "Yu-Gi-Oh__Legacy_of_the_Duelist-vivo-V2352A-Adreno__TM__735-1789265889.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789235881,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23117RA68G-Mali-G57_MC2-1789235881.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1789232558,
-    "filename": "Mafia_II__Classic_-realme-RMX3771-Mali-G68_MC4-1789232558.json"
   }
 ]
