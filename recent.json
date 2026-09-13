@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "itel_A667LP",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1789283819,
+    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A667LP-PowerVR_Rogue_GE8322-1789283819.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "A057F",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789252796,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6833B-Mali-G57_MC2-1789252796.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789251423,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KM6-Mali-G57_MC2-1789251423.json"
   }
 ]
