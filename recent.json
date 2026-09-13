@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "A057F",
+    "device": "Adreno__TM__610",
+    "timestamp": 1789283535,
+    "filename": "Red_Dead_Redemption-samsung-SM-A057F-Adreno__TM__610-1789283535.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789251423,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KM6-Mali-G57_MC2-1789251423.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789250639,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1789250639.json"
   }
 ]
