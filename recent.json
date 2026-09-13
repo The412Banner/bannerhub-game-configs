@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_v1_0_2845-Goldberg",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1789317859,
+    "filename": "Grand_Theft_Auto_V_v1_0_2845-Goldberg-motorola-moto_g15-Mali-G52_MC2-1789317859.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "I2512",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1789285641,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S948B-Adreno__TM__840-1789285641.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "itel_A667LP",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1789283819,
-    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A667LP-PowerVR_Rogue_GE8322-1789283819.json"
   }
 ]
