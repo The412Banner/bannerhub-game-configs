@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw3sp",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789275187,
+    "filename": "iw3sp-TECNO-TECNO_KM9-Mali-G57_MC2-1789275187.json"
+  },
+  {
     "game": "Colin_Mcrae__Dirt_3",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1789239532,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789239532.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1789238064,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23129RA5FL-Adreno__TM__610-1789238064.json"
   }
 ]
