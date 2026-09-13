@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1789318250,
+    "filename": "Rise_of_the_Tomb_Raider_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789318250.json"
+  },
+  {
     "game": "Cyberpunk_2077",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1789306172,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S936B-Adreno__TM__830-1789306172.json"
-  },
-  {
-    "game": "GTA_V_CUTRIP_V2_optijuegos_net",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1789299352,
-    "filename": "GTA_V_CUTRIP_V2_optijuegos_net-Xiaomi-2310FPCA4G-Mali-G52_MC2-1789299352.json"
   }
 ]
