@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTAServer",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789317990,
+    "filename": "GTAServer-samsung-SM-A165F-Mali-G57_MC2-1789317990.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_v1_0_2845-Goldberg",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1789292810,
     "filename": "Stardew_Valley-Xiaomi-2311DRK48G-Mali-G615_MC6-1789292810.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "S948B",
-    "device": "Adreno__TM__840",
-    "timestamp": 1789285641,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S948B-Adreno__TM__840-1789285641.json"
   }
 ]
