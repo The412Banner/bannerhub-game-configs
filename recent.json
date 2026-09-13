@@ -1,6 +1,13 @@
 [
   {
     "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1789328412,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789328412.json"
+  },
+  {
+    "game": "Euro_Truck_Simulator_2",
     "manufacturer": "A235M",
     "device": "Adreno__TM__610",
     "timestamp": 1789327419,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1789310756,
     "filename": "NFS__Most_Wanted-samsung-SM-S9210-Adreno__TM__750-1789310756.json"
-  },
-  {
-    "game": "MONSTER_HUNTER_RISE",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1789309287,
-    "filename": "MONSTER_HUNTER_RISE-LENOVO-TB321FU-Adreno__TM__750-1789309287.json"
   }
 ]
