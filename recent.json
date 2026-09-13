@@ -1,5 +1,12 @@
 [
   {
+    "game": "Warcraft___Frozen_Throne",
+    "manufacturer": "Mali",
+    "device": "G610",
+    "timestamp": 1789314081,
+    "filename": "Warcraft___Frozen_Throne-HUAWEI-BLK-LX9-Mali-G610-1789314081.json"
+  },
+  {
     "game": "TheLongDrive",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1789280108,
     "filename": "Need_for_Speed_9-Xiaomi-2209116AG-Adreno__TM__618-1789280108.json"
-  },
-  {
-    "game": "Will_Rock_REVOLUTION",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789279372,
-    "filename": "Will_Rock_REVOLUTION-realme-RMX3930-Mali-G57-1789279372.json"
   }
 ]
