@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789264207,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1789264207.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Infinix_X669C",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1789232558,
     "filename": "Mafia_II__Classic_-realme-RMX3771-Mali-G68_MC4-1789232558.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1789232546,
-    "filename": "Mafia_II__Classic_-realme-RMX3771-Mali-G68_MC4-1789232546.json"
   }
 ]
