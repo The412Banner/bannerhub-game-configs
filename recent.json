@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "M526B",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1789341024,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M526B-Adreno__TM__642L-1789341024.json"
+  },
+  {
     "game": "NieR_Automata_",
     "manufacturer": "motorola_edge_20_pro",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1789317859,
     "filename": "Grand_Theft_Auto_V_v1_0_2845-Goldberg-motorola-moto_g15-Mali-G52_MC2-1789317859.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "I2512",
-    "device": "Adreno__TM__810",
-    "timestamp": 1789316676,
-    "filename": "DARK_SOULS___REMASTERED-vivo-I2512-Adreno__TM__810-1789316676.json"
   }
 ]
