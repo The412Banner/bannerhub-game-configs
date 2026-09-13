@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1789258993,
+    "filename": "DARK_SOULS___REMASTERED-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789258993.json"
+  },
+  {
     "game": "F1_2020",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1789229339,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A376B-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1789229339.json"
-  },
-  {
-    "game": "Ajay_Prefix_Pro_v1_8_offline_Installer__1_",
-    "manufacturer": "NX711J",
-    "device": "Adreno__TM__740",
-    "timestamp": 1789228217,
-    "filename": "Ajay_Prefix_Pro_v1_8_offline_Installer__1_-nubia-NX711J-Adreno__TM__740-1789228217.json"
   }
 ]
