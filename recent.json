@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1789309268,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1789309268.json"
+  },
+  {
     "game": "NFS__MW",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1789267464,
     "filename": "God_of_War-vivo-V2408A-Adreno__TM__830-1789267464.json"
-  },
-  {
-    "game": "Yu-Gi-Oh__Legacy_of_the_Duelist",
-    "manufacturer": "V2352A",
-    "device": "Adreno__TM__735",
-    "timestamp": 1789265889,
-    "filename": "Yu-Gi-Oh__Legacy_of_the_Duelist-vivo-V2352A-Adreno__TM__735-1789265889.json"
   }
 ]
