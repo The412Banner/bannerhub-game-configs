@@ -1,5 +1,12 @@
 [
   {
+    "game": "MONSTER_HUNTER_RISE",
+    "manufacturer": "TB321FU",
+    "device": "Adreno__TM__750",
+    "timestamp": 1789309287,
+    "filename": "MONSTER_HUNTER_RISE-LENOVO-TB321FU-Adreno__TM__750-1789309287.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1789268882,
     "filename": "Pro_Evolution_Soccer_2013-ZTE-ZTE_8030-PowerVR_Rogue_GE8322-1789268882.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "V2408A",
-    "device": "Adreno__TM__830",
-    "timestamp": 1789267464,
-    "filename": "God_of_War-vivo-V2408A-Adreno__TM__830-1789267464.json"
   }
 ]
