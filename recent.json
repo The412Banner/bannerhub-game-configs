@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1789275461,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e13-Mali-G57-1789275461.json"
+  },
+  {
     "game": "iw3sp",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1789242029,
     "filename": "alan_wakes_american_nightmare-samsung-SM-S938B-Adreno__TM__830-1789242029.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1789239532,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789239532.json"
   }
 ]
