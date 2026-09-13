@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1789319519,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2102J20SG-Adreno__TM__640-1789319519.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1789307310,
     "filename": "NFS__MW-Xiaomi-2511FPC34G-Mali-G720_MC8-1789307310.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "S936B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1789306172,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S936B-Adreno__TM__830-1789306172.json"
   }
 ]
