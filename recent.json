@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "S936B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1789295211,
+    "filename": "Rise_of_the_Tomb_Raider_-samsung-SM-S936B-Adreno__TM__830-1789295211.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Enhanced",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789262619,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A075F-Mali-G57_MC2-1789262619.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789262295,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A075F-Mali-G57_MC2-1789262295.json"
   }
 ]
