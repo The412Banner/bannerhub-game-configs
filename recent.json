@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "A235M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1789327419,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A235M-Adreno__TM__610-1789327419.json"
+  },
+  {
     "game": "Cod4",
     "manufacturer": "2510ERA8BG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1789309287,
     "filename": "MONSTER_HUNTER_RISE-LENOVO-TB321FU-Adreno__TM__750-1789309287.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1789309268,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1789309268.json"
   }
 ]
