@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__The_Run",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1789342848,
+    "filename": "Need_for_Speed__The_Run-Xiaomi-2511FPC34G-Mali-G720_MC8-1789342848.json"
+  },
+  {
     "game": "Dying_Light",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789318022,
     "filename": "The_Witcher_3__Wild_Hunt-INFINIX-Infinix_X6895B-Mali-G57_MC2-1789318022.json"
-  },
-  {
-    "game": "GTAServer",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789317990,
-    "filename": "GTAServer-samsung-SM-A165F-Mali-G57_MC2-1789317990.json"
   }
 ]
