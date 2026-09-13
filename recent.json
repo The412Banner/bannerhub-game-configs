@@ -1,5 +1,12 @@
 [
   {
+    "game": "NBA2K17",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1789315532,
+    "filename": "NBA2K17-nubia-NP05J-Adreno__TM__830-1789315532.json"
+  },
+  {
     "game": "Warcraft___Frozen_Throne",
     "manufacturer": "Mali",
     "device": "G610",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1789282348,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2403-Mali-G615_MC2-1789282348.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "2209116AG",
-    "device": "Adreno__TM__618",
-    "timestamp": 1789280108,
-    "filename": "Need_for_Speed_9-Xiaomi-2209116AG-Adreno__TM__618-1789280108.json"
   }
 ]
