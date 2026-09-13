@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G51",
+    "timestamp": 1789293647,
+    "filename": "Pro_Evolution_Soccer_2013-HUAWEI-JKM-LX1-Mali-G51-1789293647.json"
+  },
+  {
     "game": "Stardew_Valley",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789262071,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-samsung-SM-A075F-Mali-G57_MC2-1789262071.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1789258993,
-    "filename": "DARK_SOULS___REMASTERED-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789258993.json"
   }
 ]
