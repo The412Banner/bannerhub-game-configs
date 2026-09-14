@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "moto_g67_power_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1789429192,
+    "filename": "Pro_Evolution_Soccer_2017-motorola-moto_g67_power_5G-Adreno__TM__710-1789429192.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g67_power_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1789398810,
     "filename": "Shiren_the_Wanderer__The_Mystery_Dungeon_of_Serpentcoil_Island-samsung-SM-S938N-Adreno__TM__830-1789398810.json"
-  },
-  {
-    "game": "Sonic_Fear_3_The_Apocalypse__Full_Version_",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1789393166,
-    "filename": "Sonic_Fear_3_The_Apocalypse__Full_Version_-samsung-SM-A266B-Mali-G68-1789393166.json"
   }
 ]
