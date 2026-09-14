@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shiren_the_Wanderer__The_Mystery_Dungeon_of_Serpentcoil_Island",
+    "manufacturer": "S938N",
+    "device": "Adreno__TM__830",
+    "timestamp": 1789398810,
+    "filename": "Shiren_the_Wanderer__The_Mystery_Dungeon_of_Serpentcoil_Island-samsung-SM-S938N-Adreno__TM__830-1789398810.json"
+  },
+  {
     "game": "Sonic_Fear_3_The_Apocalypse__Full_Version_",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1789349845,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1789349845.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G610_MC4",
-    "timestamp": 1789348016,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23090RA98G-Mali-G610_MC4-1789348016.json"
   }
 ]
