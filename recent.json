@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1789350458,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1789350458.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1789328412,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789328412.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "A235M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1789327419,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A235M-Adreno__TM__610-1789327419.json"
   }
 ]
