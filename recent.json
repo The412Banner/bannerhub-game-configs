@@ -3,6 +3,13 @@
     "game": "TheLongDrive",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1789367220,
+    "filename": "TheLongDrive-OPPO-CPH2553-Mali-G57_MC2-1789367220.json"
+  },
+  {
+    "game": "TheLongDrive",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1789367179,
     "filename": "TheLongDrive-OPPO-CPH2553-Mali-G57_MC2-1789367179.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1789342963,
     "filename": "Resident_Evil_6-Xiaomi-24069PC21G-Adreno__TM__735-1789342963.json"
-  },
-  {
-    "game": "Need_for_Speed__The_Run",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1789342848,
-    "filename": "Need_for_Speed__The_Run-Xiaomi-2511FPC34G-Mali-G720_MC8-1789342848.json"
   }
 ]
