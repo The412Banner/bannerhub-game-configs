@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sonic_Frontiers",
+    "manufacturer": "NX9",
+    "device": "Adreno__TM__720",
+    "timestamp": 1789407886,
+    "filename": "Sonic_Frontiers-HONOR-ELI-NX9-Adreno__TM__720-1789407886.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789352713,
     "filename": "Pro_Evolution_Soccer_2013-ZTE-Z2350-Mali-G57-1789352713.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1789350875,
-    "filename": "Pro_Evolution_Soccer_2013-LENOVO-TB310FU-Mali-G52_MC2-1789350875.json"
   }
 ]
