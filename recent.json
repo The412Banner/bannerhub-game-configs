@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g67_power_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1789429023,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g67_power_5G-Adreno__TM__710-1789429023.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1789393166,
     "filename": "Sonic_Fear_3_The_Apocalypse__Full_Version_-samsung-SM-A266B-Mali-G68-1789393166.json"
-  },
-  {
-    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1789382051,
-    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-INFINIX-Infinix_X6873-Mali-G615_MC6-1789382051.json"
   }
 ]
