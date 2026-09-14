@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "I2405",
+    "device": "Adreno__TM__825",
+    "timestamp": 1789373600,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-vivo-I2405-Adreno__TM__825-1789373600.json"
+  },
+  {
     "game": "TheLongDrive",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1789345903,
     "filename": "Forza_Horizon_4-nubia-NP05J-Adreno__TM__830-1789345903.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1789342963,
-    "filename": "Resident_Evil_6-Xiaomi-24069PC21G-Adreno__TM__735-1789342963.json"
   }
 ]
