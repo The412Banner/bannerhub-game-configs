@@ -1,5 +1,12 @@
 [
   {
+    "game": "Just_Cause_2",
+    "manufacturer": "G781B",
+    "device": "Adreno__TM__650",
+    "timestamp": 1789376801,
+    "filename": "Just_Cause_2-samsung-SM-G781B-Adreno__TM__650-1789376801.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1789346950,
     "filename": "Terraria-nubia-NX809J-Adreno__TM__840-1789346950.json"
-  },
-  {
-    "game": "Forza_Horizon_4",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1789345903,
-    "filename": "Forza_Horizon_4-nubia-NP05J-Adreno__TM__830-1789345903.json"
   }
 ]
