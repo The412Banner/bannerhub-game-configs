@@ -1,5 +1,12 @@
 [
   {
+    "game": "MaxPayne_Application",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1789404851,
+    "filename": "MaxPayne_Application-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789404851.json"
+  },
+  {
     "game": "Resident_Evil_Village",
     "manufacturer": "25053RT47C",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1789350458,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1789350458.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1789350127,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2410FPCC5G-Mali-G52_MC2-1789350127.json"
   }
 ]
