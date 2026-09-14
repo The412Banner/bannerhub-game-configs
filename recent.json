@@ -1,5 +1,12 @@
 [
   {
+    "game": "Terraria",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1789346950,
+    "filename": "Terraria-nubia-NX809J-Adreno__TM__840-1789346950.json"
+  },
+  {
     "game": "Forza_Horizon_4",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789318220,
     "filename": "Cyberpunk_2077-INFINIX-Infinix_X6895B-Mali-G57_MC2-1789318220.json"
-  },
-  {
-    "game": "Cyberpunk_2077",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789318217,
-    "filename": "Cyberpunk_2077-INFINIX-Infinix_X6895B-Mali-G57_MC2-1789318217.json"
   }
 ]
