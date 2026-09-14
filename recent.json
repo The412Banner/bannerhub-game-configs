@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1789349845,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1789349845.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G610_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1789323597,
     "filename": "Cod4-Xiaomi-2510ERA8BG-Adreno__TM__810-1789323597.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1789319519,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2102J20SG-Adreno__TM__640-1789319519.json"
   }
 ]
