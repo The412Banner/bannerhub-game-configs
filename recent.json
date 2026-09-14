@@ -3,6 +3,13 @@
     "game": "TheLongDrive",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1789367179,
+    "filename": "TheLongDrive-OPPO-CPH2553-Mali-G57_MC2-1789367179.json"
+  },
+  {
+    "game": "TheLongDrive",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1789366997,
     "filename": "TheLongDrive-OPPO-CPH2553-Mali-G57_MC2-1789366997.json"
   },
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1789342848,
     "filename": "Need_for_Speed__The_Run-Xiaomi-2511FPC34G-Mali-G720_MC8-1789342848.json"
-  },
-  {
-    "game": "Dying_Light",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1789342154,
-    "filename": "Dying_Light-Xiaomi-24094RAD4G-PowerVR_B-Series_BXM-8-256-1789342154.json"
   }
 ]
