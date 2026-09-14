@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta-sa",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1789425470,
+    "filename": "gta-sa-Xiaomi-25078PC3EG-Mali-G52_MC2-1789425470.json"
+  },
+  {
     "game": "Call_of_Duty_",
     "manufacturer": "S721B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1789376801,
     "filename": "Just_Cause_2-samsung-SM-G781B-Adreno__TM__650-1789376801.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1789373600,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-vivo-I2405-Adreno__TM__825-1789373600.json"
   }
 ]
