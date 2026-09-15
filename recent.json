@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1789487935,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1789487935.json"
+  },
+  {
     "game": "Darkwood",
     "manufacturer": "I2501",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__644",
     "timestamp": 1789446534,
     "filename": "Fields_of_Mistria-HUAWEI-BTK-W09-Adreno__TM__644-1789446534.json"
-  },
-  {
-    "game": "The_Messenger",
-    "manufacturer": "23049PCD8I",
-    "device": "Adreno__TM__725",
-    "timestamp": 1789446424,
-    "filename": "The_Messenger-Xiaomi-23049PCD8I-Adreno__TM__725-1789446424.json"
   }
 ]
