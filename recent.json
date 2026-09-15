@@ -1,5 +1,12 @@
 [
   {
+    "game": "GIANTS_Engine",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1789495050,
+    "filename": "GIANTS_Engine-Xiaomi-23106RN0DA-Mali-G52_MC2-1789495050.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1789468756,
     "filename": "Cuphead-Xiaomi-2511FPC34G-Mali-G720_MC8-1789468756.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1789465218,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-25053PC47G-Adreno__TM__825-1789465218.json"
   }
 ]
