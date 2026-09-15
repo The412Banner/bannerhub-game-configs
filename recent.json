@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Killing_Antidote",
+    "manufacturer": "Infinix_X6878",
+    "device": "Adreno__TM__810",
+    "timestamp": 1789508418,
+    "filename": "The_Killing_Antidote-INFINIX-Infinix_X6878-Adreno__TM__810-1789508418.json"
+  },
+  {
     "game": "Counter-Strike_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1789485241,
     "filename": "sonic-before-the-sequel-plus-motorola-moto_g24-Mali-G52_MC2-1789485241.json"
-  },
-  {
-    "game": "TDYJ",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1789483661,
-    "filename": "TDYJ-LENOVO-TB322FC-Adreno__TM__830-1789483661.json"
   }
 ]
