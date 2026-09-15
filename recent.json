@@ -1,5 +1,12 @@
 [
   {
+    "game": "Atla",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1789492302,
+    "filename": "Atla-TECNO-TECNO_KJ5-Mali-G52_MC2-1789492302.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1789459115,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2410CRP4CG-Adreno__TM__732-1789459115.json"
-  },
-  {
-    "game": "eFootball_",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1789458795,
-    "filename": "eFootball_-samsung-SM-A346E-Mali-G68_MC4-1789458795.json"
   }
 ]
