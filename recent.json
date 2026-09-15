@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_PES_2021_SEASON_UPDATE",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1789458691,
+    "filename": "eFootball_PES_2021_SEASON_UPDATE-samsung-SM-A346E-Mali-G68_MC4-1789458691.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1789428887,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-samsung-SM-A346E-Mali-G68_MC4-1789428887.json"
-  },
-  {
-    "game": "gta-sa",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1789425470,
-    "filename": "gta-sa-Xiaomi-25078PC3EG-Mali-G52_MC2-1789425470.json"
   }
 ]
