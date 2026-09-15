@@ -1,5 +1,12 @@
 [
   {
+    "game": "Russian_Fishing_4",
+    "manufacturer": "A715F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1789498145,
+    "filename": "Russian_Fishing_4-samsung-SM-A715F-Adreno__TM__618-1789498145.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1789478436,
     "filename": "EA_SPORTS_FC__26-INFINIX-Infinix_X6739-Mali-G77_MC9-1789478436.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789477505,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3624-Mali-G57-1789477505.json"
   }
 ]
