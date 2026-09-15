@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1789494005,
+    "filename": "DRAGON_BALL__Sparking__ZERO-nubia-NX789J-Adreno__TM__830-1789494005.json"
+  },
+  {
     "game": "Atla",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789459200,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2510DRA23E-Mali-G57_MC2-1789459200.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2410CRP4CG",
-    "device": "Adreno__TM__732",
-    "timestamp": 1789459115,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2410CRP4CG-Adreno__TM__732-1789459115.json"
   }
 ]
