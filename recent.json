@@ -1,5 +1,12 @@
 [
   {
+    "game": "sonic-before-the-sequel-plus",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1789485241,
+    "filename": "sonic-before-the-sequel-plus-motorola-moto_g24-Mali-G52_MC2-1789485241.json"
+  },
+  {
     "game": "TDYJ",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1789441732,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M236B-Adreno__TM__619-1789441732.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2201117TG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1789440912,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TG-Adreno__TM__610-1789440912.json"
   }
 ]
