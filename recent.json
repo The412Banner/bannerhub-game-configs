@@ -1,5 +1,12 @@
 [
   {
+    "game": "FINAL_FANTASY_VIII",
+    "manufacturer": "22111317PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1789435647,
+    "filename": "FINAL_FANTASY_VIII-Xiaomi-22111317PG-Adreno__TM__619-1789435647.json"
+  },
+  {
     "game": "Shiren_the_Wanderer__The_Mystery_Dungeon_of_Serpentcoil_Island",
     "manufacturer": "S938N",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1789407886,
     "filename": "Sonic_Frontiers-HONOR-ELI-NX9-Adreno__TM__720-1789407886.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1789407253,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A065F-Mali-G52_MC2-1789407253.json"
   }
 ]
