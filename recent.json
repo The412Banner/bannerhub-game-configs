@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1789449587,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A546E-Mali-G68-1789449587.json"
+  },
+  {
     "game": "Fields_of_Mistria",
     "manufacturer": "W09",
     "device": "Adreno__TM__644",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1789425470,
     "filename": "gta-sa-Xiaomi-25078PC3EG-Mali-G52_MC2-1789425470.json"
-  },
-  {
-    "game": "Call_of_Duty_",
-    "manufacturer": "S721B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1789424921,
-    "filename": "Call_of_Duty_-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1789424921.json"
   }
 ]
