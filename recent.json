@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789509117,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A165M-Mali-G57_MC2-1789509117.json"
+  },
+  {
     "game": "The_Killing_Antidote",
     "manufacturer": "Infinix_X6878",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1789486980,
     "filename": "Darkwood-vivo-I2501-Adreno__TM__840-1789486980.json"
-  },
-  {
-    "game": "sonic-before-the-sequel-plus",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1789485241,
-    "filename": "sonic-before-the-sequel-plus-motorola-moto_g24-Mali-G52_MC2-1789485241.json"
   }
 ]
