@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1789468756,
+    "filename": "Cuphead-Xiaomi-2511FPC34G-Mali-G720_MC8-1789468756.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1789435647,
     "filename": "FINAL_FANTASY_VIII-Xiaomi-22111317PG-Adreno__TM__619-1789435647.json"
-  },
-  {
-    "game": "Shiren_the_Wanderer__The_Mystery_Dungeon_of_Serpentcoil_Island",
-    "manufacturer": "S938N",
-    "device": "Adreno__TM__830",
-    "timestamp": 1789435459,
-    "filename": "Shiren_the_Wanderer__The_Mystery_Dungeon_of_Serpentcoil_Island-samsung-SM-S938N-Adreno__TM__830-1789435459.json"
   }
 ]
