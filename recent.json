@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1789465218,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-25053PC47G-Adreno__TM__825-1789465218.json"
+  },
+  {
     "game": "Left_4_Dead",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1789435459,
     "filename": "Shiren_the_Wanderer__The_Mystery_Dungeon_of_Serpentcoil_Island-samsung-SM-S938N-Adreno__TM__830-1789435459.json"
-  },
-  {
-    "game": "Shadow_of_the_Tomb_Raider_-_Definitive_Edition______________",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1789430824,
-    "filename": "Shadow_of_the_Tomb_Raider_-_Definitive_Edition______________-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789430824.json"
   }
 ]
