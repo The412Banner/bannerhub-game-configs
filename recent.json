@@ -1,5 +1,12 @@
 [
   {
+    "game": "TDYJ",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1789483661,
+    "filename": "TDYJ-LENOVO-TB322FC-Adreno__TM__830-1789483661.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "CPH2447",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1789440912,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TG-Adreno__TM__610-1789440912.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2201117TG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1789440857,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117TG-Adreno__TM__610-1789440857.json"
   }
 ]
