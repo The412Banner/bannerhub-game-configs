@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shiren_the_Wanderer__The_Mystery_Dungeon_of_Serpentcoil_Island",
+    "manufacturer": "S938N",
+    "device": "Adreno__TM__830",
+    "timestamp": 1789435459,
+    "filename": "Shiren_the_Wanderer__The_Mystery_Dungeon_of_Serpentcoil_Island-samsung-SM-S938N-Adreno__TM__830-1789435459.json"
+  },
+  {
     "game": "Shadow_of_the_Tomb_Raider_-_Definitive_Edition______________",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1789407253,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A065F-Mali-G52_MC2-1789407253.json"
-  },
-  {
-    "game": "MaxPayne_Application",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1789404851,
-    "filename": "MaxPayne_Application-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789404851.json"
   }
 ]
