@@ -3,6 +3,13 @@
     "game": "Darkwood",
     "manufacturer": "I2501",
     "device": "Adreno__TM__840",
+    "timestamp": 1789487260,
+    "filename": "Darkwood-vivo-I2501-Adreno__TM__840-1789487260.json"
+  },
+  {
+    "game": "Darkwood",
+    "manufacturer": "I2501",
+    "device": "Adreno__TM__840",
     "timestamp": 1789487151,
     "filename": "Darkwood-vivo-I2501-Adreno__TM__840-1789487151.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1789446424,
     "filename": "The_Messenger-Xiaomi-23049PCD8I-Adreno__TM__725-1789446424.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1789445212,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-24095PCADG-Mali-G615_MC2-1789445212.json"
   }
 ]
