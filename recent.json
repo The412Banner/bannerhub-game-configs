@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1789590708,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NLA-LX2P-Mali-G52_MC2-1789590708.json"
+  },
+  {
     "game": "GRIME",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789530070,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e13-Mali-G57-1789530070.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789530056,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e13-Mali-G57-1789530056.json"
   }
 ]
