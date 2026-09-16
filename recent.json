@@ -1,5 +1,12 @@
 [
   {
+    "game": "_________",
+    "manufacturer": "Mi_10",
+    "device": "Adreno__TM__650",
+    "timestamp": 1789538392,
+    "filename": "_________-Xiaomi-Mi_10-Adreno__TM__650-1789538392.json"
+  },
+  {
     "game": "Fields_of_Mistria",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1789508418,
     "filename": "The_Killing_Antidote-INFINIX-Infinix_X6878-Adreno__TM__810-1789508418.json"
-  },
-  {
-    "game": "Counter-Strike_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789508215,
-    "filename": "Counter-Strike_2-samsung-SM-A155F-Mali-G57_MC2-1789508215.json"
   }
 ]
