@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1789592981,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S918B-Adreno__TM__740-1789592981.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1789538392,
     "filename": "_________-Xiaomi-Mi_10-Adreno__TM__650-1789538392.json"
-  },
-  {
-    "game": "Fields_of_Mistria",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1789531823,
-    "filename": "Fields_of_Mistria-AYN-AYN_Thor-Adreno__TM__740-1789531823.json"
   }
 ]
