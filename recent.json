@@ -1,5 +1,12 @@
 [
   {
+    "game": "S_T_A_L_K_E_R__Zolotoj_Shar__Zavershenie____________________",
+    "manufacturer": "I2501",
+    "device": "Adreno__TM__840",
+    "timestamp": 1789531042,
+    "filename": "S_T_A_L_K_E_R__Zolotoj_Shar__Zavershenie____________________-vivo-I2501-Adreno__TM__840-1789531042.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1789505796,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-Redmi_Note_8-Adreno__TM__610-1789505796.json"
-  },
-  {
-    "game": "Assassin_s_Creed_Mirage",
-    "manufacturer": "NP03J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1789501294,
-    "filename": "Assassin_s_Creed_Mirage-nubia-NP03J-Adreno__TM__750-1789501294.json"
   }
 ]
