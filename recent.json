@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fields_of_Mistria",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1789531823,
+    "filename": "Fields_of_Mistria-AYN-AYN_Thor-Adreno__TM__740-1789531823.json"
+  },
+  {
     "game": "S_T_A_L_K_E_R__Zolotoj_Shar__Zavershenie____________________",
     "manufacturer": "I2501",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789508215,
     "filename": "Counter-Strike_2-samsung-SM-A155F-Mali-G57_MC2-1789508215.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Redmi_Note_8",
-    "device": "Adreno__TM__610",
-    "timestamp": 1789505796,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-Redmi_Note_8-Adreno__TM__610-1789505796.json"
   }
 ]
