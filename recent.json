@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1789568460,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S918B-Adreno__TM__740-1789568460.json"
+  },
+  {
     "game": "SniperEliteV2",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789511456,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1789511456.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1789510059,
-    "filename": "Resident_Evil_6-INFINIX-Infinix_X6857-Mali-G615_MC2-1789510059.json"
   }
 ]
