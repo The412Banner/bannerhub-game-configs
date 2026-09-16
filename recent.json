@@ -1,5 +1,12 @@
 [
   {
+    "game": "SniperEliteV2",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1789562447,
+    "filename": "SniperEliteV2-Xiaomi-23113RKC6G-Adreno__TM__740-1789562447.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2631",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1789510059,
     "filename": "Resident_Evil_6-INFINIX-Infinix_X6857-Mali-G615_MC2-1789510059.json"
-  },
-  {
-    "game": "LEGO__MARVEL_Super_Heroes",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1789509501,
-    "filename": "LEGO__MARVEL_Super_Heroes-samsung-SM-G780G-Adreno__TM__650-1789509501.json"
   }
 ]
