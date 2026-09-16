@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1789579970,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A176B-Mali-G68-1789579970.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1789528202,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24095PCADG-Mali-G615_MC2-1789528202.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "RMX5010",
-    "device": "Adreno__TM__830",
-    "timestamp": 1789526854,
-    "filename": "Watch_Dogs_-realme-RMX5010-Adreno__TM__830-1789526854.json"
   }
 ]
