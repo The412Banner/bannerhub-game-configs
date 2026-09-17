@@ -1,5 +1,12 @@
 [
   {
+    "game": "ProjectZomboid64",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1789659112,
+    "filename": "ProjectZomboid64-Xiaomi-22071212AG-Mali-G610_MC6-1789659112.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "2607APCA5G",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1789605520,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1789605520.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789604584,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-Xiaomi-2201116TG-Mali-G57_MC2-1789604584.json"
   }
 ]
