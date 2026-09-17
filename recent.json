@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789687542,
+    "filename": "Tomb_Raider-TECNO-TECNO_CM5-Mali-G57_MC2-1789687542.json"
+  },
+  {
     "game": "GTA_V_Launcher",
     "manufacturer": "A125M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1789662538,
     "filename": "Starsand_Island-samsung-SM-S906E-Adreno__TM__730-1789662538.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789662092,
-    "filename": "American_Truck_Simulator-motorola-moto_g04s-Mali-G57-1789662092.json"
   }
 ]
