@@ -1,5 +1,12 @@
 [
   {
+    "game": "StyxGame",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1789659496,
+    "filename": "StyxGame-Xiaomi-24069PC21G-Adreno__TM__735-1789659496.json"
+  },
+  {
     "game": "Fable_Anniversary",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1789605815,
     "filename": "FINAL_FANTASY_VIII-Xiaomi-22111317PG-Adreno__TM__619-1789605815.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1789605536,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1789605536.json"
   }
 ]
