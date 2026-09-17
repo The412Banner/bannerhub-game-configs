@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "2607APCA5G",
+    "device": "Adreno__TM__840",
+    "timestamp": 1789657246,
+    "filename": "Left_4_Dead_2-Xiaomi-2607APCA5G-Adreno__TM__840-1789657246.json"
+  },
+  {
     "game": "Fears_to_Fathom_-_Ironbark_Lookout",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789604584,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-Xiaomi-2201116TG-Mali-G57_MC2-1789604584.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789604415,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-Xiaomi-2201116TG-Mali-G57_MC2-1789604415.json"
   }
 ]
