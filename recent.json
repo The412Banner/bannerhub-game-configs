@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mad_Max",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1789682700,
+    "filename": "Mad_Max-AYN-AYN_Thor-Adreno__TM__740-1789682700.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1789659112,
     "filename": "ProjectZomboid64-Xiaomi-22071212AG-Mali-G610_MC6-1789659112.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "2607APCA5G",
-    "device": "Adreno__TM__840",
-    "timestamp": 1789657246,
-    "filename": "Left_4_Dead_2-Xiaomi-2607APCA5G-Adreno__TM__840-1789657246.json"
   }
 ]
