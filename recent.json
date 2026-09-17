@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1789662092,
+    "filename": "American_Truck_Simulator-motorola-moto_g04s-Mali-G57-1789662092.json"
+  },
+  {
     "game": "StyxGame",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1789607127,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1789607127.json"
-  },
-  {
-    "game": "FINAL_FANTASY_VIII",
-    "manufacturer": "22111317PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1789605815,
-    "filename": "FINAL_FANTASY_VIII-Xiaomi-22111317PG-Adreno__TM__619-1789605815.json"
   }
 ]
