@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "V2543",
+    "device": "Adreno__TM__610",
+    "timestamp": 1789668433,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2543-Adreno__TM__610-1789668433.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
     "timestamp": 1789667295,
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1789610247,
     "filename": "Microsoft_Visual_C___2015-2019_Redistributable__x86__-_14_25_28508-INFINIX-Infinix_X6726B-PowerVR_B-Series_BXM-8-256-1789610247.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1789608791,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1789608791.json"
   }
 ]
