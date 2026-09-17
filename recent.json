@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1789677018,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23053RN02A-Mali-G52_MC2-1789677018.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1789676978,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23053RN02A-Mali-G52_MC2-1789676978.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1789652241,
     "filename": "Fears_to_Fathom_-_Ironbark_Lookout-samsung-SM-A065M-Mali-G52_MC2-1789652241.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1789648625,
-    "filename": "BootstrapPackagedGame-OPPO-CPH2251-Mali-G68_MC4-1789648625.json"
   }
 ]
