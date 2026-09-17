@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1789663023,
+    "filename": "Left_4_Dead_2-Xiaomi-2312DRA50G-Adreno__TM__710-1789663023.json"
+  },
+  {
     "game": "Starsand_Island",
     "manufacturer": "S906E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1789608771,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1789608771.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1789607292,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1789607292.json"
   }
 ]
