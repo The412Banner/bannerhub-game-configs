@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "RMX5011",
+    "device": "Adreno__TM__830",
+    "timestamp": 1789626290,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-realme-RMX5011-Adreno__TM__830-1789626290.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "A057F",
     "device": "Adreno__TM__610",
     "timestamp": 1789623857,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1789593201,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S918B-Adreno__TM__740-1789593201.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1789593006,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1789593006.json"
   }
 ]
