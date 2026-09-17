@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+    "manufacturer": "NP03J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1789686540,
+    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-nubia-NP03J-Adreno__TM__750-1789686540.json"
+  },
+  {
     "game": "Sleeping_Dogs__Definitive_Edition",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1789659496,
     "filename": "StyxGame-Xiaomi-24069PC21G-Adreno__TM__735-1789659496.json"
-  },
-  {
-    "game": "Fable_Anniversary",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1789659477,
-    "filename": "Fable_Anniversary-Xiaomi-24069PC21G-Adreno__TM__735-1789659477.json"
   }
 ]
