@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs__Definitive_Edition",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1789685458,
+    "filename": "Sleeping_Dogs__Definitive_Edition-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1789685458.json"
+  },
+  {
     "game": "Mad_Max",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1789659477,
     "filename": "Fable_Anniversary-Xiaomi-24069PC21G-Adreno__TM__735-1789659477.json"
-  },
-  {
-    "game": "ProjectZomboid64",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1789659112,
-    "filename": "ProjectZomboid64-Xiaomi-22071212AG-Mali-G610_MC6-1789659112.json"
   }
 ]
