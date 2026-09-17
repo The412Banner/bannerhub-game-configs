@@ -1,5 +1,12 @@
 [
   {
+    "game": "FINAL_FANTASY_VIII",
+    "manufacturer": "22111317PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1789605815,
+    "filename": "FINAL_FANTASY_VIII-Xiaomi-22111317PG-Adreno__TM__619-1789605815.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1789577821,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1789577821.json"
-  },
-  {
-    "game": "Persona_3_Reload",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1789587326,
-    "filename": "Persona_3_Reload-AYN-AYN_Thor-Adreno__TM__740-1789587326.json"
   }
 ]
