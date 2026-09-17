@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Visual_C___2015-2019_Redistributable__x86__-_14_25_28508",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1789610247,
+    "filename": "Microsoft_Visual_C___2015-2019_Redistributable__x86__-_14_25_28508-INFINIX-Infinix_X6726B-PowerVR_B-Series_BXM-8-256-1789610247.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789592093,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6895-Mali-G57_MC2-1789592093.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1789590708,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NLA-LX2P-Mali-G52_MC2-1789590708.json"
   }
 ]
