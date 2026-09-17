@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1789635118,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2534-Mali-G615_MC2-1789635118.json"
+  },
+  {
     "game": "Fable_-_The_Lost_Chapters",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789601315,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04-Mali-G57-1789601315.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789593587,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25040RP0AL-Mali-G57_MC2-1789593587.json"
   }
 ]
