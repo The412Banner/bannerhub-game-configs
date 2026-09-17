@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1789648479,
+    "filename": "BootstrapPackagedGame-OPPO-CPH2251-Mali-G68_MC4-1789648479.json"
+  },
+  {
     "game": "HITMAN_",
     "manufacturer": "CPH2487",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1789601475,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g_20_-Mali-G52-1789601475.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1789601456,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g_20_-Mali-G52-1789601456.json"
   }
 ]
