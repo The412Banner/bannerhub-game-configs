@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Sims_1_-_Legacy_Collection",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1789687970,
+    "filename": "The_Sims_1_-_Legacy_Collection-TECNO-TECNO_LJ9-Mali-G615_MC6-1789687970.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1789663023,
     "filename": "Left_4_Dead_2-Xiaomi-2312DRA50G-Adreno__TM__710-1789663023.json"
-  },
-  {
-    "game": "Starsand_Island",
-    "manufacturer": "S906E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1789662538,
-    "filename": "Starsand_Island-samsung-SM-S906E-Adreno__TM__730-1789662538.json"
   }
 ]
