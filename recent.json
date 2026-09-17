@@ -1,5 +1,12 @@
 [
   {
+    "game": "Starsand_Island",
+    "manufacturer": "S906E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1789662538,
+    "filename": "Starsand_Island-samsung-SM-S906E-Adreno__TM__730-1789662538.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1789607292,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1789607292.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1789607127,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G780G-Adreno__TM__650-1789607127.json"
   }
 ]
