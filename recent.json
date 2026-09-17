@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fable_Anniversary",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1789659477,
+    "filename": "Fable_Anniversary-Xiaomi-24069PC21G-Adreno__TM__735-1789659477.json"
+  },
+  {
     "game": "ProjectZomboid64",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1789605536,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1789605536.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1789605520,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1789605520.json"
   }
 ]
