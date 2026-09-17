@@ -3,6 +3,13 @@
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G68_MC4",
+    "timestamp": 1789648625,
+    "filename": "BootstrapPackagedGame-OPPO-CPH2251-Mali-G68_MC4-1789648625.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
     "timestamp": 1789648479,
     "filename": "BootstrapPackagedGame-OPPO-CPH2251-Mali-G68_MC4-1789648479.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1789604166,
     "filename": "FINAL_FANTASY_VIII-Xiaomi-22111317PG-Adreno__TM__619-1789604166.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1789601475,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g_20_-Mali-G52-1789601475.json"
   }
 ]
