@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789754084,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1789754084.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
     "timestamp": 1789753368,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1789726334,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A528B-Adreno__TM__642L-1789726334.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1789725651,
-    "filename": "Far_Cry_3-Xiaomi-2311DRK48G-Mali-G615_MC6-1789725651.json"
   }
 ]
