@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1789725651,
+    "filename": "Far_Cry_3-Xiaomi-2311DRK48G-Mali-G615_MC6-1789725651.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1789696084,
     "filename": "Delta_Force_Alpha_Test-samsung-SM-G990E-Mali-G78-1789696084.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "23122PCD1G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1789695763,
-    "filename": "Tomb_Raider-Xiaomi-23122PCD1G-Adreno__TM__710-1789695763.json"
   }
 ]
