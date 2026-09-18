@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1789695763,
+    "filename": "Tomb_Raider-Xiaomi-23122PCD1G-Adreno__TM__710-1789695763.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1789668597,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2543-Adreno__TM__610-1789668597.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "V2543",
-    "device": "Adreno__TM__610",
-    "timestamp": 1789668534,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2543-Adreno__TM__610-1789668534.json"
   }
 ]
