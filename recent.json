@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789738519,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-INFINIX-Infinix_X6833B-Mali-G57_MC2-1789738519.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1789705157,
     "filename": "Sons_Of_The_Forest-Xiaomi-M2012K11AG-Adreno__TM__650-1789705157.json"
-  },
-  {
-    "game": "Sons_Of_The_Forest",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1789705145,
-    "filename": "Sons_Of_The_Forest-Xiaomi-M2012K11AG-Adreno__TM__650-1789705145.json"
   }
 ]
