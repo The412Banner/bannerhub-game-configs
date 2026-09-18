@@ -3,6 +3,13 @@
     "game": "____2016",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1789769439,
+    "filename": "____2016-Xiaomi-24117RN76G-Mali-G57_MC2-1789769439.json"
+  },
+  {
+    "game": "____2016",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1789769436,
     "filename": "____2016-Xiaomi-24117RN76G-Mali-G57_MC2-1789769436.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1789750887,
     "filename": "Devil_May_Cry_5-AYN-AYN_Thor-Adreno__TM__740-1789750887.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1789750627,
-    "filename": "Tomb_Raider-HONOR-BRP-NX1-Adreno__TM__710-1789750627.json"
   }
 ]
