@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1789764198,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6855-Mali-G57_MC2-1789764198.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1789764156,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6855-Mali-G57_MC2-1789764156.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1789741893,
     "filename": "BootstrapPackagedGame-LENOVO-TB311FU-Mali-G52_MC2-1789741893.json"
-  },
-  {
-    "game": "Call_Of_Duty_MW2",
-    "manufacturer": "motorola_edge_20_pro",
-    "device": "Adreno__TM__650",
-    "timestamp": 1789739412,
-    "filename": "Call_Of_Duty_MW2-motorola-motorola_edge_20_pro-Adreno__TM__650-1789739412.json"
   }
 ]
