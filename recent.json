@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1789752453,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6728-Mali-G52_MC2-1789752453.json"
+  },
+  {
     "game": "NFS_UNDERGROUND_2_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1789724033,
     "filename": "BootstrapPackagedGame-OPPO-CPH2251-Mali-G68_MC4-1789724033.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1789724002,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23043RP34G-Adreno__TM__650-1789724002.json"
   }
 ]
