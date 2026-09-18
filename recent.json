@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades_II",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1789747486,
+    "filename": "Hades_II-OnePlus-CPH2747-Adreno__TM__840-1789747486.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1789717513,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23043RP34G-Adreno__TM__650-1789717513.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__720",
-    "timestamp": 1789707825,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-DNY-NX9-Adreno__TM__720-1789707825.json"
   }
 ]
