@@ -1,5 +1,12 @@
 [
   {
+    "game": "Delta_Force_Alpha_Test",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1789696084,
+    "filename": "Delta_Force_Alpha_Test-samsung-SM-G990E-Mali-G78-1789696084.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "23122PCD1G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1789669218,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2543-Adreno__TM__610-1789669218.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "V2543",
-    "device": "Adreno__TM__610",
-    "timestamp": 1789668597,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2543-Adreno__TM__610-1789668597.json"
   }
 ]
