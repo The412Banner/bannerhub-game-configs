@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1789721680,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S938B-Adreno__TM__830-1789721680.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
     "timestamp": 1789717513,
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1789687540,
     "filename": "GTA_V_Launcher-samsung-SM-A125M-PowerVR_Rogue_GE8320-1789687540.json"
-  },
-  {
-    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-    "manufacturer": "NP03J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1789686540,
-    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-nubia-NP03J-Adreno__TM__750-1789686540.json"
   }
 ]
