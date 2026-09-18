@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1789750887,
+    "filename": "Devil_May_Cry_5-AYN-AYN_Thor-Adreno__TM__740-1789750887.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789721004,
     "filename": "Pro_Evolution_Soccer_2017-ACE_France-BUZZ_5_Pro_PLUS-Mali-G57-1789721004.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1789720994,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-CLK-LX2-Adreno__TM__610-1789720994.json"
   }
 ]
