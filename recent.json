@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bendy_and_the_Ink_Machine",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789765159,
+    "filename": "Bendy_and_the_Ink_Machine-TECNO-TECNO_CM6-Mali-G57_MC2-1789765159.json"
+  },
+  {
     "game": "____2016",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1789748406,
     "filename": "2K_Sports_NBA_2K14-samsung-SM-M346B-Mali-G68-1789748406.json"
-  },
-  {
-    "game": "Hades_II",
-    "manufacturer": "CPH2747",
-    "device": "Adreno__TM__840",
-    "timestamp": 1789747486,
-    "filename": "Hades_II-OnePlus-CPH2747-Adreno__TM__840-1789747486.json"
   }
 ]
