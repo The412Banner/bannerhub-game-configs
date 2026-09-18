@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1789724033,
+    "filename": "BootstrapPackagedGame-OPPO-CPH2251-Mali-G68_MC4-1789724033.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1789695763,
     "filename": "Tomb_Raider-Xiaomi-23122PCD1G-Adreno__TM__710-1789695763.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1789691338,
-    "filename": "Euro_Truck_Simulator_2-HONOR-BRP-NX1-Adreno__TM__710-1789691338.json"
   }
 ]
