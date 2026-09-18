@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789765754,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6855-Mali-G57_MC2-1789765754.json"
+  },
+  {
     "game": "Bendy_and_the_Ink_Machine",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789748964,
     "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X669D-Mali-G57-1789748964.json"
-  },
-  {
-    "game": "2K_Sports_NBA_2K14",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1789748406,
-    "filename": "2K_Sports_NBA_2K14-samsung-SM-M346B-Mali-G68-1789748406.json"
   }
 ]
