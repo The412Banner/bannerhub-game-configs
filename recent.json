@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "moto_g75_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1789703660,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g75_5G-Adreno__TM__710-1789703660.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1789673363,
     "filename": "game_-OnePlus-PLK110-Adreno__TM__840-1789673363.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789672942,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1789672942.json"
   }
 ]
