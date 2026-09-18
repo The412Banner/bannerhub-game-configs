@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1789731048,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A145M-Mali-G52-1789731048.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1789705145,
     "filename": "Sons_Of_The_Forest-Xiaomi-M2012K11AG-Adreno__TM__650-1789705145.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1789703660,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g75_5G-Adreno__TM__710-1789703660.json"
   }
 ]
