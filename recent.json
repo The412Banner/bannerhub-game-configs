@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A528B",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1789726334,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A528B-Adreno__TM__642L-1789726334.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1789697217,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-DNY-NX9-Adreno__TM__720-1789697217.json"
-  },
-  {
-    "game": "Delta_Force_Alpha_Test",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1789696084,
-    "filename": "Delta_Force_Alpha_Test-samsung-SM-G990E-Mali-G78-1789696084.json"
   }
 ]
