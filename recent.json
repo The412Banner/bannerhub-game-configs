@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_III______________________________________________",
+    "manufacturer": "A566B",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1789760792,
+    "filename": "God_of_War_III______________________________________________-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1789760792.json"
+  },
+  {
     "game": "Softnyx_Game_Launcher",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1789730290,
     "filename": "unins000-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789730290.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789729813,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CL6-Mali-G57_MC2-1789729813.json"
   }
 ]
