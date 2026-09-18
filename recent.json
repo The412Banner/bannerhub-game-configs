@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1789764984,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LH7n-Mali-G57_MC2-1789764984.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1789764198,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6855-Mali-G57_MC2-1789764198.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1789743177,
     "filename": "God_of_War-Xiaomi-25053PC47G-Adreno__TM__825-1789743177.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1789741893,
-    "filename": "BootstrapPackagedGame-LENOVO-TB311FU-Mali-G52_MC2-1789741893.json"
   }
 ]
