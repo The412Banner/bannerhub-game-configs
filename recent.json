@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789729810,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CL6-Mali-G57_MC2-1789729810.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "A736B",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789701702,
     "filename": "____2016-INFINIX-Infinix_X6525-Mali-G57-1789701702.json"
-  },
-  {
-    "game": "____2016",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789701694,
-    "filename": "____2016-INFINIX-Infinix_X6525-Mali-G57-1789701694.json"
   }
 ]
