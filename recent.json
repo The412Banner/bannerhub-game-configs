@@ -1,5 +1,12 @@
 [
   {
+    "game": "Softnyx_Game_Launcher",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1789760182,
+    "filename": "Softnyx_Game_Launcher-Xiaomi-2312DRA50G-Adreno__TM__710-1789760182.json"
+  },
+  {
     "game": "Persona_5_Royal",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789729813,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CL6-Mali-G57_MC2-1789729813.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789729810,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CL6-Mali-G57_MC2-1789729810.json"
   }
 ]
