@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1789748964,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X669D-Mali-G57-1789748964.json"
+  },
+  {
     "game": "2K_Sports_NBA_2K14",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1789718135,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-INFINIX-Infinix_X6873-Mali-G615_MC6-1789718135.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1789721680,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S938B-Adreno__TM__830-1789721680.json"
   }
 ]
