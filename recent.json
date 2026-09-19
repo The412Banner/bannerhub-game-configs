@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Launcher",
+    "manufacturer": "A125M",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1789779006,
+    "filename": "GTA_V_Launcher-samsung-SM-A125M-PowerVR_Rogue_GE8320-1789779006.json"
+  },
+  {
     "game": "____2016",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1789755446,
     "filename": "FINAL_FANTASY__XIII-AYN-Odin2_Portal-Adreno__TM__740-1789755446.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789754084,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1789754084.json"
   }
 ]
