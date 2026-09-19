@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1789838480,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25080RABDG-Mali-G615_MC2-1789838480.json"
+  },
+  {
     "game": "Fallout__New_Vegas",
     "manufacturer": "CPH2663",
     "device": "Adreno__TM__732",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__829",
     "timestamp": 1789822000,
     "filename": "God_of_War_Ragnar_k-OnePlus-PLR110-Adreno__TM__829-1789822000.json"
-  },
-  {
-    "game": "EA_SPORTS_FC__26",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789821253,
-    "filename": "EA_SPORTS_FC__26-motorola-moto_g14-Mali-G57-1789821253.json"
   }
 ]
