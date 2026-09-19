@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Unity",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1789788138,
+    "filename": "Assassin_s_Creed__Unity-AYN-AYN_Thor-Adreno__TM__740-1789788138.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1789760792,
     "filename": "God_of_War_III______________________________________________-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1789760792.json"
-  },
-  {
-    "game": "Softnyx_Game_Launcher",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1789760182,
-    "filename": "Softnyx_Game_Launcher-Xiaomi-2312DRA50G-Adreno__TM__710-1789760182.json"
   }
 ]
