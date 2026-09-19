@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1789782870,
+    "filename": "Pro_Evolution_Soccer_2017-motorola-moto_g84_5G-Adreno__TM__619-1789782870.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1789760182,
     "filename": "Softnyx_Game_Launcher-Xiaomi-2312DRA50G-Adreno__TM__710-1789760182.json"
-  },
-  {
-    "game": "Persona_5_Royal",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1789755887,
-    "filename": "Persona_5_Royal-AYN-Odin2_Portal-Adreno__TM__740-1789755887.json"
   }
 ]
