@@ -1,5 +1,12 @@
 [
   {
+    "game": "mhf",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789824581,
+    "filename": "mhf-INFINIX-Infinix_X6882-Mali-G57_MC2-1789824581.json"
+  },
+  {
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "PLR110",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1789805275,
     "filename": "PEAK-Xiaomi-2311DRK48G-Mali-G615_MC6-1789805275.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1789804486,
-    "filename": "BootstrapPackagedGame-Xiaomi-2311DRK48G-Mali-G615_MC6-1789804486.json"
   }
 ]
