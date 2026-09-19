@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719",
+    "manufacturer": "Redmi_Note_9S",
+    "device": "Adreno__TM__618",
+    "timestamp": 1789848129,
+    "filename": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1789848129.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1789828251,
     "filename": "Red_Dead_Redemption_2-vivo-V2338A-Adreno__TM__740-1789828251.json"
-  },
-  {
-    "game": "Battletoads",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1789828200,
-    "filename": "Battletoads-samsung-SM-G780G-Adreno__TM__650-1789828200.json"
   }
 ]
