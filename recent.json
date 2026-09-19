@@ -1,5 +1,12 @@
 [
   {
+    "game": "PEAK",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1789805275,
+    "filename": "PEAK-Xiaomi-2311DRK48G-Mali-G615_MC6-1789805275.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789765754,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6855-Mali-G57_MC2-1789765754.json"
-  },
-  {
-    "game": "Bendy_and_the_Ink_Machine",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789765159,
-    "filename": "Bendy_and_the_Ink_Machine-TECNO-TECNO_CM6-Mali-G57_MC2-1789765159.json"
   }
 ]
