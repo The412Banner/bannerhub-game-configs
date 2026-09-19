@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719",
+    "manufacturer": "Redmi_Note_9S",
+    "device": "Adreno__TM__618",
+    "timestamp": 1789849401,
+    "filename": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1789849401.json"
+  },
+  {
     "game": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719",
     "manufacturer": "Redmi_Note_9S",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789830624,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03L-Mali-G57-1789830624.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "V2338A",
-    "device": "Adreno__TM__740",
-    "timestamp": 1789828251,
-    "filename": "Red_Dead_Redemption_2-vivo-V2338A-Adreno__TM__740-1789828251.json"
   }
 ]
