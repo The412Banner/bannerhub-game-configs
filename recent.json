@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fallout__New_Vegas",
+    "manufacturer": "CPH2663",
+    "device": "Adreno__TM__732",
+    "timestamp": 1789838287,
+    "filename": "Fallout__New_Vegas-OnePlus-CPH2663-Adreno__TM__732-1789838287.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789821253,
     "filename": "EA_SPORTS_FC__26-motorola-moto_g14-Mali-G57-1789821253.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "X306F",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1789820320,
-    "filename": "Grand_Theft_Auto_V_Legacy-LENOVO-Lenovo_TB-X306F-PowerVR_Rogue_GE8320-1789820320.json"
   }
 ]
