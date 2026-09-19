@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH2203",
+    "device": "PowerVR_Rogue_GM9446",
+    "timestamp": 1789799923,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2203-PowerVR_Rogue_GM9446-1789799923.json"
+  },
+  {
     "game": "Assassin_s_Creed__Unity",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789763938,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6855-Mali-G57_MC2-1789763938.json"
-  },
-  {
-    "game": "God_of_War_III______________________________________________",
-    "manufacturer": "A566B",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1789760792,
-    "filename": "God_of_War_III______________________________________________-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1789760792.json"
   }
 ]
