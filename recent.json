@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_6",
+    "manufacturer": "CPH2305",
+    "device": "Adreno__TM__730",
+    "timestamp": 1789815137,
+    "filename": "Pro_Evolution_Soccer_6-OPPO-CPH2305-Adreno__TM__730-1789815137.json"
+  },
+  {
     "game": "Little_Nightmares_III",
     "manufacturer": "I2501",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1789802108,
     "filename": "Little_Nightmares-Xiaomi-2311DRK48G-Mali-G615_MC6-1789802108.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2203",
-    "device": "PowerVR_Rogue_GM9446",
-    "timestamp": 1789799923,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2203-PowerVR_Rogue_GM9446-1789799923.json"
   }
 ]
