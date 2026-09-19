@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__710",
+    "timestamp": 1789833780,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-Adreno__TM__710-1789833780.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1789809023,
     "filename": "Schedule_I-Xiaomi-22081212UG-Adreno__TM__730-1789809023.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1789806915,
-    "filename": "Red_Dead_Redemption-Xiaomi-2311DRK48G-Mali-G615_MC6-1789806915.json"
   }
 ]
