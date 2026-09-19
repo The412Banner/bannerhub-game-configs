@@ -1,5 +1,12 @@
 [
   {
+    "game": "Omega_Strike",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1789850380,
+    "filename": "Omega_Strike-TECNO-TECNO_BG6-Mali-G57-1789850380.json"
+  },
+  {
     "game": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719",
     "manufacturer": "Redmi_Note_9S",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1789833780,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-Adreno__TM__710-1789833780.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789830624,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03L-Mali-G57-1789830624.json"
   }
 ]
