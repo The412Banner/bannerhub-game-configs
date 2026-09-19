@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battletoads",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1789828200,
+    "filename": "Battletoads-samsung-SM-G780G-Adreno__TM__650-1789828200.json"
+  },
+  {
     "game": "My_Friend_Pedro_-_Blood_Bullets_Bananas",
     "manufacturer": "I2501",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1789805684,
     "filename": "Little_Nightmares_III-vivo-I2501-Adreno__TM__840-1789805684.json"
-  },
-  {
-    "game": "PEAK",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1789805299,
-    "filename": "PEAK-Xiaomi-2311DRK48G-Mali-G615_MC6-1789805299.json"
   }
 ]
