@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_SPORTS_FC__26",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1789821253,
+    "filename": "EA_SPORTS_FC__26-motorola-moto_g14-Mali-G57-1789821253.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "X306F",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1789804480,
     "filename": "BootstrapPackagedGame-Xiaomi-2311DRK48G-Mali-G615_MC6-1789804480.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1789804472,
-    "filename": "BootstrapPackagedGame-Xiaomi-2311DRK48G-Mali-G615_MC6-1789804472.json"
   }
 ]
