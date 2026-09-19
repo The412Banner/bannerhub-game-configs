@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789837000,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2303ERA42L-Mali-G57_MC2-1789837000.json"
+  },
+  {
     "game": "AssassinsCreedIIGame",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1789817930,
     "filename": "PlayGTAV-Xiaomi-25080RABDI-Mali-G615_MC2-1789817930.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_6",
-    "manufacturer": "CPH2305",
-    "device": "Adreno__TM__730",
-    "timestamp": 1789815137,
-    "filename": "Pro_Evolution_Soccer_6-OPPO-CPH2305-Adreno__TM__730-1789815137.json"
   }
 ]
