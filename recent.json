@@ -3,6 +3,13 @@
     "game": "Far_Cry__2",
     "manufacturer": "Mali",
     "device": "G615_MC2",
+    "timestamp": 1789880344,
+    "filename": "Far_Cry__2-Nothing-A001-Mali-G615_MC2-1789880344.json"
+  },
+  {
+    "game": "Far_Cry__2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
     "timestamp": 1789880337,
     "filename": "Far_Cry__2-Nothing-A001-Mali-G615_MC2-1789880337.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1789864538,
     "filename": "PlayGTAV-realme-RMX3890-Adreno__TM__610-1789864538.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789861926,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g35_5G-Mali-G57-1789861926.json"
   }
 ]
