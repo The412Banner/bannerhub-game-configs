@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX9",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1789935983,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NTH-NX9-Adreno__TM__642L-1789935983.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1789921745,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1789921745.json"
-  },
-  {
-    "game": "START-GAME",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1789920215,
-    "filename": "START-GAME-samsung-SM-A346M-Mali-G68_MC4-1789920215.json"
   }
 ]
