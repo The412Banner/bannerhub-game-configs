@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1789880337,
+    "filename": "Far_Cry__2-Nothing-A001-Mali-G615_MC2-1789880337.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789861926,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g35_5G-Mali-G57-1789861926.json"
-  },
-  {
-    "game": "Omega_Strike",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789861552,
-    "filename": "Omega_Strike-TECNO-TECNO_BG6-Mali-G57-1789861552.json"
   }
 ]
