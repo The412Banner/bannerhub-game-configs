@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1789902222,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-21061119AG-Mali-G52-1789902222.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "M2011K2G",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1789872812,
     "filename": "F1_2013-samsung-SM-X736B-Mali-G925-Immortalis_MC12-1789872812.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1789871671,
-    "filename": "BootstrapPackagedGame-OPPO-CPH2251-Mali-G68_MC4-1789871671.json"
   }
 ]
