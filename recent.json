@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1789921745,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1789921745.json"
+  },
+  {
     "game": "START-GAME",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789903276,
     "filename": "OpenAL_Installer-INFINIX-Infinix_X6837-Mali-G57_MC2-1789903276.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1789902870,
-    "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-STK-L21-Mali-G51-1789902870.json"
   }
 ]
