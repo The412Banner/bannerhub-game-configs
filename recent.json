@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lords_Of_The_Fallen__2014",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789870082,
+    "filename": "Lords_Of_The_Fallen__2014-Xiaomi-22041219NY-Mali-G57_MC2-1789870082.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1789848129,
     "filename": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1789848129.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789841949,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2312FPCA6G-Mali-G57_MC2-1789841949.json"
   }
 ]
