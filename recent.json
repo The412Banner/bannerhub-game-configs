@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G51",
+    "timestamp": 1789902870,
+    "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-STK-L21-Mali-G51-1789902870.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1789876768,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3941-Mali-G52_MC2-1789876768.json"
-  },
-  {
-    "game": "F1_2013",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1789872812,
-    "filename": "F1_2013-samsung-SM-X736B-Mali-G925-Immortalis_MC12-1789872812.json"
   }
 ]
