@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1789948281,
+    "filename": "Red_Dead_Redemption_2-Xiaomi-25053PC47G-Adreno__TM__825-1789948281.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1789927691,
     "filename": "PlayGTAV-HONOR-CLK-LX2-Adreno__TM__610-1789927691.json"
-  },
-  {
-    "game": "God_of_War_Ragnar_k",
-    "manufacturer": "I2401",
-    "device": "Adreno__TM__830",
-    "timestamp": 1789927198,
-    "filename": "God_of_War_Ragnar_k-vivo-I2401-Adreno__TM__830-1789927198.json"
   }
 ]
