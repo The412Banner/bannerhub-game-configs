@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shenzhen",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789894821,
+    "filename": "Shenzhen-Xiaomi-24117RN76E-Mali-G57_MC2-1789894821.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "25057RN09G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789870082,
     "filename": "Lords_Of_The_Fallen__2014-Xiaomi-22041219NY-Mali-G57_MC2-1789870082.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789869835,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5313-Mali-G57-1789869835.json"
   }
 ]
