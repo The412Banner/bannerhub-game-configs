@@ -1,5 +1,12 @@
 [
   {
+    "game": "____________Director_s_Cut",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1789885570,
+    "filename": "____________Director_s_Cut-ayn-Odin3-Adreno__TM__830-1789885570.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1789865971,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3890-Adreno__TM__610-1789865971.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1789865835,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-25053PC47G-Adreno__TM__825-1789865835.json"
   }
 ]
