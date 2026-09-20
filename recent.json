@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1789883214,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25080RABDG-Mali-G615_MC2-1789883214.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G720_MC7",
     "timestamp": 1789882410,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789882410.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1789865835,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-25053PC47G-Adreno__TM__825-1789865835.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1789865784,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-25053PC47G-Adreno__TM__825-1789865784.json"
   }
 ]
