@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2013",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1789872812,
+    "filename": "F1_2013-samsung-SM-X736B-Mali-G925-Immortalis_MC12-1789872812.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789850574,
     "filename": "Spider-Man__Web_of_Shadows-TCL-T613P-Mali-G57_MC2-1789850574.json"
-  },
-  {
-    "game": "Omega_Strike",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789850380,
-    "filename": "Omega_Strike-TECNO-TECNO_BG6-Mali-G57-1789850380.json"
   }
 ]
