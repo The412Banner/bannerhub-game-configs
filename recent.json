@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1789912113,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3930-Mali-G57-1789912113.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1789912033,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g04s-Mali-G57-1789912033.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789889238,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1789889238.json"
-  },
-  {
-    "game": "_____X________OFFLINE",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1789888702,
-    "filename": "_____X________OFFLINE-AYN-AYN_Thor-Adreno__TM__740-1789888702.json"
   }
 ]
