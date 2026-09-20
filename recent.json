@@ -1,5 +1,12 @@
 [
   {
+    "game": "_____X________OFFLINE",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1789888702,
+    "filename": "_____X________OFFLINE-AYN-AYN_Thor-Adreno__TM__740-1789888702.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1789868310,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1789868310.json"
-  },
-  {
-    "game": "Roblox_Bootstrapper",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789867085,
-    "filename": "Roblox_Bootstrapper-Xiaomi-23124RN87G-Mali-G57_MC2-1789867085.json"
   }
 ]
