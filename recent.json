@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789919528,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1789919528.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1789900397,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-M2011K2G-Adreno__TM__660-1789900397.json"
-  },
-  {
-    "game": "UNCHARTED___Legacy_of_Thieves_Collection",
-    "manufacturer": "25053PC47I",
-    "device": "Adreno__TM__825",
-    "timestamp": 1789895019,
-    "filename": "UNCHARTED___Legacy_of_Thieves_Collection-Xiaomi-25053PC47I-Adreno__TM__825-1789895019.json"
   }
 ]
