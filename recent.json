@@ -1,5 +1,12 @@
 [
   {
+    "game": "DOOM_Eternal",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1789925205,
+    "filename": "DOOM_Eternal-Xiaomi-25053PC47G-Adreno__TM__825-1789925205.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1789903670,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1789903670.json"
-  },
-  {
-    "game": "OpenAL_Installer",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789903276,
-    "filename": "OpenAL_Installer-INFINIX-Infinix_X6837-Mali-G57_MC2-1789903276.json"
   }
 ]
