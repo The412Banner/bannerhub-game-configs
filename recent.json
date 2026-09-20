@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789916455,
+    "filename": "PlayGTAV-samsung-SM-A075M-Mali-G57_MC2-1789916455.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1789895019,
     "filename": "UNCHARTED___Legacy_of_Thieves_Collection-Xiaomi-25053PC47I-Adreno__TM__825-1789895019.json"
-  },
-  {
-    "game": "Shenzhen",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789894821,
-    "filename": "Shenzhen-Xiaomi-24117RN76E-Mali-G57_MC2-1789894821.json"
   }
 ]
