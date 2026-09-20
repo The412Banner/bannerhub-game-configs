@@ -1,5 +1,12 @@
 [
   {
+    "game": "UNCHARTED___Legacy_of_Thieves_Collection",
+    "manufacturer": "25053PC47I",
+    "device": "Adreno__TM__825",
+    "timestamp": 1789895019,
+    "filename": "UNCHARTED___Legacy_of_Thieves_Collection-Xiaomi-25053PC47I-Adreno__TM__825-1789895019.json"
+  },
+  {
     "game": "Shenzhen",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1789871540,
     "filename": "Buckshot_Roulette-Xiaomi-2311DRK48G-Mali-G615_MC6-1789871540.json"
-  },
-  {
-    "game": "Lords_Of_The_Fallen__2014",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1789870082,
-    "filename": "Lords_Of_The_Fallen__2014-Xiaomi-22041219NY-Mali-G57_MC2-1789870082.json"
   }
 ]
