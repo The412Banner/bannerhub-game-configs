@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1789871671,
+    "filename": "BootstrapPackagedGame-OPPO-CPH2251-Mali-G68_MC4-1789871671.json"
+  },
+  {
     "game": "Buckshot_Roulette",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789850380,
     "filename": "Omega_Strike-TECNO-TECNO_BG6-Mali-G57-1789850380.json"
-  },
-  {
-    "game": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719",
-    "manufacturer": "Redmi_Note_9S",
-    "device": "Adreno__TM__618",
-    "timestamp": 1789849401,
-    "filename": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1789849401.json"
   }
 ]
