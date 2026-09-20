@@ -1,5 +1,12 @@
 [
   {
+    "game": "game",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1789928369,
+    "filename": "game-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1789928369.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789912369,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g35_5G-Mali-G57-1789912369.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789912113,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3930-Mali-G57-1789912113.json"
   }
 ]
