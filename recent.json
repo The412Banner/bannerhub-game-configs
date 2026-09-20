@@ -3,6 +3,13 @@
     "game": "PlayGTAV",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
+    "timestamp": 1789927697,
+    "filename": "PlayGTAV-HONOR-CLK-LX2-Adreno__TM__610-1789927697.json"
+  },
+  {
+    "game": "PlayGTAV",
+    "manufacturer": "LX2",
+    "device": "Adreno__TM__610",
     "timestamp": 1789927691,
     "filename": "PlayGTAV-HONOR-CLK-LX2-Adreno__TM__610-1789927691.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789912033,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g04s-Mali-G57-1789912033.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789911969,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3930-Mali-G57-1789911969.json"
   }
 ]
