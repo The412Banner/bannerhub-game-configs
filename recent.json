@@ -1,5 +1,12 @@
 [
   {
+    "game": "OpenAL_Installer",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1789903276,
+    "filename": "OpenAL_Installer-INFINIX-Infinix_X6837-Mali-G57_MC2-1789903276.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G51",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1789876793,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3941-Mali-G52_MC2-1789876793.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1789876768,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3941-Mali-G52_MC2-1789876768.json"
   }
 ]
