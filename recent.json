@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1789912369,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g35_5G-Mali-G57-1789912369.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
     "timestamp": 1789889327,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-F766N-ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_-1789889327.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1789889238,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1789889238.json"
   }
 ]
