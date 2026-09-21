@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man2",
+    "manufacturer": "V2352A",
+    "device": "Adreno__TM__735",
+    "timestamp": 1790000778,
+    "filename": "TheAmazingSpider-Man2-vivo-V2352A-Adreno__TM__735-1790000778.json"
+  },
+  {
     "game": "SR2_pc",
     "manufacturer": "M2101K6G",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1789958562,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1789958562.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1789956841,
-    "filename": "Far_Cry_3-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789956841.json"
   }
 ]
