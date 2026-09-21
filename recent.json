@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1789975546,
+    "filename": "Tomb_Raider-TECNO-TECNO_CM7-Mali-G615_MC2-1789975546.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1789935983,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NTH-NX9-Adreno__TM__642L-1789935983.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1789933670,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-24090RA29G-Mali-G615_MC2-1789933670.json"
   }
 ]
