@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1790014839,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1790014839.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
     "timestamp": 1790013130,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1789995824,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1789995824.json"
-  },
-  {
-    "game": "MotoGP_26",
-    "manufacturer": "TB321FU",
-    "device": "Adreno__TM__750",
-    "timestamp": 1789991739,
-    "filename": "MotoGP_26-LENOVO-TB321FU-Adreno__TM__750-1789991739.json"
   }
 ]
