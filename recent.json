@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1790024161,
+    "filename": "Tomb_Raider-TECNO-TECNO_CM7-Mali-G615_MC2-1790024161.json"
+  },
+  {
     "game": "Resident_Evil_Requiem",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1790006619,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A366E-Adreno__TM__710-1790006619.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1790005700,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1790005700.json"
   }
 ]
