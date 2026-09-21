@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1790020202,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-Xiaomi-2311DRK48I-Mali-G615_MC6-1790020202.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1790001780,
     "filename": "Tomb_Raider-samsung-SM-N960F-Mali-G72-1790001780.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man2",
-    "manufacturer": "V2352A",
-    "device": "Adreno__TM__735",
-    "timestamp": 1790000778,
-    "filename": "TheAmazingSpider-Man2-vivo-V2352A-Adreno__TM__735-1790000778.json"
   }
 ]
