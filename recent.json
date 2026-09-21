@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "LX2",
+    "device": "Adreno__TM__610",
+    "timestamp": 1790013130,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALT-LX2-Adreno__TM__610-1790013130.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1790012168,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1789991739,
     "filename": "MotoGP_26-LENOVO-TB321FU-Adreno__TM__750-1789991739.json"
-  },
-  {
-    "game": "AC3SP",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1789987310,
-    "filename": "AC3SP-HONOR-BRP-NX1-Adreno__TM__710-1789987310.json"
   }
 ]
