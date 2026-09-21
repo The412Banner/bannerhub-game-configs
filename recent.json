@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2_Demo",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1789953212,
+    "filename": "Euro_Truck_Simulator_2_Demo-INFINIX-Infinix_X6528-Mali-G57-1789953212.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2219",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1789927883,
     "filename": "PlayGTAV-HONOR-CLK-LX2-Adreno__TM__610-1789927883.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1789927697,
-    "filename": "PlayGTAV-HONOR-CLK-LX2-Adreno__TM__610-1789927697.json"
   }
 ]
