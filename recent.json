@@ -1,5 +1,12 @@
 [
   {
+    "game": "Valiant_Hearts__The_Great_War____Soldats_Inconnus___M_moires_de_la_Grande_Guerre_",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1790007786,
+    "filename": "Valiant_Hearts__The_Great_War____Soldats_Inconnus___M_moires_de_la_Grande_Guerre_-Xiaomi-2311DRK48G-Mali-G615_MC6-1790007786.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1789975553,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1789975553.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1789975546,
-    "filename": "Tomb_Raider-TECNO-TECNO_CM7-Mali-G615_MC2-1789975546.json"
   }
 ]
