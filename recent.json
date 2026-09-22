@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790050183,
+    "filename": "Grand_Theft_Auto_V-samsung-SM-A075F-Mali-G57_MC2-1790050183.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1790024161,
     "filename": "Tomb_Raider-TECNO-TECNO_CM7-Mali-G615_MC2-1790024161.json"
-  },
-  {
-    "game": "Resident_Evil_Requiem",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1790023851,
-    "filename": "Resident_Evil_Requiem-AYN-AYN_Thor-Adreno__TM__740-1790023851.json"
   }
 ]
