@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790093189,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1790093189.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1790081715,
     "filename": "Game-Setup-Installer-1_0_0-Xiaomi-23013PC75G-Adreno__TM__730-1790081715.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790081167,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1790081167.json"
   }
 ]
