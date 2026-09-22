@@ -1,5 +1,12 @@
 [
   {
+    "game": "Raft",
+    "manufacturer": "25099RP13G",
+    "device": "Adreno__TM__810",
+    "timestamp": 1790103105,
+    "filename": "Raft-Xiaomi-25099RP13G-Adreno__TM__810-1790103105.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Redmi_Note_8",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1790086405,
     "filename": "Tomb_Raider-INFINIX-Infinix_X6873-Mali-G615_MC6-1790086405.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1790085355,
-    "filename": "Pro_Evolution_Soccer_2013-HONOR-BRP-NX1-Adreno__TM__710-1790085355.json"
   }
 ]
