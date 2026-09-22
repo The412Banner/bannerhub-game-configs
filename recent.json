@@ -1,5 +1,12 @@
 [
   {
+    "game": "Atla",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1790082874,
+    "filename": "Atla-motorola-moto_g45_5G-Adreno__TM__619-1790082874.json"
+  },
+  {
     "game": "Game-Setup-Installer-1_0_0",
     "manufacturer": "23013PC75G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1790058085,
     "filename": "Yet_Another_Zombie_Survivors-ayn-Odin3-Adreno__TM__830-1790058085.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790050183,
-    "filename": "Grand_Theft_Auto_V-samsung-SM-A075F-Mali-G57_MC2-1790050183.json"
   }
 ]
