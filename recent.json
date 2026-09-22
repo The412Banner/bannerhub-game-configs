@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__810",
+    "timestamp": 1790092262,
+    "filename": "Euro_Truck_Simulator_2-HONOR-MTN-NX1-Adreno__TM__810-1790092262.json"
+  },
+  {
     "game": "Anno_1404_-_History_Edition",
     "manufacturer": "PLQ110",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790081167,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1790081167.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1790079615,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6870-Mali-G615_MC2-1790079615.json"
   }
 ]
