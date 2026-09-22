@@ -1,5 +1,12 @@
 [
   {
+    "game": "Attack_on_Titan___A_O_T__Wings_of_Freedom",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790082976,
+    "filename": "Attack_on_Titan___A_O_T__Wings_of_Freedom-samsung-SM-A156E-Mali-G57_MC2-1790082976.json"
+  },
+  {
     "game": "MotoGP_25",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1790063062,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g86_5G-Mali-G615_MC2-1790063062.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1790061860,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g86_5G-Mali-G615_MC2-1790061860.json"
   }
 ]
