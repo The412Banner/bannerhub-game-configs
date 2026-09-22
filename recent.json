@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOpsMP",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790106906,
+    "filename": "BlackOpsMP-Xiaomi-25028RN03A-Mali-G57-1790106906.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2011",
     "manufacturer": "F766B",
     "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1790089678,
     "filename": "Pro_Evolution_Soccer_2011-TECNO-TECNO_LJ9-Mali-G615_MC6-1790089678.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1790087205,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2012K11AG-Adreno__TM__650-1790087205.json"
   }
 ]
