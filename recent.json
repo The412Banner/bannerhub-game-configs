@@ -1,5 +1,12 @@
 [
   {
+    "game": "Monster_Sanctuary",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1790105769,
+    "filename": "Monster_Sanctuary-AYN-AYN_Thor-Adreno__TM__740-1790105769.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1790086417,
     "filename": "Tomb_Raider-INFINIX-Infinix_X6873-Mali-G615_MC6-1790086417.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1790086414,
-    "filename": "Tomb_Raider-INFINIX-Infinix_X6873-Mali-G615_MC6-1790086414.json"
   }
 ]
