@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790037156,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1790037156.json"
+  },
+  {
     "game": "FIFA_14",
     "manufacturer": "RMX5101",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1790010253,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution-OPPO-CPH2179-PowerVR_Rogue_GE8320-1790010253.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution",
-    "manufacturer": "CPH2179",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1790010229,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_Revolution-OPPO-CPH2179-PowerVR_Rogue_GE8320-1790010229.json"
   }
 ]
