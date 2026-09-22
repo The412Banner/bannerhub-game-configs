@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1790094438,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-25053PC47G-Adreno__TM__825-1790094438.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1790082874,
     "filename": "Atla-motorola-moto_g45_5G-Adreno__TM__619-1790082874.json"
-  },
-  {
-    "game": "Game-Setup-Installer-1_0_0",
-    "manufacturer": "23013PC75G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1790081715,
-    "filename": "Game-Setup-Installer-1_0_0-Xiaomi-23013PC75G-Adreno__TM__730-1790081715.json"
   }
 ]
