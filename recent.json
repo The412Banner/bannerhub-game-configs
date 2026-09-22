@@ -1,5 +1,12 @@
 [
   {
+    "game": "____2016",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790084906,
+    "filename": "____2016-Xiaomi-24117RN76G-Mali-G57_MC2-1790084906.json"
+  },
+  {
     "game": "_Rise_of_Eros_",
     "manufacturer": "PLK110",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1790064837,
     "filename": "God_of_War-samsung-SM-F741B-Adreno__TM__750-1790064837.json"
-  },
-  {
-    "game": "IGI",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1790064690,
-    "filename": "IGI-HONOR-ALI-NX1-Adreno__TM__710-1790064690.json"
   }
 ]
