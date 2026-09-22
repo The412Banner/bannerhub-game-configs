@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__II",
+    "manufacturer": "22111317PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1790101701,
+    "filename": "DARK_SOULS__II-Xiaomi-22111317PG-Adreno__TM__619-1790101701.json"
+  },
+  {
     "game": "Anomaly_Agent",
     "manufacturer": "Retroid_Pocket_Flip2",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790082976,
     "filename": "Attack_on_Titan___A_O_T__Wings_of_Freedom-samsung-SM-A156E-Mali-G57_MC2-1790082976.json"
-  },
-  {
-    "game": "MotoGP_25",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1790082891,
-    "filename": "MotoGP_25-motorola-moto_g45_5G-Adreno__TM__619-1790082891.json"
   }
 ]
