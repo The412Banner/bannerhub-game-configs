@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs__Definitive_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1790096202,
+    "filename": "Sleeping_Dogs__Definitive_Edition-Xiaomi-24095PCADG-Mali-G615_MC2-1790096202.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1790082888,
     "filename": "PlayGTAV-motorola-moto_g45_5G-Adreno__TM__619-1790082888.json"
-  },
-  {
-    "game": "Prototype_",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1790082881,
-    "filename": "Prototype_-motorola-moto_g45_5G-Adreno__TM__619-1790082881.json"
   }
 ]
