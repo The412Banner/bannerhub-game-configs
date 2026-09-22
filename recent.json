@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
+    "manufacturer": "RMX1971",
+    "device": "Adreno__TM__616",
+    "timestamp": 1790060907,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-realme-RMX1971-Adreno__TM__616-1790060907.json"
+  },
+  {
     "game": "Yet_Another_Zombie_Survivors",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790031453,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g35_5G-Mali-G57-1790031453.json"
-  },
-  {
-    "game": "FamilyTime",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790027800,
-    "filename": "FamilyTime-INFINIX-Infinix_X6531B-Mali-G52_MC2-1790027800.json"
   }
 ]
