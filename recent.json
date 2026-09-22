@@ -1,5 +1,12 @@
 [
   {
+    "game": "_Rise_of_Eros_",
+    "manufacturer": "PLK110",
+    "device": "Adreno__TM__840",
+    "timestamp": 1790083206,
+    "filename": "_Rise_of_Eros_-OnePlus-PLK110-Adreno__TM__840-1790083206.json"
+  },
+  {
     "game": "Attack_on_Titan___A_O_T__Wings_of_Freedom",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1790064690,
     "filename": "IGI-HONOR-ALI-NX1-Adreno__TM__710-1790064690.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1790063062,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g86_5G-Mali-G615_MC2-1790063062.json"
   }
 ]
