@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Black_Ops",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790042085,
+    "filename": "Call_of_Duty___Black_Ops-INFINIX-Infinix_X6725-Mali-G57-1790042085.json"
+  },
+  {
     "game": "2K_Sports_NBA_2K14",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790012168,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6837-Mali-G57_MC2-1790012168.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790011458,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1790011458.json"
   }
 ]
