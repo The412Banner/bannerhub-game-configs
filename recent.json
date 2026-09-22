@@ -1,5 +1,12 @@
 [
   {
+    "game": "FarmingSimulator2015Game",
+    "manufacturer": "moto_e_7_",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1790042560,
+    "filename": "FarmingSimulator2015Game-motorola-moto_e_7_-PowerVR_Rogue_GE8320-1790042560.json"
+  },
+  {
     "game": "Call_of_Duty___Black_Ops",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790013130,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALT-LX2-Adreno__TM__610-1790013130.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790012168,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6837-Mali-G57_MC2-1790012168.json"
   }
 ]
