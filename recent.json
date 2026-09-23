@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Unity",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1790131320,
+    "filename": "Assassin_s_Creed__Unity-AYN-AYN_Thor-Adreno__TM__740-1790131320.json"
+  },
+  {
     "game": "Yet_Another_Zombie_Survivors",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1790116255,
     "filename": "unins000-Xiaomi-M2007J3SY-Adreno__TM__650-1790116255.json"
-  },
-  {
-    "game": "PES_2013",
-    "manufacturer": "RMX3890",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790115458,
-    "filename": "PES_2013-realme-RMX3890-Adreno__TM__610-1790115458.json"
   }
 ]
