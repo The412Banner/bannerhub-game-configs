@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Syndicate",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1790157714,
+    "filename": "Assassin_s_Creed__Syndicate-INFINIX-Infinix_X6873-Mali-G615_MC6-1790157714.json"
+  },
+  {
     "game": "Ben_10__Power_Trip",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1790123258,
     "filename": "Prototype_2-Xiaomi-25053PC47G-Adreno__TM__825-1790123258.json"
-  },
-  {
-    "game": "Prototype_2",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1790123251,
-    "filename": "Prototype_2-Xiaomi-25053PC47G-Adreno__TM__825-1790123251.json"
   }
 ]
