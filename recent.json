@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790181743,
+    "filename": "Red_Dead_Redemption_2-INFINIX-Infinix_X6730B-Mali-G57_MC2-1790181743.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2201117TG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1790155954,
     "filename": "speed-nubia-NX769J-Adreno__TM__750-1790155954.json"
-  },
-  {
-    "game": "HOI4",
-    "manufacturer": "W29",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790154955,
-    "filename": "HOI4-HONOR-ELN2-W29-Adreno__TM__610-1790154955.json"
   }
 ]
