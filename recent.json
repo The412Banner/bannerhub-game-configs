@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1790154700,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-INFINIX-Infinix_X6871-Mali-G610_MC6-1790154700.json"
+  },
+  {
     "game": "PrincessMakerKaren",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790122080,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22071219CG-Mali-G57_MC2-1790122080.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1790121480,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1790121480.json"
   }
 ]
