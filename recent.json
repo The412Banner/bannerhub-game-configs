@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790188370,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-24117RN76G-Mali-G57_MC2-1790188370.json"
+  },
+  {
     "game": "Mount___Blade__Warband",
     "manufacturer": "NX9",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790161787,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23108RN04Y-Mali-G52_MC2-1790161787.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "moto_g85_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1790159501,
-    "filename": "Left_4_Dead_2-motorola-moto_g85_5G-Adreno__TM__619-1790159501.json"
   }
 ]
