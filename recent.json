@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1790151942,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1790151942.json"
+  },
+  {
     "game": "Mimic_Party",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790121273,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22071219CG-Mali-G57_MC2-1790121273.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790120985,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6853-Mali-G57_MC2-1790120985.json"
   }
 ]
