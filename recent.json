@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mimic_Party",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1790150472,
+    "filename": "Mimic_Party-Xiaomi-2311DRK48G-Mali-G615_MC6-1790150472.json"
+  },
+  {
     "game": "Port_of_Jumanah_Demo",
     "manufacturer": "22021211RG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790120985,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6853-Mali-G57_MC2-1790120985.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1790118921,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1790118921.json"
   }
 ]
