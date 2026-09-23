@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_13",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790186736,
+    "filename": "FIFA_13-samsung-SM-A065M-Mali-G52_MC2-1790186736.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1790157714,
     "filename": "Assassin_s_Creed__Syndicate-INFINIX-Infinix_X6873-Mali-G615_MC6-1790157714.json"
-  },
-  {
-    "game": "Ben_10__Power_Trip",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790156419,
-    "filename": "Ben_10__Power_Trip-TECNO-TECNO_LH7n-Mali-G57_MC2-1790156419.json"
   }
 ]
