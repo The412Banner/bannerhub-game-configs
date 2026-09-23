@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790182373,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23108RN04Y-Mali-G52_MC2-1790182373.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790155957,
     "filename": "Microsoft_R__DirectX_for_Windows_R_-samsung-SM-A057F-Adreno__TM__610-1790155957.json"
-  },
-  {
-    "game": "speed",
-    "manufacturer": "NX769J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1790155954,
-    "filename": "speed-nubia-NX769J-Adreno__TM__750-1790155954.json"
   }
 ]
