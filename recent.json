@@ -1,5 +1,12 @@
 [
   {
+    "game": "GIANTS_Engine",
+    "manufacturer": "23028RA60L",
+    "device": "Adreno__TM__610",
+    "timestamp": 1790188956,
+    "filename": "GIANTS_Engine-Xiaomi-23028RA60L-Adreno__TM__610-1790188956.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790164025,
     "filename": "iw3mp-INFINIX-Infinix_X6885-Mali-G57_MC2-1790164025.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790161787,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23108RN04Y-Mali-G52_MC2-1790161787.json"
   }
 ]
