@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "moto_g85_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1790159501,
+    "filename": "Left_4_Dead_2-motorola-moto_g85_5G-Adreno__TM__619-1790159501.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1790128367,
     "filename": "Yet_Another_Zombie_Survivors-ayn-Odin3-Adreno__TM__830-1790128367.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1790124233,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-N975F-Mali-G76-1790124233.json"
   }
 ]
