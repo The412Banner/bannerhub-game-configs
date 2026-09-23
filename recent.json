@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790184373,
+    "filename": "Red_Dead_Redemption_2-INFINIX-Infinix_X6730B-Mali-G57_MC2-1790184373.json"
+  },
+  {
     "game": "Stardew_Valley",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790156419,
     "filename": "Ben_10__Power_Trip-TECNO-TECNO_LH7n-Mali-G57_MC2-1790156419.json"
-  },
-  {
-    "game": "Ben_10__Power_Trip",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790156318,
-    "filename": "Ben_10__Power_Trip-TECNO-TECNO_LH7n-Mali-G57_MC2-1790156318.json"
   }
 ]
