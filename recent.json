@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1790196217,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1790196217.json"
+  },
+  {
     "game": "EA_SPORTS__FIFA_23",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1790175047,
     "filename": "Hellblade__Senua_s_Sacrifice-TECNO-TECNO_CL8-Mali-G610_MC6-1790175047.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "CPH2565",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790173110,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-OPPO-CPH2565-Adreno__TM__610-1790173110.json"
   }
 ]
