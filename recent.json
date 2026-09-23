@@ -1,5 +1,12 @@
 [
   {
+    "game": "GrandChase",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1790192406,
+    "filename": "GrandChase-nubia-NX799J-Adreno__TM__830-1790192406.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790172912,
     "filename": "Mafia_II__Classic_-realme-RMX3710-Mali-G52_MC2-1790172912.json"
-  },
-  {
-    "game": "FIFA_19",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1790172598,
-    "filename": "FIFA_19-TECNO-TECNO_LJ9-Mali-G615_MC6-1790172598.json"
   }
 ]
