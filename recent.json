@@ -1,5 +1,12 @@
 [
   {
+    "game": "Yet_Another_Zombie_Survivors",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1790128367,
+    "filename": "Yet_Another_Zombie_Survivors-ayn-Odin3-Adreno__TM__830-1790128367.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790115458,
     "filename": "PES_2013-realme-RMX3890-Adreno__TM__610-1790115458.json"
-  },
-  {
-    "game": "Diablo_II",
-    "manufacturer": "TB323FU",
-    "device": "Adreno__TM__840",
-    "timestamp": 1790114741,
-    "filename": "Diablo_II-LENOVO-TB323FU-Adreno__TM__840-1790114741.json"
   }
 ]
