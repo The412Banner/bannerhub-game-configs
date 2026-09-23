@@ -3,6 +3,13 @@
     "game": "Prototype_2",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
+    "timestamp": 1790123258,
+    "filename": "Prototype_2-Xiaomi-25053PC47G-Adreno__TM__825-1790123258.json"
+  },
+  {
+    "game": "Prototype_2",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
     "timestamp": 1790123251,
     "filename": "Prototype_2-Xiaomi-25053PC47G-Adreno__TM__825-1790123251.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790108454,
     "filename": "BlackOps-Xiaomi-2201116TG-Mali-G57_MC2-1790108454.json"
-  },
-  {
-    "game": "BlackOpsMP",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790106906,
-    "filename": "BlackOpsMP-Xiaomi-25028RN03A-Mali-G57-1790106906.json"
   }
 ]
