@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prototype_2",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1790123251,
+    "filename": "Prototype_2-Xiaomi-25053PC47G-Adreno__TM__825-1790123251.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790106906,
     "filename": "BlackOpsMP-Xiaomi-25028RN03A-Mali-G57-1790106906.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2011",
-    "manufacturer": "F766B",
-    "device": "ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_",
-    "timestamp": 1790106754,
-    "filename": "Pro_Evolution_Soccer_2011-samsung-SM-F766B-ANGLE___Samsung_Xclipse_950__on_Vulkan_1_3_279_-1790106754.json"
   }
 ]
