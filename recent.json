@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790189684,
+    "filename": "Far_Cry_3-TECNO-TECNO_CK7n-Mali-G57_MC2-1790189684.json"
+  },
+  {
     "game": "GIANTS_Engine",
     "manufacturer": "23028RA60L",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1790172559,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A047F-Mali-G52-1790172559.json"
-  },
-  {
-    "game": "iw3mp",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790164025,
-    "filename": "iw3mp-INFINIX-Infinix_X6885-Mali-G57_MC2-1790164025.json"
   }
 ]
