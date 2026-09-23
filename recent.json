@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw3mp",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790164025,
+    "filename": "iw3mp-INFINIX-Infinix_X6885-Mali-G57_MC2-1790164025.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1790136350,
     "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1790136350.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Unity",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1790131320,
-    "filename": "Assassin_s_Creed__Unity-AYN-AYN_Thor-Adreno__TM__740-1790131320.json"
   }
 ]
