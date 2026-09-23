@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2201117TG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1790179968,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2201117TG-Adreno__TM__610-1790179968.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1790178961,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790154955,
     "filename": "HOI4-HONOR-ELN2-W29-Adreno__TM__610-1790154955.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1790154700,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-INFINIX-Infinix_X6871-Mali-G610_MC6-1790154700.json"
   }
 ]
