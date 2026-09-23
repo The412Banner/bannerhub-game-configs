@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ben_10__Power_Trip",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790156318,
+    "filename": "Ben_10__Power_Trip-TECNO-TECNO_LH7n-Mali-G57_MC2-1790156318.json"
+  },
+  {
     "game": "Microsoft_R__DirectX_for_Windows_R_",
     "manufacturer": "A057F",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790123054,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22071219CG-Mali-G57_MC2-1790123054.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790122352,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22071219CG-Mali-G57_MC2-1790122352.json"
   }
 ]
