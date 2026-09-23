@@ -1,5 +1,12 @@
 [
   {
+    "game": "GraveyardKeeper2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790195389,
+    "filename": "GraveyardKeeper2-Anbernic-RG_406H-Mali-G57-1790195389.json"
+  },
+  {
     "game": "GrandChase",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790173015,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23028RA60L-Adreno__TM__610-1790173015.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790172912,
-    "filename": "Mafia_II__Classic_-realme-RMX3710-Mali-G52_MC2-1790172912.json"
   }
 ]
