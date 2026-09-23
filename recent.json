@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stardew_Valley",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1790182703,
+    "filename": "Stardew_Valley-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1790182703.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790156318,
     "filename": "Ben_10__Power_Trip-TECNO-TECNO_LH7n-Mali-G57_MC2-1790156318.json"
-  },
-  {
-    "game": "Microsoft_R__DirectX_for_Windows_R_",
-    "manufacturer": "A057F",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790155957,
-    "filename": "Microsoft_R__DirectX_for_Windows_R_-samsung-SM-A057F-Adreno__TM__610-1790155957.json"
   }
 ]
