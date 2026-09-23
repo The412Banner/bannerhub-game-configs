@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1790172559,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A047F-Mali-G52-1790172559.json"
+  },
+  {
     "game": "iw3mp",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790136805,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1790136805.json"
-  },
-  {
-    "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1790136350,
-    "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1790136350.json"
   }
 ]
