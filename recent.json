@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790278829,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6885-Mali-G57_MC2-1790278829.json"
+  },
+  {
     "game": "Apex_Legends",
     "manufacturer": "A566B",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1790260635,
     "filename": "____2016-Xiaomi-23043RP34G-Adreno__TM__650-1790260635.json"
-  },
-  {
-    "game": "The_Rhapsody_of_Zephyr_Remastered",
-    "manufacturer": "TB323FU",
-    "device": "Adreno__TM__840",
-    "timestamp": 1790260499,
-    "filename": "The_Rhapsody_of_Zephyr_Remastered-LENOVO-TB323FU-Adreno__TM__840-1790260499.json"
   }
 ]
