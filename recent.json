@@ -1,5 +1,12 @@
 [
   {
+    "game": "CourtBad",
+    "manufacturer": "S942B",
+    "device": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
+    "timestamp": 1790222084,
+    "filename": "CourtBad-samsung-SM-S942B-ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_-1790222084.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G77",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790188956,
     "filename": "GIANTS_Engine-Xiaomi-23028RA60L-Adreno__TM__610-1790188956.json"
-  },
-  {
-    "game": "PRO_EVOLUTION_SOCCER_2018",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790188370,
-    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-24117RN76G-Mali-G57_MC2-1790188370.json"
   }
 ]
