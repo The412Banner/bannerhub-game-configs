@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES2017",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1790266330,
+    "filename": "PES2017-Xiaomi-M2012K11AG-Adreno__TM__650-1790266330.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1790247267,
     "filename": "Mafia_II__Classic_-Xiaomi-22101320G-Adreno__TM__642L-1790247267.json"
-  },
-  {
-    "game": "Mad_Max",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1790246738,
-    "filename": "Mad_Max-AYN-AYN_Thor-Adreno__TM__740-1790246738.json"
   }
 ]
