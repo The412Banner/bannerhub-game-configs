@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Sims__4",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1790293915,
+    "filename": "The_Sims__4-Xiaomi-23021RAAEG-Adreno__TM__610-1790293915.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790275964,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g77-Mali-G57_MC2-1790275964.json"
-  },
-  {
-    "game": "Mafia_2_____________________________________________________",
-    "manufacturer": "2510DPC44G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1790275675,
-    "filename": "Mafia_2_____________________________________________________-Xiaomi-2510DPC44G-Adreno__TM__830-1790275675.json"
   }
 ]
