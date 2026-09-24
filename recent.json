@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prince_of_Persia_",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1790237254,
+    "filename": "Prince_of_Persia_-AYN-AYN_Thor-Adreno__TM__740-1790237254.json"
+  },
+  {
     "game": "Prince_of_Persia_the_Forgotten_Sands",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1790192406,
     "filename": "GrandChase-nubia-NX799J-Adreno__TM__830-1790192406.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790191363,
-    "filename": "Grand_Theft_Auto_V-TECNO_MOBILE_LIMITED-TECNO_LE6h-Mali-G57-1790191363.json"
   }
 ]
