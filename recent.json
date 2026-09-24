@@ -1,5 +1,12 @@
 [
   {
+    "game": "Apex_Legends",
+    "manufacturer": "A566B",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1790276742,
+    "filename": "Apex_Legends-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1790276742.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1790260499,
     "filename": "The_Rhapsody_of_Zephyr_Remastered-LENOVO-TB323FU-Adreno__TM__840-1790260499.json"
-  },
-  {
-    "game": "EasyAntiCheat_Launcher",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1790260351,
-    "filename": "EasyAntiCheat_Launcher-INFINIX-Infinix_X6871-Mali-G610_MC6-1790260351.json"
   }
 ]
