@@ -1,5 +1,12 @@
 [
   {
+    "game": "EasyAntiCheat_Launcher",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1790260351,
+    "filename": "EasyAntiCheat_Launcher-INFINIX-Infinix_X6871-Mali-G610_MC6-1790260351.json"
+  },
+  {
     "game": "Batman___Arkham_Origins",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1790216884,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23122PCD1G-Adreno__TM__710-1790216884.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1790216879,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g73_5G-PowerVR_B-Series_BXM-8-256-1790216879.json"
   }
 ]
