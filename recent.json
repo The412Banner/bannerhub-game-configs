@@ -1,5 +1,12 @@
 [
   {
+    "game": "DLSS5oneclick",
+    "manufacturer": "2201123G",
+    "device": "Adreno__TM__730",
+    "timestamp": 1790238623,
+    "filename": "DLSS5oneclick-Xiaomi-2201123G-Adreno__TM__730-1790238623.json"
+  },
+  {
     "game": "Prince_of_Persia_",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790195389,
     "filename": "GraveyardKeeper2-Anbernic-RG_406H-Mali-G57-1790195389.json"
-  },
-  {
-    "game": "GrandChase",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1790192406,
-    "filename": "GrandChase-nubia-NX799J-Adreno__TM__830-1790192406.json"
   }
 ]
