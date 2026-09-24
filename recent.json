@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Island_Definitive_Edition",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1790260917,
+    "filename": "Dead_Island_Definitive_Edition-motorola-moto_g45_5G-Adreno__TM__619-1790260917.json"
+  },
+  {
     "game": "____2016",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790226308,
     "filename": "TheCensor-Xiaomi-25028RN03A-Mali-G57-1790226308.json"
-  },
-  {
-    "game": "CourtBad",
-    "manufacturer": "S942B",
-    "device": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
-    "timestamp": 1790222084,
-    "filename": "CourtBad-samsung-SM-S942B-ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_-1790222084.json"
   }
 ]
