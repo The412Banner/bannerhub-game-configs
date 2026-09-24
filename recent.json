@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790279982,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A076M-Mali-G57_MC2-1790279982.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "CPH2349",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790261083,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-24117RN76O-Mali-G57_MC2-1790261083.json"
-  },
-  {
-    "game": "Dead_Island_Definitive_Edition",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1790260917,
-    "filename": "Dead_Island_Definitive_Edition-motorola-moto_g45_5G-Adreno__TM__619-1790260917.json"
   }
 ]
