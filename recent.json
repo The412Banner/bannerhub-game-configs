@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1790275224,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1790275224.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1790249186,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2511FPC34G-Mali-G720_MC8-1790249186.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "SCG06",
-    "device": "Adreno__TM__650",
-    "timestamp": 1790248956,
-    "filename": "God_of_War-samsung-SCG06-Adreno__TM__650-1790248956.json"
   }
 ]
