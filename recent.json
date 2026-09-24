@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790261831,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KM7-Mali-G57_MC2-1790261831.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "2512BPNDAG",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1790238623,
     "filename": "DLSS5oneclick-Xiaomi-2201123G-Adreno__TM__730-1790238623.json"
-  },
-  {
-    "game": "Prince_of_Persia_",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1790237254,
-    "filename": "Prince_of_Persia_-AYN-AYN_Thor-Adreno__TM__740-1790237254.json"
   }
 ]
