@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1790287665,
+    "filename": "Red_Dead_Redemption-nubia-NX809J-Adreno__TM__840-1790287665.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1790270247,
     "filename": "Mortal_Kombat_Komplete_Edition-HONOR-NTH-NX9-Adreno__TM__642L-1790270247.json"
-  },
-  {
-    "game": "PES2017",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1790266330,
-    "filename": "PES2017-Xiaomi-M2012K11AG-Adreno__TM__650-1790266330.json"
   }
 ]
