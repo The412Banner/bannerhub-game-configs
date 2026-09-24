@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1790210699,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-S938B-Adreno__TM__830-1790210699.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2014",
     "manufacturer": "23129RAA4G",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1790182703,
     "filename": "Stardew_Valley-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1790182703.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790182373,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23108RN04Y-Mali-G52_MC2-1790182373.json"
   }
 ]
