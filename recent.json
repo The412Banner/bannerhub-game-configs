@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790265736,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028RN03A-Mali-G57-1790265736.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A037M",
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1790265119,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1790246738,
     "filename": "Mad_Max-AYN-AYN_Thor-Adreno__TM__740-1790246738.json"
-  },
-  {
-    "game": "The_Last_of_Us__Part_II_Remastered",
-    "manufacturer": "NX741J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1790244411,
-    "filename": "The_Last_of_Us__Part_II_Remastered-nubia-NX741J-Adreno__TM__840-1790244411.json"
   }
 ]
