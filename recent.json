@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_3__Wild_Hunt",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1790211122,
+    "filename": "The_Witcher_3__Wild_Hunt-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1790211122.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790186736,
     "filename": "FIFA_13-samsung-SM-A065M-Mali-G52_MC2-1790186736.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790184373,
-    "filename": "Red_Dead_Redemption_2-INFINIX-Infinix_X6730B-Mali-G57_MC2-1790184373.json"
   }
 ]
