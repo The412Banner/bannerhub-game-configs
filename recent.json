@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G77",
+    "timestamp": 1790218759,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-G985F-Mali-G77-1790218759.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "23122PCD1G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790188370,
     "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-24117RN76G-Mali-G57_MC2-1790188370.json"
-  },
-  {
-    "game": "Mount___Blade__Warband",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__750",
-    "timestamp": 1790187724,
-    "filename": "Mount___Blade__Warband-HONOR-DNP-NX9-Adreno__TM__750-1790187724.json"
   }
 ]
