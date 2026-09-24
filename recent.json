@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alone_With_You",
+    "manufacturer": "Odin2_Mini",
+    "device": "Adreno__TM__740",
+    "timestamp": 1790253043,
+    "filename": "Alone_With_You-AYN-Odin2_Mini-Adreno__TM__740-1790253043.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1790211122,
     "filename": "The_Witcher_3__Wild_Hunt-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1790211122.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1790210736,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-S938B-Adreno__TM__830-1790210736.json"
   }
 ]
