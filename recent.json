@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mad_Max",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1790246738,
+    "filename": "Mad_Max-AYN-AYN_Thor-Adreno__TM__740-1790246738.json"
+  },
+  {
     "game": "The_Last_of_Us__Part_II_Remastered",
     "manufacturer": "NX741J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1790196217,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1790196217.json"
-  },
-  {
-    "game": "EA_SPORTS__FIFA_23",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1790195963,
-    "filename": "EA_SPORTS__FIFA_23-motorola-motorola_edge_40-Mali-G77_MC9-1790195963.json"
   }
 ]
