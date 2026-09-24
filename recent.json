@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castlevania__Lords_of_Shadow___Ultimate_Edition",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1790248729,
+    "filename": "Castlevania__Lords_of_Shadow___Ultimate_Edition-AYN-AYN_Thor-Adreno__TM__740-1790248729.json"
+  },
+  {
     "game": "Call_of_Duty_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790209067,
     "filename": "Pro_Evolution_Soccer_2014-Xiaomi-23129RAA4G-Adreno__TM__610-1790209067.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2014",
-    "manufacturer": "23129RAA4G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790209063,
-    "filename": "Pro_Evolution_Soccer_2014-Xiaomi-23129RAA4G-Adreno__TM__610-1790209063.json"
   }
 ]
