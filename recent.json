@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prince_of_Persia_the_Forgotten_Sands",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1790232772,
+    "filename": "Prince_of_Persia_the_Forgotten_Sands-AYN-AYN_Thor-Adreno__TM__740-1790232772.json"
+  },
+  {
     "game": "TheCensor",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790191363,
     "filename": "Grand_Theft_Auto_V-TECNO_MOBILE_LIMITED-TECNO_LE6h-Mali-G57-1790191363.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790189684,
-    "filename": "Far_Cry_3-TECNO-TECNO_CK7n-Mali-G57_MC2-1790189684.json"
   }
 ]
