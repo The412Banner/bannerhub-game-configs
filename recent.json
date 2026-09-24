@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1790216879,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g73_5G-PowerVR_B-Series_BXM-8-256-1790216879.json"
+  },
+  {
     "game": "Cyberpunk_2077",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1790187712,
     "filename": "Stray-samsung-SM-A356E-Mali-G68-1790187712.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "24117RK2CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1790187407,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RK2CG-Adreno__TM__750-1790187407.json"
   }
 ]
