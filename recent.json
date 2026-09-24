@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Last_of_Us__Part_II_Remastered",
+    "manufacturer": "NX741J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1790244411,
+    "filename": "The_Last_of_Us__Part_II_Remastered-nubia-NX741J-Adreno__TM__840-1790244411.json"
+  },
+  {
     "game": "DLSS5oneclick",
     "manufacturer": "2201123G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1790195963,
     "filename": "EA_SPORTS__FIFA_23-motorola-motorola_edge_40-Mali-G77_MC9-1790195963.json"
-  },
-  {
-    "game": "GraveyardKeeper2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790195389,
-    "filename": "GraveyardKeeper2-Anbernic-RG_406H-Mali-G57-1790195389.json"
   }
 ]
