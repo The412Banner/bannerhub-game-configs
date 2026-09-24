@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1790216884,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23122PCD1G-Adreno__TM__710-1790216884.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1790187724,
     "filename": "Mount___Blade__Warband-HONOR-DNP-NX9-Adreno__TM__750-1790187724.json"
-  },
-  {
-    "game": "Stray",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1790187712,
-    "filename": "Stray-samsung-SM-A356E-Mali-G68-1790187712.json"
   }
 ]
