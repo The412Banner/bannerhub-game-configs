@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790276073,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6836-Mali-G52_MC2-1790276073.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1790275964,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g77-Mali-G57_MC2-1790275964.json"
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1790256914,
     "filename": "BootstrapPackagedGame-Xiaomi-2412DPC0AG-Mali-G720_MC7-1790256914.json"
-  },
-  {
-    "game": "Alone_With_You",
-    "manufacturer": "Odin2_Mini",
-    "device": "Adreno__TM__740",
-    "timestamp": 1790253043,
-    "filename": "Alone_With_You-AYN-Odin2_Mini-Adreno__TM__740-1790253043.json"
   }
 ]
