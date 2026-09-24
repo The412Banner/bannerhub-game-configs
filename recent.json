@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "LX2",
+    "device": "Adreno__TM__610",
+    "timestamp": 1790290640,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LNA-LX2-Adreno__TM__610-1790290640.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1790269827,
     "filename": "Pes2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1790269827.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1790270247,
-    "filename": "Mortal_Kombat_Komplete_Edition-HONOR-NTH-NX9-Adreno__TM__642L-1790270247.json"
   }
 ]
