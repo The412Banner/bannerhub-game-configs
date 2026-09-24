@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheCensor",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790226308,
+    "filename": "TheCensor-Xiaomi-25028RN03A-Mali-G57-1790226308.json"
+  },
+  {
     "game": "CourtBad",
     "manufacturer": "S942B",
     "device": "ANGLE___Samsung_Xclipse_960__on_Vulkan_1_4_304_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790189684,
     "filename": "Far_Cry_3-TECNO-TECNO_CK7n-Mali-G57_MC2-1790189684.json"
-  },
-  {
-    "game": "GIANTS_Engine",
-    "manufacturer": "23028RA60L",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790188956,
-    "filename": "GIANTS_Engine-Xiaomi-23028RA60L-Adreno__TM__610-1790188956.json"
   }
 ]
