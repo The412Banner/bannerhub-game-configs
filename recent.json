@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pes2013",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1790269827,
+    "filename": "Pes2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1790269827.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "NX9",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790248302,
     "filename": "Call_of_Duty_-TECNO-TECNO_LJ6-Mali-G57_MC2-1790248302.json"
-  },
-  {
-    "game": "Prototype_",
-    "manufacturer": "A576B",
-    "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
-    "timestamp": 1790248146,
-    "filename": "Prototype_-samsung-SM-A576B-ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_-1790248146.json"
   }
 ]
