@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1790271091,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1790271091.json"
+  },
+  {
     "game": "The_Witcher_3__Wild_Hunt",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1790248956,
     "filename": "God_of_War-samsung-SCG06-Adreno__TM__650-1790248956.json"
-  },
-  {
-    "game": "Castlevania__Lords_of_Shadow___Ultimate_Edition",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1790248729,
-    "filename": "Castlevania__Lords_of_Shadow___Ultimate_Edition-AYN-AYN_Thor-Adreno__TM__740-1790248729.json"
   }
 ]
