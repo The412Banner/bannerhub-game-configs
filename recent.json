@@ -1,5 +1,12 @@
 [
   {
+    "game": "Greedland",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1790339398,
+    "filename": "Greedland-ayn-Odin3-Adreno__TM__830-1790339398.json"
+  },
+  {
     "game": "Devil_May_Cry_5",
     "manufacturer": "A376B",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790305329,
     "filename": "NieNoMachi-INFINIX-Infinix_X6833B-Mali-G57_MC2-1790305329.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Redmi_Note_9S",
-    "device": "Adreno__TM__618",
-    "timestamp": 1790303137,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1790303137.json"
   }
 ]
