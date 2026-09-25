@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1790356650,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1790356650.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1790328467,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G977N-Mali-G76-1790328467.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790328320,
-    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_LI9-Mali-G57_MC2-1790328320.json"
   }
 ]
