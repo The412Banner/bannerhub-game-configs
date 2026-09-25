@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790295309,
+    "filename": "Grand_Theft_Auto_V_Legacy-ITEL-itel_S666LN-Mali-G57_MC2-1790295309.json"
+  },
+  {
     "game": "The_Sims__4",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790276073,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6836-Mali-G52_MC2-1790276073.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790275964,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g77-Mali-G57_MC2-1790275964.json"
   }
 ]
