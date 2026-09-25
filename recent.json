@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790328898,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KL4-Mali-G57-1790328898.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G76",
     "timestamp": 1790328467,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G977N-Mali-G76-1790328467.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1790300619,
     "filename": "Tainted_Grail__The_Fall_of_Avalon-ayn-Odin3-Adreno__TM__830-1790300619.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790299851,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3930-Mali-G57-1790299851.json"
   }
 ]
