@@ -1,5 +1,12 @@
 [
   {
+    "game": "Anger_Foot",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790310411,
+    "filename": "Anger_Foot-samsung-SM-X130-Mali-G57_MC2-1790310411.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "motorola_edge_50_ultra",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790293915,
     "filename": "The_Sims__4-Xiaomi-23021RAAEG-Adreno__TM__610-1790293915.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1790293613,
-    "filename": "Resident_Evil_2-AYN-AYN_Thor-Adreno__TM__740-1790293613.json"
   }
 ]
