@@ -1,5 +1,12 @@
 [
   {
+    "game": "NieNoMachi",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790305329,
+    "filename": "NieNoMachi-INFINIX-Infinix_X6833B-Mali-G57_MC2-1790305329.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Redmi_Note_9S",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790291208,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A175F-Mali-G57_MC2-1790291208.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790291188,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A175F-Mali-G57_MC2-1790291188.json"
   }
 ]
