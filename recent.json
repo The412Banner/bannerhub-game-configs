@@ -1,5 +1,12 @@
 [
   {
+    "game": "EasyAntiCheat_Launcher",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1790300627,
+    "filename": "EasyAntiCheat_Launcher-INFINIX-Infinix_X6871-Mali-G610_MC6-1790300627.json"
+  },
+  {
     "game": "Tainted_Grail__The_Fall_of_Avalon",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790283780,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-CLK-LX2-Adreno__TM__610-1790283780.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790281415,
-    "filename": "Far_Cry_3-ITEL-itel_P661N-Mali-G57_MC2-1790281415.json"
   }
 ]
