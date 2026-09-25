@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1790360387,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1790360387.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790330925,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g17-Mali-G52_MC2-1790330925.json"
-  },
-  {
-    "game": "Attack_on_Titan___A_O_T__Wings_of_Freedom",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1790330710,
-    "filename": "Attack_on_Titan___A_O_T__Wings_of_Freedom-nubia-NX809J-Adreno__TM__840-1790330710.json"
   }
 ]
