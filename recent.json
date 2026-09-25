@@ -1,5 +1,12 @@
 [
   {
+    "game": "_______________V_______",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790298751,
+    "filename": "_______________V_______-TECNO_MOBILE_LIMITED-TECNO_LE6h-Mali-G57-1790298751.json"
+  },
+  {
     "game": "Valheim",
     "manufacturer": "CPH2745",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1790279703,
     "filename": "Euro_Truck_Simulator_2-OPPO-CPH2349-PowerVR_Rogue_GE8320-1790279703.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790278829,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6885-Mali-G57_MC2-1790278829.json"
   }
 ]
