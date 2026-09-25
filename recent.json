@@ -1,5 +1,12 @@
 [
   {
+    "game": "PEAK",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1790298321,
+    "filename": "PEAK-Xiaomi-2511FPC34G-Mali-G720_MC8-1790298321.json"
+  },
+  {
     "game": "MSI_Lite_Player_144",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1790276742,
     "filename": "Apex_Legends-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1790276742.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790276287,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6836-Mali-G52_MC2-1790276287.json"
   }
 ]
