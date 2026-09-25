@@ -1,5 +1,12 @@
 [
   {
+    "game": "MSI_Lite_Player_144",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790298018,
+    "filename": "MSI_Lite_Player_144-INFINIX-Infinix_X6827-Mali-G57_MC2-1790298018.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790276287,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6836-Mali-G52_MC2-1790276287.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790276227,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6836-Mali-G52_MC2-1790276227.json"
   }
 ]
