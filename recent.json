@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790299851,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3930-Mali-G57-1790299851.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Redmi_Note_9S",
     "device": "Adreno__TM__618",
     "timestamp": 1790299767,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790280374,
     "filename": "Mount___Blade__Warband-Xiaomi-24116RACCG-Mali-G57_MC2-1790280374.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790279982,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A076M-Mali-G57_MC2-1790279982.json"
   }
 ]
