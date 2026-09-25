@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tainted_Grail__The_Fall_of_Avalon",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1790300619,
+    "filename": "Tainted_Grail__The_Fall_of_Avalon-ayn-Odin3-Adreno__TM__830-1790300619.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790281415,
     "filename": "Far_Cry_3-ITEL-itel_P661N-Mali-G57_MC2-1790281415.json"
-  },
-  {
-    "game": "Mount___Blade__Warband",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790280374,
-    "filename": "Mount___Blade__Warband-Xiaomi-24116RACCG-Mali-G57_MC2-1790280374.json"
   }
 ]
