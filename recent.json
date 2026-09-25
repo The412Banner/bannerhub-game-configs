@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Redmi_Note_9S",
+    "device": "Adreno__TM__618",
+    "timestamp": 1790299767,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1790299767.json"
+  },
+  {
     "game": "_______________V_______",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790279982,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A076M-Mali-G57_MC2-1790279982.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "CPH2349",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1790279703,
-    "filename": "Euro_Truck_Simulator_2-OPPO-CPH2349-PowerVR_Rogue_GE8320-1790279703.json"
   }
 ]
