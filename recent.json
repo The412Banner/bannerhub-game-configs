@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790316895,
+    "filename": "Pro_Evolution_Soccer_2013-realme-realme_Note_60-Mali-G57-1790316895.json"
+  },
+  {
     "game": "FNIA_3DXP",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1790298321,
     "filename": "PEAK-Xiaomi-2511FPC34G-Mali-G720_MC8-1790298321.json"
-  },
-  {
-    "game": "MSI_Lite_Player_144",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790298018,
-    "filename": "MSI_Lite_Player_144-INFINIX-Infinix_X6827-Mali-G57_MC2-1790298018.json"
   }
 ]
