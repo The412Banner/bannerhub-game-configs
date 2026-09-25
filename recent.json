@@ -1,5 +1,12 @@
 [
   {
+    "game": "Valheim",
+    "manufacturer": "CPH2745",
+    "device": "Adreno__TM__840",
+    "timestamp": 1790298660,
+    "filename": "Valheim-OnePlus-CPH2745-Adreno__TM__840-1790298660.json"
+  },
+  {
     "game": "PEAK",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790278829,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6885-Mali-G57_MC2-1790278829.json"
-  },
-  {
-    "game": "Apex_Legends",
-    "manufacturer": "A566B",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1790276742,
-    "filename": "Apex_Legends-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1790276742.json"
   }
 ]
