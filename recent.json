@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "A376B",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1790335241,
+    "filename": "Devil_May_Cry_5-samsung-SM-A376B-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1790335241.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "W09",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1790303137,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1790303137.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "A366E",
-    "device": "Adreno__TM__710",
-    "timestamp": 1790301949,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-samsung-SM-A366E-Adreno__TM__710-1790301949.json"
   }
 ]
