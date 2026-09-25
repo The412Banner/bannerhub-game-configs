@@ -1,5 +1,12 @@
 [
   {
+    "game": "Attack_on_Titan___A_O_T__Wings_of_Freedom",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1790330710,
+    "filename": "Attack_on_Titan___A_O_T__Wings_of_Freedom-nubia-NX809J-Adreno__TM__840-1790330710.json"
+  },
+  {
     "game": "Project_biscuits",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1790300919,
     "filename": "Stellar_Blade_-TECNO-TECNO_CK8n-Mali-G77_MC9-1790300919.json"
-  },
-  {
-    "game": "EasyAntiCheat_Launcher",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1790300627,
-    "filename": "EasyAntiCheat_Launcher-INFINIX-Infinix_X6871-Mali-G610_MC6-1790300627.json"
   }
 ]
