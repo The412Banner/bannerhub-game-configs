@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790301240,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1790301240.json"
+  },
+  {
     "game": "Stellar_Blade_",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1790286768,
     "filename": "Hollow_Knight__Silksong-AYN-AYN_Thor-Adreno__TM__740-1790286768.json"
-  },
-  {
-    "game": "eFootball_PES_2021_SEASON_UPDATE",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790284773,
-    "filename": "eFootball_PES_2021_SEASON_UPDATE-TECNO-TECNO_LJ6-Mali-G57_MC2-1790284773.json"
   }
 ]
