@@ -1,6 +1,13 @@
 [
   {
     "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790328320,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_LI9-Mali-G57_MC2-1790328320.json"
+  },
+  {
+    "game": "Euro_Truck_Simulator_2",
     "manufacturer": "CPH2349",
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1790328262,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1790299767,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1790299767.json"
-  },
-  {
-    "game": "_______________V_______",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790298751,
-    "filename": "_______________V_______-TECNO_MOBILE_LIMITED-TECNO_LE6h-Mali-G57-1790298751.json"
   }
 ]
