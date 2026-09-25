@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790330925,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g17-Mali-G52_MC2-1790330925.json"
+  },
+  {
     "game": "Attack_on_Titan___A_O_T__Wings_of_Freedom",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790301240,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1790301240.json"
-  },
-  {
-    "game": "Stellar_Blade_",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1790300919,
-    "filename": "Stellar_Blade_-TECNO-TECNO_CK8n-Mali-G77_MC9-1790300919.json"
   }
 ]
