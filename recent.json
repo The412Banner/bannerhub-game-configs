@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Launcher",
+    "manufacturer": "A045F",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1790343325,
+    "filename": "GTA_V_Launcher-samsung-SM-A045F-PowerVR_Rogue_GE8320-1790343325.json"
+  },
+  {
     "game": "Left_4_Dead",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1790308124,
     "filename": "God_of_War-motorola-motorola_edge_50_ultra-Adreno__TM__735-1790308124.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790305652,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-22127PC95I-Mali-G52_MC2-1790305652.json"
   }
 ]
