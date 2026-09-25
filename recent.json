@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790305652,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-22127PC95I-Mali-G52_MC2-1790305652.json"
+  },
+  {
     "game": "NieNoMachi",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790292553,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LNA-LX2-Adreno__TM__610-1790292553.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790291208,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A175F-Mali-G57_MC2-1790291208.json"
   }
 ]
