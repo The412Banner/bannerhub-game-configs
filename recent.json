@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft__Windows__Operating_System",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790368397,
+    "filename": "Microsoft__Windows__Operating_System-Xiaomi-24117RN76E-Mali-G57_MC2-1790368397.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790343203,
     "filename": "Left_4_Dead-INFINIX-Infinix_X6886-Mali-G57_MC2-1790343203.json"
-  },
-  {
-    "game": "Greedland",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1790339398,
-    "filename": "Greedland-ayn-Odin3-Adreno__TM__830-1790339398.json"
   }
 ]
