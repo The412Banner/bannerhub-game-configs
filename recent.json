@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G77",
+    "timestamp": 1790401971,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-G985F-Mali-G77-1790401971.json"
+  },
+  {
     "game": "The_Sims__4",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1790392596,
     "filename": "Azul_Zulu_25-motorola-motorola_edge_60_neo-Mali-G615_MC2-1790392596.json"
-  },
-  {
-    "game": "Black_Myth__Wukong",
-    "manufacturer": "motorola_edge_50_pro",
-    "device": "Adreno__TM__720",
-    "timestamp": 1790392544,
-    "filename": "Black_Myth__Wukong-motorola-motorola_edge_50_pro-Adreno__TM__720-1790392544.json"
   }
 ]
