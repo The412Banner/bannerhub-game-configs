@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1790433532,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A546E-Mali-G68-1790433532.json"
+  },
+  {
     "game": "GSE__",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790401500,
     "filename": "The_Sims__4-Xiaomi-23021RAAEG-Adreno__TM__610-1790401500.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__II",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790401223,
-    "filename": "Call_of_Duty___Modern_Warfare__II-INFINIX-Infinix_X6885-Mali-G57_MC2-1790401223.json"
   }
 ]
