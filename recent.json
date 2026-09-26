@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "01",
+    "device": "Adreno__TM__660",
+    "timestamp": 1790436794,
+    "filename": "Grand_Theft_Auto_V_Legacy-SHARP-LP-01-Adreno__TM__660-1790436794.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "SCG06",
     "device": "Adreno__TM__650",
     "timestamp": 1790436344,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1790418242,
     "filename": "Hades_II-OnePlus-OPD2415-Adreno__TM__830-1790418242.json"
-  },
-  {
-    "game": "The_Witcher_3__Wild_Hunt_-_Complete_Edition",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1790414611,
-    "filename": "The_Witcher_3__Wild_Hunt_-_Complete_Edition-ayn-Odin3-Adreno__TM__830-1790414611.json"
   }
 ]
