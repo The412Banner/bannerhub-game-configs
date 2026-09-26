@@ -1,5 +1,12 @@
 [
   {
+    "game": "TWD",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1790385805,
+    "filename": "TWD-Xiaomi-25053PC47G-Adreno__TM__825-1790385805.json"
+  },
+  {
     "game": "____2016",
     "manufacturer": "23122PCD1I",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790359834,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117SI-Mali-G57_MC2-1790359834.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790358817,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117SI-Mali-G57_MC2-1790358817.json"
   }
 ]
