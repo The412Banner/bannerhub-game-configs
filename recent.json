@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790448121,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1790448121.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
     "timestamp": 1790445072,
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790430756,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6840-Mali-G52_MC2-1790430756.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "I2218",
-    "device": "Adreno__TM__720",
-    "timestamp": 1790429868,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-vivo-I2218-Adreno__TM__720-1790429868.json"
   }
 ]
