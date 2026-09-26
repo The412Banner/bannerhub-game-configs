@@ -1,5 +1,12 @@
 [
   {
+    "game": "Planet_of_Lana",
+    "manufacturer": "Magic_15_MAX",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1790464540,
+    "filename": "Planet_of_Lana-AllCall-Magic_15_MAX-PowerVR_Rogue_GE8322-1790464540.json"
+  },
+  {
     "game": "DRAGON_BALL_Sparking__ZERO",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1790434343,
     "filename": "F1_2014-samsung-SM-G780G-Adreno__TM__650-1790434343.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1790433532,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A546E-Mali-G68-1790433532.json"
   }
 ]
