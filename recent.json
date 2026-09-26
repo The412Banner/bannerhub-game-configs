@@ -1,5 +1,12 @@
 [
   {
+    "game": "Black_Myth__Wukong",
+    "manufacturer": "motorola_edge_50_pro",
+    "device": "Adreno__TM__720",
+    "timestamp": 1790392544,
+    "filename": "Black_Myth__Wukong-motorola-motorola_edge_50_pro-Adreno__TM__720-1790392544.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790368397,
     "filename": "Microsoft__Windows__Operating_System-Xiaomi-24117RN76E-Mali-G57_MC2-1790368397.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1790365243,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1790365243.json"
   }
 ]
