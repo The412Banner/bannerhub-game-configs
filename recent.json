@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790434774,
+    "filename": "God_of_War_Ragnar_k-samsung-SM-A156M-Mali-G57_MC2-1790434774.json"
+  },
+  {
     "game": "F1_2014",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1790410165,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-M146B-Mali-G68-1790410165.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G77",
-    "timestamp": 1790401971,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-G985F-Mali-G77-1790401971.json"
   }
 ]
