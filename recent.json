@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_7_Biohazard",
+    "manufacturer": "Mali",
+    "device": "G77",
+    "timestamp": 1790429478,
+    "filename": "Resident_Evil_7_Biohazard-samsung-SM-G988B-Mali-G77-1790429478.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1790399237,
     "filename": "Black_Myth__Wukong-motorola-moto_g45_5G-Adreno__TM__619-1790399237.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1790399232,
-    "filename": "Left_4_Dead_2-motorola-moto_g45_5G-Adreno__TM__619-1790399232.json"
   }
 ]
