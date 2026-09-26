@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__II",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790401223,
+    "filename": "Call_of_Duty___Modern_Warfare__II-INFINIX-Infinix_X6885-Mali-G57_MC2-1790401223.json"
+  },
+  {
     "game": "Anger_Foot",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790390544,
     "filename": "Grand_Theft_Auto_V-realme-RMX3930-Mali-G57-1790390544.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1790389033,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1790389033.json"
   }
 ]
