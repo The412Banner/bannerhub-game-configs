@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "G57",
+    "device": "49_1_0_",
+    "timestamp": 1790453607,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2507-ANGLE__ARM__Vulkan_1_3_278__Mali-G57__0x90910010____Mali-G57-49_1_0_-1790453607.json"
+  },
+  {
     "game": "Stardew_Valley",
     "manufacturer": "CPH2573",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790431132,
     "filename": "Poppy_Playtime-motorola-moto_g04s-Mali-G57-1790431132.json"
-  },
-  {
-    "game": "Microsoft__Visual_Studio_",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1790431052,
-    "filename": "Microsoft__Visual_Studio_-TECNO-TECNO_CK8n-Mali-G77_MC9-1790431052.json"
   }
 ]
