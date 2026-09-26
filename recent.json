@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1790445072,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1790445072.json"
+  },
+  {
     "game": "NFSC_Config",
     "manufacturer": "RMX3474",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1790429868,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-vivo-I2218-Adreno__TM__720-1790429868.json"
-  },
-  {
-    "game": "Resident_Evil_7_Biohazard",
-    "manufacturer": "Mali",
-    "device": "G77",
-    "timestamp": 1790429478,
-    "filename": "Resident_Evil_7_Biohazard-samsung-SM-G988B-Mali-G77-1790429478.json"
   }
 ]
