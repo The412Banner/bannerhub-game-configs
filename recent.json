@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta5",
+    "manufacturer": "RMX3844",
+    "device": "Adreno__TM__710",
+    "timestamp": 1790386883,
+    "filename": "gta5-realme-RMX3844-Adreno__TM__710-1790386883.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "RMX3844",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790362272,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A035M-Mali-G57-1790362272.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790361094,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A035M-Mali-G57-1790361094.json"
   }
 ]
