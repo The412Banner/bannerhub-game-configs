@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790434836,
+    "filename": "God_of_War-samsung-SM-A156M-Mali-G57_MC2-1790434836.json"
+  },
+  {
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790410273,
     "filename": "Far_Cry_3-INFINIX_MOBILITY_LIMITED-Infinix_X6812B-Mali-G52_MC2-1790410273.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1790410165,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-M146B-Mali-G68-1790410165.json"
   }
 ]
