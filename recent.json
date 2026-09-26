@@ -1,5 +1,12 @@
 [
   {
+    "game": "NFSC_Config",
+    "manufacturer": "RMX3474",
+    "device": "Adreno__TM__619",
+    "timestamp": 1790444908,
+    "filename": "NFSC_Config-realme-RMX3474-Adreno__TM__619-1790444908.json"
+  },
+  {
     "game": "Half-Life_2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1790429478,
     "filename": "Resident_Evil_7_Biohazard-samsung-SM-G988B-Mali-G77-1790429478.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1790429261,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G990E-Mali-G78-1790429261.json"
   }
 ]
