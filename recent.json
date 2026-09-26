@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1790429261,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G990E-Mali-G78-1790429261.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1790399232,
     "filename": "Left_4_Dead_2-motorola-moto_g45_5G-Adreno__TM__619-1790399232.json"
-  },
-  {
-    "game": "Prototype_2",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1790399226,
-    "filename": "Prototype_2-motorola-moto_g45_5G-Adreno__TM__619-1790399226.json"
   }
 ]
