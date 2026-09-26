@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790425979,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KI7-Mali-G52_MC2-1790425979.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1790399226,
     "filename": "Prototype_2-motorola-moto_g45_5G-Adreno__TM__619-1790399226.json"
-  },
-  {
-    "game": "SAMURAI_WARRIORS_4_DX",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1790399220,
-    "filename": "SAMURAI_WARRIORS_4_DX-motorola-moto_g45_5G-Adreno__TM__619-1790399220.json"
   }
 ]
