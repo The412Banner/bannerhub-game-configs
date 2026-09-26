@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2510EPC8BG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1790399455,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2510EPC8BG-Adreno__TM__810-1790399455.json"
+  },
+  {
     "game": "Black_Myth__Wukong",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1790385374,
     "filename": "____2016-Xiaomi-23122PCD1I-Adreno__TM__710-1790385374.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1790385323,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A546E-Mali-G68-1790385323.json"
   }
 ]
