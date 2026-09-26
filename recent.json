@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "RMX3844",
+    "device": "Adreno__TM__710",
+    "timestamp": 1790386465,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3844-Adreno__TM__710-1790386465.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790361094,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A035M-Mali-G57-1790361094.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1790360387,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1790360387.json"
   }
 ]
