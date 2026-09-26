@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2014",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1790434343,
+    "filename": "F1_2014-samsung-SM-G780G-Adreno__TM__650-1790434343.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1790401971,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-G985F-Mali-G77-1790401971.json"
-  },
-  {
-    "game": "The_Sims__4",
-    "manufacturer": "23021RAAEG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790401500,
-    "filename": "The_Sims__4-Xiaomi-23021RAAEG-Adreno__TM__610-1790401500.json"
   }
 ]
