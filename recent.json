@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bulma_Adventure_4",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790466224,
+    "filename": "Bulma_Adventure_4-realme-RMX3710-Mali-G52_MC2-1790466224.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790434836,
     "filename": "God_of_War-samsung-SM-A156M-Mali-G57_MC2-1790434836.json"
-  },
-  {
-    "game": "God_of_War_Ragnar_k",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790434774,
-    "filename": "God_of_War_Ragnar_k-samsung-SM-A156M-Mali-G57_MC2-1790434774.json"
   }
 ]
