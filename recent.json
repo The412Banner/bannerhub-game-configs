@@ -1,5 +1,12 @@
 [
   {
+    "game": "Azul_Zulu_25",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1790392596,
+    "filename": "Azul_Zulu_25-motorola-motorola_edge_60_neo-Mali-G615_MC2-1790392596.json"
+  },
+  {
     "game": "Black_Myth__Wukong",
     "manufacturer": "motorola_edge_50_pro",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1790369102,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23043RP34G-Adreno__TM__650-1790369102.json"
-  },
-  {
-    "game": "Microsoft__Windows__Operating_System",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790368397,
-    "filename": "Microsoft__Windows__Operating_System-Xiaomi-24117RN76E-Mali-G57_MC2-1790368397.json"
   }
 ]
