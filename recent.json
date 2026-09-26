@@ -1,5 +1,12 @@
 [
   {
+    "game": "____2016",
+    "manufacturer": "23122PCD1I",
+    "device": "Adreno__TM__710",
+    "timestamp": 1790385374,
+    "filename": "____2016-Xiaomi-23122PCD1I-Adreno__TM__710-1790385374.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790358817,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117SI-Mali-G57_MC2-1790358817.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790357054,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6885-Mali-G57_MC2-1790357054.json"
   }
 ]
