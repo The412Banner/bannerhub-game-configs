@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790410273,
+    "filename": "Far_Cry_3-INFINIX_MOBILITY_LIMITED-Infinix_X6812B-Mali-G52_MC2-1790410273.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790395440,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6528-Mali-G57-1790395440.json"
-  },
-  {
-    "game": "Wolverine",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1790394208,
-    "filename": "Wolverine-realme-RMX3867-Mali-G68_MC4-1790394208.json"
   }
 ]
