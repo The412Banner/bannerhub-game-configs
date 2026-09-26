@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1790399502,
+    "filename": "DARK_SOULS___REMASTERED-Xiaomi-23049PCD8G-Adreno__TM__725-1790399502.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2510EPC8BG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1790385805,
     "filename": "TWD-Xiaomi-25053PC47G-Adreno__TM__825-1790385805.json"
-  },
-  {
-    "game": "____2016",
-    "manufacturer": "23122PCD1I",
-    "device": "Adreno__TM__710",
-    "timestamp": 1790385374,
-    "filename": "____2016-Xiaomi-23122PCD1I-Adreno__TM__710-1790385374.json"
   }
 ]
