@@ -1,5 +1,12 @@
 [
   {
+    "game": "Half-Life_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790438892,
+    "filename": "Half-Life_2-TECNO-TECNO_KL4-Mali-G57-1790438892.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1790429261,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G990E-Mali-G78-1790429261.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790425979,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KI7-Mali-G52_MC2-1790425979.json"
   }
 ]
