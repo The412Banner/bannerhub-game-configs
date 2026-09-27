@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH",
+    "manufacturer": "22021211RG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1790492216,
+    "filename": "THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH-Xiaomi-22021211RG-Adreno__TM__650-1790492216.json"
+  },
+  {
     "game": "METAL_GEAR_RISING__REVENGEANCE",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790466224,
     "filename": "Bulma_Adventure_4-realme-RMX3710-Mali-G52_MC2-1790466224.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1790466188,
-    "filename": "Left_4_Dead_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1790466188.json"
   }
 ]
