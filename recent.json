@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1790543378,
+    "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-Xiaomi-M2102J20SG-Adreno__TM__640-1790543378.json"
+  },
+  {
     "game": "THE_KING_OF_FIGHTERS_XV",
     "manufacturer": "S931B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1790517671,
     "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2551-Adreno__TM__740-1790517671.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790517532,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6855-Mali-G57_MC2-1790517532.json"
   }
 ]
