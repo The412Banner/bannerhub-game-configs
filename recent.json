@@ -1,5 +1,12 @@
 [
   {
+    "game": "FNiA_3D_CE_1_0",
+    "manufacturer": "CPH2743",
+    "device": "Adreno__TM__710",
+    "timestamp": 1790476413,
+    "filename": "FNiA_3D_CE_1_0-OPPO-CPH2743-Adreno__TM__710-1790476413.json"
+  },
+  {
     "game": "GRID__2019_",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1790452607,
     "filename": "Stardew_Valley-OnePlus-CPH2573-Adreno__TM__750-1790452607.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790448121,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1790448121.json"
   }
 ]
