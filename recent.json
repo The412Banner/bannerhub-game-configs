@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1790547255,
+    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-Xiaomi-M2102J20SG-Adreno__TM__640-1790547255.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "F966U",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790521097,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1790521097.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man__Miles_Morales",
-    "manufacturer": "S908E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1790519566,
-    "filename": "Marvel_s_Spider-Man__Miles_Morales-samsung-SM-S908E-Adreno__TM__730-1790519566.json"
   }
 ]
