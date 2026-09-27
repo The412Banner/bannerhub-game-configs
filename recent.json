@@ -1,5 +1,12 @@
 [
   {
+    "game": "Nine_Sols",
+    "manufacturer": "CPH2583",
+    "device": "Adreno__TM__750",
+    "timestamp": 1790531087,
+    "filename": "Nine_Sols-OnePlus-CPH2583-Adreno__TM__750-1790531087.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790510008,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RN76G-Mali-G57_MC2-1790510008.json"
-  },
-  {
-    "game": "God_of_War_Ragnar_k",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790509360,
-    "filename": "God_of_War_Ragnar_k-realme-RMX3939-Mali-G57-1790509360.json"
   }
 ]
