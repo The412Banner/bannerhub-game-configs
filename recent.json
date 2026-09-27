@@ -1,5 +1,12 @@
 [
   {
+    "game": "Roblox_Bootstrapper",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790522763,
+    "filename": "Roblox_Bootstrapper-motorola-moto_g17-Mali-G52_MC2-1790522763.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1790501478,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1790501478.json"
-  },
-  {
-    "game": "MadMax",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1790501402,
-    "filename": "MadMax-AYN-Odin2_Portal-Adreno__TM__740-1790501402.json"
   }
 ]
