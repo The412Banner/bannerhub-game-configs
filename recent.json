@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH2551",
+    "device": "Adreno__TM__740",
+    "timestamp": 1790517076,
+    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2551-Adreno__TM__740-1790517076.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1790484557,
     "filename": "_____2019-Xiaomi-25053PC47G-Adreno__TM__825-1790484557.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790481871,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A156M-Mali-G57_MC2-1790481871.json"
   }
 ]
