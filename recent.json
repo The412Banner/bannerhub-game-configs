@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1790496832,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1790496832.json"
+  },
+  {
     "game": "LEGOMARVELAvengers_DX11",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1790467404,
     "filename": "Left_4_Dead_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1790467404.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1790467366,
-    "filename": "Left_4_Dead_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1790467366.json"
   }
 ]
