@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "F966U",
+    "device": "Adreno__TM__830",
+    "timestamp": 1790545802,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-F966U-Adreno__TM__830-1790545802.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "G1",
     "device": "Ultra_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1790519566,
     "filename": "Marvel_s_Spider-Man__Miles_Morales-samsung-SM-S908E-Adreno__TM__730-1790519566.json"
-  },
-  {
-    "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
-    "manufacturer": "Mali",
-    "device": "G610_MC2",
-    "timestamp": 1790518479,
-    "filename": "ULTIMATE_MARVEL_VS__CAPCOM_3-INFINIX-Infinix_X6887-Mali-G610_MC2-1790518479.json"
   }
 ]
