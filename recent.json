@@ -1,5 +1,12 @@
 [
   {
+    "game": "Nine_Sols",
+    "manufacturer": "CPH2583",
+    "device": "Adreno__TM__750",
+    "timestamp": 1790471557,
+    "filename": "Nine_Sols-OnePlus-CPH2583-Adreno__TM__750-1790471557.json"
+  },
+  {
     "game": "START-GAME",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1790444908,
     "filename": "NFSC_Config-realme-RMX3474-Adreno__TM__619-1790444908.json"
-  },
-  {
-    "game": "Half-Life_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790438892,
-    "filename": "Half-Life_2-TECNO-TECNO_KL4-Mali-G57-1790438892.json"
   }
 ]
