@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790492094,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-realme-RMX5313-Mali-G57-1790492094.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1790466188,
     "filename": "Left_4_Dead_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1790466188.json"
-  },
-  {
-    "game": "Planet_of_Lana",
-    "manufacturer": "Magic_15_MAX",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1790464540,
-    "filename": "Planet_of_Lana-AllCall-Magic_15_MAX-PowerVR_Rogue_GE8322-1790464540.json"
   }
 ]
