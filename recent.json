@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790516859,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_KI7-Mali-G52_MC2-1790516859.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "24044RN32L",
     "device": "PowerVR_Rogue_GE8322",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790481871,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A156M-Mali-G57_MC2-1790481871.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790478282,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1790478282.json"
   }
 ]
