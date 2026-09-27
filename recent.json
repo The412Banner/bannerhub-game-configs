@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790543562,
+    "filename": "Tomb_Raider-INFINIX-Infinix_X6850-Mali-G57_MC2-1790543562.json"
+  },
+  {
     "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790517714,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6855-Mali-G57_MC2-1790517714.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2551",
-    "device": "Adreno__TM__740",
-    "timestamp": 1790517671,
-    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2551-Adreno__TM__740-1790517671.json"
   }
 ]
