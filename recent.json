@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man__Miles_Morales",
+    "manufacturer": "S908E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1790519566,
+    "filename": "Marvel_s_Spider-Man__Miles_Morales-samsung-SM-S908E-Adreno__TM__730-1790519566.json"
+  },
+  {
     "game": "ULTIMATE_MARVEL_VS__CAPCOM_3",
     "manufacturer": "Mali",
     "device": "G610_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1790497015,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1790497015.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A556E",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1790496832,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1790496832.json"
   }
 ]
