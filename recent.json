@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790509360,
+    "filename": "God_of_War_Ragnar_k-realme-RMX3939-Mali-G57-1790509360.json"
+  },
+  {
     "game": "TheWalkingDead2",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790471383,
     "filename": "START-GAME-motorola-moto_g06-Mali-G52_MC2-1790471383.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23073RPBFL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790468516,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23073RPBFL-Adreno__TM__610-1790468516.json"
   }
 ]
