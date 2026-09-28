@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790638790,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-samsung-SM-A065M-Mali-G52_MC2-1790638790.json"
+  },
+  {
     "game": "FIFA_19",
     "manufacturer": "moto_g_60_",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1790608294,
     "filename": "deadpool-AYN-AYN_Thor-Adreno__TM__740-1790608294.json"
-  },
-  {
-    "game": "Children_of_Morta",
-    "manufacturer": "LE2120",
-    "device": "Adreno__TM__660",
-    "timestamp": 1790607188,
-    "filename": "Children_of_Morta-OnePlus-LE2120-Adreno__TM__660-1790607188.json"
   }
 ]
