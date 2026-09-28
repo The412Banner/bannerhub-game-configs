@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__710",
+    "timestamp": 1790599969,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-HONOR-BRP-NX1-Adreno__TM__710-1790599969.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "NX809J_V1A",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1790559148,
     "filename": "Need_for_Speed_MW-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1790559148.json"
-  },
-  {
-    "game": "Resident_Evil_7_Biohazard",
-    "manufacturer": "2312DRA50G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1790557924,
-    "filename": "Resident_Evil_7_Biohazard-Xiaomi-2312DRA50G-Adreno__TM__710-1790557924.json"
   }
 ]
