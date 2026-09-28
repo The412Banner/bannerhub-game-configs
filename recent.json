@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_19",
+    "manufacturer": "moto_g_60_",
+    "device": "Adreno__TM__618",
+    "timestamp": 1790636845,
+    "filename": "FIFA_19-motorola-moto_g_60_-Adreno__TM__618-1790636845.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1790607188,
     "filename": "Children_of_Morta-OnePlus-LE2120-Adreno__TM__660-1790607188.json"
-  },
-  {
-    "game": "TOKYO_GHOUL_re__CALL_to_EXIST_",
-    "manufacturer": "2410CRP4CG",
-    "device": "Adreno__TM__732",
-    "timestamp": 1790605598,
-    "filename": "TOKYO_GHOUL_re__CALL_to_EXIST_-Xiaomi-2410CRP4CG-Adreno__TM__732-1790605598.json"
   }
 ]
