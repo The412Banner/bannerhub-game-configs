@@ -1,5 +1,12 @@
 [
   {
+    "game": "mysummercar",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1790560818,
+    "filename": "mysummercar-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1790560818.json"
+  },
+  {
     "game": "Fields_of_Mistria",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1790537285,
     "filename": "Nine_Sols-OnePlus-CPH2583-Adreno__TM__750-1790537285.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "25102PCBEG",
-    "device": "Adreno__TM__840",
-    "timestamp": 1790535047,
-    "filename": "Need_for_Speed_9-Xiaomi-25102PCBEG-Adreno__TM__840-1790535047.json"
   }
 ]
