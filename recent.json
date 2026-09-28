@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "motorola_one_fusion",
+    "device": "Adreno__TM__616",
+    "timestamp": 1790562670,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_one_fusion-Adreno__TM__616-1790562670.json"
+  },
+  {
     "game": "mysummercar",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1790538316,
     "filename": "fawkeshub-Xiaomi-25080RABDG-Mali-G615_MC2-1790538316.json"
-  },
-  {
-    "game": "Nine_Sols",
-    "manufacturer": "CPH2583",
-    "device": "Adreno__TM__750",
-    "timestamp": 1790537285,
-    "filename": "Nine_Sols-OnePlus-CPH2583-Adreno__TM__750-1790537285.json"
   }
 ]
