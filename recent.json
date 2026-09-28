@@ -1,5 +1,12 @@
 [
   {
+    "game": "_____2019",
+    "manufacturer": "A715F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1790565688,
+    "filename": "_____2019-samsung-SM-A715F-Adreno__TM__618-1790565688.json"
+  },
+  {
     "game": "The_Elder_Scrolls_V_-_Skyrim_Special_Edition________________",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790543562,
     "filename": "Tomb_Raider-INFINIX-Infinix_X6850-Mali-G57_MC2-1790543562.json"
-  },
-  {
-    "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1790543378,
-    "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-Xiaomi-M2102J20SG-Adreno__TM__640-1790543378.json"
   }
 ]
