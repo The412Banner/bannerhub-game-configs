@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790568141,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-realme-RMX3834-Mali-G57-1790568141.json"
+  },
+  {
     "game": "_____2019",
     "manufacturer": "A715F",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790543567,
     "filename": "Tomb_Raider-INFINIX-Infinix_X6850-Mali-G57_MC2-1790543567.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790543562,
-    "filename": "Tomb_Raider-INFINIX-Infinix_X6850-Mali-G57_MC2-1790543562.json"
   }
 ]
