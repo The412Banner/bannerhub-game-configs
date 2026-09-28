@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1790563049,
+    "filename": "Mafia_II__Classic_-Xiaomi-M2102J20SG-Adreno__TM__640-1790563049.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "motorola_one_fusion",
     "device": "Adreno__TM__616",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1790539945,
     "filename": "Resident_Evil_5-Xiaomi-M2102J20SI-Adreno__TM__640-1790539945.json"
-  },
-  {
-    "game": "fawkeshub",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1790538316,
-    "filename": "fawkeshub-Xiaomi-25080RABDG-Mali-G615_MC2-1790538316.json"
   }
 ]
