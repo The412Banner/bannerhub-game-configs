@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw3mp",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1790583772,
+    "filename": "iw3mp-TECNO-TECNO_CK8n-Mali-G77_MC9-1790583772.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790547554,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1790547554.json"
-  },
-  {
-    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1790547255,
-    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-Xiaomi-M2102J20SG-Adreno__TM__640-1790547255.json"
   }
 ]
