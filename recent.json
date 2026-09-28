@@ -3,6 +3,13 @@
     "game": "Metro_Exodus",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
+    "timestamp": 1790622048,
+    "filename": "Metro_Exodus-vivo-I2405-Adreno__TM__825-1790622048.json"
+  },
+  {
+    "game": "Metro_Exodus",
+    "manufacturer": "I2405",
+    "device": "Adreno__TM__825",
     "timestamp": 1790622045,
     "filename": "Metro_Exodus-vivo-I2405-Adreno__TM__825-1790622045.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1790569502,
     "filename": "Nine_Sols-OnePlus-CPH2583-Adreno__TM__750-1790569502.json"
-  },
-  {
-    "game": "Nine_Sols",
-    "manufacturer": "CPH2583",
-    "device": "Adreno__TM__750",
-    "timestamp": 1790568742,
-    "filename": "Nine_Sols-OnePlus-CPH2583-Adreno__TM__750-1790568742.json"
   }
 ]
