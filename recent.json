@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S948B",
+    "device": "Adreno__TM__840",
+    "timestamp": 1790622962,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S948B-Adreno__TM__840-1790622962.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1790583772,
     "filename": "iw3mp-TECNO-TECNO_CK8n-Mali-G77_MC9-1790583772.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1790573818,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5120-Mali-G615_MC2-1790573818.json"
   }
 ]
