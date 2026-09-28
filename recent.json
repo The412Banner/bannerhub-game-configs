@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790613483,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6725-Mali-G57-1790613483.json"
+  },
+  {
     "game": "deadpool",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790564525,
     "filename": "fifa14-3dm-samsung-SM-A165M-Mali-G57_MC2-1790564525.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1790563049,
-    "filename": "Mafia_II__Classic_-Xiaomi-M2102J20SG-Adreno__TM__640-1790563049.json"
   }
 ]
