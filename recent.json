@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "NX809J_V1A",
+    "device": "Adreno__TM__840",
+    "timestamp": 1790599476,
+    "filename": "Left_4_Dead_2-nubia-NX809J_V1A-Adreno__TM__840-1790599476.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1790557924,
     "filename": "Resident_Evil_7_Biohazard-Xiaomi-2312DRA50G-Adreno__TM__710-1790557924.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790555291,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EA-Mali-G52_MC2-1790555291.json"
   }
 ]
