@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_MW",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1790559148,
+    "filename": "Need_for_Speed_MW-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1790559148.json"
+  },
+  {
     "game": "Resident_Evil_7_Biohazard",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1790534980,
     "filename": "Hollow_Knight__Silksong-AYN-AYN_Thor-Adreno__TM__740-1790534980.json"
-  },
-  {
-    "game": "GIANTS_Engine",
-    "manufacturer": "S711B",
-    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
-    "timestamp": 1790533487,
-    "filename": "GIANTS_Engine-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1790533487.json"
   }
 ]
