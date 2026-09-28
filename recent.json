@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "RMX3081",
+    "device": "Adreno__TM__618",
+    "timestamp": 1790595306,
+    "filename": "DARK_SOULS___REMASTERED-realme-RMX3081-Adreno__TM__618-1790595306.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790554574,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-ITEL-itel_S666LN-Mali-G57_MC2-1790554574.json"
-  },
-  {
-    "game": "Nine_Sols",
-    "manufacturer": "CPH2583",
-    "device": "Adreno__TM__750",
-    "timestamp": 1790553822,
-    "filename": "Nine_Sols-OnePlus-CPH2583-Adreno__TM__750-1790553822.json"
   }
 ]
