@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1790620927,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1790620927.json"
+  },
+  {
     "game": "God_of_War__________________________________________________",
     "manufacturer": "25118PC98G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1790565688,
     "filename": "_____2019-samsung-SM-A715F-Adreno__TM__618-1790565688.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V_-_Skyrim_Special_Edition________________",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790565173,
-    "filename": "The_Elder_Scrolls_V_-_Skyrim_Special_Edition________________-HONOR-NLA-LX3-Mali-G52_MC2-1790565173.json"
   }
 ]
