@@ -1,5 +1,12 @@
 [
   {
+    "game": "deadpool",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1790608294,
+    "filename": "deadpool-AYN-AYN_Thor-Adreno__TM__740-1790608294.json"
+  },
+  {
     "game": "Children_of_Morta",
     "manufacturer": "LE2120",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1790563049,
     "filename": "Mafia_II__Classic_-Xiaomi-M2102J20SG-Adreno__TM__640-1790563049.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_one_fusion",
-    "device": "Adreno__TM__616",
-    "timestamp": 1790562670,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_one_fusion-Adreno__TM__616-1790562670.json"
   }
 ]
