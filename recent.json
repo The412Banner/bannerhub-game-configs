@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790555291,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EA-Mali-G52_MC2-1790555291.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1790531218,
     "filename": "SPEED2-vivo-V2338A-Adreno__TM__740-1790531218.json"
-  },
-  {
-    "game": "Nine_Sols",
-    "manufacturer": "CPH2583",
-    "device": "Adreno__TM__750",
-    "timestamp": 1790531087,
-    "filename": "Nine_Sols-OnePlus-CPH2583-Adreno__TM__750-1790531087.json"
   }
 ]
