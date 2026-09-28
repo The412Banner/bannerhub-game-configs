@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1790599704,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-HUAWEI-JNY-LX1-Mali-G52-1790599704.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "RMX3081",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790555291,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EA-Mali-G52_MC2-1790555291.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790554574,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-ITEL-itel_S666LN-Mali-G57_MC2-1790554574.json"
   }
 ]
