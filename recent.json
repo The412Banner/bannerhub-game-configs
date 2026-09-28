@@ -1,5 +1,12 @@
 [
   {
+    "game": "Children_of_Morta",
+    "manufacturer": "LE2120",
+    "device": "Adreno__TM__660",
+    "timestamp": 1790607188,
+    "filename": "Children_of_Morta-OnePlus-LE2120-Adreno__TM__660-1790607188.json"
+  },
+  {
     "game": "TOKYO_GHOUL_re__CALL_to_EXIST_",
     "manufacturer": "2410CRP4CG",
     "device": "Adreno__TM__732",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__616",
     "timestamp": 1790562670,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_one_fusion-Adreno__TM__616-1790562670.json"
-  },
-  {
-    "game": "mysummercar",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1790560818,
-    "filename": "mysummercar-Xiaomi-2409FPCC4G-PowerVR_B-Series_BXM-8-256-1790560818.json"
   }
 ]
