@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_2004___________________________________________________",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1790630652,
+    "filename": "FIFA_2004___________________________________________________-Xiaomi-2311DRK48G-Mali-G615_MC6-1790630652.json"
+  },
+  {
     "game": "Crysis_2_-_Maximum_Edition",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1790599476,
     "filename": "Left_4_Dead_2-nubia-NX809J_V1A-Adreno__TM__840-1790599476.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1790599704,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-HUAWEI-JNY-LX1-Mali-G52-1790599704.json"
   }
 ]
