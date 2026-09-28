@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1790573818,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5120-Mali-G615_MC2-1790573818.json"
+  },
+  {
     "game": "Nine_Sols",
     "manufacturer": "CPH2583",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1790547255,
     "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-Xiaomi-M2102J20SG-Adreno__TM__640-1790547255.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "F966U",
-    "device": "Adreno__TM__830",
-    "timestamp": 1790545802,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-F966U-Adreno__TM__830-1790545802.json"
   }
 ]
