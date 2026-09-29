@@ -1,5 +1,12 @@
 [
   {
+    "game": "Yanpai_Simulator",
+    "manufacturer": "25097RP43G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1790719750,
+    "filename": "Yanpai_Simulator-Xiaomi-25097RP43G-Adreno__TM__825-1790719750.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790681386,
     "filename": "God_of_War_Ragnar_k-samsung-SM-A156M-Mali-G57_MC2-1790681386.json"
-  },
-  {
-    "game": "Left_4_Dead",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790679776,
-    "filename": "Left_4_Dead-INFINIX-Infinix_X6886-Mali-G57_MC2-1790679776.json"
   }
 ]
