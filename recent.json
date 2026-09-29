@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790662981,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6885-Mali-G57_MC2-1790662981.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1790626484,
     "filename": "Resident_Evil_2-INFINIX-Infinix_X6871-Mali-G610_MC6-1790626484.json"
-  },
-  {
-    "game": "Resident_Evil_7_Biohazard",
-    "manufacturer": "PLR110",
-    "device": "Adreno__TM__829",
-    "timestamp": 1790626252,
-    "filename": "Resident_Evil_7_Biohazard-OnePlus-PLR110-Adreno__TM__829-1790626252.json"
   }
 ]
