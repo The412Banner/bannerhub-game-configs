@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1790679591,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LJ7-Mali-G615_MC2-1790679591.json"
+  },
+  {
     "game": "TOMB_RAIDER_I-II-III__REMASTERED",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1790657267,
     "filename": "BF2-Xiaomi-2510EPC8BG-Adreno__TM__810-1790657267.json"
-  },
-  {
-    "game": "Fate_EXTELLA",
-    "manufacturer": "Retroid_Pocket_Flip2",
-    "device": "Adreno__TM__650",
-    "timestamp": 1790651975,
-    "filename": "Fate_EXTELLA-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1790651975.json"
   }
 ]
