@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assetto_Corsa",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1790664026,
+    "filename": "Assetto_Corsa-Xiaomi-2511FPC34G-Mali-G720_MC8-1790664026.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1790626502,
     "filename": "Resident_Evil_2-INFINIX-Infinix_X6871-Mali-G610_MC6-1790626502.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1790626484,
-    "filename": "Resident_Evil_2-INFINIX-Infinix_X6871-Mali-G610_MC6-1790626484.json"
   }
 ]
