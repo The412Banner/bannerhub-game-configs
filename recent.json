@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fate_EXTELLA",
+    "manufacturer": "Retroid_Pocket_Flip2",
+    "device": "Adreno__TM__650",
+    "timestamp": 1790651975,
+    "filename": "Fate_EXTELLA-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1790651975.json"
+  },
+  {
     "game": "Achilles__Legends_Untold",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1790622234,
     "filename": "Pro_Evolution_Soccer_2017-samsung-SM-S901E-Adreno__TM__730-1790622234.json"
-  },
-  {
-    "game": "Metro_Exodus",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1790622048,
-    "filename": "Metro_Exodus-vivo-I2405-Adreno__TM__825-1790622048.json"
   }
 ]
