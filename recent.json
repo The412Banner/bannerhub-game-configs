@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g52",
+    "device": "Adreno__TM__610",
+    "timestamp": 1790714316,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g52-Adreno__TM__610-1790714316.json"
+  },
+  {
     "game": "Disney_Dreamlight_Valley_",
     "manufacturer": "motorola_edge_30_neo",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1790677510,
     "filename": "TOMB_RAIDER_I-II-III__REMASTERED-Xiaomi-M2102J20SG-Adreno__TM__640-1790677510.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790674629,
-    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-A057M-Adreno__TM__610-1790674629.json"
   }
 ]
