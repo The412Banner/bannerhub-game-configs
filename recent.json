@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGOPirates",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1790685815,
+    "filename": "LEGOPirates-Xiaomi-M2102J20SG-Adreno__TM__640-1790685815.json"
+  },
+  {
     "game": "AC3SP",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1790664149,
     "filename": "Darksiders_III-Xiaomi-25053PC47G-Adreno__TM__825-1790664149.json"
-  },
-  {
-    "game": "Assetto_Corsa",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1790664026,
-    "filename": "Assetto_Corsa-Xiaomi-2511FPC34G-Mali-G720_MC8-1790664026.json"
   }
 ]
