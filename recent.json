@@ -1,5 +1,12 @@
 [
   {
+    "game": "TOMB_RAIDER_I-II-III__REMASTERED",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1790677510,
+    "filename": "TOMB_RAIDER_I-II-III__REMASTERED-Xiaomi-M2102J20SG-Adreno__TM__640-1790677510.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1790651975,
     "filename": "Fate_EXTELLA-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1790651975.json"
-  },
-  {
-    "game": "Achilles__Legends_Untold",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1790651662,
-    "filename": "Achilles__Legends_Untold-nubia-NX799J-Adreno__TM__830-1790651662.json"
   }
 ]
