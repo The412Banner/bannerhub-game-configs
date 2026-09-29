@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790712302,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KM4-Mali-G57-1790712302.json"
+  },
+  {
     "game": "DYNASTY_WARRIORS__ORIGINS",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790672185,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A057F-Adreno__TM__610-1790672185.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790670683,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6880-Mali-G57_MC2-1790670683.json"
   }
 ]
