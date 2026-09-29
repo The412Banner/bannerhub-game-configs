@@ -1,5 +1,12 @@
 [
   {
+    "game": "game_original",
+    "manufacturer": "NX3",
+    "device": "Adreno__TM__710",
+    "timestamp": 1790646162,
+    "filename": "game_original-HONOR-BRP-NX3-Adreno__TM__710-1790646162.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1790621242,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S948B-Adreno__TM__840-1790621242.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1790620927,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1790620927.json"
   }
 ]
