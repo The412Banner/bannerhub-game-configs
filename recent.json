@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1790674629,
+    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-A057M-Adreno__TM__610-1790674629.json"
+  },
+  {
     "game": "Forza_Horizon_5",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1790651662,
     "filename": "Achilles__Legends_Untold-nubia-NX799J-Adreno__TM__830-1790651662.json"
-  },
-  {
-    "game": "Voodoo_Vince__Remastered",
-    "manufacturer": "9707F",
-    "device": "Adreno__TM__650",
-    "timestamp": 1790649923,
-    "filename": "Voodoo_Vince__Remastered-Xiaomi-Lenovo_TB-9707F-Adreno__TM__650-1790649923.json"
   }
 ]
