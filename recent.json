@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "G720",
+    "device": "Immortalis_MC12",
+    "timestamp": 1790719372,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2503-Mali-G720-Immortalis_MC12-1790719372.json"
+  },
+  {
     "game": "Microsoft__Windows__Operating_System",
     "manufacturer": "2509ARPBDG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790679776,
     "filename": "Left_4_Dead-INFINIX-Infinix_X6886-Mali-G57_MC2-1790679776.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1790679591,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LJ7-Mali-G615_MC2-1790679591.json"
   }
 ]
