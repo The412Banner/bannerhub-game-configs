@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790679776,
+    "filename": "Left_4_Dead-INFINIX-Infinix_X6886-Mali-G57_MC2-1790679776.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1790660778,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1790660778.json"
-  },
-  {
-    "game": "BF2",
-    "manufacturer": "2510EPC8BG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1790657267,
-    "filename": "BF2-Xiaomi-2510EPC8BG-Adreno__TM__810-1790657267.json"
   }
 ]
