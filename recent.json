@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1790645903,
+    "filename": "DRAGON_BALL_FighterZ-Xiaomi-25053PC47G-Adreno__TM__825-1790645903.json"
+  },
+  {
     "game": "GraveyardKeeper2",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1790620927,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1790620927.json"
-  },
-  {
-    "game": "God_of_War__________________________________________________",
-    "manufacturer": "25118PC98G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1790618751,
-    "filename": "God_of_War__________________________________________________-Xiaomi-25118PC98G-Adreno__TM__710-1790618751.json"
   }
 ]
