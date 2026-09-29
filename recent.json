@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790670683,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6880-Mali-G57_MC2-1790670683.json"
+  },
+  {
     "game": "TheLongDrive",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1790645672,
     "filename": "GraveyardKeeper2-AYN-AYN_Thor-Adreno__TM__740-1790645672.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1790642731,
-    "filename": "Tomb_Raider-TECNO-TECNO_CM7-Mali-G615_MC2-1790642731.json"
   }
 ]
