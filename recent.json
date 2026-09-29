@@ -1,5 +1,12 @@
 [
   {
+    "game": "Achilles__Legends_Untold",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1790651662,
+    "filename": "Achilles__Legends_Untold-nubia-NX799J-Adreno__TM__830-1790651662.json"
+  },
+  {
     "game": "Voodoo_Vince__Remastered",
     "manufacturer": "9707F",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1790622048,
     "filename": "Metro_Exodus-vivo-I2405-Adreno__TM__825-1790622048.json"
-  },
-  {
-    "game": "Metro_Exodus",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1790622045,
-    "filename": "Metro_Exodus-vivo-I2405-Adreno__TM__825-1790622045.json"
   }
 ]
