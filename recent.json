@@ -1,5 +1,12 @@
 [
   {
+    "game": "ONE_PIECE__PIRATE_WARRIORS_4",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1790719991,
+    "filename": "ONE_PIECE__PIRATE_WARRIORS_4-Xiaomi-25053RT47C-Adreno__TM__825-1790719991.json"
+  },
+  {
     "game": "Yanpai_Simulator",
     "manufacturer": "25097RP43G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790682682,
     "filename": "AC3SP-INFINIX-Infinix_X6885-Mali-G57_MC2-1790682682.json"
-  },
-  {
-    "game": "God_of_War_Ragnar_k",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790681386,
-    "filename": "God_of_War_Ragnar_k-samsung-SM-A156M-Mali-G57_MC2-1790681386.json"
   }
 ]
