@@ -1,5 +1,12 @@
 [
   {
+    "game": "AC3SP",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790682682,
+    "filename": "AC3SP-INFINIX-Infinix_X6885-Mali-G57_MC2-1790682682.json"
+  },
+  {
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1790664026,
     "filename": "Assetto_Corsa-Xiaomi-2511FPC34G-Mali-G720_MC8-1790664026.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790662981,
-    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6885-Mali-G57_MC2-1790662981.json"
   }
 ]
