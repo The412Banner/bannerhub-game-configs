@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790681386,
+    "filename": "God_of_War_Ragnar_k-samsung-SM-A156M-Mali-G57_MC2-1790681386.json"
+  },
+  {
     "game": "Left_4_Dead",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790662981,
     "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6885-Mali-G57_MC2-1790662981.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1790660778,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1790660778.json"
   }
 ]
