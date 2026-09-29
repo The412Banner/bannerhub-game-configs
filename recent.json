@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1790701269,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1790701269.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__619",
     "timestamp": 1790700550,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1790667356,
     "filename": "SILENT_HILL_f-motorola-moto_g45_5G-Adreno__TM__619-1790667356.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1790667211,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1790667211.json"
   }
 ]
