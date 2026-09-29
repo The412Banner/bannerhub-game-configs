@@ -1,5 +1,12 @@
 [
   {
+    "game": "GraveyardKeeper2",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1790645672,
+    "filename": "GraveyardKeeper2-AYN-AYN_Thor-Adreno__TM__740-1790645672.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1790618751,
     "filename": "God_of_War__________________________________________________-Xiaomi-25118PC98G-Adreno__TM__710-1790618751.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1790615181,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1790615181.json"
   }
 ]
