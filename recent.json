@@ -1,5 +1,12 @@
 [
   {
+    "game": "BF2",
+    "manufacturer": "2510EPC8BG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1790657267,
+    "filename": "BF2-Xiaomi-2510EPC8BG-Adreno__TM__810-1790657267.json"
+  },
+  {
     "game": "Fate_EXTELLA",
     "manufacturer": "Retroid_Pocket_Flip2",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1790622962,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S948B-Adreno__TM__840-1790622962.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1790622234,
-    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-S901E-Adreno__TM__730-1790622234.json"
   }
 ]
