@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "moto_g85_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1790776309,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g85_5G-Adreno__TM__619-1790776309.json"
+  },
+  {
     "game": "MadMax",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1790753285,
     "filename": "MadMax-AYN-Odin2_Portal-Adreno__TM__740-1790753285.json"
-  },
-  {
-    "game": "WalkingDead101",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790748895,
-    "filename": "WalkingDead101-TECNO-TECNO_KI5k-Mali-G57-1790748895.json"
   }
 ]
