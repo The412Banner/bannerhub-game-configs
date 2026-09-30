@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790785600,
+    "filename": "PlayGTAV-realme-RMX3760-Mali-G57-1790785600.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "moto_g85_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1790750963,
     "filename": "The_Killing_Antidote-INFINIX-Infinix_X6878-Adreno__TM__810-1790750963.json"
-  },
-  {
-    "game": "MadMax",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1790753285,
-    "filename": "MadMax-AYN-Odin2_Portal-Adreno__TM__740-1790753285.json"
   }
 ]
