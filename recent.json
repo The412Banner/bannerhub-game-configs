@@ -1,5 +1,12 @@
 [
   {
+    "game": "Deluge",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790796579,
+    "filename": "Deluge-realme-RMX3834-Mali-G57-1790796579.json"
+  },
+  {
     "game": "MEmu-setup-abroad-956f11cf",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1790762685,
     "filename": "Mad_Max-OPPO-PHY110-Adreno__TM__750-1790762685.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790760551,
-    "filename": "Euro_Truck_Simulator_2-HONOR-ALT-LX2-Adreno__TM__610-1790760551.json"
   }
 ]
