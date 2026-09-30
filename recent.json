@@ -1,5 +1,12 @@
 [
   {
+    "game": "sdaemon",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1790805690,
+    "filename": "sdaemon-Xiaomi-23113RKC6G-Adreno__TM__740-1790805690.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1790769626,
     "filename": "Driver-vivo-V2546A-Adreno__TM__840-1790769626.json"
-  },
-  {
-    "game": "Minecraft_installer_by_me__",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790768947,
-    "filename": "Minecraft_installer_by_me__-realme-RMX3834-Mali-G57-1790768947.json"
   }
 ]
