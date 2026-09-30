@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790760321,
+    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6886-Mali-G57_MC2-1790760321.json"
+  },
+  {
     "game": "enb",
     "manufacturer": "24069RA21C",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1790733900,
     "filename": "Far_Cry_3-nubia-NX799J-Adreno__TM__830-1790733900.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_6",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790733419,
-    "filename": "Pro_Evolution_Soccer_6-Xiaomi-23053RN02L-Mali-G52_MC2-1790733419.json"
   }
 ]
