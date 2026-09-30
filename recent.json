@@ -1,5 +1,12 @@
 [
   {
+    "game": "LumaPlay_x64",
+    "manufacturer": "V2427",
+    "device": "Adreno__TM__720",
+    "timestamp": 1790794989,
+    "filename": "LumaPlay_x64-vivo-V2427-Adreno__TM__720-1790794989.json"
+  },
+  {
     "game": "GOWRagnarok_nocrash",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790760321,
     "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6886-Mali-G57_MC2-1790760321.json"
-  },
-  {
-    "game": "enb",
-    "manufacturer": "24069RA21C",
-    "device": "Adreno__TM__735",
-    "timestamp": 1790759337,
-    "filename": "enb-Xiaomi-24069RA21C-Adreno__TM__735-1790759337.json"
   }
 ]
