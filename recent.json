@@ -1,5 +1,12 @@
 [
   {
+    "game": "CoD2SP_s",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790797893,
+    "filename": "CoD2SP_s-TECNO-TECNO_CM5-Mali-G57_MC2-1790797893.json"
+  },
+  {
     "game": "Deluge",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790765720,
     "filename": "Roblox_Bootstrapper-Xiaomi-23073RPBFG-Adreno__TM__610-1790765720.json"
-  },
-  {
-    "game": "Mad_Max",
-    "manufacturer": "PHY110",
-    "device": "Adreno__TM__750",
-    "timestamp": 1790762685,
-    "filename": "Mad_Max-OPPO-PHY110-Adreno__TM__750-1790762685.json"
   }
 ]
