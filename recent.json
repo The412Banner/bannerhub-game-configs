@@ -1,5 +1,12 @@
 [
   {
+    "game": "WalkingDead101",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790748895,
+    "filename": "WalkingDead101-TECNO-TECNO_KI5k-Mali-G57-1790748895.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790727551,
     "filename": "gta-sa-ITEL-itel_S666LN-Mali-G57_MC2-1790727551.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1790727029,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2859-Mali-G615_MC2-1790727029.json"
   }
 ]
