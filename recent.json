@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NT01",
+    "device": "Adreno__TM__750",
+    "timestamp": 1790802097,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NT01-Adreno__TM__750-1790802097.json"
+  },
+  {
     "game": "dude",
     "manufacturer": "RMX3840",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790768715,
     "filename": "plants-vs-zombies-1-0-25m-samsung-SM-A075F-Mali-G57_MC2-1790768715.json"
-  },
-  {
-    "game": "RimWorld",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790767346,
-    "filename": "RimWorld-Xiaomi-23106RN0DA-Mali-G52_MC2-1790767346.json"
   }
 ]
