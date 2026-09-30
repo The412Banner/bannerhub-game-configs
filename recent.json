@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1790726806,
+    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2859-Mali-G615_MC2-1790726806.json"
+  },
+  {
     "game": "Mad_Max",
     "manufacturer": "PHY110",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790686280,
     "filename": "7-Zip_SFX-TECNO-TECNO_LI6-Mali-G57_MC2-1790686280.json"
-  },
-  {
-    "game": "LEGOPirates",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1790685815,
-    "filename": "LEGOPirates-Xiaomi-M2102J20SG-Adreno__TM__640-1790685815.json"
   }
 ]
