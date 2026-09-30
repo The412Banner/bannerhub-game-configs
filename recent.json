@@ -1,5 +1,12 @@
 [
   {
+    "game": "plants-vs-zombies-1-0-25m",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790768715,
+    "filename": "plants-vs-zombies-1-0-25m-samsung-SM-A075F-Mali-G57_MC2-1790768715.json"
+  },
+  {
     "game": "RimWorld",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1790745639,
     "filename": "FIFA_19-Xiaomi-2511FPC34G-Mali-G720_MC8-1790745639.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790745618,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6833B-Mali-G57_MC2-1790745618.json"
   }
 ]
