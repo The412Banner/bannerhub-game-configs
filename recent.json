@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1790733900,
+    "filename": "Far_Cry_3-nubia-NX799J-Adreno__TM__830-1790733900.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_6",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1790713393,
     "filename": "Watch_Dogs_2-nubia-NX799J-Adreno__TM__830-1790713393.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1790713075,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1790713075.json"
   }
 ]
