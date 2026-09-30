@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "A235F",
+    "device": "Adreno__TM__610",
+    "timestamp": 1790755467,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A235F-Adreno__TM__610-1790755467.json"
+  },
+  {
     "game": "Castlevania__Lords_of_Shadow___Ultimate_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790731226,
     "filename": "The_Planet_Crafter__________________________________________-nubia-Z2464N-Mali-G57-1790731226.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1790730814,
-    "filename": "Grand_Theft_Auto_V_Legacy-LENOVO-TB322FC-Adreno__TM__830-1790730814.json"
   }
 ]
