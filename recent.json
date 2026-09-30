@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mad_Max",
+    "manufacturer": "PHY110",
+    "device": "Adreno__TM__750",
+    "timestamp": 1790762685,
+    "filename": "Mad_Max-OPPO-PHY110-Adreno__TM__750-1790762685.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790744203,
     "filename": "Slender_-_The_Arrival-motorola-moto_g24_power-Mali-G52_MC2-1790744203.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1790740943,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1790740943.json"
   }
 ]
