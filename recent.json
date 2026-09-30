@@ -1,5 +1,12 @@
 [
   {
+    "game": "MadMax",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1790779204,
+    "filename": "MadMax-AYN-Odin2_Portal-Adreno__TM__740-1790779204.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "W09",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790748895,
     "filename": "WalkingDead101-TECNO-TECNO_KI5k-Mali-G57-1790748895.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790747195,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1790747195.json"
   }
 ]
