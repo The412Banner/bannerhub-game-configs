@@ -1,5 +1,12 @@
 [
   {
+    "game": "dude",
+    "manufacturer": "RMX3840",
+    "device": "Adreno__TM__710",
+    "timestamp": 1790799104,
+    "filename": "dude-realme-RMX3840-Adreno__TM__710-1790799104.json"
+  },
+  {
     "game": "CoD2SP_s",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790767346,
     "filename": "RimWorld-Xiaomi-23106RN0DA-Mali-G52_MC2-1790767346.json"
-  },
-  {
-    "game": "Roblox_Bootstrapper",
-    "manufacturer": "23073RPBFG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790765720,
-    "filename": "Roblox_Bootstrapper-Xiaomi-23073RPBFG-Adreno__TM__610-1790765720.json"
   }
 ]
