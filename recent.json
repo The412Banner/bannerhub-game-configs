@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_19",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1790745639,
+    "filename": "FIFA_19-Xiaomi-2511FPC34G-Mali-G720_MC8-1790745639.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1790719750,
     "filename": "Yanpai_Simulator-Xiaomi-25097RP43G-Adreno__TM__825-1790719750.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1790719372,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2503-Mali-G720-Immortalis_MC12-1790719372.json"
   }
 ]
