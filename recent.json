@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790747195,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25028PC03G-Mali-G57-1790747195.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man_Remastered",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1790727029,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2859-Mali-G615_MC2-1790727029.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1790726814,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2859-Mali-G615_MC2-1790726814.json"
   }
 ]
