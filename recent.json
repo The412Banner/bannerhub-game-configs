@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Killing_Antidote",
+    "manufacturer": "Infinix_X6878",
+    "device": "Adreno__TM__810",
+    "timestamp": 1790750963,
+    "filename": "The_Killing_Antidote-INFINIX-Infinix_X6878-Adreno__TM__810-1790750963.json"
+  },
+  {
     "game": "MadMax",
     "manufacturer": "Odin2_Portal",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790729403,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2727-Adreno__TM__610-1790729403.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "CPH2727",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790728526,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2727-Adreno__TM__610-1790728526.json"
   }
 ]
