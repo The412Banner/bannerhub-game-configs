@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1790756852,
+    "filename": "God_of_War-Xiaomi-2412DPC0AG-Mali-G720_MC7-1790756852.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "A235F",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790731231,
     "filename": "The_Planet_Crafter__________________________________________-nubia-Z2464N-Mali-G57-1790731231.json"
-  },
-  {
-    "game": "The_Planet_Crafter__________________________________________",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790731226,
-    "filename": "The_Planet_Crafter__________________________________________-nubia-Z2464N-Mali-G57-1790731226.json"
   }
 ]
