@@ -1,5 +1,12 @@
 [
   {
+    "game": "Guitar_Hero_III",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1790835629,
+    "filename": "Guitar_Hero_III-samsung-SM-A057M-Adreno__TM__610-1790835629.json"
+  },
+  {
     "game": "need_for_speed_underground_2",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1790799104,
     "filename": "dude-realme-RMX3840-Adreno__TM__710-1790799104.json"
-  },
-  {
-    "game": "CoD2SP_s",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790797893,
-    "filename": "CoD2SP_s-TECNO-TECNO_CM5-Mali-G57_MC2-1790797893.json"
   }
 ]
