@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_most_wanted",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1790835651,
+    "filename": "Need_for_Speed_most_wanted-samsung-SM-A057M-Adreno__TM__610-1790835651.json"
+  },
+  {
     "game": "Guitar_Hero_III",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1790802097,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-NT01-Adreno__TM__750-1790802097.json"
-  },
-  {
-    "game": "dude",
-    "manufacturer": "RMX3840",
-    "device": "Adreno__TM__710",
-    "timestamp": 1790799104,
-    "filename": "dude-realme-RMX3840-Adreno__TM__710-1790799104.json"
   }
 ]
