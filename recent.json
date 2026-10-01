@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1790887098,
+    "filename": "Resident_Evil_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1790887098.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "NX9",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1790858503,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-OPPO-CPH2531-Mali-G68_MC4-1790858503.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1790858431,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-OPPO-CPH2531-Mali-G68_MC4-1790858431.json"
   }
 ]
