@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790883306,
+    "filename": "BootstrapPackagedGame-TECNO-TECNO_KM4k-Mali-G52_MC2-1790883306.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1790850626,
     "filename": "Assassin_s_Creed__Revelations-Xiaomi-2412DPC0AG-Mali-G720_MC7-1790850626.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790847583,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A075M-Mali-G57_MC2-1790847583.json"
   }
 ]
