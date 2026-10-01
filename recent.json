@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23073RPBFL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1790814323,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23073RPBFL-Adreno__TM__610-1790814323.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "S948B",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1790779204,
     "filename": "MadMax-AYN-Odin2_Portal-Adreno__TM__740-1790779204.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__710",
-    "timestamp": 1790772625,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-HEY2-W09-Adreno__TM__710-1790772625.json"
   }
 ]
