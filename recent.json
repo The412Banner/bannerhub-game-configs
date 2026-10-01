@@ -1,5 +1,12 @@
 [
   {
+    "game": "7Launcher_-_GTA_5_1_7_1_____________________________________",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1790834287,
+    "filename": "7Launcher_-_GTA_5_1_7_1_____________________________________-TECNO-TECNO_KL5-Mali-G52_MC2-1790834287.json"
+  },
+  {
     "game": "Schedule_I__________________________________________________",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790795290,
     "filename": "MEmu-setup-abroad-956f11cf-realme-RMX3834-Mali-G57-1790795290.json"
-  },
-  {
-    "game": "LumaPlay_x64",
-    "manufacturer": "V2427",
-    "device": "Adreno__TM__720",
-    "timestamp": 1790794989,
-    "filename": "LumaPlay_x64-vivo-V2427-Adreno__TM__720-1790794989.json"
   }
 ]
