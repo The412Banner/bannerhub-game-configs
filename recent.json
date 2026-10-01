@@ -1,5 +1,12 @@
 [
   {
+    "game": "DyingLight",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1790893679,
+    "filename": "DyingLight-Xiaomi-2412DPC0AG-Mali-G720_MC7-1790893679.json"
+  },
+  {
     "game": "_____2019",
     "manufacturer": "22111317PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1790868435,
     "filename": "Aragami2-vivo-I2405-Adreno__TM__825-1790868435.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "220333QNY",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790866554,
-    "filename": "BootstrapPackagedGame-Xiaomi-220333QNY-Adreno__TM__610-1790866554.json"
   }
 ]
