@@ -1,5 +1,12 @@
 [
   {
+    "game": "Terraria",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1790897890,
+    "filename": "Terraria-Xiaomi-25053PC47G-Adreno__TM__825-1790897890.json"
+  },
+  {
     "game": "kof13_win32_Release",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1790869344,
     "filename": "Aragami2-vivo-I2405-Adreno__TM__825-1790869344.json"
-  },
-  {
-    "game": "Devil_May_Cry_5",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1790868440,
-    "filename": "Devil_May_Cry_5-vivo-I2405-Adreno__TM__825-1790868440.json"
   }
 ]
