@@ -1,5 +1,12 @@
 [
   {
+    "game": "Burnout_Paradise__The_Ultimate_Box",
+    "manufacturer": "RMX3474",
+    "device": "Adreno__TM__619",
+    "timestamp": 1790897931,
+    "filename": "Burnout_Paradise__The_Ultimate_Box-realme-RMX3474-Adreno__TM__619-1790897931.json"
+  },
+  {
     "game": "Terraria",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790870634,
     "filename": "Sims_3-motorola-moto_g35_5G-Mali-G57-1790870634.json"
-  },
-  {
-    "game": "Aragami2",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1790869344,
-    "filename": "Aragami2-vivo-I2405-Adreno__TM__825-1790869344.json"
   }
 ]
