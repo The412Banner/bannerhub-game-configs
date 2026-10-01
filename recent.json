@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "220333QNY",
+    "device": "Adreno__TM__610",
+    "timestamp": 1790866554,
+    "filename": "BootstrapPackagedGame-Xiaomi-220333QNY-Adreno__TM__610-1790866554.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1790834392,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2463A-Adreno__TM__830-1790834392.json"
-  },
-  {
-    "game": "7Launcher_-_GTA_5_1_7_1_____________________________________",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790834287,
-    "filename": "7Launcher_-_GTA_5_1_7_1_____________________________________-TECNO-TECNO_KL5-Mali-G52_MC2-1790834287.json"
   }
 ]
