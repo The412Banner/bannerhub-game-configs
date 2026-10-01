@@ -1,5 +1,12 @@
 [
   {
+    "game": "EasyAntiCheat_Launcher",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1790872174,
+    "filename": "EasyAntiCheat_Launcher-Xiaomi-2312DRA50G-Adreno__TM__710-1790872174.json"
+  },
+  {
     "game": "Dead_Space__",
     "manufacturer": "POCO_F1",
     "device": "Adreno__TM__630",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790837138,
     "filename": "BootstrapPackagedGame-samsung-SM-A175F-Mali-G57_MC2-1790837138.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790836494,
-    "filename": "BootstrapPackagedGame-samsung-SM-A175F-Mali-G57_MC2-1790836494.json"
   }
 ]
