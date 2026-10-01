@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "V2463A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1790834392,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2463A-Adreno__TM__830-1790834392.json"
+  },
+  {
     "game": "7Launcher_-_GTA_5_1_7_1_____________________________________",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790796579,
     "filename": "Deluge-realme-RMX3834-Mali-G57-1790796579.json"
-  },
-  {
-    "game": "MEmu-setup-abroad-956f11cf",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790795290,
-    "filename": "MEmu-setup-abroad-956f11cf-realme-RMX3834-Mali-G57-1790795290.json"
   }
 ]
