@@ -3,6 +3,13 @@
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1790836494,
+    "filename": "BootstrapPackagedGame-samsung-SM-A175F-Mali-G57_MC2-1790836494.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1790836125,
     "filename": "BootstrapPackagedGame-samsung-SM-A175F-Mali-G57_MC2-1790836125.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1790804398,
     "filename": "Resident_Evil_3-motorola-moto_g84_5G-Adreno__TM__619-1790804398.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "moto_g84_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1790803677,
-    "filename": "Resident_Evil_3-motorola-moto_g84_5G-Adreno__TM__619-1790803677.json"
   }
 ]
