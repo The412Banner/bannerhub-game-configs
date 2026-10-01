@@ -1,5 +1,12 @@
 [
   {
+    "game": "kof13_win32_Release",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790894621,
+    "filename": "kof13_win32_Release-TECNO-TECNO_LI9-Mali-G57_MC2-1790894621.json"
+  },
+  {
     "game": "DyingLight",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1790868440,
     "filename": "Devil_May_Cry_5-vivo-I2405-Adreno__TM__825-1790868440.json"
-  },
-  {
-    "game": "Aragami2",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1790868435,
-    "filename": "Aragami2-vivo-I2405-Adreno__TM__825-1790868435.json"
   }
 ]
