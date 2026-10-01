@@ -1,5 +1,12 @@
 [
   {
+    "game": "DEVIL_MAY_CRY_4",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1790829434,
+    "filename": "DEVIL_MAY_CRY_4-TECNO-TECNO_LJ8k-Mali-G615_MC2-1790829434.json"
+  },
+  {
     "game": "Sifu",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790788111,
     "filename": "GOWRagnarok_nocrash-samsung-SM-A156M-Mali-G57_MC2-1790788111.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2107113SG",
-    "device": "Adreno__TM__660",
-    "timestamp": 1790787309,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2107113SG-Adreno__TM__660-1790787309.json"
   }
 ]
