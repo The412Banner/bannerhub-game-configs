@@ -1,5 +1,12 @@
 [
   {
+    "game": "Schedule_I__________________________________________________",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1790831425,
+    "filename": "Schedule_I__________________________________________________-HONOR-ABR-NX1-PowerVR_B-Series_BXM-8-256-1790831425.json"
+  },
+  {
     "game": "DEVIL_MAY_CRY_4",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1790794989,
     "filename": "LumaPlay_x64-vivo-V2427-Adreno__TM__720-1790794989.json"
-  },
-  {
-    "game": "GOWRagnarok_nocrash",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790788111,
-    "filename": "GOWRagnarok_nocrash-samsung-SM-A156M-Mali-G57_MC2-1790788111.json"
   }
 ]
