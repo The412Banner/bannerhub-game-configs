@@ -1,5 +1,12 @@
 [
   {
+    "game": "need_for_speed_underground_2",
+    "manufacturer": "A057M",
+    "device": "Adreno__TM__610",
+    "timestamp": 1790835606,
+    "filename": "need_for_speed_underground_2-samsung-SM-A057M-Adreno__TM__610-1790835606.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "V2463A",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790797893,
     "filename": "CoD2SP_s-TECNO-TECNO_CM5-Mali-G57_MC2-1790797893.json"
-  },
-  {
-    "game": "Deluge",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790796579,
-    "filename": "Deluge-realme-RMX3834-Mali-G57-1790796579.json"
   }
 ]
