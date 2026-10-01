@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790836125,
+    "filename": "BootstrapPackagedGame-samsung-SM-A175F-Mali-G57_MC2-1790836125.json"
+  },
+  {
     "game": "Need_for_Speed_most_wanted",
     "manufacturer": "A057M",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1790803677,
     "filename": "Resident_Evil_3-motorola-moto_g84_5G-Adreno__TM__619-1790803677.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NT01",
-    "device": "Adreno__TM__750",
-    "timestamp": 1790802097,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NT01-Adreno__TM__750-1790802097.json"
   }
 ]
