@@ -1,5 +1,12 @@
 [
   {
+    "game": "Undertale",
+    "manufacturer": "CPH2691",
+    "device": "Adreno__TM__750",
+    "timestamp": 1790838343,
+    "filename": "Undertale-OnePlus-CPH2691-Adreno__TM__750-1790838343.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790808069,
     "filename": "____2016-realme-RMX5566-Adreno__TM__610-1790808069.json"
-  },
-  {
-    "game": "sdaemon",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1790805690,
-    "filename": "sdaemon-Xiaomi-23113RKC6G-Adreno__TM__740-1790805690.json"
   }
 ]
