@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G71",
+    "timestamp": 1790816167,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A307GT-Mali-G71-1790816167.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23073RPBFL",
     "device": "Adreno__TM__610",
     "timestamp": 1790814323,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1790776309,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g85_5G-Adreno__TM__619-1790776309.json"
-  },
-  {
-    "game": "MadMax",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1790779204,
-    "filename": "MadMax-AYN-Odin2_Portal-Adreno__TM__740-1790779204.json"
   }
 ]
