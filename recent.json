@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sims_3",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790870634,
+    "filename": "Sims_3-motorola-moto_g35_5G-Mali-G57-1790870634.json"
+  },
+  {
     "game": "Aragami2",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790836125,
     "filename": "BootstrapPackagedGame-samsung-SM-A175F-Mali-G57_MC2-1790836125.json"
-  },
-  {
-    "game": "Need_for_Speed_most_wanted",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790835651,
-    "filename": "Need_for_Speed_most_wanted-samsung-SM-A057M-Adreno__TM__610-1790835651.json"
   }
 ]
