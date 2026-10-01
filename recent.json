@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790875421,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6528B-Mali-G57-1790875421.json"
+  },
+  {
     "game": "EasyAntiCheat_Launcher",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1790838343,
     "filename": "Undertale-OnePlus-CPH2691-Adreno__TM__750-1790838343.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790837138,
-    "filename": "BootstrapPackagedGame-samsung-SM-A175F-Mali-G57_MC2-1790837138.json"
   }
 ]
