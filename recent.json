@@ -1,5 +1,12 @@
 [
   {
+    "game": "samp",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790904731,
+    "filename": "samp-realme-RMX5313-Mali-G57-1790904731.json"
+  },
+  {
     "game": "DARK_SOULS__II",
     "manufacturer": "22111317PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790883306,
     "filename": "BootstrapPackagedGame-TECNO-TECNO_KM4k-Mali-G52_MC2-1790883306.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1790881000,
-    "filename": "DRAGON_BALL_FighterZ-Xiaomi-24069PC21G-Adreno__TM__735-1790881000.json"
   }
 ]
