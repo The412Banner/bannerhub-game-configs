@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1790899926,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-24069PC21G-Adreno__TM__735-1790899926.json"
+  },
+  {
     "game": "Burnout_Paradise__The_Ultimate_Box",
     "manufacturer": "RMX3474",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__630",
     "timestamp": 1790871490,
     "filename": "Dead_Space__-Xiaomi-POCO_F1-Adreno__TM__630-1790871490.json"
-  },
-  {
-    "game": "Sims_3",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790870634,
-    "filename": "Sims_3-motorola-moto_g35_5G-Mali-G57-1790870634.json"
   }
 ]
