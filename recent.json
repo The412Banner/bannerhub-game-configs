@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790959012,
+    "filename": "Pro_Evolution_Soccer_2013-Positivo-Vaio_TL10-Mali-G57-1790959012.json"
+  },
+  {
     "game": "Far_Cry__2",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1790933688,
     "filename": "gta-sa-nubia-NX769J-Adreno__TM__750-1790933688.json"
-  },
-  {
-    "game": "DAVE_THE_DIVER",
-    "manufacturer": "Redmi_Note_8",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790931832,
-    "filename": "DAVE_THE_DIVER-Xiaomi-Redmi_Note_8-Adreno__TM__610-1790931832.json"
   }
 ]
