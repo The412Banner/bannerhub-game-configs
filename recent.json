@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight",
+    "manufacturer": "V2520A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1790935348,
+    "filename": "Hollow_Knight-vivo-V2520A-Adreno__TM__830-1790935348.json"
+  },
+  {
     "game": "gta-sa",
     "manufacturer": "NX769J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1790899926,
     "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-24069PC21G-Adreno__TM__735-1790899926.json"
-  },
-  {
-    "game": "Burnout_Paradise__The_Ultimate_Box",
-    "manufacturer": "RMX3474",
-    "device": "Adreno__TM__619",
-    "timestamp": 1790897931,
-    "filename": "Burnout_Paradise__The_Ultimate_Box-realme-RMX3474-Adreno__TM__619-1790897931.json"
   }
 ]
