@@ -3,6 +3,13 @@
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G615_MC6",
+    "timestamp": 1790938687,
+    "filename": "PlayGTAV-Xiaomi-2311DRK48G-Mali-G615_MC6-1790938687.json"
+  },
+  {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
     "timestamp": 1790938645,
     "filename": "PlayGTAV-Xiaomi-2311DRK48G-Mali-G615_MC6-1790938645.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790904731,
     "filename": "samp-realme-RMX5313-Mali-G57-1790904731.json"
-  },
-  {
-    "game": "DARK_SOULS__II",
-    "manufacturer": "22111317PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1790904223,
-    "filename": "DARK_SOULS__II-Xiaomi-22111317PG-Adreno__TM__619-1790904223.json"
   }
 ]
