@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1790954046,
+    "filename": "Pro_Evolution_Soccer_2013-Positivo-Vaio_TL10-Mali-G57-1790954046.json"
+  },
+  {
     "game": "Well_Dweller________________________________________________",
     "manufacturer": "X900",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1790931767,
     "filename": "Battle_net_Setup-samsung-SM-S938B-Adreno__TM__830-1790931767.json"
-  },
-  {
-    "game": "F1_2018",
-    "manufacturer": "24091RPADG",
-    "device": "Adreno__TM__735",
-    "timestamp": 1790930538,
-    "filename": "F1_2018-Xiaomi-24091RPADG-Adreno__TM__735-1790930538.json"
   }
 ]
