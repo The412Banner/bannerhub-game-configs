@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2018",
+    "manufacturer": "24091RPADG",
+    "device": "Adreno__TM__735",
+    "timestamp": 1790930538,
+    "filename": "F1_2018-Xiaomi-24091RPADG-Adreno__TM__735-1790930538.json"
+  },
+  {
     "game": "Max_Payne_3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1790893679,
     "filename": "DyingLight-Xiaomi-2412DPC0AG-Mali-G720_MC7-1790893679.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "22111317PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1790890368,
-    "filename": "_____2019-Xiaomi-22111317PG-Adreno__TM__619-1790890368.json"
   }
 ]
