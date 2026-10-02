@@ -3,6 +3,13 @@
     "game": "samp",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1790904739,
+    "filename": "samp-realme-RMX5313-Mali-G57-1790904739.json"
+  },
+  {
+    "game": "samp",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1790904731,
     "filename": "samp-realme-RMX5313-Mali-G57-1790904731.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790883741,
     "filename": "Forza_Horizon_5-samsung-SM-A165F-Mali-G57_MC2-1790883741.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790883306,
-    "filename": "BootstrapPackagedGame-TECNO-TECNO_KM4k-Mali-G52_MC2-1790883306.json"
   }
 ]
