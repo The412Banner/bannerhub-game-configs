@@ -3,6 +3,13 @@
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G615_MC6",
+    "timestamp": 1790938822,
+    "filename": "PlayGTAV-Xiaomi-2311DRK48G-Mali-G615_MC6-1790938822.json"
+  },
+  {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
     "timestamp": 1790938687,
     "filename": "PlayGTAV-Xiaomi-2311DRK48G-Mali-G615_MC6-1790938687.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1790904739,
     "filename": "samp-realme-RMX5313-Mali-G57-1790904739.json"
-  },
-  {
-    "game": "samp",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790904731,
-    "filename": "samp-realme-RMX5313-Mali-G57-1790904731.json"
   }
 ]
