@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1790900983,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1790900983.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1790872174,
     "filename": "EasyAntiCheat_Launcher-Xiaomi-2312DRA50G-Adreno__TM__710-1790872174.json"
-  },
-  {
-    "game": "Dead_Space__",
-    "manufacturer": "POCO_F1",
-    "device": "Adreno__TM__630",
-    "timestamp": 1790871490,
-    "filename": "Dead_Space__-Xiaomi-POCO_F1-Adreno__TM__630-1790871490.json"
   }
 ]
