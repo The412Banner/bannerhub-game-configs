@@ -1,5 +1,12 @@
 [
   {
+    "game": "2K_Sports_NBA_2K14",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1790994534,
+    "filename": "2K_Sports_NBA_2K14-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1790994534.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g_60_",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790968190,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1790968190.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1790967185,
-    "filename": "Pro_Evolution_Soccer_2013-Positivo-Vaio_TL10-Mali-G57-1790967185.json"
   }
 ]
