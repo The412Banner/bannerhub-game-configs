@@ -1,5 +1,12 @@
 [
   {
+    "game": "Plantera",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791064261,
+    "filename": "Plantera-motorola-moto_g05-Mali-G52_MC2-1791064261.json"
+  },
+  {
     "game": "Call_of_Duty___Ghosts",
     "manufacturer": "RMX2103",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791028072,
     "filename": "NARUTO_STORM_3_FB-TECNO-TECNO_LH8n-Mali-G57_MC2-1791028072.json"
-  },
-  {
-    "game": "The_Crew_Motorfest",
-    "manufacturer": "I2220",
-    "device": "Adreno__TM__750",
-    "timestamp": 1791027264,
-    "filename": "The_Crew_Motorfest-vivo-I2220-Adreno__TM__750-1791027264.json"
   }
 ]
