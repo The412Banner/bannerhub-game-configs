@@ -1,5 +1,12 @@
 [
   {
+    "game": "Getting_Over_It_with_Bennett_Foddy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791030577,
+    "filename": "Getting_Over_It_with_Bennett_Foddy-samsung-SM-A055F-Mali-G52_MC2-1791030577.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1791003474,
     "filename": "Bun-ITEL-itel_P671LN-Mali-G57-1791003474.json"
-  },
-  {
-    "game": "Colin_McRae_Rally_2005______________________________________",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1791002748,
-    "filename": "Colin_McRae_Rally_2005______________________________________-Xiaomi-24069PC21G-Adreno__TM__735-1791002748.json"
   }
 ]
