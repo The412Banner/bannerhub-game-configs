@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH2239",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1791043701,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2239-PowerVR_Rogue_GE8320-1791043701.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
     "timestamp": 1791043348,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791021184,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RN76G-Mali-G57_MC2-1791021184.json"
-  },
-  {
-    "game": "Beyond_Good___Evil",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791020425,
-    "filename": "Beyond_Good___Evil-realme-RMX3630-Mali-G57_MC2-1791020425.json"
   }
 ]
