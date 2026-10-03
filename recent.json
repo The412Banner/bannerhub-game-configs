@@ -1,5 +1,12 @@
 [
   {
+    "game": "Beyond_Good___Evil",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791020425,
+    "filename": "Beyond_Good___Evil-realme-RMX3630-Mali-G57_MC2-1791020425.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2_Demo",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1790993911,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G780G-Adreno__TM__650-1790993911.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1790992566,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25078RA3EA-Mali-G52_MC2-1790992566.json"
   }
 ]
