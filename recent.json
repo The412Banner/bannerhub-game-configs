@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_18",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1791043872,
+    "filename": "FIFA_18-TECNO-TECNO_CL8-Mali-G610_MC6-1791043872.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2239",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791024478,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409BRN2CY-Mali-G52_MC2-1791024478.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791021184,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RN76G-Mali-G57_MC2-1791021184.json"
   }
 ]
