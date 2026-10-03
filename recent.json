@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1791004113,
+    "filename": "BootstrapPackagedGame-TECNO-TECNO_CM7-Mali-G615_MC2-1791004113.json"
+  },
+  {
     "game": "Bun",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1790985329,
     "filename": "Persona_3_Reload-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1790985329.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790980249,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A165F-Mali-G57_MC2-1790980249.json"
   }
 ]
