@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G51",
+    "timestamp": 1791005913,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-STK-L22-Mali-G51-1791005913.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1790987829,
     "filename": "Resident_Evil_4__2005_-samsung-SM-A256E-Mali-G68-1790987829.json"
-  },
-  {
-    "game": "Persona_3_Reload",
-    "manufacturer": "Retroid_Pocket_6",
-    "device": "Adreno__TM__740",
-    "timestamp": 1790985329,
-    "filename": "Persona_3_Reload-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1790985329.json"
   }
 ]
