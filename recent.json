@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1791026726,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1791026726.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1791025185,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1790999006,
     "filename": "Resident_Evil_7_Biohazard-motorola-moto_g45_5G-Adreno__TM__619-1790999006.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1790996652,
-    "filename": "Resident_Evil_2-Xiaomi-24069PC21G-Adreno__TM__735-1790996652.json"
   }
 ]
