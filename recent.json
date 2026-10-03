@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "22021211RG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1790999770,
+    "filename": "Far_Cry_3-Xiaomi-22021211RG-Adreno__TM__650-1790999770.json"
+  },
+  {
     "game": "Resident_Evil_7_Biohazard",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1790973584,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g52-Adreno__TM__610-1790973584.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g52",
-    "device": "Adreno__TM__610",
-    "timestamp": 1790973522,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g52-Adreno__TM__610-1790973522.json"
   }
 ]
