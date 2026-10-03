@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blur",
+    "manufacturer": "NT01",
+    "device": "Adreno__TM__750",
+    "timestamp": 1791027130,
+    "filename": "Blur-nubia-NT01-Adreno__TM__750-1791027130.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1790999770,
     "filename": "Far_Cry_3-Xiaomi-22021211RG-Adreno__TM__650-1790999770.json"
-  },
-  {
-    "game": "Resident_Evil_7_Biohazard",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1790999006,
-    "filename": "Resident_Evil_7_Biohazard-motorola-moto_g45_5G-Adreno__TM__619-1790999006.json"
   }
 ]
