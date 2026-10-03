@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bun",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1791003474,
+    "filename": "Bun-ITEL-itel_P671LN-Mali-G57-1791003474.json"
+  },
+  {
     "game": "Colin_McRae_Rally_2005______________________________________",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1790980249,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A165F-Mali-G57_MC2-1790980249.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1790980208,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A165F-Mali-G57_MC2-1790980208.json"
   }
 ]
