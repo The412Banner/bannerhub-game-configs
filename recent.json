@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1791038296,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A356E-Mali-G68-1791038296.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1791035718,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RN76L-Mali-G57_MC2-1791035718.json"
@@ -131,12 +138,5 @@
     "device": "G610_MC2",
     "timestamp": 1791009792,
     "filename": "Little_Nightmares_II-TECNO-TECNO_LK7k-Mali-G610_MC2-1791009792.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S901N",
-    "device": "Adreno__TM__730",
-    "timestamp": 1791008114,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S901N-Adreno__TM__730-1791008114.json"
   }
 ]
