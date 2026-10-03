@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Ghosts",
+    "manufacturer": "RMX2103",
+    "device": "Adreno__TM__610",
+    "timestamp": 1791063066,
+    "filename": "Call_of_Duty___Ghosts-realme-RMX2103-Adreno__TM__610-1791063066.json"
+  },
+  {
     "game": "Battlefield__Bad_Company_2_Vietnam",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1791027264,
     "filename": "The_Crew_Motorfest-vivo-I2220-Adreno__TM__750-1791027264.json"
-  },
-  {
-    "game": "Blur",
-    "manufacturer": "NT01",
-    "device": "Adreno__TM__750",
-    "timestamp": 1791027130,
-    "filename": "Blur-nubia-NT01-Adreno__TM__750-1791027130.json"
   }
 ]
