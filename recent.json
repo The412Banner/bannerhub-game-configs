@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791035718,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RN76L-Mali-G57_MC2-1791035718.json"
+  },
+  {
     "game": "Plutonium_Launcher",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1791008114,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S901N-Adreno__TM__730-1791008114.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1791005913,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-STK-L22-Mali-G51-1791005913.json"
   }
 ]
