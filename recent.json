@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__Bad_Company_2_Vietnam",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791054735,
+    "filename": "Battlefield__Bad_Company_2_Vietnam-samsung-SM-A075M-Mali-G57_MC2-1791054735.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1791027130,
     "filename": "Blur-nubia-NT01-Adreno__TM__750-1791027130.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A556E",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1791026726,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1791026726.json"
   }
 ]
