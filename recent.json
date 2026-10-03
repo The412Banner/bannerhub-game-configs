@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_",
+    "manufacturer": "25097RP43G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1791069179,
+    "filename": "Far_Cry_-Xiaomi-25097RP43G-Adreno__TM__825-1791069179.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791031367,
     "filename": "Plutonium_Launcher-TECNO-TECNO_LI9-Mali-G57_MC2-1791031367.json"
-  },
-  {
-    "game": "Getting_Over_It_with_Bennett_Foddy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1791030584,
-    "filename": "Getting_Over_It_with_Bennett_Foddy-samsung-SM-A055F-Mali-G52_MC2-1791030584.json"
   }
 ]
