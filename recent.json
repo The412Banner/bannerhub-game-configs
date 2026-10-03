@@ -1,5 +1,12 @@
 [
   {
+    "game": "Little_Nightmares_II",
+    "manufacturer": "Mali",
+    "device": "G610_MC2",
+    "timestamp": 1791009792,
+    "filename": "Little_Nightmares_II-TECNO-TECNO_LK7k-Mali-G610_MC2-1791009792.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S901N",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1790990437,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2101K6G-Adreno__TM__618-1790990437.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1790989786,
-    "filename": "BootstrapPackagedGame-Xiaomi-2412DPC0AG-Mali-G720_MC7-1790989786.json"
   }
 ]
