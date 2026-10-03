@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4__2005_",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1790987829,
+    "filename": "Resident_Evil_4__2005_-samsung-SM-A256E-Mali-G68-1790987829.json"
+  },
+  {
     "game": "Persona_3_Reload",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1790961579,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23053RN02L-Mali-G52_MC2-1790961579.json"
-  },
-  {
-    "game": "Resident_Evil_7_Biohazard",
-    "manufacturer": "24018RPACG",
-    "device": "Adreno__TM__740",
-    "timestamp": 1790960492,
-    "filename": "Resident_Evil_7_Biohazard-Xiaomi-24018RPACG-Adreno__TM__740-1790960492.json"
   }
 ]
