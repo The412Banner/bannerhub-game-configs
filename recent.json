@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1791084416,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-samsung-SM-G990E-Mali-G78-1791084416.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Infinix_X688B",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791064261,
     "filename": "Plantera-motorola-moto_g05-Mali-G52_MC2-1791064261.json"
-  },
-  {
-    "game": "Call_of_Duty___Ghosts",
-    "manufacturer": "RMX2103",
-    "device": "Adreno__TM__610",
-    "timestamp": 1791063066,
-    "filename": "Call_of_Duty___Ghosts-realme-RMX2103-Adreno__TM__610-1791063066.json"
   }
 ]
