@@ -1,5 +1,12 @@
 [
   {
+    "game": "XR_3DA",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791129894,
+    "filename": "XR_3DA-realme-RMX3630-Mali-G57_MC2-1791129894.json"
+  },
+  {
     "game": "UE4Game",
     "manufacturer": "V2546A",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1791107890,
     "filename": "slw-Xiaomi-M2101K7BNY-Mali-G76-1791107890.json"
-  },
-  {
-    "game": "Mortal_Kombat_X",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1791107623,
-    "filename": "Mortal_Kombat_X-Xiaomi-25079RPDCG-Mali-G925-Immortalis_MC12-1791107623.json"
   }
 ]
