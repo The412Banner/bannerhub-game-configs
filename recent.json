@@ -1,5 +1,12 @@
 [
   {
+    "game": "Counter-Strike_2",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1791130885,
+    "filename": "Counter-Strike_2-Xiaomi-2312DRA50G-Adreno__TM__710-1791130885.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013_DEMO_______________________",
     "manufacturer": "Infinix_X669C",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1791118052,
     "filename": "wmn6r-nubia-Z2467-Mali-G57-1791118052.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1791114540,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A356E-Mali-G68-1791114540.json"
   }
 ]
