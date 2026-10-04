@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Infinix_X688B",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1791084400,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX_MOBILITY_LIMITED-Infinix_X688B-PowerVR_Rogue_GE8320-1791084400.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1791063066,
     "filename": "Call_of_Duty___Ghosts-realme-RMX2103-Adreno__TM__610-1791063066.json"
-  },
-  {
-    "game": "Battlefield__Bad_Company_2_Vietnam",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791054735,
-    "filename": "Battlefield__Bad_Company_2_Vietnam-samsung-SM-A075M-Mali-G57_MC2-1791054735.json"
   }
 ]
