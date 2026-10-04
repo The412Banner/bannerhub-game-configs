@@ -1,5 +1,12 @@
 [
   {
+    "game": "UE4Game",
+    "manufacturer": "V2546A",
+    "device": "Adreno__TM__840",
+    "timestamp": 1791129662,
+    "filename": "UE4Game-vivo-V2546A-Adreno__TM__840-1791129662.json"
+  },
+  {
     "game": "PES_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1791107623,
     "filename": "Mortal_Kombat_X-Xiaomi-25079RPDCG-Mali-G925-Immortalis_MC12-1791107623.json"
-  },
-  {
-    "game": "ELDEN_RING_NIGHTREIGN",
-    "manufacturer": "Pocket_S",
-    "device": "Adreno__TM__A32",
-    "timestamp": 1791100766,
-    "filename": "ELDEN_RING_NIGHTREIGN-AYANEO-Pocket_S-Adreno__TM__A32-1791100766.json"
   }
 ]
