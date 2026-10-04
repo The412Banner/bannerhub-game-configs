@@ -1,5 +1,12 @@
 [
   {
+    "game": "OpenIV",
+    "manufacturer": "S918U1",
+    "device": "Adreno__TM__740",
+    "timestamp": 1791082251,
+    "filename": "OpenIV-samsung-SM-S918U1-Adreno__TM__740-1791082251.json"
+  },
+  {
     "game": "Romancing_SaGa_2__Revenge_of_the_Seven",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791054071,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1791054071.json"
-  },
-  {
-    "game": "Detroit__Become_Human",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1791053568,
-    "filename": "Detroit__Become_Human-HONOR-BRP-NX1-Adreno__TM__710-1791053568.json"
   }
 ]
