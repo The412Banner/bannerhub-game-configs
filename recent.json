@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1791079475,
+    "filename": "Sleeping_Dogs-nubia-Z2462N-Mali-G57-1791079475.json"
+  },
+  {
     "game": "The_Elder_Scrolls_V__Skyrim_Special_Edition",
     "manufacturer": "S928U",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1791045852,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g35_5G-Mali-G57-1791045852.json"
-  },
-  {
-    "game": "FIFA_18",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1791043872,
-    "filename": "FIFA_18-TECNO-TECNO_CL8-Mali-G610_MC6-1791043872.json"
   }
 ]
