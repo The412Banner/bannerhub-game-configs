@@ -1,5 +1,12 @@
 [
   {
+    "game": "Kena__Bridge_of_Spirits",
+    "manufacturer": "V2546A",
+    "device": "Adreno__TM__840",
+    "timestamp": 1791097034,
+    "filename": "Kena__Bridge_of_Spirits-vivo-V2546A-Adreno__TM__840-1791097034.json"
+  },
+  {
     "game": "Stardew_Valley",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791067378,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A075M-Mali-G57_MC2-1791067378.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "F926B",
-    "device": "Adreno__TM__660",
-    "timestamp": 1791065952,
-    "filename": "PlayGTAV-samsung-SM-F926B-Adreno__TM__660-1791065952.json"
   }
 ]
