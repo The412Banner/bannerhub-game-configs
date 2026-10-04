@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791098465,
+    "filename": "Pro_Evolution_Soccer_2013_-Xiaomi-25100RA69G-Mali-G57_MC2-1791098465.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man__Miles_Morales",
     "manufacturer": "RMX5070",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791069332,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A075M-Mali-G57_MC2-1791069332.json"
-  },
-  {
-    "game": "Far_Cry_",
-    "manufacturer": "25097RP43G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1791069179,
-    "filename": "Far_Cry_-Xiaomi-25097RP43G-Adreno__TM__825-1791069179.json"
   }
 ]
