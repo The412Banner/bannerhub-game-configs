@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791136500,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A075M-Mali-G57_MC2-1791136500.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1791123096,
     "filename": "Pro_Evolution_Soccer_2013_DEMO_______________________-INFINIX-Infinix_X669C-PowerVR_Rogue_GE8320-1791123096.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
-    "manufacturer": "LE2115",
-    "device": "Adreno__TM__660",
-    "timestamp": 1791122797,
-    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-OnePlus-LE2115-Adreno__TM__660-1791122797.json"
   }
 ]
