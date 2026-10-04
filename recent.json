@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1791114540,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A356E-Mali-G68-1791114540.json"
+  },
+  {
     "game": "Tomb_Raider_________________________________________________",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1791079098,
     "filename": "The_Elder_Scrolls_V__Skyrim_Special_Edition-samsung-SM-S928U-Adreno__TM__750-1791079098.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1791076724,
-    "filename": "Sleeping_Dogs-nubia-Z2462N-Mali-G57-1791076724.json"
   }
 ]
