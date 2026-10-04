@@ -3,6 +3,13 @@
     "game": "PES_2013",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1791129492,
+    "filename": "PES_2013-Positivo-Vaio_TL10-Mali-G57-1791129492.json"
+  },
+  {
+    "game": "PES_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1791129483,
     "filename": "PES_2013-Positivo-Vaio_TL10-Mali-G57-1791129483.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__A32",
     "timestamp": 1791100766,
     "filename": "ELDEN_RING_NIGHTREIGN-AYANEO-Pocket_S-Adreno__TM__A32-1791100766.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791103260,
-    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6850-Mali-G57_MC2-1791103260.json"
   }
 ]
