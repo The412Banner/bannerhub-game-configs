@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider_________________________________________________",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791111423,
+    "filename": "Tomb_Raider_________________________________________________-INFINIX-Infinix_X6833B-Mali-G57_MC2-1791111423.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man__Miles_Morales",
     "manufacturer": "RMX5070",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1791076724,
     "filename": "Sleeping_Dogs-nubia-Z2462N-Mali-G57-1791076724.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2312DRA50C",
-    "device": "Adreno__TM__710",
-    "timestamp": 1791076705,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2312DRA50C-Adreno__TM__710-1791076705.json"
   }
 ]
