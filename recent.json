@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1791148109,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-24095PCADG-Mali-G615_MC2-1791148109.json"
+  },
+  {
     "game": "Little_Nightmares_II",
     "manufacturer": "V2434",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1791129972,
     "filename": "FIFA_18-Xiaomi-25053PC47G-Adreno__TM__825-1791129972.json"
-  },
-  {
-    "game": "XR_3DA",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791129894,
-    "filename": "XR_3DA-realme-RMX3630-Mali-G57_MC2-1791129894.json"
   }
 ]
