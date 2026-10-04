@@ -1,5 +1,12 @@
 [
   {
+    "game": "NSUNS4_Launcher",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1791128232,
+    "filename": "NSUNS4_Launcher-samsung-SM-M336BU-Mali-G68-1791128232.json"
+  },
+  {
     "game": "UE4Game",
     "manufacturer": "V2546A",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1791094074,
     "filename": "Stardew_Valley-AYN-AYN_Thor-Adreno__TM__740-1791094074.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2_Demo",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791088688,
-    "filename": "Euro_Truck_Simulator_2_Demo-Xiaomi-2502FRA65G-Mali-G57_MC2-1791088688.json"
   }
 ]
