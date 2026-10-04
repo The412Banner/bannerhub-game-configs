@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stardew_Valley",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1791094074,
+    "filename": "Stardew_Valley-AYN-AYN_Thor-Adreno__TM__740-1791094074.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2_Demo",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1791065952,
     "filename": "PlayGTAV-samsung-SM-F926B-Adreno__TM__660-1791065952.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__610",
-    "timestamp": 1791065282,
-    "filename": "Hollow_Knight__Silksong-HONOR-HEY-W09-Adreno__TM__610-1791065282.json"
   }
 ]
