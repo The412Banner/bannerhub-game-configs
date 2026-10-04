@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1791076724,
+    "filename": "Sleeping_Dogs-nubia-Z2462N-Mali-G57-1791076724.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2312DRA50C",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1791043701,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2239-PowerVR_Rogue_GE8320-1791043701.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1791043348,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-BRP-NX1-Adreno__TM__710-1791043348.json"
   }
 ]
