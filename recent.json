@@ -1,5 +1,12 @@
 [
   {
+    "game": "World_War_Z",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1791140662,
+    "filename": "World_War_Z-ayn-Odin3-Adreno__TM__830-1791140662.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1791128232,
     "filename": "NSUNS4_Launcher-samsung-SM-M336BU-Mali-G68-1791128232.json"
-  },
-  {
-    "game": "UE4Game",
-    "manufacturer": "V2546A",
-    "device": "Adreno__TM__840",
-    "timestamp": 1791126703,
-    "filename": "UE4Game-vivo-V2546A-Adreno__TM__840-1791126703.json"
   }
 ]
