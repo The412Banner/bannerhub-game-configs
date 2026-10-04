@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1791107623,
+    "filename": "Mortal_Kombat_X-Xiaomi-25079RPDCG-Mali-G925-Immortalis_MC12-1791107623.json"
+  },
+  {
     "game": "ELDEN_RING_NIGHTREIGN",
     "manufacturer": "Pocket_S",
     "device": "Adreno__TM__A32",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791076063,
     "filename": "Euro_Truck_Simulator_2-motorola-moto_g17-Mali-G52_MC2-1791076063.json"
-  },
-  {
-    "game": "Live_for_Speed",
-    "manufacturer": "LX2",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1791071567,
-    "filename": "Live_for_Speed-HONOR-WOD-LX2-PowerVR_Rogue_GE8320-1791071567.json"
   }
 ]
