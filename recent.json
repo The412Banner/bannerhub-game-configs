@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Elder_Scrolls_V__Skyrim_Special_Edition",
+    "manufacturer": "S928U",
+    "device": "Adreno__TM__750",
+    "timestamp": 1791079098,
+    "filename": "The_Elder_Scrolls_V__Skyrim_Special_Edition-samsung-SM-S928U-Adreno__TM__750-1791079098.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1791043872,
     "filename": "FIFA_18-TECNO-TECNO_CL8-Mali-G610_MC6-1791043872.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2239",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1791043701,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2239-PowerVR_Rogue_GE8320-1791043701.json"
   }
 ]
