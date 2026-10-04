@@ -1,5 +1,12 @@
 [
   {
+    "game": "UE4Game",
+    "manufacturer": "V2546A",
+    "device": "Adreno__TM__840",
+    "timestamp": 1791126703,
+    "filename": "UE4Game-vivo-V2546A-Adreno__TM__840-1791126703.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791088688,
     "filename": "Euro_Truck_Simulator_2_Demo-Xiaomi-2502FRA65G-Mali-G57_MC2-1791088688.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1791084416,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-samsung-SM-G990E-Mali-G78-1791084416.json"
   }
 ]
