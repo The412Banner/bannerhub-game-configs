@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1791125569,
+    "filename": "Resident_Evil_2-Xiaomi-2511FPC34G-Mali-G720_MC8-1791125569.json"
+  },
+  {
     "game": "d",
     "manufacturer": "LE2115",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1791084416,
     "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-samsung-SM-G990E-Mali-G78-1791084416.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Infinix_X688B",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1791084400,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX_MOBILITY_LIMITED-Infinix_X688B-PowerVR_Rogue_GE8320-1791084400.json"
   }
 ]
