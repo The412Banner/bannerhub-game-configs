@@ -1,5 +1,12 @@
 [
   {
+    "game": "Knight_Online",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1791156302,
+    "filename": "Knight_Online-INFINIX-Infinix_X6871-Mali-G610_MC6-1791156302.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791137547,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A075M-Mali-G57_MC2-1791137547.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791137478,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X115-Mali-G57_MC2-1791137478.json"
   }
 ]
