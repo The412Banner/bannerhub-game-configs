@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_18",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1791129972,
+    "filename": "FIFA_18-Xiaomi-25053PC47G-Adreno__TM__825-1791129972.json"
+  },
+  {
     "game": "XR_3DA",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1791110571,
     "filename": "Marvel_s_Spider-Man__Miles_Morales-realme-RMX5070-Adreno__TM__810-1791110571.json"
-  },
-  {
-    "game": "slw",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1791107890,
-    "filename": "slw-Xiaomi-M2101K7BNY-Mali-G76-1791107890.json"
   }
 ]
