@@ -3,6 +3,13 @@
     "game": "wmn6r",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1791118189,
+    "filename": "wmn6r-nubia-Z2467-Mali-G57-1791118189.json"
+  },
+  {
+    "game": "wmn6r",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1791118052,
     "filename": "wmn6r-nubia-Z2467-Mali-G57-1791118052.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1791080758,
     "filename": "SexaroidGirl_ver_1_30-samsung-SM-S931B-Adreno__TM__830-1791080758.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1791079475,
-    "filename": "Sleeping_Dogs-nubia-Z2462N-Mali-G57-1791079475.json"
   }
 ]
