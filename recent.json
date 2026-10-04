@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1791128597,
+    "filename": "Pro_Evolution_Soccer_2013-Positivo-Vaio_TL10-Mali-G57-1791128597.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1791098224,
     "filename": "Marvel_s_Spider-Man__Miles_Morales-realme-RMX5070-Adreno__TM__810-1791098224.json"
-  },
-  {
-    "game": "Kena__Bridge_of_Spirits",
-    "manufacturer": "V2546A",
-    "device": "Adreno__TM__840",
-    "timestamp": 1791097034,
-    "filename": "Kena__Bridge_of_Spirits-vivo-V2546A-Adreno__TM__840-1791097034.json"
   }
 ]
