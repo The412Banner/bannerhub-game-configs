@@ -1,5 +1,12 @@
 [
   {
+    "game": "wmn6r",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1791118052,
+    "filename": "wmn6r-nubia-Z2467-Mali-G57-1791118052.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1791079475,
     "filename": "Sleeping_Dogs-nubia-Z2462N-Mali-G57-1791079475.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim_Special_Edition",
-    "manufacturer": "S928U",
-    "device": "Adreno__TM__750",
-    "timestamp": 1791079098,
-    "filename": "The_Elder_Scrolls_V__Skyrim_Special_Edition-samsung-SM-S928U-Adreno__TM__750-1791079098.json"
   }
 ]
