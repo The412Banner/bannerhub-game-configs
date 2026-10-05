@@ -1,5 +1,12 @@
 [
   {
+    "game": "Have_a_Nice_Death",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1791207861,
+    "filename": "Have_a_Nice_Death-ayn-Odin3-Adreno__TM__830-1791207861.json"
+  },
+  {
     "game": "STEINS_GATE_ELITE",
     "manufacturer": "OPD2415",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1791161296,
     "filename": "Plutonium_Updater_App-samsung-SM-F971U1-Adreno__TM__840-1791161296.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791160666,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X115-Mali-G57_MC2-1791160666.json"
   }
 ]
