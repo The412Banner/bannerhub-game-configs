@@ -1,5 +1,12 @@
 [
   {
+    "game": "7-Zip",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1791243396,
+    "filename": "7-Zip-Xiaomi-23043RP34G-Adreno__TM__650-1791243396.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "CPH2819",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791221738,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A315G-Mali-G52_MC2-1791221738.json"
-  },
-  {
-    "game": "PRO_EVOLUTION_SOCCER_2018",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1791221708,
-    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-2412DPC0AG-Mali-G720_MC7-1791221708.json"
   }
 ]
