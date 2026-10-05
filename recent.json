@@ -3,6 +3,13 @@
     "game": "L_A__Noire",
     "manufacturer": "Mali",
     "device": "G610_MC6",
+    "timestamp": 1791228270,
+    "filename": "L_A__Noire-INFINIX-Infinix_X6871-Mali-G610_MC6-1791228270.json"
+  },
+  {
+    "game": "L_A__Noire",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
     "timestamp": 1791228222,
     "filename": "L_A__Noire-INFINIX-Infinix_X6871-Mali-G610_MC6-1791228222.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1791206522,
     "filename": "STEINS_GATE_ELITE-OnePlus-OPD2415-Adreno__TM__830-1791206522.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "NX741J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1791204959,
-    "filename": "BootstrapPackagedGame-nubia-NX741J-Adreno__TM__840-1791204959.json"
   }
 ]
