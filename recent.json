@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1791160666,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X115-Mali-G57_MC2-1791160666.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1791160380,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X115-Mali-G57_MC2-1791160380.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1791142139,
     "filename": "Vampyr-nubia-NX809J-Adreno__TM__840-1791142139.json"
-  },
-  {
-    "game": "World_War_Z",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1791140662,
-    "filename": "World_War_Z-ayn-Odin3-Adreno__TM__830-1791140662.json"
   }
 ]
