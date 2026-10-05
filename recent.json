@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1791212379,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A266M-Mali-G68-1791212379.json"
+  },
+  {
     "game": "gta_sa",
     "manufacturer": "CPH2565",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791186373,
     "filename": "Resident_Evil_5-samsung-SM-A175F-Mali-G57_MC2-1791186373.json"
-  },
-  {
-    "game": "Maneater",
-    "manufacturer": "V2322",
-    "device": "Adreno__TM__610",
-    "timestamp": 1791180932,
-    "filename": "Maneater-vivo-V2322-Adreno__TM__610-1791180932.json"
   }
 ]
