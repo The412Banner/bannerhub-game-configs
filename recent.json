@@ -1,5 +1,12 @@
 [
   {
+    "game": "Plutonium_Updater_App",
+    "manufacturer": "F971U1",
+    "device": "Adreno__TM__840",
+    "timestamp": 1791161296,
+    "filename": "Plutonium_Updater_App-samsung-SM-F971U1-Adreno__TM__840-1791161296.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1791142330,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g_8_-Adreno__TM__610-1791142330.json"
-  },
-  {
-    "game": "Vampyr",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1791142139,
-    "filename": "Vampyr-nubia-NX809J-Adreno__TM__840-1791142139.json"
   }
 ]
