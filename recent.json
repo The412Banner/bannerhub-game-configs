@@ -1,5 +1,12 @@
 [
   {
+    "game": "MinecraftInstaller",
+    "manufacturer": "2201116PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1791227851,
+    "filename": "MinecraftInstaller-Xiaomi-2201116PG-Adreno__TM__619-1791227851.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1791202955,
     "filename": "7Launcher_-_GTA_5_1_7_3_____________________________________-samsung-SM-M145F-Adreno__TM__610-1791202955.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1791202064,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g86_5G-Mali-G615_MC2-1791202064.json"
   }
 ]
