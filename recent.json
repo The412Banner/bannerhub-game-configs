@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "motorola_edge_30_pro",
+    "device": "Adreno__TM__730",
+    "timestamp": 1791221368,
+    "filename": "BootstrapPackagedGame-motorola-motorola_edge_30_pro-Adreno__TM__730-1791221368.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1791195994,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2511FPC34G-Mali-G720_MC8-1791195994.json"
-  },
-  {
-    "game": "Symphonic_Rain",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1791190898,
-    "filename": "Symphonic_Rain-Xiaomi-2311DRK48C-Mali-G615_MC6-1791190898.json"
   }
 ]
