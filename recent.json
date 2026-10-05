@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1791198263,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_LJ9-Mali-G615_MC6-1791198263.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A376B",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791151847,
     "filename": "Kingdom_____________________________________________________-INFINIX-Infinix_X6850-Mali-G57_MC2-1791151847.json"
-  },
-  {
-    "game": "Assassin_s_Creed__Syndicate",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1791149545,
-    "filename": "Assassin_s_Creed__Syndicate-TECNO_MOBILE_LIMITED-TECNO_CG8-Mali-G76_MC4-1791149545.json"
   }
 ]
