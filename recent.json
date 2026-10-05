@@ -1,5 +1,12 @@
 [
   {
+    "game": "7Launcher_-_GTA_5_1_7_3_____________________________________",
+    "manufacturer": "M145F",
+    "device": "Adreno__TM__610",
+    "timestamp": 1791202955,
+    "filename": "7Launcher_-_GTA_5_1_7_3_____________________________________-samsung-SM-M145F-Adreno__TM__610-1791202955.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1791159212,
     "filename": "unins000-realme-RMX3852-Adreno__TM__735-1791159212.json"
-  },
-  {
-    "game": "Knight_Online",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1791156302,
-    "filename": "Knight_Online-INFINIX-Infinix_X6871-Mali-G610_MC6-1791156302.json"
   }
 ]
