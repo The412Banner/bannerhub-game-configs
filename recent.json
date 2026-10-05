@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs__Definitive_Edition",
+    "manufacturer": "Retroid_Pocket_Nova",
+    "device": "Adreno__TM__740",
+    "timestamp": 1791244070,
+    "filename": "Sleeping_Dogs__Definitive_Edition-Moorechip-Retroid_Pocket_Nova-Adreno__TM__740-1791244070.json"
+  },
+  {
     "game": "7-Zip",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1791222014,
     "filename": "Mortal_Kombat_11-Xiaomi-24069PC21G-Adreno__TM__735-1791222014.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1791221738,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A315G-Mali-G52_MC2-1791221738.json"
   }
 ]
