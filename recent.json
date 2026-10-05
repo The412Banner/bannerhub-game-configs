@@ -1,5 +1,12 @@
 [
   {
+    "game": "L_A__Noire",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1791228222,
+    "filename": "L_A__Noire-INFINIX-Infinix_X6871-Mali-G610_MC6-1791228222.json"
+  },
+  {
     "game": "MinecraftInstaller",
     "manufacturer": "2201116PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1791204959,
     "filename": "BootstrapPackagedGame-nubia-NX741J-Adreno__TM__840-1791204959.json"
-  },
-  {
-    "game": "7Launcher_-_GTA_5_1_7_3_____________________________________",
-    "manufacturer": "M145F",
-    "device": "Adreno__TM__610",
-    "timestamp": 1791202955,
-    "filename": "7Launcher_-_GTA_5_1_7_3_____________________________________-samsung-SM-M145F-Adreno__TM__610-1791202955.json"
   }
 ]
