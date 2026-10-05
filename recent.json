@@ -1,5 +1,12 @@
 [
   {
+    "game": "FINAL_FANTASY_TACTICS_-_The_Ivalice_Chronicles",
+    "manufacturer": "RMX3840",
+    "device": "Adreno__TM__710",
+    "timestamp": 1791199786,
+    "filename": "FINAL_FANTASY_TACTICS_-_The_Ivalice_Chronicles-realme-RMX3840-Adreno__TM__710-1791199786.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1791153861,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1791153861.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1791153290,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1791153290.json"
   }
 ]
