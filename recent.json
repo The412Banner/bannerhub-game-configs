@@ -1,5 +1,12 @@
 [
   {
+    "game": "Symphonic_Rain",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1791190898,
+    "filename": "Symphonic_Rain-Xiaomi-2311DRK48C-Mali-G615_MC6-1791190898.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1791148501,
     "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-24095PCADG-Mali-G615_MC2-1791148501.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1791148475,
-    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-24095PCADG-Mali-G615_MC2-1791148475.json"
   }
 ]
