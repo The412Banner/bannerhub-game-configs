@@ -1,5 +1,12 @@
 [
   {
+    "game": "STEINS_GATE_ELITE",
+    "manufacturer": "OPD2415",
+    "device": "Adreno__TM__830",
+    "timestamp": 1791206522,
+    "filename": "STEINS_GATE_ELITE-OnePlus-OPD2415-Adreno__TM__830-1791206522.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "NX741J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791160666,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X115-Mali-G57_MC2-1791160666.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791160380,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X115-Mali-G57_MC2-1791160380.json"
   }
 ]
