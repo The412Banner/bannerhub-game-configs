@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791250408,
+    "filename": "Far_Cry_3-samsung-SM-A075M-Mali-G57_MC2-1791250408.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "F976B",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1791227362,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5313-Mali-G57-1791227362.json"
-  },
-  {
-    "game": "unins000",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1791225650,
-    "filename": "unins000-HONOR-JDY-LX2-Mali-G52_MC2-1791225650.json"
   }
 ]
