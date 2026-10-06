@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ryse__Son_of_Rome",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1791260388,
+    "filename": "Ryse__Son_of_Rome-INFINIX-Infinix_X6871-Mali-G610_MC6-1791260388.json"
+  },
+  {
     "game": "HoMM4_Repack_by_Roman2211___________________________________",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791231802,
     "filename": "BeamMP-Launcher-Blackview-LINK_8-Mali-G57_MC2-1791231802.json"
-  },
-  {
-    "game": "BeamMP-Launcher",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791231796,
-    "filename": "BeamMP-Launcher-Blackview-LINK_8-Mali-G57_MC2-1791231796.json"
   }
 ]
