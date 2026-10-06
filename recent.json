@@ -1,5 +1,12 @@
 [
   {
+    "game": "South_Park_-_The_Stick_of_Truth",
+    "manufacturer": "moto_g34_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1791304689,
+    "filename": "South_Park_-_The_Stick_of_Truth-motorola-moto_g34_5G-Adreno__TM__619-1791304689.json"
+  },
+  {
     "game": "Black_Myth__Wukong",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1791258561,
     "filename": "HoMM4_Repack_by_Roman2211___________________________________-samsung-SM-G991B-Mali-G78-1791258561.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791257956,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2356-Mali-G57_MC2-1791257956.json"
   }
 ]
