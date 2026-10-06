@@ -1,5 +1,12 @@
 [
   {
+    "game": "Legacy_Launcher_Stable______________________________________",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791290119,
+    "filename": "Legacy_Launcher_Stable______________________________________-Xiaomi-2404ARN45A-Mali-G52_MC2-1791290119.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1791244070,
     "filename": "Sleeping_Dogs__Definitive_Edition-Moorechip-Retroid_Pocket_Nova-Adreno__TM__740-1791244070.json"
-  },
-  {
-    "game": "7-Zip",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1791243396,
-    "filename": "7-Zip-Xiaomi-23043RP34G-Adreno__TM__650-1791243396.json"
   }
 ]
