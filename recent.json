@@ -1,5 +1,12 @@
 [
   {
+    "game": "Schedule_I",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1791255422,
+    "filename": "Schedule_I-Xiaomi-2311DRK48G-Mali-G615_MC6-1791255422.json"
+  },
+  {
     "game": "TormentedSouls",
     "manufacturer": "moto_g53_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1791228270,
     "filename": "L_A__Noire-INFINIX-Infinix_X6871-Mali-G610_MC6-1791228270.json"
-  },
-  {
-    "game": "L_A__Noire",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1791228222,
-    "filename": "L_A__Noire-INFINIX-Infinix_X6871-Mali-G610_MC6-1791228222.json"
   }
 ]
