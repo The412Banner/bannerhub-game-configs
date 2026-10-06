@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791251167,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1791251167.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1791227851,
     "filename": "MinecraftInstaller-Xiaomi-2201116PG-Adreno__TM__619-1791227851.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1791227362,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5313-Mali-G57-1791227362.json"
   }
 ]
