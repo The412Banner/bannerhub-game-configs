@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1791292698,
+    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_C671L-Mali-G57-1791292698.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "Mali",
     "device": "G71",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1791250367,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-F976B-Adreno__TM__840-1791250367.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XV",
-    "manufacturer": "S711B",
-    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
-    "timestamp": 1791245037,
-    "filename": "THE_KING_OF_FIGHTERS_XV-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1791245037.json"
   }
 ]
