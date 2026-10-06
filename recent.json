@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1791318404,
+    "filename": "Pro_Evolution_Soccer_2013-HONOR-ABR-NX1-PowerVR_B-Series_BXM-8-256-1791318404.json"
+  },
+  {
     "game": "Level_Devil",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791289991,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2510DRA23G-Mali-G57_MC2-1791289991.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791289982,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2510DRA23G-Mali-G57_MC2-1791289982.json"
   }
 ]
