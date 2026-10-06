@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791315872,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5020-Mali-G52_MC2-1791315872.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1791282554,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HONOR-MTN-NX1-Adreno__TM__810-1791282554.json"
-  },
-  {
-    "game": "Prototype_",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1791280752,
-    "filename": "Prototype_-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1791280752.json"
   }
 ]
