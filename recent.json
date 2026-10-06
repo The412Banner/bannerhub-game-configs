@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1791265435,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A366E-Adreno__TM__710-1791265435.json"
+  },
+  {
     "game": "Ryse__Son_of_Rome",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1791236950,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X1301-Adreno__TM__660-1791236950.json"
-  },
-  {
-    "game": "BeamMP-Launcher",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791231802,
-    "filename": "BeamMP-Launcher-Blackview-LINK_8-Mali-G57_MC2-1791231802.json"
   }
 ]
