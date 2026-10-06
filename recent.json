@@ -1,5 +1,12 @@
 [
   {
+    "game": "Black_Myth__Wukong",
+    "manufacturer": "Odin2",
+    "device": "Adreno__TM__740",
+    "timestamp": 1791300193,
+    "filename": "Black_Myth__Wukong-AYN-Odin2-Adreno__TM__740-1791300193.json"
+  },
+  {
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791257956,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2356-Mali-G57_MC2-1791257956.json"
-  },
-  {
-    "game": "Schedule_I",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1791255422,
-    "filename": "Schedule_I-Xiaomi-2311DRK48G-Mali-G615_MC6-1791255422.json"
   }
 ]
