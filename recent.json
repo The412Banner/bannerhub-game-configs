@@ -1,5 +1,12 @@
 [
   {
+    "game": "AC3SP",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1791280364,
+    "filename": "AC3SP-Xiaomi-2412DPC0AG-Mali-G720_MC7-1791280364.json"
+  },
+  {
     "game": "Schedule_I",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1791237176,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1791237176.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1791236977,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A065M-Mali-G52_MC2-1791236977.json"
   }
 ]
