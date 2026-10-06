@@ -1,5 +1,12 @@
 [
   {
+    "game": "TormentedSouls",
+    "manufacturer": "moto_g53_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1791252684,
+    "filename": "TormentedSouls-motorola-moto_g53_5G-Adreno__TM__619-1791252684.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1791228222,
     "filename": "L_A__Noire-INFINIX-Infinix_X6871-Mali-G610_MC6-1791228222.json"
-  },
-  {
-    "game": "MinecraftInstaller",
-    "manufacturer": "2201116PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1791227851,
-    "filename": "MinecraftInstaller-Xiaomi-2201116PG-Adreno__TM__619-1791227851.json"
   }
 ]
