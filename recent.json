@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "Mali",
+    "device": "G71",
+    "timestamp": 1791292182,
+    "filename": "Red_Dead_Redemption-samsung-SM-A307GT-Mali-G71-1791292182.json"
+  },
+  {
     "game": "Legacy_Launcher_Stable______________________________________",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
     "timestamp": 1791245037,
     "filename": "THE_KING_OF_FIGHTERS_XV-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1791245037.json"
-  },
-  {
-    "game": "Sleeping_Dogs__Definitive_Edition",
-    "manufacturer": "Retroid_Pocket_Nova",
-    "device": "Adreno__TM__740",
-    "timestamp": 1791244070,
-    "filename": "Sleeping_Dogs__Definitive_Edition-Moorechip-Retroid_Pocket_Nova-Adreno__TM__740-1791244070.json"
   }
 ]
