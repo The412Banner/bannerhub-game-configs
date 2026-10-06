@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XV",
+    "manufacturer": "S711B",
+    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
+    "timestamp": 1791245037,
+    "filename": "THE_KING_OF_FIGHTERS_XV-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1791245037.json"
+  },
+  {
     "game": "Sleeping_Dogs__Definitive_Edition",
     "manufacturer": "Retroid_Pocket_Nova",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1791224065,
     "filename": "Mortal_Kombat_11-Xiaomi-24069PC21G-Adreno__TM__735-1791224065.json"
-  },
-  {
-    "game": "Mortal_Kombat_11",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1791222014,
-    "filename": "Mortal_Kombat_11-Xiaomi-24069PC21G-Adreno__TM__735-1791222014.json"
   }
 ]
