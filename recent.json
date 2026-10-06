@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1791308941,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1791308941.json"
+  },
+  {
     "game": "South_Park_-_The_Stick_of_Truth",
     "manufacturer": "moto_g34_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1791258763,
     "filename": "HoMM4_Repack_by_Roman2211___________________________________-samsung-SM-G991B-Mali-G78-1791258763.json"
-  },
-  {
-    "game": "HoMM4_Repack_by_Roman2211___________________________________",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1791258561,
-    "filename": "HoMM4_Repack_by_Roman2211___________________________________-samsung-SM-G991B-Mali-G78-1791258561.json"
   }
 ]
