@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1791295373,
+    "filename": "God_of_War_Ragnar_k-INFINIX-Infinix_X6871-Mali-G610_MC6-1791295373.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1791255422,
     "filename": "Schedule_I-Xiaomi-2311DRK48G-Mali-G615_MC6-1791255422.json"
-  },
-  {
-    "game": "TormentedSouls",
-    "manufacturer": "moto_g53_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1791252684,
-    "filename": "TormentedSouls-motorola-moto_g53_5G-Adreno__TM__619-1791252684.json"
   }
 ]
