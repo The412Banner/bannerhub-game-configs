@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "S948B",
+    "device": "Adreno__TM__840",
+    "timestamp": 1791310034,
+    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-S948B-Adreno__TM__840-1791310034.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1791260388,
     "filename": "Ryse__Son_of_Rome-INFINIX-Infinix_X6871-Mali-G610_MC6-1791260388.json"
-  },
-  {
-    "game": "HoMM4_Repack_by_Roman2211___________________________________",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1791258763,
-    "filename": "HoMM4_Repack_by_Roman2211___________________________________-samsung-SM-G991B-Mali-G78-1791258763.json"
   }
 ]
