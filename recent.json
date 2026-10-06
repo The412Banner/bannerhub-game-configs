@@ -1,5 +1,12 @@
 [
   {
+    "game": "HoMM4_Repack_by_Roman2211___________________________________",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1791258561,
+    "filename": "HoMM4_Repack_by_Roman2211___________________________________-samsung-SM-G991B-Mali-G78-1791258561.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1791230403,
     "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-STK-L21-Mali-G51-1791230403.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G72_MP3",
-    "timestamp": 1791229376,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH1989-Mali-G72_MP3-1791229376.json"
   }
 ]
