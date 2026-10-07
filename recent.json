@@ -1,5 +1,12 @@
 [
   {
+    "game": "DEAD_RISING_",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1791369247,
+    "filename": "DEAD_RISING_-motorola-moto_g45_5G-Adreno__TM__619-1791369247.json"
+  },
+  {
     "game": "Dead_Island_Definitive_Edition",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1791333212,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A356E-Mali-G68-1791333212.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1791333098,
-    "filename": "Left_4_Dead_2-Xiaomi-2511FPC34G-Mali-G720_MC8-1791333098.json"
   }
 ]
