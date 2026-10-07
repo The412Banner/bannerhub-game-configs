@@ -1,5 +1,12 @@
 [
   {
+    "game": "BioShock_Remastered",
+    "manufacturer": "RMX3840",
+    "device": "Adreno__TM__710",
+    "timestamp": 1791342372,
+    "filename": "BioShock_Remastered-realme-RMX3840-Adreno__TM__710-1791342372.json"
+  },
+  {
     "game": "EuroTruckSimulator2_1_30_2_2_to_1_31_2_1_patch",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1791318404,
     "filename": "Pro_Evolution_Soccer_2013-HONOR-ABR-NX1-PowerVR_B-Series_BXM-8-256-1791318404.json"
-  },
-  {
-    "game": "Level_Devil",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791318079,
-    "filename": "Level_Devil-INFINIX-Infinix_X6882-Mali-G57_MC2-1791318079.json"
   }
 ]
