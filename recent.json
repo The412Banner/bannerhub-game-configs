@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791331212,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1791331212.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S926B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1791329345,
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1791295373,
     "filename": "God_of_War_Ragnar_k-INFINIX-Infinix_X6871-Mali-G610_MC6-1791295373.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1791292793,
-    "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_C671L-Mali-G57-1791292793.json"
   }
 ]
