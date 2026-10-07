@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791388899,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A055M-Mali-G52_MC2-1791388899.json"
+  },
+  {
     "game": "Blasphemous_2",
     "manufacturer": "W09",
     "device": "Maleoon_910",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1791369207,
     "filename": "WitchSpring_R-motorola-moto_g45_5G-Adreno__TM__619-1791369207.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1791364046,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-TFY-LX2-Adreno__TM__610-1791364046.json"
   }
 ]
