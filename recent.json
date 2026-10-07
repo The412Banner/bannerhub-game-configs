@@ -1,5 +1,12 @@
 [
   {
+    "game": "Kena__Bridge_of_Spirits",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1791369223,
+    "filename": "Kena__Bridge_of_Spirits-motorola-moto_g45_5G-Adreno__TM__619-1791369223.json"
+  },
+  {
     "game": "Shift_2_Unleashed",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791331212,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1791331212.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S926B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1791329345,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1791329345.json"
   }
 ]
