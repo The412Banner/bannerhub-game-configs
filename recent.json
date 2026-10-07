@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1791383033,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1791383033.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "I2508",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1791339540,
     "filename": "Green_Hell-Xiaomi-25053PC47G-Adreno__TM__825-1791339540.json"
-  },
-  {
-    "game": "Green_Hell",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1791339402,
-    "filename": "Green_Hell-Xiaomi-25053PC47G-Adreno__TM__825-1791339402.json"
   }
 ]
