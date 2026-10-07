@@ -1,5 +1,12 @@
 [
   {
+    "game": "Autopatch",
+    "manufacturer": "moto_g_30_",
+    "device": "Adreno__TM__610",
+    "timestamp": 1791393977,
+    "filename": "Autopatch-motorola-moto_g_30_-Adreno__TM__610-1791393977.json"
+  },
+  {
     "game": "State_of_Decay_2__Juggernaut_Edition",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1791369232,
     "filename": "Dead_Island_Definitive_Edition-motorola-moto_g45_5G-Adreno__TM__619-1791369232.json"
-  },
-  {
-    "game": "Kena__Bridge_of_Spirits",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1791369223,
-    "filename": "Kena__Bridge_of_Spirits-motorola-moto_g45_5G-Adreno__TM__619-1791369223.json"
   }
 ]
