@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S926B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1791335276,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1791335276.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
     "timestamp": 1791334577,
@@ -131,12 +138,5 @@
     "device": "G76_MC4",
     "timestamp": 1791311672,
     "filename": "LEGOPirates-realme-RMX3085-Mali-G76_MC4-1791311672.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "S948B",
-    "device": "Adreno__TM__840",
-    "timestamp": 1791310034,
-    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-S948B-Adreno__TM__840-1791310034.json"
   }
 ]
