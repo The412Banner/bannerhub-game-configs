@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1791333212,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A356E-Mali-G68-1791333212.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1791304689,
     "filename": "South_Park_-_The_Stick_of_Truth-motorola-moto_g34_5G-Adreno__TM__619-1791304689.json"
-  },
-  {
-    "game": "Black_Myth__Wukong",
-    "manufacturer": "Odin2",
-    "device": "Adreno__TM__740",
-    "timestamp": 1791300193,
-    "filename": "Black_Myth__Wukong-AYN-Odin2-Adreno__TM__740-1791300193.json"
   }
 ]
