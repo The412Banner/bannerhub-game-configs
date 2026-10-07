@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_Komplete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791370119,
+    "filename": "Mortal_Kombat_Komplete_Edition-samsung-SM-A065F-Mali-G52_MC2-1791370119.json"
+  },
+  {
     "game": "METAL_GEAR_SOLID_V__GROUND_ZEROES",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1791335276,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1791335276.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1791334577,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23049PCD8G-Adreno__TM__725-1791334577.json"
   }
 ]
