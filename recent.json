@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Island_Definitive_Edition",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1791369232,
+    "filename": "Dead_Island_Definitive_Edition-motorola-moto_g45_5G-Adreno__TM__619-1791369232.json"
+  },
+  {
     "game": "Kena__Bridge_of_Spirits",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1791333098,
     "filename": "Left_4_Dead_2-Xiaomi-2511FPC34G-Mali-G720_MC8-1791333098.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791331212,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1791331212.json"
   }
 ]
