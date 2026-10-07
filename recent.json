@@ -1,5 +1,12 @@
 [
   {
+    "game": "EuroTruckSimulator2_1_30_2_2_to_1_31_2_1_patch",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791340075,
+    "filename": "EuroTruckSimulator2_1_30_2_2_to_1_31_2_1_patch-TECNO-TECNO_KM5-Mali-G52_MC2-1791340075.json"
+  },
+  {
     "game": "Green_Hell",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791318079,
     "filename": "Level_Devil-INFINIX-Infinix_X6882-Mali-G57_MC2-1791318079.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1791315872,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5020-Mali-G52_MC2-1791315872.json"
   }
 ]
