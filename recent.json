@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791388424,
+    "filename": "Resident_Evil_6-samsung-SM-A075M-Mali-G57_MC2-1791388424.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1791362475,
     "filename": "Tomb_Raider__Underworld-TECNO-TECNO_CM8-Mali-G615_MC6-1791362475.json"
-  },
-  {
-    "game": "EasyAntiCheat_Launcher",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1791354554,
-    "filename": "EasyAntiCheat_Launcher-HONOR-BRP-NX1-Adreno__TM__710-1791354554.json"
   }
 ]
