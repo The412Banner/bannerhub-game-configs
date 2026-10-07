@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "I2508",
+    "device": "Adreno__TM__829",
+    "timestamp": 1791382550,
+    "filename": "Pro_Evolution_Soccer_2017-vivo-I2508-Adreno__TM__829-1791382550.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1791339402,
     "filename": "Green_Hell-Xiaomi-25053PC47G-Adreno__TM__825-1791339402.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1791337736,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23049PCD8G-Adreno__TM__725-1791337736.json"
   }
 ]
