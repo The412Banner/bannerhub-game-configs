@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791398063,
+    "filename": "Watch_Dogs_-samsung-SM-A075M-Mali-G57_MC2-1791398063.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "moto_g_30_",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1791369258,
     "filename": "Dead_Space__2-motorola-moto_g45_5G-Adreno__TM__619-1791369258.json"
-  },
-  {
-    "game": "DEAD_RISING_",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1791369247,
-    "filename": "DEAD_RISING_-motorola-moto_g45_5G-Adreno__TM__619-1791369247.json"
   }
 ]
