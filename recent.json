@@ -1,5 +1,12 @@
 [
   {
+    "game": "____2016",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791333449,
+    "filename": "____2016-motorola-moto_g15-Mali-G52_MC2-1791333449.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1791308941,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1791308941.json"
-  },
-  {
-    "game": "South_Park_-_The_Stick_of_Truth",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1791304689,
-    "filename": "South_Park_-_The_Stick_of_Truth-motorola-moto_g34_5G-Adreno__TM__619-1791304689.json"
   }
 ]
