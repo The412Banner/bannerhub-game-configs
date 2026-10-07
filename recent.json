@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791403099,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1791403099.json"
+  },
+  {
     "game": "Assassin_s_Creed__Rogue",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791370119,
     "filename": "Mortal_Kombat_Komplete_Edition-samsung-SM-A065F-Mali-G52_MC2-1791370119.json"
-  },
-  {
-    "game": "METAL_GEAR_SOLID_V__GROUND_ZEROES",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1791369262,
-    "filename": "METAL_GEAR_SOLID_V__GROUND_ZEROES-motorola-moto_g45_5G-Adreno__TM__619-1791369262.json"
   }
 ]
