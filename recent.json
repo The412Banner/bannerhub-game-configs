@@ -1,5 +1,12 @@
 [
   {
+    "game": "EasyAntiCheat_Launcher",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__710",
+    "timestamp": 1791354554,
+    "filename": "EasyAntiCheat_Launcher-HONOR-BRP-NX1-Adreno__TM__710-1791354554.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "M556B",
     "device": "Adreno__TM__644",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1791318640,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_LJ7-Mali-G615_MC2-1791318640.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1791318580,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S911B-Adreno__TM__740-1791318580.json"
   }
 ]
