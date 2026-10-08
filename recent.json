@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Juarez__Gunslinger",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1791468088,
+    "filename": "Call_of_Juarez__Gunslinger-TECNO-TECNO_LJ9-Mali-G615_MC6-1791468088.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1791441993,
     "filename": "Double_Dragon_Revive-HONOR-HEY3-W00-Adreno__TM__720-1791441993.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791441677,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1791441677.json"
   }
 ]
