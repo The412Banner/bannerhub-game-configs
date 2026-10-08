@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "S721B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1791426240,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1791426240.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Enhanced",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791388899,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A055M-Mali-G52_MC2-1791388899.json"
-  },
-  {
-    "game": "Blasphemous_2",
-    "manufacturer": "W09",
-    "device": "Maleoon_910",
-    "timestamp": 1791388454,
-    "filename": "Blasphemous_2-HUAWEI-MRO-W09-Maleoon_910-1791388454.json"
   }
 ]
