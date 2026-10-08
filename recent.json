@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "LX2P",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1791467349,
+    "filename": "Euro_Truck_Simulator_2-HONOR-GFY-LX2P-PowerVR_Rogue_GE8320-1791467349.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1791436906,
     "filename": "Fallout4VR-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1791436906.json"
-  },
-  {
-    "game": "Devil_May_Cry_4_Special_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1791433252,
-    "filename": "Devil_May_Cry_4_Special_Edition-vivo-I2507-Mali-G615_MC2-1791433252.json"
   }
 ]
