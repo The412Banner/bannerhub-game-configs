@@ -1,5 +1,12 @@
 [
   {
+    "game": "WARRIORS_OROCHI_3_Ultimate_Definitive_Edition",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1791480489,
+    "filename": "WARRIORS_OROCHI_3_Ultimate_Definitive_Edition-motorola-moto_g45_5G-Adreno__TM__619-1791480489.json"
+  },
+  {
     "game": "State_of_Decay",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1791451840,
     "filename": "PlayGTAV-samsung-SM-A256E-Mali-G68-1791451840.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791450342,
-    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6886-Mali-G57_MC2-1791450342.json"
   }
 ]
