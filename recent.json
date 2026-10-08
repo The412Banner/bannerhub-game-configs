@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791479486,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X1101B-Mali-G57_MC2-1791479486.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791450337,
     "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6886-Mali-G57_MC2-1791450337.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1791449312,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALT-LX2-Adreno__TM__610-1791449312.json"
   }
 ]
