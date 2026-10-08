@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791468004,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A055F-Mali-G52_MC2-1791468004.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "LX2P",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1791437533,
     "filename": "Battlefield_3_-Xiaomi-22111317PG-Adreno__TM__619-1791437533.json"
-  },
-  {
-    "game": "Fallout4VR",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1791436906,
-    "filename": "Fallout4VR-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1791436906.json"
   }
 ]
