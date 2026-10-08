@@ -1,5 +1,12 @@
 [
   {
+    "game": "_trashed-1793982716-Language_Selector",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1791458701,
+    "filename": "_trashed-1793982716-Language_Selector-MEIZU-Mblu_21-Mali-G57-1791458701.json"
+  },
+  {
     "game": "Graduated",
     "manufacturer": "Redmi_Note_9S",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__620",
     "timestamp": 1791431152,
     "filename": "Pro_Evolution_Soccer_2011-motorola-motorola_edge-Adreno__TM__620-1791431152.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S721B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1791427168,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1791427168.json"
   }
 ]
