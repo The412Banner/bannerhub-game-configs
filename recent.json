@@ -1,5 +1,12 @@
 [
   {
+    "game": "CDS_II______",
+    "manufacturer": "LX2",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1791482700,
+    "filename": "CDS_II______-HONOR-WDY-LX2-PowerVR_Rogue_GE8320-1791482700.json"
+  },
+  {
     "game": "WARRIORS_OROCHI_3_Ultimate_Definitive_Edition",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1791452688,
     "filename": "FIFA_22-Xiaomi-25053PC47G-Adreno__TM__825-1791452688.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1791451840,
-    "filename": "PlayGTAV-samsung-SM-A256E-Mali-G68-1791451840.json"
   }
 ]
