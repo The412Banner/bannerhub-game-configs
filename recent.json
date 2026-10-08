@@ -1,5 +1,12 @@
 [
   {
+    "game": "State_of_Decay",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791480013,
+    "filename": "State_of_Decay-Xiaomi-24117RN76L-Mali-G57_MC2-1791480013.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791450342,
     "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6886-Mali-G57_MC2-1791450342.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791450337,
-    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6886-Mali-G57_MC2-1791450337.json"
   }
 ]
