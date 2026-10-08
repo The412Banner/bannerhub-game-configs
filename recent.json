@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_e_7_",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1791484377,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e_7_-PowerVR_Rogue_GE8320-1791484377.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1791458701,
     "filename": "_trashed-1793982716-Language_Selector-MEIZU-Mblu_21-Mali-G57-1791458701.json"
-  },
-  {
-    "game": "Graduated",
-    "manufacturer": "Redmi_Note_9S",
-    "device": "Adreno__TM__618",
-    "timestamp": 1791458143,
-    "filename": "Graduated-Xiaomi-Redmi_Note_9S-Adreno__TM__618-1791458143.json"
   }
 ]
