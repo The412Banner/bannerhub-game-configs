@@ -1,5 +1,12 @@
 [
   {
+    "game": "OneShot",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791490271,
+    "filename": "OneShot-INFINIX-Infinix_X6886-Mali-G57_MC2-1791490271.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1791470321,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RAA4G-Adreno__TM__610-1791470321.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__840",
-    "timestamp": 1791469039,
-    "filename": "Hollow_Knight__Silksong-Xiaomi-25053PC47G-Adreno__TM__840-1791469039.json"
   }
 ]
