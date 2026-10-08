@@ -1,5 +1,12 @@
 [
   {
+    "game": "_____v1_0",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791487300,
+    "filename": "_____v1_0-OPPO-CPH2695-Mali-G57_MC2-1791487300.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2487",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791468004,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A055F-Mali-G52_MC2-1791468004.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "LX2P",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1791467349,
-    "filename": "Euro_Truck_Simulator_2-HONOR-GFY-LX2P-PowerVR_Rogue_GE8320-1791467349.json"
   }
 ]
