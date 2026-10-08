@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791468054,
+    "filename": "God_of_War-samsung-SM-A156M-Mali-G57_MC2-1791468054.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791441677,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1791441677.json"
-  },
-  {
-    "game": "Battlefield_3_",
-    "manufacturer": "22111317PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1791437533,
-    "filename": "Battlefield_3_-Xiaomi-22111317PG-Adreno__TM__619-1791437533.json"
   }
 ]
