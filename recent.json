@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Enhanced",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1791426055,
+    "filename": "Grand_Theft_Auto_V_Enhanced-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1791426055.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Maleoon_910",
     "timestamp": 1791388454,
     "filename": "Blasphemous_2-HUAWEI-MRO-W09-Maleoon_910-1791388454.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791388424,
-    "filename": "Resident_Evil_6-samsung-SM-A075M-Mali-G57_MC2-1791388424.json"
   }
 ]
