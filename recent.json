@@ -1,5 +1,12 @@
 [
   {
+    "game": "Double_Dragon_Revive",
+    "manufacturer": "W00",
+    "device": "Adreno__TM__720",
+    "timestamp": 1791441993,
+    "filename": "Double_Dragon_Revive-HONOR-HEY3-W00-Adreno__TM__720-1791441993.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791407950,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1791407950.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2011",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__722",
-    "timestamp": 1791404985,
-    "filename": "Pro_Evolution_Soccer_2011-HONOR-VKJ-NX9-Adreno__TM__722-1791404985.json"
   }
 ]
