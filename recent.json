@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791450337,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6886-Mali-G57_MC2-1791450337.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1791426240,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1791426240.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Enhanced",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1791426055,
-    "filename": "Grand_Theft_Auto_V_Enhanced-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1791426055.json"
   }
 ]
