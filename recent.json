@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield_3_",
+    "manufacturer": "22111317PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1791437533,
+    "filename": "Battlefield_3_-Xiaomi-22111317PG-Adreno__TM__619-1791437533.json"
+  },
+  {
     "game": "Fallout4VR",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1791404675,
     "filename": "F_E_A_R_-ayn-Odin3-Adreno__TM__830-1791404675.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1791403099,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1791403099.json"
   }
 ]
