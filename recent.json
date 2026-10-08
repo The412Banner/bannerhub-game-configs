@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791477057,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165F-Mali-G57_MC2-1791477057.json"
+  },
+  {
     "game": "GTA_IV__San_Andreas_Setup",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1791449094,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1791449094.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__720",
-    "timestamp": 1791446500,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-HONOR-ELI-NX9-Adreno__TM__720-1791446500.json"
   }
 ]
