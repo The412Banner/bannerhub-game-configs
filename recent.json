@@ -1,5 +1,12 @@
 [
   {
+    "game": "REDlauncher",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1791547840,
+    "filename": "REDlauncher-Xiaomi-2511FPC34G-Mali-G720_MC8-1791547840.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1791515425,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1791515425.json"
-  },
-  {
-    "game": "Slime_Rancher",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1791514490,
-    "filename": "Slime_Rancher-Xiaomi-25053PC47G-Adreno__TM__825-1791514490.json"
   }
 ]
