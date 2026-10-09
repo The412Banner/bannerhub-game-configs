@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1791509336,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S918B-Adreno__TM__740-1791509336.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1791482700,
     "filename": "CDS_II______-HONOR-WDY-LX2-PowerVR_Rogue_GE8320-1791482700.json"
-  },
-  {
-    "game": "WARRIORS_OROCHI_3_Ultimate_Definitive_Edition",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1791480489,
-    "filename": "WARRIORS_OROCHI_3_Ultimate_Definitive_Edition-motorola-moto_g45_5G-Adreno__TM__619-1791480489.json"
   }
 ]
