@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__1",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1791532803,
+    "filename": "Battlefield__1-Xiaomi-25053PC47G-Adreno__TM__825-1791532803.json"
+  },
+  {
     "game": "Battlefield__V",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1791494975,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-HONOR-RMO-NX1-Adreno__TM__619-1791494975.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1791494676,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LJ9-Mali-G615_MC6-1791494676.json"
   }
 ]
