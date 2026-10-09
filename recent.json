@@ -1,5 +1,12 @@
 [
   {
+    "game": "Diablo_II___Lord_of_Destruction",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1791589924,
+    "filename": "Diablo_II___Lord_of_Destruction-samsung-SM-A266B-Mali-G68-1791589924.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1791574327,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3938-Mali-G57-1791574327.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1791574185,
-    "filename": "Pro_Evolution_Soccer_2013-HONOR-ALI-NX1-Adreno__TM__710-1791574185.json"
   }
 ]
