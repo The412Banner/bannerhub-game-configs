@@ -1,5 +1,12 @@
 [
   {
+    "game": "Buckshot_Roulette",
+    "manufacturer": "A059",
+    "device": "Adreno__TM__810",
+    "timestamp": 1791564070,
+    "filename": "Buckshot_Roulette-Nothing-A059-Adreno__TM__810-1791564070.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1791546348,
     "filename": "PlayGTAV-Xiaomi-2511FPC34G-Mali-G720_MC8-1791546348.json"
-  },
-  {
-    "game": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered",
-    "manufacturer": "2201116PG",
-    "device": "Adreno__TM__619",
-    "timestamp": 1791543135,
-    "filename": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered-Xiaomi-2201116PG-Adreno__TM__619-1791543135.json"
   }
 ]
