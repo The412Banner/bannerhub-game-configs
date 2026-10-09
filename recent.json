@@ -1,5 +1,12 @@
 [
   {
+    "game": "Star_Trek_Legacy______________________________________________",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1791533327,
+    "filename": "Star_Trek_Legacy______________________________________________-Xiaomi-2510DPC44G-Adreno__TM__830-1791533327.json"
+  },
+  {
     "game": "Battlefield__1",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1791495056,
     "filename": "Hades-samsung-SM-S928B-Adreno__TM__750-1791495056.json"
-  },
-  {
-    "game": "eFootball_PES_2021_SEASON_UPDATE",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__619",
-    "timestamp": 1791494975,
-    "filename": "eFootball_PES_2021_SEASON_UPDATE-HONOR-RMO-NX1-Adreno__TM__619-1791494975.json"
   }
 ]
