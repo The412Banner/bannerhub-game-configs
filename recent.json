@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_STORM_3_FB",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1791541983,
+    "filename": "NARUTO_STORM_3_FB-Xiaomi-25028PC03G-Mali-G57-1791541983.json"
+  },
+  {
     "game": "AC3SP",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1791502764,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g34_5G-Adreno__TM__619-1791502764.json"
-  },
-  {
-    "game": "LEGO__Marvel_Super_Heroes_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791502168,
-    "filename": "LEGO__Marvel_Super_Heroes_2-INFINIX-Infinix_X670-Mali-G57_MC2-1791502168.json"
   }
 ]
