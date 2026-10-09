@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791587709,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CL-Mali-G52_MC2-1791587709.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G720_MC7",
     "timestamp": 1791586147,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1791586147.json"
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1791562294,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-INFINIX-Infinix_X6873-Mali-G615_MC6-1791562294.json"
-  },
-  {
-    "game": "METAL_GEAR_RISING__REVENGEANCE",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1791562219,
-    "filename": "METAL_GEAR_RISING__REVENGEANCE-INFINIX-Infinix_X6873-Mali-G615_MC6-1791562219.json"
   }
 ]
