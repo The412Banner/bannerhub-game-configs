@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "V2027",
+    "device": "Adreno__TM__610",
+    "timestamp": 1791556209,
+    "filename": "Pro_Evolution_Soccer_2013-vivo-V2027-Adreno__TM__610-1791556209.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1791556183,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1791533966,
     "filename": "Cairn-samsung-SM-S938B-Adreno__TM__830-1791533966.json"
-  },
-  {
-    "game": "Star_Trek_Legacy______________________________________________",
-    "manufacturer": "2510DPC44G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1791533327,
-    "filename": "Star_Trek_Legacy______________________________________________-Xiaomi-2510DPC44G-Adreno__TM__830-1791533327.json"
   }
 ]
