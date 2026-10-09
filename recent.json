@@ -1,5 +1,12 @@
 [
   {
+    "game": "AC3SP",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1791540911,
+    "filename": "AC3SP-TECNO-TECNO_LJ9-Mali-G615_MC6-1791540911.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "2510EPC8BG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791502168,
     "filename": "LEGO__Marvel_Super_Heroes_2-INFINIX-Infinix_X670-Mali-G57_MC2-1791502168.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1791498873,
-    "filename": "Grand_Theft_Auto_V_Legacy-EL-Pad-S9-Mali-G57-1791498873.json"
   }
 ]
