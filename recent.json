@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1791546348,
+    "filename": "PlayGTAV-Xiaomi-2511FPC34G-Mali-G720_MC8-1791546348.json"
+  },
+  {
     "game": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered",
     "manufacturer": "2201116PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1791514490,
     "filename": "Slime_Rancher-Xiaomi-25053PC47G-Adreno__TM__825-1791514490.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1791509336,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S918B-Adreno__TM__740-1791509336.json"
   }
 ]
