@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "V2027",
+    "device": "Adreno__TM__610",
+    "timestamp": 1791557828,
+    "filename": "Pro_Evolution_Soccer_2013-vivo-V2027-Adreno__TM__610-1791557828.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Lenovo_L71091",
     "device": "Adreno__TM__730",
     "timestamp": 1791557598,
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1791541983,
     "filename": "NARUTO_STORM_3_FB-Xiaomi-25028PC03G-Mali-G57-1791541983.json"
-  },
-  {
-    "game": "AC3SP",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1791540911,
-    "filename": "AC3SP-TECNO-TECNO_LJ9-Mali-G615_MC6-1791540911.json"
   }
 ]
