@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1791562219,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-INFINIX-Infinix_X6873-Mali-G615_MC6-1791562219.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "V2027",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1791542777,
     "filename": "mxbikes-samsung-SM-A366E-Adreno__TM__710-1791542777.json"
-  },
-  {
-    "game": "NARUTO_STORM_3_FB",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1791541983,
-    "filename": "NARUTO_STORM_3_FB-Xiaomi-25028PC03G-Mali-G57-1791541983.json"
   }
 ]
