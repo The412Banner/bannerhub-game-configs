@@ -1,5 +1,12 @@
 [
   {
+    "game": "mxbikes",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1791542777,
+    "filename": "mxbikes-samsung-SM-A366E-Adreno__TM__710-1791542777.json"
+  },
+  {
     "game": "NARUTO_STORM_3_FB",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791503020,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1791503020.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g34_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1791502764,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g34_5G-Adreno__TM__619-1791502764.json"
   }
 ]
