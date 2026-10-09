@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1791509265,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S918B-Adreno__TM__740-1791509265.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1791480489,
     "filename": "WARRIORS_OROCHI_3_Ultimate_Definitive_Edition-motorola-moto_g45_5G-Adreno__TM__619-1791480489.json"
-  },
-  {
-    "game": "State_of_Decay",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791480013,
-    "filename": "State_of_Decay-Xiaomi-24117RN76L-Mali-G57_MC2-1791480013.json"
   }
 ]
