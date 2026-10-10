@@ -1,5 +1,12 @@
 [
   {
+    "game": "FPS_Chess",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1791593595,
+    "filename": "FPS_Chess-Xiaomi-24095PCADG-Mali-G615_MC2-1791593595.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "NX9",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1791577440,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23129RAA4G-Adreno__TM__610-1791577440.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1791576535,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A055M-Mali-G52_MC2-1791576535.json"
   }
 ]
