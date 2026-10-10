@@ -1,5 +1,12 @@
 [
   {
+    "game": "LIGHTNING_RETURNS___FINAL_FANTASY__XIII",
+    "manufacturer": "Pocket_FIT_Elite",
+    "device": "Adreno__TM__830",
+    "timestamp": 1791610658,
+    "filename": "LIGHTNING_RETURNS___FINAL_FANTASY__XIII-AYANEO-Pocket_FIT_Elite-Adreno__TM__830-1791610658.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__722",
     "timestamp": 1791583826,
     "filename": "PromisestoKeep-OPPO-CPH2825-Adreno__TM__722-1791583826.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1791583583,
-    "filename": "Resident_Evil_4-Xiaomi-2412DPC0AG-Mali-G720_MC7-1791583583.json"
   }
 ]
