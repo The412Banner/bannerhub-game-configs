@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1791654426,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_KM4-Mali-G57-1791654426.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "V2027",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791636220,
     "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6833B-Mali-G57_MC2-1791636220.json"
-  },
-  {
-    "game": "NSUNS4_Launcher",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1791633632,
-    "filename": "NSUNS4_Launcher-samsung-SM-S938B-Adreno__TM__830-1791633632.json"
   }
 ]
