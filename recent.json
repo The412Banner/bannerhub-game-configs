@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1791645957,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G990E-Mali-G78-1791645957.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "S926U",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1791615758,
     "filename": "stp-se4dx12-Xiaomi-23113RKC6G-Adreno__TM__740-1791615758.json"
-  },
-  {
-    "game": "stp-se4dx12",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1791615743,
-    "filename": "stp-se4dx12-Xiaomi-23113RKC6G-Adreno__TM__740-1791615743.json"
   }
 ]
