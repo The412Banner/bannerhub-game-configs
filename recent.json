@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791630910,
+    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6833B-Mali-G57_MC2-1791630910.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1791591346,
     "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_CM7-Mali-G615_MC2-1791591346.json"
-  },
-  {
-    "game": "Diablo_II___Lord_of_Destruction",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1791589924,
-    "filename": "Diablo_II___Lord_of_Destruction-samsung-SM-A266B-Mali-G68-1791589924.json"
   }
 ]
