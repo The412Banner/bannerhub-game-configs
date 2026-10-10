@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791638101,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-X110-Mali-G57_MC2-1791638101.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "M2101K6P",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1791613337,
     "filename": "BlueStacks_5_-HONOR-MTN-NX1-Adreno__TM__810-1791613337.json"
-  },
-  {
-    "game": "Blur",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1791613212,
-    "filename": "Blur-INFINIX-Infinix_X6873-Mali-G615_MC6-1791613212.json"
   }
 ]
