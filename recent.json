@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1791664423,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-OnePlus-CPH2747-Adreno__TM__840-1791664423.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1791643721,
     "filename": "Red_Dead_Redemption_2-samsung-SM-S926U-Adreno__TM__750-1791643721.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791640583,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-CRT-NX1-Mali-G57_MC2-1791640583.json"
   }
 ]
