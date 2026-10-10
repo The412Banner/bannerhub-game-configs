@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blur",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1791613212,
+    "filename": "Blur-INFINIX-Infinix_X6873-Mali-G615_MC6-1791613212.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1791586012,
     "filename": "Hollow_Knight__Silksong-Xiaomi-25053PC47G-Adreno__TM__840-1791586012.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1791584575,
-    "filename": "Pro_Evolution_Soccer_2017-ayn-Odin3-Adreno__TM__830-1791584575.json"
   }
 ]
