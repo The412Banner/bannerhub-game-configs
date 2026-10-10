@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "V2027",
+    "device": "Adreno__TM__610",
+    "timestamp": 1791650787,
+    "filename": "Pro_Evolution_Soccer_2013-vivo-V2027-Adreno__TM__610-1791650787.json"
+  },
+  {
     "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1791633632,
     "filename": "NSUNS4_Launcher-samsung-SM-S938B-Adreno__TM__830-1791633632.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791630947,
-    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6833B-Mali-G57_MC2-1791630947.json"
   }
 ]
