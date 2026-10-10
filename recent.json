@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791656276,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A075F-Mali-G57_MC2-1791656276.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "I2407",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1791637695,
     "filename": "WUCHANG__Fallen_Feathers-motorola-moto_g45_5G-Adreno__TM__619-1791637695.json"
-  },
-  {
-    "game": "Black_Myth__Wukong",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1791637597,
-    "filename": "Black_Myth__Wukong-motorola-moto_g45_5G-Adreno__TM__619-1791637597.json"
   }
 ]
