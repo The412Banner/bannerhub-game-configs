@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "V2027",
+    "device": "Adreno__TM__610",
+    "timestamp": 1791649204,
+    "filename": "Pro_Evolution_Soccer_2013-vivo-V2027-Adreno__TM__610-1791649204.json"
+  },
+  {
     "game": "Lifeguard_Holic",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1791630834,
     "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6871-Mali-G610_MC6-1791630834.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791629156,
-    "filename": "Pro_Evolution_Soccer_2017-INFINIX-Infinix_X6833B-Mali-G57_MC2-1791629156.json"
   }
 ]
