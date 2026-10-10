@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__2",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1791673954,
+    "filename": "Far_Cry__2-Xiaomi-2312DRA50G-Adreno__TM__710-1791673954.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791648575,
     "filename": "Lifeguard_Holic-INFINIX-Infinix_X6728-Mali-G52_MC2-1791648575.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1791647399,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1791647399.json"
   }
 ]
