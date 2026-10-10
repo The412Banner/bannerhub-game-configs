@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791656693,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g67-Mali-G57_MC2-1791656693.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791637735,
     "filename": "NEE_D_YON_OLMMM-samsung-SM-X110-Mali-G57_MC2-1791637735.json"
-  },
-  {
-    "game": "WUCHANG__Fallen_Feathers",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1791637695,
-    "filename": "WUCHANG__Fallen_Feathers-motorola-moto_g45_5G-Adreno__TM__619-1791637695.json"
   }
 ]
