@@ -1,5 +1,12 @@
 [
   {
+    "game": "War_Thunder",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791749147,
+    "filename": "War_Thunder-INFINIX-Infinix_X6882-Mali-G57_MC2-1791749147.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1791729922,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2003J15SC-Mali-G52-1791729922.json"
-  },
-  {
-    "game": "God_of_War_Ragnar_k",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791728017,
-    "filename": "God_of_War_Ragnar_k-samsung-SM-A156M-Mali-G57_MC2-1791728017.json"
   }
 ]
