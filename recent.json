@@ -1,5 +1,12 @@
 [
   {
+    "game": "FARCRY_3_PC",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791683620,
+    "filename": "FARCRY_3_PC-Xiaomi-2409BRN2CL-Mali-G52_MC2-1791683620.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
     "manufacturer": "2312DRA50G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1791649959,
     "filename": "FIFA_Soccer_11-HONOR-LGN-LX2-Adreno__TM__610-1791649959.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "V2027",
-    "device": "Adreno__TM__610",
-    "timestamp": 1791649204,
-    "filename": "Pro_Evolution_Soccer_2013-vivo-V2027-Adreno__TM__610-1791649204.json"
   }
 ]
