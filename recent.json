@@ -1,5 +1,12 @@
 [
   {
+    "game": "Chained_Echoes",
+    "manufacturer": "I2213",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1791695574,
+    "filename": "Chained_Echoes-vivo-I2213-Adreno__TM__642L-1791695574.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2109119DG",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791669343,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1791669343.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "V2338A",
-    "device": "Adreno__TM__740",
-    "timestamp": 1791665898,
-    "filename": "PlayGTAV-vivo-V2338A-Adreno__TM__740-1791665898.json"
   }
 ]
