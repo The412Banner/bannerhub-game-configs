@@ -1,5 +1,12 @@
 [
   {
+    "game": "HKShip",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1791761695,
+    "filename": "HKShip-Xiaomi-2412DPC0AG-Mali-G720_MC7-1791761695.json"
+  },
+  {
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1791747063,
     "filename": "F1_2010-motorola-motorola_edge_50_fusion-Adreno__TM__710-1791747063.json"
-  },
-  {
-    "game": "SA_US_upd",
-    "manufacturer": "A705FN",
-    "device": "Adreno__TM__612",
-    "timestamp": 1791745619,
-    "filename": "SA_US_upd-samsung-SM-A705FN-Adreno__TM__612-1791745619.json"
   }
 ]
