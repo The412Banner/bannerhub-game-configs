@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1791719452,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_fusion-Adreno__TM__710-1791719452.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "24091RPADG",
     "device": "Adreno__TM__735",
     "timestamp": 1791719257,
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1791694962,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-INFINIX-Infinix_X6857-Mali-G615_MC2-1791694962.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1791691392,
-    "filename": "Tomb_Raider-TECNO-TECNO_LJ7-Mali-G615_MC2-1791691392.json"
   }
 ]
