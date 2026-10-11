@@ -1,5 +1,12 @@
 [
   {
+    "game": "Nioh",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1791748631,
+    "filename": "Nioh-Xiaomi-2510DPC44G-Adreno__TM__830-1791748631.json"
+  },
+  {
     "game": "METAL_GEAR_SOLID_V__GROUND_ZEROES",
     "manufacturer": "25062RN2DY",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1791724660,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22081212UG-Adreno__TM__730-1791724660.json"
-  },
-  {
-    "game": "Tiny_Tina_s_Wonderlands",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1791724097,
-    "filename": "Tiny_Tina_s_Wonderlands-Xiaomi-2412DPC0AG-Mali-G720_MC7-1791724097.json"
   }
 ]
