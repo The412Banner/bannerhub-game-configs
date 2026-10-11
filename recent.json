@@ -1,5 +1,12 @@
 [
   {
+    "game": "Yu-Gi-Oh__Legacy_of_the_Duelist",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1791718082,
+    "filename": "Yu-Gi-Oh__Legacy_of_the_Duelist-Xiaomi-2412DPC0AG-Mali-G720_MC7-1791718082.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "G988U1",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1791689774,
     "filename": "Pro_Evolution_Soccer_2017-realme-RMX5000-Mali-G615_MC2-1791689774.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "22101320G",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1791689712,
-    "filename": "Sleeping_Dogs-Xiaomi-22101320G-Adreno__TM__642L-1791689712.json"
   }
 ]
