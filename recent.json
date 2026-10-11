@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1791683776,
+    "filename": "God_of_War_Ragnar_k-realme-RMX3939-Mali-G57-1791683776.json"
+  },
+  {
     "game": "FARCRY_3_PC",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1791650501,
     "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-INFINIX-Infinix_X6871-Mali-G610_MC6-1791650501.json"
-  },
-  {
-    "game": "FIFA_Soccer_11",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1791649959,
-    "filename": "FIFA_Soccer_11-HONOR-LGN-LX2-Adreno__TM__610-1791649959.json"
   }
 ]
