@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "motorola_edge_70_fusion",
+    "device": "Adreno__TM__810",
+    "timestamp": 1791752868,
+    "filename": "Resident_Evil_2-motorola-motorola_edge_70_fusion-Adreno__TM__810-1791752868.json"
+  },
+  {
     "game": "Hitman__Absolution_",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1791738607,
     "filename": "The_Sims__4-Xiaomi-25053PC47G-Adreno__TM__825-1791738607.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1791736743,
-    "filename": "Red_Dead_Redemption_2-Xiaomi-25079RPDCG-Mali-G925-Immortalis_MC12-1791736743.json"
   }
 ]
