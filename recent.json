@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25062PC34G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1791750560,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25062PC34G-Adreno__TM__610-1791750560.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "2410CRP4CG",
     "device": "Adreno__TM__732",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1791731008,
     "filename": "INSIDE-Xiaomi-23129RA5FL-Adreno__TM__610-1791731008.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1791730965,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1791730965.json"
   }
 ]
