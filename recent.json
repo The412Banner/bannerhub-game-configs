@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "22081212UG",
+    "device": "Adreno__TM__730",
+    "timestamp": 1791724660,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22081212UG-Adreno__TM__730-1791724660.json"
+  },
+  {
     "game": "Tiny_Tina_s_Wonderlands",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1791696577,
     "filename": "NSUNS4_Launcher-INFINIX-Infinix_X6857-Mali-G615_MC2-1791696577.json"
-  },
-  {
-    "game": "Chained_Echoes",
-    "manufacturer": "I2213",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1791695574,
-    "filename": "Chained_Echoes-vivo-I2213-Adreno__TM__642L-1791695574.json"
   }
 ]
