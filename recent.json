@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A528B",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1791750155,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A528B-Adreno__TM__642L-1791750155.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25062PC34G",
     "device": "Adreno__TM__610",
     "timestamp": 1791750150,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791730600,
     "filename": "Dead_Space__3-INFINIX-Infinix_X678B-Mali-G57_MC2-1791730600.json"
-  },
-  {
-    "game": "stalker",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1791730408,
-    "filename": "stalker-Xiaomi-23106RN0DA-Mali-G52_MC2-1791730408.json"
   }
 ]
