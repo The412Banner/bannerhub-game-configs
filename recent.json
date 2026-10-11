@@ -1,5 +1,12 @@
 [
   {
+    "game": "GOALS",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1791762112,
+    "filename": "GOALS-samsung-SM-A145F-Mali-G52-1791762112.json"
+  },
+  {
     "game": "HKShip",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1791747982,
     "filename": "METAL_GEAR_SOLID_V__GROUND_ZEROES-Xiaomi-25062RN2DY-Adreno__TM__610-1791747982.json"
-  },
-  {
-    "game": "F1_2010",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1791747063,
-    "filename": "F1_2010-motorola-motorola_edge_50_fusion-Adreno__TM__710-1791747063.json"
   }
 ]
