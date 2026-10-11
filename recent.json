@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2010",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1791747063,
+    "filename": "F1_2010-motorola-motorola_edge_50_fusion-Adreno__TM__710-1791747063.json"
+  },
+  {
     "game": "SA_US_upd",
     "manufacturer": "A705FN",
     "device": "Adreno__TM__612",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1791722933,
     "filename": "Watch_Dogs-Xiaomi-25053PC47G-Adreno__TM__840-1791722933.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "motorola_edge_50_fusion",
-    "device": "Adreno__TM__710",
-    "timestamp": 1791719452,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_fusion-Adreno__TM__710-1791719452.json"
   }
 ]
