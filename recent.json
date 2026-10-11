@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25062PC34G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1791750150,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25062PC34G-Adreno__TM__610-1791750150.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "2410CRP4CG",
     "device": "Adreno__TM__732",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791730408,
     "filename": "stalker-Xiaomi-23106RN0DA-Mali-G52_MC2-1791730408.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1791729933,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2003J15SC-Mali-G52-1791729933.json"
   }
 ]
