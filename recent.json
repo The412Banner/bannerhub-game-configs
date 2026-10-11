@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791728017,
+    "filename": "God_of_War_Ragnar_k-samsung-SM-A156M-Mali-G57_MC2-1791728017.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "22081212UG",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1791698192,
     "filename": "PlayGTAV-Xiaomi-24090RA29C-Mali-G615_MC2-1791698192.json"
-  },
-  {
-    "game": "NSUNS4_Launcher",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1791696577,
-    "filename": "NSUNS4_Launcher-INFINIX-Infinix_X6857-Mali-G615_MC2-1791696577.json"
   }
 ]
