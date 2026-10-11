@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791748794,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078RA3EL-Mali-G52_MC2-1791748794.json"
+  },
+  {
     "game": "Nioh",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791728017,
     "filename": "God_of_War_Ragnar_k-samsung-SM-A156M-Mali-G57_MC2-1791728017.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "22081212UG",
-    "device": "Adreno__TM__730",
-    "timestamp": 1791724660,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-22081212UG-Adreno__TM__730-1791724660.json"
   }
 ]
