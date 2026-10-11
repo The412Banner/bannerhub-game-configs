@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1791729922,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2003J15SC-Mali-G52-1791729922.json"
+  },
+  {
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1791698557,
     "filename": "PlayGTAV-Xiaomi-24090RA29C-Mali-G615_MC2-1791698557.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1791698192,
-    "filename": "PlayGTAV-Xiaomi-24090RA29C-Mali-G615_MC2-1791698192.json"
   }
 ]
