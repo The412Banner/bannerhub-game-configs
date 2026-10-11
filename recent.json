@@ -1,5 +1,12 @@
 [
   {
+    "game": "NSUNS4_Launcher",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1791696577,
+    "filename": "NSUNS4_Launcher-INFINIX-Infinix_X6857-Mali-G615_MC2-1791696577.json"
+  },
+  {
     "game": "Chained_Echoes",
     "manufacturer": "I2213",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791672327,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2212ARNC4L-Mali-G52_MC2-1791672327.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791669343,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1791669343.json"
   }
 ]
