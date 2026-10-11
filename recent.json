@@ -1,5 +1,12 @@
 [
   {
+    "game": "SA_US_upd",
+    "manufacturer": "A705FN",
+    "device": "Adreno__TM__612",
+    "timestamp": 1791745619,
+    "filename": "SA_US_upd-samsung-SM-A705FN-Adreno__TM__612-1791745619.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1791719452,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_fusion-Adreno__TM__710-1791719452.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "24091RPADG",
-    "device": "Adreno__TM__735",
-    "timestamp": 1791719257,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24091RPADG-Adreno__TM__735-1791719257.json"
   }
 ]
