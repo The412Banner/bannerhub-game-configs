@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_friends_of_Ringo_Ishikawa",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1791684503,
+    "filename": "The_friends_of_Ringo_Ishikawa-Xiaomi-23113RKC6G-Adreno__TM__740-1791684503.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791655384,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g67-Mali-G57_MC2-1791655384.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1791654437,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_KM4-Mali-G57-1791654437.json"
   }
 ]
