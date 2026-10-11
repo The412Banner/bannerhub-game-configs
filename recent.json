@@ -1,5 +1,12 @@
 [
   {
+    "game": "MONSTER_HUNTER_RISE",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1791701036,
+    "filename": "MONSTER_HUNTER_RISE-nubia-NX809J-Adreno__TM__840-1791701036.json"
+  },
+  {
     "game": "FL_Studio_20",
     "manufacturer": "23127PN0CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1791683913,
     "filename": "God_of_War_Ragnar_k-realme-RMX3939-Mali-G57-1791683913.json"
-  },
-  {
-    "game": "God_of_War_Ragnar_k",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1791683776,
-    "filename": "God_of_War_Ragnar_k-realme-RMX3939-Mali-G57-1791683776.json"
   }
 ]
