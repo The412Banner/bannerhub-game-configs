@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__840",
+    "timestamp": 1791722933,
+    "filename": "Watch_Dogs-Xiaomi-25053PC47G-Adreno__TM__840-1791722933.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1791695248,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2109119DG-Adreno__TM__642L-1791695248.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1791694962,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-INFINIX-Infinix_X6857-Mali-G615_MC2-1791694962.json"
   }
 ]
