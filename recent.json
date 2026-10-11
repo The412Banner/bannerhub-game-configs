@@ -1,5 +1,12 @@
 [
   {
+    "game": "stalker",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791730408,
+    "filename": "stalker-Xiaomi-23106RN0DA-Mali-G52_MC2-1791730408.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1791699398,
     "filename": "FL_Studio_20-Xiaomi-23127PN0CG-Adreno__TM__750-1791699398.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1791698563,
-    "filename": "PlayGTAV-Xiaomi-24090RA29C-Mali-G615_MC2-1791698563.json"
   }
 ]
