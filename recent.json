@@ -1,5 +1,12 @@
 [
   {
+    "game": "SimRail_-_The_Railway_Simulator__Prologue",
+    "manufacturer": "S926U",
+    "device": "Adreno__TM__750",
+    "timestamp": 1791762419,
+    "filename": "SimRail_-_The_Railway_Simulator__Prologue-samsung-SM-S926U-Adreno__TM__750-1791762419.json"
+  },
+  {
     "game": "GOALS",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1791748631,
     "filename": "Nioh-Xiaomi-2510DPC44G-Adreno__TM__830-1791748631.json"
-  },
-  {
-    "game": "METAL_GEAR_SOLID_V__GROUND_ZEROES",
-    "manufacturer": "25062RN2DY",
-    "device": "Adreno__TM__610",
-    "timestamp": 1791747982,
-    "filename": "METAL_GEAR_SOLID_V__GROUND_ZEROES-Xiaomi-25062RN2DY-Adreno__TM__610-1791747982.json"
   }
 ]
