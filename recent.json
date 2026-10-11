@@ -1,5 +1,12 @@
 [
   {
+    "game": "FL_Studio_20",
+    "manufacturer": "23127PN0CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1791699398,
+    "filename": "FL_Studio_20-Xiaomi-23127PN0CG-Adreno__TM__750-1791699398.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1791683776,
     "filename": "God_of_War_Ragnar_k-realme-RMX3939-Mali-G57-1791683776.json"
-  },
-  {
-    "game": "FARCRY_3_PC",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1791683620,
-    "filename": "FARCRY_3_PC-Xiaomi-2409BRN2CL-Mali-G52_MC2-1791683620.json"
   }
 ]
