@@ -1,5 +1,12 @@
 [
   {
+    "game": "9Kings",
+    "manufacturer": "A556B",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1791813226,
+    "filename": "9Kings-samsung-SM-A556B-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1791813226.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1791789561,
     "filename": "setup_prodeus_1_0_2__59327_-HONOR-TFY-LX3-Adreno__TM__610-1791789561.json"
-  },
-  {
-    "game": "Sniper_Ghost_Warrior_2",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1791789234,
-    "filename": "Sniper_Ghost_Warrior_2-Xiaomi-25060RK16C-Mali-G925-Immortalis_MC12-1791789234.json"
   }
 ]
