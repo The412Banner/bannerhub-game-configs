@@ -3,6 +3,13 @@
     "game": "MiSide",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1791791342,
+    "filename": "MiSide-Xiaomi-24116RACCG-Mali-G57_MC2-1791791342.json"
+  },
+  {
+    "game": "MiSide",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1791791120,
     "filename": "MiSide-Xiaomi-24116RACCG-Mali-G57_MC2-1791791120.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1791762419,
     "filename": "SimRail_-_The_Railway_Simulator__Prologue-samsung-SM-S926U-Adreno__TM__750-1791762419.json"
-  },
-  {
-    "game": "GOALS",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1791762112,
-    "filename": "GOALS-samsung-SM-A145F-Mali-G52-1791762112.json"
   }
 ]
