@@ -1,5 +1,12 @@
 [
   {
+    "game": "7Launcher_-_GTA_5_1_7_3_____________________________________",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791812013,
+    "filename": "7Launcher_-_GTA_5_1_7_3_____________________________________-TECNO-TECNO_KL5n-Mali-G52_MC2-1791812013.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "A236M",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1791787548,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145F-Mali-G52-1791787548.json"
-  },
-  {
-    "game": "Blur",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1791785787,
-    "filename": "Blur-samsung-SM-G973F-Mali-G76-1791785787.json"
   }
 ]
