@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1791797639,
+    "filename": "Sleeping_Dogs-INFINIX-Infinix_X6873-Mali-G615_MC6-1791797639.json"
+  },
+  {
     "game": "MiSide",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791771745,
     "filename": "PES_2013-Xiaomi-25078RA3EL-Mali-G52_MC2-1791771745.json"
-  },
-  {
-    "game": "PES_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1791771709,
-    "filename": "PES_2013-Xiaomi-25078RA3EL-Mali-G52_MC2-1791771709.json"
   }
 ]
