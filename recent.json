@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman___Arkham_VR",
+    "manufacturer": "24018RPACG",
+    "device": "Adreno__TM__740",
+    "timestamp": 1791802325,
+    "filename": "Batman___Arkham_VR-Xiaomi-24018RPACG-Adreno__TM__740-1791802325.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
     "timestamp": 1791782160,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1791782160.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "23013PC75G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1791781772,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23013PC75G-Adreno__TM__730-1791781772.json"
   }
 ]
