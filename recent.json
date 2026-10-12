@@ -3,6 +3,13 @@
     "game": "MiSide",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1791791764,
+    "filename": "MiSide-Xiaomi-24116RACCG-Mali-G57_MC2-1791791764.json"
+  },
+  {
+    "game": "MiSide",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1791791758,
     "filename": "MiSide-Xiaomi-24116RACCG-Mali-G57_MC2-1791791758.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791771709,
     "filename": "PES_2013-Xiaomi-25078RA3EL-Mali-G52_MC2-1791771709.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2819",
-    "device": "Adreno__TM__610",
-    "timestamp": 1791771354,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2819-Adreno__TM__610-1791771354.json"
   }
 ]
