@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791830548,
+    "filename": "Need_for_Speed_9-Xiaomi-24117RN76L-Mali-G57_MC2-1791830548.json"
+  },
+  {
     "game": "Sniper_Elite_3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1791805773,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S928B-Adreno__TM__750-1791805773.json"
-  },
-  {
-    "game": "Dune__Awakening_",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1791803367,
-    "filename": "Dune__Awakening_-Xiaomi-24069PC21G-Adreno__TM__735-1791803367.json"
   }
 ]
