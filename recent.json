@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blur",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1791785787,
+    "filename": "Blur-samsung-SM-G973F-Mali-G76-1791785787.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "25062RN2DL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1791755994,
     "filename": "PAC-MAN_WORLD_2_Re-PAC-Xiaomi-2412DPC0AG-Mali-G720_MC7-1791755994.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1791754560,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A145F-Mali-G52-1791754560.json"
   }
 ]
