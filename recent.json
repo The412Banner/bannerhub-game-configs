@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791791120,
+    "filename": "MiSide-Xiaomi-24116RACCG-Mali-G57_MC2-1791791120.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1791762112,
     "filename": "GOALS-samsung-SM-A145F-Mali-G52-1791762112.json"
-  },
-  {
-    "game": "HKShip",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1791761695,
-    "filename": "HKShip-Xiaomi-2412DPC0AG-Mali-G720_MC7-1791761695.json"
   }
 ]
