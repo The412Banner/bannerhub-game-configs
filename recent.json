@@ -1,5 +1,12 @@
 [
   {
+    "game": "ELDEN_RING_NIGHTREIGN",
+    "manufacturer": "Quest_3",
+    "device": "Adreno__TM__740",
+    "timestamp": 1791846426,
+    "filename": "ELDEN_RING_NIGHTREIGN-Oculus-Quest_3-Adreno__TM__740-1791846426.json"
+  },
+  {
     "game": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1791832344,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-HUAWEI-JNY-LX1-Mali-G52-1791832344.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791827732,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A155M-Mali-G57_MC2-1791827732.json"
   }
 ]
