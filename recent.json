@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "23013PC75G",
+    "device": "Adreno__TM__730",
+    "timestamp": 1791781772,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23013PC75G-Adreno__TM__730-1791781772.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1791752540,
     "filename": "Hitman__Absolution_-Xiaomi-23113RKC6G-Adreno__TM__740-1791752540.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25062PC34G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1791750560,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25062PC34G-Adreno__TM__610-1791750560.json"
   }
 ]
