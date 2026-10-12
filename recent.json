@@ -1,5 +1,12 @@
 [
   {
+    "game": "2Dark",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1791797884,
+    "filename": "2Dark-samsung-SM-A145F-Mali-G52-1791797884.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1791780449,
     "filename": "Pro_Evolution_Soccer_2013-realme-realme_Note_60-Mali-G57-1791780449.json"
-  },
-  {
-    "game": "PES_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1791771745,
-    "filename": "PES_2013-Xiaomi-25078RA3EL-Mali-G52_MC2-1791771745.json"
   }
 ]
