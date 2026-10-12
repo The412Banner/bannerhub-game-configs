@@ -1,5 +1,12 @@
 [
   {
+    "game": "Harry_Potter_and_the_Chamber_of_Secrets_____________________",
+    "manufacturer": "moto_g32",
+    "device": "Adreno__TM__610",
+    "timestamp": 1791844201,
+    "filename": "Harry_Potter_and_the_Chamber_of_Secrets_____________________-motorola-moto_g32-Adreno__TM__610-1791844201.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1791825879,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-X216B-Adreno__TM__619-1791825879.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_one_fusion",
-    "device": "Adreno__TM__616",
-    "timestamp": 1791825025,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_one_fusion-Adreno__TM__616-1791825025.json"
   }
 ]
