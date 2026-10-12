@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "X216B",
+    "device": "Adreno__TM__619",
+    "timestamp": 1791825879,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-X216B-Adreno__TM__619-1791825879.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "motorola_one_fusion",
     "device": "Adreno__TM__616",
     "timestamp": 1791825025,
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1791797884,
     "filename": "2Dark-samsung-SM-A145F-Mali-G52-1791797884.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1791797639,
-    "filename": "Sleeping_Dogs-INFINIX-Infinix_X6873-Mali-G615_MC6-1791797639.json"
   }
 ]
