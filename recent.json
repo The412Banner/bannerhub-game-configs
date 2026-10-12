@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "motorola_one_fusion",
+    "device": "Adreno__TM__616",
+    "timestamp": 1791825025,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_one_fusion-Adreno__TM__616-1791825025.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "24115RA8EG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1791797639,
     "filename": "Sleeping_Dogs-INFINIX-Infinix_X6873-Mali-G615_MC6-1791797639.json"
-  },
-  {
-    "game": "MiSide",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791791764,
-    "filename": "MiSide-Xiaomi-24116RACCG-Mali-G57_MC2-1791791764.json"
   }
 ]
