@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791836098,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1791836098.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1791813992,
     "filename": "Medal_of_Honor_Pacific_Assault_tm__Setup_by_Electronic_Arts__Inc_-Xiaomi-220333QAG-Adreno__TM__610-1791813992.json"
-  },
-  {
-    "game": "9Kings",
-    "manufacturer": "A556B",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1791813226,
-    "filename": "9Kings-samsung-SM-A556B-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1791813226.json"
   }
 ]
