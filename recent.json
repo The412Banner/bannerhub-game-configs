@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1791845362,
+    "filename": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719-Xiaomi-M2012K11AG-Adreno__TM__650-1791845362.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "22101320G",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791827732,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A155M-Mali-G57_MC2-1791827732.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1791825882,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-25053PC47G-Adreno__TM__825-1791825882.json"
   }
 ]
