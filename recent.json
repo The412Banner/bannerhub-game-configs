@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1791787548,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145F-Mali-G52-1791787548.json"
+  },
+  {
     "game": "Blur",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791758740,
     "filename": "2K_Sports_NBA_2K___-INFINIX-Infinix_X670-Mali-G57_MC2-1791758740.json"
-  },
-  {
-    "game": "PAC-MAN_WORLD_2_Re-PAC",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1791755994,
-    "filename": "PAC-MAN_WORLD_2_Re-PAC-Xiaomi-2412DPC0AG-Mali-G720_MC7-1791755994.json"
   }
 ]
