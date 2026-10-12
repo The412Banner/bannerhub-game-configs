@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1791813032,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24095PCADG-Mali-G615_MC2-1791813032.json"
+  },
+  {
     "game": "7Launcher_-_GTA_5_1_7_3_____________________________________",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1791789234,
     "filename": "Sniper_Ghost_Warrior_2-Xiaomi-25060RK16C-Mali-G925-Immortalis_MC12-1791789234.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1791787548,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145F-Mali-G52-1791787548.json"
   }
 ]
