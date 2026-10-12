@@ -3,6 +3,13 @@
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G720_MC7",
+    "timestamp": 1791817601,
+    "filename": "Need_for_Speed_9-Xiaomi-2412DPC0AG-Mali-G720_MC7-1791817601.json"
+  },
+  {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
     "timestamp": 1791817406,
     "filename": "Need_for_Speed_9-Xiaomi-2412DPC0AG-Mali-G720_MC7-1791817406.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791791342,
     "filename": "MiSide-Xiaomi-24116RACCG-Mali-G57_MC2-1791791342.json"
-  },
-  {
-    "game": "MiSide",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791791120,
-    "filename": "MiSide-Xiaomi-24116RACCG-Mali-G57_MC2-1791791120.json"
   }
 ]
