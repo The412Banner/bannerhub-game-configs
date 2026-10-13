@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791892254,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1791892254.json"
+  },
+  {
     "game": "Devil_May_Cry_5",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791859602,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A245F-Mali-G57_MC2-1791859602.json"
-  },
-  {
-    "game": "Hood_Warfare_2",
-    "manufacturer": "24030PN60G",
-    "device": "Adreno__TM__750",
-    "timestamp": 1791855596,
-    "filename": "Hood_Warfare_2-Xiaomi-24030PN60G-Adreno__TM__750-1791855596.json"
   }
 ]
