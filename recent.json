@@ -1,5 +1,12 @@
 [
   {
+    "game": "7Launcher_-_Farming_Simulator_25_1_7_3_1____________________",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1791895088,
+    "filename": "7Launcher_-_Farming_Simulator_25_1_7_3_1____________________-vivo-V2518-Mali-G615_MC2-1791895088.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1791863502,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SCG06-Adreno__TM__650-1791863502.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791863078,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A245F-Mali-G57_MC2-1791863078.json"
   }
 ]
