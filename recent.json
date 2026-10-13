@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A525F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1791922275,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A525F-Adreno__TM__618-1791922275.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "motorola_edge_50_fusion",
     "device": "Adreno__TM__710",
     "timestamp": 1791921748,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1791902687,
     "filename": "Watch_Dogs__2-LENOVO-TB323FU-Adreno__TM__840-1791902687.json"
-  },
-  {
-    "game": "OpenIV",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1791902607,
-    "filename": "OpenIV-Xiaomi-2311DRK48G-Mali-G615_MC6-1791902607.json"
   }
 ]
