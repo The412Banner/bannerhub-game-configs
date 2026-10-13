@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "motorola_edge_50_fusion",
+    "device": "Adreno__TM__710",
+    "timestamp": 1791918200,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_fusion-Adreno__TM__710-1791918200.json"
+  },
+  {
     "game": "Battlefield__Bad_Company__2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1791896354,
     "filename": "FiveM_for_GTAV_Enhanced-INFINIX-Infinix_X670-Mali-G57_MC2-1791896354.json"
-  },
-  {
-    "game": "ss",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1791895032,
-    "filename": "ss-Xiaomi-23106RN0DA-Mali-G52_MC2-1791895032.json"
   }
 ]
