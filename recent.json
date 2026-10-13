@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlueStacks_5_",
+    "manufacturer": "RMX3871",
+    "device": "Adreno__TM__610",
+    "timestamp": 1791920243,
+    "filename": "BlueStacks_5_-realme-RMX3871-Adreno__TM__610-1791920243.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1791899115,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2603ARP14G-Adreno__TM__610-1791899115.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1791897252,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1791897252.json"
   }
 ]
