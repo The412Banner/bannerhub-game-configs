@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1791865852,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1791865852.json"
+  },
+  {
     "game": "Mount___Blade__Warband",
     "manufacturer": "Mali",
     "device": "G610_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1791844201,
     "filename": "Harry_Potter_and_the_Chamber_of_Secrets_____________________-motorola-moto_g32-Adreno__TM__610-1791844201.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1791843844,
-    "filename": "God_of_War-nubia-NX799J-Adreno__TM__830-1791843844.json"
   }
 ]
