@@ -1,5 +1,12 @@
 [
   {
+    "game": "ss",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1791895032,
+    "filename": "ss-Xiaomi-23106RN0DA-Mali-G52_MC2-1791895032.json"
+  },
+  {
     "game": "7Launcher_-_Farming_Simulator_25_1_7_3_1____________________",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1791864414,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22101320G-Adreno__TM__642L-1791864414.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "SCG06",
-    "device": "Adreno__TM__650",
-    "timestamp": 1791863502,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SCG06-Adreno__TM__650-1791863502.json"
   }
 ]
