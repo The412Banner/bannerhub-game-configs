@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A525F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1791925710,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A525F-Adreno__TM__618-1791925710.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "CPH2645",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1791903454,
     "filename": "JoJo_s_Bizarre_Adventure__All-Star_Battle_R-Xiaomi-24122RKC7G-Adreno__TM__830-1791903454.json"
-  },
-  {
-    "game": "HouseFlipper",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__710",
-    "timestamp": 1791903228,
-    "filename": "HouseFlipper-HONOR-HEY2-W09-Adreno__TM__710-1791903228.json"
   }
 ]
