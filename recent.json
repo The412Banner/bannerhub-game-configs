@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ben_10__Power_Trip",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1791926445,
+    "filename": "Ben_10__Power_Trip-Xiaomi-2311DRK48G-Mali-G615_MC6-1791926445.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A525F",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1791903935,
     "filename": "Watch_Dogs__2-LENOVO-TB323FU-Adreno__TM__840-1791903935.json"
-  },
-  {
-    "game": "JoJo_s_Bizarre_Adventure__All-Star_Battle_R",
-    "manufacturer": "24122RKC7G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1791903454,
-    "filename": "JoJo_s_Bizarre_Adventure__All-Star_Battle_R-Xiaomi-24122RKC7G-Adreno__TM__830-1791903454.json"
   }
 ]
