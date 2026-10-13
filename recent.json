@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft__Windows__Operating_System",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1791867052,
+    "filename": "Microsoft__Windows__Operating_System-Xiaomi-M2102J20SG-Adreno__TM__640-1791867052.json"
+  },
+  {
     "game": "PEAK",
     "manufacturer": "S731B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1791846426,
     "filename": "ELDEN_RING_NIGHTREIGN-Oculus-Quest_3-Adreno__TM__740-1791846426.json"
-  },
-  {
-    "game": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1791845362,
-    "filename": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719-Xiaomi-M2012K11AG-Adreno__TM__650-1791845362.json"
   }
 ]
