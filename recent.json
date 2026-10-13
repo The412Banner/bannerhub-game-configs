@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1791882298,
+    "filename": "Tomb_Raider-motorola-moto_g45_5G-Adreno__TM__619-1791882298.json"
+  },
+  {
     "game": "LEGO_DC_Super-villains_DX11",
     "manufacturer": "V2538",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1791852092,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5566-Adreno__TM__610-1791852092.json"
-  },
-  {
-    "game": "____2016",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1791851238,
-    "filename": "____2016-realme-RMX3938-Mali-G57-1791851238.json"
   }
 ]
