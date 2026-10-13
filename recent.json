@@ -1,5 +1,12 @@
 [
   {
+    "game": "JoJo_s_Bizarre_Adventure__All-Star_Battle_R",
+    "manufacturer": "24122RKC7G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1791903454,
+    "filename": "JoJo_s_Bizarre_Adventure__All-Star_Battle_R-Xiaomi-24122RKC7G-Adreno__TM__830-1791903454.json"
+  },
+  {
     "game": "HouseFlipper",
     "manufacturer": "W09",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1791882298,
     "filename": "Tomb_Raider-motorola-moto_g45_5G-Adreno__TM__619-1791882298.json"
-  },
-  {
-    "game": "LEGO_DC_Super-villains_DX11",
-    "manufacturer": "V2538",
-    "device": "Adreno__TM__722",
-    "timestamp": 1791877655,
-    "filename": "LEGO_DC_Super-villains_DX11-vivo-V2538-Adreno__TM__722-1791877655.json"
   }
 ]
