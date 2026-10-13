@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1791868700,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g04s-Mali-G57-1791868700.json"
+  },
+  {
     "game": "Microsoft__Windows__Operating_System",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1791846866,
     "filename": "Battlefield__Bad_Company__2-realme-RMX3939-Mali-G57-1791846866.json"
-  },
-  {
-    "game": "ELDEN_RING_NIGHTREIGN",
-    "manufacturer": "Quest_3",
-    "device": "Adreno__TM__740",
-    "timestamp": 1791846426,
-    "filename": "ELDEN_RING_NIGHTREIGN-Oculus-Quest_3-Adreno__TM__740-1791846426.json"
   }
 ]
