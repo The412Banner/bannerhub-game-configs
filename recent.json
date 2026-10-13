@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "GRAVITY_TAB_8",
+    "device": "PowerVR_Rogue_GE8322",
+    "timestamp": 1791912060,
+    "filename": "Pro_Evolution_Soccer_2013-IMG-GRAVITY_TAB_8-PowerVR_Rogue_GE8322-1791912060.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1791909146,
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1791895088,
     "filename": "7Launcher_-_Farming_Simulator_25_1_7_3_1____________________-vivo-V2518-Mali-G615_MC2-1791895088.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1791894484,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23106RN0DA-Mali-G52_MC2-1791894484.json"
   }
 ]
