@@ -1,5 +1,12 @@
 [
   {
+    "game": "X-Men_Origins_-_Wolverine",
+    "manufacturer": "S928U",
+    "device": "Adreno__TM__750",
+    "timestamp": 1791920658,
+    "filename": "X-Men_Origins_-_Wolverine-samsung-SM-S928U-Adreno__TM__750-1791920658.json"
+  },
+  {
     "game": "BlueStacks_5_",
     "manufacturer": "RMX3871",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1791899192,
     "filename": "Sengoku_Rance-samsung-SM-S931B-Adreno__TM__830-1791899192.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2603ARP14G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1791899115,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2603ARP14G-Adreno__TM__610-1791899115.json"
   }
 ]
