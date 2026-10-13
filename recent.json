@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO_DC_Super-villains_DX11",
+    "manufacturer": "V2538",
+    "device": "Adreno__TM__722",
+    "timestamp": 1791877655,
+    "filename": "LEGO_DC_Super-villains_DX11-vivo-V2538-Adreno__TM__722-1791877655.json"
+  },
+  {
     "game": "Slay_the_Spire_2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1791851238,
     "filename": "____2016-realme-RMX3938-Mali-G57-1791851238.json"
-  },
-  {
-    "game": "____2016",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1791851196,
-    "filename": "____2016-realme-RMX3938-Mali-G57-1791851196.json"
   }
 ]
