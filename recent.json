@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1791978367,
+    "filename": "Far_Cry_3-samsung-SM-M536B-Mali-G68_MC4-1791978367.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1791941944,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-HONOR-BRP-NX3-Adreno__TM__710-1791941944.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1791940116,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1791940116.json"
   }
 ]
