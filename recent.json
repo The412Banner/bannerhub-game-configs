@@ -1,5 +1,12 @@
 [
   {
+    "game": "____________",
+    "manufacturer": "23013PC75G",
+    "device": "Adreno__TM__730",
+    "timestamp": 1791999401,
+    "filename": "____________-Xiaomi-23013PC75G-Adreno__TM__730-1791999401.json"
+  },
+  {
     "game": "Path_of_Exile",
     "manufacturer": "I2508",
     "device": "Adreno__TM__829",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1791960414,
     "filename": "Launcher-realme-RMX3263-Mali-G52-1791960414.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1791950732,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-23049PCD8G-Adreno__TM__725-1791950732.json"
   }
 ]
