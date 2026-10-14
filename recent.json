@@ -1,5 +1,12 @@
 [
   {
+    "game": "BREAKOUT_BABY",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792021969,
+    "filename": "BREAKOUT_BABY-INFINIX-Infinix_X6730B-Mali-G57_MC2-1792021969.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1791990410,
     "filename": "Resident_Evil_3-AllCall-POWER_30_ULTRA-Mali-G52_MC2-1791990410.json"
-  },
-  {
-    "game": "Need_for_Speed__Rivals",
-    "manufacturer": "G990B",
-    "device": "Adreno__TM__660",
-    "timestamp": 1791989301,
-    "filename": "Need_for_Speed__Rivals-samsung-SM-G990B-Adreno__TM__660-1791989301.json"
   }
 ]
