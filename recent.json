@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "motorola_edge_20_pro",
+    "device": "Adreno__TM__650",
+    "timestamp": 1791945779,
+    "filename": "Left_4_Dead_2-motorola-motorola_edge_20_pro-Adreno__TM__650-1791945779.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1791915734,
     "filename": "Battlefield__Bad_Company__2-realme-RMX3939-Mali-G57-1791915734.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "GRAVITY_TAB_8",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1791912060,
-    "filename": "Pro_Evolution_Soccer_2013-IMG-GRAVITY_TAB_8-PowerVR_Rogue_GE8322-1791912060.json"
   }
 ]
