@@ -1,5 +1,12 @@
 [
   {
+    "game": "Launcher",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1791960414,
+    "filename": "Launcher-realme-RMX3263-Mali-G52-1791960414.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1791925710,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A525F-Adreno__TM__618-1791925710.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "CPH2645",
-    "device": "Adreno__TM__750",
-    "timestamp": 1791923993,
-    "filename": "Pro_Evolution_Soccer_2017-OnePlus-CPH2645-Adreno__TM__750-1791923993.json"
   }
 ]
