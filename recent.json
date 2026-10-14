@@ -1,5 +1,12 @@
 [
   {
+    "game": "pes",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1791996415,
+    "filename": "pes-Xiaomi-23129RAA4G-Adreno__TM__610-1791996415.json"
+  },
+  {
     "game": "Resident_Evil_3",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__644",
     "timestamp": 1791950477,
     "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-HONOR-REA-NX9-Adreno__TM__644-1791950477.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1791950427,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-23049PCD8G-Adreno__TM__725-1791950427.json"
   }
 ]
