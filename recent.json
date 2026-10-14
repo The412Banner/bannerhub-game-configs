@@ -1,5 +1,12 @@
 [
   {
+    "game": "BeamNG_drive",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1792015574,
+    "filename": "BeamNG_drive-Xiaomi-2311DRK48G-Mali-G615_MC6-1792015574.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1791979470,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S918B-Adreno__TM__740-1791979470.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1791978704,
-    "filename": "Far_Cry_3-samsung-SM-M536B-Mali-G68_MC4-1791978704.json"
   }
 ]
