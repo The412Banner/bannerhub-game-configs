@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1791965802,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6725-Mali-G57-1791965802.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "RMX3890",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1791937363,
     "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-OPD2514-Adreno__TM__840-1791937363.json"
-  },
-  {
-    "game": "Ben_10__Power_Trip",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1791926445,
-    "filename": "Ben_10__Power_Trip-Xiaomi-2311DRK48G-Mali-G615_MC6-1791926445.json"
   }
 ]
