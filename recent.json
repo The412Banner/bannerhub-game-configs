@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "motorola_edge_70",
+    "device": "Adreno__TM__722",
+    "timestamp": 1792001744,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-motorola-motorola_edge_70-Adreno__TM__722-1792001744.json"
+  },
+  {
     "game": "____________",
     "manufacturer": "23013PC75G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1791964508,
     "filename": "unins000-realme-RMX3890-Adreno__TM__610-1791964508.json"
-  },
-  {
-    "game": "Launcher",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1791960414,
-    "filename": "Launcher-realme-RMX3263-Mali-G52-1791960414.json"
   }
 ]
