@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792012511,
+    "filename": "Tomb_Raider-INFINIX-Infinix_X6837-Mali-G57_MC2-1792012511.json"
+  },
+  {
     "game": "Command___Conquer__Red_Alert__3-_Uprising",
     "manufacturer": "Mali",
     "device": "G710_MC10",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1791978704,
     "filename": "Far_Cry_3-samsung-SM-M536B-Mali-G68_MC4-1791978704.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1791978367,
-    "filename": "Far_Cry_3-samsung-SM-M536B-Mali-G68_MC4-1791978367.json"
   }
 ]
