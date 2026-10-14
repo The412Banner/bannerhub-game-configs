@@ -1,5 +1,12 @@
 [
   {
+    "game": "Path_of_Exile",
+    "manufacturer": "I2508",
+    "device": "Adreno__TM__829",
+    "timestamp": 1791999376,
+    "filename": "Path_of_Exile-vivo-I2508-Adreno__TM__829-1791999376.json"
+  },
+  {
     "game": "pes",
     "manufacturer": "23129RAA4G",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1791950732,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-23049PCD8G-Adreno__TM__725-1791950732.json"
-  },
-  {
-    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__644",
-    "timestamp": 1791950477,
-    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-HONOR-REA-NX9-Adreno__TM__644-1791950477.json"
   }
 ]
