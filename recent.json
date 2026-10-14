@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1791945408,
+    "filename": "DARK_SOULS___REMASTERED-INFINIX-Infinix_X6873-Mali-G615_MC6-1791945408.json"
+  },
+  {
     "game": "Forza_Horizon_5",
     "manufacturer": "NX789J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1791912060,
     "filename": "Pro_Evolution_Soccer_2013-IMG-GRAVITY_TAB_8-PowerVR_Rogue_GE8322-1791912060.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1791909146,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3941-Mali-G52_MC2-1791909146.json"
   }
 ]
