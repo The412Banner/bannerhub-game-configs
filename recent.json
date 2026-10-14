@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1791938888,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1791938888.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "OPD2514",
     "device": "Adreno__TM__840",
     "timestamp": 1791937363,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1791905791,
     "filename": "saints_row_1-samsung-SM-S906U1-Adreno__TM__730-1791905791.json"
-  },
-  {
-    "game": "NOLUR_MAYKIL_CEKSINI_ARAMA",
-    "manufacturer": "X110",
-    "device": "MT8781V_NA",
-    "timestamp": 1791905449,
-    "filename": "NOLUR_MAYKIL_CEKSINI_ARAMA-samsung-SM-X110-MT8781V_NA-1791905449.json"
   }
 ]
