@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1791979470,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S918B-Adreno__TM__740-1791979470.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1791943465,
     "filename": "Forza_Horizon_5-nubia-NX789J-Adreno__TM__830-1791943465.json"
-  },
-  {
-    "game": "Forza_Horizon_5",
-    "manufacturer": "NX789J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1791943475,
-    "filename": "Forza_Horizon_5-nubia-NX789J-Adreno__TM__830-1791943475.json"
   }
 ]
