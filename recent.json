@@ -1,5 +1,12 @@
 [
   {
+    "game": "Path_of_Exile",
+    "manufacturer": "LX2",
+    "device": "Adreno__TM__610",
+    "timestamp": 1792061664,
+    "filename": "Path_of_Exile-HONOR-CLK-LX2-Adreno__TM__610-1792061664.json"
+  },
+  {
     "game": "GoldMiningSimulator",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792034374,
     "filename": "Pro_Evolution_Soccer_6-samsung-SM-A165M-Mali-G57_MC2-1792034374.json"
-  },
-  {
-    "game": "World_War_Z",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1792030570,
-    "filename": "World_War_Z-ayn-Odin3-Adreno__TM__830-1792030570.json"
   }
 ]
