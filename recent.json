@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_4_Special_Edition",
+    "manufacturer": "CPH2467",
+    "device": "Adreno__TM__619",
+    "timestamp": 1792075961,
+    "filename": "Devil_May_Cry_4_Special_Edition-OnePlus-CPH2467-Adreno__TM__619-1792075961.json"
+  },
+  {
     "game": "Castlevania_Belmont_s_Curse",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1792040075,
     "filename": "Brothers_-_A_Tale_of_Two_Sons-Xiaomi-2405CRPFDG-Adreno__TM__710-1792040075.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__810",
-    "timestamp": 1792039044,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-MTN-NX1-Adreno__TM__810-1792039044.json"
   }
 ]
