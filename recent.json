@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "22101320G",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1792029234,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22101320G-Adreno__TM__642L-1792029234.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__722",
     "timestamp": 1792001744,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-motorola-motorola_edge_70-Adreno__TM__722-1792001744.json"
-  },
-  {
-    "game": "____________",
-    "manufacturer": "23013PC75G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1791999401,
-    "filename": "____________-Xiaomi-23013PC75G-Adreno__TM__730-1791999401.json"
   }
 ]
