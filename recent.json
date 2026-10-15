@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1792104082,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1792104082.json"
+  },
+  {
     "game": "Days_Gone",
     "manufacturer": "TB320FC",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1792075969,
     "filename": "Devil_May_Cry_4_Special_Edition-OnePlus-CPH2467-Adreno__TM__619-1792075969.json"
-  },
-  {
-    "game": "Devil_May_Cry_4_Special_Edition",
-    "manufacturer": "CPH2467",
-    "device": "Adreno__TM__619",
-    "timestamp": 1792075961,
-    "filename": "Devil_May_Cry_4_Special_Edition-OnePlus-CPH2467-Adreno__TM__619-1792075961.json"
   }
 ]
