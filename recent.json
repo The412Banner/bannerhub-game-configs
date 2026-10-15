@@ -3,6 +3,13 @@
     "game": "PES_2016",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1792105159,
+    "filename": "PES_2016-Xiaomi-23053RN02A-Mali-G52_MC2-1792105159.json"
+  },
+  {
+    "game": "PES_2016",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1792105154,
     "filename": "PES_2016-Xiaomi-23053RN02A-Mali-G52_MC2-1792105154.json"
   },
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1792079323,
     "filename": "Red_Dead_Redemption_2-Xiaomi-2511FPC34G-Mali-G720_MC8-1792079323.json"
-  },
-  {
-    "game": "Cuphead",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1792079233,
-    "filename": "Cuphead-samsung-SM-S918B-Adreno__TM__740-1792079233.json"
   }
 ]
