@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1792087439,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1792087439.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1792045312,
     "filename": "LEGO__Batman__2__DC_Super_Heroes-Xiaomi-22101316G-Mali-G68_MC4-1792045312.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G781B",
-    "device": "Adreno__TM__650",
-    "timestamp": 1792043927,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G781B-Adreno__TM__650-1792043927.json"
   }
 ]
