@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792106839,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2591-Mali-G52_MC2-1792106839.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1792106724,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1792106724.json"
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792086776,
     "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_CI6n-Mali-G52_MC2-1792086776.json"
-  },
-  {
-    "game": "Sniper_Elite_3",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__650",
-    "timestamp": 1792086623,
-    "filename": "Sniper_Elite_3-HUAWEI-DBY-W09-Adreno__TM__650-1792086623.json"
   }
 ]
