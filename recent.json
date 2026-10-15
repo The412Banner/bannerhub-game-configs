@@ -1,5 +1,12 @@
 [
   {
+    "game": "Guilty_Gear_-Strive-",
+    "manufacturer": "24122RKC7G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1792037314,
+    "filename": "Guilty_Gear_-Strive--Xiaomi-24122RKC7G-Adreno__TM__830-1792037314.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792012511,
     "filename": "Tomb_Raider-INFINIX-Infinix_X6837-Mali-G57_MC2-1792012511.json"
-  },
-  {
-    "game": "Command___Conquer__Red_Alert__3-_Uprising",
-    "manufacturer": "Mali",
-    "device": "G710_MC10",
-    "timestamp": 1792008876,
-    "filename": "Command___Conquer__Red_Alert__3-_Uprising-OnePlus-CPH2493-Mali-G710_MC10-1792008876.json"
   }
 ]
