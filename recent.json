@@ -1,6 +1,13 @@
 [
   {
     "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1792026320,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-M127F-Mali-G52-1792026320.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1792024866,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__829",
     "timestamp": 1791999376,
     "filename": "Path_of_Exile-vivo-I2508-Adreno__TM__829-1791999376.json"
-  },
-  {
-    "game": "pes",
-    "manufacturer": "23129RAA4G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1791996415,
-    "filename": "pes-Xiaomi-23129RAA4G-Adreno__TM__610-1791996415.json"
   }
 ]
