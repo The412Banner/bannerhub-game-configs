@@ -1,5 +1,12 @@
 [
   {
+    "game": "Brothers_-_A_Tale_of_Two_Sons",
+    "manufacturer": "2405CRPFDG",
+    "device": "Adreno__TM__710",
+    "timestamp": 1792040075,
+    "filename": "Brothers_-_A_Tale_of_Two_Sons-Xiaomi-2405CRPFDG-Adreno__TM__710-1792040075.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792020175,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6885-Mali-G57_MC2-1792020175.json"
-  },
-  {
-    "game": "Hitman__Absolution_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1792019501,
-    "filename": "Hitman__Absolution_-INFINIX-Infinix_X6725-Mali-G57-1792019501.json"
   }
 ]
