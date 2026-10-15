@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792093772,
+    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KI7-Mali-G52_MC2-1792093772.json"
+  },
+  {
     "game": "gow3-windows_bin_gow3-gpu-capabilities",
     "manufacturer": "RMX5555",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1792050841,
     "filename": "FIFA_22-INFINIX-Infinix_X6873-Mali-G615_MC6-1792050841.json"
-  },
-  {
-    "game": "FIFA_22",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1792050820,
-    "filename": "FIFA_22-INFINIX-Infinix_X6873-Mali-G615_MC6-1792050820.json"
   }
 ]
