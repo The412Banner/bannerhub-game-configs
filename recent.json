@@ -1,5 +1,12 @@
 [
   {
+    "game": "GoldMiningSimulator",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1792054724,
+    "filename": "GoldMiningSimulator-Xiaomi-23043RP34G-Adreno__TM__650-1792054724.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1792030570,
     "filename": "World_War_Z-ayn-Odin3-Adreno__TM__830-1792030570.json"
-  },
-  {
-    "game": "unins000",
-    "manufacturer": "RMX3890",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792029968,
-    "filename": "unins000-realme-RMX3890-Adreno__TM__610-1792029968.json"
   }
 ]
