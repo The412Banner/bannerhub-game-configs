@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Batman__2__DC_Super_Heroes",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1792045312,
+    "filename": "LEGO__Batman__2__DC_Super_Heroes-Xiaomi-22101316G-Mali-G68_MC4-1792045312.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G781B",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792023115,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6885-Mali-G57_MC2-1792023115.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792023113,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6885-Mali-G57_MC2-1792023113.json"
   }
 ]
