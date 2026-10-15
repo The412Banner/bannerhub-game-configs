@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1792028061,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1792028061.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1791999401,
     "filename": "____________-Xiaomi-23013PC75G-Adreno__TM__730-1791999401.json"
-  },
-  {
-    "game": "Path_of_Exile",
-    "manufacturer": "I2508",
-    "device": "Adreno__TM__829",
-    "timestamp": 1791999376,
-    "filename": "Path_of_Exile-vivo-I2508-Adreno__TM__829-1791999376.json"
   }
 ]
