@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Revelations",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1792042530,
+    "filename": "Assassin_s_Creed__Revelations-Anbernic-RG_406H-Mali-G57-1792042530.json"
+  },
+  {
     "game": "Brothers_-_A_Tale_of_Two_Sons",
     "manufacturer": "2405CRPFDG",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792020949,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6885-Mali-G57_MC2-1792020949.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792020175,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6885-Mali-G57_MC2-1792020175.json"
   }
 ]
