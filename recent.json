@@ -1,5 +1,12 @@
 [
   {
+    "game": "Days_Gone",
+    "manufacturer": "TB320FC",
+    "device": "Adreno__TM__730",
+    "timestamp": 1792103372,
+    "filename": "Days_Gone-Lenovo-TB320FC-Adreno__TM__730-1792103372.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man_Remastered",
     "manufacturer": "TB320FC",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1792075961,
     "filename": "Devil_May_Cry_4_Special_Edition-OnePlus-CPH2467-Adreno__TM__619-1792075961.json"
-  },
-  {
-    "game": "Castlevania_Belmont_s_Curse",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1792072494,
-    "filename": "Castlevania_Belmont_s_Curse-LENOVO-TB322FC-Adreno__TM__830-1792072494.json"
   }
 ]
