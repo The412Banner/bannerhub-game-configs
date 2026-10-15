@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "NX679J",
+    "device": "Adreno__TM__730",
+    "timestamp": 1792062444,
+    "filename": "Pro_Evolution_Soccer_2013-nubia-NX679J-Adreno__TM__730-1792062444.json"
+  },
+  {
     "game": "Path_of_Exile",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1792037228,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-MTN-NX1-Adreno__TM__810-1792037228.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_6",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792034374,
-    "filename": "Pro_Evolution_Soccer_6-samsung-SM-A165M-Mali-G57_MC2-1792034374.json"
   }
 ]
