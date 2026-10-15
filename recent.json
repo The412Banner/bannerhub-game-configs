@@ -1,5 +1,12 @@
 [
   {
+    "game": "________________________________________________________________sonic_boll",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1792101675,
+    "filename": "________________________________________________________________sonic_boll-samsung-SM-A266M-Mali-G68-1792101675.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1792054724,
     "filename": "GoldMiningSimulator-Xiaomi-23043RP34G-Adreno__TM__650-1792054724.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__810",
-    "timestamp": 1792051130,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-MTN-NX1-Adreno__TM__810-1792051130.json"
   }
 ]
