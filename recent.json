@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792106724,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1792106724.json"
+  },
+  {
     "game": "PES_2016",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1792086623,
     "filename": "Sniper_Elite_3-HUAWEI-DBY-W09-Adreno__TM__650-1792086623.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1792079323,
-    "filename": "Red_Dead_Redemption_2-Xiaomi-2511FPC34G-Mali-G720_MC8-1792079323.json"
   }
 ]
