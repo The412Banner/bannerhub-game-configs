@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castlevania_Belmont_s_Curse",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1792072494,
+    "filename": "Castlevania_Belmont_s_Curse-LENOVO-TB322FC-Adreno__TM__830-1792072494.json"
+  },
+  {
     "game": "Arena_Breakout__Infinite",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1792039044,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-MTN-NX1-Adreno__TM__810-1792039044.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__810",
-    "timestamp": 1792037322,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-MTN-NX1-Adreno__TM__810-1792037322.json"
   }
 ]
