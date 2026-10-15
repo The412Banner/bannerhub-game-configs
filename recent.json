@@ -1,5 +1,12 @@
 [
   {
+    "game": "World_War_Z",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1792030570,
+    "filename": "World_War_Z-ayn-Odin3-Adreno__TM__830-1792030570.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "RMX3890",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1792006435,
     "filename": "BeamNG_drive-samsung-SM-S918B-Adreno__TM__740-1792006435.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792003490,
-    "filename": "Resident_Evil_3-AllCall-POWER_30_ULTRA-Mali-G52_MC2-1792003490.json"
   }
 ]
