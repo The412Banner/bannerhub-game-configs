@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "TB320FC",
+    "device": "Adreno__TM__730",
+    "timestamp": 1792103350,
+    "filename": "Red_Dead_Redemption_2-Lenovo-TB320FC-Adreno__TM__730-1792103350.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1792067788,
     "filename": "Need_for_Speed_9-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792067788.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "NX679J",
-    "device": "Adreno__TM__730",
-    "timestamp": 1792062444,
-    "filename": "Pro_Evolution_Soccer_2013-nubia-NX679J-Adreno__TM__730-1792062444.json"
   }
 ]
