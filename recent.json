@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man_Remastered",
+    "manufacturer": "TB320FC",
+    "device": "Adreno__TM__730",
+    "timestamp": 1792103364,
+    "filename": "Marvel_s_Spider-Man_Remastered-Lenovo-TB320FC-Adreno__TM__730-1792103364.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "TB320FC",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1792072494,
     "filename": "Castlevania_Belmont_s_Curse-LENOVO-TB322FC-Adreno__TM__830-1792072494.json"
-  },
-  {
-    "game": "Arena_Breakout__Infinite",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792067837,
-    "filename": "Arena_Breakout__Infinite-INFINIX-Infinix_X6858-Mali-G57_MC2-1792067837.json"
   }
 ]
