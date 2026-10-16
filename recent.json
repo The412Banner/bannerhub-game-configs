@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792185372,
+    "filename": "God_of_War-samsung-SM-A156M-Mali-G57_MC2-1792185372.json"
+  },
+  {
     "game": "valorant",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1792160673,
     "filename": "Crypt_Custodian-ayn-Odin3-Adreno__TM__830-1792160673.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792160491,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1792160491.json"
   }
 ]
