@@ -1,5 +1,12 @@
 [
   {
+    "game": "Halo_2_Project_Cartographer",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1792122004,
+    "filename": "Halo_2_Project_Cartographer-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1792122004.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1792098774,
     "filename": "unins000-Xiaomi-2511FPC34G-Mali-G720_MC8-1792098774.json"
-  },
-  {
-    "game": "DARK_SOULS__III",
-    "manufacturer": "TB323FU",
-    "device": "Adreno__TM__840",
-    "timestamp": 1792097059,
-    "filename": "DARK_SOULS__III-LENOVO-TB323FU-Adreno__TM__840-1792097059.json"
   }
 ]
