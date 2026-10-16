@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792143493,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1792143493.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G52",
     "timestamp": 1792141623,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2004J19C-Mali-G52-1792141623.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1792103364,
     "filename": "Marvel_s_Spider-Man_Remastered-Lenovo-TB320FC-Adreno__TM__730-1792103364.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "TB320FC",
-    "device": "Adreno__TM__730",
-    "timestamp": 1792103358,
-    "filename": "God_of_War-Lenovo-TB320FC-Adreno__TM__730-1792103358.json"
   }
 ]
