@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792120268,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201117SL-Mali-G57_MC2-1792120268.json"
+  },
+  {
     "game": "DRAGON_BALL_Sparking__ZERO",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1792097059,
     "filename": "DARK_SOULS__III-LENOVO-TB323FU-Adreno__TM__840-1792097059.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792093772,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_KI7-Mali-G52_MC2-1792093772.json"
   }
 ]
