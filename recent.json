@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Final_Station",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792118574,
+    "filename": "The_Final_Station-Xiaomi-2212ARNC4L-Mali-G52_MC2-1792118574.json"
+  },
+  {
     "game": "Sonic_Mania",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1792088803,
     "filename": "Commandos_-_Beyond_the_Call_of_Duty_________________________-INFINIX-Infinix_X6873-Mali-G615_MC6-1792088803.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1792087444,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1792087444.json"
   }
 ]
