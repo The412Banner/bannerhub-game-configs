@@ -1,5 +1,12 @@
 [
   {
+    "game": "Disney_Dreamlight_Valley_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792177816,
+    "filename": "Disney_Dreamlight_Valley_-TECNO-TECNO_KL5-Mali-G52_MC2-1792177816.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1792143616,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2207117BPG-Mali-G76-1792143616.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792143493,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1792143493.json"
   }
 ]
