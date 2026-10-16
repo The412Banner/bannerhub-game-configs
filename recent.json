@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "TB322FC",
+    "device": "Adreno__TM__830",
+    "timestamp": 1792178576,
+    "filename": "Grand_Theft_Auto_V_Legacy-LENOVO-TB322FC-Adreno__TM__830-1792178576.json"
+  },
+  {
     "game": "Disney_Dreamlight_Valley_",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1792148869,
     "filename": "Hole_Is_Mine-samsung-SM-S931B-Adreno__TM__830-1792148869.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1792143616,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2207117BPG-Mali-G76-1792143616.json"
   }
 ]
