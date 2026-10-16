@@ -3,6 +3,13 @@
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1792186067,
+    "filename": "God_of_War-samsung-SM-A156M-Mali-G57_MC2-1792186067.json"
+  },
+  {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1792185372,
     "filename": "God_of_War-samsung-SM-A156M-Mali-G57_MC2-1792185372.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792160770,
     "filename": "Assassin_s_Creed__Brotherhood-INFINIX-Infinix_X6728-Mali-G52_MC2-1792160770.json"
-  },
-  {
-    "game": "Crypt_Custodian",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1792160673,
-    "filename": "Crypt_Custodian-ayn-Odin3-Adreno__TM__830-1792160673.json"
   }
 ]
