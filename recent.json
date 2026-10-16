@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1792155961,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-INFINIX-Infinix_X6871-Mali-G610_MC6-1792155961.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2014",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792106839,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2591-Mali-G52_MC2-1792106839.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792106724,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1792106724.json"
   }
 ]
