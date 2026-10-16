@@ -1,5 +1,12 @@
 [
   {
+    "game": "RiotClient",
+    "manufacturer": "G720",
+    "device": "Immortalis_MC12",
+    "timestamp": 1792189500,
+    "filename": "RiotClient-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1792189500.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2012",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792165364,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2409BRN2CA-Mali-G52_MC2-1792165364.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "2109119DG",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1792164849,
-    "filename": "Far_Cry_3-Xiaomi-2109119DG-Adreno__TM__642L-1792164849.json"
   }
 ]
