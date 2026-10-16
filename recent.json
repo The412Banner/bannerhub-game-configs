@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "2109119DG",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1792164849,
+    "filename": "Far_Cry_3-Xiaomi-2109119DG-Adreno__TM__642L-1792164849.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1792129301,
     "filename": "PlayGTAV-HONOR-ELI-NX9-Adreno__TM__720-1792129301.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1792126670,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1792126670.json"
   }
 ]
