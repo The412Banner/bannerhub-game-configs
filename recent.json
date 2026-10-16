@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A376B",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1792194981,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A376B-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1792194981.json"
+  },
+  {
     "game": "American_Truck_Simulator",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1792178576,
     "filename": "Grand_Theft_Auto_V_Legacy-LENOVO-TB322FC-Adreno__TM__830-1792178576.json"
-  },
-  {
-    "game": "Disney_Dreamlight_Valley_",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792177816,
-    "filename": "Disney_Dreamlight_Valley_-TECNO-TECNO_KL5-Mali-G52_MC2-1792177816.json"
   }
 ]
