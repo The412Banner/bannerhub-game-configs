@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "motorola_edge_20_pro",
+    "device": "Adreno__TM__650",
+    "timestamp": 1792149488,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-motorola_edge_20_pro-Adreno__TM__650-1792149488.json"
+  },
+  {
     "game": "Hole_Is_Mine",
     "manufacturer": "S931B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792105154,
     "filename": "PES_2016-Xiaomi-23053RN02A-Mali-G52_MC2-1792105154.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1792104082,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1792104082.json"
   }
 ]
