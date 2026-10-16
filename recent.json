@@ -1,5 +1,12 @@
 [
   {
+    "game": "Launcher",
+    "manufacturer": "vivo_1918",
+    "device": "Adreno__TM__616",
+    "timestamp": 1792194333,
+    "filename": "Launcher-vivo-vivo_1918-Adreno__TM__616-1792194333.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1792173712,
     "filename": "PlayGTAV-Xiaomi-2511FPC34G-Mali-G720_MC8-1792173712.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792172793,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6886-Mali-G57_MC2-1792172793.json"
   }
 ]
