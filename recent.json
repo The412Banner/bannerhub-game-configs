@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1792173712,
+    "filename": "PlayGTAV-Xiaomi-2511FPC34G-Mali-G720_MC8-1792173712.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792143493,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1792143493.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1792141623,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2004J19C-Mali-G52-1792141623.json"
   }
 ]
