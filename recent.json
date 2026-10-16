@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1792194394,
+    "filename": "American_Truck_Simulator-Positivo-Vaio_TL10-Mali-G57-1792194394.json"
+  },
+  {
     "game": "Launcher",
     "manufacturer": "vivo_1918",
     "device": "Adreno__TM__616",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792177816,
     "filename": "Disney_Dreamlight_Valley_-TECNO-TECNO_KL5-Mali-G52_MC2-1792177816.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1792173712,
-    "filename": "PlayGTAV-Xiaomi-2511FPC34G-Mali-G720_MC8-1792173712.json"
   }
 ]
