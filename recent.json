@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1792143616,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2207117BPG-Mali-G76-1792143616.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1792103372,
     "filename": "Days_Gone-Lenovo-TB320FC-Adreno__TM__730-1792103372.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man_Remastered",
-    "manufacturer": "TB320FC",
-    "device": "Adreno__TM__730",
-    "timestamp": 1792103364,
-    "filename": "Marvel_s_Spider-Man_Remastered-Lenovo-TB320FC-Adreno__TM__730-1792103364.json"
   }
 ]
