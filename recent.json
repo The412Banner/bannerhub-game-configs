@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1792262556,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1792262556.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1792246484,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2207117BPG-Mali-G76-1792246484.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__750",
-    "timestamp": 1792246059,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-DNP-NX9-Adreno__TM__750-1792246059.json"
   }
 ]
