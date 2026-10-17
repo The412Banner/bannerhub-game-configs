@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792261816,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A175F-Mali-G57_MC2-1792261816.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G615_MC2",
     "timestamp": 1792261235,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_neo-Mali-G615_MC2-1792261235.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1792246059,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-DNP-NX9-Adreno__TM__750-1792246059.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__750",
-    "timestamp": 1792246025,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-DNP-NX9-Adreno__TM__750-1792246025.json"
   }
 ]
