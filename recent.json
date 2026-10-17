@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1792211511,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3930-Mali-G57-1792211511.json"
+  },
+  {
     "game": "Cyberpunk_2077",
     "manufacturer": "I2401",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792185372,
     "filename": "God_of_War-samsung-SM-A156M-Mali-G57_MC2-1792185372.json"
-  },
-  {
-    "game": "valorant",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1792184867,
-    "filename": "valorant-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1792184867.json"
   }
 ]
