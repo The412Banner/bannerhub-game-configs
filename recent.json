@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1792279110,
+    "filename": "God_of_War-Xiaomi-2311DRK48G-Mali-G615_MC6-1792279110.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792256760,
     "filename": "Into_the_Dead__Our_Darkest_Days-realme-RMX3710-Mali-G52_MC2-1792256760.json"
-  },
-  {
-    "game": "Microsoft_R__DirectX_for_Windows_R_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792256491,
-    "filename": "Microsoft_R__DirectX_for_Windows_R_-Xiaomi-2502FRA65G-Mali-G57_MC2-1792256491.json"
   }
 ]
