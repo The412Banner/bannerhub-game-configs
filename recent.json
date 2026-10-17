@@ -1,5 +1,12 @@
 [
   {
+    "game": "Granny_-_Recaptured",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792242357,
+    "filename": "Granny_-_Recaptured-TECNO-TECNO_KL7-Mali-G57_MC2-1792242357.json"
+  },
+  {
     "game": "5_________________4_______",
     "manufacturer": "CPH1931",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1792228769,
     "filename": "Mafia-HONOR-MBH-N49-Adreno__TM__830-1792228769.json"
-  },
-  {
-    "game": "God_of_War_Ragnar_k",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1792227131,
-    "filename": "God_of_War_Ragnar_k-TECNO-TECNO_CM7-Mali-G615_MC2-1792227131.json"
   }
 ]
