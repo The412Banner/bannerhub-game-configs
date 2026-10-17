@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX9",
     "device": "Adreno__TM__750",
+    "timestamp": 1792246059,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-DNP-NX9-Adreno__TM__750-1792246059.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX9",
+    "device": "Adreno__TM__750",
     "timestamp": 1792246025,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-DNP-NX9-Adreno__TM__750-1792246025.json"
   },
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1792232531,
     "filename": "mywintercar-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1792232531.json"
-  },
-  {
-    "game": "TOEM_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1792231723,
-    "filename": "TOEM_2-Anbernic-RG_406H-Mali-G57-1792231723.json"
   }
 ]
