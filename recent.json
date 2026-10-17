@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792277873,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-E426B-Mali-G57_MC2-1792277873.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792256491,
     "filename": "Microsoft_R__DirectX_for_Windows_R_-Xiaomi-2502FRA65G-Mali-G57_MC2-1792256491.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "2405CRPFDG",
-    "device": "Adreno__TM__710",
-    "timestamp": 1792256074,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2405CRPFDG-Adreno__TM__710-1792256074.json"
   }
 ]
