@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "2405CRPFDG",
+    "device": "Adreno__TM__710",
+    "timestamp": 1792256074,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2405CRPFDG-Adreno__TM__710-1792256074.json"
+  },
+  {
     "game": "Dying_Light__The_Beast",
     "manufacturer": "CPH2841",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1792238135,
     "filename": "5_________________5_________Demo-OPPO-CPH1931-Adreno__TM__610-1792238135.json"
-  },
-  {
-    "game": "Resident_Evil_2__R_P_D__Demo_",
-    "manufacturer": "2209116AG",
-    "device": "Adreno__TM__618",
-    "timestamp": 1792236832,
-    "filename": "Resident_Evil_2__R_P_D__Demo_-Xiaomi-2209116AG-Adreno__TM__618-1792236832.json"
   }
 ]
