@@ -1,5 +1,12 @@
 [
   {
+    "game": "Subsistence",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792205756,
+    "filename": "Subsistence-Xiaomi-24116RACCG-Mali-G57_MC2-1792205756.json"
+  },
+  {
     "game": "LEGO__Marvel__Super_Heroes",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1792179194,
     "filename": "Ultra_Street_Fighter__IV-AYN-AYN_Thor-Adreno__TM__740-1792179194.json"
-  },
-  {
-    "game": "Plutonium_Launcher",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1792179187,
-    "filename": "Plutonium_Launcher-AYN-AYN_Thor-Adreno__TM__740-1792179187.json"
   }
 ]
