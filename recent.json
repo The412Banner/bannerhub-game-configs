@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792222610,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1792222610.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1792190560,
     "filename": "Pro_Evolution_Soccer_2017-Xiaomi-23043RP34G-Adreno__TM__650-1792190560.json"
-  },
-  {
-    "game": "valorant",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1792190267,
-    "filename": "valorant-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1792190267.json"
   }
 ]
