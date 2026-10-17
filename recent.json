@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792261211,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g06-Mali-G52_MC2-1792261211.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
     "timestamp": 1792245222,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A576B-ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_-1792245222.json"
-  },
-  {
-    "game": "Granny_-_Recaptured",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792242357,
-    "filename": "Granny_-_Recaptured-TECNO-TECNO_KL7-Mali-G57_MC2-1792242357.json"
   }
 ]
