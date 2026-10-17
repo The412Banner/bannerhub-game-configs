@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1792279562,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A047M-Mali-G52-1792279562.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1792259382,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-24018RPACG-Adreno__TM__740-1792259382.json"
-  },
-  {
-    "game": "Into_the_Dead__Our_Darkest_Days",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792256760,
-    "filename": "Into_the_Dead__Our_Darkest_Days-realme-RMX3710-Mali-G52_MC2-1792256760.json"
   }
 ]
