@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1792273321,
+    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-A346B-Mali-G68_MC4-1792273321.json"
+  },
+  {
     "game": "Mortal_Kombat_Komplete_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G610_MC4",
     "timestamp": 1792252570,
     "filename": "Mount___Blade__Warband-Xiaomi-23090RA98I-Mali-G610_MC4-1792252570.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792252368,
-    "filename": "Resident_Evil_5-INFINIX-Infinix_X6837-Mali-G57_MC2-1792252368.json"
   }
 ]
