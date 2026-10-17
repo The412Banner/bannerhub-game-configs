@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dying_Light__The_Beast",
+    "manufacturer": "CPH2841",
+    "device": "Adreno__TM__840",
+    "timestamp": 1792274732,
+    "filename": "Dying_Light__The_Beast-OPPO-CPH2841-Adreno__TM__840-1792274732.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1792255909,
     "filename": "Dying_Light__The_Beast-OPPO-CPH2841-Adreno__TM__840-1792255909.json"
-  },
-  {
-    "game": "MiSide",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792253676,
-    "filename": "MiSide-INFINIX-Infinix_X6853-Mali-G57_MC2-1792253676.json"
   }
 ]
