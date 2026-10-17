@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_3__Wild_Hunt",
+    "manufacturer": "N950U",
+    "device": "Adreno__TM__540",
+    "timestamp": 1792253333,
+    "filename": "The_Witcher_3__Wild_Hunt-samsung-SM-N950U-Adreno__TM__540-1792253333.json"
+  },
+  {
     "game": "Mount___Blade__Warband",
     "manufacturer": "Mali",
     "device": "G610_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1792235600,
     "filename": "Tomb_Raider-HONOR-HEY2-N09-Adreno__TM__710-1792235600.json"
-  },
-  {
-    "game": "WalkingDead100",
-    "manufacturer": "N09",
-    "device": "Adreno__TM__710",
-    "timestamp": 1792235496,
-    "filename": "WalkingDead100-HONOR-HEY2-N09-Adreno__TM__710-1792235496.json"
   }
 ]
