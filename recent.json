@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792253676,
+    "filename": "MiSide-INFINIX-Infinix_X6853-Mali-G57_MC2-1792253676.json"
+  },
+  {
     "game": "The_Witcher_3__Wild_Hunt",
     "manufacturer": "N950U",
     "device": "Adreno__TM__540",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1792236516,
     "filename": "PPSSPP-HONOR-NTN-L22-Adreno__TM__610-1792236516.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "N09",
-    "device": "Adreno__TM__710",
-    "timestamp": 1792235600,
-    "filename": "Tomb_Raider-HONOR-HEY2-N09-Adreno__TM__710-1792235600.json"
   }
 ]
