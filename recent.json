@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1792246484,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2207117BPG-Mali-G76-1792246484.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX9",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1792234560,
     "filename": "God_of_War-Xiaomi-2201116PG-Adreno__TM__619-1792234560.json"
-  },
-  {
-    "game": "mywintercar",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1792232531,
-    "filename": "mywintercar-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1792232531.json"
   }
 ]
