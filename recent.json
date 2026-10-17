@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1792208489,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-TECNO-TECNO_CN7c-Mali-G615_MC2-1792208489.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1792184834,
     "filename": "valorant-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1792184834.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G781B",
-    "device": "Adreno__TM__650",
-    "timestamp": 1792184004,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G781B-Adreno__TM__650-1792184004.json"
   }
 ]
