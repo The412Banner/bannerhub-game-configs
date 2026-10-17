@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792274370,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2404ARN45A-Mali-G52_MC2-1792274370.json"
+  },
+  {
     "game": "BeamNG_drive",
     "manufacturer": "S908E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792253676,
     "filename": "MiSide-INFINIX-Infinix_X6853-Mali-G57_MC2-1792253676.json"
-  },
-  {
-    "game": "The_Witcher_3__Wild_Hunt",
-    "manufacturer": "N950U",
-    "device": "Adreno__TM__540",
-    "timestamp": 1792253333,
-    "filename": "The_Witcher_3__Wild_Hunt-samsung-SM-N950U-Adreno__TM__540-1792253333.json"
   }
 ]
