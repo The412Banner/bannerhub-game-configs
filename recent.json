@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cyberpunk_2077",
+    "manufacturer": "I2401",
+    "device": "Adreno__TM__830",
+    "timestamp": 1792210503,
+    "filename": "Cyberpunk_2077-vivo-I2401-Adreno__TM__830-1792210503.json"
+  },
+  {
     "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1792184867,
     "filename": "valorant-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1792184867.json"
-  },
-  {
-    "game": "valorant",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1792184834,
-    "filename": "valorant-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1792184834.json"
   }
 ]
