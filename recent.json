@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Marvel__Super_Heroes",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792205614,
+    "filename": "LEGO__Marvel__Super_Heroes-ITEL-itel_S666LN-Mali-G57_MC2-1792205614.json"
+  },
+  {
     "game": "SPEED2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1792179187,
     "filename": "Plutonium_Launcher-AYN-AYN_Thor-Adreno__TM__740-1792179187.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1792179183,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-AYN-AYN_Thor-Adreno__TM__740-1792179183.json"
   }
 ]
