@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "2201116PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1792234560,
+    "filename": "God_of_War-Xiaomi-2201116PG-Adreno__TM__619-1792234560.json"
+  },
+  {
     "game": "mywintercar",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1792212878,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A366E-Adreno__TM__710-1792212878.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1792211511,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3930-Mali-G57-1792211511.json"
   }
 ]
