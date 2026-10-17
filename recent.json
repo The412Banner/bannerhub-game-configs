@@ -1,5 +1,12 @@
 [
   {
+    "game": "poppy_playtime_chapter_5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792259752,
+    "filename": "poppy_playtime_chapter_5-samsung-SM-X133-Mali-G57_MC2-1792259752.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "24018RPACG",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1792240754,
     "filename": "5_________________4_______-OPPO-CPH1931-Adreno__TM__610-1792240754.json"
-  },
-  {
-    "game": "DmC__Devil_May_Cry",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792239794,
-    "filename": "DmC__Devil_May_Cry-Xiaomi-25078RA3EY-Mali-G52_MC2-1792239794.json"
   }
 ]
