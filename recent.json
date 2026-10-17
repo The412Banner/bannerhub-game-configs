@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX9",
+    "device": "Adreno__TM__750",
+    "timestamp": 1792246025,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-DNP-NX9-Adreno__TM__750-1792246025.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A576B",
     "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1792231723,
     "filename": "TOEM_2-Anbernic-RG_406H-Mali-G57-1792231723.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1792230054,
-    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2717-Mali-G615_MC6-1792230054.json"
   }
 ]
