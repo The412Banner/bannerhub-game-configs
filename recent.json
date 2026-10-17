@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1792230054,
+    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2717-Mali-G615_MC6-1792230054.json"
+  },
+  {
     "game": "Mafia",
     "manufacturer": "N49",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1792208489,
     "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-TECNO-TECNO_CN7c-Mali-G615_MC2-1792208489.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792208458,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A175F-Mali-G57_MC2-1792208458.json"
   }
 ]
