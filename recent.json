@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1792260086,
+    "filename": "Mortal_Kombat_X-Xiaomi-2510DPC44G-Adreno__TM__830-1792260086.json"
+  },
+  {
     "game": "poppy_playtime_chapter_5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792242357,
     "filename": "Granny_-_Recaptured-TECNO-TECNO_KL7-Mali-G57_MC2-1792242357.json"
-  },
-  {
-    "game": "5_________________4_______",
-    "manufacturer": "CPH1931",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792240754,
-    "filename": "5_________________4_______-OPPO-CPH1931-Adreno__TM__610-1792240754.json"
   }
 ]
