@@ -1,5 +1,12 @@
 [
   {
+    "game": "mywintercar",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1792232531,
+    "filename": "mywintercar-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1792232531.json"
+  },
+  {
     "game": "TOEM_2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1792211511,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3930-Mali-G57-1792211511.json"
-  },
-  {
-    "game": "Cyberpunk_2077",
-    "manufacturer": "I2401",
-    "device": "Adreno__TM__830",
-    "timestamp": 1792210503,
-    "filename": "Cyberpunk_2077-vivo-I2401-Adreno__TM__830-1792210503.json"
   }
 ]
