@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_R__DirectX_for_Windows_R_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792263709,
+    "filename": "Microsoft_R__DirectX_for_Windows_R_-samsung-SM-A155F-Mali-G57_MC2-1792263709.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792246649,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CK7n-Mali-G57_MC2-1792246649.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1792246484,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2207117BPG-Mali-G76-1792246484.json"
   }
 ]
