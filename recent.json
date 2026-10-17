@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2__R_P_D__Demo_",
+    "manufacturer": "2209116AG",
+    "device": "Adreno__TM__618",
+    "timestamp": 1792236832,
+    "filename": "Resident_Evil_2__R_P_D__Demo_-Xiaomi-2209116AG-Adreno__TM__618-1792236832.json"
+  },
+  {
     "game": "PPSSPP",
     "manufacturer": "L22",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792224258,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1792224258.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792222616,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A075M-Mali-G57_MC2-1792222616.json"
   }
 ]
