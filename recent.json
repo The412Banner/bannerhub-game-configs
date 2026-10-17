@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
+    "manufacturer": "CPH2473",
+    "device": "Adreno__TM__610",
+    "timestamp": 1792206500,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-OPPO-CPH2473-Adreno__TM__610-1792206500.json"
+  },
+  {
     "game": "Subsistence",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1792179200,
     "filename": "DARK_SOULS___REMASTERED-AYN-AYN_Thor-Adreno__TM__740-1792179200.json"
-  },
-  {
-    "game": "Ultra_Street_Fighter__IV",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1792179194,
-    "filename": "Ultra_Street_Fighter__IV-AYN-AYN_Thor-Adreno__TM__740-1792179194.json"
   }
 ]
