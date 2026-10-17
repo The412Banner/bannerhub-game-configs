@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia",
+    "manufacturer": "N49",
+    "device": "Adreno__TM__830",
+    "timestamp": 1792228769,
+    "filename": "Mafia-HONOR-MBH-N49-Adreno__TM__830-1792228769.json"
+  },
+  {
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792208458,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A175F-Mali-G57_MC2-1792208458.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "CPH2473",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792206500,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-OPPO-CPH2473-Adreno__TM__610-1792206500.json"
   }
 ]
