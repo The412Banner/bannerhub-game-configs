@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1792221280,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1792221280.json"
+  },
+  {
     "game": "Another_Crab_s_Treasure",
     "manufacturer": "Infinix_X6878",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1792189500,
     "filename": "RiotClient-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1792189500.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2012",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1792188281,
-    "filename": "Pro_Evolution_Soccer_2012-Xiaomi-23043RP34G-Adreno__TM__650-1792188281.json"
   }
 ]
