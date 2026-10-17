@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792221931,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_CM5-Mali-G57_MC2-1792221931.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g22",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1792190267,
     "filename": "valorant-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1792190267.json"
-  },
-  {
-    "game": "RiotClient",
-    "manufacturer": "G720",
-    "device": "Immortalis_MC12",
-    "timestamp": 1792189500,
-    "filename": "RiotClient-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1792189500.json"
   }
 ]
