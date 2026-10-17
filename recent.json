@@ -1,5 +1,12 @@
 [
   {
+    "game": "TOEM_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1792231723,
+    "filename": "TOEM_2-Anbernic-RG_406H-Mali-G57-1792231723.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1792210503,
     "filename": "Cyberpunk_2077-vivo-I2401-Adreno__TM__830-1792210503.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1792208489,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-TECNO-TECNO_CN7c-Mali-G615_MC2-1792208489.json"
   }
 ]
