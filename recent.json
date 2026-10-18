@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792335176,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6882-Mali-G57_MC2-1792335176.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1792335164,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-T1001-Mali-G52_MC2-1792335164.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1792305888,
     "filename": "EA_Uninstall-Xiaomi-23013PC75G-Adreno__TM__730-1792305888.json"
-  },
-  {
-    "game": "Stray",
-    "manufacturer": "Mali",
-    "device": "G610_MC4",
-    "timestamp": 1792302127,
-    "filename": "Stray-Nothing-A142-Mali-G610_MC4-1792302127.json"
   }
 ]
