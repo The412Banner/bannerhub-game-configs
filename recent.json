@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "NX769J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1792326384,
+    "filename": "Pro_Evolution_Soccer_2017-nubia-NX769J-Adreno__TM__750-1792326384.json"
+  },
+  {
     "game": "FIFA_14_ModdingWay_Mod_Selector",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1792292128,
     "filename": "God_of_War-Xiaomi-23129RA5FL-Adreno__TM__610-1792292128.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792291916,
-    "filename": "God_of_War-Xiaomi-23129RA5FL-Adreno__TM__610-1792291916.json"
   }
 ]
