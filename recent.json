@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1792293943,
+    "filename": "PlayGTAV-Xiaomi-23129RAA4G-Adreno__TM__610-1792293943.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792269627,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25078PC3EG-Mali-G52_MC2-1792269627.json"
-  },
-  {
-    "game": "Dying_Light__The_Beast",
-    "manufacturer": "CPH2841",
-    "device": "Adreno__TM__840",
-    "timestamp": 1792266609,
-    "filename": "Dying_Light__The_Beast-OPPO-CPH2841-Adreno__TM__840-1792266609.json"
   }
 ]
