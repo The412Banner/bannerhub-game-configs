@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_7_Biohazard",
+    "manufacturer": "V2520A",
+    "device": "Adreno__TM__830",
+    "timestamp": 1792351621,
+    "filename": "Resident_Evil_7_Biohazard-vivo-V2520A-Adreno__TM__830-1792351621.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1792333251,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-24095PCADG-Mali-G615_MC2-1792333251.json"
-  },
-  {
-    "game": "IGI2_Covert_Strike",
-    "manufacturer": "CPH2641",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792332683,
-    "filename": "IGI2_Covert_Strike-OPPO-CPH2641-Adreno__TM__610-1792332683.json"
   }
 ]
