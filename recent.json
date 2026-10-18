@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1792308377,
+    "filename": "Resident_Evil_5-motorola-moto_g45_5G-Adreno__TM__619-1792308377.json"
+  },
+  {
     "game": "EA_Uninstall",
     "manufacturer": "23013PC75G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1792273682,
     "filename": "BeamNG_drive-samsung-SM-S908E-Adreno__TM__730-1792273682.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1792273321,
-    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-A346B-Mali-G68_MC4-1792273321.json"
   }
 ]
