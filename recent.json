@@ -1,5 +1,12 @@
 [
   {
+    "game": "Clive_Barker_s_Hellraiser__Revival_Demo",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1792364571,
+    "filename": "Clive_Barker_s_Hellraiser__Revival_Demo-Xiaomi-23122PCD1G-Adreno__TM__710-1792364571.json"
+  },
+  {
     "game": "Fable_Anniversary",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792348830,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1792348830.json"
-  },
-  {
-    "game": "BWASetup",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792348244,
-    "filename": "BWASetup-TECNO-TECNO_CN5-Mali-G57_MC2-1792348244.json"
   }
 ]
