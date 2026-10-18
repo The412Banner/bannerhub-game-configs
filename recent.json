@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792335164,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-T1001-Mali-G52_MC2-1792335164.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC4",
     "timestamp": 1792302127,
     "filename": "Stray-Nothing-A142-Mali-G610_MC4-1792302127.json"
-  },
-  {
-    "game": "iw3mp",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1792297599,
-    "filename": "iw3mp-HONOR-ABR-NX1-PowerVR_B-Series_BXM-8-256-1792297599.json"
   }
 ]
