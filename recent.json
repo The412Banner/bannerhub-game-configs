@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stray",
+    "manufacturer": "Mali",
+    "device": "G610_MC4",
+    "timestamp": 1792302127,
+    "filename": "Stray-Nothing-A142-Mali-G610_MC4-1792302127.json"
+  },
+  {
     "game": "iw3mp",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1792271723,
     "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1792271723.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2653",
-    "device": "Adreno__TM__830",
-    "timestamp": 1792271529,
-    "filename": "Grand_Theft_Auto_V_Legacy-OnePlus-CPH2653-Adreno__TM__830-1792271529.json"
   }
 ]
