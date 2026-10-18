@@ -1,5 +1,12 @@
 [
   {
+    "game": "Vampire__Bloodlines_________________________________________",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1792355198,
+    "filename": "Vampire__Bloodlines_________________________________________-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1792355198.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2405CRPFDG",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792335176,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6882-Mali-G57_MC2-1792335176.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792335164,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-T1001-Mali-G52_MC2-1792335164.json"
   }
 ]
