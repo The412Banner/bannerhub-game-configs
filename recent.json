@@ -1,5 +1,12 @@
 [
   {
+    "game": "GuildLifeTap_",
+    "manufacturer": "V2464A",
+    "device": "Adreno__TM__722",
+    "timestamp": 1792349121,
+    "filename": "GuildLifeTap_-vivo-V2464A-Adreno__TM__722-1792349121.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1792325440,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23073RPBFG-Adreno__TM__610-1792325440.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "23073RPBFG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792325437,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23073RPBFG-Adreno__TM__610-1792325437.json"
   }
 ]
