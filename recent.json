@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_Uninstall",
+    "manufacturer": "23013PC75G",
+    "device": "Adreno__TM__730",
+    "timestamp": 1792305888,
+    "filename": "EA_Uninstall-Xiaomi-23013PC75G-Adreno__TM__730-1792305888.json"
+  },
+  {
     "game": "Stray",
     "manufacturer": "Mali",
     "device": "G610_MC4",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1792273321,
     "filename": "Pro_Evolution_Soccer_2017-samsung-SM-A346B-Mali-G68_MC4-1792273321.json"
-  },
-  {
-    "game": "Mortal_Kombat_Komplete_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1792271723,
-    "filename": "Mortal_Kombat_Komplete_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1792271723.json"
   }
 ]
