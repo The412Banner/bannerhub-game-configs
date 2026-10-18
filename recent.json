@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1792285106,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23021RAAEG-Adreno__TM__610-1792285106.json"
+  },
+  {
     "game": "The_Sims__4",
     "manufacturer": "X216B",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1792261235,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_neo-Mali-G615_MC2-1792261235.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792261211,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g06-Mali-G52_MC2-1792261211.json"
   }
 ]
