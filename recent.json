@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792293939,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76L-Mali-G57_MC2-1792293939.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1792266609,
     "filename": "Dying_Light__The_Beast-OPPO-CPH2841-Adreno__TM__840-1792266609.json"
-  },
-  {
-    "game": "Microsoft_R__DirectX_for_Windows_R_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792263709,
-    "filename": "Microsoft_R__DirectX_for_Windows_R_-samsung-SM-A155F-Mali-G57_MC2-1792263709.json"
   }
 ]
