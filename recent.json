@@ -3,6 +3,13 @@
     "game": "BWASetup",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1792348244,
+    "filename": "BWASetup-TECNO-TECNO_CN5-Mali-G57_MC2-1792348244.json"
+  },
+  {
+    "game": "BWASetup",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1792348235,
     "filename": "BWASetup-TECNO-TECNO_CN5-Mali-G57_MC2-1792348235.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1792318123,
     "filename": "Left_4_Dead_2-vivo-V2425A-Adreno__TM__750-1792318123.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792317135,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6885-Mali-G57_MC2-1792317135.json"
   }
 ]
