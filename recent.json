@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "V2425A",
+    "device": "Adreno__TM__750",
+    "timestamp": 1792318123,
+    "filename": "Left_4_Dead_2-vivo-V2425A-Adreno__TM__750-1792318123.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792281700,
     "filename": "Assassin_s_Creed__Brotherhood-INFINIX-Infinix_X6728-Mali-G52_MC2-1792281700.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1792279566,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A047M-Mali-G52-1792279566.json"
   }
 ]
