@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Sims__4",
+    "manufacturer": "X216B",
+    "device": "Adreno__TM__619",
+    "timestamp": 1792284900,
+    "filename": "The_Sims__4-samsung-SM-X216B-Adreno__TM__619-1792284900.json"
+  },
+  {
     "game": "Assassin_s_Creed__Brotherhood",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792261211,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g06-Mali-G52_MC2-1792261211.json"
-  },
-  {
-    "game": "Mortal_Kombat_X",
-    "manufacturer": "2510DPC44G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1792260086,
-    "filename": "Mortal_Kombat_X-Xiaomi-2510DPC44G-Adreno__TM__830-1792260086.json"
   }
 ]
