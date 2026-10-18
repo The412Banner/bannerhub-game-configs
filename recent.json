@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fable_Anniversary",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1792362298,
+    "filename": "Fable_Anniversary-Xiaomi-23049PCD8G-Adreno__TM__725-1792362298.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792348244,
     "filename": "BWASetup-TECNO-TECNO_CN5-Mali-G57_MC2-1792348244.json"
-  },
-  {
-    "game": "BWASetup",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792348235,
-    "filename": "BWASetup-TECNO-TECNO_CN5-Mali-G57_MC2-1792348235.json"
   }
 ]
