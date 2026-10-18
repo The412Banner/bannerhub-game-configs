@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1792333251,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-24095PCADG-Mali-G615_MC2-1792333251.json"
+  },
+  {
     "game": "IGI2_Covert_Strike",
     "manufacturer": "CPH2641",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1792297599,
     "filename": "iw3mp-HONOR-ABR-NX1-PowerVR_B-Series_BXM-8-256-1792297599.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "23129RAA4G",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792293943,
-    "filename": "PlayGTAV-Xiaomi-23129RAA4G-Adreno__TM__610-1792293943.json"
   }
 ]
