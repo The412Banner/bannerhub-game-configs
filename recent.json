@@ -3,6 +3,13 @@
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1792411870,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1792411870.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1792411845,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1792411845.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792388150,
     "filename": "Hollow_Knight__Silksong-Xiaomi-23100RN82L-Mali-G52_MC2-1792388150.json"
-  },
-  {
-    "game": "xenia_canary",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792383392,
-    "filename": "xenia_canary-TCL-9185W-Mali-G57_MC2-1792383392.json"
   }
 ]
