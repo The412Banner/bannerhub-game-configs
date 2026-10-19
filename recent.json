@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1792428009,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792428009.json"
+  },
+  {
     "game": "BeamNG_drive_______",
     "manufacturer": "RMX5566",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792400020,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2409BRN2CA-Mali-G52_MC2-1792400020.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792400011,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2409BRN2CA-Mali-G52_MC2-1792400011.json"
   }
 ]
