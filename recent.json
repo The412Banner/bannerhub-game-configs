@@ -1,5 +1,12 @@
 [
   {
+    "game": "Horizon_Zero_Dawn__Complete_Edition",
+    "manufacturer": "CPH2585",
+    "device": "Adreno__TM__740",
+    "timestamp": 1792401680,
+    "filename": "Horizon_Zero_Dawn__Complete_Edition-OnePlus-CPH2585-Adreno__TM__740-1792401680.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1792369930,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A376B-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1792369930.json"
-  },
-  {
-    "game": "Clive_Barker_s_Hellraiser__Revival_Demo",
-    "manufacturer": "23122PCD1G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1792364571,
-    "filename": "Clive_Barker_s_Hellraiser__Revival_Demo-Xiaomi-23122PCD1G-Adreno__TM__710-1792364571.json"
   }
 ]
