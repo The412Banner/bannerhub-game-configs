@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792403117,
+    "filename": "Euro_Truck_Simulator_2-INFINIX_MOBILITY_LIMITED-Infinix_X6812-Mali-G52_MC2-1792403117.json"
+  },
+  {
     "game": "iw3sp",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792379771,
     "filename": "Tomb_Raider-Xiaomi-23100RN82L-Mali-G52_MC2-1792379771.json"
-  },
-  {
-    "game": "FarmingSimulator2019Game",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792379345,
-    "filename": "FarmingSimulator2019Game-Xiaomi-2303ERA42L-Mali-G57_MC2-1792379345.json"
   }
 ]
