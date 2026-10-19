@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight__Silksong",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792388150,
+    "filename": "Hollow_Knight__Silksong-Xiaomi-23100RN82L-Mali-G52_MC2-1792388150.json"
+  },
+  {
     "game": "xenia_canary",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1792359659,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-OnePlus-CPH2747-Adreno__TM__840-1792359659.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792356114,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A065M-Mali-G52_MC2-1792356114.json"
   }
 ]
