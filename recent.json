@@ -1,5 +1,12 @@
 [
   {
+    "game": "PES2020",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792401778,
+    "filename": "PES2020-TECNO-TECNO_LI9-Mali-G57_MC2-1792401778.json"
+  },
+  {
     "game": "Horizon_Zero_Dawn__Complete_Edition",
     "manufacturer": "CPH2585",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1792377183,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2727-Adreno__TM__610-1792377183.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A376B",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1792369930,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A376B-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1792369930.json"
   }
 ]
