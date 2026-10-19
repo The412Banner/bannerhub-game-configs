@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1792419943,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792419943.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1792388262,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-M2012K11AG-Adreno__TM__650-1792388262.json"
-  },
-  {
-    "game": "Hollow_Knight__Silksong",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792388150,
-    "filename": "Hollow_Knight__Silksong-Xiaomi-23100RN82L-Mali-G52_MC2-1792388150.json"
   }
 ]
