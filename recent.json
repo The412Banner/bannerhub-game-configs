@@ -1,5 +1,12 @@
 [
   {
+    "game": "FarmingSimulator2019Game",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792379345,
+    "filename": "FarmingSimulator2019Game-Xiaomi-2303ERA42L-Mali-G57_MC2-1792379345.json"
+  },
+  {
     "game": "Resident_Evil_5_Game",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1792350709,
     "filename": "DRAGON_BALL_Sparking__ZERO-HONOR-DNP-NX9-Adreno__TM__750-1792350709.json"
-  },
-  {
-    "game": "DRAGON_BALL_Sparking__ZERO",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__750",
-    "timestamp": 1792350703,
-    "filename": "DRAGON_BALL_Sparking__ZERO-HONOR-DNP-NX9-Adreno__TM__750-1792350703.json"
   }
 ]
