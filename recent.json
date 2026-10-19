@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_19",
+    "manufacturer": "24115RA8EG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1792388498,
+    "filename": "FIFA_19-Xiaomi-24115RA8EG-Adreno__TM__810-1792388498.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1792359678,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-OnePlus-CPH2747-Adreno__TM__840-1792359678.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "CPH2747",
-    "device": "Adreno__TM__840",
-    "timestamp": 1792359673,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-OnePlus-CPH2747-Adreno__TM__840-1792359673.json"
   }
 ]
