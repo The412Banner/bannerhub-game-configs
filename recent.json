@@ -1,5 +1,12 @@
 [
   {
+    "game": "Burnout_Paradise__The_Ultimate_Box",
+    "manufacturer": "TECNO_T1102W",
+    "device": "Adreno__TM__610",
+    "timestamp": 1792439048,
+    "filename": "Burnout_Paradise__The_Ultimate_Box-TECNO-TECNO_T1102W-Adreno__TM__610-1792439048.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792411735,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1792411735.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792411728,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1792411728.json"
   }
 ]
