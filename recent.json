@@ -1,5 +1,12 @@
 [
   {
+    "game": "xenia_canary",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792383392,
+    "filename": "xenia_canary-TCL-9185W-Mali-G57_MC2-1792383392.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792356114,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A065M-Mali-G52_MC2-1792356114.json"
-  },
-  {
-    "game": "The_Amazing_Spider-Man__TM__Launcher",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1792355632,
-    "filename": "The_Amazing_Spider-Man__TM__Launcher-samsung-SM-A346E-Mali-G68_MC4-1792355632.json"
   }
 ]
