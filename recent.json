@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A376B",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1792369930,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A376B-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1792369930.json"
+  },
+  {
     "game": "Clive_Barker_s_Hellraiser__Revival_Demo",
     "manufacturer": "23122PCD1G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792348859,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1792348859.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792348830,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1792348830.json"
   }
 ]
