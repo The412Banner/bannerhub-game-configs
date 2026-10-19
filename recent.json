@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Infinix_X6878",
+    "device": "Adreno__TM__810",
+    "timestamp": 1792443856,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-INFINIX-Infinix_X6878-Adreno__TM__810-1792443856.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "S911U",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1792424633,
     "filename": "BeamNG_drive_______-realme-RMX5566-Adreno__TM__610-1792424633.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1792422828,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A536E-Mali-G68-1792422828.json"
   }
 ]
