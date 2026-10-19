@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_19",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792430146,
+    "filename": "FIFA_19-Xiaomi-2201117PG-Mali-G57_MC2-1792430146.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1792401680,
     "filename": "Horizon_Zero_Dawn__Complete_Edition-OnePlus-CPH2585-Adreno__TM__740-1792401680.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792400020,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-2409BRN2CA-Mali-G52_MC2-1792400020.json"
   }
 ]
