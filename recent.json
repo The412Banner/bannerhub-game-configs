@@ -3,6 +3,13 @@
     "game": "Prince_of_Persia_-_The_Forgotten_Sands",
     "manufacturer": "Mali",
     "device": "G68_MC4",
+    "timestamp": 1792431964,
+    "filename": "Prince_of_Persia_-_The_Forgotten_Sands-HOTWAV-Hyper_7-Mali-G68_MC4-1792431964.json"
+  },
+  {
+    "game": "Prince_of_Persia_-_The_Forgotten_Sands",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
     "timestamp": 1792431937,
     "filename": "Prince_of_Persia_-_The_Forgotten_Sands-HOTWAV-Hyper_7-Mali-G68_MC4-1792431937.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1792402466,
     "filename": "OpenIV-Xiaomi-24117RK2CG-Adreno__TM__750-1792402466.json"
-  },
-  {
-    "game": "PES2020",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792401778,
-    "filename": "PES2020-TECNO-TECNO_LI9-Mali-G57_MC2-1792401778.json"
   }
 ]
