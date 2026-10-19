@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5_Game",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792377662,
+    "filename": "Resident_Evil_5_Game-INFINIX-Infinix_X678B-Mali-G57_MC2-1792377662.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2727",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1792350703,
     "filename": "DRAGON_BALL_Sparking__ZERO-HONOR-DNP-NX9-Adreno__TM__750-1792350703.json"
-  },
-  {
-    "game": "GuildLifeTap_",
-    "manufacturer": "V2464A",
-    "device": "Adreno__TM__722",
-    "timestamp": 1792349121,
-    "filename": "GuildLifeTap_-vivo-V2464A-Adreno__TM__722-1792349121.json"
   }
 ]
