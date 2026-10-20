@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS___REMASTERED",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1792538377,
+    "filename": "DARK_SOULS___REMASTERED-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792538377.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1792503269,
     "filename": "Prince_of_Persia_-_The_Forgotten_Sands-HOTWAV-Hyper_7-Mali-G68_MC4-1792503269.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792329243,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2310FPCA4G-Mali-G52_MC2-1792329243.json"
   }
 ]
