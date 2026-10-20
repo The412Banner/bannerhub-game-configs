@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "NP06J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1792510179,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-nubia-NP06J-Adreno__TM__840-1792510179.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1792487752,
     "filename": "iw3mp-HONOR-ABR-NX1-PowerVR_B-Series_BXM-8-256-1792487752.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792485994,
-    "filename": "BootstrapPackagedGame-Xiaomi-25078RA3EL-Mali-G52_MC2-1792485994.json"
   }
 ]
