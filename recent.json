@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792329243,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2310FPCA4G-Mali-G52_MC2-1792329243.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1792500467,
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
     "timestamp": 1792468479,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A576B-ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_-1792468479.json"
-  },
-  {
-    "game": "sh4check",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792463939,
-    "filename": "sh4check-TCL-9185W-Mali-G57_MC2-1792463939.json"
   }
 ]
