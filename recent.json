@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1792527909,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792527909.json"
+  },
+  {
     "game": "KAHRETS_N",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792495478,
     "filename": "Granny_2_Enhanced-Xiaomi-22095RA98C-Mali-G57_MC2-1792495478.json"
-  },
-  {
-    "game": "Granny_2_Enhanced",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792495464,
-    "filename": "Granny_2_Enhanced-Xiaomi-22095RA98C-Mali-G57_MC2-1792495464.json"
   }
 ]
