@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_19",
+    "manufacturer": "G720",
+    "device": "Immortalis_MC12",
+    "timestamp": 1792514716,
+    "filename": "FIFA_19-Xiaomi-2407FPN8EG-Mali-G720-Immortalis_MC12-1792514716.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1792493313,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792493313.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1792491134,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-BRP-NX1-Adreno__TM__710-1792491134.json"
   }
 ]
