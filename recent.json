@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1792478354,
+    "filename": "DRAGON_BALL_FighterZ-Xiaomi-24090RA29G-Mali-G615_MC2-1792478354.json"
+  },
+  {
     "game": "Sniper_Ghost_Warrior_2",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1792440573,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1792440573.json"
-  },
-  {
-    "game": "Burnout_Paradise__The_Ultimate_Box",
-    "manufacturer": "TECNO_T1102W",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792439048,
-    "filename": "Burnout_Paradise__The_Ultimate_Box-TECNO-TECNO_T1102W-Adreno__TM__610-1792439048.json"
   }
 ]
