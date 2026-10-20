@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A576B",
+    "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
+    "timestamp": 1792468479,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A576B-ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_-1792468479.json"
+  },
+  {
     "game": "sh4check",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1792437343,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1792437343.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "T720",
-    "timestamp": 1792436926,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-alps-E15-Mali-T720-1792436926.json"
   }
 ]
