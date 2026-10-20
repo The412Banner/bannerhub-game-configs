@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1792478547,
+    "filename": "DRAGON_BALL_FighterZ-Xiaomi-24090RA29G-Mali-G615_MC2-1792478547.json"
+  },
+  {
     "game": "Super_Mario_64_Plus",
     "manufacturer": "TB322FC",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792440604,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A226B-Mali-G57_MC2-1792440604.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A556E",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1792440592,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1792440592.json"
   }
 ]
