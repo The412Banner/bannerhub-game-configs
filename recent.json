@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792509819,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1792509819.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1792506822,
     "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2591-Mali-G52_MC2-1792506822.json"
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792485994,
     "filename": "BootstrapPackagedGame-Xiaomi-25078RA3EL-Mali-G52_MC2-1792485994.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1792478547,
-    "filename": "DRAGON_BALL_FighterZ-Xiaomi-24090RA29G-Mali-G615_MC2-1792478547.json"
   }
 ]
