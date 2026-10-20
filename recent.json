@@ -1,5 +1,12 @@
 [
   {
+    "game": "ONE_PIECE_Bounty_Rush",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1792461844,
+    "filename": "ONE_PIECE_Bounty_Rush-INFINIX-Infinix_X6871-Mali-G610_MC6-1792461844.json"
+  },
+  {
     "game": "Lethal_Company",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1792434681,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1792434681.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1792434041,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1792434041.json"
   }
 ]
