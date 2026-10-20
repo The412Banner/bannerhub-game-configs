@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V__________________________________________",
+    "manufacturer": "S931B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1792515593,
+    "filename": "Grand_Theft_Auto_V__________________________________________-samsung-SM-S931B-Adreno__TM__830-1792515593.json"
+  },
+  {
     "game": "FIFA_19",
     "manufacturer": "G720",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1792493402,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792493402.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1792493313,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792493313.json"
   }
 ]
