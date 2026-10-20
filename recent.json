@@ -1,5 +1,12 @@
 [
   {
+    "game": "sh4check",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792463939,
+    "filename": "sh4check-TCL-9185W-Mali-G57_MC2-1792463939.json"
+  },
+  {
     "game": "Pes2016",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "T720",
     "timestamp": 1792436926,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-alps-E15-Mali-T720-1792436926.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25097RP43G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1792435100,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25097RP43G-Adreno__TM__825-1792435100.json"
   }
 ]
