@@ -1,5 +1,12 @@
 [
   {
+    "game": "Granny_2_Enhanced",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792495464,
+    "filename": "Granny_2_Enhanced-Xiaomi-22095RA98C-Mali-G57_MC2-1792495464.json"
+  },
+  {
     "game": "R_E_P_O_",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792454564,
     "filename": "Pro_Evolution_Soccer_2015-Xiaomi-M2103K19PG-Mali-G57_MC2-1792454564.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "S921B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1792452922,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S921B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1792452922.json"
   }
 ]
