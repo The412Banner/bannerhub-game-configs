@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1792499548,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1792499548.json"
+  },
+  {
     "game": "Granny_2_Enhanced",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1792455669,
     "filename": "Lethal_Company-samsung-SM-A346E-Mali-G68_MC4-1792455669.json"
-  },
-  {
-    "game": "Hitman__Absolution_",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1792455523,
-    "filename": "Hitman__Absolution_-motorola-moto_g45_5G-Adreno__TM__619-1792455523.json"
   }
 ]
