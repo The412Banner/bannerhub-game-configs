@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792341486,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2310FPCA4G-Mali-G52_MC2-1792341486.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__3__2011_",
     "manufacturer": "NP06J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1792489726,
     "filename": "Need_for_Speed_MW-INFINIX-Infinix_X6873-Mali-G615_MC6-1792489726.json"
-  },
-  {
-    "game": "iw3mp",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1792487752,
-    "filename": "iw3mp-HONOR-ABR-NX1-PowerVR_B-Series_BXM-8-256-1792487752.json"
   }
 ]
