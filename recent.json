@@ -1,5 +1,12 @@
 [
   {
+    "game": "Prince_of_Persia_-_The_Forgotten_Sands",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1792503269,
+    "filename": "Prince_of_Persia_-_The_Forgotten_Sands-HOTWAV-Hyper_7-Mali-G68_MC4-1792503269.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1792469298,
     "filename": "Sniper_Ghost_Warrior_2-Xiaomi-25053PC47G-Adreno__TM__825-1792469298.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A576B",
-    "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
-    "timestamp": 1792468479,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A576B-ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_-1792468479.json"
   }
 ]
