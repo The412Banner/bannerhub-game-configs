@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lethal_Company",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1792455669,
+    "filename": "Lethal_Company-samsung-SM-A346E-Mali-G68_MC4-1792455669.json"
+  },
+  {
     "game": "Hitman__Absolution_",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1792434041,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1792434041.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1792433285,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1792433285.json"
   }
 ]
