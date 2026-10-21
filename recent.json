@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792542101,
+    "filename": "BootstrapPackagedGame-INFINIX-Infinix_X6728-Mali-G52_MC2-1792542101.json"
+  },
+  {
     "game": "Call_of_Duty_R___Black_Ops_II",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1792505355,
     "filename": "Prince_of_Persia_-_The_Forgotten_Sands-HOTWAV-Hyper_7-Mali-G68_MC4-1792505355.json"
-  },
-  {
-    "game": "Prince_of_Persia_-_The_Forgotten_Sands",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1792505229,
-    "filename": "Prince_of_Persia_-_The_Forgotten_Sands-HOTWAV-Hyper_7-Mali-G68_MC4-1792505229.json"
   }
 ]
