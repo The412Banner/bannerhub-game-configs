@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fallout_3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792586158,
+    "filename": "Fallout_3-INFINIX-Infinix_X6837-Mali-G57_MC2-1792586158.json"
+  },
+  {
     "game": "Tekken6_Native_Online",
     "manufacturer": "Odin2",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1792547262,
     "filename": "Prototype_-samsung-SM-S928N-Adreno__TM__750-1792547262.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792542101,
-    "filename": "BootstrapPackagedGame-INFINIX-Infinix_X6728-Mali-G52_MC2-1792542101.json"
   }
 ]
