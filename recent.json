@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tradu__o_do_Call_of_Duty_2__________________________________",
+    "manufacturer": "A715F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1792584131,
+    "filename": "Tradu__o_do_Call_of_Duty_2__________________________________-samsung-SM-A715F-Adreno__TM__618-1792584131.json"
+  },
+  {
     "game": "INAZUMA_ELEVEN__Victory_Road",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1792538377,
     "filename": "DARK_SOULS___REMASTERED-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792538377.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1792537055,
-    "filename": "Resident_Evil_2-Xiaomi-23049PCD8G-Adreno__TM__725-1792537055.json"
   }
 ]
