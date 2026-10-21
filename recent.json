@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1792620540,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A356E-Mali-G68-1792620540.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1792619801,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g14-Mali-G57-1792619801.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1792583096,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-CGA-W00-Adreno__TM__750-1792583096.json"
-  },
-  {
-    "game": "Forza_Horizon_5",
-    "manufacturer": "Infinix_X688B",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1792582407,
-    "filename": "Forza_Horizon_5-INFINIX_MOBILITY_LIMITED-Infinix_X688B-PowerVR_Rogue_GE8320-1792582407.json"
   }
 ]
