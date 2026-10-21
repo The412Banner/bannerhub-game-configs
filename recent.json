@@ -1,5 +1,12 @@
 [
   {
+    "game": "Clair_Obscur__Expedition_33",
+    "manufacturer": "S948B",
+    "device": "Adreno__TM__840",
+    "timestamp": 1792613077,
+    "filename": "Clair_Obscur__Expedition_33-samsung-SM-S948B-Adreno__TM__840-1792613077.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1792578791,
     "filename": "Tomb_Raider-Xiaomi-2311DRK48G-Mali-G615_MC6-1792578791.json"
-  },
-  {
-    "game": "Need_for_Speed_Most_Wanted",
-    "manufacturer": "moto_g52",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792574894,
-    "filename": "Need_for_Speed_Most_Wanted-motorola-moto_g52-Adreno__TM__610-1792574894.json"
   }
 ]
