@@ -1,5 +1,12 @@
 [
   {
+    "game": "_________v1_1",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1792586362,
+    "filename": "_________v1_1-Xiaomi-2311DRK48G-Mali-G615_MC6-1792586362.json"
+  },
+  {
     "game": "Fallout_3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "MT6899",
     "timestamp": 1792547422,
     "filename": "Pro_Evolution_Soccer_2017-OPPO-PLM110-MT6899-1792547422.json"
-  },
-  {
-    "game": "Prototype_",
-    "manufacturer": "S928N",
-    "device": "Adreno__TM__750",
-    "timestamp": 1792547262,
-    "filename": "Prototype_-samsung-SM-S928N-Adreno__TM__750-1792547262.json"
   }
 ]
