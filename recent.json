@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792584941,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6881-Mali-G57_MC2-1792584941.json"
+  },
+  {
     "game": "Tradu__o_do_Call_of_Duty_2__________________________________",
     "manufacturer": "A715F",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1792539681,
     "filename": "Call_of_Duty_R___Black_Ops_II-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1792539681.json"
-  },
-  {
-    "game": "DARK_SOULS___REMASTERED",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1792538377,
-    "filename": "DARK_SOULS___REMASTERED-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792538377.json"
   }
 ]
