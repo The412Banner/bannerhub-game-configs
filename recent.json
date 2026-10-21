@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "PLM110",
+    "device": "MT6899",
+    "timestamp": 1792547422,
+    "filename": "Pro_Evolution_Soccer_2017-OPPO-PLM110-MT6899-1792547422.json"
+  },
+  {
     "game": "Prototype_",
     "manufacturer": "S928N",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792509819,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1792509819.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792506822,
-    "filename": "Pro_Evolution_Soccer_2013-OPPO-CPH2591-Mali-G52_MC2-1792506822.json"
   }
 ]
