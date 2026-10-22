@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1792682303,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-G780G-Adreno__TM__650-1792682303.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1792647894,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-HONOR-RMO-NX3-Adreno__TM__619-1792647894.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man",
-    "manufacturer": "V2441",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792647918,
-    "filename": "TheAmazingSpider-Man-vivo-V2441-Adreno__TM__610-1792647918.json"
   }
 ]
