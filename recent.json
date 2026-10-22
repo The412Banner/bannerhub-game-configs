@@ -1,5 +1,12 @@
 [
   {
+    "game": "ELDEN_RING",
+    "manufacturer": "CPH2747",
+    "device": "Adreno__TM__840",
+    "timestamp": 1792710042,
+    "filename": "ELDEN_RING-OnePlus-CPH2747-Adreno__TM__840-1792710042.json"
+  },
+  {
     "game": "BlackOps",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1792681160,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A356E-Mali-G68-1792681160.json"
-  },
-  {
-    "game": "Plants_vs__Zombies",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792680599,
-    "filename": "Plants_vs__Zombies-Xiaomi-24040RN64Y-Mali-G52_MC2-1792680599.json"
   }
 ]
