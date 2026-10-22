@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1792681160,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A356E-Mali-G68-1792681160.json"
+  },
+  {
     "game": "Plants_vs__Zombies",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1792640344,
     "filename": "FIFA_22-Xiaomi-25053PC47G-Adreno__TM__825-1792640344.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792634403,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1792634403.json"
   }
 ]
