@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
+    "manufacturer": "23122PCD1I",
+    "device": "Adreno__TM__710",
+    "timestamp": 1792653049,
+    "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-Xiaomi-23122PCD1I-Adreno__TM__710-1792653049.json"
+  },
+  {
     "game": "HKShip",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1792593093,
     "filename": "Resident_Evil_2-Xiaomi-23049PCD8G-Adreno__TM__725-1792593093.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25097RP43G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1792593035,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25097RP43G-Adreno__TM__825-1792593035.json"
   }
 ]
