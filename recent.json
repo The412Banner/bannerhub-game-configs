@@ -1,5 +1,12 @@
 [
   {
+    "game": "Warframe",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1792690106,
+    "filename": "Warframe-INFINIX-Infinix_X6891-Mali-G720_MC7-1792690106.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "Mali",
     "device": "G78",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1792654720,
     "filename": "GeometryDash-samsung-SM-S901E-Adreno__TM__730-1792654720.json"
-  },
-  {
-    "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
-    "manufacturer": "23122PCD1I",
-    "device": "Adreno__TM__710",
-    "timestamp": 1792653049,
-    "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-Xiaomi-23122PCD1I-Adreno__TM__710-1792653049.json"
   }
 ]
