@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1792629225,
+    "filename": "DRAGON_BALL__Sparking__ZERO-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792629225.json"
+  },
+  {
     "game": "Little_Nightmares",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1792583894,
     "filename": "INAZUMA_ELEVEN__Victory_Road-samsung-SM-S918B-Adreno__TM__740-1792583894.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792583343,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3941-Mali-G52_MC2-1792583343.json"
   }
 ]
