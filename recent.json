@@ -1,5 +1,12 @@
 [
   {
+    "game": "Plants_vs__Zombies",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792680599,
+    "filename": "Plants_vs__Zombies-Xiaomi-24040RN64Y-Mali-G52_MC2-1792680599.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1792634403,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1792634403.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792634179,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A057M-Adreno__TM__610-1792634179.json"
   }
 ]
