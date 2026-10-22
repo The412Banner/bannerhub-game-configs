@@ -1,5 +1,12 @@
 [
   {
+    "game": "GeometryDash",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1792654720,
+    "filename": "GeometryDash-samsung-SM-S901E-Adreno__TM__730-1792654720.json"
+  },
+  {
     "game": "Batman__Arkham_City_-_Game_of_the_Year_Edition",
     "manufacturer": "23122PCD1I",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792606340,
     "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6728-Mali-G52_MC2-1792606340.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "23049PCD8G",
-    "device": "Adreno__TM__725",
-    "timestamp": 1792593093,
-    "filename": "Resident_Evil_2-Xiaomi-23049PCD8G-Adreno__TM__725-1792593093.json"
   }
 ]
