@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "S731B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
+    "timestamp": 1792697719,
+    "filename": "God_of_War-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_-1792697719.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792662462,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25078PC3EG-Mali-G52_MC2-1792662462.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "motorola_edge_50_pro",
-    "device": "Adreno__TM__720",
-    "timestamp": 1792661605,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-motorola-motorola_edge_50_pro-Adreno__TM__720-1792661605.json"
   }
 ]
