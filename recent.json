@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1792701115,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A356E-Mali-G68-1792701115.json"
+  },
+  {
     "game": "_____2019",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1792677939,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SCG06-Adreno__TM__650-1792677939.json"
-  },
-  {
-    "game": "MotoGP_08_MOD_2026",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1792673744,
-    "filename": "MotoGP_08_MOD_2026-samsung-SM-A356E-Mali-G68-1792673744.json"
   }
 ]
