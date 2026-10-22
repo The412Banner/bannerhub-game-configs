@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1792685503,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-samsung-SM-G990E-Mali-G78-1792685503.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1792653049,
     "filename": "Batman__Arkham_City_-_Game_of_the_Year_Edition-Xiaomi-23122PCD1I-Adreno__TM__710-1792653049.json"
-  },
-  {
-    "game": "HKShip",
-    "manufacturer": "Mali",
-    "device": "G77_MC9",
-    "timestamp": 1792650155,
-    "filename": "HKShip-INFINIX-Infinix_X6739-Mali-G77_MC9-1792650155.json"
   }
 ]
