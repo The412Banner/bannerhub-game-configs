@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5_Game",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792710919,
+    "filename": "Resident_Evil_5_Game-INFINIX-Infinix_X678B-Mali-G57_MC2-1792710919.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "PJJ110",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792682238,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6885-Mali-G57_MC2-1792682238.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1792681456,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A127F-Mali-G52-1792681456.json"
   }
 ]
