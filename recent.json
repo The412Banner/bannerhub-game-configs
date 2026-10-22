@@ -1,5 +1,12 @@
 [
   {
+    "game": "Burnout_Paradise__The_Ultimate_Box",
+    "manufacturer": "X906B",
+    "device": "Adreno__TM__730",
+    "timestamp": 1792701737,
+    "filename": "Burnout_Paradise__The_Ultimate_Box-samsung-SM-X906B-Adreno__TM__730-1792701737.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792680179,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6886-Mali-G57_MC2-1792680179.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "SCG06",
-    "device": "Adreno__TM__650",
-    "timestamp": 1792677939,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SCG06-Adreno__TM__650-1792677939.json"
   }
 ]
