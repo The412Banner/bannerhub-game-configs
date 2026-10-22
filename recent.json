@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792698874,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_KM6-Mali-G57_MC2-1792698874.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "S731B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792665086,
     "filename": "Motogp25-samsung-SM-A175F-Mali-G57_MC2-1792665086.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792662462,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25078PC3EG-Mali-G52_MC2-1792662462.json"
   }
 ]
