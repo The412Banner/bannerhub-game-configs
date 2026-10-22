@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dying_Light",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792645615,
+    "filename": "Dying_Light-Xiaomi-25040RP0AG-Mali-G57_MC2-1792645615.json"
+  },
+  {
     "game": "FIFA_22",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1792586420,
     "filename": "_________v1_1-Xiaomi-2311DRK48G-Mali-G615_MC6-1792586420.json"
-  },
-  {
-    "game": "_________v1_1",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1792586362,
-    "filename": "_________v1_1-Xiaomi-2311DRK48G-Mali-G615_MC6-1792586362.json"
   }
 ]
