@@ -1,5 +1,12 @@
 [
   {
+    "game": "F1_2010",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792630400,
+    "filename": "F1_2010-Xiaomi-23106RN0DA-Mali-G52_MC2-1792630400.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792584941,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6881-Mali-G57_MC2-1792584941.json"
-  },
-  {
-    "game": "Tradu__o_do_Call_of_Duty_2__________________________________",
-    "manufacturer": "A715F",
-    "device": "Adreno__TM__618",
-    "timestamp": 1792584131,
-    "filename": "Tradu__o_do_Call_of_Duty_2__________________________________-samsung-SM-A715F-Adreno__TM__618-1792584131.json"
   }
 ]
