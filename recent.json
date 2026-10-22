@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man",
+    "manufacturer": "V2441",
+    "device": "Adreno__TM__610",
+    "timestamp": 1792647918,
+    "filename": "TheAmazingSpider-Man-vivo-V2441-Adreno__TM__610-1792647918.json"
+  },
+  {
     "game": "Dying_Light",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1792589529,
     "filename": "GTA_V_Launcher-Xiaomi-2311DRK48G-Mali-G615_MC6-1792589529.json"
-  },
-  {
-    "game": "_________v1_1",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1792586420,
-    "filename": "_________v1_1-Xiaomi-2311DRK48G-Mali-G615_MC6-1792586420.json"
   }
 ]
