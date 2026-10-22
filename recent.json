@@ -1,5 +1,12 @@
 [
   {
+    "game": "HKShip",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1792650155,
+    "filename": "HKShip-INFINIX-Infinix_X6739-Mali-G77_MC9-1792650155.json"
+  },
+  {
     "game": "eFootball_PES_2021_SEASON_UPDATE",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1792593035,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25097RP43G-Adreno__TM__825-1792593035.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "25097RP43G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1792593032,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25097RP43G-Adreno__TM__825-1792593032.json"
   }
 ]
