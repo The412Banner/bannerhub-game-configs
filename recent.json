@@ -1,6 +1,13 @@
 [
   {
     "game": "Toontown_Rewritten",
+    "manufacturer": "_2023",
+    "device": "Adreno__TM__710",
+    "timestamp": 1792755778,
+    "filename": "Toontown_Rewritten-motorola-moto_g_stylus_5G_-_2023-Adreno__TM__710-1792755778.json"
+  },
+  {
+    "game": "Toontown_Rewritten",
     "manufacturer": "S916U",
     "device": "Adreno__TM__740",
     "timestamp": 1792755061,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1792718183,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2441-Adreno__TM__610-1792718183.json"
-  },
-  {
-    "game": "WW2VR",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1792716758,
-    "filename": "WW2VR-realme-RMX5366-Mali-G57-1792716758.json"
   }
 ]
