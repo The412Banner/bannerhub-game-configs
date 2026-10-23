@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792746002,
+    "filename": "BootstrapPackagedGame-TECNO-TECNO_LH8n-Mali-G57_MC2-1792746002.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "S731B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792710919,
     "filename": "Resident_Evil_5_Game-INFINIX-Infinix_X678B-Mali-G57_MC2-1792710919.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "PJJ110",
-    "device": "Adreno__TM__730",
-    "timestamp": 1792710684,
-    "filename": "DRAGON_BALL_FighterZ-OPPO-PJJ110-Adreno__TM__730-1792710684.json"
   }
 ]
