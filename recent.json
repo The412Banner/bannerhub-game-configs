@@ -1,5 +1,12 @@
 [
   {
+    "game": "Content_Warning",
+    "manufacturer": "A566B",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1792750368,
+    "filename": "Content_Warning-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1792750368.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1792713638,
     "filename": "FINAL_FANTASY_RESONANCE-ayn-Odin3-Adreno__TM__830-1792713638.json"
-  },
-  {
-    "game": "FINAL_FANTASY_RESONANCE",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1792713553,
-    "filename": "FINAL_FANTASY_RESONANCE-ayn-Odin3-Adreno__TM__830-1792713553.json"
   }
 ]
