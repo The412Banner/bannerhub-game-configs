@@ -1,5 +1,12 @@
 [
   {
+    "game": "Poppy_Playtime__Chapter_5",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792772172,
+    "filename": "Poppy_Playtime__Chapter_5-Xiaomi-23106RN0DA-Mali-G52_MC2-1792772172.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
     "timestamp": 1792745166,
     "filename": "Resident_Evil_2-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_-1792745166.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2_Demo",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792743345,
-    "filename": "Euro_Truck_Simulator_2_Demo-Xiaomi-2510DRA23E-Mali-G57_MC2-1792743345.json"
   }
 ]
