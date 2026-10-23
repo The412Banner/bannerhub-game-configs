@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1792798686,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-24095PCADG-Mali-G615_MC2-1792798686.json"
+  },
+  {
     "game": "Redmatch_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "1536",
     "timestamp": 1792770303,
     "filename": "Red_Dead_Redemption_2-Google-Pixel_10-PowerVR_D-Series_DXT-48-1536-1792770303.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1792769541,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24069PC21G-Adreno__TM__735-1792769541.json"
   }
 ]
