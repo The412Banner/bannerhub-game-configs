@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1792754485,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1792754485.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2410CRP4CG",
     "device": "Adreno__TM__732",
     "timestamp": 1792751154,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1792715418,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24069PC21G-Adreno__TM__735-1792715418.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "LX9",
-    "device": "Maleoon_920C",
-    "timestamp": 1792714277,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-PSN-LX9-Maleoon_920C-1792714277.json"
   }
 ]
