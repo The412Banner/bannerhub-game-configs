@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dying_Light__The_Beast",
+    "manufacturer": "CPH2841",
+    "device": "Adreno__TM__840",
+    "timestamp": 1792776692,
+    "filename": "Dying_Light__The_Beast-OPPO-CPH2841-Adreno__TM__840-1792776692.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1792749771,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-realme-RMX3760-Mali-G57-1792749771.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013_DEMO_______________________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792746215,
-    "filename": "Pro_Evolution_Soccer_2013_DEMO_______________________-INFINIX-Infinix_X6885-Mali-G57_MC2-1792746215.json"
   }
 ]
