@@ -1,5 +1,12 @@
 [
   {
+    "game": "Toontown_Rewritten",
+    "manufacturer": "S916U",
+    "device": "Adreno__TM__740",
+    "timestamp": 1792755061,
+    "filename": "Toontown_Rewritten-samsung-SM-S916U-Adreno__TM__740-1792755061.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1792716758,
     "filename": "WW2VR-realme-RMX5366-Mali-G57-1792716758.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1792715418,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24069PC21G-Adreno__TM__735-1792715418.json"
   }
 ]
