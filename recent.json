@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1792763651,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-24095PCADG-Mali-G615_MC2-1792763651.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792719203,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-2310FPCA4G-Mali-G52_MC2-1792719203.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "V2441",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792718232,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2441-Adreno__TM__610-1792718232.json"
   }
 ]
