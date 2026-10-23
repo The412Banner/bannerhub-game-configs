@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "48",
+    "device": "1536",
+    "timestamp": 1792774984,
+    "filename": "Red_Dead_Redemption_2-Google-Pixel_10-PowerVR_D-Series_DXT-48-1536-1792774984.json"
+  },
+  {
     "game": "Poppy_Playtime__Chapter_5",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792746002,
     "filename": "BootstrapPackagedGame-TECNO-TECNO_LH8n-Mali-G57_MC2-1792746002.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "S731B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
-    "timestamp": 1792745166,
-    "filename": "Resident_Evil_2-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_-1792745166.json"
   }
 ]
