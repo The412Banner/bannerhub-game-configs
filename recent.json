@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__2",
+    "manufacturer": "A576B",
+    "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
+    "timestamp": 1792739017,
+    "filename": "Far_Cry__2-samsung-SM-A576B-ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_-1792739017.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1792702022,
     "filename": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719-Xiaomi-2311DRK48G-Mali-G615_MC6-1792702022.json"
-  },
-  {
-    "game": "Burnout_Paradise__The_Ultimate_Box",
-    "manufacturer": "X906B",
-    "device": "Adreno__TM__730",
-    "timestamp": 1792701737,
-    "filename": "Burnout_Paradise__The_Ultimate_Box-samsung-SM-X906B-Adreno__TM__730-1792701737.json"
   }
 ]
