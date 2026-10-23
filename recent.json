@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792719203,
+    "filename": "Euro_Truck_Simulator_2-Xiaomi-2310FPCA4G-Mali-G52_MC2-1792719203.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "V2441",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
     "timestamp": 1792697719,
     "filename": "God_of_War-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_-1792697719.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792696370,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_2-samsung-SM-A075M-Mali-G57_MC2-1792696370.json"
   }
 ]
