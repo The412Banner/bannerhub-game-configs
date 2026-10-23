@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1792756829,
+    "filename": "Mafia_II__Classic_-motorola-moto_g45_5G-Adreno__TM__619-1792756829.json"
+  },
+  {
     "game": "Toontown_Rewritten",
     "manufacturer": "_2023",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1792718232,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2441-Adreno__TM__610-1792718232.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "V2441",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792718183,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2441-Adreno__TM__610-1792718183.json"
   }
 ]
