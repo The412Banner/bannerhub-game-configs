@@ -1,5 +1,12 @@
 [
   {
+    "game": "Castlevania__Lords_of_Shadow_2",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1792782106,
+    "filename": "Castlevania__Lords_of_Shadow_2-Xiaomi-2511FPC34G-Mali-G720_MC8-1792782106.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1792755061,
     "filename": "Toontown_Rewritten-samsung-SM-S916U-Adreno__TM__740-1792755061.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1792754485,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1792754485.json"
   }
 ]
