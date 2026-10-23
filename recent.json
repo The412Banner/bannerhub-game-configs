@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_MULTi19_-_ElAmigos_______________________________",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1792769080,
+    "filename": "God_of_War_MULTi19_-_ElAmigos_______________________________-nubia-NX809J-Adreno__TM__840-1792769080.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1792736801,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-Adreno__TM__710-1792736801.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1792735772,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1792735772.json"
   }
 ]
