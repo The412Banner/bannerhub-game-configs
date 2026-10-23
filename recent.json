@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sam2",
+    "manufacturer": "X210R",
+    "device": "Adreno__TM__619",
+    "timestamp": 1792788371,
+    "filename": "Sam2-samsung-SM-X210R-Adreno__TM__619-1792788371.json"
+  },
+  {
     "game": "RV_There_Yet_",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1792765352,
     "filename": "Pro_Evolution_Soccer_2013-HONOR-CLK-LX2-Adreno__TM__610-1792765352.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1792763651,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-24095PCADG-Mali-G615_MC2-1792763651.json"
   }
 ]
