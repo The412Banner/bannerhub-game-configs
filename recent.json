@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792766322,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_KJ6-Mali-G57_MC2-1792766322.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1792735772,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1792735772.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1792735768,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1792735768.json"
   }
 ]
