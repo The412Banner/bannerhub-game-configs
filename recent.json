@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1792735768,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1792735768.json"
+  },
+  {
     "game": "HKShip",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1792699290,
     "filename": "_____2019-realme-RMX5313-Mali-G57-1792699290.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792698874,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-TECNO-TECNO_KM6-Mali-G57_MC2-1792698874.json"
   }
 ]
