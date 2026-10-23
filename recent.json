@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792784358,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CA-Mali-G52_MC2-1792784358.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1792756829,
     "filename": "Mafia_II__Classic_-motorola-moto_g45_5G-Adreno__TM__619-1792756829.json"
-  },
-  {
-    "game": "Toontown_Rewritten",
-    "manufacturer": "_2023",
-    "device": "Adreno__TM__710",
-    "timestamp": 1792755778,
-    "filename": "Toontown_Rewritten-motorola-moto_g_stylus_5G_-_2023-Adreno__TM__710-1792755778.json"
   }
 ]
