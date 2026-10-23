@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2410CRP4CG",
+    "device": "Adreno__TM__732",
+    "timestamp": 1792751154,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2410CRP4CG-Adreno__TM__732-1792751154.json"
+  },
+  {
     "game": "Content_Warning",
     "manufacturer": "A566B",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "Maleoon_920C",
     "timestamp": 1792714277,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-HUAWEI-PSN-LX9-Maleoon_920C-1792714277.json"
-  },
-  {
-    "game": "FINAL_FANTASY_RESONANCE",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1792713638,
-    "filename": "FINAL_FANTASY_RESONANCE-ayn-Odin3-Adreno__TM__830-1792713638.json"
   }
 ]
