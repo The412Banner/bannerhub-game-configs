@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "48",
+    "device": "1536",
+    "timestamp": 1792770303,
+    "filename": "Red_Dead_Redemption_2-Google-Pixel_10-PowerVR_D-Series_DXT-48-1536-1792770303.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G76_MC4",
     "timestamp": 1792741997,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX2001-Mali-G76_MC4-1792741997.json"
-  },
-  {
-    "game": "Far_Cry__2",
-    "manufacturer": "A576B",
-    "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
-    "timestamp": 1792739017,
-    "filename": "Far_Cry__2-samsung-SM-A576B-ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_-1792739017.json"
   }
 ]
