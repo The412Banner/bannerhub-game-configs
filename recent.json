@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1792770706,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24069PC21G-Adreno__TM__735-1792770706.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "48",
     "device": "1536",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792743345,
     "filename": "Euro_Truck_Simulator_2_Demo-Xiaomi-2510DRA23E-Mali-G57_MC2-1792743345.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1792741997,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX2001-Mali-G76_MC4-1792741997.json"
   }
 ]
