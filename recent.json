@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1792749771,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-realme-RMX3760-Mali-G57-1792749771.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013_DEMO_______________________",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1792713553,
     "filename": "FINAL_FANTASY_RESONANCE-ayn-Odin3-Adreno__TM__830-1792713553.json"
-  },
-  {
-    "game": "Gang_Beasts",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1792711692,
-    "filename": "Gang_Beasts-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792711692.json"
   }
 ]
