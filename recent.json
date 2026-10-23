@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2_Demo",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792743345,
+    "filename": "Euro_Truck_Simulator_2_Demo-Xiaomi-2510DRA23E-Mali-G57_MC2-1792743345.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G76_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1792710042,
     "filename": "ELDEN_RING-OnePlus-CPH2747-Adreno__TM__840-1792710042.json"
-  },
-  {
-    "game": "BlackOps",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792708620,
-    "filename": "BlackOps-Xiaomi-2409BRN2CA-Mali-G52_MC2-1792708620.json"
   }
 ]
