@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792778878,
+    "filename": "Mafia_II__Classic_-samsung-SM-A166P-Mali-G57_MC2-1792778878.json"
+  },
+  {
     "game": "Dying_Light__The_Beast",
     "manufacturer": "CPH2841",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1792754485,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1792754485.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2410CRP4CG",
-    "device": "Adreno__TM__732",
-    "timestamp": 1792751154,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2410CRP4CG-Adreno__TM__732-1792751154.json"
   }
 ]
