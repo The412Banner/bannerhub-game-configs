@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792782899,
+    "filename": "Mafia_II__Classic_-realme-RMX3710-Mali-G52_MC2-1792782899.json"
+  },
+  {
     "game": "Castlevania__Lords_of_Shadow_2",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1792755778,
     "filename": "Toontown_Rewritten-motorola-moto_g_stylus_5G_-_2023-Adreno__TM__710-1792755778.json"
-  },
-  {
-    "game": "Toontown_Rewritten",
-    "manufacturer": "S916U",
-    "device": "Adreno__TM__740",
-    "timestamp": 1792755061,
-    "filename": "Toontown_Rewritten-samsung-SM-S916U-Adreno__TM__740-1792755061.json"
   }
 ]
