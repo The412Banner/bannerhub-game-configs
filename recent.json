@@ -1,5 +1,12 @@
 [
   {
+    "game": "RV_There_Yet_",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__710",
+    "timestamp": 1792787295,
+    "filename": "RV_There_Yet_-HONOR-BRP-NX1-Adreno__TM__710-1792787295.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1792763651,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-24095PCADG-Mali-G615_MC2-1792763651.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1792756829,
-    "filename": "Mafia_II__Classic_-motorola-moto_g45_5G-Adreno__TM__619-1792756829.json"
   }
 ]
