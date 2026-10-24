@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1792835671,
+    "filename": "Grand_Theft_Auto_V_Legacy-OUKITEL-C62-Mali-G57-1792835671.json"
+  },
+  {
     "game": "Dying_Light__The_Beast",
     "manufacturer": "CPH2841",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1792810758,
     "filename": "Ori_and_the_Will_of_the_Wisps-Xiaomi-M2102J20SG-Adreno__TM__640-1792810758.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1792805168,
-    "filename": "PlayGTAV-OUKITEL-C62-Mali-G57-1792805168.json"
   }
 ]
