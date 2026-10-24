@@ -1,5 +1,12 @@
 [
   {
+    "game": "HowToSurvive",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792834627,
+    "filename": "HowToSurvive-INFINIX-Infinix_X6728-Mali-G52_MC2-1792834627.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792805069,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6731B-Mali-G57_MC2-1792805069.json"
-  },
-  {
-    "game": "MONSTER_HUNTER_RISE",
-    "manufacturer": "MEIZU_20_Inf",
-    "device": "Adreno__TM__740",
-    "timestamp": 1792803888,
-    "filename": "MONSTER_HUNTER_RISE-meizu-MEIZU_20_Inf-Adreno__TM__740-1792803888.json"
   }
 ]
