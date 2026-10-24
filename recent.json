@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1792834524,
+    "filename": "God_of_War-Xiaomi-2511FPC34G-Mali-G720_MC8-1792834524.json"
+  },
+  {
     "game": "Roblox_Bootstrapper",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1792803888,
     "filename": "MONSTER_HUNTER_RISE-meizu-MEIZU_20_Inf-Adreno__TM__740-1792803888.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792800604,
-    "filename": "Euro_Truck_Simulator_2-HONOR-LLY-LX2-Adreno__TM__610-1792800604.json"
   }
 ]
