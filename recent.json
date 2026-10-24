@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "F946B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1792871220,
+    "filename": "Far_Cry_3-samsung-SM-F946B-Adreno__TM__740-1792871220.json"
+  },
+  {
     "game": "Apex_Legends",
     "manufacturer": "CPH2565",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1792839383,
     "filename": "Resident_Evil_Requiem-HONOR-DNP-NX9-Adreno__TM__750-1792839383.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1792837192,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-Adreno__TM__710-1792837192.json"
   }
 ]
