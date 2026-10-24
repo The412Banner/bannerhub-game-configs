@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__613",
+    "timestamp": 1792845528,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-MRK-NX1-Adreno__TM__613-1792845528.json"
+  },
+  {
     "game": "Forza_Horizon_5",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1792816379,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1792816379.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1792816314,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1792816314.json"
   }
 ]
