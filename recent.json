@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792873751,
+    "filename": "BootstrapPackagedGame-Xiaomi-23106RN0DA-Mali-G52_MC2-1792873751.json"
+  },
+  {
     "game": "black",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1792845625,
     "filename": "XboxInstaller-HONOR-MTN-NX1-Adreno__TM__810-1792845625.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__613",
-    "timestamp": 1792845528,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-MRK-NX1-Adreno__TM__613-1792845528.json"
   }
 ]
