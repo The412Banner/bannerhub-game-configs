@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_14",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792848144,
+    "filename": "FIFA_14-TECNO-TECNO_CL6-Mali-G57_MC2-1792848144.json"
+  },
+  {
     "game": "XboxInstaller",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1792821310,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X510-Mali-G68-1792821310.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1792817774,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1792817774.json"
   }
 ]
