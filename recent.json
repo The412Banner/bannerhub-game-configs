@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1792815457,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1792815457.json"
+  },
+  {
     "game": "SPEED2",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1792782106,
     "filename": "Castlevania__Lords_of_Shadow_2-Xiaomi-2511FPC34G-Mali-G720_MC8-1792782106.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792778878,
-    "filename": "Mafia_II__Classic_-samsung-SM-A166P-Mali-G57_MC2-1792778878.json"
   }
 ]
