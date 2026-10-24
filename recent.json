@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1792826458,
+    "filename": "PlayGTAV-OUKITEL-C62-Mali-G57-1792826458.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792795495,
     "filename": "Redmatch_2-TECNO-TECNO_KL6-Mali-G52_MC2-1792795495.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1792793705,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-24090RA29G-Mali-G615_MC2-1792793705.json"
   }
 ]
