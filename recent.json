@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__",
+    "manufacturer": "25102PCBEG",
+    "device": "Adreno__TM__840",
+    "timestamp": 1792824048,
+    "filename": "Dead_Space__-Xiaomi-25102PCBEG-Adreno__TM__840-1792824048.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1792790925,
     "filename": "A_Lenda_do_Her_i_-_Edi__o_Definitiva-samsung-SM-S926U-Adreno__TM__750-1792790925.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1792790804,
-    "filename": "Grand_Theft_Auto_V-TECNO-TECNO_BG6-Mali-G57-1792790804.json"
   }
 ]
