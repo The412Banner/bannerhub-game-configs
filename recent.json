@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1792879622,
+    "filename": "Cuphead-samsung-SM-S911B-Adreno__TM__740-1792879622.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1792861676,
     "filename": "HorizonChase-OnePlus-PLQ110-Adreno__TM__830-1792861676.json"
-  },
-  {
-    "game": "Anno_1404_-_History_Edition",
-    "manufacturer": "PLQ110",
-    "device": "Adreno__TM__830",
-    "timestamp": 1792859278,
-    "filename": "Anno_1404_-_History_Edition-OnePlus-PLQ110-Adreno__TM__830-1792859278.json"
   }
 ]
