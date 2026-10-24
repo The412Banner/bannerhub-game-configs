@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792805069,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6731B-Mali-G57_MC2-1792805069.json"
+  },
+  {
     "game": "MONSTER_HUNTER_RISE",
     "manufacturer": "MEIZU_20_Inf",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1792776475,
     "filename": "Pro_Evolution_Soccer_2013-ayn-Odin3-Adreno__TM__830-1792776475.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "48",
-    "device": "1536",
-    "timestamp": 1792774984,
-    "filename": "Red_Dead_Redemption_2-Google-Pixel_10-PowerVR_D-Series_DXT-48-1536-1792774984.json"
   }
 ]
