@@ -1,5 +1,12 @@
 [
   {
+    "game": "HorizonChase",
+    "manufacturer": "PLQ110",
+    "device": "Adreno__TM__830",
+    "timestamp": 1792861676,
+    "filename": "HorizonChase-OnePlus-PLQ110-Adreno__TM__830-1792861676.json"
+  },
+  {
     "game": "Anno_1404_-_History_Edition",
     "manufacturer": "PLQ110",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792830096,
     "filename": "UnityCrashHandler64-Xiaomi-23106RN0DA-Mali-G52_MC2-1792830096.json"
-  },
-  {
-    "game": "activation",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1792826671,
-    "filename": "activation-Xiaomi-23043RP34G-Adreno__TM__650-1792826671.json"
   }
 ]
