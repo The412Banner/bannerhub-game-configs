@@ -1,5 +1,12 @@
 [
   {
+    "game": "Alba",
+    "manufacturer": "22021211RG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1792812970,
+    "filename": "Alba-Xiaomi-22021211RG-Adreno__TM__650-1792812970.json"
+  },
+  {
     "game": "Ori_and_the_Will_of_the_Wisps",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1792777336,
     "filename": "Dying_Light__The_Beast-OPPO-CPH2841-Adreno__TM__840-1792777336.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1792776775,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6870-Mali-G615_MC2-1792776775.json"
   }
 ]
