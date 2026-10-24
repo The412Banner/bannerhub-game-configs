@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__710",
+    "timestamp": 1792837192,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-Adreno__TM__710-1792837192.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1792835693,
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1792814380,
     "filename": "SPEED2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792814380.json"
-  },
-  {
-    "game": "Alba",
-    "manufacturer": "22021211RG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1792812970,
-    "filename": "Alba-Xiaomi-22021211RG-Adreno__TM__650-1792812970.json"
   }
 ]
