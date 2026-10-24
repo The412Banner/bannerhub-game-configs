@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "TECNO_T1102W",
+    "device": "Adreno__TM__610",
+    "timestamp": 1792850870,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_T1102W-Adreno__TM__610-1792850870.json"
+  },
+  {
     "game": "FIFA_14",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1792824048,
     "filename": "Dead_Space__-Xiaomi-25102PCBEG-Adreno__TM__840-1792824048.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1792821310,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-X510-Mali-G68-1792821310.json"
   }
 ]
