@@ -1,5 +1,12 @@
 [
   {
+    "game": "UnityCrashHandler64",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792830096,
+    "filename": "UnityCrashHandler64-Xiaomi-23106RN0DA-Mali-G52_MC2-1792830096.json"
+  },
+  {
     "game": "activation",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792800116,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1792800116.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1792798686,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-24095PCADG-Mali-G615_MC2-1792798686.json"
   }
 ]
