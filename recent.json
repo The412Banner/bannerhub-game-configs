@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Retroid_Pocket_Flip2",
+    "device": "Adreno__TM__650",
+    "timestamp": 1792903538,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1792903538.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792871731,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1792871731.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792871634,
-    "filename": "Resident_Evil_3-HONOR-CLK-LX2-Adreno__TM__610-1792871634.json"
   }
 ]
