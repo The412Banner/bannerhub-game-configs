@@ -1,5 +1,12 @@
 [
   {
+    "game": "over_the_hill",
+    "manufacturer": "S948B",
+    "device": "Adreno__TM__840",
+    "timestamp": 1792934805,
+    "filename": "over_the_hill-samsung-SM-S948B-Adreno__TM__840-1792934805.json"
+  },
+  {
     "game": "Roblox",
     "manufacturer": "RMX3491",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Maleoon_920C",
     "timestamp": 1792907498,
     "filename": "iw3mp-HUAWEI-KLE-LX9-Maleoon_920C-1792907498.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1792905884,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1792905884.json"
   }
 ]
