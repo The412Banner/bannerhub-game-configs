@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1792933306,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792933306.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1792931351,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25040RP0AG-Mali-G57_MC2-1792931351.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1792905223,
     "filename": "SpongeBob_SquarePants__Titans_of_the_Tide-motorola-moto_g45_5G-Adreno__TM__619-1792905223.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1792905216,
-    "filename": "BootstrapPackagedGame-motorola-moto_g45_5G-Adreno__TM__619-1792905216.json"
   }
 ]
