@@ -1,5 +1,12 @@
 [
   {
+    "game": "DmC__Devil_May_Cry",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1792905189,
+    "filename": "DmC__Devil_May_Cry-motorola-moto_g45_5G-Adreno__TM__619-1792905189.json"
+  },
+  {
     "game": "NFS_Underground_2",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792874574,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2410FPCC5G-Mali-G52_MC2-1792874574.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "25099RP08G",
-    "device": "Adreno__TM__732",
-    "timestamp": 1792874332,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25099RP08G-Adreno__TM__732-1792874332.json"
   }
 ]
