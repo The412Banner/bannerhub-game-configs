@@ -1,5 +1,12 @@
 [
   {
+    "game": "Saints_Row__The_Third",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1792908802,
+    "filename": "Saints_Row__The_Third-samsung-SM-S938B-Adreno__TM__830-1792908802.json"
+  },
+  {
     "game": "iw3mp",
     "manufacturer": "LX9",
     "device": "Maleoon_920C",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1792890952,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1792890952.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1792890685,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1792890685.json"
   }
 ]
