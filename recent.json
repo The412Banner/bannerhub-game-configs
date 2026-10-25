@@ -1,5 +1,12 @@
 [
   {
+    "game": "START-GAME",
+    "manufacturer": "S711B",
+    "device": "ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_",
+    "timestamp": 1792893229,
+    "filename": "START-GAME-samsung-SM-S711B-ANGLE___Samsung_Xclipse_920__on_Vulkan_1_3_279_-1792893229.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1792870452,
     "filename": "Apex_Legends-OPPO-CPH2565-Adreno__TM__610-1792870452.json"
-  },
-  {
-    "game": "Apex_Legends",
-    "manufacturer": "CPH2565",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792870348,
-    "filename": "Apex_Legends-OPPO-CPH2565-Adreno__TM__610-1792870348.json"
   }
 ]
