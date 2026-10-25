@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fallout_3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792910093,
+    "filename": "Fallout_3-INFINIX-Infinix_X6837-Mali-G57_MC2-1792910093.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792900423,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1792900423.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792896228,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1792896228.json"
   }
 ]
