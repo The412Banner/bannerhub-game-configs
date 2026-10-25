@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "RMX5566",
+    "device": "Adreno__TM__610",
+    "timestamp": 1792915053,
+    "filename": "PlayGTAV-realme-RMX5566-Adreno__TM__610-1792915053.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1792904783,
     "filename": "DW3CE_RE_-Xiaomi-25053PC47G-Adreno__TM__825-1792904783.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Retroid_Pocket_Flip2",
-    "device": "Adreno__TM__650",
-    "timestamp": 1792903538,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Moorechip-Retroid_Pocket_Flip2-Adreno__TM__650-1792903538.json"
   }
 ]
