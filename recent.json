@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_Launcher",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1792938852,
+    "filename": "FIFA_Launcher-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792938852.json"
+  },
+  {
     "game": "farming_simulator_19_",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792917416,
     "filename": "Microsoft_R__DirectX_for_Windows_R_-Xiaomi-23053RN02A-Mali-G52_MC2-1792917416.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "RMX5566",
-    "device": "Adreno__TM__610",
-    "timestamp": 1792915053,
-    "filename": "PlayGTAV-realme-RMX5566-Adreno__TM__610-1792915053.json"
   }
 ]
