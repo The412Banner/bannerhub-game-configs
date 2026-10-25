@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_For_Speed_TM__Most_Wanted______________________________",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792966395,
+    "filename": "Need_For_Speed_TM__Most_Wanted______________________________-INFINIX-Infinix_X6853-Mali-G57_MC2-1792966395.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1792941910,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1792941910.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1792941640,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-INFINIX-Infinix_X6525-Mali-G57-1792941640.json"
   }
 ]
