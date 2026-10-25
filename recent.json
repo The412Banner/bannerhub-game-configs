@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_R__DirectX_for_Windows_R_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1792917416,
+    "filename": "Microsoft_R__DirectX_for_Windows_R_-Xiaomi-23053RN02A-Mali-G52_MC2-1792917416.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "RMX5566",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1792905154,
     "filename": "Resident_Evil_5-motorola-moto_g45_5G-Adreno__TM__619-1792905154.json"
-  },
-  {
-    "game": "DW3CE_RE_",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1792904783,
-    "filename": "DW3CE_RE_-Xiaomi-25053PC47G-Adreno__TM__825-1792904783.json"
   }
 ]
