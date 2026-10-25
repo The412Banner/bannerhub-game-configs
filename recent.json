@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1792971455,
+    "filename": "Resident_Evil_4-INFINIX-Infinix_X6873-Mali-G615_MC6-1792971455.json"
+  },
+  {
     "game": "Dungeon_Rampage",
     "manufacturer": "Mali",
     "device": "G77",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1792943791,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX2170-Adreno__TM__618-1792943791.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "W00",
-    "device": "Adreno__TM__720",
-    "timestamp": 1792943723,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-HEY3-W00-Adreno__TM__720-1792943723.json"
   }
 ]
