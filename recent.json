@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1792905211,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-motorola-moto_g45_5G-Adreno__TM__619-1792905211.json"
+  },
+  {
     "game": "NFSC",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1792880052,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A225M-Mali-G52_MC2-1792880052.json"
-  },
-  {
-    "game": "Cuphead",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1792879622,
-    "filename": "Cuphead-samsung-SM-S911B-Adreno__TM__740-1792879622.json"
   }
 ]
