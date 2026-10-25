@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "RMX2170",
+    "device": "Adreno__TM__618",
+    "timestamp": 1792943791,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX2170-Adreno__TM__618-1792943791.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "W00",
     "device": "Adreno__TM__720",
     "timestamp": 1792943723,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792931348,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25040RP0AG-Mali-G57_MC2-1792931348.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "22111317PI",
-    "device": "Adreno__TM__619",
-    "timestamp": 1792927780,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22111317PI-Adreno__TM__619-1792927780.json"
   }
 ]
