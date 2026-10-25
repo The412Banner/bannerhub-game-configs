@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1792954796,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2207117BPG-Mali-G76-1792954796.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "W00",
     "device": "Adreno__TM__720",
     "timestamp": 1792953202,
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1792938852,
     "filename": "FIFA_Launcher-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792938852.json"
-  },
-  {
-    "game": "farming_simulator_19_",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792938111,
-    "filename": "farming_simulator_19_-motorola-moto_g24-Mali-G52_MC2-1792938111.json"
   }
 ]
