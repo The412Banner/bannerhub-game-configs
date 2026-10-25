@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dragon_s_Dogma__Dark_Arisen",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1792905199,
+    "filename": "Dragon_s_Dogma__Dark_Arisen-motorola-moto_g45_5G-Adreno__TM__619-1792905199.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1792876608,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1792876608.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1792876105,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1792876105.json"
   }
 ]
