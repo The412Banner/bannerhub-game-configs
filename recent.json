@@ -1,5 +1,12 @@
 [
   {
+    "game": "DW3CE_RE_",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1792904783,
+    "filename": "DW3CE_RE_-Xiaomi-25053PC47G-Adreno__TM__825-1792904783.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Retroid_Pocket_Flip2",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1792871996,
     "filename": "black-Xiaomi-2412DPC0AG-Mali-G720_MC7-1792871996.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792871731,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1792871731.json"
   }
 ]
