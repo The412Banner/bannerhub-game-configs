@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792920473,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6833B-Mali-G57_MC2-1792920473.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "LX2",
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1792920284,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1792905180,
     "filename": "NFS_Underground_2-motorola-moto_g45_5G-Adreno__TM__619-1792905180.json"
-  },
-  {
-    "game": "Hitman__Absolution_",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1792905169,
-    "filename": "Hitman__Absolution_-motorola-moto_g45_5G-Adreno__TM__619-1792905169.json"
   }
 ]
