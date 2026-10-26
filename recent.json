@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1793046638,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1793046638.json"
+  },
+  {
     "game": "Assassin_s_Creed_Origins",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1793019429,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CL8-Mali-G610_MC6-1793019429.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793019083,
-    "filename": "Sleeping_Dogs-INFINIX-Infinix_X6711-Mali-G57_MC2-1793019083.json"
   }
 ]
