@@ -1,5 +1,12 @@
 [
   {
+    "game": "BeamNG_drive",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793042728,
+    "filename": "BeamNG_drive-INFINIX-Infinix_X6837-Mali-G57_MC2-1793042728.json"
+  },
+  {
     "game": "L_A__Noire",
     "manufacturer": "2510DPC44G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__A32",
     "timestamp": 1793010448,
     "filename": "Tenebris_Somnia-AYANEO-Pocket_S-Adreno__TM__A32-1793010448.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1793010533,
-    "filename": "Sleeping_Dogs-ITEL-itel_A666L-Mali-G57-1793010533.json"
   }
 ]
