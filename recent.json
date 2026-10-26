@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1792977341,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1792977341.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1792944110,
     "filename": "Grand_Theft_Auto_V_Legacy-OUKITEL-C62-Mali-G57-1792944110.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "RMX2170",
-    "device": "Adreno__TM__618",
-    "timestamp": 1792943791,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX2170-Adreno__TM__618-1792943791.json"
   }
 ]
