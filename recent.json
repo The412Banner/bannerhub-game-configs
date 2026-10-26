@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tenebris_Somnia",
+    "manufacturer": "Pocket_S",
+    "device": "Adreno__TM__A32",
+    "timestamp": 1793010448,
+    "filename": "Tenebris_Somnia-AYANEO-Pocket_S-Adreno__TM__A32-1793010448.json"
+  },
+  {
     "game": "Sleeping_Dogs",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1792971455,
     "filename": "Resident_Evil_4-INFINIX-Infinix_X6873-Mali-G615_MC6-1792971455.json"
-  },
-  {
-    "game": "Dungeon_Rampage",
-    "manufacturer": "Mali",
-    "device": "G77",
-    "timestamp": 1792969083,
-    "filename": "Dungeon_Rampage-samsung-SM-G780F-Mali-G77-1792969083.json"
   }
 ]
