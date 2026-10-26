@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793053125,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155M-Mali-G57_MC2-1793053125.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "G57_MC2",
     "device": "54_1_0_",
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1793024049,
     "filename": "Rayman_Origins-samsung-SM-G780F-Mali-G77-1793024049.json"
-  },
-  {
-    "game": "Hello_neighbor",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793022302,
-    "filename": "Hello_neighbor-Xiaomi-M2004J19C-Mali-G52_MC2-1793022302.json"
   }
 ]
