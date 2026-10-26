@@ -1,5 +1,12 @@
 [
   {
+    "game": "Legacy_Launcher_for_Mc-launcher_com_________________________",
+    "manufacturer": "POCO_F1",
+    "device": "Adreno__TM__640",
+    "timestamp": 1793027212,
+    "filename": "Legacy_Launcher_for_Mc-launcher_com_________________________-Xiaomi-POCO_F1-Adreno__TM__640-1793027212.json"
+  },
+  {
     "game": "Rayman_Origins",
     "manufacturer": "Mali",
     "device": "G77",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792989379,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1792989379.json"
-  },
-  {
-    "game": "FIFA_Soccer_11",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792987944,
-    "filename": "FIFA_Soccer_11-Xiaomi-24117RN76L-Mali-G57_MC2-1792987944.json"
   }
 ]
