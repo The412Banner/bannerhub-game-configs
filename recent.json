@@ -1,5 +1,12 @@
 [
   {
+    "game": "How_to_Fish",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1793007569,
+    "filename": "How_to_Fish-INFINIX-Infinix_X6728-Mali-G52_MC2-1793007569.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1792957305,
     "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_CM7-Mali-G615_MC2-1792957305.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1792956835,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A166M-Mali-G68-1792956835.json"
   }
 ]
