@@ -1,5 +1,12 @@
 [
   {
+    "game": "L_A__Noire",
+    "manufacturer": "2510DPC44G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1793041325,
+    "filename": "L_A__Noire-Xiaomi-2510DPC44G-Adreno__TM__830-1793041325.json"
+  },
+  {
     "game": "BeamNG_drive",
     "manufacturer": "Mali",
     "device": "G72_MP3",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1793010533,
     "filename": "Sleeping_Dogs-ITEL-itel_A666L-Mali-G57-1793010533.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "W00",
-    "device": "Adreno__TM__720",
-    "timestamp": 1793008802,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-HEY3-W00-Adreno__TM__720-1793008802.json"
   }
 ]
