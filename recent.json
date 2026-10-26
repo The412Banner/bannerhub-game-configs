@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1793010533,
+    "filename": "Sleeping_Dogs-ITEL-itel_A666L-Mali-G57-1793010533.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "W00",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G77",
     "timestamp": 1792969083,
     "filename": "Dungeon_Rampage-samsung-SM-G780F-Mali-G77-1792969083.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1792967885,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1792967885.json"
   }
 ]
