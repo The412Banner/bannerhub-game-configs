@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1793031658,
+    "filename": "BootstrapPackagedGame-Xiaomi-23106RN0DA-Mali-G52_MC2-1793031658.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G610",
@@ -131,12 +138,5 @@
     "device": "G78",
     "timestamp": 1792996983,
     "filename": "Need_for_Speed_Underground_2-samsung-SM-G990E-Mali-G78-1792996983.json"
-  },
-  {
-    "game": "Silent_Hill_Origins",
-    "manufacturer": "2410CRP4CG",
-    "device": "Adreno__TM__732",
-    "timestamp": 1792989824,
-    "filename": "Silent_Hill_Origins-Xiaomi-2410CRP4CG-Adreno__TM__732-1792989824.json"
   }
 ]
