@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_Underground_2",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1792996983,
+    "filename": "Need_for_Speed_Underground_2-samsung-SM-G990E-Mali-G78-1792996983.json"
+  },
+  {
     "game": "Silent_Hill_Origins",
     "manufacturer": "2410CRP4CG",
     "device": "Adreno__TM__732",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1792951958,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-HEY3-W00-Adreno__TM__720-1792951958.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1792951928,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-INFINIX_MOBILITY_LIMITED-Infinix_X689-Mali-G52_MC2-1792951928.json"
   }
 ]
