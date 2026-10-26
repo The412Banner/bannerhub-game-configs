@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1793038153,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e32-Mali-G57-1793038153.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G52",
     "timestamp": 1793036565,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1793036565.json"
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793007663,
     "filename": "How_to_Fish-INFINIX-Infinix_X6728-Mali-G52_MC2-1793007663.json"
-  },
-  {
-    "game": "How_to_Fish",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793007651,
-    "filename": "How_to_Fish-INFINIX-Infinix_X6728-Mali-G52_MC2-1793007651.json"
   }
 ]
