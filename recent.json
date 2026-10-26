@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1793004171,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2602DPT53G-Mali-G720_MC8-1793004171.json"
+  },
+  {
     "game": "Assassin_s_Creed__Rogue",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1792954796,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2207117BPG-Mali-G76-1792954796.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "W00",
-    "device": "Adreno__TM__720",
-    "timestamp": 1792953202,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-HEY3-W00-Adreno__TM__720-1792953202.json"
   }
 ]
