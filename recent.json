@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793019083,
+    "filename": "Sleeping_Dogs-INFINIX-Infinix_X6711-Mali-G57_MC2-1793019083.json"
+  },
+  {
     "game": "Tenebris_Somnia",
     "manufacturer": "Pocket_S",
     "device": "Adreno__TM__A32",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1792977341,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1792977341.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1792971455,
-    "filename": "Resident_Evil_4-INFINIX-Infinix_X6873-Mali-G615_MC6-1792971455.json"
   }
 ]
