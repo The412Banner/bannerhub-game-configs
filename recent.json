@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hello_neighbor",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1793022302,
+    "filename": "Hello_neighbor-Xiaomi-M2004J19C-Mali-G52_MC2-1793022302.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1792985151,
     "filename": "Pro_Evolution_Soccer_2013-realme-RMX3834-Mali-G57-1792985151.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "motorola_edge_50_ultra",
-    "device": "Adreno__TM__735",
-    "timestamp": 1792985073,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_50_ultra-Adreno__TM__735-1792985073.json"
   }
 ]
