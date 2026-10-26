@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed_Origins",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1793043748,
+    "filename": "Assassin_s_Creed_Origins-nubia-NX799J-Adreno__TM__830-1793043748.json"
+  },
+  {
     "game": "BeamNG_drive",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793019083,
     "filename": "Sleeping_Dogs-INFINIX-Infinix_X6711-Mali-G57_MC2-1793019083.json"
-  },
-  {
-    "game": "Tenebris_Somnia",
-    "manufacturer": "Pocket_S",
-    "device": "Adreno__TM__A32",
-    "timestamp": 1793010448,
-    "filename": "Tenebris_Somnia-AYANEO-Pocket_S-Adreno__TM__A32-1793010448.json"
   }
 ]
