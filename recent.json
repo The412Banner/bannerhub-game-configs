@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "G57_MC2",
+    "device": "54_1_0_",
+    "timestamp": 1793050659,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-ANGLE__ARM__Vulkan_1_3_303__Mali-G57_MC2__0x90930010____Mali-G57_MC2-54_1_0_-1793050659.json"
+  },
+  {
     "game": "No__I_m_not_a_Human",
     "manufacturer": "motorola_edge_70_fusion",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793022302,
     "filename": "Hello_neighbor-Xiaomi-M2004J19C-Mali-G52_MC2-1793022302.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1793021055,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6725-Mali-G57-1793021055.json"
   }
 ]
