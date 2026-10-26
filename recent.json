@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1793047746,
+    "filename": "Mortal_Kombat_X-Xiaomi-2412DPC0AG-Mali-G720_MC7-1793047746.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793020268,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1793020268.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1793019429,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CL8-Mali-G610_MC6-1793019429.json"
   }
 ]
