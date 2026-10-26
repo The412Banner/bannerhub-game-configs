@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1793021055,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6725-Mali-G57-1793021055.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1793020268,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g06-Mali-G52_MC2-1793020268.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1792985073,
     "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_50_ultra-Adreno__TM__735-1792985073.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1792984923,
-    "filename": "Mafia_II__Classic_-samsung-SM-A245F-Mali-G57_MC2-1792984923.json"
   }
 ]
