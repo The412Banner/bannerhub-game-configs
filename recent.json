@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_3__Wild_Hunt___Remastered",
+    "manufacturer": "PLR110",
+    "device": "Adreno__TM__829",
+    "timestamp": 1793058325,
+    "filename": "The_Witcher_3__Wild_Hunt___Remastered-OnePlus-PLR110-Adreno__TM__829-1793058325.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1793027212,
     "filename": "Legacy_Launcher_for_Mc-launcher_com_________________________-Xiaomi-POCO_F1-Adreno__TM__640-1793027212.json"
-  },
-  {
-    "game": "Rayman_Origins",
-    "manufacturer": "Mali",
-    "device": "G77",
-    "timestamp": 1793024049,
-    "filename": "Rayman_Origins-samsung-SM-G780F-Mali-G77-1793024049.json"
   }
 ]
