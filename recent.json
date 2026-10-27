@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_STORM_3_FB",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1793064660,
+    "filename": "NARUTO_STORM_3_FB-samsung-SM-A266M-Mali-G68-1793064660.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1793032439,
     "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-Xiaomi-24117RK2CG-Adreno__TM__750-1793032439.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793031658,
-    "filename": "BootstrapPackagedGame-Xiaomi-23106RN0DA-Mali-G52_MC2-1793031658.json"
   }
 ]
