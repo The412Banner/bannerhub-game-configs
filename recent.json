@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fallout_4",
+    "manufacturer": "S948N",
+    "device": "Adreno__TM__840",
+    "timestamp": 1793136251,
+    "filename": "Fallout_4-samsung-SM-S948N-Adreno__TM__840-1793136251.json"
+  },
+  {
     "game": "Spore_Complete_Edition______________________________________",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1793109450,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-I2401-Adreno__TM__830-1793109450.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1793107061,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-BRP-NX1-Adreno__TM__710-1793107061.json"
   }
 ]
