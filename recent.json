@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man_Remastered",
+    "manufacturer": "Retroid_Pocket_5",
+    "device": "Adreno__TM__650",
+    "timestamp": 1793071908,
+    "filename": "Marvel_s_Spider-Man_Remastered-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1793071908.json"
+  },
+  {
     "game": "Battlefield__1",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793042728,
     "filename": "BeamNG_drive-INFINIX-Infinix_X6837-Mali-G57_MC2-1793042728.json"
-  },
-  {
-    "game": "L_A__Noire",
-    "manufacturer": "2510DPC44G",
-    "device": "Adreno__TM__830",
-    "timestamp": 1793041325,
-    "filename": "L_A__Noire-Xiaomi-2510DPC44G-Adreno__TM__830-1793041325.json"
   }
 ]
