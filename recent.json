@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Advanced_Warfare_-_Gold_Edition",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1793122460,
+    "filename": "Call_of_Duty___Advanced_Warfare_-_Gold_Edition-Xiaomi-M2012K11AG-Adreno__TM__650-1793122460.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "22101320G",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1793092073,
     "filename": "Moadra-Anbernic-RG_406H-Mali-G57-1793092073.json"
-  },
-  {
-    "game": "God_of_War",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793090927,
-    "filename": "God_of_War-TECNO-TECNO_CK7n-Mali-G57_MC2-1793090927.json"
   }
 ]
