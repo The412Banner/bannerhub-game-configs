@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1793074689,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1793074689.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man_Remastered",
     "manufacturer": "Retroid_Pocket_5",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1793043748,
     "filename": "Assassin_s_Creed_Origins-nubia-NX799J-Adreno__TM__830-1793043748.json"
-  },
-  {
-    "game": "BeamNG_drive",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793042728,
-    "filename": "BeamNG_drive-INFINIX-Infinix_X6837-Mali-G57_MC2-1793042728.json"
   }
 ]
