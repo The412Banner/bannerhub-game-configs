@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed___Director_s_Cut_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793125195,
+    "filename": "Assassin_s_Creed___Director_s_Cut_Edition-INFINIX-Infinix_X6881-Mali-G57_MC2-1793125195.json"
+  },
+  {
     "game": "Call_of_Duty___Advanced_Warfare_-_Gold_Edition",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1793093445,
     "filename": "Truckful-Anbernic-RG_406H-Mali-G57-1793093445.json"
-  },
-  {
-    "game": "Moadra",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1793092073,
-    "filename": "Moadra-Anbernic-RG_406H-Mali-G57-1793092073.json"
   }
 ]
