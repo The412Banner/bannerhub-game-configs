@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__3",
+    "manufacturer": "22101320G",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1793126065,
+    "filename": "Dead_Space__3-Xiaomi-22101320G-Adreno__TM__642L-1793126065.json"
+  },
+  {
     "game": "Assassin_s_Creed___Director_s_Cut_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1793094914,
     "filename": "Blades_and_Battles-Anbernic-RG_406H-Mali-G57-1793094914.json"
-  },
-  {
-    "game": "Truckful",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1793093445,
-    "filename": "Truckful-Anbernic-RG_406H-Mali-G57-1793093445.json"
   }
 ]
