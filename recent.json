@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "23129RA5FL",
+    "device": "Adreno__TM__610",
+    "timestamp": 1793068324,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23129RA5FL-Adreno__TM__610-1793068324.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1793038153,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e32-Mali-G57-1793038153.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1793036565,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1793036565.json"
   }
 ]
