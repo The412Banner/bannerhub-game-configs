@@ -1,5 +1,12 @@
 [
   {
+    "game": "resident_evil_5",
+    "manufacturer": "22101320G",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1793126139,
+    "filename": "resident_evil_5-Xiaomi-22101320G-Adreno__TM__642L-1793126139.json"
+  },
+  {
     "game": "Dead_Space__3",
     "manufacturer": "22101320G",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1793097554,
     "filename": "NoImNotAHuman-Xiaomi-M2102J20SG-Adreno__TM__640-1793097554.json"
-  },
-  {
-    "game": "Blades_and_Battles",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1793094914,
-    "filename": "Blades_and_Battles-Anbernic-RG_406H-Mali-G57-1793094914.json"
   }
 ]
