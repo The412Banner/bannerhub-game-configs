@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP_26___",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1793126263,
+    "filename": "MotoGP_26___-realme-RMX3710-Mali-G52_MC2-1793126263.json"
+  },
+  {
     "game": "resident_evil_5",
     "manufacturer": "22101320G",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1793097678,
     "filename": "AssetStudioGUI-samsung-SM-S936B-Adreno__TM__650-1793097678.json"
-  },
-  {
-    "game": "NoImNotAHuman",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1793097554,
-    "filename": "NoImNotAHuman-Xiaomi-M2102J20SG-Adreno__TM__640-1793097554.json"
   }
 ]
