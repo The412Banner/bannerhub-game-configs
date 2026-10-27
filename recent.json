@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1793067257,
+    "filename": "Resident_Evil_6-vivo-V2529-Mali-G615_MC2-1793067257.json"
+  },
+  {
     "game": "FIFA_14",
     "manufacturer": "I2401",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1793036565,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1793036565.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793034841,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22081283G-Mali-G57_MC2-1793034841.json"
   }
 ]
