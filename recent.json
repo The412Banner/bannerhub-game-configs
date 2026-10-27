@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__Bad_Company_2_Vietnam",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1793114207,
+    "filename": "Battlefield__Bad_Company_2_Vietnam-Xiaomi-23113RKC6G-Adreno__TM__740-1793114207.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793089775,
     "filename": "BlackOps-TECNO-TECNO_LI9-Mali-G57_MC2-1793089775.json"
-  },
-  {
-    "game": "BlackOps",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793089756,
-    "filename": "BlackOps-TECNO-TECNO_LI9-Mali-G57_MC2-1793089756.json"
   }
 ]
