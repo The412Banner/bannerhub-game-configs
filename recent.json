@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1793112190,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-25053PC47G-Adreno__TM__825-1793112190.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1793088521,
     "filename": "Mafia_II__Classic_-realme-RMX3563-Mali-G610_MC6-1793088521.json"
-  },
-  {
-    "game": "MotoGP_26___",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793088487,
-    "filename": "MotoGP_26___-realme-RMX3710-Mali-G52_MC2-1793088487.json"
   }
 ]
