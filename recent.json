@@ -3,6 +3,13 @@
     "game": "BlackOps",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1793089775,
+    "filename": "BlackOps-TECNO-TECNO_LI9-Mali-G57_MC2-1793089775.json"
+  },
+  {
+    "game": "BlackOps",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1793089756,
     "filename": "BlackOps-TECNO-TECNO_LI9-Mali-G57_MC2-1793089756.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1793066474,
     "filename": "FIFA_14-vivo-I2401-Adreno__TM__830-1793066474.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793064810,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1793064810.json"
   }
 ]
