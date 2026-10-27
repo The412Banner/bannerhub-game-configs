@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "22101320G",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1793121586,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22101320G-Adreno__TM__642L-1793121586.json"
+  },
+  {
     "game": "HelloNeighbor",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793090927,
     "filename": "God_of_War-TECNO-TECNO_CK7n-Mali-G57_MC2-1793090927.json"
-  },
-  {
-    "game": "gta_5",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1793090273,
-    "filename": "gta_5-HONOR-ALI-NX1-Adreno__TM__710-1793090273.json"
   }
 ]
