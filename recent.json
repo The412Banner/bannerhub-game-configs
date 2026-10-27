@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty_R___Black_Ops_II",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1793131931,
+    "filename": "Call_of_Duty_R___Black_Ops_II-nubia-NX809J-Adreno__TM__840-1793131931.json"
+  },
+  {
     "game": "Divinity__Original_Sin_2",
     "manufacturer": "F971B",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1793098961,
     "filename": "Resident_Evil_2-OPPO-CPH2731-Adreno__TM__825-1793098961.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "S936B",
-    "device": "Adreno__TM__650",
-    "timestamp": 1793097687,
-    "filename": "PlayGTAV-samsung-SM-S936B-Adreno__TM__650-1793097687.json"
   }
 ]
