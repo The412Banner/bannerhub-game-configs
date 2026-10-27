@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blades_and_Battles",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1793094914,
+    "filename": "Blades_and_Battles-Anbernic-RG_406H-Mali-G57-1793094914.json"
+  },
+  {
     "game": "Truckful",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1793074689,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1793074689.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man_Remastered",
-    "manufacturer": "Retroid_Pocket_5",
-    "device": "Adreno__TM__650",
-    "timestamp": 1793071908,
-    "filename": "Marvel_s_Spider-Man_Remastered-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1793071908.json"
   }
 ]
