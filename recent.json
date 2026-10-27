@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1793077561,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-nubia-NX809J-Adreno__TM__840-1793077561.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1793046638,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1793046638.json"
-  },
-  {
-    "game": "Assassin_s_Creed_Origins",
-    "manufacturer": "NX799J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1793043748,
-    "filename": "Assassin_s_Creed_Origins-nubia-NX799J-Adreno__TM__830-1793043748.json"
   }
 ]
