@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1793110669,
+    "filename": "Far_Cry_3-samsung-SM-G780G-Adreno__TM__650-1793110669.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "I2401",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793088487,
     "filename": "MotoGP_26___-realme-RMX3710-Mali-G52_MC2-1793088487.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1793088427,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-X205-Mali-G52-1793088427.json"
   }
 ]
