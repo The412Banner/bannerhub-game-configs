@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP_26___",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1793088487,
+    "filename": "MotoGP_26___-realme-RMX3710-Mali-G52_MC2-1793088487.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1793064660,
     "filename": "NARUTO_STORM_3_FB-samsung-SM-A266M-Mali-G68-1793064660.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1793064251,
-    "filename": "Pro_Evolution_Soccer_2013-OUKITEL-WP60-PowerVR_B-Series_BXM-8-256-1793064251.json"
   }
 ]
