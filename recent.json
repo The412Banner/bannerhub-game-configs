@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "CPH2731",
+    "device": "Adreno__TM__825",
+    "timestamp": 1793098961,
+    "filename": "Resident_Evil_2-OPPO-CPH2731-Adreno__TM__825-1793098961.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "S936B",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1793081111,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-nubia-NX809J-Adreno__TM__840-1793081111.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1793080913,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-nubia-NX809J-Adreno__TM__840-1793080913.json"
   }
 ]
