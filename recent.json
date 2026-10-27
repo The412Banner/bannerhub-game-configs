@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1793088521,
+    "filename": "Mafia_II__Classic_-realme-RMX3563-Mali-G610_MC6-1793088521.json"
+  },
+  {
     "game": "MotoGP_26___",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793064794,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1793064794.json"
-  },
-  {
-    "game": "NARUTO_STORM_3_FB",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1793064660,
-    "filename": "NARUTO_STORM_3_FB-samsung-SM-A266M-Mali-G68-1793064660.json"
   }
 ]
