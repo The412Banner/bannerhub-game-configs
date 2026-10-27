@@ -1,5 +1,12 @@
 [
   {
+    "game": "LEGO__Marvel__Super_Heroes",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1793138872,
+    "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-2511FPC34G-Mali-G720_MC8-1793138872.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1793112190,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-25053PC47G-Adreno__TM__825-1793112190.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1793110669,
-    "filename": "Far_Cry_3-samsung-SM-G780G-Adreno__TM__650-1793110669.json"
   }
 ]
