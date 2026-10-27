@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1793134602,
+    "filename": "Far_Cry_3-Xiaomi-2311DRK48G-Mali-G615_MC6-1793134602.json"
+  },
+  {
     "game": "Call_of_Duty_R___Black_Ops_II",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793105356,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2212ARNC4L-Mali-G52_MC2-1793105356.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "CPH2731",
-    "device": "Adreno__TM__825",
-    "timestamp": 1793098961,
-    "filename": "Resident_Evil_2-OPPO-CPH2731-Adreno__TM__825-1793098961.json"
   }
 ]
