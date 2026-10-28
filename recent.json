@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793184118,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_LI9-Mali-G57_MC2-1793184118.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V__________________________________________",
     "manufacturer": "CPH2825",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1793138909,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6873-Mali-G615_MC6-1793138909.json"
-  },
-  {
-    "game": "LEGO__Marvel__Super_Heroes",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1793138872,
-    "filename": "LEGO__Marvel__Super_Heroes-Xiaomi-2511FPC34G-Mali-G720_MC8-1793138872.json"
   }
 ]
