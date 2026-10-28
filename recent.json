@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V__________________________________________",
+    "manufacturer": "CPH2825",
+    "device": "Adreno__TM__722",
+    "timestamp": 1793184269,
+    "filename": "Grand_Theft_Auto_V__________________________________________-OPPO-CPH2825-Adreno__TM__722-1793184269.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__829",
     "timestamp": 1793139250,
     "filename": "Metro_2033_Redux-vivo-I2508-Adreno__TM__829-1793139250.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1793138909,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6873-Mali-G615_MC6-1793138909.json"
   }
 ]
