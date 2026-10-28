@@ -3,6 +3,13 @@
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1793186226,
+    "filename": "Need_for_Speed_9-realme-RMX3760-Mali-G57-1793186226.json"
+  },
+  {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1793186113,
     "filename": "Need_for_Speed_9-realme-RMX3760-Mali-G57-1793186113.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1793160259,
     "filename": "Aniimo-Xiaomi-22111317PG-Adreno__TM__619-1793160259.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "I2219",
-    "device": "Adreno__TM__710",
-    "timestamp": 1793154119,
-    "filename": "Mafia_II__Classic_-vivo-I2219-Adreno__TM__710-1793154119.json"
   }
 ]
