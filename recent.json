@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1793190489,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g35_5G-Mali-G57-1793190489.json"
+  },
+  {
     "game": "Project_Reignition",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1793179019,
     "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-nubia-NX809J-Adreno__TM__840-1793179019.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "G998U",
-    "device": "Adreno__TM__660",
-    "timestamp": 1793176555,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G998U-Adreno__TM__660-1793176555.json"
   }
 ]
