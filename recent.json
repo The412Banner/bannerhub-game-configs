@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793219719,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1793219719.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793193357,
     "filename": "God_of_War_Ragnar_k-realme-RMX2020-Mali-G52_MC2-1793193357.json"
-  },
-  {
-    "game": "God_of_War_Ragnar_k",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793193350,
-    "filename": "God_of_War_Ragnar_k-realme-RMX2020-Mali-G52_MC2-1793193350.json"
   }
 ]
