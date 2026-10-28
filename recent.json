@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP_26",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1793209485,
+    "filename": "MotoGP_26-realme-RMX3710-Mali-G52_MC2-1793209485.json"
+  },
+  {
     "game": "Metro_Exodus",
     "manufacturer": "I2405",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1793184888,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-MTN-NX1-Adreno__TM__810-1793184888.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__810",
-    "timestamp": 1793184825,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-MTN-NX1-Adreno__TM__810-1793184825.json"
   }
 ]
