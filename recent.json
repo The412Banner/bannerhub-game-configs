@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed_9",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1793186113,
+    "filename": "Need_for_Speed_9-realme-RMX3760-Mali-G57-1793186113.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "motorola_edge_20",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1793154119,
     "filename": "Mafia_II__Classic_-vivo-I2219-Adreno__TM__710-1793154119.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793152789,
-    "filename": "Need_for_Speed_9-ITEL-itel_P661N-Mali-G57_MC2-1793152789.json"
   }
 ]
