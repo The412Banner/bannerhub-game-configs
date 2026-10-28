@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1793198702,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-JDY-LX2-Mali-G52_MC2-1793198702.json"
+  },
+  {
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1793182813,
     "filename": "psxfin-TECNO-TECNO_LJ7-Mali-G615_MC2-1793182813.json"
-  },
-  {
-    "game": "cdztool",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1793182782,
-    "filename": "cdztool-TECNO-TECNO_LJ7-Mali-G615_MC2-1793182782.json"
   }
 ]
