@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "motorola_edge_20",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1793185284,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-motorola_edge_20-Adreno__TM__642L-1793185284.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V__________________________________________",
     "manufacturer": "CPH2825",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1793151671,
     "filename": "Grid_RACE_DRIVER-samsung-SM-S918B-Adreno__TM__740-1793151671.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "S721B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
-    "timestamp": 1793149453,
-    "filename": "DRAGON_BALL_FighterZ-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1793149453.json"
   }
 ]
