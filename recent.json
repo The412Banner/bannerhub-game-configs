@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC12",
+    "timestamp": 1793205535,
+    "filename": "Mortal_Kombat_X-Xiaomi-25079RPDCG-Mali-G925-Immortalis_MC12-1793205535.json"
+  },
+  {
     "game": "Saints_Row__Gat_Out_Of_Hell",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__722",
     "timestamp": 1793184269,
     "filename": "Grand_Theft_Auto_V__________________________________________-OPPO-CPH2825-Adreno__TM__722-1793184269.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793184118,
-    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_LI9-Mali-G57_MC2-1793184118.json"
   }
 ]
