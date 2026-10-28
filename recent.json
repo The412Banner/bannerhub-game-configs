@@ -1,5 +1,12 @@
 [
   {
+    "game": "psxfin",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1793182813,
+    "filename": "psxfin-TECNO-TECNO_LJ7-Mali-G615_MC2-1793182813.json"
+  },
+  {
     "game": "cdztool",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1793136251,
     "filename": "Fallout_4-samsung-SM-S948N-Adreno__TM__840-1793136251.json"
-  },
-  {
-    "game": "Spore_Complete_Edition______________________________________",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1793135884,
-    "filename": "Spore_Complete_Edition______________________________________-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1793135884.json"
   }
 ]
