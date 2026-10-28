@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__810",
+    "timestamp": 1793184825,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-MTN-NX1-Adreno__TM__810-1793184825.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V__________________________________________",
     "manufacturer": "CPH2825",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1793144766,
     "filename": "Assassin_s_Creed__Unity-samsung-SM-S916B-Adreno__TM__740-1793144766.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793144758,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A165M-Mali-G57_MC2-1793144758.json"
   }
 ]
