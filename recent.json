@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1793167106,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Teclast-T65_EEA-Mali-G57-1793167106.json"
+  },
+  {
     "game": "Aniimo",
     "manufacturer": "22111317PG",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1793128578,
     "filename": "Divinity__Original_Sin_2-samsung-SM-F971B-Adreno__TM__840-1793128578.json"
-  },
-  {
-    "game": "MotoGP_26___",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793126263,
-    "filename": "MotoGP_26___-realme-RMX3710-Mali-G52_MC2-1793126263.json"
   }
 ]
