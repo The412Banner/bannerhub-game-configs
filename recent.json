@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "S721B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
+    "timestamp": 1793149453,
+    "filename": "DRAGON_BALL_FighterZ-samsung-SM-S721B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_-1793149453.json"
+  },
+  {
     "game": "Resident_Evil_Requiem",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1793122460,
     "filename": "Call_of_Duty___Advanced_Warfare_-_Gold_Edition-Xiaomi-M2012K11AG-Adreno__TM__650-1793122460.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "22101320G",
-    "device": "Adreno__TM__642L",
-    "timestamp": 1793121586,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22101320G-Adreno__TM__642L-1793121586.json"
   }
 ]
