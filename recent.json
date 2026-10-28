@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1793183314,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6728-Mali-G52_MC2-1793183314.json"
+  },
+  {
     "game": "psxfin",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793136373,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CK7n-Mali-G57_MC2-1793136373.json"
-  },
-  {
-    "game": "Fallout_4",
-    "manufacturer": "S948N",
-    "device": "Adreno__TM__840",
-    "timestamp": 1793136251,
-    "filename": "Fallout_4-samsung-SM-S948N-Adreno__TM__840-1793136251.json"
   }
 ]
