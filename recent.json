@@ -1,5 +1,12 @@
 [
   {
+    "game": "Project_Reignition",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1793187990,
+    "filename": "Project_Reignition-AYN-AYN_Thor-Adreno__TM__740-1793187990.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1793176555,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G998U-Adreno__TM__660-1793176555.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1793167106,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Teclast-T65_EEA-Mali-G57-1793167106.json"
   }
 ]
