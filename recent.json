@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grid_RACE_DRIVER",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1793151671,
+    "filename": "Grid_RACE_DRIVER-samsung-SM-S918B-Adreno__TM__740-1793151671.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "S721B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793125195,
     "filename": "Assassin_s_Creed___Director_s_Cut_Edition-INFINIX-Infinix_X6881-Mali-G57_MC2-1793125195.json"
-  },
-  {
-    "game": "Call_of_Duty___Advanced_Warfare_-_Gold_Edition",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1793122460,
-    "filename": "Call_of_Duty___Advanced_Warfare_-_Gold_Edition-Xiaomi-M2012K11AG-Adreno__TM__650-1793122460.json"
   }
 ]
