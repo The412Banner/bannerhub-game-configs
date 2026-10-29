@@ -1,5 +1,12 @@
 [
   {
+    "game": "Granny_3_Enhanced",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793256249,
+    "filename": "Granny_3_Enhanced-samsung-SM-X110-Mali-G57_MC2-1793256249.json"
+  },
+  {
     "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1793215183,
     "filename": "Pro_Evolution_Soccer_2013-vivo-I2221-Adreno__TM__735-1793215183.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "I2221",
-    "device": "Adreno__TM__735",
-    "timestamp": 1793215158,
-    "filename": "Pro_Evolution_Soccer_2013-vivo-I2221-Adreno__TM__735-1793215158.json"
   }
 ]
