@@ -1,5 +1,12 @@
 [
   {
+    "game": "NBA2K27",
+    "manufacturer": "23127PN0CC",
+    "device": "Adreno__TM__750",
+    "timestamp": 1793316243,
+    "filename": "NBA2K27-Xiaomi-23127PN0CC-Adreno__TM__750-1793316243.json"
+  },
+  {
     "game": "Need_for_Speed_9",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1793286633,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3890-Adreno__TM__610-1793286633.json"
-  },
-  {
-    "game": "Lost_and_Found_Co_",
-    "manufacturer": "Retroid_Pocket_6",
-    "device": "Adreno__TM__740",
-    "timestamp": 1793285585,
-    "filename": "Lost_and_Found_Co_-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1793285585.json"
   }
 ]
