@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN",
+    "manufacturer": "22101320G",
+    "device": "Adreno__TM__642L",
+    "timestamp": 1793295342,
+    "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-Xiaomi-22101320G-Adreno__TM__642L-1793295342.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G1",
     "device": "Ultra_MC12",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1793261603,
     "filename": "PRO_EVOLUTION_SOCCER_2018-samsung-SM-S948B-Adreno__TM__840-1793261603.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "2509ARPBDG",
-    "device": "Adreno__TM__810",
-    "timestamp": 1793256672,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-Xiaomi-2509ARPBDG-Adreno__TM__810-1793256672.json"
   }
 ]
