@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793255004,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-INFINIX-Infinix_X676C-Mali-G57_MC2-1793255004.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1793215158,
     "filename": "Pro_Evolution_Soccer_2013-vivo-I2221-Adreno__TM__735-1793215158.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "I2221",
-    "device": "Adreno__TM__735",
-    "timestamp": 1793213883,
-    "filename": "Pro_Evolution_Soccer_2013-vivo-I2221-Adreno__TM__735-1793213883.json"
   }
 ]
