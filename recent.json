@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "S948B",
+    "device": "Adreno__TM__840",
+    "timestamp": 1793261603,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-samsung-SM-S948B-Adreno__TM__840-1793261603.json"
+  },
+  {
     "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
     "manufacturer": "2509ARPBDG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1793217959,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-G998U-Adreno__TM__660-1793217959.json"
-  },
-  {
-    "game": "Tape_to_Tape",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1793215556,
-    "filename": "Tape_to_Tape-Anbernic-RG_406H-Mali-G57-1793215556.json"
   }
 ]
