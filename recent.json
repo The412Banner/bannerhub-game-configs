@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1793274584,
+    "filename": "Mortal_Kombat_X-samsung-SM-A266B-Mali-G68-1793274584.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1793225934,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A546E-Mali-G68-1793225934.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793221091,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1793221091.json"
   }
 ]
