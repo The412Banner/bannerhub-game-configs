@@ -1,5 +1,12 @@
 [
   {
+    "game": "DBSCG_FW_launcher_c2251ed3-b51d-4c4f-9c73-307277a436b4",
+    "manufacturer": "S911B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1793303249,
+    "filename": "DBSCG_FW_launcher_c2251ed3-b51d-4c4f-9c73-307277a436b4-samsung-SM-S911B-Adreno__TM__740-1793303249.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1793277395,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1793277395.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1793275066,
-    "filename": "Mafia_II__Classic_-vivo-V2344-Mali-G57-1793275066.json"
   }
 ]
