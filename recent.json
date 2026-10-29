@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1793290145,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1793290145.json"
+  },
+  {
     "game": "HKShip",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793256249,
     "filename": "Granny_3_Enhanced-samsung-SM-X110-Mali-G57_MC2-1793256249.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793255004,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-INFINIX-Infinix_X676C-Mali-G57_MC2-1793255004.json"
   }
 ]
