@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Island_Riptide",
+    "manufacturer": "NX741J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1793303796,
+    "filename": "Dead_Island_Riptide-nubia-NX741J-Adreno__TM__840-1793303796.json"
+  },
+  {
     "game": "DBSCG_FW_launcher_c2251ed3-b51d-4c4f-9c73-307277a436b4",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1793278419,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S948B-Adreno__TM__840-1793278419.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1793277395,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1793277395.json"
   }
 ]
