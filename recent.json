@@ -1,5 +1,12 @@
 [
   {
+    "game": "GRID_RACE_DRIVER",
+    "manufacturer": "S918B",
+    "device": "Adreno__TM__740",
+    "timestamp": 1793238544,
+    "filename": "GRID_RACE_DRIVER-samsung-SM-S918B-Adreno__TM__740-1793238544.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793209485,
     "filename": "MotoGP_26-realme-RMX3710-Mali-G52_MC2-1793209485.json"
-  },
-  {
-    "game": "Metro_Exodus",
-    "manufacturer": "I2405",
-    "device": "Adreno__TM__825",
-    "timestamp": 1793208799,
-    "filename": "Metro_Exodus-vivo-I2405-Adreno__TM__825-1793208799.json"
   }
 ]
