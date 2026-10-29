@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S936B",
+    "device": "Adreno__TM__650",
+    "timestamp": 1793284029,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S936B-Adreno__TM__650-1793284029.json"
+  },
+  {
     "game": "Black_Myth__Wukong",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1793249329,
     "filename": "Far_Cry-samsung-SM-S908E-Adreno__TM__730-1793249329.json"
-  },
-  {
-    "game": "GRID_RACE_DRIVER",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1793238544,
-    "filename": "GRID_RACE_DRIVER-samsung-SM-S918B-Adreno__TM__740-1793238544.json"
   }
 ]
