@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1793281898,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X669-Mali-G57-1793281898.json"
+  },
+  {
     "game": "Metro_2033",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793236968,
     "filename": "Far_Cry_3-Xiaomi-23124RN87G-Mali-G57_MC2-1793236968.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793236964,
-    "filename": "Far_Cry_3-Xiaomi-23124RN87G-Mali-G57_MC2-1793236964.json"
   }
 ]
