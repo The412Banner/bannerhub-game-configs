@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G76_MC4",
+    "timestamp": 1793307572,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3085-Mali-G76_MC4-1793307572.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1793281898,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X669-Mali-G57-1793281898.json"
-  },
-  {
-    "game": "Metro_2033",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1793281227,
-    "filename": "Metro_2033-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1793281227.json"
   }
 ]
