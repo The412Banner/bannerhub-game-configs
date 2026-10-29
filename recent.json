@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry",
+    "manufacturer": "S908E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1793249329,
+    "filename": "Far_Cry-samsung-SM-S908E-Adreno__TM__730-1793249329.json"
+  },
+  {
     "game": "GRID_RACE_DRIVER",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1793210372,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-vivo-V2453A-Adreno__TM__825-1793210372.json"
-  },
-  {
-    "game": "MotoGP_26",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793209485,
-    "filename": "MotoGP_26-realme-RMX3710-Mali-G52_MC2-1793209485.json"
   }
 ]
