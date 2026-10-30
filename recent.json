@@ -1,5 +1,12 @@
 [
   {
+    "game": "MW2_Campaign_Remastered_Setup",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1793325856,
+    "filename": "MW2_Campaign_Remastered_Setup-samsung-SM-N975F-Mali-G76-1793325856.json"
+  },
+  {
     "game": "TheAmazingSpider-Man2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Ultra_MC12",
     "timestamp": 1793292635,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2602EPTC0G-Mali-G1-Ultra_MC12-1793292635.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1793290145,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6871-Mali-G610_MC6-1793290145.json"
   }
 ]
