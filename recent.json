@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1793379531,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6840-Mali-G52_MC2-1793379531.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1793325856,
     "filename": "MW2_Campaign_Remastered_Setup-samsung-SM-N975F-Mali-G76-1793325856.json"
-  },
-  {
-    "game": "TheAmazingSpider-Man2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793316662,
-    "filename": "TheAmazingSpider-Man2-TECNO-TECNO_LJ6-Mali-G57_MC2-1793316662.json"
   }
 ]
