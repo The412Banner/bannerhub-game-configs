@@ -3,6 +3,13 @@
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1793376940,
+    "filename": "PlayGTAV-TECNO-TECNO_CK7n-Mali-G57_MC2-1793376940.json"
+  },
+  {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1793376923,
     "filename": "PlayGTAV-TECNO-TECNO_CK7n-Mali-G57_MC2-1793376923.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793316662,
     "filename": "TheAmazingSpider-Man2-TECNO-TECNO_LJ6-Mali-G57_MC2-1793316662.json"
-  },
-  {
-    "game": "Need_for_Speed_9",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793316408,
-    "filename": "Need_for_Speed_9-Xiaomi-23053RN02L-Mali-G52_MC2-1793316408.json"
   }
 ]
