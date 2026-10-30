@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__3",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1793403396,
+    "filename": "Dead_Space__3-INFINIX-Infinix_X6871-Mali-G610_MC6-1793403396.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793376940,
     "filename": "PlayGTAV-TECNO-TECNO_CK7n-Mali-G57_MC2-1793376940.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793376923,
-    "filename": "PlayGTAV-TECNO-TECNO_CK7n-Mali-G57_MC2-1793376923.json"
   }
 ]
