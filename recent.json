@@ -1,5 +1,12 @@
 [
   {
+    "game": "MW2_Campaign_Remastered_Setup",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1793391834,
+    "filename": "MW2_Campaign_Remastered_Setup-samsung-SM-N975F-Mali-G76-1793391834.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1793351906,
     "filename": "Marvel_s_Spider-Man_Remastered-samsung-SM-S948W-Adreno__TM__840-1793351906.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793348182,
-    "filename": "Red_Dead_Redemption_2-INFINIX-Infinix_X6886-Mali-G57_MC2-1793348182.json"
   }
 ]
