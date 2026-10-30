@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1793393320,
+    "filename": "Tomb_Raider-samsung-SM-S938B-Adreno__TM__830-1793393320.json"
+  },
+  {
     "game": "MW2_Campaign_Remastered_Setup",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1793360995,
     "filename": "Godot_Engine-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1793360995.json"
-  },
-  {
-    "game": "Marvel_s_Spider-Man_Remastered",
-    "manufacturer": "S948W",
-    "device": "Adreno__TM__840",
-    "timestamp": 1793351906,
-    "filename": "Marvel_s_Spider-Man_Remastered-samsung-SM-S948W-Adreno__TM__840-1793351906.json"
   }
 ]
