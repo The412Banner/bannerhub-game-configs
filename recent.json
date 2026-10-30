@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793382334,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A165F-Mali-G57_MC2-1793382334.json"
+  },
+  {
     "game": "iw3mp",
     "manufacturer": "W00",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1793339345,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-Z2467-Mali-G57-1793339345.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S936B",
-    "device": "Adreno__TM__650",
-    "timestamp": 1793333787,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S936B-Adreno__TM__650-1793333787.json"
   }
 ]
