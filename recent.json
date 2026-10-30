@@ -2,6 +2,13 @@
   {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1793346667,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1793346667.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1793344537,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g24-Mali-G52_MC2-1793344537.json"
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793307300,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1793307300.json"
-  },
-  {
-    "game": "Dead_Island_Riptide",
-    "manufacturer": "NX741J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1793303796,
-    "filename": "Dead_Island_Riptide-nubia-NX741J-Adreno__TM__840-1793303796.json"
   }
 ]
