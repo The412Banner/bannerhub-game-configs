@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793376923,
+    "filename": "PlayGTAV-TECNO-TECNO_CK7n-Mali-G57_MC2-1793376923.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793316408,
     "filename": "Need_for_Speed_9-Xiaomi-23053RN02L-Mali-G52_MC2-1793316408.json"
-  },
-  {
-    "game": "NBA2K27",
-    "manufacturer": "23127PN0CC",
-    "device": "Adreno__TM__750",
-    "timestamp": 1793316243,
-    "filename": "NBA2K27-Xiaomi-23127PN0CC-Adreno__TM__750-1793316243.json"
   }
 ]
