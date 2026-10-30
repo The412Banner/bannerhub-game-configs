@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793348182,
+    "filename": "Red_Dead_Redemption_2-INFINIX-Infinix_X6886-Mali-G57_MC2-1793348182.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G76_MC4",
     "timestamp": 1793307572,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3085-Mali-G76_MC4-1793307572.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793307300,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A156M-Mali-G57_MC2-1793307300.json"
   }
 ]
