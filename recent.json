@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_app",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1793385646,
+    "filename": "EA_app-samsung-SM-S938B-Adreno__TM__830-1793385646.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1793343428,
     "filename": "Call_of_Duty_R___Black_Ops_II-Xiaomi-2312CRAD3C-Adreno__TM__710-1793343428.json"
-  },
-  {
-    "game": "Call_of_Duty_R___Black_Ops_II",
-    "manufacturer": "2312CRAD3C",
-    "device": "Adreno__TM__710",
-    "timestamp": 1793343383,
-    "filename": "Call_of_Duty_R___Black_Ops_II-Xiaomi-2312CRAD3C-Adreno__TM__710-1793343383.json"
   }
 ]
