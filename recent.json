@@ -1,5 +1,12 @@
 [
   {
+    "game": "Minecraft_Dungeons",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793341137,
+    "filename": "Minecraft_Dungeons-INFINIX-Infinix_X6855-Mali-G57_MC2-1793341137.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1793299795,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1793299795.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793297134,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX_MOBILITY_LIMITED-Infinix_X6812-Mali-G52_MC2-1793297134.json"
   }
 ]
