@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1793332485,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1793332485.json"
+  },
+  {
     "game": "MW2_Campaign_Remastered_Setup",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1793295342,
     "filename": "METAL_GEAR_SOLID_V__THE_PHANTOM_PAIN-Xiaomi-22101320G-Adreno__TM__642L-1793295342.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G1",
-    "device": "Ultra_MC12",
-    "timestamp": 1793292635,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2602EPTC0G-Mali-G1-Ultra_MC12-1793292635.json"
   }
 ]
