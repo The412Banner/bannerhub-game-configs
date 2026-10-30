@@ -1,5 +1,12 @@
 [
   {
+    "game": "motogp",
+    "manufacturer": "CPH2015",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1793382828,
+    "filename": "motogp-OPPO-CPH2015-PowerVR_Rogue_GE8320-1793382828.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1793340676,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1793340676.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1793339345,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-Z2467-Mali-G57-1793339345.json"
   }
 ]
