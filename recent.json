@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1793390199,
+    "filename": "PlayGTAV-Xiaomi-2212ARNC4L-Mali-G52_MC2-1793390199.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "25118PC98G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793348182,
     "filename": "Red_Dead_Redemption_2-INFINIX-Infinix_X6886-Mali-G57_MC2-1793348182.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1793346667,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2311DRK48G-Mali-G615_MC6-1793346667.json"
   }
 ]
