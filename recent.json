@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793385318,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155F-Mali-G57_MC2-1793385318.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1793383528,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3930-Mali-G57-1793383528.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1793343383,
     "filename": "Call_of_Duty_R___Black_Ops_II-Xiaomi-2312CRAD3C-Adreno__TM__710-1793343383.json"
-  },
-  {
-    "game": "Call_of_Duty_R___Black_Ops_II",
-    "manufacturer": "2312CRAD3C",
-    "device": "Adreno__TM__710",
-    "timestamp": 1793343284,
-    "filename": "Call_of_Duty_R___Black_Ops_II-Xiaomi-2312CRAD3C-Adreno__TM__710-1793343284.json"
   }
 ]
