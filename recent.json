@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793485402,
+    "filename": "Left_4_Dead_2-TECNO-TECNO_LJ6-Mali-G57_MC2-1793485402.json"
+  },
+  {
     "game": "PES2020",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793450740,
     "filename": "Ni_noks_Kuni_Wrath_of_the_White_Witch__Remastered-samsung-SM-A155F-Mali-G57_MC2-1793450740.json"
-  },
-  {
-    "game": "DRAGON_BALL__Sparking__ZERO",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1793450507,
-    "filename": "DRAGON_BALL__Sparking__ZERO-samsung-SM-S918B-Adreno__TM__740-1793450507.json"
   }
 ]
