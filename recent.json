@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_11",
+    "manufacturer": "G720",
+    "device": "Immortalis_MC12",
+    "timestamp": 1793422641,
+    "filename": "Mortal_Kombat_11-realme-RMX5061-Mali-G720-Immortalis_MC12-1793422641.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2016__c__Konami_Digital_Entertainment__",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1793387605,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25118PC98G-Adreno__TM__710-1793387605.json"
-  },
-  {
-    "game": "EA_app",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1793385646,
-    "filename": "EA_app-samsung-SM-S938B-Adreno__TM__830-1793385646.json"
   }
 ]
