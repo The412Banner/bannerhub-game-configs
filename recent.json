@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1793406211,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g15-Mali-G52_MC2-1793406211.json"
+  },
+  {
     "game": "Dead_Space__3",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793379531,
     "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6840-Mali-G52_MC2-1793379531.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793376940,
-    "filename": "PlayGTAV-TECNO-TECNO_CK7n-Mali-G57_MC2-1793376940.json"
   }
 ]
