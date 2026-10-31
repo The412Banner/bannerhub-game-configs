@@ -3,6 +3,13 @@
     "game": "BootstrapPackagedGame",
     "manufacturer": "W09",
     "device": "Adreno__TM__610",
+    "timestamp": 1793466865,
+    "filename": "BootstrapPackagedGame-HONOR-ELN-W09-Adreno__TM__610-1793466865.json"
+  },
+  {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "W09",
+    "device": "Adreno__TM__610",
     "timestamp": 1793466850,
     "filename": "BootstrapPackagedGame-HONOR-ELN-W09-Adreno__TM__610-1793466850.json"
   },
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1793435623,
     "filename": "Play_GTAV_v2-samsung-SM-A546E-Mali-G68-1793435623.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1793435018,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-Redmi_Note_8_Pro-Mali-G76_MC4-1793435018.json"
   }
 ]
