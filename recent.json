@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1793415744,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25028PC03G-Mali-G57-1793415744.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1793415633,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25028PC03G-Mali-G57-1793415633.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793385318,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155F-Mali-G57_MC2-1793385318.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1793383528,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3930-Mali-G57-1793383528.json"
   }
 ]
