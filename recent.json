@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A8",
+    "device": "PowerVR_Rogue_GE8300",
+    "timestamp": 1793424527,
+    "filename": "Pro_Evolution_Soccer_2013-Maxwest-MX-A8-PowerVR_Rogue_GE8300-1793424527.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "motorola_edge_70_fusion",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1793387695,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25118PC98G-Adreno__TM__710-1793387695.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "25118PC98G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1793387663,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25118PC98G-Adreno__TM__710-1793387663.json"
   }
 ]
