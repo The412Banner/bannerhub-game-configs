@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G76_MC4",
+    "timestamp": 1793435018,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-Redmi_Note_8_Pro-Mali-G76_MC4-1793435018.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1793391834,
     "filename": "MW2_Campaign_Remastered_Setup-samsung-SM-N975F-Mali-G76-1793391834.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793390199,
-    "filename": "PlayGTAV-Xiaomi-2212ARNC4L-Mali-G52_MC2-1793390199.json"
   }
 ]
