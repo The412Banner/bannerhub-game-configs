@@ -1,5 +1,12 @@
 [
   {
+    "game": "Play_God_of_War_III",
+    "manufacturer": "S908U1",
+    "device": "Adreno__TM__730",
+    "timestamp": 1793472244,
+    "filename": "Play_God_of_War_III-samsung-SM-S908U1-Adreno__TM__730-1793472244.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A715F",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1793446458,
     "filename": "Tomb_Raider-INFINIX-Infinix_X6871-Mali-G610_MC6-1793446458.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793444526,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6882-Mali-G57_MC2-1793444526.json"
   }
 ]
