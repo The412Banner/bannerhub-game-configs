@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2016__c__Konami_Digital_Entertainment__",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1793419443,
+    "filename": "Pro_Evolution_Soccer_2016__c__Konami_Digital_Entertainment__-INFINIX-Infinix_X6525-Mali-G57-1793419443.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1793385646,
     "filename": "EA_app-samsung-SM-S938B-Adreno__TM__830-1793385646.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793385318,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155F-Mali-G57_MC2-1793385318.json"
   }
 ]
