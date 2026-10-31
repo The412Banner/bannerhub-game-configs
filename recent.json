@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ni_noks_Kuni_Wrath_of_the_White_Witch__Remastered",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793450740,
+    "filename": "Ni_noks_Kuni_Wrath_of_the_White_Witch__Remastered-samsung-SM-A155F-Mali-G57_MC2-1793450740.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1793413476,
     "filename": "Hollow_Knight-HUAWEI-VOG-L29-Mali-G76-1793413476.json"
-  },
-  {
-    "game": "MK_NEW_ERA_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793412321,
-    "filename": "MK_NEW_ERA_-TCL-T803E-Mali-G57_MC2-1793412321.json"
   }
 ]
