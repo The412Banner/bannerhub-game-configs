@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hollow_Knight",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1793413476,
+    "filename": "Hollow_Knight-HUAWEI-VOG-L29-Mali-G76-1793413476.json"
+  },
+  {
     "game": "MK_NEW_ERA_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1793382828,
     "filename": "motogp-OPPO-CPH2015-PowerVR_Rogue_GE8320-1793382828.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793382334,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A165F-Mali-G57_MC2-1793382334.json"
   }
 ]
