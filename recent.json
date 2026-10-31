@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "S928B",
+    "device": "Adreno__TM__750",
+    "timestamp": 1793462583,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-samsung-SM-S928B-Adreno__TM__750-1793462583.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "W09",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8300",
     "timestamp": 1793424527,
     "filename": "Pro_Evolution_Soccer_2013-Maxwest-MX-A8-PowerVR_Rogue_GE8300-1793424527.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "motorola_edge_70_fusion",
-    "device": "Adreno__TM__810",
-    "timestamp": 1793424291,
-    "filename": "Euro_Truck_Simulator_2-motorola-motorola_edge_70_fusion-Adreno__TM__810-1793424291.json"
   }
 ]
