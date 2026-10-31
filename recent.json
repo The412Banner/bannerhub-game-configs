@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1793450359,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1793450359.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
     "timestamp": 1793448276,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1793408234,
     "filename": "BLEACH_Rebirth_of_Souls-Xiaomi-23013PC75G-Adreno__TM__730-1793408234.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793406231,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g15-Mali-G52_MC2-1793406231.json"
   }
 ]
