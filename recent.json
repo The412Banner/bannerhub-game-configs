@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793456786,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155F-Mali-G57_MC2-1793456786.json"
+  },
+  {
     "game": "Ni_noks_Kuni_Wrath_of_the_White_Witch__Remastered",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1793413919,
     "filename": "StyxGame-HUAWEI-VOG-L29-Mali-G76-1793413919.json"
-  },
-  {
-    "game": "Hollow_Knight",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1793413476,
-    "filename": "Hollow_Knight-HUAWEI-VOG-L29-Mali-G76-1793413476.json"
   }
 ]
