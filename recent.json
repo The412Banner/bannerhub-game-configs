@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1793446458,
+    "filename": "Tomb_Raider-INFINIX-Infinix_X6871-Mali-G610_MC6-1793446458.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793406211,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g15-Mali-G52_MC2-1793406211.json"
-  },
-  {
-    "game": "Dead_Space__3",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1793403396,
-    "filename": "Dead_Space__3-INFINIX-Infinix_X6871-Mali-G610_MC6-1793403396.json"
   }
 ]
