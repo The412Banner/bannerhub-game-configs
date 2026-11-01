@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1793573302,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1793573302.json"
+  },
+  {
     "game": "____2016",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793554331,
     "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_LI7-Mali-G57_MC2-1793554331.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793554124,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155F-Mali-G57_MC2-1793554124.json"
   }
 ]
