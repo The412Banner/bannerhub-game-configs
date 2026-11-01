@@ -1,5 +1,12 @@
 [
   {
+    "game": "COD_MW4",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793519289,
+    "filename": "COD_MW4-INFINIX-Infinix_X6886-Mali-G57_MC2-1793519289.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1793467539,
     "filename": "BootstrapPackagedGame-HONOR-ELN-W09-Adreno__TM__610-1793467539.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "W09",
-    "device": "Adreno__TM__610",
-    "timestamp": 1793467018,
-    "filename": "BootstrapPackagedGame-HONOR-ELN-W09-Adreno__TM__610-1793467018.json"
   }
 ]
