@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1793577163,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-2311DRK48G-Mali-G615_MC6-1793577163.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1793557779,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-S928B-Adreno__TM__750-1793557779.json"
-  },
-  {
-    "game": "Luxury_Supermarket_Simulator",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793554717,
-    "filename": "Luxury_Supermarket_Simulator-vivo-V2310-Mali-G52_MC2-1793554717.json"
   }
 ]
