@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793554331,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_LI7-Mali-G57_MC2-1793554331.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793526055,
     "filename": "Euro_Truck_Simulator_2-HONOR-JDY-LX2-Mali-G52_MC2-1793526055.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1793524830,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1793524830.json"
   }
 ]
