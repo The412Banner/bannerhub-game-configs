@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1793526055,
+    "filename": "Euro_Truck_Simulator_2-HONOR-JDY-LX2-Mali-G52_MC2-1793526055.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1793474553,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1793474553.json"
-  },
-  {
-    "game": "Play_God_of_War_III",
-    "manufacturer": "S908U1",
-    "device": "Adreno__TM__730",
-    "timestamp": 1793472244,
-    "filename": "Play_God_of_War_III-samsung-SM-S908U1-Adreno__TM__730-1793472244.json"
   }
 ]
