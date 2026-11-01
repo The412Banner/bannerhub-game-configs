@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23117RK66C",
+    "device": "Adreno__TM__750",
+    "timestamp": 1793565243,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23117RK66C-Adreno__TM__750-1793565243.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "M2101K7AG",
     "device": "Adreno__TM__612",
     "timestamp": 1793564517,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1793551159,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-HEY3-W00-Adreno__TM__720-1793551159.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793550979,
-    "filename": "Sleeping_Dogs-ITEL-itel_P13001L-Mali-G57_MC2-1793550979.json"
   }
 ]
