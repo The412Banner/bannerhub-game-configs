@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1793553327,
+    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_CM7-Mali-G615_MC2-1793553327.json"
+  },
+  {
     "game": "Hades",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1793523701,
     "filename": "Devil_May_Cry_5-Xiaomi-24069PC21G-Adreno__TM__735-1793523701.json"
-  },
-  {
-    "game": "COD_MW4",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793519289,
-    "filename": "COD_MW4-INFINIX-Infinix_X6886-Mali-G57_MC2-1793519289.json"
   }
 ]
