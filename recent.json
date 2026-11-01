@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1793544768,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-Z2467-Mali-G57-1793544768.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G615_MC2",
     "timestamp": 1793543512,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6876-Mali-G615_MC2-1793543512.json"
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793503519,
     "filename": "Resident_Evil_2-INFINIX-Infinix_X6711-Mali-G57_MC2-1793503519.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793495206,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-Xiaomi-2312FPCA6G-Mali-G57_MC2-1793495206.json"
   }
 ]
