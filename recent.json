@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1793559466,
+    "filename": "Mafia_II__Classic_-INFINIX-Infinix_X6873-Mali-G615_MC6-1793559466.json"
+  },
+  {
     "game": "BlueStacks_5_",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC12",
     "timestamp": 1793538314,
     "filename": "Schedule_I-Xiaomi-2602BRT18C-Mali-G925-Immortalis_MC12-1793538314.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1793535885,
-    "filename": "Resident_Evil_2-vivo-V2413-Mali-G925-Immortalis_MC12-1793535885.json"
   }
 ]
