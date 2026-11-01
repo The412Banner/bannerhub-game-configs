@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1793524830,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3760-Mali-G57-1793524830.json"
+  },
+  {
     "game": "Devil_May_Cry_5",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1793472244,
     "filename": "Play_God_of_War_III-samsung-SM-S908U1-Adreno__TM__730-1793472244.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A715F",
-    "device": "Adreno__TM__618",
-    "timestamp": 1793468838,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A715F-Adreno__TM__618-1793468838.json"
   }
 ]
