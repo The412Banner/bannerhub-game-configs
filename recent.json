@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hades",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1793552127,
+    "filename": "Hades-ITEL-itel_P671L-Mali-G57-1793552127.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "W00",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793519289,
     "filename": "COD_MW4-INFINIX-Infinix_X6886-Mali-G57_MC2-1793519289.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__810",
-    "timestamp": 1793519091,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-HONOR-MTN-NX1-Adreno__TM__810-1793519091.json"
   }
 ]
