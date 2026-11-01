@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1793575735,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1793575735.json"
+  },
+  {
     "game": "Need_for_Speed_underground_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793554665,
     "filename": "Luxury_Supermarket_Simulator-vivo-V2310-Mali-G52_MC2-1793554665.json"
-  },
-  {
-    "game": "Luxury_Supermarket_Simulator",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793554632,
-    "filename": "Luxury_Supermarket_Simulator-vivo-V2310-Mali-G52_MC2-1793554632.json"
   }
 ]
