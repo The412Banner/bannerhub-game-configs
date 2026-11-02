@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "23127PN0CG",
+    "device": "Adreno__TM__750",
+    "timestamp": 1793617319,
+    "filename": "Far_Cry_3-Xiaomi-23127PN0CG-Adreno__TM__750-1793617319.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1793578293,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2607DPC18G-Adreno__TM__710-1793578293.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1793577188,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-2311DRK48G-Mali-G615_MC6-1793577188.json"
   }
 ]
