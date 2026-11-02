@@ -1,5 +1,12 @@
 [
   {
+    "game": "Persona_5_Royal",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1793634224,
+    "filename": "Persona_5_Royal-Xiaomi-23043RP34G-Adreno__TM__650-1793634224.json"
+  },
+  {
     "game": "motogp",
     "manufacturer": "vivo_1918",
     "device": "Adreno__TM__616",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1793618809,
     "filename": "PlayGTAV-TECNO-TECNO_CK8n-Mali-G77_MC9-1793618809.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "23127PN0CG",
-    "device": "Adreno__TM__750",
-    "timestamp": 1793617795,
-    "filename": "Far_Cry_3-Xiaomi-23127PN0CG-Adreno__TM__750-1793617795.json"
   }
 ]
