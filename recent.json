@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tufu",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1793658042,
+    "filename": "Tufu-motorola-moto_g45_5G-Adreno__TM__619-1793658042.json"
+  },
+  {
     "game": "Demon_Slayer_-Kimetsu_no_Yaiba-_The_Hinokami_Chronicles_2",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_304_",
     "timestamp": 1793639646,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A376B-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_304_-1793639646.json"
-  },
-  {
-    "game": "TEKKEN_7",
-    "manufacturer": "F971B",
-    "device": "Adreno__TM__840",
-    "timestamp": 1793639526,
-    "filename": "TEKKEN_7-samsung-SM-F971B-Adreno__TM__840-1793639526.json"
   }
 ]
