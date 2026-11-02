@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1793618809,
+    "filename": "PlayGTAV-TECNO-TECNO_CK8n-Mali-G77_MC9-1793618809.json"
+  },
+  {
     "game": "Far_Cry_3",
     "manufacturer": "23127PN0CG",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
     "timestamp": 1793579738,
     "filename": "The_Elder_Scrolls_V__Skyrim-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1793579738.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "2607DPC18G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1793578456,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2607DPC18G-Adreno__TM__710-1793578456.json"
   }
 ]
