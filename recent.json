@@ -1,5 +1,12 @@
 [
   {
+    "game": "MiSide",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793583903,
+    "filename": "MiSide-samsung-SM-A175F-Mali-G57_MC2-1793583903.json"
+  },
+  {
     "game": "Black_Desert________________________________________________",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1793560773,
     "filename": "QuickSFV_Application-samsung-SM-M546B-Mali-G68-1793560773.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A556E",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1793559621,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1793559621.json"
   }
 ]
