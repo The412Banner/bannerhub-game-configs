@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793656192,
+    "filename": "Cuphead-Xiaomi-2510DRA23L-Mali-G57_MC2-1793656192.json"
+  },
+  {
     "game": "Unpack_Mario_Forever_7_02_beta",
     "manufacturer": "CPH2387",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1793632238,
     "filename": "Mage_Kanades_Futanari_Dungeon_Quest-HONOR-LLY-LX2-Adreno__TM__610-1793632238.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793628301,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25078RA3EY-Mali-G52_MC2-1793628301.json"
   }
 ]
