@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1793658007,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-motorola-moto_g45_5G-Adreno__TM__619-1793658007.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1793637071,
     "filename": "SHINOBI__Art_of_Vengeance-Moorechip-Retroid_Pocket_4_Pro-Mali-G77_MC9-1793637071.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1793636706,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_60_fusion-Mali-G615_MC2-1793636706.json"
   }
 ]
