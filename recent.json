@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1793631543,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6725-Mali-G57-1793631543.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793611163,
     "filename": "DARK_SOULS___REMASTERED-motorola-moto_g05-Mali-G52_MC2-1793611163.json"
-  },
-  {
-    "game": "LDPlayer",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793607394,
-    "filename": "LDPlayer-samsung-SM-X110-Mali-G57_MC2-1793607394.json"
   }
 ]
