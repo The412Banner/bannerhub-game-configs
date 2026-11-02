@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "moto_g22",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1793656386,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1793656386.json"
+  },
+  {
     "game": "Cuphead",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1793632832,
     "filename": "DRAGON_BALL_FighterZ-INFINIX-Infinix_X6525-Mali-G57-1793632832.json"
-  },
-  {
-    "game": "Mage_Kanades_Futanari_Dungeon_Quest",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1793632238,
-    "filename": "Mage_Kanades_Futanari_Dungeon_Quest-HONOR-LLY-LX2-Adreno__TM__610-1793632238.json"
   }
 ]
