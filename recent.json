@@ -1,5 +1,12 @@
 [
   {
+    "game": "Farthest_Frontier",
+    "manufacturer": "S928W",
+    "device": "Adreno__TM__750",
+    "timestamp": 1793663305,
+    "filename": "Farthest_Frontier-samsung-SM-S928W-Adreno__TM__750-1793663305.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793647331,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A175F-Mali-G57_MC2-1793647331.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793647032,
-    "filename": "Mafia_II__Classic_-Ulefone-Armor_25T_Pro-Mali-G57_MC2-1793647032.json"
   }
 ]
