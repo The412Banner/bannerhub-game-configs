@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793588223,
+    "filename": "Mafia_II__Classic_-Xiaomi-2312DRAABG-Mali-G57_MC2-1793588223.json"
+  },
+  {
     "game": "MiSide",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793560943,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25040RP0AL-Mali-G57_MC2-1793560943.json"
-  },
-  {
-    "game": "QuickSFV_Application",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1793560773,
-    "filename": "QuickSFV_Application-samsung-SM-M546B-Mali-G68-1793560773.json"
   }
 ]
