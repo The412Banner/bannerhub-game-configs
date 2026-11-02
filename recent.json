@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cuphead",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1793589819,
+    "filename": "Cuphead-Xiaomi-24095PCADG-Mali-G615_MC2-1793589819.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__612",
     "timestamp": 1793564517,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2101K7AG-Adreno__TM__612-1793564517.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793560943,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-25040RP0AL-Mali-G57_MC2-1793560943.json"
   }
 ]
