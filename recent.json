@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Elder_Scrolls_V__Skyrim",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
+    "timestamp": 1793579738,
+    "filename": "The_Elder_Scrolls_V__Skyrim-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1793579738.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "2607DPC18G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1793559495,
     "filename": "Mafia_II__Classic_-INFINIX-Infinix_X6873-Mali-G615_MC6-1793559495.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1793559473,
-    "filename": "Mafia_II__Classic_-INFINIX-Infinix_X6873-Mali-G615_MC6-1793559473.json"
   }
 ]
