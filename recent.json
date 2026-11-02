@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Most_Wanted",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1793658048,
+    "filename": "Need_for_Speed__Most_Wanted-motorola-moto_g45_5G-Adreno__TM__619-1793658048.json"
+  },
+  {
     "game": "Tufu",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1793639952,
     "filename": "Lego_marvel_dc-INFINIX-Infinix_X6873-Mali-G615_MC6-1793639952.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A376B",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_304_",
-    "timestamp": 1793639646,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A376B-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_304_-1793639646.json"
   }
 ]
