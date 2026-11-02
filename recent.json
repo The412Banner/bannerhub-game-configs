@@ -3,6 +3,13 @@
     "game": "Cuphead",
     "manufacturer": "Mali",
     "device": "G615_MC2",
+    "timestamp": 1793589828,
+    "filename": "Cuphead-Xiaomi-24095PCADG-Mali-G615_MC2-1793589828.json"
+  },
+  {
+    "game": "Cuphead",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
     "timestamp": 1793589819,
     "filename": "Cuphead-Xiaomi-24095PCADG-Mali-G615_MC2-1793589819.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1793565243,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23117RK66C-Adreno__TM__750-1793565243.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "M2101K7AG",
-    "device": "Adreno__TM__612",
-    "timestamp": 1793564517,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2101K7AG-Adreno__TM__612-1793564517.json"
   }
 ]
