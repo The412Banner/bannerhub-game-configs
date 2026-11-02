@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1793615389,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NP05J-Adreno__TM__830-1793615389.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "23129RAA4G",
     "device": "Adreno__TM__610",
     "timestamp": 1793614012,
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1793577163,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-2311DRK48G-Mali-G615_MC6-1793577163.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1793576198,
-    "filename": "DRAGON_BALL_FighterZ-samsung-SM-A346E-Mali-G68_MC4-1793576198.json"
   }
 ]
