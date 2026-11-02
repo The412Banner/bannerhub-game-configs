@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1793627793,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25078RA3EY-Mali-G52_MC2-1793627793.json"
+  },
+  {
     "game": "Cute_Reapers_in_my_Room",
     "manufacturer": "Mali",
     "device": "G610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793605250,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-24117RN76G-Mali-G57_MC2-1793605250.json"
-  },
-  {
-    "game": "ULTRAKILL",
-    "manufacturer": "RMX5555",
-    "device": "Adreno__TM__610",
-    "timestamp": 1793601844,
-    "filename": "ULTRAKILL-realme-RMX5555-Adreno__TM__610-1793601844.json"
   }
 ]
