@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__710",
+    "timestamp": 1793658414,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-BRP-NX1-Adreno__TM__710-1793658414.json"
+  },
+  {
     "game": "Need_for_Speed__Most_Wanted",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793640565,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1793640565.json"
-  },
-  {
-    "game": "Lego_marvel_dc",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1793639952,
-    "filename": "Lego_marvel_dc-INFINIX-Infinix_X6873-Mali-G615_MC6-1793639952.json"
   }
 ]
