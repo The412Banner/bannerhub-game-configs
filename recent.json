@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mage_Kanades_Futanari_Dungeon_Quest",
+    "manufacturer": "LX2",
+    "device": "Adreno__TM__610",
+    "timestamp": 1793632238,
+    "filename": "Mage_Kanades_Futanari_Dungeon_Quest-HONOR-LLY-LX2-Adreno__TM__610-1793632238.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1793616887,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1793616887.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1793615389,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NP05J-Adreno__TM__830-1793615389.json"
   }
 ]
