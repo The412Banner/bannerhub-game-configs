@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1793621282,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NP05J-Adreno__TM__830-1793621282.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1793580200,
     "filename": "Black_Desert________________________________________________-Xiaomi-2311DRK48G-Mali-G615_MC6-1793580200.json"
-  },
-  {
-    "game": "The_Elder_Scrolls_V__Skyrim",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_",
-    "timestamp": 1793579738,
-    "filename": "The_Elder_Scrolls_V__Skyrim-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_279_-1793579738.json"
   }
 ]
