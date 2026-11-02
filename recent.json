@@ -1,5 +1,12 @@
 [
   {
+    "game": "OCTOPATH_TRAVELER_",
+    "manufacturer": "9707F",
+    "device": "Adreno__TM__650",
+    "timestamp": 1793621373,
+    "filename": "OCTOPATH_TRAVELER_-Lenovo-Lenovo_TB-9707F-Adreno__TM__650-1793621373.json"
+  },
+  {
     "game": "Hades",
     "manufacturer": "9707F",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793588223,
     "filename": "Mafia_II__Classic_-Xiaomi-2312DRAABG-Mali-G57_MC2-1793588223.json"
-  },
-  {
-    "game": "MiSide",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793583903,
-    "filename": "MiSide-samsung-SM-A175F-Mali-G57_MC2-1793583903.json"
   }
 ]
