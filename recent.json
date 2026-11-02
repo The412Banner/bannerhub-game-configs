@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1793614012,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23129RAA4G-Adreno__TM__610-1793614012.json"
+  },
+  {
     "game": "DARK_SOULS___REMASTERED",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1793576198,
     "filename": "DRAGON_BALL_FighterZ-samsung-SM-A346E-Mali-G68_MC4-1793576198.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1793576190,
-    "filename": "DRAGON_BALL_FighterZ-samsung-SM-A346E-Mali-G68_MC4-1793576190.json"
   }
 ]
