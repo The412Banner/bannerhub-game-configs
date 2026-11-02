@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1793642435,
+    "filename": "PlayGTAV-Xiaomi-23129RAA4G-Adreno__TM__610-1793642435.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G610",
     "timestamp": 1793630717,
     "filename": "Cute_Reapers_in_my_Room-Google-Pixel_4_XL-Mali-G610-1793630717.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "moto_g52",
-    "device": "Adreno__TM__610",
-    "timestamp": 1793629930,
-    "filename": "American_Truck_Simulator-motorola-moto_g52-Adreno__TM__610-1793629930.json"
   }
 ]
