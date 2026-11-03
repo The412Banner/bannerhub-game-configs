@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP17",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1793743969,
+    "filename": "MotoGP17-ITEL-itel_S685LN-Mali-G57-1793743969.json"
+  },
+  {
     "game": "The_Elder_Scrolls_V__Skyrim",
     "manufacturer": "51C",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1793706137,
     "filename": "Rise_of_the_Tomb_Raider_-HUAWEI-WLZ-AN00-Mali-G76-1793706137.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1793705552,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-M2102J20SG-Adreno__TM__640-1793705552.json"
   }
 ]
