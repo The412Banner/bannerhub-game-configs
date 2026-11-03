@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2405CPCFBG",
+    "device": "Adreno__TM__710",
+    "timestamp": 1793720910,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2405CPCFBG-Adreno__TM__710-1793720910.json"
+  },
+  {
     "game": "Dreajm_Hacker",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793687186,
     "filename": "____________________________________________________________-realme-RMX3630-Mali-G57_MC2-1793687186.json"
-  },
-  {
-    "game": "____________________________________________________________",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793687168,
-    "filename": "____________________________________________________________-realme-RMX3630-Mali-G57_MC2-1793687168.json"
   }
 ]
