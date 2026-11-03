@@ -1,6 +1,13 @@
 [
   {
     "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793704687,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-A175F-Mali-G57_MC2-1793704687.json"
+  },
+  {
+    "game": "Euro_Truck_Simulator_2",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
     "timestamp": 1793703661,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1793677141,
     "filename": "Chained_Echoes-vivo-I2213-Adreno__TM__642L-1793677141.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1793670376,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1793670376.json"
   }
 ]
