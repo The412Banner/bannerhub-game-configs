@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1793706137,
+    "filename": "Rise_of_the_Tomb_Raider_-HUAWEI-WLZ-AN00-Mali-G76-1793706137.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1793679923,
     "filename": "Mortal_Kombat_11-Xiaomi-25053PC47G-Adreno__TM__825-1793679923.json"
-  },
-  {
-    "game": "Prototype_",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1793679011,
-    "filename": "Prototype_-INFINIX-Infinix_X6871-Mali-G610_MC6-1793679011.json"
   }
 ]
