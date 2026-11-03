@@ -1,5 +1,12 @@
 [
   {
+    "game": "____________________________________________________________",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793687168,
+    "filename": "____________________________________________________________-realme-RMX3630-Mali-G57_MC2-1793687168.json"
+  },
+  {
     "game": "Atla",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1793663305,
     "filename": "Farthest_Frontier-samsung-SM-S928W-Adreno__TM__750-1793663305.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1793660035,
-    "filename": "BootstrapPackagedGame-samsung-SM-A256E-Mali-G68-1793660035.json"
   }
 ]
