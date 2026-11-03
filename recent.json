@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "S928U",
+    "device": "Adreno__TM__750",
+    "timestamp": 1793668935,
+    "filename": "Tomb_Raider-samsung-SM-S928U-Adreno__TM__750-1793668935.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793656192,
     "filename": "Cuphead-Xiaomi-2510DRA23L-Mali-G57_MC2-1793656192.json"
-  },
-  {
-    "game": "Unpack_Mario_Forever_7_02_beta",
-    "manufacturer": "CPH2387",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1793653455,
-    "filename": "Unpack_Mario_Forever_7_02_beta-OPPO-CPH2387-PowerVR_Rogue_GE8320-1793653455.json"
   }
 ]
