@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "S928U",
+    "device": "Adreno__TM__750",
+    "timestamp": 1793668955,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-S928U-Adreno__TM__750-1793668955.json"
+  },
+  {
     "game": "METAL_GEAR_RISING__REVENGEANCE",
     "manufacturer": "S928U",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793656951,
     "filename": "Pro_Evolution_Soccer_2014_DEMO-samsung-SM-A165F-Mali-G57_MC2-1793656951.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g22",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1793656386,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1793656386.json"
   }
 ]
