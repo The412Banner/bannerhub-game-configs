@@ -1,5 +1,12 @@
 [
   {
+    "game": "METAL_GEAR_RISING__REVENGEANCE",
+    "manufacturer": "S928U",
+    "device": "Adreno__TM__750",
+    "timestamp": 1793668951,
+    "filename": "METAL_GEAR_RISING__REVENGEANCE-samsung-SM-S928U-Adreno__TM__750-1793668951.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "S928U",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1793656386,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g22-PowerVR_Rogue_GE8320-1793656386.json"
-  },
-  {
-    "game": "Cuphead",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793656192,
-    "filename": "Cuphead-Xiaomi-2510DRA23L-Mali-G57_MC2-1793656192.json"
   }
 ]
