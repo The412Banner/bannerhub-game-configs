@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1793681426,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A217M-Mali-G52-1793681426.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__3__2011_",
     "manufacturer": "24122RKC7G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1793659940,
     "filename": "FINAL_FANTASY_TACTICS_-_The_Ivalice_Chronicles-samsung-SM-F971B-Adreno__TM__840-1793659940.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793659704,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX-Infinix_X6728-Mali-G52_MC2-1793659704.json"
   }
 ]
