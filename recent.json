@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1793739572,
+    "filename": "BootstrapPackagedGame-nubia-NX809J-Adreno__TM__840-1793739572.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__640",
     "timestamp": 1793705534,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-M2102J20SG-Adreno__TM__640-1793705534.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793704687,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A175F-Mali-G57_MC2-1793704687.json"
   }
 ]
