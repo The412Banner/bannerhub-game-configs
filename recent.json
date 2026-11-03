@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793738072,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_LJ6-Mali-G57_MC2-1793738072.json"
+  },
+  {
     "game": "Resident_Evil_Requiem",
     "manufacturer": "TB321FU",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793704687,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A175F-Mali-G57_MC2-1793704687.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1793703661,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-M2102J20SG-Adreno__TM__640-1793703661.json"
   }
 ]
