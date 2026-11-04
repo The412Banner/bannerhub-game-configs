@@ -1,5 +1,12 @@
 [
   {
+    "game": "Fifa_19",
+    "manufacturer": "CPH2765",
+    "device": "Adreno__TM__840",
+    "timestamp": 1793782708,
+    "filename": "Fifa_19-OPPO-CPH2765-Adreno__TM__840-1793782708.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1793739572,
     "filename": "BootstrapPackagedGame-nubia-NX809J-Adreno__TM__840-1793739572.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793738072,
-    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_LJ6-Mali-G57_MC2-1793738072.json"
   }
 ]
