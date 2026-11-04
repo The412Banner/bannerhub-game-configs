@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assetto_Corsa",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1793800850,
+    "filename": "Assetto_Corsa-Xiaomi-2311DRK48G-Mali-G615_MC6-1793800850.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Enhanced",
     "manufacturer": "M332BF",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1793751511,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1793751511.json"
-  },
-  {
-    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793751421,
-    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-A165F-Mali-G57_MC2-1793751421.json"
   }
 ]
