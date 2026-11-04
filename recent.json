@@ -1,5 +1,12 @@
 [
   {
+    "game": "Horizon_Zero_Dawn__Complete_Edition",
+    "manufacturer": "CPH2585",
+    "device": "Adreno__TM__740",
+    "timestamp": 1793793120,
+    "filename": "Horizon_Zero_Dawn__Complete_Edition-OnePlus-CPH2585-Adreno__TM__740-1793793120.json"
+  },
+  {
     "game": "Fifa_19",
     "manufacturer": "CPH2765",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1793741237,
     "filename": "The_Elder_Scrolls_V__Skyrim-Sony-SO-51C-Adreno__TM__730-1793741237.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1793739572,
-    "filename": "BootstrapPackagedGame-nubia-NX809J-Adreno__TM__840-1793739572.json"
   }
 ]
