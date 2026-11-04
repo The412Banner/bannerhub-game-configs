@@ -1,5 +1,12 @@
 [
   {
+    "game": "Electron_",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1793757128,
+    "filename": "Electron_-INFINIX-Infinix_X6857-Mali-G615_MC2-1793757128.json"
+  },
+  {
     "game": "Monster_Hunter__World",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793724149,
     "filename": "Need_for_Speed_9-Xiaomi-2310FPCA4G-Mali-G52_MC2-1793724149.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "2405CPCFBG",
-    "device": "Adreno__TM__710",
-    "timestamp": 1793720910,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2405CPCFBG-Adreno__TM__710-1793720910.json"
   }
 ]
