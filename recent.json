@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793821851,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1793821851.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Enhanced",
     "manufacturer": "A037M",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1793802509,
     "filename": "WWE_2K16-Xiaomi-2107113SG-Adreno__TM__660-1793802509.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Infinix_X6816",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1793802176,
-    "filename": "Pro_Evolution_Soccer_2013-INFINIX_MOBILITY_LIMITED-Infinix_X6816-PowerVR_Rogue_GE8320-1793802176.json"
   }
 ]
