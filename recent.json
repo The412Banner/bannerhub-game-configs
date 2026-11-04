@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1793751511,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1793751511.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1793718060,
     "filename": "Cars-Xiaomi-23129RA5FL-Adreno__TM__610-1793718060.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793714903,
-    "filename": "Resident_Evil_5-ITEL-itel_P661N-Mali-G57_MC2-1793714903.json"
   }
 ]
