@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Infinix_X6816",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1793802176,
+    "filename": "Pro_Evolution_Soccer_2013-INFINIX_MOBILITY_LIMITED-Infinix_X6816-PowerVR_Rogue_GE8320-1793802176.json"
+  },
+  {
     "game": "Assetto_Corsa",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1793752375,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1793752375.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1793751511,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2511FPC34G-Mali-G720_MC8-1793751511.json"
   }
 ]
