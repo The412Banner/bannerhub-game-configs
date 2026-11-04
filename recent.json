@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH2363",
+    "device": "Adreno__TM__610",
+    "timestamp": 1793829691,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2363-Adreno__TM__610-1793829691.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1793815867,
     "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6871-Mali-G610_MC6-1793815867.json"
-  },
-  {
-    "game": "DAVE_THE_DIVER",
-    "manufacturer": "TB322FC",
-    "device": "Adreno__TM__830",
-    "timestamp": 1793815486,
-    "filename": "DAVE_THE_DIVER-LENOVO-TB322FC-Adreno__TM__830-1793815486.json"
   }
 ]
