@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Enhanced",
+    "manufacturer": "M332BF",
+    "device": "Adreno__TM__830",
+    "timestamp": 1793799949,
+    "filename": "Grand_Theft_Auto_V_Enhanced-Xiaomi-M332BF-Adreno__TM__830-1793799949.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793751421,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-A165F-Mali-G57_MC2-1793751421.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793749306,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2310FPCA4G-Mali-G52_MC2-1793749306.json"
   }
 ]
