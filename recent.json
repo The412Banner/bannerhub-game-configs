@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793751421,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-samsung-SM-A165F-Mali-G57_MC2-1793751421.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793714903,
     "filename": "Resident_Evil_5-ITEL-itel_P661N-Mali-G57_MC2-1793714903.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "G781B",
-    "device": "Adreno__TM__650",
-    "timestamp": 1793714233,
-    "filename": "Red_Dead_Redemption-samsung-SM-G781B-Adreno__TM__650-1793714233.json"
   }
 ]
