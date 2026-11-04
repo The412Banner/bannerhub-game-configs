@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23013PC75G",
+    "device": "Adreno__TM__730",
+    "timestamp": 1793804942,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23013PC75G-Adreno__TM__730-1793804942.json"
+  },
+  {
     "game": "WWE_2K16",
     "manufacturer": "2107113SG",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1793758801,
     "filename": "MIO__Memories_in_Orbit-AYANEO-Pocket_FIT-Adreno__TM__750-1793758801.json"
-  },
-  {
-    "game": "Electron_",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1793757128,
-    "filename": "Electron_-INFINIX-Infinix_X6857-Mali-G615_MC2-1793757128.json"
   }
 ]
