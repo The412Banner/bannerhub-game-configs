@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1793828286,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-nubia-NX809J-Adreno__TM__840-1793828286.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1793815486,
     "filename": "DAVE_THE_DIVER-LENOVO-TB322FC-Adreno__TM__830-1793815486.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__720",
-    "timestamp": 1793815106,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-DNY-NX9-Adreno__TM__720-1793815106.json"
   }
 ]
