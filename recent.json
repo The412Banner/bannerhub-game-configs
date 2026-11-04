@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft__Windows__Operating_System",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1793832364,
+    "filename": "Microsoft__Windows__Operating_System-INFINIX-Infinix_X6871-Mali-G610_MC6-1793832364.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "V2453A",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1793818454,
     "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1793818454.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793817551,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1793817551.json"
   }
 ]
