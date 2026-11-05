@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1793887290,
+    "filename": "God_of_War-INFINIX-Infinix_X6873-Mali-G615_MC6-1793887290.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1793830710,
     "filename": "Red_Dead_Redemption-vivo-V2453A-Adreno__TM__825-1793830710.json"
-  },
-  {
-    "game": "The_Killing_Antidote",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1793830386,
-    "filename": "The_Killing_Antidote-INFINIX-Infinix_X6873-Mali-G615_MC6-1793830386.json"
   }
 ]
