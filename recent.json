@@ -1,5 +1,12 @@
 [
   {
+    "game": "CoD_Cold_War__FitGirl_Repack_",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1793891731,
+    "filename": "CoD_Cold_War__FitGirl_Repack_-TECNO-TECNO_KM4-Mali-G57-1793891731.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "G975U1",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1793832552,
     "filename": "Microsoft__Windows__Operating_System-INFINIX-Infinix_X6871-Mali-G610_MC6-1793832552.json"
-  },
-  {
-    "game": "Microsoft__Windows__Operating_System",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1793832364,
-    "filename": "Microsoft__Windows__Operating_System-INFINIX-Infinix_X6871-Mali-G610_MC6-1793832364.json"
   }
 ]
