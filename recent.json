@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "G975U1",
+    "device": "Adreno__TM__640",
+    "timestamp": 1793888396,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-G975U1-Adreno__TM__640-1793888396.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1793832364,
     "filename": "Microsoft__Windows__Operating_System-INFINIX-Infinix_X6871-Mali-G610_MC6-1793832364.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "V2453A",
-    "device": "Adreno__TM__825",
-    "timestamp": 1793830710,
-    "filename": "Red_Dead_Redemption-vivo-V2453A-Adreno__TM__825-1793830710.json"
   }
 ]
