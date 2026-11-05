@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793906287,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2201117PG-Mali-G57_MC2-1793906287.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1793840239,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G998U-Adreno__TM__660-1793840239.json"
-  },
-  {
-    "game": "Borderlands_2",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1793836547,
-    "filename": "Borderlands_2-Xiaomi-2412DPC0AG-Mali-G720_MC7-1793836547.json"
   }
 ]
