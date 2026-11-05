@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "2201116PG",
+    "device": "Adreno__TM__619",
+    "timestamp": 1793846893,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2201116PG-Adreno__TM__619-1793846893.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793822090,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1793822090.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793821895,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1793821895.json"
   }
 ]
