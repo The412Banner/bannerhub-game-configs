@@ -1,5 +1,12 @@
 [
   {
+    "game": "rufus-4_15",
+    "manufacturer": "2201123G",
+    "device": "Adreno__TM__730",
+    "timestamp": 1793982105,
+    "filename": "rufus-4_15-Xiaomi-2201123G-Adreno__TM__730-1793982105.json"
+  },
+  {
     "game": "_ROMsNS__Super_Mario_Bros__Wonder_xci",
     "manufacturer": "2201123G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__829",
     "timestamp": 1793956434,
     "filename": "BioShock_Infinite-vivo-I2508-Adreno__TM__829-1793956434.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793955970,
-    "filename": "Resident_Evil_5-vivo-V2440-Mali-G57_MC2-1793955970.json"
   }
 ]
