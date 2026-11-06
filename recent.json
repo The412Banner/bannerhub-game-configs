@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "V2143",
+    "device": "Adreno__TM__610",
+    "timestamp": 1793983964,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2143-Adreno__TM__610-1793983964.json"
+  },
+  {
     "game": "rufus-4_15",
     "manufacturer": "2201123G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1793961560,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2819_A6X-Adreno__TM__610-1793961560.json"
-  },
-  {
-    "game": "BioShock_Infinite",
-    "manufacturer": "I2508",
-    "device": "Adreno__TM__829",
-    "timestamp": 1793956434,
-    "filename": "BioShock_Infinite-vivo-I2508-Adreno__TM__829-1793956434.json"
   }
 ]
