@@ -3,6 +3,13 @@
     "game": "Sleeping_Dogs",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1793955662,
+    "filename": "Sleeping_Dogs-realme-RMX3151-Mali-G57_MC2-1793955662.json"
+  },
+  {
+    "game": "Sleeping_Dogs",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1793955652,
     "filename": "Sleeping_Dogs-realme-RMX3151-Mali-G57_MC2-1793955652.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1793916608,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-HEY2-W09-Adreno__TM__710-1793916608.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793915106,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A315G-Mali-G52_MC2-1793915106.json"
   }
 ]
