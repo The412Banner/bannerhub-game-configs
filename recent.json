@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "V2143",
+    "device": "Adreno__TM__610",
+    "timestamp": 1793977103,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2143-Adreno__TM__610-1793977103.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
     "timestamp": 1793976714,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1793949192,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LGN-LX2-Adreno__TM__610-1793949192.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1793943115,
-    "filename": "BootstrapPackagedGame-Xiaomi-2311DRK48G-Mali-G615_MC6-1793943115.json"
   }
 ]
