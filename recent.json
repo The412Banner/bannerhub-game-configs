@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta_sa",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1793981341,
+    "filename": "gta_sa-samsung-SM-A076E-Mali-G57_MC2-1793981341.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793955652,
     "filename": "Sleeping_Dogs-realme-RMX3151-Mali-G57_MC2-1793955652.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793953815,
-    "filename": "Sleeping_Dogs-realme-RMX3151-Mali-G57_MC2-1793953815.json"
   }
 ]
