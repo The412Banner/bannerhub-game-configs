@@ -1,5 +1,12 @@
 [
   {
+    "game": "BioShock_Infinite",
+    "manufacturer": "I2508",
+    "device": "Adreno__TM__829",
+    "timestamp": 1793956434,
+    "filename": "BioShock_Infinite-vivo-I2508-Adreno__TM__829-1793956434.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1793922901,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A505GT-Mali-G72-1793922901.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G72",
-    "timestamp": 1793922883,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A505GT-Mali-G72-1793922883.json"
   }
 ]
