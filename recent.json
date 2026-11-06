@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "2107113SG",
+    "device": "Adreno__TM__660",
+    "timestamp": 1793981491,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-2107113SG-Adreno__TM__660-1793981491.json"
+  },
+  {
     "game": "Yanpai_Simulator",
     "manufacturer": "25097RP43G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793955774,
     "filename": "Sleeping_Dogs-realme-RMX3151-Mali-G57_MC2-1793955774.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793955662,
-    "filename": "Sleeping_Dogs-realme-RMX3151-Mali-G57_MC2-1793955662.json"
   }
 ]
