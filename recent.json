@@ -1,5 +1,12 @@
 [
   {
+    "game": "_ROMsNS__Super_Mario_Bros__Wonder_xci",
+    "manufacturer": "2201123G",
+    "device": "Adreno__TM__730",
+    "timestamp": 1793981591,
+    "filename": "_ROMsNS__Super_Mario_Bros__Wonder_xci-Xiaomi-2201123G-Adreno__TM__730-1793981591.json"
+  },
+  {
     "game": "PRO_EVOLUTION_SOCCER_2018",
     "manufacturer": "2107113SG",
     "device": "Adreno__TM__660",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793955970,
     "filename": "Resident_Evil_5-vivo-V2440-Mali-G57_MC2-1793955970.json"
-  },
-  {
-    "game": "Sleeping_Dogs",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793955774,
-    "filename": "Sleeping_Dogs-realme-RMX3151-Mali-G57_MC2-1793955774.json"
   }
 ]
