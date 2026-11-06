@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1793985986,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2332-Mali-G52_MC2-1793985986.json"
+  },
+  {
     "game": "TEKKEN_7",
     "manufacturer": "SOG02",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1793971338,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A075F-Mali-G57_MC2-1793971338.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793971323,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A075F-Mali-G57_MC2-1793971323.json"
   }
 ]
