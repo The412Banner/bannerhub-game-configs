@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1794016599,
+    "filename": "God_of_War_Ragnar_k-Xiaomi-2311DRK48G-Mali-G615_MC6-1794016599.json"
+  },
+  {
     "game": "Grapples_Galore",
     "manufacturer": "S911B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1793982105,
     "filename": "rufus-4_15-Xiaomi-2201123G-Adreno__TM__730-1793982105.json"
-  },
-  {
-    "game": "_ROMsNS__Super_Mario_Bros__Wonder_xci",
-    "manufacturer": "2201123G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1793981591,
-    "filename": "_ROMsNS__Super_Mario_Bros__Wonder_xci-Xiaomi-2201123G-Adreno__TM__730-1793981591.json"
   }
 ]
