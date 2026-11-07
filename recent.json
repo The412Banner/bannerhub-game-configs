@@ -1,5 +1,12 @@
 [
   {
+    "game": "PEAK",
+    "manufacturer": "2405CRPFDG",
+    "device": "Adreno__TM__710",
+    "timestamp": 1794081425,
+    "filename": "PEAK-Xiaomi-2405CRPFDG-Adreno__TM__710-1794081425.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1794029282,
     "filename": "Need_for_Speed__Payback-OPPO-CPH2743-Adreno__TM__710-1794029282.json"
-  },
-  {
-    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
-    "manufacturer": "24069PC21G",
-    "device": "Adreno__TM__735",
-    "timestamp": 1794026727,
-    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1794026727.json"
   }
 ]
