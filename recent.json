@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dagon",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794011889,
+    "filename": "Dagon-INFINIX-Infinix_X6882-Mali-G57_MC2-1794011889.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1793981491,
     "filename": "PRO_EVOLUTION_SOCCER_2018-Xiaomi-2107113SG-Adreno__TM__660-1793981491.json"
-  },
-  {
-    "game": "Yanpai_Simulator",
-    "manufacturer": "25097RP43G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1793981345,
-    "filename": "Yanpai_Simulator-Xiaomi-25097RP43G-Adreno__TM__825-1793981345.json"
   }
 ]
