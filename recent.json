@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "W00",
+    "device": "Adreno__TM__720",
+    "timestamp": 1794052146,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-HEY3-W00-Adreno__TM__720-1794052146.json"
+  },
+  {
     "game": "Atla",
     "manufacturer": "A059",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G76_MC4",
     "timestamp": 1794007842,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO_MOBILE_LIMITED-TECNO_CG8-Mali-G76_MC4-1794007842.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1794006538,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6870-Mali-G615_MC2-1794006538.json"
   }
 ]
