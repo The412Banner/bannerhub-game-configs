@@ -1,5 +1,12 @@
 [
   {
+    "game": "Roblox_Bootstrapper",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794089223,
+    "filename": "Roblox_Bootstrapper-Xiaomi-23053RN02Y-Mali-G52_MC2-1794089223.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1794058318,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1794058318.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "A057F",
-    "device": "Adreno__TM__610",
-    "timestamp": 1794058101,
-    "filename": "Pro_Evolution_Soccer_2017-samsung-SM-A057F-Adreno__TM__610-1794058101.json"
   }
 ]
