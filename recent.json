@@ -3,6 +3,13 @@
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1794011212,
+    "filename": "Pro_Evolution_Soccer_2013-LENOVO-TB310FU-Mali-G52_MC2-1794011212.json"
+  },
+  {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1794009774,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2212ARNC4L-Mali-G52_MC2-1794009774.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1793981345,
     "filename": "Yanpai_Simulator-Xiaomi-25097RP43G-Adreno__TM__825-1793981345.json"
-  },
-  {
-    "game": "gta_sa",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1793981341,
-    "filename": "gta_sa-samsung-SM-A076E-Mali-G57_MC2-1793981341.json"
   }
 ]
