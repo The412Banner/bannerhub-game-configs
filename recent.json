@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1794058318,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1794058318.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "A057F",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794011889,
     "filename": "Dagon-INFINIX-Infinix_X6882-Mali-G57_MC2-1794011889.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794011212,
-    "filename": "Pro_Evolution_Soccer_2013-LENOVO-TB310FU-Mali-G52_MC2-1794011212.json"
   }
 ]
