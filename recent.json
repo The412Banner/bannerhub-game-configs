@@ -1,5 +1,12 @@
 [
   {
+    "game": "player",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1794018465,
+    "filename": "player-INFINIX-Infinix_X6528-Mali-G57-1794018465.json"
+  },
+  {
     "game": "SAMP",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1793984465,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2143-Adreno__TM__610-1793984465.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "V2143",
-    "device": "Adreno__TM__610",
-    "timestamp": 1793984411,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2143-Adreno__TM__610-1793984411.json"
   }
 ]
