@@ -1,5 +1,12 @@
 [
   {
+    "game": "SAMP",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794017891,
+    "filename": "SAMP-samsung-SM-A065M-Mali-G52_MC2-1794017891.json"
+  },
+  {
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1793983964,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2143-Adreno__TM__610-1793983964.json"
-  },
-  {
-    "game": "rufus-4_15",
-    "manufacturer": "2201123G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1793982105,
-    "filename": "rufus-4_15-Xiaomi-2201123G-Adreno__TM__730-1793982105.json"
   }
 ]
