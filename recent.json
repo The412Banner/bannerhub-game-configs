@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1794038518,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1794038518.json"
+  },
+  {
     "game": "Need_for_Speed__Payback",
     "manufacturer": "CPH2743",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793989600,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A065M-Mali-G52_MC2-1793989600.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793988250,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A065M-Mali-G52_MC2-1793988250.json"
   }
 ]
