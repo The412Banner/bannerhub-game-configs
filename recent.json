@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ultra_Street_Fighter_IV",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1794086739,
+    "filename": "Ultra_Street_Fighter_IV-samsung-SM-S901E-Adreno__TM__730-1794086739.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794054958,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LH7n-Mali-G57_MC2-1794054958.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "W00",
-    "device": "Adreno__TM__720",
-    "timestamp": 1794052146,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-HEY3-W00-Adreno__TM__720-1794052146.json"
   }
 ]
