@@ -1,5 +1,12 @@
 [
   {
+    "game": "Marvel_s_Spider-Man_Remastered",
+    "manufacturer": "NX9",
+    "device": "Adreno__TM__720",
+    "timestamp": 1794039245,
+    "filename": "Marvel_s_Spider-Man_Remastered-HONOR-DNY-NX9-Adreno__TM__720-1794039245.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1794002138,
     "filename": "Grand_Theft_Auto_V-TECNO-TECNO_LJ7-Mali-G615_MC2-1794002138.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793989600,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A065M-Mali-G52_MC2-1793989600.json"
   }
 ]
