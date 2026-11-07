@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1794063263,
+    "filename": "Red_Dead_Redemption_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1794063263.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1794016599,
     "filename": "God_of_War_Ragnar_k-Xiaomi-2311DRK48G-Mali-G615_MC6-1794016599.json"
-  },
-  {
-    "game": "Grapples_Galore",
-    "manufacturer": "S911B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1794014322,
-    "filename": "Grapples_Galore-samsung-SM-S911B-Adreno__TM__740-1794014322.json"
   }
 ]
