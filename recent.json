@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "V2317",
+    "device": "Adreno__TM__619",
+    "timestamp": 1794064072,
+    "filename": "Mafia_II__Classic_-vivo-V2317-Adreno__TM__619-1794064072.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794017891,
     "filename": "SAMP-samsung-SM-A065M-Mali-G52_MC2-1794017891.json"
-  },
-  {
-    "game": "God_of_War_Ragnar_k",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1794016599,
-    "filename": "God_of_War_Ragnar_k-Xiaomi-2311DRK48G-Mali-G615_MC6-1794016599.json"
   }
 ]
