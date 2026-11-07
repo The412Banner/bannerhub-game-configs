@@ -1,5 +1,12 @@
 [
   {
+    "game": "Need_for_Speed__Payback",
+    "manufacturer": "CPH2743",
+    "device": "Adreno__TM__710",
+    "timestamp": 1794029282,
+    "filename": "Need_for_Speed__Payback-OPPO-CPH2743-Adreno__TM__710-1794029282.json"
+  },
+  {
     "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793988250,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A065M-Mali-G52_MC2-1793988250.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1793985986,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2332-Mali-G52_MC2-1793985986.json"
   }
 ]
