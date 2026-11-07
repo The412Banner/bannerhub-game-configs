@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "PLE110",
+    "device": "Adreno__TM__825",
+    "timestamp": 1794083484,
+    "filename": "Mortal_Kombat_X-OPPO-PLE110-Adreno__TM__825-1794083484.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1794039245,
     "filename": "Marvel_s_Spider-Man_Remastered-HONOR-DNY-NX9-Adreno__TM__720-1794039245.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1794038518,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1794038518.json"
   }
 ]
