@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1794026727,
+    "filename": "Sekiro___Shadows_Die_Twice_-_GOTY_Edition-Xiaomi-24069PC21G-Adreno__TM__735-1794026727.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1793985986,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2332-Mali-G52_MC2-1793985986.json"
-  },
-  {
-    "game": "TEKKEN_7",
-    "manufacturer": "SOG02",
-    "device": "Adreno__TM__650",
-    "timestamp": 1793985677,
-    "filename": "TEKKEN_7-Sony-SOG02-Adreno__TM__650-1793985677.json"
   }
 ]
