@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794043719,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6853-Mali-G57_MC2-1794043719.json"
+  },
+  {
     "game": "Marvel_s_Spider-Man_Remastered",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794002428,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A175F-Mali-G57_MC2-1794002428.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1794002138,
-    "filename": "Grand_Theft_Auto_V-TECNO-TECNO_LJ7-Mali-G615_MC2-1794002138.json"
   }
 ]
