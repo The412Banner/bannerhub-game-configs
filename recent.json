@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta-sa",
+    "manufacturer": "S926B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
+    "timestamp": 1794167905,
+    "filename": "gta-sa-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_-1794167905.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1794150942,
     "filename": "MinecraftInstaller-TECNO-TECNO_LJ9-Mali-G615_MC6-1794150942.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794149168,
-    "filename": "Mafia_II__Classic_-samsung-SM-A155F-Mali-G57_MC2-1794149168.json"
   }
 ]
