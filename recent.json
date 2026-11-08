@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty__World_at_War",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1794139121,
+    "filename": "Call_of_Duty__World_at_War-TECNO-TECNO_LJ9-Mali-G615_MC6-1794139121.json"
+  },
+  {
     "game": "NARUTO_STORM_3_FB",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1794101634,
     "filename": "Left_4_Dead_2-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1794101634.json"
-  },
-  {
-    "game": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1794098614,
-    "filename": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered-Xiaomi-2412DPC0AG-Mali-G720_MC7-1794098614.json"
   }
 ]
