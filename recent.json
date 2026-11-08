@@ -3,6 +3,13 @@
     "game": "PES_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1794107349,
+    "filename": "PES_2013-samsung-SM-A165M-Mali-G57_MC2-1794107349.json"
+  },
+  {
+    "game": "PES_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1794107144,
     "filename": "PES_2013-samsung-SM-A165M-Mali-G57_MC2-1794107144.json"
   },
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1794084606,
     "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_LJ7-Mali-G615_MC2-1794084606.json"
-  },
-  {
-    "game": "Mortal_Kombat_X",
-    "manufacturer": "PLE110",
-    "device": "Adreno__TM__825",
-    "timestamp": 1794083484,
-    "filename": "Mortal_Kombat_X-OPPO-PLE110-Adreno__TM__825-1794083484.json"
   }
 ]
