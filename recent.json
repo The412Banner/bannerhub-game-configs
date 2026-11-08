@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__Revelations",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794165639,
+    "filename": "Assassin_s_Creed__Revelations-INFINIX-Infinix_X6833B-Mali-G57_MC2-1794165639.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "S926B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1794146856,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-Xiaomi-24122RKC7G-Adreno__TM__830-1794146856.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Retroid_Pocket_6",
-    "device": "Adreno__TM__740",
-    "timestamp": 1794146338,
-    "filename": "Grand_Theft_Auto_V_Legacy-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1794146338.json"
   }
 ]
