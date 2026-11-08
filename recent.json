@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "25102PCBEG",
+    "device": "Adreno__TM__840",
+    "timestamp": 1794175703,
+    "filename": "Resident_Evil_4-Xiaomi-25102PCBEG-Adreno__TM__840-1794175703.json"
+  },
+  {
     "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1794153578,
     "filename": "Subnautica-Xiaomi-23113RKC6G-Adreno__TM__740-1794153578.json"
-  },
-  {
-    "game": "Yakuza_Kiwami",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1794153092,
-    "filename": "Yakuza_Kiwami-Xiaomi-23043RP34G-Adreno__TM__650-1794153092.json"
   }
 ]
