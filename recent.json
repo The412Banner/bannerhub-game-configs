@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794124571,
+    "filename": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered-INFINIX-Infinix_X6880-Mali-G57_MC2-1794124571.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794089223,
     "filename": "Roblox_Bootstrapper-Xiaomi-23053RN02Y-Mali-G52_MC2-1794089223.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1794086786,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1794086786.json"
   }
 ]
