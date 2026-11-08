@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Retroid_Pocket_6",
+    "device": "Adreno__TM__740",
+    "timestamp": 1794146338,
+    "filename": "Grand_Theft_Auto_V_Legacy-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1794146338.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794107349,
     "filename": "PES_2013-samsung-SM-A165M-Mali-G57_MC2-1794107349.json"
-  },
-  {
-    "game": "PES_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794107144,
-    "filename": "PES_2013-samsung-SM-A165M-Mali-G57_MC2-1794107144.json"
   }
 ]
