@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794145120,
+    "filename": "Resident_Evil_5-ITEL-itel_P661N-Mali-G57_MC2-1794145120.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794107144,
     "filename": "PES_2013-samsung-SM-A165M-Mali-G57_MC2-1794107144.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G770F",
-    "device": "Adreno__TM__640",
-    "timestamp": 1794104695,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G770F-Adreno__TM__640-1794104695.json"
   }
 ]
