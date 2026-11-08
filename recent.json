@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G710_MC10",
+    "timestamp": 1794129295,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2437-Mali-G710_MC10-1794129295.json"
+  },
+  {
     "game": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1794095076,
     "filename": "Pro_Evolution_Soccer_2017-realme-RMX5051-Adreno__TM__810-1794095076.json"
-  },
-  {
-    "game": "Roblox_Bootstrapper",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794089223,
-    "filename": "Roblox_Bootstrapper-Xiaomi-23053RN02Y-Mali-G52_MC2-1794089223.json"
   }
 ]
