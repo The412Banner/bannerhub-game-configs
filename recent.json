@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1794098614,
+    "filename": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered-Xiaomi-2412DPC0AG-Mali-G720_MC7-1794098614.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794077114,
     "filename": "Grand_Theft_Auto_IV-motorola-moto_g24-Mali-G52_MC2-1794077114.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "LX1",
-    "device": "Adreno__TM__610",
-    "timestamp": 1794073994,
-    "filename": "Far_Cry_3-HONOR-LGN-LX1-Adreno__TM__610-1794073994.json"
   }
 ]
