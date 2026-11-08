@@ -1,5 +1,12 @@
 [
   {
+    "game": "SR2_pc",
+    "manufacturer": "M2012K11AG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1794179330,
+    "filename": "SR2_pc-Xiaomi-M2012K11AG-Adreno__TM__650-1794179330.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794157111,
     "filename": "Tomb_Raider-TECNO-TECNO_KM7-Mali-G57_MC2-1794157111.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794155625,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-realme-RMX5020-Mali-G52_MC2-1794155625.json"
   }
 ]
