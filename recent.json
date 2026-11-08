@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794157111,
+    "filename": "Tomb_Raider-TECNO-TECNO_KM7-Mali-G57_MC2-1794157111.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794137530,
     "filename": "METAL_GEAR_RISING__REVENGEANCE-TECNO-TECNO_LG7n-Mali-G57_MC2-1794137530.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794133851,
-    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_CL6-Mali-G57_MC2-1794133851.json"
   }
 ]
