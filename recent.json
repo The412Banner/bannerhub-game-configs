@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794122756,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6833B-Mali-G57_MC2-1794122756.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "F976N",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1794086786,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1794086786.json"
-  },
-  {
-    "game": "Ultra_Street_Fighter_IV",
-    "manufacturer": "S901E",
-    "device": "Adreno__TM__730",
-    "timestamp": 1794086739,
-    "filename": "Ultra_Street_Fighter_IV-samsung-SM-S901E-Adreno__TM__730-1794086739.json"
   }
 ]
