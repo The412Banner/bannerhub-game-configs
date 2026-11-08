@@ -1,5 +1,12 @@
 [
   {
+    "game": "____________________________________________________________",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794110726,
+    "filename": "____________________________________________________________-Xiaomi-23053RN02I-Mali-G52_MC2-1794110726.json"
+  },
+  {
     "game": "PES_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794084966,
     "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_CL6-Mali-G57_MC2-1794084966.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1794084606,
-    "filename": "Pro_Evolution_Soccer_2013-TECNO-TECNO_LJ7-Mali-G615_MC2-1794084606.json"
   }
 ]
