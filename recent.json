@@ -1,5 +1,12 @@
 [
   {
+    "game": "Subnautica",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1794153578,
+    "filename": "Subnautica-Xiaomi-23113RKC6G-Adreno__TM__740-1794153578.json"
+  },
+  {
     "game": "Yakuza_Kiwami",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G710_MC10",
     "timestamp": 1794129295,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2437-Mali-G710_MC10-1794129295.json"
-  },
-  {
-    "game": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794124571,
-    "filename": "Ni_no_Kuni_Wrath_of_the_White_Witch__Remastered-INFINIX-Infinix_X6880-Mali-G57_MC2-1794124571.json"
   }
 ]
