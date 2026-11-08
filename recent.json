@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794158383,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_CK6-Mali-G52_MC2-1794158383.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1794138630,
     "filename": "Call_of_Duty__World_at_War-TECNO-TECNO_LJ9-Mali-G615_MC6-1794138630.json"
-  },
-  {
-    "game": "CoD2SP_s",
-    "manufacturer": "moto_g75_5G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1794138331,
-    "filename": "CoD2SP_s-motorola-moto_g75_5G-Adreno__TM__710-1794138331.json"
   }
 ]
