@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794157984,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1794157984.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1794138331,
     "filename": "CoD2SP_s-motorola-moto_g75_5G-Adreno__TM__710-1794138331.json"
-  },
-  {
-    "game": "METAL_GEAR_RISING__REVENGEANCE",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794137530,
-    "filename": "METAL_GEAR_RISING__REVENGEANCE-TECNO-TECNO_LG7n-Mali-G57_MC2-1794137530.json"
   }
 ]
