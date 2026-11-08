@@ -1,5 +1,12 @@
 [
   {
+    "game": "GeometryDash",
+    "manufacturer": "S926B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
+    "timestamp": 1794164547,
+    "filename": "GeometryDash-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_-1794164547.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794141571,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X6837-Mali-G57_MC2-1794141571.json"
-  },
-  {
-    "game": "GTAServer",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1794140765,
-    "filename": "GTAServer-INFINIX_MOBILITY_LIMITED-Infinix_X687-Mali-G76_MC4-1794140765.json"
   }
 ]
