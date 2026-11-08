@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G78",
+    "timestamp": 1794160142,
+    "filename": "Grand_Theft_Auto_V-samsung-SM-G998B-Mali-G78-1794160142.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1794139121,
     "filename": "Call_of_Duty__World_at_War-TECNO-TECNO_LJ9-Mali-G615_MC6-1794139121.json"
-  },
-  {
-    "game": "NARUTO_STORM_3_FB",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794138978,
-    "filename": "NARUTO_STORM_3_FB-INFINIX-Infinix_X6853-Mali-G57_MC2-1794138978.json"
   }
 ]
