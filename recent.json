@@ -1,5 +1,12 @@
 [
   {
+    "game": "CoD2SP_s",
+    "manufacturer": "moto_g75_5G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1794138331,
+    "filename": "CoD2SP_s-motorola-moto_g75_5G-Adreno__TM__710-1794138331.json"
+  },
+  {
     "game": "METAL_GEAR_RISING__REVENGEANCE",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794095426,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6833B-Mali-G57_MC2-1794095426.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "RMX5051",
-    "device": "Adreno__TM__810",
-    "timestamp": 1794095179,
-    "filename": "Pro_Evolution_Soccer_2017-realme-RMX5051-Adreno__TM__810-1794095179.json"
   }
 ]
