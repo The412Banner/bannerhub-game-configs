@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1794101861,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1794101861.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1794081425,
     "filename": "PEAK-Xiaomi-2405CRPFDG-Adreno__TM__710-1794081425.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794078479,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NIC-LX2-Mali-G52_MC2-1794078479.json"
   }
 ]
