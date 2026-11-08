@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tom_Clancy_s_Ghost_Recon__Wildlands",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1794149017,
+    "filename": "Tom_Clancy_s_Ghost_Recon__Wildlands-Xiaomi-25053PC47G-Adreno__TM__825-1794149017.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__2__2009_",
     "manufacturer": "24122RKC7G",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794112172,
     "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_CL6-Mali-G57_MC2-1794112172.json"
-  },
-  {
-    "game": "____________________________________________________________",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794110726,
-    "filename": "____________________________________________________________-Xiaomi-23053RN02I-Mali-G52_MC2-1794110726.json"
   }
 ]
