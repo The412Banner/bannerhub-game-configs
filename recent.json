@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1794176071,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1794176071.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "25102PCBEG",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1794153969,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1794153969.json"
-  },
-  {
-    "game": "Subnautica",
-    "manufacturer": "23113RKC6G",
-    "device": "Adreno__TM__740",
-    "timestamp": 1794153578,
-    "filename": "Subnautica-Xiaomi-23113RKC6G-Adreno__TM__740-1794153578.json"
   }
 ]
