@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "G770F",
+    "device": "Adreno__TM__640",
+    "timestamp": 1794104695,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-G770F-Adreno__TM__640-1794104695.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794083155,
     "filename": "Tomb_Raider-TECNO-TECNO_LI9-Mali-G57_MC2-1794083155.json"
-  },
-  {
-    "game": "PEAK",
-    "manufacturer": "2405CRPFDG",
-    "device": "Adreno__TM__710",
-    "timestamp": 1794081425,
-    "filename": "PEAK-Xiaomi-2405CRPFDG-Adreno__TM__710-1794081425.json"
   }
 ]
