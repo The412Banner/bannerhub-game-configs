@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1794097649,
+    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX809J-Adreno__TM__840-1794097649.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
     "timestamp": 1794097490,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1794073994,
     "filename": "Far_Cry_3-HONOR-LGN-LX1-Adreno__TM__610-1794073994.json"
-  },
-  {
-    "game": "Far_Cry_3",
-    "manufacturer": "LX1",
-    "device": "Adreno__TM__610",
-    "timestamp": 1794073819,
-    "filename": "Far_Cry_3-HONOR-LGN-LX1-Adreno__TM__610-1794073819.json"
   }
 ]
