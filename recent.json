@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "S926B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
+    "timestamp": 1794165194,
+    "filename": "BootstrapPackagedGame-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_-1794165194.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1794146338,
     "filename": "Grand_Theft_Auto_V_Legacy-Moorechip-Retroid_Pocket_6-Adreno__TM__740-1794146338.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794145120,
-    "filename": "Resident_Evil_5-ITEL-itel_P661N-Mali-G57_MC2-1794145120.json"
   }
 ]
