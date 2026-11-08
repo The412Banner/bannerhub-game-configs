@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1794164816,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-samsung-SM-A047F-Mali-G52-1794164816.json"
+  },
+  {
     "game": "GeometryDash",
     "manufacturer": "S926B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794145120,
     "filename": "Resident_Evil_5-ITEL-itel_P661N-Mali-G57_MC2-1794145120.json"
-  },
-  {
-    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794141571,
-    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X6837-Mali-G57_MC2-1794141571.json"
   }
 ]
