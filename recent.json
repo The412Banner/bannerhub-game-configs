@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty__World_at_War",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1794138630,
+    "filename": "Call_of_Duty__World_at_War-TECNO-TECNO_LJ9-Mali-G615_MC6-1794138630.json"
+  },
+  {
     "game": "CoD2SP_s",
     "manufacturer": "moto_g75_5G",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1794097490,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2311DRK48G-Mali-G615_MC6-1794097490.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794095426,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6833B-Mali-G57_MC2-1794095426.json"
   }
 ]
