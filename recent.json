@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "F976N",
+    "device": "Adreno__TM__840",
+    "timestamp": 1794121083,
+    "filename": "Resident_Evil_2-samsung-SM-F976N-Adreno__TM__840-1794121083.json"
+  },
+  {
     "game": "Yakuza_0",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1794086739,
     "filename": "Ultra_Street_Fighter_IV-samsung-SM-S901E-Adreno__TM__730-1794086739.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1794086709,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1794086709.json"
   }
 ]
