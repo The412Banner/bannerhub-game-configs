@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1794171521,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A176B-Mali-G68-1794171521.json"
+  },
+  {
     "game": "gta-sa",
     "manufacturer": "S926B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1794151611,
     "filename": "Pro_Evolution_Soccer_2017-ITEL-itel_S665L-Mali-G57-1794151611.json"
-  },
-  {
-    "game": "MinecraftInstaller",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1794150942,
-    "filename": "MinecraftInstaller-TECNO-TECNO_LJ9-Mali-G615_MC6-1794150942.json"
   }
 ]
