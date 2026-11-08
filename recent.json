@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__2__2009_",
+    "manufacturer": "24122RKC7G",
+    "device": "Adreno__TM__830",
+    "timestamp": 1794146856,
+    "filename": "Call_of_Duty___Modern_Warfare__2__2009_-Xiaomi-24122RKC7G-Adreno__TM__830-1794146856.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Retroid_Pocket_6",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794110726,
     "filename": "____________________________________________________________-Xiaomi-23053RN02I-Mali-G52_MC2-1794110726.json"
-  },
-  {
-    "game": "PES_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794107349,
-    "filename": "PES_2013-samsung-SM-A165M-Mali-G57_MC2-1794107349.json"
   }
 ]
