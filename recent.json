@@ -1,5 +1,12 @@
 [
   {
+    "game": "Yakuza_0",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1794112737,
+    "filename": "Yakuza_0-Xiaomi-25080RABDG-Mali-G615_MC2-1794112737.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1794086709,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2311DRK48G-Mali-G615_MC6-1794086709.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794085136,
-    "filename": "BootstrapPackagedGame-samsung-SM-A175F-Mali-G57_MC2-1794085136.json"
   }
 ]
