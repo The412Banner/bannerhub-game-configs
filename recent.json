@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1794153969,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1794153969.json"
+  },
+  {
     "game": "Subnautica",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1794133600,
     "filename": "FINAL_FANTASY_TACTICS_-_The_Ivalice_Chronicles-samsung-SM-F971B-Adreno__TM__840-1794133600.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G710_MC10",
-    "timestamp": 1794129295,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2437-Mali-G710_MC10-1794129295.json"
   }
 ]
