@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794155625,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-realme-RMX5020-Mali-G52_MC2-1794155625.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794133851,
     "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_CL6-Mali-G57_MC2-1794133851.json"
-  },
-  {
-    "game": "FINAL_FANTASY_TACTICS_-_The_Ivalice_Chronicles",
-    "manufacturer": "F971B",
-    "device": "Adreno__TM__840",
-    "timestamp": 1794133600,
-    "filename": "FINAL_FANTASY_TACTICS_-_The_Ivalice_Chronicles-samsung-SM-F971B-Adreno__TM__840-1794133600.json"
   }
 ]
