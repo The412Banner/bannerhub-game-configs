@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1794151611,
+    "filename": "Pro_Evolution_Soccer_2017-ITEL-itel_S665L-Mali-G57-1794151611.json"
+  },
+  {
     "game": "MinecraftInstaller",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794122756,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6833B-Mali-G57_MC2-1794122756.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "F976N",
-    "device": "Adreno__TM__840",
-    "timestamp": 1794121083,
-    "filename": "Resident_Evil_2-samsung-SM-F976N-Adreno__TM__840-1794121083.json"
   }
 ]
