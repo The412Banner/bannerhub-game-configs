@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1794172865,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-Xiaomi-23043RP34G-Adreno__TM__650-1794172865.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1794153092,
     "filename": "Yakuza_Kiwami-Xiaomi-23043RP34G-Adreno__TM__650-1794153092.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1794151611,
-    "filename": "Pro_Evolution_Soccer_2017-ITEL-itel_S665L-Mali-G57-1794151611.json"
   }
 ]
