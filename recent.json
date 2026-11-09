@@ -1,5 +1,12 @@
 [
   {
+    "game": "Onimusha__Way_of_the_Sword",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1794219573,
+    "filename": "Onimusha__Way_of_the_Sword-motorola-moto_g45_5G-Adreno__TM__619-1794219573.json"
+  },
+  {
     "game": "The_Classrooms",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794165639,
     "filename": "Assassin_s_Creed__Revelations-INFINIX-Infinix_X6833B-Mali-G57_MC2-1794165639.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "S926B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
-    "timestamp": 1794165194,
-    "filename": "BootstrapPackagedGame-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_-1794165194.json"
   }
 ]
