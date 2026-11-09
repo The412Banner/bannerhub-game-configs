@@ -1,5 +1,12 @@
 [
   {
+    "game": "Neon_Echo",
+    "manufacturer": "25053RT47C",
+    "device": "Adreno__TM__825",
+    "timestamp": 1794228421,
+    "filename": "Neon_Echo-Xiaomi-25053RT47C-Adreno__TM__825-1794228421.json"
+  },
+  {
     "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
     "manufacturer": "NP05J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1794171521,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A176B-Mali-G68-1794171521.json"
-  },
-  {
-    "game": "gta-sa",
-    "manufacturer": "S926B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
-    "timestamp": 1794167905,
-    "filename": "gta-sa-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_-1794167905.json"
   }
 ]
