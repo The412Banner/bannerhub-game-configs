@@ -1,5 +1,12 @@
 [
   {
+    "game": "L2_Impulse_",
+    "manufacturer": "moto_g52",
+    "device": "Adreno__TM__610",
+    "timestamp": 1794244080,
+    "filename": "L2_Impulse_-motorola-moto_g52-Adreno__TM__610-1794244080.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "A525M",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1794180733,
     "filename": "TheLongDrive-INFINIX-Infinix_X6871-Mali-G610_MC6-1794180733.json"
-  },
-  {
-    "game": "SR2_pc",
-    "manufacturer": "M2012K11AG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1794179330,
-    "filename": "SR2_pc-Xiaomi-M2012K11AG-Adreno__TM__650-1794179330.json"
   }
 ]
