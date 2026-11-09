@@ -1,5 +1,12 @@
 [
   {
+    "game": "Blur",
+    "manufacturer": "2312DRA50G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1794240865,
+    "filename": "Blur-Xiaomi-2312DRA50G-Adreno__TM__710-1794240865.json"
+  },
+  {
     "game": "GRID_RACE_DRIVER",
     "manufacturer": "S918B",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794176880,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A165F-Mali-G57_MC2-1794176880.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1794176071,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1794176071.json"
   }
 ]
