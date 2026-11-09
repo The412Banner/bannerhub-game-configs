@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dead_Space__2008_",
+    "manufacturer": "25102PCBEG",
+    "device": "Adreno__TM__840",
+    "timestamp": 1794189827,
+    "filename": "Dead_Space__2008_-Xiaomi-25102PCBEG-Adreno__TM__840-1794189827.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794158666,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23106RN0DA-Mali-G52_MC2-1794158666.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__722",
-    "timestamp": 1794158436,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-VKJ-NX9-Adreno__TM__722-1794158436.json"
   }
 ]
