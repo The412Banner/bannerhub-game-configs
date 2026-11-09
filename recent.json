@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
+    "manufacturer": "NP05J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1794224791,
+    "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-nubia-NP05J-Adreno__TM__830-1794224791.json"
+  },
+  {
     "game": "Quacker_Bros",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
     "timestamp": 1794167905,
     "filename": "gta-sa-samsung-SM-S926B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_-1794167905.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1794165990,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1794165990.json"
   }
 ]
