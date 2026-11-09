@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH2363",
+    "device": "Adreno__TM__610",
+    "timestamp": 1794262354,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2363-Adreno__TM__610-1794262354.json"
+  },
+  {
     "game": "Internet_Cafe_Simulator_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1794235829,
     "filename": "GRID_RACE_DRIVER-samsung-SM-S918B-Adreno__TM__740-1794235829.json"
-  },
-  {
-    "game": "Resident_Evil_3",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794235340,
-    "filename": "Resident_Evil_3-INFINIX-Infinix_X6728-Mali-G52_MC2-1794235340.json"
   }
 ]
