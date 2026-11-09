@@ -1,5 +1,12 @@
 [
   {
+    "game": "Plutonium_Launcher",
+    "manufacturer": "NX779J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1794253997,
+    "filename": "Plutonium_Launcher-nubia-NX779J-Adreno__TM__750-1794253997.json"
+  },
+  {
     "game": "Hollow_Knight__Silksong",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1794206441,
     "filename": "unins000-HONOR-HEY3-W00-Adreno__TM__720-1794206441.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1794193054,
-    "filename": "PlayGTAV-samsung-SM-G998B-Mali-G78-1794193054.json"
   }
 ]
