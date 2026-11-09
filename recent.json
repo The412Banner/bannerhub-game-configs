@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1794268523,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A256E-Mali-G68-1794268523.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "25102PCBEG",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1794244080,
     "filename": "L2_Impulse_-motorola-moto_g52-Adreno__TM__610-1794244080.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A525M",
-    "device": "Adreno__TM__618",
-    "timestamp": 1794243139,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A525M-Adreno__TM__618-1794243139.json"
   }
 ]
