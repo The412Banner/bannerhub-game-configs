@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794258314,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-23100RN82L-Mali-G52_MC2-1794258314.json"
+  },
+  {
     "game": "BlackOps",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1794228421,
     "filename": "Neon_Echo-Xiaomi-25053RT47C-Adreno__TM__825-1794228421.json"
-  },
-  {
-    "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
-    "manufacturer": "NP05J",
-    "device": "Adreno__TM__830",
-    "timestamp": 1794224791,
-    "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-nubia-NP05J-Adreno__TM__830-1794224791.json"
   }
 ]
