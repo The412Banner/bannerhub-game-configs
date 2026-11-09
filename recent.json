@@ -1,5 +1,12 @@
 [
   {
+    "game": "Plutonium_Launcher",
+    "manufacturer": "NX779J",
+    "device": "Adreno__TM__750",
+    "timestamp": 1794259581,
+    "filename": "Plutonium_Launcher-nubia-NX779J-Adreno__TM__750-1794259581.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1794232164,
     "filename": "Black_Mesa-Xiaomi-2412DPC0AG-Mali-G720_MC7-1794232164.json"
-  },
-  {
-    "game": "Neon_Echo",
-    "manufacturer": "25053RT47C",
-    "device": "Adreno__TM__825",
-    "timestamp": 1794228421,
-    "filename": "Neon_Echo-Xiaomi-25053RT47C-Adreno__TM__825-1794228421.json"
   }
 ]
