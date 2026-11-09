@@ -1,5 +1,12 @@
 [
   {
+    "game": "Minecraft_Dungeons",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1794263824,
+    "filename": "Minecraft_Dungeons-nubia-NX809J-Adreno__TM__840-1794263824.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2363",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1794240865,
     "filename": "Blur-Xiaomi-2312DRA50G-Adreno__TM__710-1794240865.json"
-  },
-  {
-    "game": "GRID_RACE_DRIVER",
-    "manufacturer": "S918B",
-    "device": "Adreno__TM__740",
-    "timestamp": 1794235829,
-    "filename": "GRID_RACE_DRIVER-samsung-SM-S918B-Adreno__TM__740-1794235829.json"
   }
 ]
