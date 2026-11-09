@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1794192236,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g84_5G-Adreno__TM__619-1794192236.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1794190771,
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1794162664,
     "filename": "Call_of_Duty___Modern_Warfare__2__2009_-HONOR-DNY-NX9-Adreno__TM__720-1794162664.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1794160142,
-    "filename": "Grand_Theft_Auto_V-samsung-SM-G998B-Mali-G78-1794160142.json"
   }
 ]
