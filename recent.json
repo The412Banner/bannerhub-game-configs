@@ -1,5 +1,12 @@
 [
   {
+    "game": "Stray",
+    "manufacturer": "S901E",
+    "device": "Adreno__TM__730",
+    "timestamp": 1794341776,
+    "filename": "Stray-samsung-SM-S901E-Adreno__TM__730-1794341776.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "CPH2699",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1794321343,
     "filename": "Forza_Horizon_4-vivo-I2407-Adreno__TM__810-1794321343.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "RMX5051",
-    "device": "Adreno__TM__810",
-    "timestamp": 1794320703,
-    "filename": "Grand_Theft_Auto_V-realme-RMX5051-Adreno__TM__810-1794320703.json"
   }
 ]
