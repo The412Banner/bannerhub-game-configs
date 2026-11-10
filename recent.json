@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1794308387,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A505F-Mali-G72-1794308387.json"
+  },
+  {
     "game": "Granny_Forsaken",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1794265718,
     "filename": "Resident_Evil_4-Xiaomi-25102PCBEG-Adreno__TM__840-1794265718.json"
-  },
-  {
-    "game": "Minecraft_Dungeons",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1794263824,
-    "filename": "Minecraft_Dungeons-nubia-NX809J-Adreno__TM__840-1794263824.json"
   }
 ]
