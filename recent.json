@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794307248,
+    "filename": "PlayGTAV-INFINIX-Infinix_X6837-Mali-G57_MC2-1794307248.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1794262354,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2363-Adreno__TM__610-1794262354.json"
-  },
-  {
-    "game": "Internet_Cafe_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794259676,
-    "filename": "Internet_Cafe_Simulator_2-Xiaomi-2404APC5FG-Mali-G52_MC2-1794259676.json"
   }
 ]
