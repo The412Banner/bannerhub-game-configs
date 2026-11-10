@@ -1,5 +1,12 @@
 [
   {
+    "game": "American_Truck_Simulator",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_",
+    "timestamp": 1794346258,
+    "filename": "American_Truck_Simulator-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_-1794346258.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G76",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794323308,
     "filename": "LEGO__Marvel__Super_Heroes-INFINIX-Infinix_X6885-Mali-G57_MC2-1794323308.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1794323013,
-    "filename": "Pro_Evolution_Soccer_2017-TECNO-TECNO_CM7-Mali-G615_MC2-1794323013.json"
   }
 ]
