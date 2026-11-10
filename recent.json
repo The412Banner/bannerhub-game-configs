@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "NX733J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1794329181,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-nubia-NX733J-Adreno__TM__830-1794329181.json"
+  },
+  {
     "game": "UnMetal",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1794335719,
     "filename": "God_of_War_Ragnar_k-motorola-moto_g04s-Mali-G57-1794335719.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "23122PCD1G",
-    "device": "Adreno__TM__710",
-    "timestamp": 1794334110,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23122PCD1G-Adreno__TM__710-1794334110.json"
   }
 ]
