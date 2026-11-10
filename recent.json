@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "CPH2699",
+    "device": "Adreno__TM__710",
+    "timestamp": 1794341689,
+    "filename": "DRAGON_BALL_FighterZ-OPPO-CPH2699-Adreno__TM__710-1794341689.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "23021RAAEG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1794320703,
     "filename": "Grand_Theft_Auto_V-realme-RMX5051-Adreno__TM__810-1794320703.json"
-  },
-  {
-    "game": "Raft",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__810",
-    "timestamp": 1794313831,
-    "filename": "Raft-HONOR-MTN-NX1-Adreno__TM__810-1794313831.json"
   }
 ]
