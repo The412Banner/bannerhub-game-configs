@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23021RAAEG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1794341594,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23021RAAEG-Adreno__TM__610-1794341594.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1794313831,
     "filename": "Raft-HONOR-MTN-NX1-Adreno__TM__810-1794313831.json"
-  },
-  {
-    "game": "BOLT",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794313278,
-    "filename": "BOLT-Blackview-SHARK_8-Mali-G57_MC2-1794313278.json"
   }
 ]
