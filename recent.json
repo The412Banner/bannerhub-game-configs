@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "NP06J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1794298151,
+    "filename": "Tomb_Raider-nubia-NP06J-Adreno__TM__840-1794298151.json"
+  },
+  {
     "game": "The_Last_of_Us__Part_II_Remastered",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1794257368,
     "filename": "BlackOps-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1794257368.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794256016,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25078RA3EY-Mali-G52_MC2-1794256016.json"
   }
 ]
