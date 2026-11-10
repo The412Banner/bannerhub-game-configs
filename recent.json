@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Last_of_Us__Part_II_Remastered",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1794283777,
+    "filename": "The_Last_of_Us__Part_II_Remastered-nubia-NX809J-Adreno__TM__840-1794283777.json"
+  },
+  {
     "game": "Bruisers",
     "manufacturer": "T220",
     "device": "PowerVR_Rogue_GE8320",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794256016,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25078RA3EY-Mali-G52_MC2-1794256016.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794256012,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25078RA3EY-Mali-G52_MC2-1794256012.json"
   }
 ]
