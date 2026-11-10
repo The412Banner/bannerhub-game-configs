@@ -1,5 +1,12 @@
 [
   {
+    "game": "Forza_Horizon_4",
+    "manufacturer": "I2407",
+    "device": "Adreno__TM__810",
+    "timestamp": 1794321343,
+    "filename": "Forza_Horizon_4-vivo-I2407-Adreno__TM__810-1794321343.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "RMX5051",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8322",
     "timestamp": 1794275051,
     "filename": "Pro_Evolution_Soccer_2013-ITEL-itel_A667LP-PowerVR_Rogue_GE8322-1794275051.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1794274300,
-    "filename": "DRAGON_BALL_FighterZ-Xiaomi-2412DPC0AG-Mali-G720_MC7-1794274300.json"
   }
 ]
