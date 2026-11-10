@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794307115,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-JDY-LX2-Mali-G52_MC2-1794307115.json"
+  },
+  {
     "game": "SR2_pc",
     "manufacturer": "M2012K11AG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794259676,
     "filename": "Internet_Cafe_Simulator_2-Xiaomi-2404APC5FG-Mali-G52_MC2-1794259676.json"
-  },
-  {
-    "game": "Plutonium_Launcher",
-    "manufacturer": "NX779J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1794259581,
-    "filename": "Plutonium_Launcher-nubia-NX779J-Adreno__TM__750-1794259581.json"
   }
 ]
