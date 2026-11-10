@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1794337445,
+    "filename": "BlackOps-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1794337445.json"
+  },
+  {
     "game": "God_of_War_Ragnar_k",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794307248,
     "filename": "PlayGTAV-INFINIX-Infinix_X6837-Mali-G57_MC2-1794307248.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794307115,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-JDY-LX2-Mali-G52_MC2-1794307115.json"
   }
 ]
