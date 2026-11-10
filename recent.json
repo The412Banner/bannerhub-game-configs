@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bruisers",
+    "manufacturer": "T220",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1794280674,
+    "filename": "Bruisers-samsung-SM-T220-PowerVR_Rogue_GE8320-1794280674.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794256012,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25078RA3EY-Mali-G52_MC2-1794256012.json"
-  },
-  {
-    "game": "Plutonium_Launcher",
-    "manufacturer": "NX779J",
-    "device": "Adreno__TM__750",
-    "timestamp": 1794254320,
-    "filename": "Plutonium_Launcher-nubia-NX779J-Adreno__TM__750-1794254320.json"
   }
 ]
