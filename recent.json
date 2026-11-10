@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_304_",
+    "timestamp": 1794326047,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_304_-1794326047.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2405CPCFBG",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1794283777,
     "filename": "The_Last_of_Us__Part_II_Remastered-nubia-NX809J-Adreno__TM__840-1794283777.json"
-  },
-  {
-    "game": "Bruisers",
-    "manufacturer": "T220",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1794280674,
-    "filename": "Bruisers-samsung-SM-T220-PowerVR_Rogue_GE8320-1794280674.json"
   }
 ]
