@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1794345282,
+    "filename": "Euro_Truck_Simulator_2-samsung-NX789J-Mali-G76-1794345282.json"
+  },
+  {
     "game": "Stray",
     "manufacturer": "S901E",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1794323013,
     "filename": "Pro_Evolution_Soccer_2017-TECNO-TECNO_CM7-Mali-G615_MC2-1794323013.json"
-  },
-  {
-    "game": "Forza_Horizon_4",
-    "manufacturer": "I2407",
-    "device": "Adreno__TM__810",
-    "timestamp": 1794321343,
-    "filename": "Forza_Horizon_4-vivo-I2407-Adreno__TM__810-1794321343.json"
   }
 ]
