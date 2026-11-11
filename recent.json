@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A566B",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_",
+    "timestamp": 1794398655,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_-1794398655.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
     "timestamp": 1794395739,
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_",
     "timestamp": 1794348697,
     "filename": "Passion_Industry-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_-1794348697.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "CPH2699",
-    "device": "Adreno__TM__710",
-    "timestamp": 1794347819,
-    "filename": "DRAGON_BALL_FighterZ-OPPO-CPH2699-Adreno__TM__710-1794347819.json"
   }
 ]
