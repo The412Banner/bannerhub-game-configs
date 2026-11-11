@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1794423782,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1794423782.json"
+  },
+  {
     "game": "DRAGON_BALL_FighterZ",
     "manufacturer": "CPH2699",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1794399486,
     "filename": "Call_of_Duty___Modern_Warfare_-Xiaomi-2109119DG-Adreno__TM__642L-1794399486.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1794399017,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CL8-Mali-G610_MC6-1794399017.json"
   }
 ]
