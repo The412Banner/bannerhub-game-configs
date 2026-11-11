@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1794406990,
+    "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-Xiaomi-2412DPC0AG-Mali-G720_MC7-1794406990.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794365013,
     "filename": "Prototype_-TECNO-TECNO_KL5n-Mali-G52_MC2-1794365013.json"
-  },
-  {
-    "game": "Pixel_Gun_3D__PC_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794361509,
-    "filename": "Pixel_Gun_3D__PC_Edition-Xiaomi-24117RN76L-Mali-G57_MC2-1794361509.json"
   }
 ]
