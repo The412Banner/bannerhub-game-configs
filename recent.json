@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794407232,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CL6-Mali-G57_MC2-1794407232.json"
+  },
+  {
     "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1794378644,
     "filename": "OpenAL_Installer-Xiaomi-22101316G-Mali-G68_MC4-1794378644.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "V2204",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1794371878,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2204-PowerVR_Rogue_GE8320-1794371878.json"
   }
 ]
