@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1794393104,
+    "filename": "Pro_Evolution_Soccer_2013-HONOR-BRC-NX1-PowerVR_B-Series_BXM-8-256-1794393104.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4_EVOLUTION_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_",
     "timestamp": 1794346390,
     "filename": "American_Truck_Simulator-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_-1794346390.json"
-  },
-  {
-    "game": "American_Truck_Simulator",
-    "manufacturer": "A566E",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_",
-    "timestamp": 1794346350,
-    "filename": "American_Truck_Simulator-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_-1794346350.json"
   }
 ]
