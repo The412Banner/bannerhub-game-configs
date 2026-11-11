@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "CPH2699",
+    "device": "Adreno__TM__710",
+    "timestamp": 1794420356,
+    "filename": "DRAGON_BALL_FighterZ-OPPO-CPH2699-Adreno__TM__710-1794420356.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1794399017,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CL8-Mali-G610_MC6-1794399017.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1794399002,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CL8-Mali-G610_MC6-1794399002.json"
   }
 ]
