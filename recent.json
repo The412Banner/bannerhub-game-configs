@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "V2204",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1794371878,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2204-PowerVR_Rogue_GE8320-1794371878.json"
+  },
+  {
     "game": "Prototype_",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1794341416,
     "filename": "Rise_of_the_Tomb_Raider_-HONOR-MTN-NX1-Adreno__TM__810-1794341416.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider_",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__810",
-    "timestamp": 1794341410,
-    "filename": "Rise_of_the_Tomb_Raider_-HONOR-MTN-NX1-Adreno__TM__810-1794341410.json"
   }
 ]
