@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARQ",
+    "manufacturer": "2405CRPFDG",
+    "device": "Adreno__TM__710",
+    "timestamp": 1794434590,
+    "filename": "DARQ-Xiaomi-2405CRPFDG-Adreno__TM__710-1794434590.json"
+  },
+  {
     "game": "Sports_Interactive_Ltd",
     "manufacturer": "NX799J",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794413620,
     "filename": "OpenAL_Installer-INFINIX-Infinix_X6882-Mali-G57_MC2-1794413620.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013_DEMO",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794409579,
-    "filename": "Pro_Evolution_Soccer_2013_DEMO-motorola-moto_g24-Mali-G52_MC2-1794409579.json"
   }
 ]
