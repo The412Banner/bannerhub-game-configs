@@ -1,5 +1,12 @@
 [
   {
+    "game": "TheAmazingSpider-Man",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1794429730,
+    "filename": "TheAmazingSpider-Man-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1794429730.json"
+  },
+  {
     "game": "BeamMP-Launcher",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794407232,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CL6-Mali-G57_MC2-1794407232.json"
-  },
-  {
-    "game": "Ghost_of_Tsushima_DIRECTOR_S_CUT",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1794407017,
-    "filename": "Ghost_of_Tsushima_DIRECTOR_S_CUT-Xiaomi-2412DPC0AG-Mali-G720_MC7-1794407017.json"
   }
 ]
