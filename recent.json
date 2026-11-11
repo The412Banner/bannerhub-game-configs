@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hell_Let_Loose__Vietnam",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1794380903,
+    "filename": "Hell_Let_Loose__Vietnam-motorola-moto_g45_5G-Adreno__TM__619-1794380903.json"
+  },
+  {
     "game": "OpenAL_Installer",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1794341689,
     "filename": "DRAGON_BALL_FighterZ-OPPO-CPH2699-Adreno__TM__710-1794341689.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "23021RAAEG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1794341594,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23021RAAEG-Adreno__TM__610-1794341594.json"
   }
 ]
