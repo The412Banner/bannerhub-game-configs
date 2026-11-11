@@ -1,5 +1,12 @@
 [
   {
+    "game": "OpenAL_Installer",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794413620,
+    "filename": "OpenAL_Installer-INFINIX-Infinix_X6882-Mali-G57_MC2-1794413620.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013_DEMO",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__620",
     "timestamp": 1794390927,
     "filename": "State_of_Decay-OPPO-CPH2145-Adreno__TM__620-1794390927.json"
-  },
-  {
-    "game": "AmnesiaTheBunker_NoSteam",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1794388915,
-    "filename": "AmnesiaTheBunker_NoSteam-Xiaomi-2412DPC0AG-Mali-G720_MC7-1794388915.json"
   }
 ]
