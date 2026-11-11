@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794405382,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CL6-Mali-G57_MC2-1794405382.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794361509,
     "filename": "Pixel_Gun_3D__PC_Edition-Xiaomi-24117RN76L-Mali-G57_MC2-1794361509.json"
-  },
-  {
-    "game": "Everlusting_Life",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1794361094,
-    "filename": "Everlusting_Life-Xiaomi-2311DRK48G-Mali-G615_MC6-1794361094.json"
   }
 ]
