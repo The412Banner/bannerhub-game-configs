@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794414039,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6882-Mali-G57_MC2-1794414039.json"
+  },
+  {
     "game": "OpenAL_Installer",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1794393040,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4_EVOLUTION_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1794393040.json"
-  },
-  {
-    "game": "State_of_Decay",
-    "manufacturer": "CPH2145",
-    "device": "Adreno__TM__620",
-    "timestamp": 1794390927,
-    "filename": "State_of_Decay-OPPO-CPH2145-Adreno__TM__620-1794390927.json"
   }
 ]
