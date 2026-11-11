@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sports_Interactive_Ltd",
+    "manufacturer": "NX799J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1794432873,
+    "filename": "Sports_Interactive_Ltd-nubia-NX799J-Adreno__TM__830-1794432873.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794409579,
     "filename": "Pro_Evolution_Soccer_2013_DEMO-motorola-moto_g24-Mali-G52_MC2-1794409579.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794409172,
-    "filename": "Tomb_Raider-TECNO-TECNO_CL6-Mali-G57_MC2-1794409172.json"
   }
 ]
