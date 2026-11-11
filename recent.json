@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1794427035,
+    "filename": "PlayGTAV-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1794427035.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A566B",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1794405189,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2311DRK48G-Mali-G615_MC6-1794405189.json"
-  },
-  {
-    "game": "Asperox_Sar__G__",
-    "manufacturer": "CPH2125",
-    "device": "PowerVR_Rogue_GM9446",
-    "timestamp": 1794404589,
-    "filename": "Asperox_Sar__G__-OPPO-CPH2125-PowerVR_Rogue_GM9446-1794404589.json"
   }
 ]
