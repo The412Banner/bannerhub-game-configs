@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2017",
+    "manufacturer": "Mali",
+    "device": "G68_MC4",
+    "timestamp": 1794465735,
+    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-22101316G-Mali-G68_MC4-1794465735.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1794427035,
     "filename": "PlayGTAV-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1794427035.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A566B",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_",
-    "timestamp": 1794425789,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_-1794425789.json"
   }
 ]
