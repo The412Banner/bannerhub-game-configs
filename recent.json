@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty_",
+    "manufacturer": "Mali",
+    "device": "G76",
+    "timestamp": 1794520886,
+    "filename": "Call_of_Duty_-samsung-SM-N975F-Mali-G76-1794520886.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "PHB110",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__725",
     "timestamp": 1794487104,
     "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-Xiaomi-23049RAD8C-Adreno__TM__725-1794487104.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1794484600,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1794484600.json"
   }
 ]
