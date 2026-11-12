@@ -1,5 +1,12 @@
 [
   {
+    "game": "player",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1794446919,
+    "filename": "player-INFINIX-Infinix_X6528-Mali-G57-1794446919.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1794423782,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1794423782.json"
-  },
-  {
-    "game": "DRAGON_BALL_FighterZ",
-    "manufacturer": "CPH2699",
-    "device": "Adreno__TM__710",
-    "timestamp": 1794420356,
-    "filename": "DRAGON_BALL_FighterZ-OPPO-CPH2699-Adreno__TM__710-1794420356.json"
   }
 ]
