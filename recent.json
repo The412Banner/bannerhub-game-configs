@@ -1,5 +1,12 @@
 [
   {
+    "game": "Outlast",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794487127,
+    "filename": "Outlast-INFINIX-Infinix_X6837-Mali-G57_MC2-1794487127.json"
+  },
+  {
     "game": "God_of_War",
     "manufacturer": "23049RAD8C",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1794461614,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-MTN-NX1-Adreno__TM__810-1794461614.json"
-  },
-  {
-    "game": "CrysisLauncher",
-    "manufacturer": "25102PCBEG",
-    "device": "Adreno__TM__840",
-    "timestamp": 1794461579,
-    "filename": "CrysisLauncher-Xiaomi-25102PCBEG-Adreno__TM__840-1794461579.json"
   }
 ]
