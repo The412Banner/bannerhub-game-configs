@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
+    "manufacturer": "23049RAD8C",
+    "device": "Adreno__TM__725",
+    "timestamp": 1794487104,
+    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-Xiaomi-23049RAD8C-Adreno__TM__725-1794487104.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1794449751,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24095PCADG-Mali-G615_MC2-1794449751.json"
-  },
-  {
-    "game": "player",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1794446919,
-    "filename": "player-INFINIX-Infinix_X6528-Mali-G57-1794446919.json"
   }
 ]
