@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23073RPBFG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1794471420,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23073RPBFG-Adreno__TM__610-1794471420.json"
+  },
+  {
     "game": "Forza_Horizon_5",
     "manufacturer": "23073RPBFG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794427820,
     "filename": "BeamMP-Launcher-samsung-SM-A066E-Mali-G57_MC2-1794427820.json"
-  },
-  {
-    "game": "BeamMP-Launcher",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794427799,
-    "filename": "BeamMP-Launcher-samsung-SM-A066E-Mali-G57_MC2-1794427799.json"
   }
 ]
