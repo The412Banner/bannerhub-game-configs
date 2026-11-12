@@ -1,5 +1,12 @@
 [
   {
+    "game": "MOTOR_GP_26_",
+    "manufacturer": "Redmi_Note_8",
+    "device": "Adreno__TM__610",
+    "timestamp": 1794477214,
+    "filename": "MOTOR_GP_26_-Xiaomi-Redmi_Note_8-Adreno__TM__610-1794477214.json"
+  },
+  {
     "game": "Middle-earth___Shadow_of_War_",
     "manufacturer": "CPH2747",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1794430373,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-Adreno__TM__710-1794430373.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1794430229,
-    "filename": "Pro_Evolution_Soccer_2013-HONOR-BRP-NX1-Adreno__TM__710-1794430229.json"
   }
 ]
