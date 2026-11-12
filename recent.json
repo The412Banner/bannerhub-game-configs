@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1794449751,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24095PCADG-Mali-G615_MC2-1794449751.json"
+  },
+  {
     "game": "player",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_",
     "timestamp": 1794425755,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_-1794425755.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1794423782,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g56_5G-PowerVR_B-Series_BXM-8-256-1794423782.json"
   }
 ]
