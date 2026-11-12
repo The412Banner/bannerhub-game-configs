@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794466828,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM6-Mali-G57_MC2-1794466828.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2017",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794427792,
     "filename": "BeamMP-Launcher-samsung-SM-A066E-Mali-G57_MC2-1794427792.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1794427035,
-    "filename": "PlayGTAV-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1794427035.json"
   }
 ]
