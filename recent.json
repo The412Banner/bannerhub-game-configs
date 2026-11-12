@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "23049RAD8C",
+    "device": "Adreno__TM__725",
+    "timestamp": 1794487122,
+    "filename": "God_of_War-Xiaomi-23049RAD8C-Adreno__TM__725-1794487122.json"
+  },
+  {
     "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
     "manufacturer": "23049RAD8C",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1794461579,
     "filename": "CrysisLauncher-Xiaomi-25102PCBEG-Adreno__TM__840-1794461579.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1794449751,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24095PCADG-Mali-G615_MC2-1794449751.json"
   }
 ]
