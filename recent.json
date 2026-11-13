@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1794570846,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CM7-Mali-G615_MC2-1794570846.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1794568774,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1794568774.json"
@@ -131,12 +138,5 @@
     "device": "G76",
     "timestamp": 1794520886,
     "filename": "Call_of_Duty_-samsung-SM-N975F-Mali-G76-1794520886.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "PHB110",
-    "device": "Adreno__TM__740",
-    "timestamp": 1794517708,
-    "filename": "Tomb_Raider-OnePlus-PHB110-Adreno__TM__740-1794517708.json"
   }
 ]
