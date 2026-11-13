@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794607019,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LAB-LX2-Mali-G52_MC2-1794607019.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "8",
     "device": "256",
     "timestamp": 1794603839,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794565616,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2510DRA23L-Mali-G57_MC2-1794565616.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "A376B",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
-    "timestamp": 1794564897,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A376B-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1794564897.json"
   }
 ]
