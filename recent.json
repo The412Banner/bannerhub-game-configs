@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "23122PCD1G",
+    "device": "Adreno__TM__710",
+    "timestamp": 1794573147,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-23122PCD1G-Adreno__TM__710-1794573147.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "M526B",
     "device": "Adreno__TM__642L",
     "timestamp": 1794571676,
@@ -131,12 +138,5 @@
     "device": "G57_MC3",
     "timestamp": 1794536167,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2007J22G-Mali-G57_MC3-1794536167.json"
-  },
-  {
-    "game": "BioShock_",
-    "manufacturer": "S931B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1794533825,
-    "filename": "BioShock_-samsung-SM-S931B-Adreno__TM__830-1794533825.json"
   }
 ]
