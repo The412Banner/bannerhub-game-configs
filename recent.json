@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794563304,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6881-Mali-G57_MC2-1794563304.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX809J",
     "device": "Adreno__TM__840",
     "timestamp": 1794562459,
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1794515576,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2204-PowerVR_Rogue_GE8320-1794515576.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "V2204",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1794515565,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2204-PowerVR_Rogue_GE8320-1794515565.json"
   }
 ]
