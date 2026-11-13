@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs__2",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1794587546,
+    "filename": "Watch_Dogs__2-OPPO-CPH2359-Mali-G77_MC9-1794587546.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1794552452,
     "filename": "Resident_Evil_5-INFINIX-Infinix_X6873-Mali-G615_MC6-1794552452.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1794552440,
-    "filename": "Resident_Evil_5-INFINIX-Infinix_X6873-Mali-G615_MC6-1794552440.json"
   }
 ]
