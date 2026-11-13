@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794577370,
+    "filename": "GTA_V-Xiaomi-23117RA68G-Mali-G57_MC2-1794577370.json"
+  },
+  {
     "game": "Devil_May_Cry_5",
     "manufacturer": "Mali",
     "device": "G615_MC5",
@@ -131,12 +138,5 @@
     "device": "G57_MC3",
     "timestamp": 1794536225,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2007J22G-Mali-G57_MC3-1794536225.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC3",
-    "timestamp": 1794536184,
-    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-M2007J22G-Mali-G57_MC3-1794536184.json"
   }
 ]
