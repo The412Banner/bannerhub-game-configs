@@ -1,5 +1,12 @@
 [
   {
+    "game": "Teenage_Mutant_Ninja_Turtles__Splintered_Fate",
+    "manufacturer": "CPH2387",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1794653360,
+    "filename": "Teenage_Mutant_Ninja_Turtles__Splintered_Fate-OPPO-CPH2387-PowerVR_Rogue_GE8320-1794653360.json"
+  },
+  {
     "game": "War_Thunder",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1794628293,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1794628293.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794625148,
-    "filename": "Pro_Evolution_Soccer_2017-Xiaomi-24117RN76L-Mali-G57_MC2-1794625148.json"
   }
 ]
