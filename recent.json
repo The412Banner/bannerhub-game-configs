@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794662749,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6728-Mali-G52_MC2-1794662749.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__3__2011_",
     "manufacturer": "T860",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794641908,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CH6i-Mali-G52_MC2-1794641908.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1794641804,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6725-Mali-G57-1794641804.json"
   }
 ]
