@@ -1,5 +1,12 @@
 [
   {
+    "game": "Hi-Fi_RUSH",
+    "manufacturer": "G1",
+    "device": "Ultra_MC12",
+    "timestamp": 1794659709,
+    "filename": "Hi-Fi_RUSH-OPPO-PLG110-Mali-G1-Ultra_MC12-1794659709.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1794639397,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6731-Mali-G77_MC9-1794639397.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "25102PCBEG",
-    "device": "Adreno__TM__840",
-    "timestamp": 1794638757,
-    "filename": "Resident_Evil_4-Xiaomi-25102PCBEG-Adreno__TM__840-1794638757.json"
   }
 ]
