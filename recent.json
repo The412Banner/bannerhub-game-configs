@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794648093,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2404APC5FG-Mali-G52_MC2-1794648093.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G615_MC2",
     "timestamp": 1794647315,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2625-Mali-G615_MC2-1794647315.json"
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1794614382,
     "filename": "Mortal_Kombat_X-Xiaomi-2602BPC18I-Mali-G925-Immortalis_MC11-1794614382.json"
-  },
-  {
-    "game": "BeamNG_drive",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1794608702,
-    "filename": "BeamNG_drive-INFINIX-Infinix_X6871-Mali-G610_MC6-1794608702.json"
   }
 ]
