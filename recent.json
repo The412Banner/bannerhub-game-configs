@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794641374,
+    "filename": "Tomb_Raider-samsung-SM-A165F-Mali-G57_MC2-1794641374.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G77_MC9",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794583595,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LAB-LX2-Mali-G52_MC2-1794583595.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794578881,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5353-Mali-G52_MC2-1794578881.json"
   }
 ]
