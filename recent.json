@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1794641804,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6725-Mali-G57-1794641804.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G77_MC9",
     "timestamp": 1794587546,
     "filename": "Watch_Dogs__2-OPPO-CPH2359-Mali-G77_MC9-1794587546.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794583595,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LAB-LX2-Mali-G52_MC2-1794583595.json"
   }
 ]
