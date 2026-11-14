@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1794616355,
+    "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1794616355.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1794571676,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-M526B-Adreno__TM__642L-1794571676.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2017",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1794570929,
-    "filename": "Pro_Evolution_Soccer_2017-TECNO-TECNO_CM7-Mali-G615_MC2-1794570929.json"
   }
 ]
