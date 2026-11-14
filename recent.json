@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL_FighterZ",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794677481,
+    "filename": "DRAGON_BALL_FighterZ-realme-RMX3997-Mali-G57_MC2-1794677481.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1794650069,
     "filename": "War_Thunder-Xiaomi-2311DRK48G-Mali-G615_MC6-1794650069.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1794649621,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S938B-Adreno__TM__830-1794649621.json"
   }
 ]
