@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2410CRP4CG",
+    "device": "Adreno__TM__732",
+    "timestamp": 1794646787,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2410CRP4CG-Adreno__TM__732-1794646787.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1794645630,
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794607019,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LAB-LX2-Mali-G52_MC2-1794607019.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1794603839,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CL7-PowerVR_B-Series_BXM-8-256-1794603839.json"
   }
 ]
