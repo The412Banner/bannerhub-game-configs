@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794646977,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KI7-Mali-G52_MC2-1794646977.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2410CRP4CG",
     "device": "Adreno__TM__732",
     "timestamp": 1794646787,
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1794608694,
     "filename": "BeamNG_drive-INFINIX-Infinix_X6871-Mali-G610_MC6-1794608694.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794607019,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LAB-LX2-Mali-G52_MC2-1794607019.json"
   }
 ]
