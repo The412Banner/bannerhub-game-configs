@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794645630,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KI7-Mali-G52_MC2-1794645630.json"
+  },
+  {
     "game": "Call_of_Duty___Modern_Warfare__3__2011_",
     "manufacturer": "T860",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1794603839,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CL7-PowerVR_B-Series_BXM-8-256-1794603839.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794600990,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CK7n-Mali-G57_MC2-1794600990.json"
   }
 ]
