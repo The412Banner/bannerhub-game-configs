@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G77_MC9",
+    "timestamp": 1794639397,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6731-Mali-G77_MC9-1794639397.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "25102PCBEG",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794578881,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5353-Mali-G52_MC2-1794578881.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794577944,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1794577944.json"
   }
 ]
