@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1794648123,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S938B-Adreno__TM__830-1794648123.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1794648093,
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1794614412,
     "filename": "Mortal_Kombat_X-Xiaomi-2602BPC18I-Mali-G925-Immortalis_MC11-1794614412.json"
-  },
-  {
-    "game": "Mortal_Kombat_X",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1794614382,
-    "filename": "Mortal_Kombat_X-Xiaomi-2602BPC18I-Mali-G925-Immortalis_MC11-1794614382.json"
   }
 ]
