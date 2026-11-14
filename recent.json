@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794683377,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CH6i-Mali-G52_MC2-1794683377.json"
+  },
+  {
     "game": "DRAGON_BALL_Sparking__ZERO",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "MT6789",
     "timestamp": 1794660396,
     "filename": "Assassins-Creed-Black-Flag-R-SteamRIP_com_rar-INFINIX-Infinix_X6837-MT6789-1794660396.json"
-  },
-  {
-    "game": "Hi-Fi_RUSH",
-    "manufacturer": "G1",
-    "device": "Ultra_MC12",
-    "timestamp": 1794659709,
-    "filename": "Hi-Fi_RUSH-OPPO-PLG110-Mali-G1-Ultra_MC12-1794659709.json"
   }
 ]
