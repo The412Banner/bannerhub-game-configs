@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1794715709,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A047M-Mali-G52-1794715709.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "2410CRP4CG",
     "device": "Adreno__TM__732",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794677289,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RN76L-Mali-G57_MC2-1794677289.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider_",
-    "manufacturer": "S921B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
-    "timestamp": 1794675763,
-    "filename": "Rise_of_the_Tomb_Raider_-samsung-SM-S921B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_-1794675763.json"
   }
 ]
