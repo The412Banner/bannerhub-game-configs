@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bruisers",
+    "manufacturer": "T220",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1794779783,
+    "filename": "Bruisers-samsung-SM-T220-PowerVR_Rogue_GE8320-1794779783.json"
+  },
+  {
     "game": "skate_",
     "manufacturer": "24044RN32L",
     "device": "PowerVR_Rogue_GE8322",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1794728486,
     "filename": "GTR2-Sony-SOG09-Adreno__TM__730-1794728486.json"
-  },
-  {
-    "game": "MTA_San_Andreas",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1794727676,
-    "filename": "MTA_San_Andreas-Xiaomi-2511FPC34G-Mali-G720_MC8-1794727676.json"
   }
 ]
