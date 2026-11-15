@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_Komplete_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794753824,
+    "filename": "Mortal_Kombat_Komplete_Edition-samsung-SM-A156M-Mali-G57_MC2-1794753824.json"
+  },
+  {
     "game": "Liquor_Store_Simulator__Prologue",
     "manufacturer": "S928B",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1794709302,
     "filename": "MotoGP17-Sony-SOG09-Adreno__TM__730-1794709302.json"
-  },
-  {
-    "game": "MotoGP15",
-    "manufacturer": "22111317G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1794707122,
-    "filename": "MotoGP15-Xiaomi-22111317G-Adreno__TM__619-1794707122.json"
   }
 ]
