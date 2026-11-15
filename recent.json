@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP15",
+    "manufacturer": "22111317G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1794707122,
+    "filename": "MotoGP15-Xiaomi-22111317G-Adreno__TM__619-1794707122.json"
+  },
+  {
     "game": "Sifu",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1794665797,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A528B-Adreno__TM__642L-1794665797.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1794665482,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2602BPC18I-Mali-G925-Immortalis_MC11-1794665482.json"
   }
 ]
