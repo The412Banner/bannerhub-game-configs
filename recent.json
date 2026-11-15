@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP17",
+    "manufacturer": "SOG09",
+    "device": "Adreno__TM__730",
+    "timestamp": 1794721071,
+    "filename": "MotoGP17-Sony-SOG09-Adreno__TM__730-1794721071.json"
+  },
+  {
     "game": "Yanpai_Simulator",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794677481,
     "filename": "DRAGON_BALL_FighterZ-realme-RMX3997-Mali-G57_MC2-1794677481.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794677320,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24117RN76L-Mali-G57_MC2-1794677320.json"
   }
 ]
