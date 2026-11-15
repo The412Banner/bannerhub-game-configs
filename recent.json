@@ -3,6 +3,13 @@
     "game": "GTR2",
     "manufacturer": "SOG09",
     "device": "Adreno__TM__730",
+    "timestamp": 1794728503,
+    "filename": "GTR2-Sony-SOG09-Adreno__TM__730-1794728503.json"
+  },
+  {
+    "game": "GTR2",
+    "manufacturer": "SOG09",
+    "device": "Adreno__TM__730",
     "timestamp": 1794728486,
     "filename": "GTR2-Sony-SOG09-Adreno__TM__730-1794728486.json"
   },
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1794684259,
     "filename": "PlayGTAV-INFINIX-Infinix_X6873-Mali-G615_MC6-1794684259.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794683400,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A075F-Mali-G57_MC2-1794683400.json"
   }
 ]
