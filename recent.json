@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1794740204,
+    "filename": "Euro_Truck_Simulator_2-realme-RMX3938-Mali-G57-1794740204.json"
+  },
+  {
     "game": "NSUNS4_Launcher",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794692671,
     "filename": "BlackOps-samsung-SM-A155M-Mali-G57_MC2-1794692671.json"
-  },
-  {
-    "game": "BaldiFunkin",
-    "manufacturer": "X210",
-    "device": "Adreno__TM__619",
-    "timestamp": 1794685664,
-    "filename": "BaldiFunkin-samsung-SM-X210-Adreno__TM__619-1794685664.json"
   }
 ]
