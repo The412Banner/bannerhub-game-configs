@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cars_2_Deluxe_Installer_v2_0_2",
+    "manufacturer": "moto_g_30_",
+    "device": "Adreno__TM__610",
+    "timestamp": 1794764423,
+    "filename": "Cars_2_Deluxe_Installer_v2_0_2-motorola-moto_g_30_-Adreno__TM__610-1794764423.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G76_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1794721071,
     "filename": "MotoGP17-Sony-SOG09-Adreno__TM__730-1794721071.json"
-  },
-  {
-    "game": "Yanpai_Simulator",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794717721,
-    "filename": "Yanpai_Simulator-Xiaomi-2409BRN2CA-Mali-G52_MC2-1794717721.json"
   }
 ]
