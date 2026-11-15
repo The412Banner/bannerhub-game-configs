@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTR2",
+    "manufacturer": "SOG09",
+    "device": "Adreno__TM__730",
+    "timestamp": 1794728486,
+    "filename": "GTR2-Sony-SOG09-Adreno__TM__730-1794728486.json"
+  },
+  {
     "game": "MTA_San_Andreas",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794683400,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-A075F-Mali-G57_MC2-1794683400.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794683377,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_CH6i-Mali-G52_MC2-1794683377.json"
   }
 ]
