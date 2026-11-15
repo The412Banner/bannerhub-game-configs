@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794724994,
+    "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_CL6-Mali-G57_MC2-1794724994.json"
+  },
+  {
     "game": "MotoGP17",
     "manufacturer": "SOG09",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1794681034,
     "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-25053PC47G-Adreno__TM__825-1794681034.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_e_7_",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1794680802,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e_7_-PowerVR_Rogue_GE8320-1794680802.json"
   }
 ]
