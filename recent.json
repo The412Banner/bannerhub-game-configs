@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "Mali",
+    "device": "G76_MC4",
+    "timestamp": 1794764101,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-Redmi_Note_8_Pro-Mali-G76_MC4-1794764101.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794717721,
     "filename": "Yanpai_Simulator-Xiaomi-2409BRN2CA-Mali-G52_MC2-1794717721.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1794715709,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A047M-Mali-G52-1794715709.json"
   }
 ]
