@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794830320,
+    "filename": "Left_4_Dead_2-INFINIX-Infinix_X6826C-Mali-G52_MC2-1794830320.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794782428,
     "filename": "GTA_V_Launcher-Xiaomi-25040RP0AG-Mali-G57_MC2-1794782428.json"
-  },
-  {
-    "game": "GTA_V_Launcher",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794782425,
-    "filename": "GTA_V_Launcher-Xiaomi-25040RP0AG-Mali-G57_MC2-1794782425.json"
   }
 ]
