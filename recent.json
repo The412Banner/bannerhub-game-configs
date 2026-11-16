@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794810554,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1794810554.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1794792081,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2410FPCC5G-Mali-G52_MC2-1794792081.json"
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794762133,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6881-Mali-G57_MC2-1794762133.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "LX1",
-    "device": "Adreno__TM__610",
-    "timestamp": 1794760069,
-    "filename": "Mafia_II__Classic_-HONOR-LLY-LX1-Adreno__TM__610-1794760069.json"
   }
 ]
