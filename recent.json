@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1794845000,
+    "filename": "BlackOps-INFINIX-Infinix_X6871-Mali-G610_MC6-1794845000.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794790103,
     "filename": "PRO_EVOLUTION_SOCCER_2018-samsung-SM-A225M-Mali-G52_MC2-1794790103.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "S928U",
-    "device": "Adreno__TM__750",
-    "timestamp": 1794789894,
-    "filename": "Tomb_Raider-samsung-SM-S928U-Adreno__TM__750-1794789894.json"
   }
 ]
