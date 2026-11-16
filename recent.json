@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "24091RPADC",
+    "device": "Adreno__TM__735",
+    "timestamp": 1794866120,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-24091RPADC-Adreno__TM__735-1794866120.json"
+  },
+  {
     "game": "gtav_launcher",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794817545,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6885-Mali-G57_MC2-1794817545.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794810740,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1794810740.json"
   }
 ]
