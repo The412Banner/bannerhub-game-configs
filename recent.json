@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1794827033,
+    "filename": "Grand_Theft_Auto_V_Legacy-ZTE-Z2467-Mali-G57-1794827033.json"
+  },
+  {
     "game": "TEKKEN_7",
     "manufacturer": "SOG02",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1794779783,
     "filename": "Bruisers-samsung-SM-T220-PowerVR_Rogue_GE8320-1794779783.json"
-  },
-  {
-    "game": "skate_",
-    "manufacturer": "24044RN32L",
-    "device": "PowerVR_Rogue_GE8322",
-    "timestamp": 1794779453,
-    "filename": "skate_-Xiaomi-24044RN32L-PowerVR_Rogue_GE8322-1794779453.json"
   }
 ]
