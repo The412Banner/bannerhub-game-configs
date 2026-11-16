@@ -1,5 +1,12 @@
 [
   {
+    "game": "PRO_EVOLUTION_SOCCER_2018",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794790439,
+    "filename": "PRO_EVOLUTION_SOCCER_2018-samsung-SM-A225M-Mali-G52_MC2-1794790439.json"
+  },
+  {
     "game": "Greymeat",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794754745,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-24117RN76L-Mali-G57_MC2-1794754745.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794754569,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-24117RN76L-Mali-G57_MC2-1794754569.json"
   }
 ]
