@@ -1,5 +1,12 @@
 [
   {
+    "game": "gtav_launcher",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794861706,
+    "filename": "gtav_launcher-samsung-SM-A165F-Mali-G57_MC2-1794861706.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "G925",
     "device": "Immortalis_MC12",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794810740,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1794810740.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794810560,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1794810560.json"
   }
 ]
