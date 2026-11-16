@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794825029,
+    "filename": "Red_Dead_Redemption-INFINIX-Infinix_X6826C-Mali-G52_MC2-1794825029.json"
+  },
+  {
     "game": "MinecraftInstaller",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1794770981,
     "filename": "Red_Dead_Redemption_2-samsung-SM-S928B-Adreno__TM__750-1794770981.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G76",
-    "timestamp": 1794769798,
-    "filename": "Grand_Theft_Auto_V_Legacy-HUAWEI-HMA-L29-Mali-G76-1794769798.json"
   }
 ]
