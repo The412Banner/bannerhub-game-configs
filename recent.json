@@ -1,5 +1,12 @@
 [
   {
+    "game": "_____v1_0",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794912075,
+    "filename": "_____v1_0-INFINIX-Infinix_X6853-Mali-G57_MC2-1794912075.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1794833759,
     "filename": "setup-HONOR-ROD2-W09-Adreno__TM__735-1794833759.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794830320,
-    "filename": "Left_4_Dead_2-INFINIX-Infinix_X6826C-Mali-G52_MC2-1794830320.json"
   }
 ]
