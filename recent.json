@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "220333QAG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1794945353,
+    "filename": "Grand_Theft_Auto_V-Xiaomi-220333QAG-Adreno__TM__610-1794945353.json"
+  },
+  {
     "game": "Tradu__o_do_GTA_IV_The_Complete_Edition_____________________",
     "manufacturer": "G925",
     "device": "Immortalis_MC11",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1794928151,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2441-Adreno__TM__610-1794928151.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794925482,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A156E-Mali-G57_MC2-1794925482.json"
   }
 ]
