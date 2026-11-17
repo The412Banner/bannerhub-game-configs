@@ -1,5 +1,12 @@
 [
   {
+    "game": "iw3sp",
+    "manufacturer": "LX1",
+    "device": "Adreno__TM__610",
+    "timestamp": 1794930183,
+    "filename": "iw3sp-HUAWEI-GFY-LX1-Adreno__TM__610-1794930183.json"
+  },
+  {
     "game": "LOK_Digital",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1794853518,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-A301XM-Mali-G715-Immortalis_MC11-1794853518.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794849052,
-    "filename": "Tomb_Raider-samsung-SM-A155F-Mali-G57_MC2-1794849052.json"
   }
 ]
