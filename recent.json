@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "V2441",
+    "device": "Adreno__TM__610",
+    "timestamp": 1794928151,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2441-Adreno__TM__610-1794928151.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1794925482,
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1794845000,
     "filename": "BlackOps-INFINIX-Infinix_X6871-Mali-G610_MC6-1794845000.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1794838524,
-    "filename": "PlayGTAV-vivo-V2352-Mali-G52_MC2-1794838524.json"
   }
 ]
