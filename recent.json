@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794904713,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1794904713.json"
+  },
+  {
     "game": "xenia_canary",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794830320,
     "filename": "Left_4_Dead_2-INFINIX-Infinix_X6826C-Mali-G52_MC2-1794830320.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1794827183,
-    "filename": "Grand_Theft_Auto_V_Legacy-ZTE-Z2467-Mali-G57-1794827183.json"
   }
 ]
