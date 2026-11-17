@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1794950570,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1794950570.json"
+  },
+  {
     "game": "Ride_2",
     "manufacturer": "moto_g45_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1794932468,
     "filename": "Little_Nightmares_III-vivo-V2453A-Adreno__TM__825-1794932468.json"
-  },
-  {
-    "game": "Little_Nightmares_III",
-    "manufacturer": "V2453A",
-    "device": "Adreno__TM__825",
-    "timestamp": 1794932440,
-    "filename": "Little_Nightmares_III-vivo-V2453A-Adreno__TM__825-1794932440.json"
   }
 ]
