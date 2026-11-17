@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__Bad_Company_2_Vietnam",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794936303,
+    "filename": "Battlefield__Bad_Company_2_Vietnam-INFINIX-Infinix_X6885-Mali-G57_MC2-1794936303.json"
+  },
+  {
     "game": "GTA_IV___Multiplayer_nosTEAM_part1",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1794877442,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2409BRN2CL-Mali-G52_MC2-1794877442.json"
-  },
-  {
-    "game": "L_A__Noire",
-    "manufacturer": "Mali",
-    "device": "G78",
-    "timestamp": 1794867027,
-    "filename": "L_A__Noire-samsung-SM-G991N-Mali-G78-1794867027.json"
   }
 ]
