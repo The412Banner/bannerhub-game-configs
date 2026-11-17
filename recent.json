@@ -1,5 +1,12 @@
 [
   {
+    "game": "Little_Nightmares_III",
+    "manufacturer": "V2453A",
+    "device": "Adreno__TM__825",
+    "timestamp": 1794932440,
+    "filename": "Little_Nightmares_III-vivo-V2453A-Adreno__TM__825-1794932440.json"
+  },
+  {
     "game": "Myrmidon",
     "manufacturer": "23043RP34G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1794853542,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-A301XM-Mali-G715-Immortalis_MC11-1794853542.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G715",
-    "device": "Immortalis_MC11",
-    "timestamp": 1794853534,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-A301XM-Mali-G715-Immortalis_MC11-1794853534.json"
   }
 ]
