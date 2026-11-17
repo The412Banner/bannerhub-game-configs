@@ -1,5 +1,12 @@
 [
   {
+    "game": "FATE________________________________________________________",
+    "manufacturer": "PJE110",
+    "device": "Adreno__TM__740",
+    "timestamp": 1794954693,
+    "filename": "FATE________________________________________________________-OnePlus-PJE110-Adreno__TM__740-1794954693.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1794936182,
     "filename": "GTA_IV___Multiplayer_nosTEAM_part1-INFINIX-Infinix_X6871-Mali-G610_MC6-1794936182.json"
-  },
-  {
-    "game": "GTA_IV___Multiplayer_nosTEAM_part1",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1794936040,
-    "filename": "GTA_IV___Multiplayer_nosTEAM_part1-INFINIX-Infinix_X6871-Mali-G610_MC6-1794936040.json"
   }
 ]
