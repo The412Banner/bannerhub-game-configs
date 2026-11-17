@@ -1,5 +1,12 @@
 [
   {
+    "game": "LOK_Digital",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794928744,
+    "filename": "LOK_Digital-samsung-SM-A155F-Mali-G57_MC2-1794928744.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "V2441",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794849052,
     "filename": "Tomb_Raider-samsung-SM-A155F-Mali-G57_MC2-1794849052.json"
-  },
-  {
-    "game": "BlackOps",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1794845000,
-    "filename": "BlackOps-INFINIX-Infinix_X6871-Mali-G610_MC6-1794845000.json"
   }
 ]
