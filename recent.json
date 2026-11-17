@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1794947618,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1794947618.json"
+  },
+  {
     "game": "generals",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794930333,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A156E-Mali-G57_MC2-1794930333.json"
-  },
-  {
-    "game": "iw3sp",
-    "manufacturer": "LX1",
-    "device": "Adreno__TM__610",
-    "timestamp": 1794930183,
-    "filename": "iw3sp-HUAWEI-GFY-LX1-Adreno__TM__610-1794930183.json"
   }
 ]
