@@ -1,5 +1,12 @@
 [
   {
+    "game": "generals",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1794945606,
+    "filename": "generals-Xiaomi-2306EPN60G-Mali-G610_MC6-1794945606.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "220333QAG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794928744,
     "filename": "LOK_Digital-samsung-SM-A155F-Mali-G57_MC2-1794928744.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "V2441",
-    "device": "Adreno__TM__610",
-    "timestamp": 1794928151,
-    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2441-Adreno__TM__610-1794928151.json"
   }
 ]
