@@ -1,5 +1,12 @@
 [
   {
+    "game": "FIFA_13_____________________________________________________",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1794937053,
+    "filename": "FIFA_13_____________________________________________________-Xiaomi-M2102J20SG-Adreno__TM__640-1794937053.json"
+  },
+  {
     "game": "Battlefield__Bad_Company_2_Vietnam",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1794882647,
     "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1794882647.json"
-  },
-  {
-    "game": "BootstrapPackagedGame",
-    "manufacturer": "Mali",
-    "device": "G72_MP3",
-    "timestamp": 1794878859,
-    "filename": "BootstrapPackagedGame-wheatek-WP36-Mali-G72_MP3-1794878859.json"
   }
 ]
