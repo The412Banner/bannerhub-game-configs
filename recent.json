@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1794953209,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5020-Mali-G52_MC2-1794953209.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G68_MC4",
     "timestamp": 1794951690,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A346B-Mali-G68_MC4-1794951690.json"
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1794936040,
     "filename": "GTA_IV___Multiplayer_nosTEAM_part1-INFINIX-Infinix_X6871-Mali-G610_MC6-1794936040.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1794934391,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1794934391.json"
   }
 ]
