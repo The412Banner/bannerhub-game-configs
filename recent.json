@@ -1,5 +1,12 @@
 [
   {
+    "game": "Wargaming_net_Game_Center___________________________________",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1794940533,
+    "filename": "Wargaming_net_Game_Center___________________________________-Xiaomi-23043RP34G-Adreno__TM__650-1794940533.json"
+  },
+  {
     "game": "BeamMP_Launcher_____________________________________________",
     "manufacturer": "W09",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794912075,
     "filename": "_____v1_0-INFINIX-Infinix_X6853-Mali-G57_MC2-1794912075.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794904713,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1794904713.json"
   }
 ]
