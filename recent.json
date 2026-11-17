@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1794948416,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6725-Mali-G57-1794948416.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1794930795,
     "filename": "Myrmidon-Xiaomi-23043RP34G-Adreno__TM__650-1794930795.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794930333,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A156E-Mali-G57_MC2-1794930333.json"
   }
 ]
