@@ -1,5 +1,12 @@
 [
   {
+    "game": "Myrmidon",
+    "manufacturer": "23043RP34G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1794930795,
+    "filename": "Myrmidon-Xiaomi-23043RP34G-Adreno__TM__650-1794930795.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1794853534,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-A301XM-Mali-G715-Immortalis_MC11-1794853534.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "G715",
-    "device": "Immortalis_MC11",
-    "timestamp": 1794853527,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-A301XM-Mali-G715-Immortalis_MC11-1794853527.json"
   }
 ]
