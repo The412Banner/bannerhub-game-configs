@@ -1,5 +1,12 @@
 [
   {
+    "game": "Ride_2",
+    "manufacturer": "moto_g45_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1794948492,
+    "filename": "Ride_2-motorola-moto_g45_5G-Adreno__TM__619-1794948492.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1794932440,
     "filename": "Little_Nightmares_III-vivo-V2453A-Adreno__TM__825-1794932440.json"
-  },
-  {
-    "game": "Myrmidon",
-    "manufacturer": "23043RP34G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1794930795,
-    "filename": "Myrmidon-Xiaomi-23043RP34G-Adreno__TM__650-1794930795.json"
   }
 ]
