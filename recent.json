@@ -1,5 +1,12 @@
 [
   {
+    "game": "AVA_Mod_Manager_____________________________________________",
+    "manufacturer": "24091RPADG",
+    "device": "Adreno__TM__735",
+    "timestamp": 1794958394,
+    "filename": "AVA_Mod_Manager_____________________________________________-Xiaomi-24091RPADG-Adreno__TM__735-1794958394.json"
+  },
+  {
     "game": "FATE________________________________________________________",
     "manufacturer": "PJE110",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794936303,
     "filename": "Battlefield__Bad_Company_2_Vietnam-INFINIX-Infinix_X6885-Mali-G57_MC2-1794936303.json"
-  },
-  {
-    "game": "GTA_IV___Multiplayer_nosTEAM_part1",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1794936182,
-    "filename": "GTA_IV___Multiplayer_nosTEAM_part1-INFINIX-Infinix_X6871-Mali-G610_MC6-1794936182.json"
   }
 ]
