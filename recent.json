@@ -1,5 +1,12 @@
 [
   {
+    "game": "xenia_canary",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1794889365,
+    "filename": "xenia_canary-INFINIX-Infinix_X6882-Mali-G57_MC2-1794889365.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1794827183,
     "filename": "Grand_Theft_Auto_V_Legacy-ZTE-Z2467-Mali-G57-1794827183.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1794827033,
-    "filename": "Grand_Theft_Auto_V_Legacy-ZTE-Z2467-Mali-G57-1794827033.json"
   }
 ]
