@@ -1,5 +1,12 @@
 [
   {
+    "game": "BeamMP_Launcher_____________________________________________",
+    "manufacturer": "W09",
+    "device": "Adreno__TM__610",
+    "timestamp": 1794939609,
+    "filename": "BeamMP_Launcher_____________________________________________-HONOR-NDL-W09-Adreno__TM__610-1794939609.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1794904713,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LI9-Mali-G57_MC2-1794904713.json"
-  },
-  {
-    "game": "xenia_canary",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1794889365,
-    "filename": "xenia_canary-INFINIX-Infinix_X6882-Mali-G57_MC2-1794889365.json"
   }
 ]
