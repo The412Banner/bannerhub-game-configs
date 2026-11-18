@@ -1,5 +1,12 @@
 [
   {
+    "game": "2K_Sports_NBA_2K14",
+    "manufacturer": "V2342",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795016334,
+    "filename": "2K_Sports_NBA_2K14-vivo-V2342-Adreno__TM__610-1795016334.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A366E",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1794961131,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_KL4-Mali-G57-1794961131.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "moto_g_stylus_5G__2022_",
-    "device": "Adreno__TM__619",
-    "timestamp": 1794959860,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g_stylus_5G__2022_-Adreno__TM__619-1794959860.json"
   }
 ]
