@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795030351,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6881-Mali-G57_MC2-1795030351.json"
+  },
+  {
     "game": "MadMax",
     "manufacturer": "24069PC21I",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1794993761,
     "filename": "L_A__Noire-vivo-I2214-Mali-G610_MC6-1794993761.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "moto_g53_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1794991957,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g53_5G-Adreno__TM__619-1794991957.json"
   }
 ]
