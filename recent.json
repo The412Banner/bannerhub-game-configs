@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTAServer",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1795004034,
+    "filename": "GTAServer-TECNO-TECNO_KM4n-Mali-G52_MC2-1795004034.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1794950570,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1794950570.json"
-  },
-  {
-    "game": "Ride_2",
-    "manufacturer": "moto_g45_5G",
-    "device": "Adreno__TM__619",
-    "timestamp": 1794948492,
-    "filename": "Ride_2-motorola-moto_g45_5G-Adreno__TM__619-1794948492.json"
   }
 ]
