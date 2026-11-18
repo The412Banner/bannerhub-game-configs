@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dishonored",
+    "manufacturer": "24115RA8EG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1795012681,
+    "filename": "Dishonored-Xiaomi-24115RA8EG-Adreno__TM__810-1795012681.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__735",
     "timestamp": 1794958394,
     "filename": "AVA_Mod_Manager_____________________________________________-Xiaomi-24091RPADG-Adreno__TM__735-1794958394.json"
-  },
-  {
-    "game": "FATE________________________________________________________",
-    "manufacturer": "PJE110",
-    "device": "Adreno__TM__740",
-    "timestamp": 1794954693,
-    "filename": "FATE________________________________________________________-OnePlus-PJE110-Adreno__TM__740-1794954693.json"
   }
 ]
