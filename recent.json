@@ -1,5 +1,12 @@
 [
   {
+    "game": "xenia_canary",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795036747,
+    "filename": "xenia_canary-Anbernic-RG556-Mali-G57-1795036747.json"
+  },
+  {
     "game": "War_Thunder",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1795003387,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-motorola-moto_g84_5G-Adreno__TM__619-1795003387.json"
-  },
-  {
-    "game": "GTAServer",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795002328,
-    "filename": "GTAServer-TECNO-TECNO_KM4n-Mali-G52_MC2-1795002328.json"
   }
 ]
