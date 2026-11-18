@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "M2102J20SG",
+    "device": "Adreno__TM__640",
+    "timestamp": 1795005582,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2102J20SG-Adreno__TM__640-1795005582.json"
+  },
+  {
     "game": "GTAServer",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1794951685,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A346B-Mali-G68_MC4-1794951685.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1794950570,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1794950570.json"
   }
 ]
