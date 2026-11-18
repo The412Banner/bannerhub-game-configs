@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A366E",
+    "device": "Adreno__TM__710",
+    "timestamp": 1795016304,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A366E-Adreno__TM__710-1795016304.json"
+  },
+  {
     "game": "Dishonored",
     "manufacturer": "24115RA8EG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1794959860,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g_stylus_5G__2022_-Adreno__TM__619-1794959860.json"
-  },
-  {
-    "game": "AVA_Mod_Manager_____________________________________________",
-    "manufacturer": "24091RPADG",
-    "device": "Adreno__TM__735",
-    "timestamp": 1794958394,
-    "filename": "AVA_Mod_Manager_____________________________________________-Xiaomi-24091RPADG-Adreno__TM__735-1794958394.json"
   }
 ]
