@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1795032583,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1795032583.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1794994465,
     "filename": "Euro_Truck_Simulator_2-realme-RMX3834-Mali-G57-1794994465.json"
-  },
-  {
-    "game": "L_A__Noire",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1794993761,
-    "filename": "L_A__Noire-vivo-I2214-Mali-G610_MC6-1794993761.json"
   }
 ]
