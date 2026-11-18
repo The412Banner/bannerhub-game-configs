@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G71",
+    "timestamp": 1795006351,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A307FN-Mali-G71-1795006351.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "M2102J20SG",
     "device": "Adreno__TM__640",
     "timestamp": 1795005582,
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1794951690,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A346B-Mali-G68_MC4-1794951690.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1794951685,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A346B-Mali-G68_MC4-1794951685.json"
   }
 ]
