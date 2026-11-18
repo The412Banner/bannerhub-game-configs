@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1794994465,
+    "filename": "Euro_Truck_Simulator_2-realme-RMX3834-Mali-G57-1794994465.json"
+  },
+  {
     "game": "L_A__Noire",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1794945606,
     "filename": "generals-Xiaomi-2306EPN60G-Mali-G610_MC6-1794945606.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "220333QAG",
-    "device": "Adreno__TM__610",
-    "timestamp": 1794945353,
-    "filename": "Grand_Theft_Auto_V-Xiaomi-220333QAG-Adreno__TM__610-1794945353.json"
   }
 ]
