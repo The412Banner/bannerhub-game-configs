@@ -1,5 +1,12 @@
 [
   {
+    "game": "L_A__Noire",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1794993761,
+    "filename": "L_A__Noire-vivo-I2214-Mali-G610_MC6-1794993761.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_g53_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1794945353,
     "filename": "Grand_Theft_Auto_V-Xiaomi-220333QAG-Adreno__TM__610-1794945353.json"
-  },
-  {
-    "game": "Tradu__o_do_GTA_IV_The_Complete_Edition_____________________",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC11",
-    "timestamp": 1794943854,
-    "filename": "Tradu__o_do_GTA_IV_The_Complete_Edition_____________________-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1794943854.json"
   }
 ]
