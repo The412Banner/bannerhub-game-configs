@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1795020101,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A356E-Mali-G68-1795020101.json"
+  },
+  {
     "game": "2K_Sports_NBA_2K14",
     "manufacturer": "V2342",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1794964494,
     "filename": "DARK_SOULS__II-Xiaomi-Mi_10_Pro-Adreno__TM__650-1794964494.json"
-  },
-  {
-    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1794961131,
-    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_KL4-Mali-G57-1794961131.json"
   }
 ]
