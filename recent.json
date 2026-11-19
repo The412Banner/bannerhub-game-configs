@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Launcher",
+    "manufacturer": "OPPO_A3",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795074905,
+    "filename": "GTA_V_Launcher-OPPO-OPPO_A3-Adreno__TM__610-1795074905.json"
+  },
+  {
     "game": "Covert_War__Afghanistan",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1795028829,
     "filename": "Pro_Evolution_Soccer_2013-Xiaomi-2412DPC0AG-Mali-G720_MC7-1795028829.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795021969,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6817-Mali-G52_MC2-1795021969.json"
   }
 ]
