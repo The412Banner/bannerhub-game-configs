@@ -1,5 +1,12 @@
 [
   {
+    "game": "Call_of_Duty___Modern_Warfare__3__2011_",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1795058713,
+    "filename": "Call_of_Duty___Modern_Warfare__3__2011_-TECNO-TECNO_CM8-Mali-G615_MC6-1795058713.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S911U1",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1795012681,
     "filename": "Dishonored-Xiaomi-24115RA8EG-Adreno__TM__810-1795012681.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795010641,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A165F-Mali-G57_MC2-1795010641.json"
   }
 ]
