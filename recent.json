@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795118096,
+    "filename": "Grand_Theft_Auto_V-TECNO-TECNO_LI9-Mali-G57_MC2-1795118096.json"
+  },
+  {
     "game": "Rise_of_the_Tomb_Raider_",
     "manufacturer": "CPH2381",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1795092577,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2511FPC34G-Mali-G720_MC8-1795092577.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795088291,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6837-Mali-G57_MC2-1795088291.json"
   }
 ]
