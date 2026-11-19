@@ -1,5 +1,12 @@
 [
   {
+    "game": "sonic-exe-one-last-round-demo",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1795068979,
+    "filename": "sonic-exe-one-last-round-demo-realme-RMX3910-Mali-G52_MC2-1795068979.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1795016334,
     "filename": "2K_Sports_NBA_2K14-vivo-V2342-Adreno__TM__610-1795016334.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A366E",
-    "device": "Adreno__TM__710",
-    "timestamp": 1795016304,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A366E-Adreno__TM__710-1795016304.json"
   }
 ]
