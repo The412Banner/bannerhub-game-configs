@@ -1,5 +1,12 @@
 [
   {
+    "game": "Medal_of_Honor_Retro_Remake_________________________________",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795127793,
+    "filename": "Medal_of_Honor_Retro_Remake_________________________________-Anbernic-RG556-Mali-G57-1795127793.json"
+  },
+  {
     "game": "Thunder_Spikes",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795105134,
     "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A155M-Mali-G57_MC2-1795105134.json"
-  },
-  {
-    "game": "DARKSOULS",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1795103693,
-    "filename": "DARKSOULS-INFINIX-Infinix_X6873-Mali-G615_MC6-1795103693.json"
   }
 ]
