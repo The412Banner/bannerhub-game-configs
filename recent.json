@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1795124030,
+    "filename": "PlayGTAV-HONOR-LAB-LX2-Mali-G52_MC2-1795124030.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G76_MC4",
     "timestamp": 1795101784,
     "filename": "Euro_Truck_Simulator_2-Xiaomi-Redmi_Note_8_Pro-Mali-G76_MC4-1795101784.json"
-  },
-  {
-    "game": "GTAServer",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795095776,
-    "filename": "GTAServer-TECNO-TECNO_KM4n-Mali-G52_MC2-1795095776.json"
   }
 ]
