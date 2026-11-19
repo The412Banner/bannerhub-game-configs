@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARKSOULS",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1795103693,
+    "filename": "DARKSOULS-INFINIX-Infinix_X6873-Mali-G615_MC6-1795103693.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1795071530,
     "filename": "Grand_Theft_Auto_V-motorola-motorola_edge_30_neo-Adreno__TM__619-1795071530.json"
-  },
-  {
-    "game": "sonic-exe-one-last-round-demo",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795068979,
-    "filename": "sonic-exe-one-last-round-demo-realme-RMX3910-Mali-G52_MC2-1795068979.json"
   }
 ]
