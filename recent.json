@@ -1,5 +1,12 @@
 [
   {
+    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795126594,
+    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-Anbernic-RG556-Mali-G57-1795126594.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795102816,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3834-Mali-G57-1795102816.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795102752,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX5303-Mali-G57-1795102752.json"
   }
 ]
