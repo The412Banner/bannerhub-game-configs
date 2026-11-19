@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795118174,
+    "filename": "Grand_Theft_Auto_V-TECNO-TECNO_LI9-Mali-G57_MC2-1795118174.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1795095708,
     "filename": "GTAServer-TECNO-TECNO_KM4n-Mali-G52_MC2-1795095708.json"
-  },
-  {
-    "game": "GTAServer",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795095511,
-    "filename": "GTAServer-TECNO-TECNO_KM4n-Mali-G52_MC2-1795095511.json"
   }
 ]
