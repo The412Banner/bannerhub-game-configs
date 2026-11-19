@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795101991,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3834-Mali-G57-1795101991.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G76_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1795057305,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S911U1-Adreno__TM__740-1795057305.json"
-  },
-  {
-    "game": "Assassin_s_Creed__IV_Black_Flag_",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1795054395,
-    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-2412DPC0AG-Mali-G720_MC7-1795054395.json"
   }
 ]
