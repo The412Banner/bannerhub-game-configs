@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795125163,
+    "filename": "Euro_Truck_Simulator_2-realme-RMX3834-Mali-G57-1795125163.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1795102467,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2511FPC34G-Mali-G720_MC8-1795102467.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795101991,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3834-Mali-G57-1795101991.json"
   }
 ]
