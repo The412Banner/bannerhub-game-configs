@@ -1,5 +1,12 @@
 [
   {
+    "game": "DokiTakeoverminus",
+    "manufacturer": "CPH2743",
+    "device": "Adreno__TM__710",
+    "timestamp": 1795048440,
+    "filename": "DokiTakeoverminus-OPPO-CPH2743-Adreno__TM__710-1795048440.json"
+  },
+  {
     "game": "Demon_Slayer_-Kimetsu_no_Yaiba-_The_Hinokami_Chronicles_2",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_",
@@ -131,12 +138,5 @@
     "device": "G71",
     "timestamp": 1795006351,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A307FN-Mali-G71-1795006351.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "M2102J20SG",
-    "device": "Adreno__TM__640",
-    "timestamp": 1795005582,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-M2102J20SG-Adreno__TM__640-1795005582.json"
   }
 ]
