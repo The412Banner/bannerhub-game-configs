@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1795102467,
+    "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-Xiaomi-2511FPC34G-Mali-G720_MC8-1795102467.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1795058713,
     "filename": "Call_of_Duty___Modern_Warfare__3__2011_-TECNO-TECNO_CM8-Mali-G615_MC6-1795058713.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S911U1",
-    "device": "Adreno__TM__740",
-    "timestamp": 1795057305,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S911U1-Adreno__TM__740-1795057305.json"
   }
 ]
