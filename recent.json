@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795088291,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6837-Mali-G57_MC2-1795088291.json"
+  },
+  {
     "game": "GTA_V_Launcher",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1795033678,
     "filename": "War_Thunder-HONOR-CLK-LX2-Adreno__TM__610-1795033678.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795033220,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6725-Mali-G57-1795033220.json"
   }
 ]
