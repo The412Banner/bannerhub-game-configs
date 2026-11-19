@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Launcher",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1795085983,
+    "filename": "GTA_V_Launcher-TECNO-TECNO_KM4n-Mali-G52_MC2-1795085983.json"
+  },
+  {
     "game": "GTAServer",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795033220,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6725-Mali-G57-1795033220.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795032845,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6725-Mali-G57-1795032845.json"
   }
 ]
