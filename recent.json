@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S921U",
+    "device": "Adreno__TM__750",
+    "timestamp": 1795109422,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S921U-Adreno__TM__750-1795109422.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1795085894,
     "filename": "GTAServer-TECNO-TECNO_KM4n-Mali-G52_MC2-1795085894.json"
-  },
-  {
-    "game": "Batman___Arkham_Origins",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795082230,
-    "filename": "Batman___Arkham_Origins-Xiaomi-25028RN03A-Mali-G57-1795082230.json"
   }
 ]
