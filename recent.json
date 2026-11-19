@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795080294,
+    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-23129RAA4G-Adreno__TM__610-1795080294.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795030351,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6881-Mali-G57_MC2-1795030351.json"
-  },
-  {
-    "game": "MadMax",
-    "manufacturer": "24069PC21I",
-    "device": "Adreno__TM__735",
-    "timestamp": 1795029092,
-    "filename": "MadMax-Xiaomi-24069PC21I-Adreno__TM__735-1795029092.json"
   }
 ]
