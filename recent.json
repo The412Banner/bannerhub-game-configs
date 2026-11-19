@@ -3,6 +3,13 @@
     "game": "PlayGTAV",
     "manufacturer": "Mali",
     "device": "G52_MC2",
+    "timestamp": 1795124036,
+    "filename": "PlayGTAV-HONOR-LAB-LX2-Mali-G52_MC2-1795124036.json"
+  },
+  {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
     "timestamp": 1795124030,
     "filename": "PlayGTAV-HONOR-LAB-LX2-Mali-G52_MC2-1795124030.json"
   },
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795101991,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3834-Mali-G57-1795101991.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G76_MC4",
-    "timestamp": 1795101784,
-    "filename": "Euro_Truck_Simulator_2-Xiaomi-Redmi_Note_8_Pro-Mali-G76_MC4-1795101784.json"
   }
 ]
