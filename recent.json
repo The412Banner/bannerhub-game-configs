@@ -1,5 +1,12 @@
 [
   {
+    "game": "Covert_War__Afghanistan",
+    "manufacturer": "LX2",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795074340,
+    "filename": "Covert_War__Afghanistan-HONOR-CLK-LX2-Adreno__TM__610-1795074340.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V",
     "manufacturer": "motorola_edge_30_neo",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1795021969,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6817-Mali-G52_MC2-1795021969.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1795020101,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A356E-Mali-G68-1795020101.json"
   }
 ]
