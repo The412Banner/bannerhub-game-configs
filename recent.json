@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rise_of_the_Tomb_Raider_",
+    "manufacturer": "CPH2381",
+    "device": "Adreno__TM__619",
+    "timestamp": 1795117940,
+    "filename": "Rise_of_the_Tomb_Raider_-OnePlus-CPH2381-Adreno__TM__619-1795117940.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795088291,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6837-Mali-G57_MC2-1795088291.json"
-  },
-  {
-    "game": "GTA_V_Launcher",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795085983,
-    "filename": "GTA_V_Launcher-TECNO-TECNO_KM4n-Mali-G52_MC2-1795085983.json"
   }
 ]
