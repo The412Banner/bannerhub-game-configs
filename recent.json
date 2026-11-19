@@ -1,5 +1,12 @@
 [
   {
+    "game": "Thunder_Spikes",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795126768,
+    "filename": "Thunder_Spikes-Anbernic-RG556-Mali-G57-1795126768.json"
+  },
+  {
     "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1795103693,
     "filename": "DARKSOULS-INFINIX-Infinix_X6873-Mali-G615_MC6-1795103693.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795102816,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3834-Mali-G57-1795102816.json"
   }
 ]
