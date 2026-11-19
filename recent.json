@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795105688,
+    "filename": "Far_Cry_3-samsung-SM-A175F-Mali-G57_MC2-1795105688.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1795074905,
     "filename": "GTA_V_Launcher-OPPO-OPPO_A3-Adreno__TM__610-1795074905.json"
-  },
-  {
-    "game": "Covert_War__Afghanistan",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1795074340,
-    "filename": "Covert_War__Afghanistan-HONOR-CLK-LX2-Adreno__TM__610-1795074340.json"
   }
 ]
