@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795191244,
+    "filename": "Euro_Truck_Simulator_2-realme-RMX3834-Mali-G57-1795191244.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__644",
     "timestamp": 1795173439,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-M556B-Adreno__TM__644-1795173439.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795169625,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3627-Mali-G57-1795169625.json"
   }
 ]
