@@ -1,5 +1,12 @@
 [
   {
+    "game": "GRAND_THEFT_AUTO_V",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1795165340,
+    "filename": "GRAND_THEFT_AUTO_V-TECNO-TECNO_KM4n-Mali-G52_MC2-1795165340.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S911U1",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795118096,
     "filename": "Grand_Theft_Auto_V-TECNO-TECNO_LI9-Mali-G57_MC2-1795118096.json"
-  },
-  {
-    "game": "Rise_of_the_Tomb_Raider_",
-    "manufacturer": "CPH2381",
-    "device": "Adreno__TM__619",
-    "timestamp": 1795117940,
-    "filename": "Rise_of_the_Tomb_Raider_-OnePlus-CPH2381-Adreno__TM__619-1795117940.json"
   }
 ]
