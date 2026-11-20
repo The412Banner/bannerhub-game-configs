@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795202888,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X678B-Mali-G57_MC2-1795202888.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G720_MC7",
     "timestamp": 1795201469,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1795201469.json"
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795177836,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6880-Mali-G57_MC2-1795177836.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S911U1",
-    "device": "Adreno__TM__740",
-    "timestamp": 1795177718,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S911U1-Adreno__TM__740-1795177718.json"
   }
 ]
