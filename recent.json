@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP17",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795173795,
+    "filename": "MotoGP17-realme-RMX3785-Mali-G57_MC2-1795173795.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "M556B",
     "device": "Adreno__TM__644",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1795124036,
     "filename": "PlayGTAV-HONOR-LAB-LX2-Mali-G52_MC2-1795124036.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795124030,
-    "filename": "PlayGTAV-HONOR-LAB-LX2-Mali-G52_MC2-1795124030.json"
   }
 ]
