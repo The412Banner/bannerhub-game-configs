@@ -1,5 +1,12 @@
 [
   {
+    "game": "pes2016",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795203098,
+    "filename": "pes2016-TECNO-TECNO_KI5k-Mali-G57-1795203098.json"
+  },
+  {
     "game": "petka",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1795185366,
     "filename": "ch5_pro-samsung-SM-G781B-Adreno__TM__650-1795185366.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795182786,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25078PC3EG-Mali-G52_MC2-1795182786.json"
   }
 ]
