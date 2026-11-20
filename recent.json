@@ -1,5 +1,12 @@
 [
   {
+    "game": "ch5_pro",
+    "manufacturer": "G781B",
+    "device": "Adreno__TM__650",
+    "timestamp": 1795185366,
+    "filename": "ch5_pro-samsung-SM-G781B-Adreno__TM__650-1795185366.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1795144330,
     "filename": "Space_Gladiators-AYN-AYN_Thor-Adreno__TM__740-1795144330.json"
-  },
-  {
-    "game": "_____2019",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1795143638,
-    "filename": "_____2019-samsung-SM-S938B-Adreno__TM__830-1795143638.json"
   }
 ]
