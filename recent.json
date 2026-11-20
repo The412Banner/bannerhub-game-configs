@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795177836,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6880-Mali-G57_MC2-1795177836.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "S911U1",
     "device": "Adreno__TM__740",
     "timestamp": 1795177718,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795132525,
     "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_CL6-Mali-G57_MC2-1795132525.json"
-  },
-  {
-    "game": "Medal_of_Honor_Retro_Remake_________________________________",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795127793,
-    "filename": "Medal_of_Honor_Retro_Remake_________________________________-Anbernic-RG556-Mali-G57-1795127793.json"
   }
 ]
