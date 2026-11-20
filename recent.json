@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795186394,
+    "filename": "Resident_Evil_5-Xiaomi-2201117PG-Mali-G57_MC2-1795186394.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1795147826,
     "filename": "Mirae_Labs_Launcher-HONOR-NLA-LX2P-Mali-G52_MC2-1795147826.json"
-  },
-  {
-    "game": "Grand_Theft_Auto__Vice_City",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795146070,
-    "filename": "Grand_Theft_Auto__Vice_City-realme-RMX5303-Mali-G57-1795146070.json"
   }
 ]
