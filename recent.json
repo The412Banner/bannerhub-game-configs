@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795174819,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6880-Mali-G57_MC2-1795174819.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G57",
     "timestamp": 1795174264,
     "filename": "Grand_Theft_Auto_V_Legacy-OSCAL-Pad_16-Mali-G57-1795174264.json"
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795125182,
     "filename": "Euro_Truck_Simulator_2-realme-RMX3834-Mali-G57-1795125182.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795125163,
-    "filename": "Euro_Truck_Simulator_2-realme-RMX3834-Mali-G57-1795125163.json"
   }
 ]
