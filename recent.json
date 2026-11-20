@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1795193250,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1795193250.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795174264,
     "filename": "Grand_Theft_Auto_V_Legacy-OSCAL-Pad_16-Mali-G57-1795174264.json"
-  },
-  {
-    "game": "MotoGP17",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795173795,
-    "filename": "MotoGP17-realme-RMX3785-Mali-G57_MC2-1795173795.json"
   }
 ]
