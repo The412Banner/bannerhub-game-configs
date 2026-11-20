@@ -1,5 +1,12 @@
 [
   {
+    "game": "Die_in_the_Dungeon",
+    "manufacturer": "AYN_Thor",
+    "device": "Adreno__TM__740",
+    "timestamp": 1795145680,
+    "filename": "Die_in_the_Dungeon-AYN-AYN_Thor-Adreno__TM__740-1795145680.json"
+  },
+  {
     "game": "Space_Gladiators",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1795108690,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g86_5G-Mali-G615_MC2-1795108690.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A566B",
-    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_",
-    "timestamp": 1795108234,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A566B-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_-1795108234.json"
   }
 ]
