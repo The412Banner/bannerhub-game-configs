@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto__Vice_City",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795146070,
+    "filename": "Grand_Theft_Auto__Vice_City-realme-RMX5303-Mali-G57-1795146070.json"
+  },
+  {
     "game": "Die_in_the_Dungeon",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1795108779,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g86_5G-Mali-G615_MC2-1795108779.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1795108690,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g86_5G-Mali-G615_MC2-1795108690.json"
   }
 ]
