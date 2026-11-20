@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft__NET_Framework_4",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795209964,
+    "filename": "Microsoft__NET_Framework_4-INFINIX-Infinix_X6528-Mali-G57-1795209964.json"
+  },
+  {
     "game": "Cyberpunk_2077",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795186394,
     "filename": "Resident_Evil_5-Xiaomi-2201117PG-Mali-G57_MC2-1795186394.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795186075,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25078PC3EG-Mali-G52_MC2-1795186075.json"
   }
 ]
