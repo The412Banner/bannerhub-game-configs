@@ -1,5 +1,12 @@
 [
   {
+    "game": "Cyberpunk_2077",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1795207907,
+    "filename": "Cyberpunk_2077-samsung-SM-A065F-Mali-G52_MC2-1795207907.json"
+  },
+  {
     "game": "over_the_hill",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1795186075,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25078PC3EG-Mali-G52_MC2-1795186075.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795186068,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25078PC3EG-Mali-G52_MC2-1795186068.json"
   }
 ]
