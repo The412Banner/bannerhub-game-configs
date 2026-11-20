@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_",
+    "timestamp": 1795176923,
+    "filename": "BootstrapPackagedGame-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_-1795176923.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795126768,
     "filename": "Thunder_Spikes-Anbernic-RG556-Mali-G57-1795126768.json"
-  },
-  {
-    "game": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795126594,
-    "filename": "THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH-Anbernic-RG556-Mali-G57-1795126594.json"
   }
 ]
