@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795187429,
+    "filename": "Grand_Theft_Auto_V_-realme-RMX3938-Mali-G57-1795187429.json"
+  },
+  {
     "game": "grand_theft_auto_v",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1795167743,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ANY-LX2-Adreno__TM__610-1795167743.json"
-  },
-  {
-    "game": "GRAND_THEFT_AUTO_V",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795165340,
-    "filename": "GRAND_THEFT_AUTO_V-TECNO-TECNO_KM4n-Mali-G52_MC2-1795165340.json"
   }
 ]
