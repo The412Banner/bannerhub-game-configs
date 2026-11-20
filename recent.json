@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "LX2",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795167743,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ANY-LX2-Adreno__TM__610-1795167743.json"
+  },
+  {
     "game": "GRAND_THEFT_AUTO_V",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795118139,
     "filename": "Euro_Truck_Simulator_2-TECNO-TECNO_LI9-Mali-G57_MC2-1795118139.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795118096,
-    "filename": "Grand_Theft_Auto_V-TECNO-TECNO_LI9-Mali-G57_MC2-1795118096.json"
   }
 ]
