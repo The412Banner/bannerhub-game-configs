@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "S911U1",
+    "device": "Adreno__TM__740",
+    "timestamp": 1795177718,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S911U1-Adreno__TM__740-1795177718.json"
+  },
+  {
     "game": "BootstrapPackagedGame",
     "manufacturer": "A566E",
     "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795127793,
     "filename": "Medal_of_Honor_Retro_Remake_________________________________-Anbernic-RG556-Mali-G57-1795127793.json"
-  },
-  {
-    "game": "Thunder_Spikes",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795126768,
-    "filename": "Thunder_Spikes-Anbernic-RG556-Mali-G57-1795126768.json"
   }
 ]
