@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1795186951,
+    "filename": "Grand_Theft_Auto_V-Xiaomi-2412DPC0AG-Mali-G720_MC7-1795186951.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1795157105,
     "filename": "Microsoft_R__DirectX_for_Windows_R_-Xiaomi-2107113SG-Adreno__TM__660-1795157105.json"
-  },
-  {
-    "game": "Mirae_Labs_Launcher",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795147826,
-    "filename": "Mirae_Labs_Launcher-HONOR-NLA-LX2P-Mali-G52_MC2-1795147826.json"
   }
 ]
