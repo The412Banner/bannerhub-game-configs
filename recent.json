@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__710",
+    "timestamp": 1795247179,
+    "filename": "PlayGTAV-HONOR-ALI-NX1-Adreno__TM__710-1795247179.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795210817,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6528-Mali-G57-1795210817.json"
-  },
-  {
-    "game": "BraveSoftware_Update",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795210749,
-    "filename": "BraveSoftware_Update-TECNO-TECNO_KM7-Mali-G57_MC2-1795210749.json"
   }
 ]
