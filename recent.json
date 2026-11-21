@@ -1,5 +1,12 @@
 [
   {
+    "game": "No__I_m_not_a_Human",
+    "manufacturer": "23129RAA4G",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795273373,
+    "filename": "No__I_m_not_a_Human-Xiaomi-23129RAA4G-Adreno__TM__610-1795273373.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "A576B",
     "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1795244623,
     "filename": "God_of_War_Ragnar_k-TECNO-TECNO_LJ7-Mali-G615_MC2-1795244623.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795244207,
-    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KJ7-Mali-G57_MC2-1795244207.json"
   }
 ]
