@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1795242968,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LJ7-Mali-G615_MC2-1795242968.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "2109119DG",
     "device": "Adreno__TM__642L",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795202916,
     "filename": "petka-Anbernic-RG_406H-Mali-G57-1795202916.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795202888,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X678B-Mali-G57_MC2-1795202888.json"
   }
 ]
