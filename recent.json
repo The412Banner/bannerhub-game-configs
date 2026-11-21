@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV__________________________________________",
+    "manufacturer": "Mali",
+    "device": "G51",
+    "timestamp": 1795280402,
+    "filename": "Grand_Theft_Auto_IV__________________________________________-HUAWEI-PPA-LX2-Mali-G51-1795280402.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1795255615,
     "filename": "Grand_Theft_Auto_IV__________________________________________-HUAWEI-PPA-LX2-Mali-G51-1795255615.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G615_MC2",
-    "timestamp": 1795252012,
-    "filename": "PlayGTAV-TECNO-TECNO_CM7-Mali-G615_MC2-1795252012.json"
   }
 ]
