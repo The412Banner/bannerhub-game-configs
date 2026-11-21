@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC8",
+    "timestamp": 1795284006,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1795284006.json"
+  },
+  {
     "game": "GTA_V_Launcher",
     "manufacturer": "Mali",
     "device": "G51",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__616",
     "timestamp": 1795263016,
     "filename": "gp-vivo-vivo_1918-Adreno__TM__616-1795263016.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "CPH2239",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1795259943,
-    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2239-PowerVR_Rogue_GE8320-1795259943.json"
   }
 ]
