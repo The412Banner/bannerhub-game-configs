@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1795266446,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LAB-LX2-Mali-G52_MC2-1795266446.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G57_MC2",
     "timestamp": 1795266435,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-CRT-NX3-Mali-G57_MC2-1795266435.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__642L",
     "timestamp": 1795241365,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-Xiaomi-2109119DG-Adreno__TM__642L-1795241365.json"
-  },
-  {
-    "game": "rpcs3",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795238866,
-    "filename": "rpcs3-TECNO-TECNO_KN4-Mali-G52_MC2-1795238866.json"
   }
 ]
