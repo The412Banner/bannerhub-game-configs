@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_Ragnar_k",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1795244623,
+    "filename": "God_of_War_Ragnar_k-TECNO-TECNO_LJ7-Mali-G615_MC2-1795244623.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795209964,
     "filename": "Microsoft__NET_Framework_4-INFINIX-Infinix_X6528-Mali-G57-1795209964.json"
-  },
-  {
-    "game": "Cyberpunk_2077",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795207907,
-    "filename": "Cyberpunk_2077-samsung-SM-A065F-Mali-G52_MC2-1795207907.json"
   }
 ]
