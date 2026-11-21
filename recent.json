@@ -1,5 +1,12 @@
 [
   {
+    "game": "Tomb_Raider",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1795276435,
+    "filename": "Tomb_Raider-INFINIX-Infinix_X6873-Mali-G615_MC6-1795276435.json"
+  },
+  {
     "game": "DAVE_THE_DIVER",
     "manufacturer": "2509ARPBDG",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1795250002,
     "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2230-Mali-G610_MC6-1795250002.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795247206,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6725B-Mali-G57-1795247206.json"
   }
 ]
