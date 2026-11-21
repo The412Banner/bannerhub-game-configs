@@ -1,5 +1,12 @@
 [
   {
+    "game": "PlayGTAV",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1795252012,
+    "filename": "PlayGTAV-TECNO-TECNO_CM7-Mali-G615_MC2-1795252012.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1795230262,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-CMA-LX2-Adreno__TM__610-1795230262.json"
-  },
-  {
-    "game": "Find_The_Needle",
-    "manufacturer": "23013PC75G",
-    "device": "Adreno__TM__730",
-    "timestamp": 1795224583,
-    "filename": "Find_The_Needle-Xiaomi-23013PC75G-Adreno__TM__730-1795224583.json"
   }
 ]
