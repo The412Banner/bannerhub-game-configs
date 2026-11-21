@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795244207,
+    "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KJ7-Mali-G57_MC2-1795244207.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G615_MC2",
     "timestamp": 1795244178,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_LJ7-Mali-G615_MC2-1795244178.json"
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1795207907,
     "filename": "Cyberpunk_2077-samsung-SM-A065F-Mali-G52_MC2-1795207907.json"
-  },
-  {
-    "game": "over_the_hill",
-    "manufacturer": "AYN_Thor",
-    "device": "Adreno__TM__740",
-    "timestamp": 1795206755,
-    "filename": "over_the_hill-AYN-AYN_Thor-Adreno__TM__740-1795206755.json"
   }
 ]
