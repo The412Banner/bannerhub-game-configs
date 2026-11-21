@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Launcher",
+    "manufacturer": "Mali",
+    "device": "G51",
+    "timestamp": 1795282760,
+    "filename": "GTA_V_Launcher-HUAWEI-PPA-LX2-Mali-G51-1795282760.json"
+  },
+  {
     "game": "Grand_Theft_Auto_IV__________________________________________",
     "manufacturer": "Mali",
     "device": "G51",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1795257846,
     "filename": "Grand_Theft_Auto_IV__________________________________________-HUAWEI-PPA-LX2-Mali-G51-1795257846.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__________________________________________",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1795255615,
-    "filename": "Grand_Theft_Auto_IV__________________________________________-HUAWEI-PPA-LX2-Mali-G51-1795255615.json"
   }
 ]
