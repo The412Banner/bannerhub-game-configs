@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1795301433,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1795301433.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795276789,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6833B-Mali-G57_MC2-1795276789.json"
-  },
-  {
-    "game": "Tomb_Raider",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1795276435,
-    "filename": "Tomb_Raider-INFINIX-Infinix_X6873-Mali-G615_MC6-1795276435.json"
   }
 ]
