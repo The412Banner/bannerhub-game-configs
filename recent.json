@@ -1,5 +1,12 @@
 [
   {
+    "game": "R_E_P_O_",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1795287181,
+    "filename": "R_E_P_O_-INFINIX-Infinix_X1102-Mali-G52_MC2-1795287181.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G720_MC8",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1795265574,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NDL-W09-Adreno__TM__610-1795265574.json"
-  },
-  {
-    "game": "gp",
-    "manufacturer": "vivo_1918",
-    "device": "Adreno__TM__616",
-    "timestamp": 1795263016,
-    "filename": "gp-vivo-vivo_1918-Adreno__TM__616-1795263016.json"
   }
 ]
