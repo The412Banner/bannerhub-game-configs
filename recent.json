@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795247206,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6725B-Mali-G57-1795247206.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1795216858,
     "filename": "No_Man_s_Sky-Xiaomi-23113RKC6G-Adreno__TM__740-1795216858.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795210817,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6528-Mali-G57-1795210817.json"
   }
 ]
