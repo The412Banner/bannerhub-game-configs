@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_304_",
+    "timestamp": 1795297862,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_304_-1795297862.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1795296048,
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
     "timestamp": 1795272978,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A576B-ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_-1795272978.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795272707,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X678B-Mali-G57_MC2-1795272707.json"
   }
 ]
