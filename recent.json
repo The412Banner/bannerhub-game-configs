@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "LX2",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795230262,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-CMA-LX2-Adreno__TM__610-1795230262.json"
+  },
+  {
     "game": "Find_The_Needle",
     "manufacturer": "23013PC75G",
     "device": "Adreno__TM__730",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__710",
     "timestamp": 1795187811,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-motorola_edge_50_fusion-Adreno__TM__710-1795187811.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795187429,
-    "filename": "Grand_Theft_Auto_V_-realme-RMX3938-Mali-G57-1795187429.json"
   }
 ]
