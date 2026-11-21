@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795276789,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6833B-Mali-G57_MC2-1795276789.json"
+  },
+  {
     "game": "Tomb_Raider",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G615_MC2",
     "timestamp": 1795252012,
     "filename": "PlayGTAV-TECNO-TECNO_CM7-Mali-G615_MC2-1795252012.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__The_Complete_Edition",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1795250002,
-    "filename": "Grand_Theft_Auto_IV__The_Complete_Edition-vivo-V2230-Mali-G610_MC6-1795250002.json"
   }
 ]
