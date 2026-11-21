@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "W09",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795265574,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-NDL-W09-Adreno__TM__610-1795265574.json"
+  },
+  {
     "game": "gp",
     "manufacturer": "vivo_1918",
     "device": "Adreno__TM__616",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__810",
     "timestamp": 1795238553,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-MTN-NX1-Adreno__TM__810-1795238553.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "S928B",
-    "device": "Adreno__TM__750",
-    "timestamp": 1795238542,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-S928B-Adreno__TM__750-1795238542.json"
   }
 ]
