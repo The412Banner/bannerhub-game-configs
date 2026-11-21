@@ -1,5 +1,12 @@
 [
   {
+    "game": "Find_The_Needle",
+    "manufacturer": "23013PC75G",
+    "device": "Adreno__TM__730",
+    "timestamp": 1795224583,
+    "filename": "Find_The_Needle-Xiaomi-23013PC75G-Adreno__TM__730-1795224583.json"
+  },
+  {
     "game": "No_Man_s_Sky",
     "manufacturer": "23113RKC6G",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795187429,
     "filename": "Grand_Theft_Auto_V_-realme-RMX3938-Mali-G57-1795187429.json"
-  },
-  {
-    "game": "grand_theft_auto_v",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795187272,
-    "filename": "grand_theft_auto_v-TECNO-TECNO_KM4n-Mali-G52_MC2-1795187272.json"
   }
 ]
