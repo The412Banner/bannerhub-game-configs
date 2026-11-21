@@ -1,5 +1,12 @@
 [
   {
+    "game": "DAVE_THE_DIVER",
+    "manufacturer": "2509ARPBDG",
+    "device": "Adreno__TM__810",
+    "timestamp": 1795276301,
+    "filename": "DAVE_THE_DIVER-Xiaomi-2509ARPBDG-Adreno__TM__810-1795276301.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795247206,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6725B-Mali-G57-1795247206.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1795247179,
-    "filename": "PlayGTAV-HONOR-ALI-NX1-Adreno__TM__710-1795247179.json"
   }
 ]
