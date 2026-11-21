@@ -3,6 +3,13 @@
     "game": "GTA_V_Launcher",
     "manufacturer": "Mali",
     "device": "G51",
+    "timestamp": 1795283076,
+    "filename": "GTA_V_Launcher-HUAWEI-PPA-LX2-Mali-G51-1795283076.json"
+  },
+  {
+    "game": "GTA_V_Launcher",
+    "manufacturer": "Mali",
+    "device": "G51",
     "timestamp": 1795282999,
     "filename": "GTA_V_Launcher-HUAWEI-PPA-LX2-Mali-G51-1795282999.json"
   },
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1795259943,
     "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2239-PowerVR_Rogue_GE8320-1795259943.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__720",
-    "timestamp": 1795259433,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-DNY-NX9-Adreno__TM__720-1795259433.json"
   }
 ]
