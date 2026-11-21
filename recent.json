@@ -1,5 +1,12 @@
 [
   {
+    "game": "rpcs3",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1795238866,
+    "filename": "rpcs3-TECNO-TECNO_KN4-Mali-G52_MC2-1795238866.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__810",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795199135,
     "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3938-Mali-G57-1795199135.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795198624,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3938-Mali-G57-1795198624.json"
   }
 ]
