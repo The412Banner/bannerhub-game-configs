@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795375556,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g47-Mali-G57_MC2-1795375556.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795358354,
     "filename": "DARK_SOULS__II-ITEL-itel_P671L-Mali-G57-1795358354.json"
-  },
-  {
-    "game": "Forza_Horizon_6",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795357925,
-    "filename": "Forza_Horizon_6-Blackview-LINK_8-Mali-G57_MC2-1795357925.json"
   }
 ]
