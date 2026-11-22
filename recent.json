@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs__2",
+    "manufacturer": "CPH2745",
+    "device": "Adreno__TM__840",
+    "timestamp": 1795345513,
+    "filename": "Watch_Dogs__2-OnePlus-CPH2745-Adreno__TM__840-1795345513.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "23049PCD8G",
     "device": "Adreno__TM__725",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795301120,
     "filename": "Mafia_II__Classic_-INFINIX-Infinix_X6880-Mali-G57_MC2-1795301120.json"
-  },
-  {
-    "game": "Microsoft_R__DirectX_for_Windows_R_",
-    "manufacturer": "2107113SG",
-    "device": "Adreno__TM__660",
-    "timestamp": 1795300587,
-    "filename": "Microsoft_R__DirectX_for_Windows_R_-Xiaomi-2107113SG-Adreno__TM__660-1795300587.json"
   }
 ]
