@@ -1,5 +1,12 @@
 [
   {
+    "game": "Crysis_Remastered",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795360301,
+    "filename": "Crysis_Remastered-samsung-SM-A075F-Mali-G57_MC2-1795360301.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Enhanced",
     "manufacturer": "X505F",
     "device": "Adreno__TM__504",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1795322076,
     "filename": "unins000-INFINIX-Infinix_X6871-Mali-G610_MC6-1795322076.json"
-  },
-  {
-    "game": "unins000",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1795322067,
-    "filename": "unins000-INFINIX-Infinix_X6871-Mali-G610_MC6-1795322067.json"
   }
 ]
