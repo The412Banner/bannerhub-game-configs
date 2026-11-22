@@ -1,5 +1,12 @@
 [
   {
+    "game": "SniperV2Launcher",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795348055,
+    "filename": "SniperV2Launcher-TECNO-TECNO_LH8n-Mali-G57_MC2-1795348055.json"
+  },
+  {
     "game": "Watch_Dogs__2",
     "manufacturer": "CPH2745",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1795301433,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1795301433.json"
-  },
-  {
-    "game": "Mafia_II__Classic_",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795301120,
-    "filename": "Mafia_II__Classic_-INFINIX-Infinix_X6880-Mali-G57_MC2-1795301120.json"
   }
 ]
