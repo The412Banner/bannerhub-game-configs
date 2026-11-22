@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795383462,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155F-Mali-G57_MC2-1795383462.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX729J",
     "device": "Adreno__TM__740",
     "timestamp": 1795382172,
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795362828,
     "filename": "Crysis_Remastered-samsung-SM-A075F-Mali-G57_MC2-1795362828.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1795362498,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A536E-Mali-G68-1795362498.json"
   }
 ]
