@@ -1,5 +1,12 @@
 [
   {
+    "game": "Crysis_Remastered",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795362828,
+    "filename": "Crysis_Remastered-samsung-SM-A075F-Mali-G57_MC2-1795362828.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__750",
     "timestamp": 1795328990,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S928B-Adreno__TM__750-1795328990.json"
-  },
-  {
-    "game": "MONSTER_HUNTER_RISE",
-    "manufacturer": "Odin3",
-    "device": "Adreno__TM__830",
-    "timestamp": 1795322307,
-    "filename": "MONSTER_HUNTER_RISE-ayn-Odin3-Adreno__TM__830-1795322307.json"
   }
 ]
