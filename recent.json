@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "24069PC21G",
+    "device": "Adreno__TM__735",
+    "timestamp": 1795349973,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-24069PC21G-Adreno__TM__735-1795349973.json"
+  },
+  {
     "game": "GTA5",
     "manufacturer": "23117RK66C",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1795309514,
     "filename": "Microsoft__Windows__Operating_System-HONOR-LLY-LX2-Adreno__TM__610-1795309514.json"
-  },
-  {
-    "game": "Red_Dead_Redemption",
-    "manufacturer": "CPH2819",
-    "device": "Adreno__TM__610",
-    "timestamp": 1795308616,
-    "filename": "Red_Dead_Redemption-OPPO-CPH2819-Adreno__TM__610-1795308616.json"
   }
 ]
