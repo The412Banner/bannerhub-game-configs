@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "23049PCD8G",
+    "device": "Adreno__TM__725",
+    "timestamp": 1795345482,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-Xiaomi-23049PCD8G-Adreno__TM__725-1795345482.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1795300587,
     "filename": "Microsoft_R__DirectX_for_Windows_R_-Xiaomi-2107113SG-Adreno__TM__660-1795300587.json"
-  },
-  {
-    "game": "Microsoft_R__DirectX_for_Windows_R_",
-    "manufacturer": "2107113SG",
-    "device": "Adreno__TM__660",
-    "timestamp": 1795300580,
-    "filename": "Microsoft_R__DirectX_for_Windows_R_-Xiaomi-2107113SG-Adreno__TM__660-1795300580.json"
   }
 ]
