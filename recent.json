@@ -1,5 +1,12 @@
 [
   {
+    "game": "DARK_SOULS__II",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795358354,
+    "filename": "DARK_SOULS__II-ITEL-itel_P671L-Mali-G57-1795358354.json"
+  },
+  {
     "game": "Forza_Horizon_6",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__732",
     "timestamp": 1795321235,
     "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-2410CRP4CG-Adreno__TM__732-1795321235.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795320360,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-LAB-LX2-Mali-G52_MC2-1795320360.json"
   }
 ]
