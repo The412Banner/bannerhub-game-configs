@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH2819",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795315774,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2819-Adreno__TM__610-1795315774.json"
+  },
+  {
     "game": "Forza_Horizon_5",
     "manufacturer": "A556E",
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1795284006,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1795284006.json"
-  },
-  {
-    "game": "GTA_V_Launcher",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1795283076,
-    "filename": "GTA_V_Launcher-HUAWEI-PPA-LX2-Mali-G51-1795283076.json"
   }
 ]
