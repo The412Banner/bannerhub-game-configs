@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption",
+    "manufacturer": "CPH2819",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795308616,
+    "filename": "Red_Dead_Redemption-OPPO-CPH2819-Adreno__TM__610-1795308616.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1795280402,
     "filename": "Grand_Theft_Auto_IV__________________________________________-HUAWEI-PPA-LX2-Mali-G51-1795280402.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795276789,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6833B-Mali-G57_MC2-1795276789.json"
   }
 ]
