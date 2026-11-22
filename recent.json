@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1795377048,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1795377048.json"
+  },
+  {
     "game": "BlackOps",
     "manufacturer": "NX9",
     "device": "Adreno__TM__722",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795360301,
     "filename": "Crysis_Remastered-samsung-SM-A075F-Mali-G57_MC2-1795360301.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Enhanced",
-    "manufacturer": "X505F",
-    "device": "Adreno__TM__504",
-    "timestamp": 1795359309,
-    "filename": "Grand_Theft_Auto_V_Enhanced-LENOVO-Lenovo_TB-X505F-Adreno__TM__504-1795359309.json"
   }
 ]
