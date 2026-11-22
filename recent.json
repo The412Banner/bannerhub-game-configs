@@ -1,5 +1,12 @@
 [
   {
+    "game": "MONSTER_HUNTER_RISE",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1795322307,
+    "filename": "MONSTER_HUNTER_RISE-ayn-Odin3-Adreno__TM__830-1795322307.json"
+  },
+  {
     "game": "unins000",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795294794,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_e32-Mali-G57-1795294794.json"
-  },
-  {
-    "game": "ELDEN_RING_Adventure_Guide",
-    "manufacturer": "G925",
-    "device": "Immortalis_MC12",
-    "timestamp": 1795294412,
-    "filename": "ELDEN_RING_Adventure_Guide-Xiaomi-2506BPN68G-Mali-G925-Immortalis_MC12-1795294412.json"
   }
 ]
