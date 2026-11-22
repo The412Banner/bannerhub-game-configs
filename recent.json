@@ -1,5 +1,12 @@
 [
   {
+    "game": "eFootball_PES_2021_SEASON_UPDATE",
+    "manufacturer": "2410CRP4CG",
+    "device": "Adreno__TM__732",
+    "timestamp": 1795320086,
+    "filename": "eFootball_PES_2021_SEASON_UPDATE-Xiaomi-2410CRP4CG-Adreno__TM__732-1795320086.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "CPH2819",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1795287181,
     "filename": "R_E_P_O_-INFINIX-Infinix_X1102-Mali-G52_MC2-1795287181.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G720_MC8",
-    "timestamp": 1795284006,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2511FPC34G-Mali-G720_MC8-1795284006.json"
   }
 ]
