@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry_3",
+    "manufacturer": "G925",
+    "device": "Immortalis_MC11",
+    "timestamp": 1795390806,
+    "filename": "Far_Cry_3-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1795390806.json"
+  },
+  {
     "game": "ch5_pro",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1795369730,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1795369730.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Enhanced",
-    "manufacturer": "X505F",
-    "device": "Adreno__TM__504",
-    "timestamp": 1795367066,
-    "filename": "Grand_Theft_Auto_V_Enhanced-LENOVO-Lenovo_TB-X505F-Adreno__TM__504-1795367066.json"
   }
 ]
