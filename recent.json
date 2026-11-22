@@ -1,5 +1,12 @@
 [
   {
+    "game": "Teenage_Mutant_Ninja_Turtles__Shredder_s_Revenge",
+    "manufacturer": "G780G",
+    "device": "Adreno__TM__650",
+    "timestamp": 1795310113,
+    "filename": "Teenage_Mutant_Ninja_Turtles__Shredder_s_Revenge-samsung-SM-G780G-Adreno__TM__650-1795310113.json"
+  },
+  {
     "game": "Microsoft__Windows__Operating_System",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1795282999,
     "filename": "GTA_V_Launcher-HUAWEI-PPA-LX2-Mali-G51-1795282999.json"
-  },
-  {
-    "game": "GTA_V_Launcher",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1795282760,
-    "filename": "GTA_V_Launcher-HUAWEI-PPA-LX2-Mali-G51-1795282760.json"
   }
 ]
