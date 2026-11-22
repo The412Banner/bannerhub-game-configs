@@ -1,5 +1,12 @@
 [
   {
+    "game": "Forza_Horizon_4",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1795350496,
+    "filename": "Forza_Horizon_4-TECNO-TECNO_LJ7-Mali-G615_MC2-1795350496.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "24069PC21G",
     "device": "Adreno__TM__735",
@@ -131,12 +138,5 @@
     "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
     "timestamp": 1795311541,
     "filename": "Forza_Horizon_5-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1795311541.json"
-  },
-  {
-    "game": "Teenage_Mutant_Ninja_Turtles__Shredder_s_Revenge",
-    "manufacturer": "G780G",
-    "device": "Adreno__TM__650",
-    "timestamp": 1795310113,
-    "filename": "Teenage_Mutant_Ninja_Turtles__Shredder_s_Revenge-samsung-SM-G780G-Adreno__TM__650-1795310113.json"
   }
 ]
