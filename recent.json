@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1795344901,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1795344901.json"
+  },
+  {
     "game": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__660",
     "timestamp": 1795300580,
     "filename": "Microsoft_R__DirectX_for_Windows_R_-Xiaomi-2107113SG-Adreno__TM__660-1795300580.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795299813,
-    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g06-Mali-G52_MC2-1795299813.json"
   }
 ]
