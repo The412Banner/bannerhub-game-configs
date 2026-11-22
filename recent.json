@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795375175,
+    "filename": "Red_Dead_Redemption_2-Xiaomi-21091116AI-Mali-G57_MC2-1795375175.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795357925,
     "filename": "Forza_Horizon_6-Blackview-LINK_8-Mali-G57_MC2-1795357925.json"
-  },
-  {
-    "game": "Medal_of_Honor__Multiplayer",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795353888,
-    "filename": "Medal_of_Honor__Multiplayer-TECNO-TECNO_LH8n-Mali-G57_MC2-1795353888.json"
   }
 ]
