@@ -1,5 +1,12 @@
 [
   {
+    "game": "Danganronpa_2__Goodbye_Despair",
+    "manufacturer": "Odin2_Mini",
+    "device": "Adreno__TM__740",
+    "timestamp": 1795331866,
+    "filename": "Danganronpa_2__Goodbye_Despair-AYN-Odin2_Mini-Adreno__TM__740-1795331866.json"
+  },
+  {
     "game": "PlayGTAV",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1795298351,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g06-Mali-G52_MC2-1795298351.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "A556E",
-    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_304_",
-    "timestamp": 1795297862,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_304_-1795297862.json"
   }
 ]
