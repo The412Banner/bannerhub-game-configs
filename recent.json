@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Enhanced",
+    "manufacturer": "X505F",
+    "device": "Adreno__TM__504",
+    "timestamp": 1795367066,
+    "filename": "Grand_Theft_Auto_V_Enhanced-LENOVO-Lenovo_TB-X505F-Adreno__TM__504-1795367066.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1795334332,
     "filename": "NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS-INFINIX-Infinix_X6871-Mali-G610_MC6-1795334332.json"
-  },
-  {
-    "game": "Danganronpa_2__Goodbye_Despair",
-    "manufacturer": "Odin2_Mini",
-    "device": "Adreno__TM__740",
-    "timestamp": 1795331866,
-    "filename": "Danganronpa_2__Goodbye_Despair-AYN-Odin2_Mini-Adreno__TM__740-1795331866.json"
   }
 ]
