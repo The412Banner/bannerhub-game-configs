@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1795362498,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A536E-Mali-G68-1795362498.json"
+  },
+  {
     "game": "Crysis_Remastered",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1795322307,
     "filename": "MONSTER_HUNTER_RISE-ayn-Odin3-Adreno__TM__830-1795322307.json"
-  },
-  {
-    "game": "unins000",
-    "manufacturer": "Mali",
-    "device": "G610_MC6",
-    "timestamp": 1795322076,
-    "filename": "unins000-INFINIX-Infinix_X6871-Mali-G610_MC6-1795322076.json"
   }
 ]
