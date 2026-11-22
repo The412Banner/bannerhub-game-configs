@@ -1,5 +1,12 @@
 [
   {
+    "game": "Forza_Horizon_5",
+    "manufacturer": "A556E",
+    "device": "ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_",
+    "timestamp": 1795311541,
+    "filename": "Forza_Horizon_5-samsung-SM-A556E-ANGLE___Samsung_Xclipse_530__on_Vulkan_1_3_279_-1795311541.json"
+  },
+  {
     "game": "Teenage_Mutant_Ninja_Turtles__Shredder_s_Revenge",
     "manufacturer": "G780G",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1795283076,
     "filename": "GTA_V_Launcher-HUAWEI-PPA-LX2-Mali-G51-1795283076.json"
-  },
-  {
-    "game": "GTA_V_Launcher",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1795282999,
-    "filename": "GTA_V_Launcher-HUAWEI-PPA-LX2-Mali-G51-1795282999.json"
   }
 ]
