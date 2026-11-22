@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft__Windows__Operating_System",
+    "manufacturer": "LX2",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795309514,
+    "filename": "Microsoft__Windows__Operating_System-HONOR-LLY-LX2-Adreno__TM__610-1795309514.json"
+  },
+  {
     "game": "Red_Dead_Redemption",
     "manufacturer": "CPH2819",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1795282760,
     "filename": "GTA_V_Launcher-HUAWEI-PPA-LX2-Mali-G51-1795282760.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV__________________________________________",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1795280402,
-    "filename": "Grand_Theft_Auto_IV__________________________________________-HUAWEI-PPA-LX2-Mali-G51-1795280402.json"
   }
 ]
