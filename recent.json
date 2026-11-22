@@ -1,5 +1,12 @@
 [
   {
+    "game": "BlackOps",
+    "manufacturer": "NX9",
+    "device": "Adreno__TM__722",
+    "timestamp": 1795376938,
+    "filename": "BlackOps-HONOR-VKJ-NX9-Adreno__TM__722-1795376938.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__504",
     "timestamp": 1795359309,
     "filename": "Grand_Theft_Auto_V_Enhanced-LENOVO-Lenovo_TB-X505F-Adreno__TM__504-1795359309.json"
-  },
-  {
-    "game": "DARK_SOULS__II",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795358354,
-    "filename": "DARK_SOULS__II-ITEL-itel_P671L-Mali-G57-1795358354.json"
   }
 ]
