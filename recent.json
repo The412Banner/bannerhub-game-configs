@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Launcher",
+    "manufacturer": "OPPO_A3",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795439200,
+    "filename": "GTA_V_Launcher-OPPO-OPPO_A3-Adreno__TM__610-1795439200.json"
+  },
+  {
     "game": "Mirror_s_Edge",
     "manufacturer": "Mali",
     "device": "G615_MC5",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1795415842,
     "filename": "launcher-samsung-SM-S938B-Adreno__TM__830-1795415842.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795409632,
-    "filename": "Resident_Evil_5-ITEL-itel_S666LN-Mali-G57_MC2-1795409632.json"
   }
 ]
