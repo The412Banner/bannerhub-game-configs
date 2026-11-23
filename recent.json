@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1795406944,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1795406944.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "S731B",
     "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795383462,
     "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A155F-Mali-G57_MC2-1795383462.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX729J",
-    "device": "Adreno__TM__740",
-    "timestamp": 1795382172,
-    "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX729J-Adreno__TM__740-1795382172.json"
   }
 ]
