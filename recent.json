@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "2201117TG",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795459990,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2201117TG-Adreno__TM__610-1795459990.json"
+  },
+  {
     "game": "Schedule_I",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1795438158,
     "filename": "God_of_War_III_Remastered___________________________________-Xiaomi-2607APCA5G-Adreno__TM__840-1795438158.json"
-  },
-  {
-    "game": "God_of_War_III_Remastered___________________________________",
-    "manufacturer": "2607APCA5G",
-    "device": "Adreno__TM__840",
-    "timestamp": 1795438123,
-    "filename": "God_of_War_III_Remastered___________________________________-Xiaomi-2607APCA5G-Adreno__TM__840-1795438123.json"
   }
 ]
