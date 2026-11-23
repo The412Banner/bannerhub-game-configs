@@ -1,5 +1,12 @@
 [
   {
+    "game": "MOTO_GP",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1795406121,
+    "filename": "MOTO_GP-Xiaomi-25078RA3EY-Mali-G52_MC2-1795406121.json"
+  },
+  {
     "game": "ExecutiveAssault2",
     "manufacturer": "OPD2403",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1795377048,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1795377048.json"
-  },
-  {
-    "game": "BlackOps",
-    "manufacturer": "NX9",
-    "device": "Adreno__TM__722",
-    "timestamp": 1795376938,
-    "filename": "BlackOps-HONOR-VKJ-NX9-Adreno__TM__722-1795376938.json"
   }
 ]
