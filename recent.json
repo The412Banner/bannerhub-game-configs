@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "S731B",
+    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
+    "timestamp": 1795406157,
+    "filename": "Euro_Truck_Simulator_2-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_-1795406157.json"
+  },
+  {
     "game": "MOTO_GP",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1795382172,
     "filename": "Grand_Theft_Auto_V_Legacy-nubia-NX729J-Adreno__TM__740-1795382172.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1795377048,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6873-Mali-G615_MC6-1795377048.json"
   }
 ]
