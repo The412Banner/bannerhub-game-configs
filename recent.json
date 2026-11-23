@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_6",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1795463822,
+    "filename": "Resident_Evil_6-INFINIX-Infinix_X6873-Mali-G615_MC6-1795463822.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "W09",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1795439200,
     "filename": "GTA_V_Launcher-OPPO-OPPO_A3-Adreno__TM__610-1795439200.json"
-  },
-  {
-    "game": "Mirror_s_Edge",
-    "manufacturer": "Mali",
-    "device": "G615_MC5",
-    "timestamp": 1795438637,
-    "filename": "Mirror_s_Edge-LENOVO-TB375FC-Mali-G615_MC5-1795438637.json"
   }
 ]
