@@ -1,5 +1,12 @@
 [
   {
+    "game": "Far_Cry__5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795460096,
+    "filename": "Far_Cry__5-Xiaomi-2502FRA65G-Mali-G57_MC2-1795460096.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "2201117TG",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1795438439,
     "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALT-LX2-Adreno__TM__610-1795438439.json"
-  },
-  {
-    "game": "God_of_War_III_Remastered___________________________________",
-    "manufacturer": "2607APCA5G",
-    "device": "Adreno__TM__840",
-    "timestamp": 1795438158,
-    "filename": "God_of_War_III_Remastered___________________________________-Xiaomi-2607APCA5G-Adreno__TM__840-1795438158.json"
   }
 ]
