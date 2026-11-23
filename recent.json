@@ -1,5 +1,12 @@
 [
   {
+    "game": "GTA_V_Launcher",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1795452197,
+    "filename": "GTA_V_Launcher-samsung-SM-A505F-Mali-G72-1795452197.json"
+  },
+  {
     "game": "Bully",
     "manufacturer": "A715F",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1795434106,
     "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-25053PC47G-Adreno__TM__825-1795434106.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795433403,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6725-Mali-G57-1795433403.json"
   }
 ]
