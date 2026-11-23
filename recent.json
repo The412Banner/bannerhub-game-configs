@@ -1,5 +1,12 @@
 [
   {
+    "game": "____________",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795403204,
+    "filename": "____________-INFINIX-Infinix_X6525-Mali-G57-1795403204.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "moto_e_7__plus",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1795371708,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1795371708.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1795371207,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1795371207.json"
   }
 ]
