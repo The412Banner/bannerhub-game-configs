@@ -1,5 +1,12 @@
 [
   {
+    "game": "Bully",
+    "manufacturer": "A715F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1795451114,
+    "filename": "Bully-samsung-SM-A715F-Adreno__TM__618-1795451114.json"
+  },
+  {
     "game": "Microsoft_Visual_C___2015-2019_Redistributable__x86__-_14_25_28508",
     "manufacturer": "A715F",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795433403,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6725-Mali-G57-1795433403.json"
-  },
-  {
-    "game": "Resident_Evil_4",
-    "manufacturer": "25102PCBEG",
-    "device": "Adreno__TM__840",
-    "timestamp": 1795430954,
-    "filename": "Resident_Evil_4-Xiaomi-25102PCBEG-Adreno__TM__840-1795430954.json"
   }
 ]
