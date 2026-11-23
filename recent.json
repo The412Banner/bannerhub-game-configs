@@ -1,5 +1,12 @@
 [
   {
+    "game": "lend_rio_PES_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1795458508,
+    "filename": "lend_rio_PES_2013-motorola-moto_g23-Mali-G52_MC2-1795458508.json"
+  },
+  {
     "game": "Assassins_Creed_Brotherhood_________________________________",
     "manufacturer": "A576B",
     "device": "ANGLE___Samsung_Xclipse_550__on_Vulkan_1_4_304_",
@@ -131,12 +138,5 @@
     "device": "256",
     "timestamp": 1795437594,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1795437594.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1795437573,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1795437573.json"
   }
 ]
