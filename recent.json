@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_4",
+    "manufacturer": "25102PCBEG",
+    "device": "Adreno__TM__840",
+    "timestamp": 1795430954,
+    "filename": "Resident_Evil_4-Xiaomi-25102PCBEG-Adreno__TM__840-1795430954.json"
+  },
+  {
     "game": "MinecraftInstaller",
     "manufacturer": "LX2",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795396656,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g47-Mali-G57_MC2-1795396656.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795396651,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g47-Mali-G57_MC2-1795396651.json"
   }
 ]
