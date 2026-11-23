@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "LX2",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795438439,
+    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALT-LX2-Adreno__TM__610-1795438439.json"
+  },
+  {
     "game": "God_of_War_III_Remastered___________________________________",
     "manufacturer": "2607APCA5G",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1795409573,
     "filename": "Resident_Evil_6-Xiaomi-25053PC47G-Adreno__TM__825-1795409573.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "S938B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1795407263,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-S938B-Adreno__TM__830-1795407263.json"
   }
 ]
