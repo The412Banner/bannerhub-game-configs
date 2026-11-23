@@ -1,5 +1,12 @@
 [
   {
+    "game": "____2016",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795455619,
+    "filename": "____2016-INFINIX-Infinix_X6837-Mali-G57_MC2-1795455619.json"
+  },
+  {
     "game": "METAL_GEAR_SOLID_V__GROUND_ZEROES",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1795437466,
     "filename": "Biomutant-Xiaomi-2607APCA5G-Adreno__TM__840-1795437466.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1795436158,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-Adreno__TM__710-1795436158.json"
   }
 ]
