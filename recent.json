@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War_III_Remastered___________________________________",
+    "manufacturer": "2607APCA5G",
+    "device": "Adreno__TM__840",
+    "timestamp": 1795438123,
+    "filename": "God_of_War_III_Remastered___________________________________-Xiaomi-2607APCA5G-Adreno__TM__840-1795438123.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1795406944,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-25053PC47G-Adreno__TM__825-1795406944.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "S731B",
-    "device": "ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_",
-    "timestamp": 1795406157,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-S731B-ANGLE___Samsung_Xclipse_940__on_Vulkan_1_3_304_-1795406157.json"
   }
 ]
