@@ -1,5 +1,12 @@
 [
   {
+    "game": "ExecutiveAssault2",
+    "manufacturer": "OPD2403",
+    "device": "Adreno__TM__750",
+    "timestamp": 1795404376,
+    "filename": "ExecutiveAssault2-OnePlus-OPD2403-Adreno__TM__750-1795404376.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2015",
     "manufacturer": "moto_g52",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__722",
     "timestamp": 1795376938,
     "filename": "BlackOps-HONOR-VKJ-NX9-Adreno__TM__722-1795376938.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795375556,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g47-Mali-G57_MC2-1795375556.json"
   }
 ]
