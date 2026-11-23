@@ -3,6 +3,13 @@
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
+    "timestamp": 1795395407,
+    "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g14-Mali-G57-1795395407.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
     "timestamp": 1795394522,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6725-Mali-G57-1795394522.json"
   },
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1795370609,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g23-Mali-G52_MC2-1795370609.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1795370557,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1795370557.json"
   }
 ]
