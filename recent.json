@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795409632,
+    "filename": "Resident_Evil_5-ITEL-itel_S666LN-Mali-G57_MC2-1795409632.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1795387118,
     "filename": "ch5_pro-Xiaomi-23129RA5FL-Adreno__TM__610-1795387118.json"
-  },
-  {
-    "game": "MinecraftInstaller",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795386261,
-    "filename": "MinecraftInstaller-INFINIX-Infinix_X6725-Mali-G57-1795386261.json"
   }
 ]
