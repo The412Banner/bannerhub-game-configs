@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Visual_C___2015-2019_Redistributable__x86__-_14_25_28508",
+    "manufacturer": "A715F",
+    "device": "Adreno__TM__618",
+    "timestamp": 1795450777,
+    "filename": "Microsoft_Visual_C___2015-2019_Redistributable__x86__-_14_25_28508-samsung-SM-A715F-Adreno__TM__618-1795450777.json"
+  },
+  {
     "game": "BlackOps",
     "manufacturer": "Mali",
     "device": "G76_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1795430954,
     "filename": "Resident_Evil_4-Xiaomi-25102PCBEG-Adreno__TM__840-1795430954.json"
-  },
-  {
-    "game": "MinecraftInstaller",
-    "manufacturer": "LX2",
-    "device": "Adreno__TM__610",
-    "timestamp": 1795429142,
-    "filename": "MinecraftInstaller-HONOR-LGN-LX2-Adreno__TM__610-1795429142.json"
   }
 ]
