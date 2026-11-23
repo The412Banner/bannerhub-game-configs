@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_IV_EFLC",
+    "manufacturer": "NX789J",
+    "device": "Adreno__TM__830",
+    "timestamp": 1795426585,
+    "filename": "Grand_Theft_Auto_IV_EFLC-nubia-NX789J-Adreno__TM__830-1795426585.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795393317,
     "filename": "Grand_Theft_Auto_V_Legacy-motorola-moto_g14-Mali-G57-1795393317.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1795392546,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-M546B-Mali-G68-1795392546.json"
   }
 ]
