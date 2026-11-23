@@ -1,5 +1,12 @@
 [
   {
+    "game": "launcher",
+    "manufacturer": "S938B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1795415842,
+    "filename": "launcher-samsung-SM-S938B-Adreno__TM__830-1795415842.json"
+  },
+  {
     "game": "Resident_Evil_5",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Immortalis_MC11",
     "timestamp": 1795390806,
     "filename": "Far_Cry_3-Xiaomi-2602BPC18G-Mali-G925-Immortalis_MC11-1795390806.json"
-  },
-  {
-    "game": "ch5_pro",
-    "manufacturer": "23129RA5FL",
-    "device": "Adreno__TM__610",
-    "timestamp": 1795387118,
-    "filename": "ch5_pro-Xiaomi-23129RA5FL-Adreno__TM__610-1795387118.json"
   }
 ]
