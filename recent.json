@@ -1,5 +1,12 @@
 [
   {
+    "game": "Granny_-_Recaptured",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795523031,
+    "filename": "Granny_-_Recaptured-Xiaomi-25028RN03A-Mali-G57-1795523031.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Enhanced",
     "manufacturer": "X505F",
     "device": "Adreno__TM__504",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1795483128,
     "filename": "Mortal_Kombat_X-samsung-SM-S911B-Adreno__TM__740-1795483128.json"
-  },
-  {
-    "game": "Solitaire_Forever_II",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795482916,
-    "filename": "Solitaire_Forever_II-ZTE-5G_UG_Phone_U23-Mali-G57-1795482916.json"
   }
 ]
