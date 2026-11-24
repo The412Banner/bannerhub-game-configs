@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795541099,
+    "filename": "Pro_Evolution_Soccer_2013-realme-RMX5313-Mali-G57-1795541099.json"
+  },
+  {
     "game": "NightofRevenge",
     "manufacturer": "AYN_Thor",
     "device": "Adreno__TM__740",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795500699,
     "filename": "____2016-INFINIX-Infinix_X6837-Mali-G57_MC2-1795500699.json"
-  },
-  {
-    "game": "____2016",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795500686,
-    "filename": "____2016-INFINIX-Infinix_X6837-Mali-G57_MC2-1795500686.json"
   }
 ]
