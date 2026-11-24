@@ -1,5 +1,12 @@
 [
   {
+    "game": "Shadow_of_the_Tomb_Raider__Definitive_Edition",
+    "manufacturer": "25053PC47G",
+    "device": "Adreno__TM__825",
+    "timestamp": 1795520266,
+    "filename": "Shadow_of_the_Tomb_Raider__Definitive_Edition-Xiaomi-25053PC47G-Adreno__TM__825-1795520266.json"
+  },
+  {
     "game": "fifa14-3dm",
     "manufacturer": "Mali",
     "device": "G720_MC7",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1795473401,
     "filename": "Euro_Truck_Simulator_2-samsung-SM-M546B-Mali-G68-1795473401.json"
-  },
-  {
-    "game": "Spider-Man__Web",
-    "manufacturer": "A057M",
-    "device": "Adreno__TM__610",
-    "timestamp": 1795469169,
-    "filename": "Spider-Man__Web-samsung-SM-A057M-Adreno__TM__610-1795469169.json"
   }
 ]
