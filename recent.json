@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft__NET_Framework_4",
+    "manufacturer": "V2205",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795498791,
+    "filename": "Microsoft__NET_Framework_4-vivo-V2205-Adreno__TM__610-1795498791.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "22021211RG",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1795456346,
     "filename": "DRAGON_BALL_Sparking__ZERO-Xiaomi-25053PC47G-Adreno__TM__825-1795456346.json"
-  },
-  {
-    "game": "____2016",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795455619,
-    "filename": "____2016-INFINIX-Infinix_X6837-Mali-G57_MC2-1795455619.json"
   }
 ]
