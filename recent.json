@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "22021211RG",
+    "device": "Adreno__TM__650",
+    "timestamp": 1795497559,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22021211RG-Adreno__TM__650-1795497559.json"
+  },
+  {
     "game": "gta-4-cheats__1_",
     "manufacturer": "CPH2641",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795455619,
     "filename": "____2016-INFINIX-Infinix_X6837-Mali-G57_MC2-1795455619.json"
-  },
-  {
-    "game": "METAL_GEAR_SOLID_V__GROUND_ZEROES",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1795453312,
-    "filename": "METAL_GEAR_SOLID_V__GROUND_ZEROES-Xiaomi-2311DRK48G-Mali-G615_MC6-1795453312.json"
   }
 ]
