@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795547495,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X1101B-Mali-G57_MC2-1795547495.json"
+  },
+  {
     "game": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719",
     "manufacturer": "moto_g84_5G",
     "device": "Adreno__TM__619",
@@ -131,12 +138,5 @@
     "device": "G72",
     "timestamp": 1795501872,
     "filename": "GTA_V_Launcher-samsung-SM-A505F-Mali-G72-1795501872.json"
-  },
-  {
-    "game": "BeamNG_drive",
-    "manufacturer": "CPH2619",
-    "device": "Adreno__TM__619",
-    "timestamp": 1795501637,
-    "filename": "BeamNG_drive-OnePlus-CPH2619-Adreno__TM__619-1795501637.json"
   }
 ]
