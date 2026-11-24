@@ -1,5 +1,12 @@
 [
   {
+    "game": "ELDEN_RING_",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1795534563,
+    "filename": "ELDEN_RING_-ayn-Odin3-Adreno__TM__830-1795534563.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1795498791,
     "filename": "Microsoft__NET_Framework_4-vivo-V2205-Adreno__TM__610-1795498791.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "22021211RG",
-    "device": "Adreno__TM__650",
-    "timestamp": 1795497559,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-22021211RG-Adreno__TM__650-1795497559.json"
   }
 ]
