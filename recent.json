@@ -1,5 +1,12 @@
 [
   {
+    "game": "Devil_May_Cry_5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795512396,
+    "filename": "Devil_May_Cry_5-INFINIX-Infinix_X6882-Mali-G57_MC2-1795512396.json"
+  },
+  {
     "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__650",
     "timestamp": 1795464455,
     "filename": "Fallout__New_Vegas-Moorechip-Retroid_Pocket_5-Adreno__TM__650-1795464455.json"
-  },
-  {
-    "game": "M_U_G_E_N",
-    "manufacturer": "Mali",
-    "device": "G720_MC7",
-    "timestamp": 1795464034,
-    "filename": "M_U_G_E_N-Xiaomi-2412DPC0AG-Mali-G720_MC7-1795464034.json"
   }
 ]
