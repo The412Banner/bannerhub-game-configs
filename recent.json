@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mortal_Kombat_X",
+    "manufacturer": "Mali",
+    "device": "G610_MC6",
+    "timestamp": 1795522688,
+    "filename": "Mortal_Kombat_X-INFINIX-Infinix_X6871-Mali-G610_MC6-1795522688.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "SCG06",
     "device": "Adreno__TM__650",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1795481456,
     "filename": "V-Lover-Xiaomi-2607APCA5G-Adreno__TM__840-1795481456.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1795481201,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-M546B-Mali-G68-1795481201.json"
   }
 ]
