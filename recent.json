@@ -1,5 +1,12 @@
 [
   {
+    "game": "MONSTER_HUNTER_RISE",
+    "manufacturer": "Odin3",
+    "device": "Adreno__TM__830",
+    "timestamp": 1795535347,
+    "filename": "MONSTER_HUNTER_RISE-ayn-Odin3-Adreno__TM__830-1795535347.json"
+  },
+  {
     "game": "ELDEN_RING_",
     "manufacturer": "Odin3",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1795500355,
     "filename": "Need_for_Speed__Heat-samsung-SM-F966B-Adreno__TM__830-1795500355.json"
-  },
-  {
-    "game": "Microsoft__NET_Framework_4",
-    "manufacturer": "V2205",
-    "device": "Adreno__TM__610",
-    "timestamp": 1795498791,
-    "filename": "Microsoft__NET_Framework_4-vivo-V2205-Adreno__TM__610-1795498791.json"
   }
 ]
