@@ -3,6 +3,13 @@
     "game": "____2016",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1795500686,
+    "filename": "____2016-INFINIX-Infinix_X6837-Mali-G57_MC2-1795500686.json"
+  },
+  {
+    "game": "____2016",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1795500600,
     "filename": "____2016-INFINIX-Infinix_X6837-Mali-G57_MC2-1795500600.json"
   },
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1795458589,
     "filename": "Schedule_I-Xiaomi-2412DPC0AG-Mali-G720_MC7-1795458589.json"
-  },
-  {
-    "game": "lend_rio_PES_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795458508,
-    "filename": "lend_rio_PES_2013-motorola-moto_g23-Mali-G52_MC2-1795458508.json"
   }
 ]
