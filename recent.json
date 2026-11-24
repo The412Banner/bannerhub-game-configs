@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795563846,
+    "filename": "Red_Dead_Redemption_2-realme-RMX5377-Mali-G57-1795563846.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Redmi_Note_8",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795523031,
     "filename": "Granny_-_Recaptured-Xiaomi-25028RN03A-Mali-G57-1795523031.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Enhanced",
-    "manufacturer": "X505F",
-    "device": "Adreno__TM__504",
-    "timestamp": 1795523021,
-    "filename": "Grand_Theft_Auto_V_Enhanced-LENOVO-Lenovo_TB-X505F-Adreno__TM__504-1795523021.json"
   }
 ]
