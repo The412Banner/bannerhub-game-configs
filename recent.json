@@ -1,5 +1,12 @@
 [
   {
+    "game": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795512092,
+    "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-TECNO-TECNO_LI6-Mali-G57_MC2-1795512092.json"
+  },
+  {
     "game": "Blasphemous",
     "manufacturer": "23129RA5FL",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G720_MC7",
     "timestamp": 1795464034,
     "filename": "M_U_G_E_N-Xiaomi-2412DPC0AG-Mali-G720_MC7-1795464034.json"
-  },
-  {
-    "game": "Resident_Evil_6",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1795463822,
-    "filename": "Resident_Evil_6-INFINIX-Infinix_X6873-Mali-G615_MC6-1795463822.json"
   }
 ]
