@@ -1,5 +1,12 @@
 [
   {
+    "game": "Solitaire_Forever_II",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795482916,
+    "filename": "Solitaire_Forever_II-ZTE-5G_UG_Phone_U23-Mali-G57-1795482916.json"
+  },
+  {
     "game": "V-Lover",
     "manufacturer": "2607APCA5G",
     "device": "Adreno__TM__840",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1795451114,
     "filename": "Bully-samsung-SM-A715F-Adreno__TM__618-1795451114.json"
-  },
-  {
-    "game": "Microsoft_Visual_C___2015-2019_Redistributable__x86__-_14_25_28508",
-    "manufacturer": "A715F",
-    "device": "Adreno__TM__618",
-    "timestamp": 1795450777,
-    "filename": "Microsoft_Visual_C___2015-2019_Redistributable__x86__-_14_25_28508-samsung-SM-A715F-Adreno__TM__618-1795450777.json"
   }
 ]
