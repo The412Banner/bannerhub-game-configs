@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719",
+    "manufacturer": "moto_g84_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1795544173,
+    "filename": "Microsoft_Visual_C___v14_Redistributable__x64__-_14_50_35719-motorola-moto_g84_5G-Adreno__TM__619-1795544173.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__619",
     "timestamp": 1795501637,
     "filename": "BeamNG_drive-OnePlus-CPH2619-Adreno__TM__619-1795501637.json"
-  },
-  {
-    "game": "____2016",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795500699,
-    "filename": "____2016-INFINIX-Infinix_X6837-Mali-G57_MC2-1795500699.json"
   }
 ]
