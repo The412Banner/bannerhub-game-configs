@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Redmi_Note_8",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795560904,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-Redmi_Note_8-Adreno__TM__610-1795560904.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "G610_MC6",
     "timestamp": 1795522688,
     "filename": "Mortal_Kombat_X-INFINIX-Infinix_X6871-Mali-G610_MC6-1795522688.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "SCG06",
-    "device": "Adreno__TM__650",
-    "timestamp": 1795522583,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SCG06-Adreno__TM__650-1795522583.json"
   }
 ]
