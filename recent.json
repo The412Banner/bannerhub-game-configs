@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Enhanced",
+    "manufacturer": "X505F",
+    "device": "Adreno__TM__504",
+    "timestamp": 1795523021,
+    "filename": "Grand_Theft_Auto_V_Enhanced-LENOVO-Lenovo_TB-X505F-Adreno__TM__504-1795523021.json"
+  },
+  {
     "game": "Mortal_Kombat_X",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795482916,
     "filename": "Solitaire_Forever_II-ZTE-5G_UG_Phone_U23-Mali-G57-1795482916.json"
-  },
-  {
-    "game": "V-Lover",
-    "manufacturer": "2607APCA5G",
-    "device": "Adreno__TM__840",
-    "timestamp": 1795481456,
-    "filename": "V-Lover-Xiaomi-2607APCA5G-Adreno__TM__840-1795481456.json"
   }
 ]
