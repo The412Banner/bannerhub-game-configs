@@ -1,5 +1,12 @@
 [
   {
+    "game": "Rockstar_Games_Launcher",
+    "manufacturer": "NX1",
+    "device": "Adreno__TM__710",
+    "timestamp": 1795548051,
+    "filename": "Rockstar_Games_Launcher-HONOR-ALI-NX1-Adreno__TM__710-1795548051.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1795502310,
     "filename": "Blasphemous-Xiaomi-23129RA5FL-Adreno__TM__610-1795502310.json"
-  },
-  {
-    "game": "GTA_V_Launcher",
-    "manufacturer": "Mali",
-    "device": "G72",
-    "timestamp": 1795501872,
-    "filename": "GTA_V_Launcher-samsung-SM-A505F-Mali-G72-1795501872.json"
   }
 ]
