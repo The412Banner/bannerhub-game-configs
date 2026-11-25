@@ -1,5 +1,12 @@
 [
   {
+    "game": "Watch_Dogs_",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1795565051,
+    "filename": "Watch_Dogs_-nubia-NX789S_V1B-Adreno__TM__830-1795565051.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "Mali",
     "device": "G57",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795531460,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2430-Mali-G57-1795531460.json"
-  },
-  {
-    "game": "Granny_-_Recaptured",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795523031,
-    "filename": "Granny_-_Recaptured-Xiaomi-25028RN03A-Mali-G57-1795523031.json"
   }
 ]
