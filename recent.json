@@ -3,6 +3,13 @@
     "game": "Resident_Evil_6",
     "manufacturer": "Mali",
     "device": "G57_MC2",
+    "timestamp": 1795642375,
+    "filename": "Resident_Evil_6-samsung-SM-A165M-Mali-G57_MC2-1795642375.json"
+  },
+  {
+    "game": "Resident_Evil_6",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
     "timestamp": 1795642370,
     "filename": "Resident_Evil_6-samsung-SM-A165M-Mali-G57_MC2-1795642370.json"
   },
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__730",
     "timestamp": 1795605874,
     "filename": "BeamNG_drive-samsung-SM-S908N-Adreno__TM__730-1795605874.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795597584,
-    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6836-Mali-G52_MC2-1795597584.json"
   }
 ]
