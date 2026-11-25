@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1795568935,
+    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3269-Mali-G52-1795568935.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "NX789S_V1B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1795555508,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g23-Mali-G52_MC2-1795555508.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795552969,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g23-Mali-G52_MC2-1795552969.json"
   }
 ]
