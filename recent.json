@@ -1,5 +1,12 @@
 [
   {
+    "game": "Euro_Truck_Simulator_2",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1795644195,
+    "filename": "Euro_Truck_Simulator_2-INFINIX-Infinix_X6873-Mali-G615_MC6-1795644195.json"
+  },
+  {
     "game": "Dementium_II",
     "manufacturer": "Mali",
     "device": "G72",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795620873,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6880-Mali-G57_MC2-1795620873.json"
-  },
-  {
-    "game": "__Stronghold_Crusader",
-    "manufacturer": "Mali",
-    "device": "G68",
-    "timestamp": 1795615811,
-    "filename": "__Stronghold_Crusader-samsung-SM-A336E-Mali-G68-1795615811.json"
   }
 ]
