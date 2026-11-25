@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1795637849,
+    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1795637849.json"
+  },
+  {
     "game": "Mafia_II__Classic_",
     "manufacturer": "Mali",
     "device": "G68",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1795571328,
     "filename": "DpFileList_Generator-realme-RMX3890-Adreno__TM__610-1795571328.json"
-  },
-  {
-    "game": "The_Legend_of_Heroes__Trails_in_the_Sky",
-    "manufacturer": "Odin2_Portal",
-    "device": "Adreno__TM__740",
-    "timestamp": 1795570054,
-    "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-AYN-Odin2_Portal-Adreno__TM__740-1795570054.json"
   }
 ]
