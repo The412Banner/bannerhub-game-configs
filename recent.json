@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1795565356,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-nubia-NX789S_V1B-Adreno__TM__830-1795565356.json"
+  },
+  {
     "game": "Left_4_Dead_2",
     "manufacturer": "NX789S_V1B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795551239,
     "filename": "PlayGTAV-Xiaomi-25028PC03G-Mali-G57-1795551239.json"
-  },
-  {
-    "game": "Rockstar_Games_Launcher",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1795548051,
-    "filename": "Rockstar_Games_Launcher-HONOR-ALI-NX1-Adreno__TM__710-1795548051.json"
   }
 ]
