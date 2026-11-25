@@ -1,5 +1,12 @@
 [
   {
+    "game": "Dementium_II",
+    "manufacturer": "Mali",
+    "device": "G72",
+    "timestamp": 1795643040,
+    "filename": "Dementium_II-samsung-SM-G965N-Mali-G72-1795643040.json"
+  },
+  {
     "game": "Resident_Evil_6",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1795615811,
     "filename": "__Stronghold_Crusader-samsung-SM-A336E-Mali-G68-1795615811.json"
-  },
-  {
-    "game": "Well_Dweller",
-    "manufacturer": "2410CRP4CG",
-    "device": "Adreno__TM__732",
-    "timestamp": 1795615617,
-    "filename": "Well_Dweller-Xiaomi-2410CRP4CG-Adreno__TM__732-1795615617.json"
   }
 ]
