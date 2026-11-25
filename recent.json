@@ -1,5 +1,12 @@
 [
   {
+    "game": "BeamNG_drive",
+    "manufacturer": "S908N",
+    "device": "Adreno__TM__730",
+    "timestamp": 1795605874,
+    "filename": "BeamNG_drive-samsung-SM-S908N-Adreno__TM__730-1795605874.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G52_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1795565051,
     "filename": "Watch_Dogs_-nubia-NX789S_V1B-Adreno__TM__830-1795565051.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795563846,
-    "filename": "Red_Dead_Redemption_2-realme-RMX5377-Mali-G57-1795563846.json"
   }
 ]
