@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1795565748,
+    "filename": "Left_4_Dead_2-nubia-NX789S_V1B-Adreno__TM__830-1795565748.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "NX789S_V1B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1795552953,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g23-Mali-G52_MC2-1795552953.json"
-  },
-  {
-    "game": "PlayGTAV",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795551239,
-    "filename": "PlayGTAV-Xiaomi-25028PC03G-Mali-G57-1795551239.json"
   }
 ]
