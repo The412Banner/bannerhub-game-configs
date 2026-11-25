@@ -1,5 +1,12 @@
 [
   {
+    "game": "MoonSweepers",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1795645264,
+    "filename": "MoonSweepers-motorola-moto_g54_5G-PowerVR_B-Series_BXM-8-256-1795645264.json"
+  },
+  {
     "game": "Euro_Truck_Simulator_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795620897,
     "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6880-Mali-G57_MC2-1795620897.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795620873,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6880-Mali-G57_MC2-1795620873.json"
   }
 ]
