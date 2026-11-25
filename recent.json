@@ -1,5 +1,12 @@
 [
   {
+    "game": "Mafia_II__Classic_",
+    "manufacturer": "Mali",
+    "device": "G68",
+    "timestamp": 1795637479,
+    "filename": "Mafia_II__Classic_-samsung-SM-A546E-Mali-G68-1795637479.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__740",
     "timestamp": 1795570054,
     "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-AYN-Odin2_Portal-Adreno__TM__740-1795570054.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1795568935,
-    "filename": "Grand_Theft_Auto_V_Legacy-realme-RMX3269-Mali-G52-1795568935.json"
   }
 ]
