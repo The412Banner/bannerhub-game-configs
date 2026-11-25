@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795646600,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6885-Mali-G57_MC2-1795646600.json"
+  },
+  {
     "game": "MoonSweepers",
     "manufacturer": "8",
     "device": "256",
@@ -131,12 +138,5 @@
     "device": "G720_MC8",
     "timestamp": 1795621323,
     "filename": "NARUTO_SHIPPUDEN__Ultimate_Ninja_STORM_4-Xiaomi-2511FPC34G-Mali-G720_MC8-1795621323.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795620897,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6880-Mali-G57_MC2-1795620897.json"
   }
 ]
