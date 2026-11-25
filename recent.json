@@ -1,5 +1,12 @@
 [
   {
+    "game": "Assassin_s_Creed__IV_Black_Flag_",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1795591817,
+    "filename": "Assassin_s_Creed__IV_Black_Flag_-nubia-NX789S_V1B-Adreno__TM__830-1795591817.json"
+  },
+  {
     "game": "DpFileList_Generator",
     "manufacturer": "RMX3890",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__610",
     "timestamp": 1795560922,
     "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-Redmi_Note_8-Adreno__TM__610-1795560922.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Redmi_Note_8",
-    "device": "Adreno__TM__610",
-    "timestamp": 1795560904,
-    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-Redmi_Note_8-Adreno__TM__610-1795560904.json"
   }
 ]
