@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Legend_of_Heroes__Trails_in_the_Sky",
+    "manufacturer": "Odin2_Portal",
+    "device": "Adreno__TM__740",
+    "timestamp": 1795570054,
+    "filename": "The_Legend_of_Heroes__Trails_in_the_Sky-AYN-Odin2_Portal-Adreno__TM__740-1795570054.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1795556681,
     "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g23-Mali-G52_MC2-1795556681.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795555508,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g23-Mali-G52_MC2-1795555508.json"
   }
 ]
