@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_5",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1795723215,
+    "filename": "Resident_Evil_5-nubia-NX789S_V1B-Adreno__TM__830-1795723215.json"
+  },
+  {
     "game": "Assassin_s_Creed__IV_Black_Flag_",
     "manufacturer": "NX789S_V1B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1795677689,
     "filename": "Watch_Dogs_-nubia-NX789S_V1B-Adreno__TM__830-1795677689.json"
-  },
-  {
-    "game": "Resident_Evil_5",
-    "manufacturer": "NX789S_V1B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1795677678,
-    "filename": "Resident_Evil_5-nubia-NX789S_V1B-Adreno__TM__830-1795677678.json"
   }
 ]
