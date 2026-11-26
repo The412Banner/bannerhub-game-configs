@@ -1,5 +1,12 @@
 [
   {
+    "game": "Pro_Evolution_Soccer_2013",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1795723280,
+    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1795723280.json"
+  },
+  {
     "game": "Subnautica",
     "manufacturer": "NX789S_V1B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795686422,
     "filename": "NARUTO_SHIPPUDEN__UlTIMATE_NINJA_STORM_EVOLUTION_-TECNO-TECNO_KJ6-Mali-G57_MC2-1795686422.json"
-  },
-  {
-    "game": "EA_SPORTS_FC_27",
-    "manufacturer": "NX809J",
-    "device": "Adreno__TM__840",
-    "timestamp": 1795680761,
-    "filename": "EA_SPORTS_FC_27-nubia-NX809J-Adreno__TM__840-1795680761.json"
   }
 ]
