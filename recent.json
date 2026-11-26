@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP_08",
+    "manufacturer": "Mali",
+    "device": "G610_MC2",
+    "timestamp": 1795697194,
+    "filename": "MotoGP_08-INFINIX-Infinix_X6887-Mali-G610_MC2-1795697194.json"
+  },
+  {
     "game": "Pro_Evolution_Soccer_2013",
     "manufacturer": "220333QNY",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1795677550,
     "filename": "Left_4_Dead_2-nubia-NX789S_V1B-Adreno__TM__830-1795677550.json"
-  },
-  {
-    "game": "Launcher",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795674787,
-    "filename": "Launcher-samsung-SM-A075F-Mali-G57_MC2-1795674787.json"
   }
 ]
