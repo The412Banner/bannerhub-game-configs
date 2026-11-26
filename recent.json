@@ -2,6 +2,13 @@
   {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795728645,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6837-Mali-G57_MC2-1795728645.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
     "device": "G52_MC2",
     "timestamp": 1795727110,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KI7-Mali-G52_MC2-1795727110.json"
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1795718130,
     "filename": "Left_4_Dead_2-nubia-NX789S_V1B-Adreno__TM__830-1795718130.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "NX789S_V1B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1795717705,
-    "filename": "Left_4_Dead_2-nubia-NX789S_V1B-Adreno__TM__830-1795717705.json"
   }
 ]
