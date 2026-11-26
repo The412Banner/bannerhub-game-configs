@@ -1,5 +1,12 @@
 [
   {
+    "game": "EA_SPORTS_FC_27",
+    "manufacturer": "NX809J",
+    "device": "Adreno__TM__840",
+    "timestamp": 1795680761,
+    "filename": "EA_SPORTS_FC_27-nubia-NX809J-Adreno__TM__840-1795680761.json"
+  },
+  {
     "game": "DRAGON_BALL__Sparking__ZERO",
     "manufacturer": "Mali",
     "device": "G615_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1795664327,
     "filename": "Left_4_Dead_2-nubia-NX789S_V1B-Adreno__TM__830-1795664327.json"
-  },
-  {
-    "game": "TruckDriver",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1795662961,
-    "filename": "TruckDriver-samsung-SM-A127M-Mali-G52-1795662961.json"
   }
 ]
