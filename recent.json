@@ -1,5 +1,12 @@
 [
   {
+    "game": "DRAGON_BALL__Sparking__ZERO",
+    "manufacturer": "Mali",
+    "device": "G615_MC2",
+    "timestamp": 1795679468,
+    "filename": "DRAGON_BALL__Sparking__ZERO-motorola-moto_g86_5G-Mali-G615_MC2-1795679468.json"
+  },
+  {
     "game": "Launcher_Sword_and_Fairy_7",
     "manufacturer": "I2218",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G52",
     "timestamp": 1795662961,
     "filename": "TruckDriver-samsung-SM-A127M-Mali-G52-1795662961.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_IV_Browser",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795661042,
-    "filename": "Grand_Theft_Auto_IV_Browser-INFINIX-Infinix_X6525-Mali-G57-1795661042.json"
   }
 ]
