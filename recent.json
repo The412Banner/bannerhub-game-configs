@@ -1,5 +1,12 @@
 [
   {
+    "game": "Left_4_Dead_2",
+    "manufacturer": "NX789S_V1B",
+    "device": "Adreno__TM__830",
+    "timestamp": 1795664327,
+    "filename": "Left_4_Dead_2-nubia-NX789S_V1B-Adreno__TM__830-1795664327.json"
+  },
+  {
     "game": "TruckDriver",
     "manufacturer": "Mali",
     "device": "G52",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795636296,
     "filename": "____2016-INFINIX-Infinix_X6837-Mali-G57_MC2-1795636296.json"
-  },
-  {
-    "game": "Euro_Truck_Simulator_2",
-    "manufacturer": "A276B",
-    "device": "Adreno__TM__710",
-    "timestamp": 1795635364,
-    "filename": "Euro_Truck_Simulator_2-samsung-SM-A276B-Adreno__TM__710-1795635364.json"
   }
 ]
