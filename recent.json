@@ -1,5 +1,12 @@
 [
   {
+    "game": "Auto_Lossless_Scaling",
+    "manufacturer": "CPH2179",
+    "device": "PowerVR_Rogue_GE8320",
+    "timestamp": 1795729065,
+    "filename": "Auto_Lossless_Scaling-OPPO-CPH2179-PowerVR_Rogue_GE8320-1795729065.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1795718932,
     "filename": "Resident_Evil_5-nubia-NX789S_V1B-Adreno__TM__830-1795718932.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "NX789S_V1B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1795718130,
-    "filename": "Left_4_Dead_2-nubia-NX789S_V1B-Adreno__TM__830-1795718130.json"
   }
 ]
