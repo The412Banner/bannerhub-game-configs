@@ -1,5 +1,12 @@
 [
   {
+    "game": "Launcher",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795674787,
+    "filename": "Launcher-samsung-SM-A075F-Mali-G57_MC2-1795674787.json"
+  },
+  {
     "game": "___________________________Windows",
     "manufacturer": "V2154",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G68",
     "timestamp": 1795637479,
     "filename": "Mafia_II__Classic_-samsung-SM-A546E-Mali-G68-1795637479.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52",
-    "timestamp": 1795637264,
-    "filename": "Pro_Evolution_Soccer_2013-samsung-SM-A145M-Mali-G52-1795637264.json"
   }
 ]
