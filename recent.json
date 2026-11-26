@@ -1,5 +1,12 @@
 [
   {
+    "game": "The_Witcher_3__Wild_Hunt",
+    "manufacturer": "23113RKC6G",
+    "device": "Adreno__TM__740",
+    "timestamp": 1795714592,
+    "filename": "The_Witcher_3__Wild_Hunt-Xiaomi-23113RKC6G-Adreno__TM__740-1795714592.json"
+  },
+  {
     "game": "Resident_Evil_4",
     "manufacturer": "S938B",
     "device": "Adreno__TM__830",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1795677589,
     "filename": "Subnautica-nubia-NX789S_V1B-Adreno__TM__830-1795677589.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "NX789S_V1B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1795677583,
-    "filename": "Resident_Evil_2-nubia-NX789S_V1B-Adreno__TM__830-1795677583.json"
   }
 ]
