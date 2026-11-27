@@ -1,6 +1,13 @@
 [
   {
     "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795818190,
+    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A075F-Mali-G57_MC2-1795818190.json"
+  },
+  {
+    "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "25053PC47G",
     "device": "Adreno__TM__825",
     "timestamp": 1795813396,
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1795771683,
     "filename": "Crysis__3-INFINIX-Infinix_X6873-Mali-G615_MC6-1795771683.json"
-  },
-  {
-    "game": "Crysis__3",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1795771677,
-    "filename": "Crysis__3-INFINIX-Infinix_X6873-Mali-G615_MC6-1795771677.json"
   }
 ]
