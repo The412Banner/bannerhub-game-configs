@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G57",
+    "timestamp": 1795765259,
+    "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2430-Mali-G57-1795765259.json"
+  },
+  {
     "game": "gow3-gpu-capabilities",
     "manufacturer": "RMX5566",
     "device": "Adreno__TM__610",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1795727110,
     "filename": "Grand_Theft_Auto_V_Legacy-TECNO-TECNO_KI7-Mali-G52_MC2-1795727110.json"
-  },
-  {
-    "game": "Dead_Space__",
-    "manufacturer": "25053PC47G",
-    "device": "Adreno__TM__825",
-    "timestamp": 1795726233,
-    "filename": "Dead_Space__-Xiaomi-25053PC47G-Adreno__TM__825-1795726233.json"
   }
 ]
