@@ -1,5 +1,12 @@
 [
   {
+    "game": "Lords_Of_The_Fallen__2014",
+    "manufacturer": "moto_g34_5G",
+    "device": "Adreno__TM__619",
+    "timestamp": 1795794433,
+    "filename": "Lords_Of_The_Fallen__2014-motorola-moto_g34_5G-Adreno__TM__619-1795794433.json"
+  },
+  {
     "game": "PUBG__Test_Server",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G51",
     "timestamp": 1795759786,
     "filename": "Red_Dead_Redemption_2-HUAWEI-STK-L21-Mali-G51-1795759786.json"
-  },
-  {
-    "game": "Red_Dead_Redemption_2",
-    "manufacturer": "Mali",
-    "device": "G51",
-    "timestamp": 1795759765,
-    "filename": "Red_Dead_Redemption_2-HUAWEI-STK-L21-Mali-G51-1795759765.json"
   }
 ]
