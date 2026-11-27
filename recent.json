@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "CPH2641",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795775770,
+    "filename": "Grand_Theft_Auto_V_Legacy-OPPO-CPH2641-Adreno__TM__610-1795775770.json"
+  },
+  {
     "game": "Battlefield__Bad_Company_2_Vietnam",
     "manufacturer": "M2007J20CG",
     "device": "Adreno__TM__618",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795749445,
     "filename": "gta_5-TECNO-TECNO_LJ6-Mali-G57_MC2-1795749445.json"
-  },
-  {
-    "game": "The_Glitched_Attraction",
-    "manufacturer": "Mali",
-    "device": "G68_MC4",
-    "timestamp": 1795746928,
-    "filename": "The_Glitched_Attraction-OPPO-CPH2599-Mali-G68_MC4-1795746928.json"
   }
 ]
