@@ -1,5 +1,12 @@
 [
   {
+    "game": "Windows_2020_exe________________________________________________",
+    "manufacturer": "V2154",
+    "device": "Adreno__TM__610",
+    "timestamp": 1795785843,
+    "filename": "Windows_2020_exe________________________________________________-vivo-V2154-Adreno__TM__610-1795785843.json"
+  },
+  {
     "game": "Resident_Evil_2",
     "manufacturer": "NX9",
     "device": "Adreno__TM__720",
@@ -131,12 +138,5 @@
     "device": "G52_MC2",
     "timestamp": 1795751459,
     "filename": "MotoGP_26-Xiaomi-23108RN04Y-Mali-G52_MC2-1795751459.json"
-  },
-  {
-    "game": "Counter-Strike_2",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1795751074,
-    "filename": "Counter-Strike_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1795751074.json"
   }
 ]
