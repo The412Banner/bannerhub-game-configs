@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "8",
+    "device": "256",
+    "timestamp": 1795745708,
+    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1795745708.json"
+  },
+  {
     "game": "OpenIV",
     "manufacturer": "NX769J",
     "device": "Adreno__TM__750",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1795723258,
     "filename": "Subnautica-nubia-NX789S_V1B-Adreno__TM__830-1795723258.json"
-  },
-  {
-    "game": "Resident_Evil_2",
-    "manufacturer": "NX789S_V1B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1795723245,
-    "filename": "Resident_Evil_2-nubia-NX789S_V1B-Adreno__TM__830-1795723245.json"
   }
 ]
