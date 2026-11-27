@@ -1,5 +1,12 @@
 [
   {
+    "game": "God_of_War",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1795771044,
+    "filename": "God_of_War-TECNO-TECNO_LJ9-Mali-G615_MC6-1795771044.json"
+  },
+  {
     "game": "Python",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__840",
     "timestamp": 1795729250,
     "filename": "Guzno-nubia-NX741J-Adreno__TM__840-1795729250.json"
-  },
-  {
-    "game": "Auto_Lossless_Scaling",
-    "manufacturer": "CPH2179",
-    "device": "PowerVR_Rogue_GE8320",
-    "timestamp": 1795729065,
-    "filename": "Auto_Lossless_Scaling-OPPO-CPH2179-PowerVR_Rogue_GE8320-1795729065.json"
   }
 ]
