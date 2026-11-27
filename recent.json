@@ -1,5 +1,12 @@
 [
   {
+    "game": "Red_Dead_Redemption_2",
+    "manufacturer": "Mali",
+    "device": "G51",
+    "timestamp": 1795759765,
+    "filename": "Red_Dead_Redemption_2-HUAWEI-STK-L21-Mali-G51-1795759765.json"
+  },
+  {
     "game": "Call_of_Duty_R___Black_Ops_II",
     "manufacturer": "Mali",
     "device": "G610_MC6",
@@ -131,12 +138,5 @@
     "device": "PowerVR_Rogue_GE8320",
     "timestamp": 1795725798,
     "filename": "gow3-windows_Play_God_of_War_III-OPPO-CPH2179-PowerVR_Rogue_GE8320-1795725798.json"
-  },
-  {
-    "game": "Watch_Dogs_",
-    "manufacturer": "NX789S_V1B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1795724006,
-    "filename": "Watch_Dogs_-nubia-NX789S_V1B-Adreno__TM__830-1795724006.json"
   }
 ]
