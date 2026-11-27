@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_R__DirectX_for_Windows_R_",
+    "manufacturer": "Mali",
+    "device": "G52",
+    "timestamp": 1795812687,
+    "filename": "Microsoft_R__DirectX_for_Windows_R_-Xiaomi-220333QPG-Mali-G52-1795812687.json"
+  },
+  {
     "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1795771044,
     "filename": "God_of_War-TECNO-TECNO_LJ9-Mali-G615_MC6-1795771044.json"
-  },
-  {
-    "game": "Python",
-    "manufacturer": "Mali",
-    "device": "G615_MC6",
-    "timestamp": 1795770798,
-    "filename": "Python-TECNO-TECNO_LJ9-Mali-G615_MC6-1795770798.json"
   }
 ]
