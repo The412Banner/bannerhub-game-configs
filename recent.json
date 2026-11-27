@@ -1,5 +1,12 @@
 [
   {
+    "game": "Batman__Arkham_Asylum_Game_of_the_Year_Edition",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795811045,
+    "filename": "Batman__Arkham_Asylum_Game_of_the_Year_Edition-INFINIX-Infinix_X670-Mali-G57_MC2-1795811045.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1795770798,
     "filename": "Python-TECNO-TECNO_LJ9-Mali-G615_MC6-1795770798.json"
-  },
-  {
-    "game": "GTA_V_Launcher",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795765305,
-    "filename": "GTA_V_Launcher-vivo-V2430-Mali-G57-1795765305.json"
   }
 ]
