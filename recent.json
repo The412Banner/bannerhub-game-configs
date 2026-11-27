@@ -1,5 +1,12 @@
 [
   {
+    "game": "Resident_Evil_2",
+    "manufacturer": "NX9",
+    "device": "Adreno__TM__720",
+    "timestamp": 1795784950,
+    "filename": "Resident_Evil_2-HONOR-DNY-NX9-Adreno__TM__720-1795784950.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G615_MC6",
     "timestamp": 1795751074,
     "filename": "Counter-Strike_2-Xiaomi-2311DRK48G-Mali-G615_MC6-1795751074.json"
-  },
-  {
-    "game": "gta_5",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795749961,
-    "filename": "gta_5-TECNO-TECNO_LJ6-Mali-G57_MC2-1795749961.json"
   }
 ]
