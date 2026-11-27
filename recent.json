@@ -1,5 +1,12 @@
 [
   {
+    "game": "MotoGP_26",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1795751459,
+    "filename": "MotoGP_26-Xiaomi-23108RN04Y-Mali-G52_MC2-1795751459.json"
+  },
+  {
     "game": "Counter-Strike_2",
     "manufacturer": "Mali",
     "device": "G615_MC6",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1795723382,
     "filename": "Tomb_Raider-nubia-NX789S_V1B-Adreno__TM__830-1795723382.json"
-  },
-  {
-    "game": "Left_4_Dead_2",
-    "manufacturer": "NX789S_V1B",
-    "device": "Adreno__TM__830",
-    "timestamp": 1795723310,
-    "filename": "Left_4_Dead_2-nubia-NX789S_V1B-Adreno__TM__830-1795723310.json"
   }
 ]
