@@ -1,5 +1,12 @@
 [
   {
+    "game": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719",
+    "manufacturer": "Mali",
+    "device": "G52_MC2",
+    "timestamp": 1795762047,
+    "filename": "Microsoft_Visual_C___v14_Redistributable__x86__-_14_50_35719-samsung-SM-A325F-Mali-G52_MC2-1795762047.json"
+  },
+  {
     "game": "Red_Dead_Redemption_2",
     "manufacturer": "Mali",
     "device": "G51",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__825",
     "timestamp": 1795726205,
     "filename": "Dead_Space__-Xiaomi-25053PC47G-Adreno__TM__825-1795726205.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795725860,
-    "filename": "Grand_Theft_Auto_V_Legacy-samsung-SM-A065M-Mali-G52_MC2-1795725860.json"
   }
 ]
