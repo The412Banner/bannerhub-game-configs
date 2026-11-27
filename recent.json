@@ -1,5 +1,12 @@
 [
   {
+    "game": "Battlefield__Bad_Company_2_Vietnam",
+    "manufacturer": "M2007J20CG",
+    "device": "Adreno__TM__618",
+    "timestamp": 1795775528,
+    "filename": "Battlefield__Bad_Company_2_Vietnam-Xiaomi-M2007J20CG-Adreno__TM__618-1795775528.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G68_MC4",
     "timestamp": 1795746928,
     "filename": "The_Glitched_Attraction-OPPO-CPH2599-Mali-G68_MC4-1795746928.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "8",
-    "device": "256",
-    "timestamp": 1795745708,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6852-PowerVR_B-Series_BXM-8-256-1795745708.json"
   }
 ]
