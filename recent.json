@@ -1,5 +1,12 @@
 [
   {
+    "game": "gta_5",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795749445,
+    "filename": "gta_5-TECNO-TECNO_LJ6-Mali-G57_MC2-1795749445.json"
+  },
+  {
     "game": "The_Glitched_Attraction",
     "manufacturer": "Mali",
     "device": "G68_MC4",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__830",
     "timestamp": 1795723291,
     "filename": "Watch_Dogs_-nubia-NX789S_V1B-Adreno__TM__830-1795723291.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G52_MC2",
-    "timestamp": 1795723280,
-    "filename": "Pro_Evolution_Soccer_2013-motorola-moto_g05-Mali-G52_MC2-1795723280.json"
   }
 ]
