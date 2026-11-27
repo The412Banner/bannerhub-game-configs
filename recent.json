@@ -1,5 +1,12 @@
 [
   {
+    "game": "BootstrapPackagedGame",
+    "manufacturer": "Mali",
+    "device": "G615_MC6",
+    "timestamp": 1795808270,
+    "filename": "BootstrapPackagedGame-Xiaomi-2311DRK48G-Mali-G615_MC6-1795808270.json"
+  },
+  {
     "game": "gta_sa",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "G57",
     "timestamp": 1795765259,
     "filename": "Grand_Theft_Auto_V_Legacy-vivo-V2430-Mali-G57-1795765259.json"
-  },
-  {
-    "game": "gow3-gpu-capabilities",
-    "manufacturer": "RMX5566",
-    "device": "Adreno__TM__610",
-    "timestamp": 1795764583,
-    "filename": "gow3-gpu-capabilities-realme-RMX5566-Adreno__TM__610-1795764583.json"
   }
 ]
