@@ -1,5 +1,12 @@
 [
   {
+    "game": "Grand_Theft_Auto_V_Legacy",
+    "manufacturer": "Mali",
+    "device": "G720_MC7",
+    "timestamp": 1795853643,
+    "filename": "Grand_Theft_Auto_V_Legacy-Xiaomi-2412DPC0AG-Mali-G720_MC7-1795853643.json"
+  },
+  {
     "game": "God_of_War_II_www_wifi4games_com_",
     "manufacturer": "NX1",
     "device": "Adreno__TM__710",
@@ -131,12 +138,5 @@
     "device": "G57_MC2",
     "timestamp": 1795801638,
     "filename": "gta_sa-Xiaomi-23117RA68G-Mali-G57_MC2-1795801638.json"
-  },
-  {
-    "game": "Pro_Evolution_Soccer_2013",
-    "manufacturer": "Mali",
-    "device": "G57",
-    "timestamp": 1795799570,
-    "filename": "Pro_Evolution_Soccer_2013-realme-RMX3830-Mali-G57-1795799570.json"
   }
 ]
