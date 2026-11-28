@@ -1,5 +1,12 @@
 [
   {
+    "game": "Sniper_Elite",
+    "manufacturer": "A566E",
+    "device": "ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_",
+    "timestamp": 1795827397,
+    "filename": "Sniper_Elite-samsung-SM-A566E-ANGLE___Samsung_Xclipse_540__on_Vulkan_1_3_304_-1795827397.json"
+  },
+  {
     "game": "RomStation__________________________________________________",
     "manufacturer": "F907B",
     "device": "Adreno__TM__640",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__618",
     "timestamp": 1795775528,
     "filename": "Battlefield__Bad_Company_2_Vietnam-Xiaomi-M2007J20CG-Adreno__TM__618-1795775528.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "Mali",
-    "device": "G57_MC2",
-    "timestamp": 1795772397,
-    "filename": "Grand_Theft_Auto_V_Legacy-INFINIX-Infinix_X6882-Mali-G57_MC2-1795772397.json"
   }
 ]
