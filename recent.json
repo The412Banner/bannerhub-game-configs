@@ -1,5 +1,12 @@
 [
   {
+    "game": "BeamNG_drive",
+    "manufacturer": "Mali",
+    "device": "G57_MC2",
+    "timestamp": 1795829084,
+    "filename": "BeamNG_drive-TECNO-TECNO_CM5-Mali-G57_MC2-1795829084.json"
+  },
+  {
     "game": "Grand_Theft_Auto_V_Legacy",
     "manufacturer": "Mali",
     "device": "G57_MC2",
@@ -131,12 +138,5 @@
     "device": "Adreno__TM__720",
     "timestamp": 1795784950,
     "filename": "Resident_Evil_2-HONOR-DNY-NX9-Adreno__TM__720-1795784950.json"
-  },
-  {
-    "game": "Grand_Theft_Auto_V_Legacy",
-    "manufacturer": "NX1",
-    "device": "Adreno__TM__710",
-    "timestamp": 1795776609,
-    "filename": "Grand_Theft_Auto_V_Legacy-HONOR-ALI-NX1-Adreno__TM__710-1795776609.json"
   }
 ]
